@@ -15,7 +15,11 @@ from fastapi.responses import PlainTextResponse
 from fastapi import FastAPI
 from fastapi import Body
 from fastapi import HTTPException
+from pathlib import Path
 
+# Usamos Pathlib que es más moderno y amigable con Vercel
+# .parent.parent sube dos niveles desde api/index.py para llegar a la raíz
+ROOT_PATH = Path(__file__).parent.parent
 sys.path.append(os.path.dirname(__file__))
 
 # Imports relativos corregidos
@@ -42,6 +46,12 @@ store = DataStore(DATA_REPO_DIR, KOM_DIR)
 agent = LegislativeAgent(store, GEMINI_API_KEY)
 
 app = FastAPI(title="Observatorio Politico API", version="0.2")
+
+from fastapi.staticfiles import StaticFiles
+
+# Esto le dice a FastAPI: "Si alguien pide algo que no es una ruta de API, 
+# búscalo en la carpeta public"
+app.mount("/public", StaticFiles(directory=str(ROOT_PATH / "public")), name="public")
 
 # CORS (frontend served from same origin usually; keep permissive for dev)
 app.add_middleware(
@@ -100,24 +110,38 @@ def health():
 
 @app.get("/")
 async def read_index():
-    # Construimos la ruta completa al archivo
-    index_path = os.path.join(BASE_DIR, 'public', 'index.html')
+    # Intentar ruta 1: carpeta public
+    path1 = os.path.join(BASE_DIR, 'public', 'index.html')
+    # Intentar ruta 2: raíz del proyecto
+    path2 = os.path.join(BASE_DIR, 'index.html')
     
-    # Verificamos si existe antes de enviarlo (para evitar el error 500)
-    if not os.path.exists(index_path):
-        return {"error": f"No encontré el index.html en {index_path}"}
+    if os.path.exists(path1):
+        return FileResponse(path1)
+    elif os.path.exists(path2):
+        return FileResponse(path2)
+    else:
+        # Si no está en ninguna, listamos qué hay en la raíz para saber la verdad
+        files = os.listdir(BASE_DIR)
+        return {"error": "No encontré index.html", "visto_en": [path1, path2], "archivos_raiz": files}
+    
+@app.get("/")
+async def read_index():
+    # Buscamos el archivo usando la ruta absoluta calculada
+    index_path = ROOT_PATH / "public" / "index.html"
+    
+    if index_path.exists():
+        return FileResponse(str(index_path))
+    
+    # Si falla, buscamos en la carpeta actual por si acaso
+    fallback_path = Path("/var/task/public/index.html")
+    if fallback_path.exists():
+        return FileResponse(str(fallback_path))
         
-    return FileResponse(index_path)
-
-@app.get("/api/health")
-def health():
     return {
-        "success": True,
-        "data_repo_dir": store.data_repo_dir,
-        "kom_dir": store.kom_dir,
-        "gemini_configured": bool(GEMINI_API_KEY),
+        "error": "Archivo no encontrado",
+        "buscado_en": str(index_path),
+        "existe_raiz": os.path.exists("/var/task")
     }
-
 
 @app.get("/api/commissions")
 def commissions(group: str = "Permanentes", q: str = ""):
