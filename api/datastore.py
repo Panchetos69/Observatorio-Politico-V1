@@ -126,7 +126,14 @@ class DataStore:
 
         qn = (q or "").strip().lower()
         out: List[dict] = []
-        for name in sorted(os.listdir(group_dir)):
+        
+        # Listamos carpetas y aseguramos que existe
+        try:
+            items = sorted(os.listdir(group_dir))
+        except Exception:
+            return []
+
+        for name in items:
             full = os.path.join(group_dir, name)
             if not os.path.isdir(full):
                 continue
@@ -154,6 +161,14 @@ class DataStore:
 
         sessions: List[dict] = []
         years_set = set()
+
+        # --- FIX IMPORTANTE: Asegurar que el año actual (2026) exista ---
+        # Esto evita que la web falle si no hay sesiones registradas este año aún.
+        try:
+            years_set.add(datetime.now().year)
+        except:
+            pass # Si falla datetime por alguna razón, seguimos
+        # ----------------------------------------------------------------
 
         for r in rows:
             año_raw = (r.get("Año") or r.get("año") or r.get("Ano") or r.get("ano") or "").strip()
@@ -196,13 +211,16 @@ class DataStore:
                 )
 
         years = sorted(years_set, reverse=True)
+        # Usamos la clave como string para compatibilidad con JSON
         by_year: Dict[str, List[dict]] = {str(y): [] for y in years}
 
         for s in sessions:
             y = s.get("anio")
+            # Intentamos insertar usando el entero convertido a string
             if isinstance(y, int) and str(y) in by_year:
                 by_year[str(y)].append(s)
             else:
+                # Fallback por si el año vino como texto
                 y2 = (s.get("Año") or "").strip()
                 if y2.isdigit() and y2 in by_year:
                     by_year[y2].append(s)
@@ -464,13 +482,6 @@ class DataStore:
     def activity_feed(self, group: str = "", status: str = "", q: str = "", chamber: str = "", days_back: int = 90) -> List[dict]:
         """
         Retorna actividad legislativa reciente
-        
-        Args:
-            group: Filtrar por grupo de comisión
-            status: Filtrar por estado (CITADA, CELEBRADA, etc)
-            q: Búsqueda de texto en nombre de comisión
-            chamber: Filtrar por cámara
-            days_back: Número de días hacia atrás (default: 90 días = ~3 meses)
         """
         groups = [group] if group else ["Permanentes", "Otras", "Unidas"]
         status_n = (status or "").strip().lower()
@@ -518,7 +529,6 @@ class DataStore:
                             year_match = re.search(r'\b(20\d{2})\b', fecha)
                             if year_match:
                                 year = int(year_match.group(1))
-                                # Si el año es muy antiguo, skip
                                 if year < fecha_limite.year:
                                     continue
                     
@@ -558,16 +568,8 @@ class DataStore:
         
         print(f"[activity_feed] Retornando {len(items)} items recientes (últimos {days_back} días)")
         return items
-        def _txt_path(data_repo_dir, group, commission, session_id):
-            return os.path.join(data_repo_dir, group, commission, f"{session_id}.txt")
 
-        # dentro del loop de sesiones:
-        sid = str(row["id"])  # o como venga tu id
-        txt_file = _txt_path(self.data_repo_dir, group, commission_name, sid)
-
-        session_obj["has_txt"] = os.path.exists(txt_file)
-        session_obj["txt_url"] = f"/api/session_txt?group={group}&commission={commission_name}&session_id={sid}" if session_obj["has_txt"] else None
-            # -----------------------------
+    # -----------------------------
     # Búsqueda de texto - MEJORADO
     # -----------------------------
     def search_texts(self, query: str, top_k: int = 10) -> List[dict]:
