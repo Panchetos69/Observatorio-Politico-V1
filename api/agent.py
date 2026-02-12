@@ -1,7 +1,8 @@
+import sys
 import os
 import google.generativeai as genai
 import urllib.parse
-import os
+
 
 def short_label(path: str, store) -> str:
     for base in [store.data_repo_dir, store.kom_dir]:
