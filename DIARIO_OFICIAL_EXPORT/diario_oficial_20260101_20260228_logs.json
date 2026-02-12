@@ -334,5 +334,11 @@
     "status": "OK",
     "ediciones": 1,
     "items": 30
+  },
+  {
+    "fecha": "12-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 29
   }
 ]
