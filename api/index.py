@@ -23,7 +23,7 @@ from datastore import DataStore
 from agent import LegislativeAgent
 
 # ---------------- config ----------------
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJECT_DIR = os.path.abspath(os.path.join(BASE_DIR, ".."))
 
 # Load environment variables
@@ -100,8 +100,14 @@ def health():
 
 @app.get("/")
 async def read_index():
-    # Ajusta la ruta según dónde esté tu archivo (ejemplo: en una carpeta 'public')
-    return FileResponse('public/index.html')
+    # Construimos la ruta completa al archivo
+    index_path = os.path.join(BASE_DIR, 'public', 'index.html')
+    
+    # Verificamos si existe antes de enviarlo (para evitar el error 500)
+    if not os.path.exists(index_path):
+        return {"error": f"No encontré el index.html en {index_path}"}
+        
+    return FileResponse(index_path)
 
 @app.get("/api/health")
 def health():
