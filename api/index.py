@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import os
+import sys
 from datetime import datetime
 from typing import Any, Dict
 
@@ -15,6 +16,7 @@ from fastapi import FastAPI
 from fastapi import Body
 from fastapi import HTTPException
 
+sys.path.append(os.path.dirname(__file__))
 
 # Imports relativos corregidos
 from datastore import DataStore
