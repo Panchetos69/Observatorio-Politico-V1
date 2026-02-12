@@ -17,8 +17,8 @@ from fastapi import HTTPException
 
 
 # Imports relativos corregidos
-from .datastore import DataStore
-from .agent import LegislativeAgent
+import datastore
+import agent
 
 # ---------------- config ----------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -36,8 +36,8 @@ KOM_DIR = os.getenv("KOM_DIR") or os.path.join(PROJECT_DIR, "KOM")
 PUBLIC_DIR = os.path.join(PROJECT_DIR, "public")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 
-store = DataStore(DATA_REPO_DIR, KOM_DIR)
-agent = LegislativeAgent(store, GEMINI_API_KEY)
+store = datastore(DATA_REPO_DIR, KOM_DIR)
+agent = agent(store, GEMINI_API_KEY)
 
 app = FastAPI(title="Observatorio Politico API", version="0.2")
 

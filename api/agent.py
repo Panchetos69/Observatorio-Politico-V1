@@ -1,5 +1,5 @@
 import os
-from google import genai
+import google.generativeai as genai
 import urllib.parse
 import os
 
