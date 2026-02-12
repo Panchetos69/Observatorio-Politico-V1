@@ -770,7 +770,7 @@
     const group = $("groupSelect").value || "Permanentes";
     currentGroup = group;
     const data = await apiGet(`/api/commissions?group=${encodeURIComponent(group)}&q=${encodeURIComponent(q)}`);
-    const items = data.commissions || [];
+    const items = data.items || [];
     $("commissionsHint").textContent = `${items.length} comisión(es) en ${group}`;
     renderCommissions(items);
   }
