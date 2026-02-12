@@ -1,12 +1,7 @@
 {
-  "functions": {
-    "api/index.py": {
-      "runtime": "python3.11"
-    }
-  },
-  "routes": [
-    { "src": "/api/(.*)", "dest": "/api/index.py" },
-    { "src": "/(.*)", "dest": "/public/$1" },
-    { "src": "/", "dest": "/public/chat.html" }
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/index.py" },
+    { "source": "/", "destination": "/public/chat.html" },
+    { "source": "/(.*)", "destination": "/public/$1" }
   ]
 }
