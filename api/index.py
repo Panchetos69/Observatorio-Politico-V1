@@ -99,13 +99,9 @@ def health():
     return {"ok": True}
 
 @app.get("/")
-def root():
-    """Redirect to index.html"""
-    index_path = os.path.join(PUBLIC_DIR, "index.html")
-    if os.path.exists(index_path):
-        return FileResponse(index_path)
-    return {"message": "Observatorio Político API", "version": "0.2"}
-
+async def read_index():
+    # Ajusta la ruta según dónde esté tu archivo (ejemplo: en una carpeta 'public')
+    return FileResponse('public/index.html')
 
 @app.get("/api/health")
 def health():
