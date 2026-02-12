@@ -1,0 +1,1239 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Observatorio Político Chile</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+    body { font-family: 'Inter', sans-serif; }
+    .gradient-bg { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+    .gradient-text {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+    }
+    .card-hover { transition: all 0.3s ease; }
+    .card-hover:hover { transform: translateY(-3px); box-shadow: 0 20px 40px rgba(0,0,0,0.08); }
+    .fade-in { animation: fadeIn 0.35s ease-in; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(12px);} to {opacity:1; transform: translateY(0);} }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+    
+    /* Modal styles */
+    .modal-overlay {
+      background: rgba(0, 0, 0, 0.5);
+      backdrop-filter: blur(4px);
+    }
+  </style>
+</head>
+
+<body class="bg-gray-50">
+
+<!-- ===== Landing ===== -->
+<div id="landingPage">
+  <nav class="bg-white shadow-sm fixed w-full z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-center h-16">
+        <div class="flex items-center">
+          <div class="w-10 h-10 gradient-bg rounded-lg flex items-center justify-center">
+            <span class="text-white font-bold text-xl">OP</span>
+          </div>
+          <span class="ml-3 text-xl font-bold text-gray-900">Observatorio Político</span>
+        </div>
+        <button id="goDashboardBtn" class="gradient-bg text-white px-6 py-2 rounded-lg font-semibold hover:opacity-90 transition">
+          Entrar al Dashboard
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <section class="pt-32 pb-20 px-4">
+    <div class="max-w-7xl mx-auto text-center">
+      <h1 class="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
+        Inteligencia Política al <span class="gradient-text">Alcance de Todos</span>
+      </h1>
+      <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
+        Comisiones, actividad, perfiles y un chat (RAG) basado en tus archivos locales.
+      </p>
+      <div class="flex gap-4 justify-center flex-wrap">
+        <button id="goDashboardBtn2" class="gradient-bg text-white px-8 py-4 rounded-lg font-semibold text-lg hover:opacity-90 transition">
+          Abrir Dashboard
+        </button>
+        <a href="#features" class="bg-white text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg border-2 border-gray-200 hover:border-gray-300 transition">
+          Conocer Más
+        </a>
+      </div>
+      <div class="mt-6 text-sm text-gray-500">
+        Backend: <span class="mono" id="backendOrigin"></span> · Health: <span class="mono" id="healthBadge">—</span>
+      </div>
+    </div>
+  </section>
+
+  <section id="features" class="py-20 bg-white">
+    <div class="max-w-7xl mx-auto px-4">
+      <h2 class="text-4xl font-bold text-center mb-4">¿Qué Ofrecemos?</h2>
+      <p class="text-gray-600 text-center mb-16 text-lg">Herramientas para análisis legislativo</p>
+
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div class="card-hover bg-gray-50 p-8 rounded-xl">
+          <div class="w-14 h-14 gradient-bg rounded-lg flex items-center justify-center mb-4">
+            <span class="text-white font-bold text-xl">IA</span>
+          </div>
+          <h3 class="text-xl font-bold mb-3">Chat (RAG)</h3>
+          <p class="text-gray-600">Pregunta y el sistema busca contexto en tus textos/transcripciones.</p>
+        </div>
+
+        <div class="card-hover bg-gray-50 p-8 rounded-xl">
+          <div class="w-14 h-14 gradient-bg rounded-lg flex items-center justify-center mb-4">
+            <span class="text-white font-bold text-xl">C</span>
+          </div>
+          <h3 class="text-xl font-bold mb-3">Comisiones</h3>
+          <p class="text-gray-600">Explora comisiones (Permanentes/Otras/Unidas) y sus sesiones.</p>
+        </div>
+
+        <div class="card-hover bg-gray-50 p-8 rounded-xl">
+          <div class="w-14 h-14 gradient-bg rounded-lg flex items-center justify-center mb-4">
+            <span class="text-white font-bold text-xl">P</span>
+          </div>
+          <h3 class="text-xl font-bold mb-3">Parlamentarios</h3>
+          <p class="text-gray-600">Listado derivado de integrantes por comisión.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+
+<!-- ===== Dashboard ===== -->
+<div id="dashboardPage" class="hidden">
+  <nav class="bg-white shadow-sm sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        <div class="flex items-center gap-3">
+          <div class="w-10 h-10 gradient-bg rounded-lg flex items-center justify-center">
+            <span class="text-white font-bold text-xl">OP</span>
+          </div>
+          <div>
+            <div class="text-lg font-bold text-gray-900">Dashboard</div>
+            <div class="text-xs text-gray-500 mono" id="apiStatus">—</div>
+          </div>
+        </div>
+
+        <div class="flex items-center gap-2">
+          <button id="backLandingBtn" class="px-4 py-2 rounded-lg border border-gray-200 hover:bg-gray-50 text-sm">
+            Volver
+          </button>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <!-- Tabs -->
+    <div class="flex flex-wrap gap-2 mb-6">
+      <button class="tabBtn gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabCommissions">Comisiones</button>
+      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabPoliticians">Parlamentarios</button>
+      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabActivity">Actividad</button>
+      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabNews">Noticias</button>
+      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabChat">Chat IA</button>
+    </div>
+
+    <!-- ===== Comisiones ===== -->
+    <div id="tabCommissions" class="tabPanel fade-in">
+      <div class="grid lg:grid-cols-3 gap-6">
+        <div class="bg-white rounded-2xl border border-gray-200 p-5">
+          <div class="flex items-center justify-between gap-3 mb-4">
+            <h2 class="text-lg font-bold">Comisiones</h2>
+            <select id="groupSelect" class="text-sm border border-gray-200 rounded-lg px-3 py-2">
+              <option>Permanentes</option>
+              <option>Otras</option>
+              <option>Unidas</option>
+            </select>
+          </div>
+
+          <div class="flex gap-2 mb-3">
+            <input id="commissionSearch" class="flex-1 border border-gray-200 rounded-lg px-3 py-2 text-sm" placeholder="Buscar comisión..." />
+            <button id="commissionSearchBtn" class="gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold hover:opacity-90">
+              Buscar
+            </button>
+          </div>
+
+          <div id="commissionsList" class="space-y-2 max-h-[65vh] overflow-auto pr-1"></div>
+          <div id="commissionsHint" class="text-xs text-gray-500 mt-3"></div>
+        </div>
+
+        <div class="lg:col-span-2 bg-white rounded-2xl border border-gray-200 p-5">
+          <div class="flex items-start justify-between gap-4 mb-4">
+            <div>
+              <h2 class="text-lg font-bold" id="commissionTitle">Selecciona una comisión</h2>
+              <div class="text-sm text-gray-500" id="commissionSubtitle">Verás aquí las sesiones agrupadas por año.</div>
+            </div>
+            <div class="text-xs text-gray-500 mono" id="commissionMeta"></div>
+          </div>
+
+          <div id="commissionDetail" class="space-y-4"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== Parlamentarios ===== -->
+    <div id="tabPoliticians" class="tabPanel hidden fade-in">
+      <div class="bg-white rounded-2xl border border-gray-200 p-5 mb-6">
+        <div class="flex items-center justify-between gap-3">
+          <h2 class="text-lg font-bold">Parlamentarios</h2>
+          <div class="flex gap-2">
+            <input id="politicianSearch" class="border border-gray-200 rounded-lg px-3 py-2 text-sm" placeholder="Buscar por nombre..." />
+            <button id="politicianSearchBtn" class="gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold hover:opacity-90">
+              Buscar
+            </button>
+          </div>
+        </div>
+        <div class="text-xs text-gray-500 mt-2">Fuente: integrantes.json de comisiones (indexado por el backend).</div>
+      </div>
+
+      <div id="politiciansGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+    </div>
+
+    <!-- ===== Actividad ===== -->
+    <div id="tabActivity" class="tabPanel hidden fade-in">
+      <div class="bg-white rounded-2xl border border-gray-200 p-5 mb-6">
+        <div class="flex items-center justify-between gap-3">
+          <div>
+            <h2 class="text-lg font-bold">Actividad Legislativa</h2>
+            <div class="text-sm text-gray-500">Feed de sesiones (CITADA/CELEBRADA/SUSPENDIDA...)</div>
+          </div>
+
+          <div class="flex flex-wrap gap-2">
+            <select id="activityGroup" class="text-sm border border-gray-200 rounded-lg px-3 py-2">
+              <option value="">Todos</option>
+              <option value="Permanentes">Permanentes</option>
+              <option value="Otras">Otras</option>
+              <option value="Unidas">Unidas</option>
+            </select>
+            <input id="activityStatus" class="border border-gray-200 rounded-lg px-3 py-2 text-sm" placeholder="Filtrar estado..." />
+            <input id="activityQ" class="border border-gray-200 rounded-lg px-3 py-2 text-sm" placeholder="Buscar comisión..." />
+            <button id="activityBtn" class="gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold hover:opacity-90">Cargar</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="activityList" class="space-y-3"></div>
+    </div>
+
+    <!-- ===== Noticias ===== -->
+    <div id="tabNews" class="tabPanel hidden fade-in">
+      <div class="bg-white rounded-2xl border border-gray-200 p-5 mb-6">
+        <div class="flex flex-wrap gap-3 items-end justify-between">
+          <div>
+            <h2 class="text-lg font-bold">Noticias (placeholder)</h2>
+            <div class="text-sm text-gray-500">Lee <span class="mono">/api/news</span> desde JSONL si existe.</div>
+          </div>
+
+          <div class="flex flex-wrap gap-2">
+            <select id="newsSource" class="text-sm border border-gray-200 rounded-lg px-3 py-2">
+              <option value="diario_oficial">diario_oficial</option>
+            </select>
+            <input id="newsQ" class="border border-gray-200 rounded-lg px-3 py-2 text-sm" placeholder="Buscar..." />
+            <button id="newsBtn" class="gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold hover:opacity-90">Cargar</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="newsList" class="space-y-3"></div>
+    </div>
+
+    <!-- ===== Chat IA ===== -->
+    <!-- ===== Chat IA Moderno ===== -->
+<div id="tabChat" class="tabPanel hidden fade-in">
+  <div class="bg-white rounded-2xl border border-gray-200 overflow-hidden" style="height: calc(100vh - 280px);">
+
+    <div class="flex flex-col h-full">
+
+      <!-- Header -->
+      <div class="px-6 py-4 border-b border-gray-200 bg-gradient-to-r from-purple-50 to-blue-50">
+        <div class="flex items-center justify-between">
+          <div class="flex items-center gap-3">
+            <div class="w-10 h-10 rounded-full bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center text-white font-bold">
+              IA
+            </div>
+            <div>
+              <h2 class="text-lg font-bold text-gray-900">Chat IA Legislativo</h2>
+              <p class="text-sm text-gray-500">Respuestas basadas en evidencia</p>
+            </div>
+          </div>
+
+          <div class="flex gap-2">
+            <button id="clearChatBtn" class="px-3 py-2 text-sm text-gray-600 hover:text-gray-900 hover:bg-white rounded-lg transition">
+              🗑️ Limpiar
+            </button>
+            <button id="uploadToggleBtn" class="px-3 py-2 text-sm bg-white text-gray-700 hover:bg-gray-50 rounded-lg font-medium transition">
+              📎 Subir Archivo
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Messages -->
+      <div id="chatMessagesArea" class="flex-1 overflow-y-auto px-6 py-4" style="background:#fafafa;">
+        <div id="chatEmptyState" class="h-full flex flex-col items-center justify-center text-center">
+          <div class="w-20 h-20 rounded-full bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center text-white text-3xl mb-4">
+            💬
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">¿En qué puedo ayudarte?</h3>
+          <p class="text-gray-500 mb-6 max-w-md">Pregunta sobre comisiones, sesiones, documentos o parlamentarios.</p>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-3 max-w-2xl w-full">
+            <button onclick="useSuggestion('¿Qué comisiones están disponibles?')" class="text-left p-4 bg-white rounded-xl border border-gray-200 hover:border-purple-400 hover:shadow-md transition">
+              <div class="text-2xl mb-2">📂</div>
+              <div class="font-semibold text-sm text-gray-900">Ver Comisiones</div>
+              <div class="text-xs text-gray-500">Lista de comisiones disponibles</div>
+            </button>
+
+            <button onclick="useSuggestion('¿Qué sesiones recientes hay en Educación?')" class="text-left p-4 bg-white rounded-xl border border-gray-200 hover:border-purple-400 hover:shadow-md transition">
+              <div class="text-2xl mb-2">📅</div>
+              <div class="font-semibold text-sm text-gray-900">Sesiones Recientes</div>
+              <div class="text-xs text-gray-500">Actividad legislativa reciente</div>
+            </button>
+
+            <button onclick="useSuggestion('Muéstrame votaciones de la última sesión')" class="text-left p-4 bg-white rounded-xl border border-gray-200 hover:border-purple-400 hover:shadow-md transition">
+              <div class="text-2xl mb-2">🗳️</div>
+              <div class="font-semibold text-sm text-gray-900">Ver Votaciones</div>
+              <div class="text-xs text-gray-500">Resultados y estadísticas</div>
+            </button>
+
+            <button onclick="useSuggestion('¿Quiénes participaron en la Comisión de Hacienda?')" class="text-left p-4 bg-white rounded-xl border border-gray-200 hover:border-purple-400 hover:shadow-md transition">
+              <div class="text-2xl mb-2">👥</div>
+              <div class="font-semibold text-sm text-gray-900">Parlamentarios</div>
+              <div class="text-xs text-gray-500">Info sobre integrantes</div>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Input -->
+      <div class="px-6 py-4 border-t border-gray-200 bg-white">
+        <div class="flex gap-3 items-end">
+          <textarea
+            id="chatInput"
+            class="flex-1 px-4 py-3 border-2 border-gray-200 rounded-2xl resize-none focus:border-purple-500 focus:outline-none transition"
+            placeholder="Escribe tu pregunta aquí... (Enter para enviar / Shift+Enter salto de línea)"
+            rows="1"
+            style="max-height:150px;"
+          ></textarea>
+
+          <button
+            id="chatBtn"
+            class="w-12 h-12 flex-shrink-0 rounded-full bg-gradient-to-br from-purple-600 to-blue-600 text-white flex items-center justify-center hover:shadow-lg transition disabled:opacity-50"
+            aria-label="Enviar"
+          >
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+              <path d="M2 10L18 2L10 18L9 11L2 10Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+        </div>
+
+        <div id="chatMeta" class="mt-2 text-xs text-gray-400 text-center"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Upload Modal -->
+  <div id="uploadModal" class="fixed inset-0 bg-black/50 hidden items-center justify-center z-50 p-4">
+    <div class="bg-white rounded-2xl max-w-md w-full p-6">
+      <div class="flex items-center justify-between mb-4">
+        <h3 class="text-lg font-bold">Subir Documento</h3>
+        <button onclick="closeUploadModal()" class="text-gray-400 hover:text-gray-600">
+          <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M6 6L18 18M6 18L18 6"/>
+          </svg>
+        </button>
+      </div>
+
+      <div class="mb-4">
+        <label class="block text-sm font-medium text-gray-700 mb-2">Archivo (.txt o .md)</label>
+        <input id="uploadFile" type="file" accept=".txt,.md" class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm" />
+      </div>
+
+      <div class="flex gap-2">
+        <button onclick="closeUploadModal()" class="flex-1 px-4 py-2 border border-gray-200 rounded-lg text-sm font-semibold hover:bg-gray-50">
+          Cancelar
+        </button>
+        <button id="uploadBtn" class="flex-1 px-4 py-2 bg-gradient-to-br from-purple-600 to-blue-600 text-white rounded-lg text-sm font-semibold hover:shadow-lg">
+          Subir
+        </button>
+      </div>
+
+      <div id="uploadStatus" class="mt-3 text-sm"></div>
+    </div>
+  </div>
+</div>
+
+<style>
+  #chatMessagesArea::-webkit-scrollbar { width: 6px; }
+  #chatMessagesArea::-webkit-scrollbar-track { background: transparent; }
+  #chatMessagesArea::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 3px; }
+  #chatMessagesArea::-webkit-scrollbar-thumb:hover { background: #9ca3af; }
+
+  .chat-message { margin-bottom: 16px; animation: fadeIn .25s ease; }
+  @keyframes fadeIn { from {opacity:0; transform:translateY(8px);} to {opacity:1; transform:translateY(0);} }
+
+  .user-message { display:flex; justify-content:flex-end; }
+  .assistant-message { display:flex; justify-content:flex-start; }
+
+  .message-bubble { max-width: 80%; padding: 12px 16px; border-radius: 16px; line-height: 1.55; font-size: 14px; }
+
+  .user-message .message-bubble {
+    background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+    color: white;
+    border-bottom-right-radius: 4px;
+  }
+
+  .assistant-message .message-bubble {
+    background: white;
+    color: #111827;
+    border: 1px solid #e5e7eb;
+    border-bottom-left-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.05);
+  }
+
+  .assistant-message .message-bubble a { text-decoration: underline; }
+  .assistant-message .message-bubble code { background:#f3f4f6; padding:2px 6px; border-radius:6px; font-size: 13px; }
+  .assistant-message .message-bubble ul { list-style: disc; margin-left: 18px; }
+  .assistant-message .message-bubble ol { list-style: decimal; margin-left: 18px; }
+  .assistant-message .message-bubble li { margin: 4px 0; }
+
+  .typing-indicator { display:flex; gap:4px; padding: 6px 0; }
+  .typing-dot { width:8px; height:8px; border-radius:50%; background:#667eea; animation: typing 1.4s infinite; }
+  .typing-dot:nth-child(2){ animation-delay:.2s; }
+  .typing-dot:nth-child(3){ animation-delay:.4s; }
+  @keyframes typing { 0%,60%,100% { transform: translateY(0); opacity:.7; } 30% { transform: translateY(-6px); opacity:1; } }
+
+  #chatInput { transition: height .2s; }
+</style>
+
+<script>
+  // Helpers (usa tu $ si existe; si no, fallback)
+  function $id(x){ return document.getElementById(x); }
+  const $$ = (typeof $ === "function") ? $ : $id;
+
+  // POST JSON helper compatible (apiPostJson / apiPostJSON / fallback fetch)
+  async function postJSON(url, payload){
+    if (typeof apiPostJson === "function") return await apiPostJson(url, payload);
+    if (typeof apiPostJSON === "function") return await apiPostJSON(url, payload);
+
+    const r = await fetch(url, {
+      method: "POST",
+      headers: {"Content-Type":"application/json"},
+      body: JSON.stringify(payload)
+    });
+    const data = await r.json().catch(()=> ({}));
+    if(!r.ok) throw new Error(data.detail || "Request failed");
+    return data;
+  }
+
+  function escapeHtml(s){
+    return (s || "").replace(/[&<>"']/g, m => ({
+      "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+    }[m]));
+  }
+
+  function formatResponse(text){
+    // Markdown muy básico + links
+    let t = escapeHtml(text || "");
+
+    // **bold**
+    t = t.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+
+    // `code`
+    t = t.replace(/`(.+?)`/g, '<code>$1</code>');
+
+    // Links markdown [txt](url)
+    t = t.replace(/\[([^\]]+?)\]\(([^)]+?)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+
+    // Listas simples
+    // - item
+    t = t.replace(/^\s*[-•]\s+(.+)$/gm, "<li>$1</li>");
+    // Si hay <li>, envuelve en <ul>
+    if (t.includes("<li>")) t = t.replace(/(<li>[\s\S]*<\/li>)/g, "<ul>$1</ul>");
+
+    // Saltos de línea
+    t = t.replace(/\n/g, "<br>");
+    return t;
+  }
+
+  (function(){
+    const messagesArea = $$("chatMessagesArea");
+    const emptyState = $$("chatEmptyState");
+    const chatInput = $$("chatInput");
+    const chatBtn = $$("chatBtn");
+    const chatMeta = $$("chatMeta");
+    const clearChatBtn = $$("clearChatBtn");
+    const uploadToggleBtn = $$("uploadToggleBtn");
+    const uploadModal = $$("uploadModal");
+    const uploadBtn = $$("uploadBtn");
+    const uploadStatus = $$("uploadStatus");
+    const uploadFile = $$("uploadFile");
+
+    let hasAnyMessage = false;
+
+    function hideEmptyState(){
+      if(!hasAnyMessage && emptyState){
+        emptyState.style.display = "none";
+        hasAnyMessage = true;
+      }
+    }
+
+    function addMessage(role, content, isTyping=false){
+      hideEmptyState();
+
+      const wrap = document.createElement("div");
+      wrap.className = `chat-message ${role}-message`;
+
+      const bubble = document.createElement("div");
+      bubble.className = "message-bubble";
+
+      if(isTyping){
+        bubble.innerHTML = `
+          <div class="typing-indicator">
+            <div class="typing-dot"></div>
+            <div class="typing-dot"></div>
+            <div class="typing-dot"></div>
+          </div>
+        `;
+      } else {
+        if(role === "user"){
+          bubble.innerHTML = `<div class="whitespace-pre-wrap">${escapeHtml(content)}</div>`;
+        } else {
+          bubble.innerHTML = formatResponse(content);
+        }
+      }
+
+      wrap.appendChild(bubble);
+      messagesArea.appendChild(wrap);
+      messagesArea.scrollTop = messagesArea.scrollHeight;
+      return bubble;
+    }
+
+    async function sendChat(){
+      const msg = (chatInput.value || "").trim();
+      if(!msg) return;
+
+      chatInput.value = "";
+      chatInput.style.height = "auto";
+      chatBtn.disabled = true;
+      chatMeta.textContent = `Enviando · ${new Date().toLocaleTimeString("es-CL")}`;
+
+      addMessage("user", msg);
+      const assistantBubble = addMessage("assistant", "", true);
+
+      try{
+        const data = await postJSON("/api/chat", {message: msg});
+        const answer = data.reply || data.response || "Sin respuesta";
+        assistantBubble.innerHTML = formatResponse(answer);
+        chatMeta.textContent = `Respondido · ${new Date().toLocaleTimeString("es-CL")}`;
+      }catch(e){
+        assistantBubble.innerHTML = '<span style="color:#ef4444;">❌ Error al conectar con el servidor</span>';
+        chatMeta.textContent = "Error en la respuesta";
+      }finally{
+        chatBtn.disabled = false;
+      }
+    }
+
+    // Auto-resize textarea
+    chatInput?.addEventListener("input", function(){
+      this.style.height = "auto";
+      this.style.height = Math.min(this.scrollHeight, 150) + "px";
+    });
+
+    // Enter
+    chatInput?.addEventListener("keydown", function(e){
+      if(e.key === "Enter" && !e.shiftKey){
+        e.preventDefault();
+        sendChat();
+      }
+    });
+
+    function clearChat(){
+      if(!confirm("¿Limpiar el chat?")) return;
+      messagesArea.innerHTML = "";
+      if(emptyState){
+        emptyState.style.display = "flex";
+        messagesArea.appendChild(emptyState);
+      }
+      hasAnyMessage = false;
+      chatMeta.textContent = "";
+    }
+
+    // Suggestions
+    window.useSuggestion = function(text){
+      chatInput.value = text;
+      sendChat();
+    };
+
+    // Upload modal
+    window.closeUploadModal = function(){
+      uploadModal.classList.add("hidden");
+      uploadModal.classList.remove("flex");
+    };
+
+    function openUploadModal(){
+      uploadModal.classList.remove("hidden");
+      uploadModal.classList.add("flex");
+    }
+
+    async function uploadSelectedFile(){
+      const file = uploadFile?.files?.[0];
+      if(!file){
+        uploadStatus.innerHTML = '<span style="color:#ef4444;">Selecciona un archivo</span>';
+        return;
+      }
+
+      uploadBtn.disabled = true;
+      uploadStatus.textContent = "Subiendo...";
+
+      try{
+        const fd = new FormData();
+        fd.append("file", file);
+
+        const r = await fetch("/api/upload", { method:"POST", body: fd });
+        const data = await r.json().catch(()=> ({}));
+
+        if(r.ok && (data.success || data.ok)){
+          uploadStatus.innerHTML = '<span style="color:#10b981;">✓ Archivo subido correctamente</span>';
+          setTimeout(()=> {
+            window.closeUploadModal();
+            uploadStatus.textContent = "";
+            uploadFile.value = "";
+          }, 1200);
+        } else {
+          uploadStatus.innerHTML = `<span style="color:#ef4444;">✗ ${data.error || data.detail || "Error"}</span>`;
+        }
+      }catch(e){
+        uploadStatus.innerHTML = '<span style="color:#ef4444;">❌ Error al subir</span>';
+      }finally{
+        uploadBtn.disabled = false;
+      }
+    }
+
+    // Events
+    chatBtn?.addEventListener("click", sendChat);
+    clearChatBtn?.addEventListener("click", clearChat);
+    uploadToggleBtn?.addEventListener("click", openUploadModal);
+    uploadBtn?.addEventListener("click", uploadSelectedFile);
+  })();
+</script>
+      </div>
+    </div>
+
+  </section>
+</div>
+
+<!-- ===== Modal Perfil KOM ===== -->
+<div id="komModal" class="fixed inset-0 z-50 hidden items-center justify-center modal-overlay">
+  <div class="bg-white rounded-2xl w-full max-w-3xl max-h-[90vh] overflow-auto m-4 shadow-2xl">
+    <div class="sticky top-0 bg-white border-b border-gray-200 p-6">
+      <div class="flex items-start justify-between gap-4">
+        <div>
+          <h2 class="text-2xl font-bold gradient-text" id="komName">Perfil KOM</h2>
+          <div class="text-sm text-gray-500 mt-1" id="komMeta">Información personalizada del parlamentario</div>
+        </div>
+        <button onclick="closeKomModal()" class="px-4 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 text-sm font-semibold">
+          Cerrar
+        </button>
+      </div>
+    </div>
+
+    <div class="p-6 space-y-6">
+      <!-- Notas -->
+      <div>
+        <label class="block text-sm font-bold text-gray-700 mb-2">📝 Notas Internas</label>
+        <textarea id="komNotas" class="w-full h-40 px-4 py-3 rounded-lg border border-gray-200 focus:border-purple-500 focus:ring-2 focus:ring-purple-200 transition" placeholder="Escribe notas personalizadas sobre este parlamentario..."></textarea>
+      </div>
+
+      <!-- Tags -->
+      <div>
+        <label class="block text-sm font-bold text-gray-700 mb-2">🏷️ Etiquetas</label>
+        <div class="flex gap-2 mb-2">
+          <input id="komNewTag" class="flex-1 px-4 py-2 rounded-lg border border-gray-200" placeholder="Agregar etiqueta..." />
+          <button onclick="addKomTag()" class="px-4 py-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white font-semibold">
+            + Agregar
+          </button>
+        </div>
+        <div id="komTags" class="flex flex-wrap gap-2 min-h-[40px]"></div>
+      </div>
+
+      <!-- Enlaces -->
+      <div>
+        <label class="block text-sm font-bold text-gray-700 mb-2">🔗 Enlaces de Interés</label>
+        <div class="flex gap-2 mb-2">
+          <input id="komNewLinkTitle" class="flex-1 px-4 py-2 rounded-lg border border-gray-200" placeholder="Título del enlace..." />
+          <input id="komNewLinkUrl" class="flex-1 px-4 py-2 rounded-lg border border-gray-200" placeholder="URL..." />
+          <button onclick="addKomLink()" class="px-4 py-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white font-semibold">
+            + Agregar
+          </button>
+        </div>
+        <div id="komLinks" class="space-y-2"></div>
+      </div>
+
+      <!-- Botón Guardar -->
+      <div class="flex justify-end gap-2 pt-4 border-t border-gray-200">
+        <button onclick="closeKomModal()" class="px-6 py-3 rounded-lg bg-gray-100 hover:bg-gray-200 font-semibold">
+          Cancelar
+        </button>
+        <button onclick="saveKomProfile()" class="px-6 py-3 rounded-lg gradient-bg text-white font-semibold hover:opacity-90">
+          💾 Guardar Perfil
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(() => {
+  "use strict";
+
+  const API_BASE = window.location.origin;
+
+  // ===== Helpers =====
+  const $ = (id) => document.getElementById(id);
+
+  async function apiGet(path) {
+    const res = await fetch(path, { headers: { "Accept": "application/json" } });
+    if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
+    return res.json();
+  }
+
+  async function apiPostJSON(path, body) {
+    const res = await fetch(path, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return res.json();
+  }
+
+  async function apiPostForm(path, formData) {
+    const res = await fetch(path, { method: "POST", body: formData });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return res.json();
+  }
+
+  // ===== Page Navigation =====
+  function showLanding() {
+    $("landingPage").classList.remove("hidden");
+    $("dashboardPage").classList.add("hidden");
+  }
+
+  function showDashboard() {
+    $("landingPage").classList.add("hidden");
+    $("dashboardPage").classList.remove("hidden");
+    initDashboard();
+  }
+
+  $("goDashboardBtn")?.addEventListener("click", showDashboard);
+  $("goDashboardBtn2")?.addEventListener("click", showDashboard);
+  $("backLandingBtn")?.addEventListener("click", showLanding);
+
+  // ===== Tabs =====
+  let currentGroup = "Permanentes";
+
+  document.querySelectorAll(".tabBtn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const target = btn.getAttribute("data-tab");
+      document.querySelectorAll(".tabPanel").forEach(p => p.classList.add("hidden"));
+      document.querySelectorAll(".tabBtn").forEach(b => {
+        b.classList.remove("gradient-bg", "text-white");
+        b.classList.add("bg-white", "border", "border-gray-200");
+      });
+      $(target)?.classList.remove("hidden");
+      btn.classList.add("gradient-bg", "text-white");
+      btn.classList.remove("bg-white", "border", "border-gray-200");
+    });
+  });
+
+  // ===== Health Check =====
+  async function pingHealth() {
+    try {
+      const data = await apiGet("/api/health");
+      $("healthBadge").textContent = data.success ? "✓ OK" : "✗ Error";
+      $("apiStatus").textContent = `OK · data_repo=${data.data_repo_dir || "?"} · kom=${data.kom_dir || "?"}`;
+    } catch (e) {
+      $("healthBadge").textContent = "✗ Offline";
+      $("apiStatus").textContent = `Error: ${e.message}`;
+    }
+  }
+
+  // ===== Commissions =====
+  async function loadCommissions(q = "") {
+    const group = $("groupSelect").value || "Permanentes";
+    currentGroup = group;
+    const data = await apiGet(`/api/commissions?group=${encodeURIComponent(group)}&q=${encodeURIComponent(q)}`);
+    const items = data.commissions || [];
+    $("commissionsHint").textContent = `${items.length} comisión(es) en ${group}`;
+    renderCommissions(items);
+  }
+
+  function renderCommissions(items) {
+    const el = $("commissionsList");
+    if (!el) return;
+
+    if (!items.length) {
+      el.innerHTML = `<div class="text-sm text-gray-500">No hay comisiones.</div>`;
+      return;
+    }
+
+    el.innerHTML = items.map(c => `
+      <button 
+        class="w-full text-left bg-white rounded-lg border border-gray-200 p-3 hover:border-purple-500 hover:shadow-md transition"
+        onclick="window.__openCommission('${c.group}', '${c.commission_name}')"
+      >
+        <div class="font-bold text-gray-900 text-sm">${c.nombre}</div>
+        <div class="text-xs text-gray-500">${c.total_sessions} sesiones</div>
+      </button>
+    `).join("");
+  }
+
+  async function openCommission(group, name) {
+    $("commissionTitle").textContent = name;
+    $("commissionSubtitle").textContent = `Cargando sesiones...`;
+    $("commissionMeta").textContent = `${group}`;
+    $("commissionDetail").innerHTML = `<div class="text-sm text-gray-500">Cargando...</div>`;
+
+    try {
+      const data = await apiGet(`/api/commissions/${encodeURIComponent(group)}/${encodeURIComponent(name)}/sessions`);
+      if (!data.success) {
+        $("commissionDetail").innerHTML = `<div class="text-sm text-red-600">Error: ${data.error || "Desconocido"}</div>`;
+        return;
+      }
+
+      const c = data.commission;
+      $("commissionSubtitle").textContent = `${c.years.length} año(s) · ${Object.values(c.sessions_by_year).flat().length} sesiones`;
+
+      if (!c.years.length) {
+        $("commissionDetail").innerHTML = `<div class="text-sm text-gray-500">No hay sesiones en el historial.csv</div>`;
+        return;
+      }
+
+      $("commissionDetail").innerHTML = renderCommissionYears(c);
+    } catch (e) {
+      $("commissionDetail").innerHTML = `<div class="text-sm text-red-600">Error: ${e.message}</div>`;
+    }
+  }
+
+  function renderCommissionYears(c) {
+    return c.years.map(year => {
+      const sessions = c.sessions_by_year[year] || [];
+      const rows = sessions.slice(0, 40).map(s => renderSessionRow(s)).join("");
+      return `
+        <div class="bg-white rounded-xl border border-gray-200 p-4">
+          <div class="flex items-center justify-between mb-3">
+            <div class="text-lg font-bold text-gray-900">${year}</div>
+            <div class="text-xs text-gray-500">${sessions.length} sesiones</div>
+          </div>
+          <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+              <thead class="text-gray-500 border-b border-gray-200">
+                <tr>
+                  <th class="text-left py-2 px-2">Fecha</th>
+                  <th class="text-left py-2 px-2">Estado</th>
+                  <th class="text-left py-2 px-2">Documentos</th>
+                  <th class="text-center py-2 px-2">TXT</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${rows}
+              </tbody>
+            </table>
+            ${sessions.length > 40 ? `<div class="text-xs text-gray-500 mt-2">Mostrando 40 de ${sessions.length}.</div>` : ""}
+          </div>
+        </div>
+      `;
+    }).join("");
+  }
+
+  function renderSessionRow(s) {
+    const estado = s.Estado || "-";
+    const estadoBadge = `<span class="inline-flex items-center px-2 py-1 rounded-full text-xs font-semibold ${getEstadoColor(estado)}">${estado}</span>`;
+    const transcript = s.transcript ? "📄" : "—";
+
+    // Botones de documentos
+    const docs = [];
+    if (s.Citacion && s.Citacion !== "No") {
+      docs.push(`<a href="${s.Citacion}" target="_blank" class="inline-flex items-center px-2 py-1 rounded text-xs font-semibold bg-blue-100 text-blue-700 hover:bg-blue-200">Citación ↗</a>`);
+    }
+    if (s.Cuenta && s.Cuenta !== "No") {
+      docs.push(`<a href="${s.Cuenta}" target="_blank" class="inline-flex items-center px-2 py-1 rounded text-xs font-semibold bg-green-100 text-green-700 hover:bg-green-200">Cuenta ↗</a>`);
+    }
+    if (s.Acta && s.Acta !== "No") {
+      docs.push(`<a href="${s.Acta}" target="_blank" class="inline-flex items-center px-2 py-1 rounded text-xs font-semibold bg-purple-100 text-purple-700 hover:bg-purple-200">Acta ↗</a>`);
+    }
+
+    const docsHTML = docs.length ? docs.join(" ") : `<span class="text-xs text-gray-400">Sin docs</span>`;
+
+    return `
+      <tr class="border-t border-gray-100 hover:bg-gray-50">
+        <td class="py-2 px-2">${s.Fecha || ""}</td>
+        <td class="py-2 px-2">${estadoBadge}</td>
+        <td class="py-2 px-2"><div class="flex flex-wrap gap-1">${docsHTML}</div></td>
+        <td class="py-2 px-2 text-center">${transcript}</td>
+      </tr>
+    `;
+  }
+
+  function getEstadoColor(estado) {
+    const colors = {
+      'CITADA': 'bg-blue-100 text-blue-700',
+      'CELEBRADA': 'bg-green-100 text-green-700',
+      'SUSPENDIDA': 'bg-yellow-100 text-yellow-700',
+      'FRACASADA': 'bg-red-100 text-red-700',
+    };
+    return colors[estado] || 'bg-gray-100 text-gray-700';
+  }
+
+  // ===== Politicians =====
+  async function loadPoliticians(q = "") {
+    const data = await apiGet(`/api/politicians?q=${encodeURIComponent(q)}`);
+    const items = data.politicians || [];
+    renderPoliticians(items);
+  }
+
+  function renderPoliticians(items) {
+    const el = $("politiciansGrid");
+    if (!el) return;
+
+    if (!items.length) {
+      el.innerHTML = `<div class="text-sm text-gray-500">No hay resultados.</div>`;
+      return;
+    }
+
+    el.innerHTML = items.map(p => `
+      <div class="card-hover bg-white rounded-2xl border border-gray-200 p-4">
+        <div class="font-bold text-gray-900">${p.nombre}</div>
+        <div class="text-xs text-gray-500 mb-3">${p.cargo || ""} · ${p.chamber || ""}</div>
+        <div class="flex gap-2">
+          ${p.url_ficha ? `<a class="flex-1 text-center text-xs px-3 py-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white font-semibold" href="${p.url_ficha}" target="_blank">Ver ficha →</a>` : `<div class="text-xs text-gray-400">Sin ficha</div>`}
+          <button onclick="openKomModal('${p.chamber}', '${p.id}', '${encodeURIComponent(p.nombre)}')" class="flex-1 text-xs px-3 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 font-semibold">
+            📋 Perfil KOM
+          </button>
+        </div>
+      </div>
+    `).join("");
+  }
+
+// ===== KOM Modal =====
+    let currentKomProfile = null;
+
+    async function openKomModal(chamber, id, nameEnc) {
+    const nombre = decodeURIComponent(nameEnc || "");
+
+    // ✅ Normaliza chamber e id para evitar /api/kom//...
+    chamber = (chamber || "camara").toString().replace(/^\/+|\/+$/g, "").trim();
+    id = (id || "").toString().replace(/^\/+|\/+$/g, "").trim();
+
+    // ✅ Si id viene vacío, usa el nombre como fallback
+    if (!id) id = nombre;
+
+    $("komName").textContent = nombre;
+    $("komMeta").textContent = `${chamber} · ID ${id}`;
+
+    try {
+        const url = `/api/kom/${encodeURIComponent(chamber)}/${encodeURIComponent(id)}`;
+        const data = await apiGet(url);
+        const profile = data.profile || {};
+
+        currentKomProfile = {
+        chamber,
+        id,
+        nombre,
+        notas: profile.notas || profile.notes || "",
+        tags: profile.tags || [],
+        links: profile.links || [],
+        };
+
+        $("komNotas").value = currentKomProfile.notas;
+        renderKomTags();
+        renderKomLinks();
+
+        $("komModal").classList.remove("hidden");
+        $("komModal").classList.add("flex");
+    } catch (e) {
+        console.error("❌ Error cargando perfil KOM:", e);
+        alert(`No se pudo cargar el perfil KOM (${chamber}/${id}): ${e.message}`);
+    }
+    }
+
+    function closeKomModal() {
+    $("komModal").classList.add("hidden");
+    $("komModal").classList.remove("flex");
+    currentKomProfile = null;
+    }
+
+  function renderKomTags() {
+    const el = $("komTags");
+    if (!currentKomProfile.tags.length) {
+      el.innerHTML = `<div class="text-xs text-gray-400">Sin etiquetas</div>`;
+      return;
+    }
+    el.innerHTML = currentKomProfile.tags.map((tag, idx) => `
+      <span class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-100 text-purple-700 text-xs font-semibold">
+        ${tag}
+        <button onclick="removeKomTag(${idx})" class="hover:text-purple-900">×</button>
+      </span>
+    `).join("");
+  }
+
+  function addKomTag() {
+    const input = $("komNewTag");
+    const tag = input.value.trim();
+    if (!tag) return;
+    currentKomProfile.tags.push(tag);
+    input.value = "";
+    renderKomTags();
+  }
+
+  function removeKomTag(idx) {
+    currentKomProfile.tags.splice(idx, 1);
+    renderKomTags();
+  }
+
+  function renderKomLinks() {
+    const el = $("komLinks");
+    if (!currentKomProfile.links.length) {
+      el.innerHTML = `<div class="text-xs text-gray-400">Sin enlaces</div>`;
+      return;
+    }
+    el.innerHTML = currentKomProfile.links.map((link, idx) => `
+      <div class="flex items-center gap-2 p-2 bg-gray-50 rounded-lg border border-gray-200">
+        <a href="${link.url}" target="_blank" class="flex-1 text-sm text-purple-700 hover:underline">${link.title}</a>
+        <button onclick="removeKomLink(${idx})" class="text-red-600 hover:text-red-800 text-xs font-semibold">Eliminar</button>
+      </div>
+    `).join("");
+  }
+
+  function addKomLink() {
+    const title = $("komNewLinkTitle").value.trim();
+    const url = $("komNewLinkUrl").value.trim();
+    if (!title || !url) return;
+    currentKomProfile.links.push({ title, url });
+    $("komNewLinkTitle").value = "";
+    $("komNewLinkUrl").value = "";
+    renderKomLinks();
+  }
+
+  function removeKomLink(idx) {
+    currentKomProfile.links.splice(idx, 1);
+    renderKomLinks();
+  }
+
+  async function saveKomProfile() {
+    if (!currentKomProfile) return;
+
+    currentKomProfile.notas = $("komNotas").value || "";
+
+    try {
+      await apiPostJSON(`/api/kom/${currentKomProfile.chamber}/${currentKomProfile.id}`, {
+        notas: currentKomProfile.notas,
+        tags: currentKomProfile.tags,
+        links: currentKomProfile.links,
+      });
+      alert("✓ Perfil guardado correctamente");
+      closeKomModal();
+    } catch (e) {
+      alert(`✗ Error al guardar: ${e.message}`);
+    }
+  }
+
+  // Make functions global
+  window.openKomModal = openKomModal;
+  window.closeKomModal = closeKomModal;
+  window.addKomTag = addKomTag;
+  window.removeKomTag = removeKomTag;
+  window.addKomLink = addKomLink;
+  window.removeKomLink = removeKomLink;
+  window.saveKomProfile = saveKomProfile;
+
+  // ===== Activity =====
+  async function loadActivity() {
+    const group = $("activityGroup").value || "";
+    const status = $("activityStatus").value || "";
+    const q = $("activityQ").value || "";
+
+    const data = await apiGet(`/api/activity?group=${encodeURIComponent(group)}&status=${encodeURIComponent(status)}&q=${encodeURIComponent(q)}`);
+    const items = data.items || [];
+    renderActivity(items);
+  }
+
+  function renderActivity(items) {
+    const el = $("activityList");
+    if (!el) return;
+
+    if (!items.length) {
+      el.innerHTML = `<div class="text-sm text-gray-500">No hay actividad para esos filtros.</div>`;
+      return;
+    }
+
+    el.innerHTML = items.slice(0, 120).map(x => `
+      <div class="bg-white border border-gray-200 rounded-2xl p-4">
+        <div class="flex items-start justify-between gap-3">
+          <div>
+            <div class="font-bold text-gray-900">${x.commission}</div>
+            <div class="text-xs text-gray-500">${x.group} · ${x.fecha || "—"} · sesión ${x.session_id || "—"}</div>
+          </div>
+          <span class="text-xs px-2 py-1 rounded-full ${getEstadoColor(x.estado || "—")}">${x.estado || "—"}</span>
+        </div>
+        ${x.citacion ? `<div class="mt-2"><a href="${x.citacion}" target="_blank" class="text-sm text-purple-700 hover:underline">Ver citación ↗</a></div>` : ``}
+      </div>
+    `).join("");
+  }
+
+  // ===== News =====
+
+  async function loadNews() {
+    const source = $("newsSource").value || "diario_oficial";
+    const q = $("newsQ").value || "";
+
+    // (opcional) muestra que está cargando
+    const el = $("newsList");
+    if (el) el.innerHTML = `<div class="text-sm text-gray-500">Cargando noticias...</div>`;
+
+    try {
+      const data = await apiGet(`/api/news?source=${encodeURIComponent(source)}&q=${encodeURIComponent(q)}`);
+
+      let items = data.items;
+
+      // ✅ si viene como string, parsear a JSON
+      if (typeof items === "string") {
+        try {
+          items = JSON.parse(items);
+        } catch (e) {
+          console.error("items llegó como string pero no se pudo parsear:", items);
+          items = [];
+        }
+      }
+
+      // ✅ asegurar arreglo
+      if (!Array.isArray(items)) items = [];
+
+      renderNews(items);
+    } catch (e) {
+      console.error("[loadNews] error:", e);
+      if (el) el.innerHTML = `<div class="text-sm text-red-600">Error cargando noticias: ${e.message}</div>`;
+    }
+  }
+
+
+  function renderNews(items) {
+    const el = $("newsList");
+    if (!el) return;
+
+    if (!items.length) {
+      el.innerHTML = `<div class="text-sm text-gray-500">No hay noticias cargadas todavía (JSONL vacío o no existe).</div>`;
+      return;
+    }
+
+    el.innerHTML = items.slice(0, 120).map(it => `
+      <div class="bg-white border border-gray-200 rounded-2xl p-4">
+        <div class="font-bold text-gray-900">${it.title || it.titulo || "Sin título"}</div>
+        <div class="text-xs text-gray-500">${it.date || it.fecha || ""}</div>
+        ${it.summary || it.resumen ? `<div class="mt-2 text-sm text-gray-700">${it.summary || it.resumen}</div>` : ``}
+        ${it.url ? `<a class="mt-2 inline-block text-sm text-purple-700 font-semibold hover:underline" href="${it.url}" target="_blank">Abrir →</a>` : ``}
+      </div>
+    `).join("");
+  }
+
+  // ===== Chat =====
+  async function sendChat() {
+    const msg = ($("chatInput").value || "").trim();
+    if (!msg) return;
+
+    $("chatBtn").disabled = true;
+    $("chatBtn").textContent = "Enviando...";
+    $("chatMeta").textContent = `POST /api/chat · ${new Date().toLocaleTimeString("es-CL")}`;
+
+    try {
+      const data = await apiPostJSON("/api/chat", { message: msg });
+      $("chatOutput").textContent = data.response || JSON.stringify(data, null, 2);
+    } catch (e) {
+      $("chatOutput").textContent = `❌ ${e.message}`;
+    } finally {
+      $("chatBtn").disabled = false;
+      $("chatBtn").textContent = "Enviar";
+    }
+  }
+
+  async function uploadFile() {
+    const f = $("uploadFile").files?.[0];
+    if (!f) {
+      $("uploadStatus").textContent = "Selecciona un .txt o .md";
+      return;
+    }
+
+    $("uploadBtn").disabled = true;
+    $("uploadStatus").textContent = "Subiendo...";
+
+    try {
+      const fd = new FormData();
+      fd.append("file", f);
+      const data = await apiPostForm("/api/upload", fd);
+      $("uploadStatus").textContent = data.success ? `✓ Subido: ${data.saved_as}` : `✗ ${data.error || "Error"}`;
+    } catch (e) {
+      $("uploadStatus").textContent = `❌ ${e.message}`;
+    } finally {
+      $("uploadBtn").disabled = false;
+    }
+  }
+
+  // ===== init =====
+  async function initDashboard() {
+    await pingHealth();
+    currentGroup = $("groupSelect").value || "Permanentes";
+    await loadCommissions("");
+    await loadPoliticians("");
+  }
+
+  // Bind UI
+  $("backendOrigin").textContent = API_BASE;
+
+  $("groupSelect")?.addEventListener("change", async () => {
+    currentGroup = $("groupSelect").value;
+    await loadCommissions(($("commissionSearch").value || "").trim());
+  });
+
+  $("commissionSearchBtn")?.addEventListener("click", async () => {
+    await loadCommissions(($("commissionSearch").value || "").trim());
+  });
+
+  $("commissionSearch")?.addEventListener("keydown", async (e) => {
+    if (e.key === "Enter") await loadCommissions(($("commissionSearch").value || "").trim());
+  });
+
+  $("politicianSearchBtn")?.addEventListener("click", async () => {
+    await loadPoliticians(($("politicianSearch").value || "").trim());
+  });
+
+  $("politicianSearch")?.addEventListener("keydown", async (e) => {
+    if (e.key === "Enter") await loadPoliticians(($("politicianSearch").value || "").trim());
+  });
+
+  $("activityBtn")?.addEventListener("click", loadActivity);
+  $("newsBtn")?.addEventListener("click", loadNews);
+
+  $("chatBtn")?.addEventListener("click", sendChat);
+  $("chatInput")?.addEventListener("keydown", (e) => {
+    if (e.ctrlKey && e.key === "Enter") sendChat();
+  });
+
+  $("uploadBtn")?.addEventListener("click", uploadFile);
+
+  // Expose openCommission for inline onclick
+  window.__openCommission = openCommission;
+
+  // First health ping on landing
+  pingHealth();
+})();
+</script>
+
+</body>
+</html>

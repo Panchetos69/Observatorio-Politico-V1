@@ -1,0 +1,58 @@
+{
+  "comision": "Familia",
+  "prmID": "3315",
+  "integrantes": [
+    {
+      "nombre": "Sr. Juan Irarrázaval Rossel",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1133"
+    },
+    {
+      "nombre": "Sra. Mónica Arce Castro",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1101"
+    },
+    {
+      "nombre": "Sr. Arturo Barrios Oteíza",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1185"
+    },
+    {
+      "nombre": "Sra. Sara Concha Smith",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1119"
+    },
+    {
+      "nombre": "Sr. Felipe Donoso Castro",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1126"
+    },
+    {
+      "nombre": "Sra. Ana María Gazmuri Vieira",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1128"
+    },
+    {
+      "nombre": "Sra. Francesca Muñoz González",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1054"
+    },
+    {
+      "nombre": "Sra. Lorena Pizarro Sierra",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1159"
+    },
+    {
+      "nombre": "Sra. Natalia Romero Talguia",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1166"
+    },
+    {
+      "nombre": "Sr. Jorge Saffirio Espinoza",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1168"
+    },
+    {
+      "nombre": "Sra. Carolina Tello Rojas",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1177"
+    },
+    {
+      "nombre": "Sr. Francisco Undurraga Gazitúa",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1081"
+    },
+    {
+      "nombre": "Sra. Consuelo Veloso Ávila",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1180"
+    }
+  ]
+}

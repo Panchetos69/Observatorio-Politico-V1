@@ -1,0 +1,26 @@
+{
+  "comision": "Subcomisión de Reglamento",
+  "prmID": "4761",
+  "integrantes": [
+    {
+      "nombre": "Sr. Jorge Alessandri Vergara",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1009"
+    },
+    {
+      "nombre": "Sr. Marcos Ilabaca Cerda",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1038"
+    },
+    {
+      "nombre": "Sr. Andrés Longton Herrera",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1046"
+    },
+    {
+      "nombre": "Sra. Javiera Morales Alvarado",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1148"
+    },
+    {
+      "nombre": "Sr. Luis Sánchez Ossa",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1170"
+    }
+  ]
+}

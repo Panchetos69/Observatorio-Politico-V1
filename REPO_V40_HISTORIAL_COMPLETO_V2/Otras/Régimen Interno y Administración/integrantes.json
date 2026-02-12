@@ -1,0 +1,50 @@
+{
+  "comision": "Régimen Interno y Administración",
+  "prmID": "3318",
+  "integrantes": [
+    {
+      "nombre": "Sr. José Miguel Castro Bascuñán",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1019"
+    },
+    {
+      "nombre": "Sra. Daniella Cicardini Milla",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=975"
+    },
+    {
+      "nombre": "Sra. Viviana Delgado Riquelme",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1125"
+    },
+    {
+      "nombre": "Sr. Juan Fuenzalida Cobo",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1031"
+    },
+    {
+      "nombre": "Sra. Ana María Gazmuri Vieira",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1128"
+    },
+    {
+      "nombre": "Sr. Enrique Lee Flores",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1139"
+    },
+    {
+      "nombre": "Sra. Helia Molina Milman",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1147"
+    },
+    {
+      "nombre": "Sra. Javiera Morales Alvarado",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1148"
+    },
+    {
+      "nombre": "Sra. Ximena Ossandón Irarrázabal",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1059"
+    },
+    {
+      "nombre": "Sr. Agustín Romero Leiva",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1165"
+    },
+    {
+      "nombre": "Sr. Jorge Saffirio Espinoza",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1168"
+    }
+  ]
+}

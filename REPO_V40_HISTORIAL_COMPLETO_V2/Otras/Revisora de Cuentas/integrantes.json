@@ -1,0 +1,42 @@
+{
+  "comision": "Revisora de Cuentas",
+  "prmID": "3325",
+  "integrantes": [
+    {
+      "nombre": "Sr. Daniel Manouchehri Lobos",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1142"
+    },
+    {
+      "nombre": "Sr. Eric Aedo Jeldres",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1097"
+    },
+    {
+      "nombre": "Sr. Félix González Gatica",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1034"
+    },
+    {
+      "nombre": "Sr. Cristian Labbé Martínez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1094"
+    },
+    {
+      "nombre": "Sra. Karen Medina Vásquez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1145"
+    },
+    {
+      "nombre": "Sr. José Carlos Meza Pereira",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1146"
+    },
+    {
+      "nombre": "Sr. Hernán Palma Pérez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1156"
+    },
+    {
+      "nombre": "Sr. Hugo Rey Martínez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1067"
+    },
+    {
+      "nombre": "Sr. Cristián Tapia Ramos",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1175"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "comision": "Hacienda",
+  "prmID": "3307",
+  "integrantes": [
+    {
+      "nombre": "Sr. Boris Barrera Moreno",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1012"
+    },
+    {
+      "nombre": "Sr. Carlos Bianchi Chelech",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1110"
+    },
+    {
+      "nombre": "Sr. Ricardo Cifuentes Lillo",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1118"
+    },
+    {
+      "nombre": "Sr. Luis Alberto Cuello Peña y Lillo",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1122"
+    },
+    {
+      "nombre": "Sr. Felipe Donoso Castro",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1126"
+    },
+    {
+      "nombre": "Sr. Miguel Mellado Suazo",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1050"
+    },
+    {
+      "nombre": "Sra. Camila Rojas Valderrama",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1068"
+    },
+    {
+      "nombre": "Sr. Agustín Romero Leiva",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1165"
+    },
+    {
+      "nombre": "Sr. Juan Santana Castillo",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1073"
+    },
+    {
+      "nombre": "Sr. Frank Sauerbaum Muñoz",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=953"
+    },
+    {
+      "nombre": "Sr. Alexis Sepúlveda Soto",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1076"
+    },
+    {
+      "nombre": "Sr. Gastón Von Mühlenbrock Zamora",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=917"
+    },
+    {
+      "nombre": "Sra. Gael Yeomans Araya",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1087"
+    }
+  ]
+}

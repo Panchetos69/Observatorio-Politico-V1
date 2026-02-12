@@ -1,0 +1,30 @@
+{
+  "comision": "Subcomisión de Crimen Organizado",
+  "prmID": "4701",
+  "integrantes": [
+    {
+      "nombre": "Sr. Diego Schalper Sepúlveda",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1075"
+    },
+    {
+      "nombre": "Sr. Raúl Leiva Carvajal",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1044"
+    },
+    {
+      "nombre": "Sr. Andrés Longton Herrera",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1046"
+    },
+    {
+      "nombre": "Sra. Gloria Naveillan Arriagada",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1152"
+    },
+    {
+      "nombre": "Sra. Maite Orsini Pascal",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1058"
+    },
+    {
+      "nombre": "Sra. Alejandra Placencia Cabello",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1160"
+    }
+  ]
+}

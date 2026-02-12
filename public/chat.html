@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>OP - Chat IA</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+    body { font-family: 'Inter', sans-serif; }
+    .gradient-text{
+      background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+      -webkit-text-fill-color: transparent;
+    }
+  </style>
+  <script src="/assets/app.js"></script>
+  <script src="/assets/ui.js"></script>
+</head>
+
+<body class="bg-gray-50">
+  <div class="min-h-screen p-6">
+    <div class="max-w-5xl mx-auto">
+      <div class="flex items-center justify-between mb-4">
+        <div class="flex items-center gap-3">
+          <div class="h-10 w-10 rounded-2xl bg-gradient-to-br from-indigo-500 to-purple-600 text-white flex items-center justify-center font-extrabold shadow">
+            OP
+          </div>
+          <div>
+            <h1 class="text-xl font-extrabold gradient-text">Chat IA</h1>
+            <p class="text-xs text-gray-500">Respuestas basadas en evidencia documental</p>
+          </div>
+        </div>
+        <a href="/" class="px-4 py-2 rounded-xl bg-white border shadow-sm hover:bg-gray-50 text-sm font-semibold">
+          Volver
+        </a>
+      </div>
+
+      <div class="bg-white rounded-2xl shadow-lg border overflow-hidden flex flex-col h-[78vh]">
+        <div class="p-4 border-b bg-gradient-to-r from-indigo-50 to-purple-50">
+          <div class="flex items-center gap-3">
+            <div class="h-9 w-9 rounded-xl bg-indigo-600 text-white flex items-center justify-center font-bold">AI</div>
+            <div class="leading-tight">
+              <div class="font-bold text-gray-900">Observatorio IA</div>
+              <div class="text-xs text-gray-600">Gemini · modo “solo documentos”</div>
+            </div>
+          </div>
+        </div>
+
+        <div id="chatBox" class="flex-1 overflow-y-auto p-5 bg-gray-50 space-y-3">
+          <div class="text-xs text-gray-500">
+            Tip: pregunta por una comisión + tema + (si tienes) ID de sesión. Ej: “En Educación, ¿qué se discutió en la sesión 173?”
+          </div>
+        </div>
+
+        <div class="p-4 border-t bg-white">
+          <div class="flex gap-2 items-end">
+            <textarea id="chatInput" rows="1"
+              class="flex-1 resize-none rounded-xl border px-4 py-3 focus:outline-none focus:ring-2 focus:ring-indigo-400"
+              placeholder="Escribe tu pregunta…"></textarea>
+
+            <button id="sendBtn"
+              class="px-5 py-3 rounded-xl font-semibold text-white bg-gradient-to-r from-indigo-500 to-purple-600 hover:opacity-90 shadow">
+              Enviar
+            </button>
+          </div>
+          <div id="statusLine" class="mt-2 text-xs text-gray-500"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script>
+  const chatBox = document.getElementById("chatBox");
+  const chatInput = document.getElementById("chatInput");
+  const sendBtn = document.getElementById("sendBtn");
+  const statusLine = document.getElementById("statusLine");
+
+  function escapeHtml(s){
+    return String(s)
+      .replaceAll('&','&amp;')
+      .replaceAll('<','&lt;')
+      .replaceAll('>','&gt;')
+      .replaceAll('"','&quot;')
+      .replaceAll("'",'&#39;');
+  }
+
+  function linkify(s){
+    s = s.replace(/(https?:\/\/[^\s<]+)/g, '<a class="underline text-indigo-700" href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
+    s = s.replace(/\b(\/api\/[\w\-\/?=&%\.]+)\b/g, '<a class="underline text-indigo-700" href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
+    return s;
+  }
+
+  function formatAI(text){
+    let s = escapeHtml(text);
+    s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    s = s.replace(/`([^`]+)`/g, '<code class="px-1.5 py-0.5 rounded bg-gray-100 border text-[12px]">$1</code>');
+    s = s.replace(/\(FUENTE:\s*(<code[^>]*>[^<]+<\/code>)\)/gi, '<span class="inline-flex items-center gap-1 text-[11px] px-2 py-1 rounded-full bg-indigo-50 text-indigo-700 border border-indigo-100">Fuente</span> $1');
+    s = s.replace(/\n/g, '<br>');
+    s = linkify(s);
+    return s;
+  }
+
+  function addBubble(text, role="user"){
+    const wrap = document.createElement("div");
+    wrap.className = role === "user" ? "flex justify-end" : "flex justify-start";
+
+    const bubble = document.createElement("div");
+    if(role === "user"){
+      bubble.className = "max-w-[80%] rounded-2xl rounded-br-sm bg-indigo-600 text-white px-4 py-3 shadow";
+      bubble.style.whiteSpace = "pre-wrap";
+      bubble.textContent = text;
+    } else {
+      bubble.className = "max-w-[80%] rounded-2xl rounded-bl-sm bg-white border px-4 py-3 shadow-sm";
+      bubble.classList.add("prose","prose-sm","max-w-none");
+      bubble.innerHTML = formatAI(text);
+    }
+
+    wrap.appendChild(bubble);
+    chatBox.appendChild(wrap);
+    chatBox.scrollTop = chatBox.scrollHeight;
+    return bubble;
+  }
+
+  function setStatus(text){
+    statusLine.textContent = text || "";
+  }
+
+  async function postChat(msg){
+    if(typeof apiPostJson === "function"){
+      return await apiPostJson("/api/chat", {message: msg});
+    }
+    const r = await fetch("/api/chat", {
+      method: "POST",
+      headers: {"Content-Type":"application/json"},
+      body: JSON.stringify({message: msg})
+    });
+    const data = await r.json().catch(()=> ({}));
+    if(!r.ok) throw new Error(data.error || "Error API");
+    return data;
+  }
+
+  async function send(){
+    const msg = (chatInput.value || "").trim();
+    if(!msg) return;
+
+    addBubble(msg, "user");
+    chatInput.value = "";
+    chatInput.style.height = "auto";
+
+    const typing = addBubble("Escribiendo…", "ai");
+    setStatus("Consultando /api/chat …");
+
+    try{
+      const data = await postChat(msg);
+      typing.innerHTML = formatAI(data.response || data.reply || "Sin respuesta");
+      setStatus("");
+    }catch(e){
+      typing.innerHTML = formatAI("❌ Error consultando API");
+      setStatus(String(e.message || e));
+    }
+  }
+
+  chatInput.addEventListener("keydown", (e)=>{
+    if(e.key === "Enter" && !e.shiftKey){
+      e.preventDefault();
+      send();
+    }
+  });
+
+  chatInput.addEventListener("input", ()=>{
+    chatInput.style.height = "auto";
+    chatInput.style.height = Math.min(chatInput.scrollHeight, 160) + "px";
+  });
+
+  sendBtn.addEventListener("click", send);
+</script>
+</body>
+</html>

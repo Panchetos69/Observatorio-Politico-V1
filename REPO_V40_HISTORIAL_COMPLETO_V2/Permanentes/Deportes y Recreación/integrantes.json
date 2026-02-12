@@ -1,0 +1,58 @@
+{
+  "comision": "Deportes y Recreación",
+  "prmID": "3327",
+  "integrantes": [
+    {
+      "nombre": "Sr. Jorge Guzmán Zepeda",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1132"
+    },
+    {
+      "nombre": "Sr. Roberto Arroyo Muñoz",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1102"
+    },
+    {
+      "nombre": "Sr. Andrés Celis Montt",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1021"
+    },
+    {
+      "nombre": "Sr. Andrés Giordano Salazar",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1129"
+    },
+    {
+      "nombre": "Sr. Enrique Lee Flores",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1139"
+    },
+    {
+      "nombre": "Sr. Daniel Manouchehri Lobos",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1142"
+    },
+    {
+      "nombre": "Sr. Cristóbal Martínez Ramírez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1143"
+    },
+    {
+      "nombre": "Sr. Jaime Mulet Martínez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=872"
+    },
+    {
+      "nombre": "Sra. Erika Olivera De La Fuente",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1057"
+    },
+    {
+      "nombre": "Sra. Marisela Santibáñez Novoa",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1074"
+    },
+    {
+      "nombre": "Sr. Marco Antonio Sulantay Olivares",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1174"
+    },
+    {
+      "nombre": "Sr. Cristián Tapia Ramos",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1175"
+    },
+    {
+      "nombre": "Sr. Hotuiti Teao Drago",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1176"
+    }
+  ]
+}

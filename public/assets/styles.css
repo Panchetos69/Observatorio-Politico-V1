@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+
+body { font-family: 'Inter', sans-serif; }
+
+.gradient-text{
+  background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.card-hover{ transition: all .25s ease; }
+.card-hover:hover{
+  transform: translateY(-3px);
+  box-shadow: 0 20px 40px rgba(0,0,0,.08);
+}
