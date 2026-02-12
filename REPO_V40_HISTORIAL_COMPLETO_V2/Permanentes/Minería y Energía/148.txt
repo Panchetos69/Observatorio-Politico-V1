@@ -1,0 +1,55 @@
+Este es un resumen detallado y transcripción de los puntos clave de la sesión de la Comisión de Minería y Energía de la Cámara de Diputados de Chile:
+
+**00:16 - 03:51: Apertura y Cuenta Administrativa**
+El Presidente de la comisión da inicio a la sesión. La secretaria procede a dar la cuenta de los documentos recibidos, que incluyen:
+*   Oficios del Presidente de la República retirando y haciendo presente urgencias para proyectos de ley (modernización de ENAMI).
+*   Indicaciones de varios diputados al mismo proyecto.
+*   Informes de Codelco sobre accidentes laborales recientes (Codelco División El Teniente y Salvador).
+*   Informes técnicos sobre medición inteligente de consumo eléctrico.
+*   Solicitudes de audiencia de gremios y empresas.
+*   Notificaciones de reemplazos de diputados en la sesión actual.
+
+**03:52 - 07:11: Puntos Varios - Seguridad Laboral**
+El diputado Cristian Tapia toma la palabra para expresar su preocupación por la situación laboral en la Región de Atacama:
+*   Menciona una huelga de 20 días en el sindicato N°2 de Mantos Verdes.
+*   Lamenta profundamente el fallecimiento de un trabajador en la fundición Potrerillos (División Salvador de Codelco) tras el colapso de una chimenea.
+*   Critica duramente la gestión de Codelco, señalando que ya van 11 trabajadores muertos bajo la actual administración. 
+*   Solicita formalmente citar al Presidente Ejecutivo de Codelco (Máximo Pacheco), a los dirigentes del sindicato N°2 de Salvador y al gerente de seguridad de dicha división para dar explicaciones.
+
+**08:12 - 09:49: Preocupación por el Ministerio de Minería**
+Un diputado manifiesta su preocupación por la aparente falta de un anuncio claro sobre quién encabezará específicamente la cartera de Minería en el futuro gabinete, dada la importancia estratégica y económica de este pilar para el país (menciona que el actual es biministro, compartiendo con Energía).
+
+**09:50 - 20:30: Presentación de la Ministra Aurora Williams sobre ENAMI**
+Se inicia la discusión del proyecto de ley que moderniza el gobierno corporativo de la Empresa Nacional de Minería (ENAMI). La Ministra de Minería, Aurora Williams, realiza una presentación detallada:
+*   Explica que el proyecto se basa en las recomendaciones de una comisión investigadora de la Cámara (Comisión 31 de 2023).
+*   Repasa intentos anteriores de modernización (gobiernos de Piñera en 2014 y 2021) que buscaban profesionalizar el directorio y eliminar la presencia de ministros y representantes gremiales directos.
+*   Analiza el rol histórico y actual de la Sociedad Nacional de Minería (SONAMI). Presenta datos que muestran que SONAMI representa no solo a pequeños mineros (40 asociaciones), sino mayoritariamente a la gran minería (49 socios que producen el 75% del cobre en Chile). 
+*   Argumenta que el directorio de ENAMI toma decisiones complejas (compra/venta de activos, contratos de litio, fundiciones) que requieren una estructura corporativa moderna y libre de conflictos de interés gremiales.
+
+**20:31 - 38:00: Votación de Artículos - Proyecto ENAMI**
+La comisión procede a votar los artículos del proyecto. 
+*   Se aprueba el cambio de nombre y el traslado de la sede legal de la empresa a Copiapó.
+*   Se genera un intenso debate sobre un inciso que obligaría al Vicepresidente Ejecutivo y altos cargos a desempeñar sus funciones exclusivamente en las oficinas regionales, excluyendo la Región Metropolitana. Tras la votación, se produce un empate y el punto es rechazado por ahora.
+*   Se aprueban diversos perfeccionamientos de lenguaje técnico y referencias a leyes de presupuesto y administración financiera.
+
+**38:01 - 42:21: Acuerdo de Mesa de Trabajo**
+Debido a la complejidad y las múltiples indicaciones respecto a la composición del directorio (el "corazón" del proyecto), el Presidente sugiere, y la Ministra acepta, conformar una mesa técnica de asesores para llegar a una propuesta consensuada antes de la próxima sesión del miércoles.
+
+**42:22 - 61:00: Presentación de Daniel Jiménez sobre el Litio**
+El ingeniero experto Daniel Jiménez expone sobre la "concesibilidad del litio":
+*   Compara críticamente a Chile con Argentina. Señala que mientras Argentina trata el litio como un mineral concesible más, Chile lo mantiene como "no concesible", lo cual ha frenado la exploración.
+*   Muestra que Argentina superará pronto a Chile en número de proyectos operativos y participación de mercado.
+*   Critica la obligatoriedad de la tecnología DLE (Extracción Directa de Litio) por sus altos costos de agua fresca y energía, y cuestiona la viabilidad de imponer "valor agregado" forzado, dado que China domina la eficiencia en refinación.
+*   Recomienda liberalizar el litio e incorporarlo a las concesiones mineras existentes para acelerar el desarrollo del sector.
+
+**61:15 - 73:19: Debate sobre Litio y Bolivia**
+El experto responde consultas de los diputados. Sobre Bolivia, opina que es el país que peor ha manejado su política de litio (después de Chile, según su visión), debido a la complejidad técnica de su recurso (Salar de Uyuni) y la inestabilidad para las inversiones. Reitera que Chile está perdiendo una oportunidad histórica por su marco regulatorio rígido.
+
+**73:20 - 85:00: Presentación sobre Medidores Inteligentes**
+El Subsecretario de Energía, Álvaro García, se conecta vía Zoom para comentar un proyecto de ley sobre la instalación obligatoria de medidores remotos (inteligentes).
+*   Valora la intención de modernizar el sistema, pero advierte sobre los costos: estima una inversión de 3.000 millones de dólares para el universo total de clientes.
+*   Señala que, bajo el modelo regulatorio actual de "empresa modelo", cualquier inversión obligatoria de este tipo termina siendo traspasada a la tarifa de los clientes finales.
+*   Argumenta que exigir que las empresas asuman el costo total sin traspasarlo haría inviable la operación de las distribuidoras eléctricas.
+
+**86:30 - 90:19: Acuerdos Finales y Cierre**
+La comisión adopta acuerdos de plazos para indicaciones de los proyectos discutidos. Finalmente, se vota en general el proyecto de medidores inteligentes, siendo aprobado por unanimidad. La sesión se levanta a las 90:20.

@@ -1,0 +1,58 @@
+{
+  "comision": "Defensa Nacional",
+  "prmID": "3313",
+  "integrantes": [
+    {
+      "nombre": "Sr. Enrique Lee Flores",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1139"
+    },
+    {
+      "nombre": "Sr. Roberto Arroyo Muñoz",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1102"
+    },
+    {
+      "nombre": "Sr. Miguel Ángel Becker Alvear",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1106"
+    },
+    {
+      "nombre": "Sr. Jorge Brito Hasbún",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1015"
+    },
+    {
+      "nombre": "Sr. Álvaro Carter Fernández",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1017"
+    },
+    {
+      "nombre": "Sra. Camila Flores Oporto",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1030"
+    },
+    {
+      "nombre": "Sra. Carmen Hertz Cádiz",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1035"
+    },
+    {
+      "nombre": "Sr. Andrés Jouannet Valderrama",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1134"
+    },
+    {
+      "nombre": "Sr. Raúl Leiva Carvajal",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1044"
+    },
+    {
+      "nombre": "Sr. Cristhian Moreira Barros",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1053"
+    },
+    {
+      "nombre": "Sra. Coca Ericka Ñanco Vásquez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1153"
+    },
+    {
+      "nombre": "Sr. Luis Sánchez Ossa",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1170"
+    },
+    {
+      "nombre": "Sr. Francisco Undurraga Gazitúa",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1081"
+    }
+  ]
+}

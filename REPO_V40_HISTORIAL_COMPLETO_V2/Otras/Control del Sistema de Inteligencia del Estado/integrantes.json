@@ -1,0 +1,34 @@
+{
+  "comision": "Control del Sistema de Inteligencia del Estado",
+  "prmID": "3328",
+  "integrantes": [
+    {
+      "nombre": "Sr. Stephan Schubert Rubio",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1172"
+    },
+    {
+      "nombre": "Sr. René Alinco Bustos",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=803"
+    },
+    {
+      "nombre": "Sr. Jorge Brito Hasbún",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1015"
+    },
+    {
+      "nombre": "Sr. Álvaro Carter Fernández",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1017"
+    },
+    {
+      "nombre": "Sra. Daniella Cicardini Milla",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=975"
+    },
+    {
+      "nombre": "Sra. Karen Medina Vásquez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1145"
+    },
+    {
+      "nombre": "Sr. Leonidas Romero Sáez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1069"
+    }
+  ]
+}

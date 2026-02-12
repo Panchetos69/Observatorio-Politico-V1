@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>OP - Congresistas</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+    body { font-family: 'Inter', sans-serif; }
+    .gradient-text{
+  background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+  background-clip: text;           /* estándar */
+  -webkit-background-clip: text;   /* Safari/Chrome */
+  color: transparent;              /* estándar */
+  -webkit-text-fill-color: transparent; /* Safari */
+}
+    .card-hover{transition:all .25s ease;} .card-hover:hover{transform:translateY(-3px);box-shadow:0 20px 40px rgba(0,0,0,.08);}
+  </style>
+  <script src="/assets/app.js"></script>
+  <script src="/assets/ui.js"></script>
+</head>
+<body class="bg-gray-50">
+  <div class="max-w-6xl mx-auto px-4 py-6">
+    <div class="flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-bold">OP</div>
+        <div>
+          <div class="text-xl font-extrabold gradient-text">Observatorio Político</div>
+          <div class="text-sm text-gray-500">Congresistas</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-6 flex gap-6 text-sm text-gray-600 border-b border-gray-200 pb-3">
+      <a id="nav-chat" href="/chat.html">💬 Chat IA</a>
+      <a id="nav-congresistas" href="/congresistas.html">👥 Congresistas</a>
+      <a id="nav-comisiones" href="/comisiones.html">📁 Comisiones</a>
+      <a id="nav-actividad" href="/actividad.html">🔔 Actividad Legislativa</a>
+      <a id="nav-carga" href="/carga.html">📚 Carga</a>
+      <a id="nav-noticias" href="/noticias.html">📰 Noticias</a>
+    </div>
+    <script>setActiveNav("nav-congresistas");</script>
+
+    <div class="mt-6 bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center">👥</div>
+        <div>
+          <h2 class="text-2xl font-extrabold">Búsqueda de Congresistas</h2>
+          <p class="text-gray-500">Explora perfiles oficiales y crea perfiles internos KOM.</p>
+        </div>
+      </div>
+
+      <div class="mt-5 grid grid-cols-1 md:grid-cols-3 gap-3">
+        <input id="q" class="px-4 py-3 rounded-2xl border border-gray-200" placeholder="Buscar por nombre..." />
+        <select id="chamber" class="px-4 py-3 rounded-2xl border border-gray-200">
+          <option value="all">Todas las cámaras</option>
+          <option value="camara">Cámara</option>
+          <option value="senado">Senado</option>
+        </select>
+        <button class="px-4 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold" onclick="loadPeople()">Buscar</button>
+      </div>
+
+      <div class="mt-6 text-sm text-gray-500" id="count">Cargando…</div>
+      <div class="mt-4 grid grid-cols-1 md:grid-cols-3 gap-4" id="grid"></div>
+    </div>
+
+    <!-- Modal KOM -->
+    <div id="komModal" class="fixed inset-0 hidden items-center justify-center bg-black/40 p-4">
+      <div class="bg-white rounded-2xl w-full max-w-2xl p-6">
+        <div class="flex items-start justify-between">
+          <div>
+            <div class="text-lg font-extrabold" id="komName">Perfil KOM</div>
+            <div class="text-sm text-gray-500" id="komMeta"></div>
+          </div>
+          <button class="px-3 py-2 rounded-xl bg-gray-100" onclick="closeKom()">Cerrar</button>
+        </div>
+
+        <div class="mt-4">
+          <label class="text-sm font-semibold text-gray-700">Notas internas</label>
+          <textarea id="komNotas" class="mt-2 w-full h-40 px-4 py-3 rounded-2xl border border-gray-200"></textarea>
+        </div>
+
+        <div class="mt-4 flex justify-end gap-2">
+          <button class="px-4 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold" onclick="saveKom()">Guardar</button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+<script>
+  let currentPerson = null;
+
+  async function loadPeople(){
+    const q = document.getElementById("q").value.trim();
+    const chamber = document.getElementById("chamber").value;
+    const data = await apiGet(`/api/politicians?q=${encodeURIComponent(q)}&chamber=${encodeURIComponent(chamber)}`);
+    const grid = document.getElementById("grid");
+    const count = document.getElementById("count");
+    count.textContent = `Mostrando ${data.total || 0} congresistas`;
+    grid.innerHTML = "";
+
+    (data.politicians || []).forEach(p=>{
+      const initials = p.nombre.split(" ").slice(0,2).map(x=>x[0]).join("").toUpperCase();
+      grid.innerHTML += `
+        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5 card-hover">
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 rounded-full bg-purple-600 text-white flex items-center justify-center font-bold">${initials}</div>
+            <div>
+              <div class="font-extrabold">${p.nombre}</div>
+              <div class="text-sm text-gray-500">${p.cargo} • ${p.chamber}</div>
+            </div>
+          </div>
+          <div class="mt-4 flex gap-2">
+            <a class="px-3 py-2 rounded-xl bg-purple-600 hover:bg-purple-700 text-white text-sm font-semibold" target="_blank" href="${p.url_ficha}">Ver Perfil Oficial →</a>
+            <button class="px-3 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-900 text-sm font-semibold"
+              onclick="openKom('${p.chamber}','${p.id}','${encodeURIComponent(p.nombre)}')">Perfil KOM</button>
+          </div>
+        </div>
+      `;
+    });
+  }
+
+  async function openKom(chamber,id,nameEnc){
+    const nombre = decodeURIComponent(nameEnc);
+    currentPerson = {chamber,id,nombre};
+    document.getElementById("komName").textContent = `Perfil KOM • ${nombre}`;
+    document.getElementById("komMeta").textContent = `${chamber} • ID ${id}`;
+
+    const data = await apiGet(`/api/kom/${chamber}/${id}`);
+    document.getElementById("komNotas").value = (data.profile && data.profile.notas) ? data.profile.notas : "";
+
+    const m = document.getElementById("komModal");
+    m.classList.remove("hidden");
+    m.classList.add("flex");
+  }
+
+  function closeKom(){
+    const m = document.getElementById("komModal");
+    m.classList.add("hidden");
+    m.classList.remove("flex");
+  }
+
+  async function saveKom(){
+    if(!currentPerson) return;
+    const notas = document.getElementById("komNotas").value || "";
+    await apiPostJson(`/api/kom/${currentPerson.chamber}/${currentPerson.id}`, {
+      notas,
+      updated_at: new Date().toISOString()
+    });
+    closeKom();
+  }
+
+  loadPeople();
+</script>
+</body>
+</html>

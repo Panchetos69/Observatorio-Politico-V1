@@ -1,0 +1,58 @@
+{
+  "comision": "Salud",
+  "prmID": "3311",
+  "integrantes": [
+    {
+      "nombre": "Sr. Patricio Rosas Barrientos",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1070"
+    },
+    {
+      "nombre": "Sra. Danisa Astudillo Peiretti",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1103"
+    },
+    {
+      "nombre": "Sr. Héctor Barría Angulo",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1105"
+    },
+    {
+      "nombre": "Sra. Marta Bravo Salinas",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1113"
+    },
+    {
+      "nombre": "Srta. Karol Cariola Oliva",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=973"
+    },
+    {
+      "nombre": "Sr. Andrés Celis Montt",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1021"
+    },
+    {
+      "nombre": "Sra. María Luisa Cordero Velásquez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1120"
+    },
+    {
+      "nombre": "Sra. Ana María Gazmuri Vieira",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1128"
+    },
+    {
+      "nombre": "Sr. Tomás Lagomarsino Guzmán",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1137"
+    },
+    {
+      "nombre": "Sr. Daniel Lilayu Vivanco",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1140"
+    },
+    {
+      "nombre": "Sra. Helia Molina Milman",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1147"
+    },
+    {
+      "nombre": "Sr. Hernán Palma Pérez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1156"
+    },
+    {
+      "nombre": "Sr. Agustín Romero Leiva",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1165"
+    }
+  ]
+}

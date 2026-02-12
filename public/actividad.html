@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>OP - Actividad Legislativa</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+    body { font-family: 'Inter', sans-serif; }
+    .gradient-text{
+  background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+  background-clip: text;           /* estándar */
+  -webkit-background-clip: text;   /* Safari/Chrome */
+  color: transparent;              /* estándar */
+  -webkit-text-fill-color: transparent; /* Safari */
+}
+    .card-hover{transition:all .25s ease;} .card-hover:hover{transform:translateY(-3px);box-shadow:0 20px 40px rgba(0,0,0,.08);}
+  </style>
+  <script src="/assets/app.js"></script>
+  <script src="/assets/ui.js"></script>
+</head>
+<body class="bg-gray-50">
+  <div class="max-w-6xl mx-auto px-4 py-6">
+    <div class="flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-bold">OP</div>
+        <div>
+          <div class="text-xl font-extrabold gradient-text">Observatorio Político</div>
+          <div class="text-sm text-gray-500">Actividad Legislativa</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-6 flex gap-6 text-sm text-gray-600 border-b border-gray-200 pb-3">
+      <a id="nav-chat" href="/chat.html">💬 Chat IA</a>
+      <a id="nav-congresistas" href="/congresistas.html">👥 Congresistas</a>
+      <a id="nav-comisiones" href="/comisiones.html">📁 Comisiones</a>
+      <a id="nav-actividad" href="/actividad.html">🔔 Actividad Legislativa</a>
+      <a id="nav-carga" href="/carga.html">📚 Carga</a>
+      <a id="nav-noticias" href="/noticias.html">📰 Noticias</a>
+    </div>
+    <script>setActiveNav("nav-actividad");</script>
+
+    <div class="mt-6 bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center">🔔</div>
+        <div>
+          <h2 class="text-2xl font-extrabold">Alertas Legislativas</h2>
+          <p class="text-gray-500">Derivadas de sesiones en tu data centralizada (CITADA/CELEBRADA/SUSPENDIDA…)</p>
+        </div>
+      </div>
+
+      <div class="mt-5 grid grid-cols-1 md:grid-cols-3 gap-3">
+        <input id="q" class="px-4 py-3 rounded-2xl border border-gray-200" placeholder="Buscar..." />
+        <select id="status" class="px-4 py-3 rounded-2xl border border-gray-200">
+          <option value="">Todos los estados</option>
+          <option value="CITADA">CITADA</option>
+          <option value="CELEBRADA">CELEBRADA</option>
+          <option value="SUSPENDIDA">SUSPENDIDA</option>
+          <option value="FRACASADA">FRACASADA</option>
+          <option value="CELEBRADA">CELEBRADA</option>
+        </select>
+        <button class="px-4 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold" onclick="loadFeed()">Filtrar</button>
+      </div>
+
+      <div class="mt-6 text-sm text-gray-500" id="count">Cargando…</div>
+      <div class="mt-4 space-y-3" id="list"></div>
+    </div>
+  </div>
+
+<script>
+  async function loadFeed(){
+    const q = document.getElementById("q").value.trim();
+    const status = document.getElementById("status").value;
+    const data = await apiGet(`/api/activity?chamber=camara&status=${encodeURIComponent(status)}&q=${encodeURIComponent(q)}`);
+
+    document.getElementById("count").textContent = `Total: ${data.total || 0}`;
+    const list = document.getElementById("list");
+    list.innerHTML = "";
+
+    (data.items || []).slice(0,150).forEach(it=>{
+      const link = it.citacion ? `<a class="text-purple-700 underline" target="_blank" href="${it.citacion}">ver citación</a>` : "";
+      list.innerHTML += `
+        <div class="bg-white rounded-2xl border border-gray-100 p-4 card-hover">
+          <div class="flex items-center justify-between gap-3">
+            <div class="font-extrabold">${it.commission}</div>
+            <div class="text-sm">${badge(it.estado || "-")}</div>
+          </div>
+          <div class="text-sm text-gray-500 mt-1">${it.fecha || ""} • sesión ID ${it.session_id || "-"}</div>
+          <div class="text-sm mt-2">${link}</div>
+        </div>
+      `;
+    });
+  }
+  loadFeed();
+</script>
+</body>
+</html>

@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>OP - Comisiones</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+    body { font-family: 'Inter', sans-serif; }
+    .gradient-text{
+      background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+      -webkit-text-fill-color: transparent;
+    }
+    .card-hover{transition:all .25s ease;} 
+    .card-hover:hover{transform:translateY(-3px);box-shadow:0 20px 40px rgba(0,0,0,.08);}
+  </style>
+</head>
+<body class="bg-gray-50">
+  <div class="max-w-6xl mx-auto px-4 py-6">
+    <div class="flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-bold">OP</div>
+        <div>
+          <div class="text-xl font-extrabold gradient-text">Observatorio Político</div>
+          <div class="text-sm text-gray-500">Comisiones</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-6 flex gap-6 text-sm text-gray-600 border-b border-gray-200 pb-3">
+      <a id="nav-chat" href="/chat.html">💬 Chat IA</a>
+      <a id="nav-congresistas" href="/congresistas.html">👥 Congresistas</a>
+      <a id="nav-comisiones" href="/comisiones.html" class="font-bold text-purple-600">📚 Comisiones</a>
+      <a id="nav-actividad" href="/actividad.html">📋 Actividad Legislativa</a>
+      <a id="nav-carga" href="/carga.html">📚 Carga</a>
+      <a id="nav-noticias" href="/noticias.html">📰 Noticias</a>
+    </div>
+
+    <div class="mt-6 bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center">📚</div>
+        <div>
+          <h2 class="text-2xl font-extrabold">Biblioteca de Comisiones</h2>
+          <p class="text-gray-500">Explora comisiones y sesiones desde tu data centralizada.</p>
+        </div>
+      </div>
+
+      <div class="mt-5 grid grid-cols-1 md:grid-cols-3 gap-3">
+        <input id="q" class="px-4 py-3 rounded-2xl border border-gray-200" placeholder="Buscar comisión..." />
+        <select id="groupSelect" class="px-4 py-3 rounded-2xl border border-gray-200">
+          <option value="Permanentes">Permanentes</option>
+          <option value="Otras">Otras</option>
+          <option value="Unidas">Unidas</option>
+        </select>
+        <button class="px-4 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold" onclick="loadCommissions()">Buscar</button>
+      </div>
+
+      <div class="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div>
+          <div class="text-sm text-gray-500 mb-2" id="count">Cargando…</div>
+          <div id="list" class="space-y-3"></div>
+        </div>
+
+        <div>
+          <div id="detail" class="bg-gray-50 border border-gray-100 rounded-2xl p-4">
+            <div class="text-sm text-gray-500">Selecciona una comisión para ver sesiones.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+<script>
+  const API_BASE = window.location.origin;
+
+  async function apiGet(path) {
+    const res = await fetch(`${API_BASE}${path}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return await res.json();
+  }
+
+  function badge(text) {
+    const colors = {
+      'CITADA': 'bg-blue-100 text-blue-700',
+      'CELEBRADA': 'bg-green-100 text-green-700',
+      'SUSPENDIDA': 'bg-yellow-100 text-yellow-700',
+      'FRACASADA': 'bg-red-100 text-red-700',
+    };
+    const colorClass = colors[text] || 'bg-gray-100 text-gray-700';
+    return `<span class="inline-flex items-center px-2 py-1 rounded-full text-xs font-semibold ${colorClass}">${text}</span>`;
+  }
+
+  async function loadCommissions(){
+    const q = document.getElementById("q").value.trim();
+    const group = document.getElementById("groupSelect").value;
+    
+    const data = await apiGet(`/api/commissions?group=${encodeURIComponent(group)}&q=${encodeURIComponent(q)}`);
+    
+    const list = document.getElementById("list");
+    const count = document.getElementById("count");
+    count.textContent = `Total: ${data.total || 0}`;
+    list.innerHTML = "";
+
+    (data.commissions || []).forEach(c=>{
+      list.innerHTML += `
+        <button class="w-full text-left bg-white rounded-2xl border border-gray-100 p-4 card-hover"
+          onclick="openCommission('${c.group}','${c.commission_name}')">
+          <div class="font-extrabold">${c.nombre}</div>
+          <div class="text-sm text-gray-500">Sesiones: ${c.total_sessions}</div>
+        </button>
+      `;
+    });
+  }
+
+  function linkBtn(label, url) {
+    const isValid = url && url !== "No" && url.trim() !== "";
+    if (!isValid) {
+      return `<span class="inline-flex items-center px-3 py-1.5 rounded-xl text-xs font-semibold bg-gray-100 text-gray-400 border border-gray-200 cursor-not-allowed">${label}</span>`;
+    }
+    return `
+      <a
+        class="inline-flex items-center px-3 py-1.5 rounded-xl text-xs font-semibold bg-purple-600 hover:bg-purple-700 text-white"
+        href="${url}"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        ${label} ↗
+      </a>
+    `;
+  }
+
+  function sessionRow(s){
+    const estado = (s.Estado || "-");
+    const txt = (s.has_txt || s.transcript) ? linkBtn("TXT", s.txt_url || null) : "—";
+
+    return `
+      <tr class="border-t border-gray-100">
+        <td class="py-2">${s.Fecha || ""}</td>
+        <td class="py-2">${badge(estado)}</td>
+
+        <td class="py-2">
+          <div class="flex flex-wrap gap-2">
+            ${linkBtn("Citación", s.Citacion)}
+          </div>
+        </td>
+
+        <td class="py-2">
+          <div class="flex flex-wrap gap-2">
+            ${linkBtn("Cuenta", s.Cuenta)}
+          </div>
+        </td>
+
+        <td class="py-2">
+          <div class="flex flex-wrap gap-2">
+            ${linkBtn("Acta", s.Acta)}
+          </div>
+        </td>
+
+        <td class="py-2 text-center">${txt}</td>
+      </tr>
+    `;
+  }
+
+  async function openCommission(group, commission_name){
+    const data = await apiGet(`/api/commissions/${encodeURIComponent(group)}/${encodeURIComponent(commission_name)}/sessions`);
+    const d = document.getElementById("detail");
+    
+    if(!data.success){
+      d.innerHTML = `<div class="text-red-600">Error: ${data.error || 'Desconocido'}</div>`;
+      return;
+    }
+
+    const c = data.commission;
+    const name = (c.meta && c.meta.nombre) ? c.meta.nombre : commission_name;
+
+    let html = `
+      <div class="font-extrabold text-lg">${name}</div>
+      <div class="text-sm text-gray-500 mt-1">${c.group}</div>
+      <div class="mt-4 text-sm font-semibold">Sesiones</div>
+    `;
+
+    c.years.forEach(y=>{
+      const rows = (c.sessions_by_year[y] || []).map(sessionRow).join("");
+      html += `
+        <div class="mt-3 bg-white rounded-2xl border border-gray-100 p-3">
+          <div class="font-bold text-gray-900">${y}</div>
+          <div class="overflow-auto">
+            <table class="w-full text-sm mt-2">
+              <thead class="text-gray-500">
+                <tr>
+                  <th class="text-left py-2">Fecha</th>
+                  <th class="text-left py-2">Estado</th>
+                  <th class="text-left py-2">Citación</th>
+                  <th class="text-left py-2">Cuenta</th>
+                  <th class="text-left py-2">Acta</th>
+                  <th class="text-center py-2">TXT</th>
+                </tr>
+              </thead>
+              <tbody>${rows}</tbody>
+            </table>
+          </div>
+        </div>
+      `;
+    });
+
+    d.innerHTML = html;
+  }
+
+  loadCommissions();
+</script>
+</body>
+</html>

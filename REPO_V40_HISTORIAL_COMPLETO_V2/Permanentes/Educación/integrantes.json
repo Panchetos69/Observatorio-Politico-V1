@@ -1,0 +1,58 @@
+{
+  "comision": "Educación",
+  "prmID": "3312",
+  "integrantes": [
+    {
+      "nombre": "Sra. Mónica Arce Castro",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1101"
+    },
+    {
+      "nombre": "Sr. Héctor Barría Angulo",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1105"
+    },
+    {
+      "nombre": "Sr. Arturo Barrios Oteíza",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1185"
+    },
+    {
+      "nombre": "Sr. Sergio Bobadilla Muñoz",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=815"
+    },
+    {
+      "nombre": "Sr. Eduardo Cornejo Lagos",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1121"
+    },
+    {
+      "nombre": "Sr. Luis Malla Valenzuela",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1141"
+    },
+    {
+      "nombre": "Sra. Karen Medina Vásquez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1145"
+    },
+    {
+      "nombre": "Sra. Helia Molina Milman",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1147"
+    },
+    {
+      "nombre": "Sra. Marcia Raphael Mora",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1163"
+    },
+    {
+      "nombre": "Sr. Hugo Rey Martínez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1067"
+    },
+    {
+      "nombre": "Sra. Emilia Schneider Videla",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1171"
+    },
+    {
+      "nombre": "Sr. Stephan Schubert Rubio",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1172"
+    },
+    {
+      "nombre": "Sra. Daniela Serrano Salazar",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1173"
+    }
+  ]
+}
