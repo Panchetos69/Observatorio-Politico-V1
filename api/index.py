@@ -5,32 +5,31 @@ import json
 import os
 import sys
 from datetime import datetime
+from pathlib import Path
 from typing import Any, Dict
 
-from fastapi import Body, FastAPI, File, UploadFile
+from fastapi import Body, FastAPI, File, UploadFile, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import HTMLResponse, FileResponse
+from fastapi.responses import FileResponse, PlainTextResponse
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import PlainTextResponse
-from fastapi import FastAPI
-from fastapi import Body
-from fastapi import HTTPException
-from pathlib import Path
 
-# Usamos Pathlib que es más moderno y amigable con Vercel
-# .parent.parent sube dos niveles desde api/index.py para llegar a la raíz
-ROOT_PATH = Path(__file__).parent.parent
-sys.path.append(os.path.dirname(__file__))
+# ------------------------------------------------------------
+# Paths
+# ------------------------------------------------------------
+ROOT_PATH = Path(__file__).parent.parent  # raíz del proyecto
+API_DIR = Path(__file__).parent
+sys.path.append(str(API_DIR))  # permite imports locales tipo: from datastore import DataStore
 
-# Imports relativos corregidos
+# Imports locales (api/)
 from datastore import DataStore
 from agent import LegislativeAgent
 
-# ---------------- config ----------------
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PROJECT_DIR = os.path.abspath(os.path.join(BASE_DIR, ".."))
+# ------------------------------------------------------------
+# Env / Config
+# ------------------------------------------------------------
+BASE_DIR = str(ROOT_PATH)
+PROJECT_DIR = str(ROOT_PATH)
 
-# Load environment variables
 try:
     from dotenv import load_dotenv
     load_dotenv(os.path.join(PROJECT_DIR, ".env"))
@@ -42,18 +41,24 @@ KOM_DIR = os.getenv("KOM_DIR") or os.path.join(PROJECT_DIR, "KOM")
 PUBLIC_DIR = os.path.join(PROJECT_DIR, "public")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 
+# Detectar Vercel/Lambda (filesystem read-only salvo /tmp)
+IS_SERVERLESS = bool(os.getenv("VERCEL") or os.getenv("AWS_LAMBDA_FUNCTION_NAME"))
+
 store = DataStore(DATA_REPO_DIR, KOM_DIR)
 agent = LegislativeAgent(store, GEMINI_API_KEY)
 
 app = FastAPI(title="Observatorio Politico API", version="0.2")
 
-from fastapi.staticfiles import StaticFiles
+# ------------------------------------------------------------
+# Static (solo si existe /public en runtime)
+# En Vercel normalmente el estático lo sirve Vercel por fuera, pero esto no molesta localmente.
+# ------------------------------------------------------------
+if os.path.isdir(PUBLIC_DIR):
+    app.mount("/public", StaticFiles(directory=PUBLIC_DIR, html=True), name="public")
 
-# Esto le dice a FastAPI: "Si alguien pide algo que no es una ruta de API, 
-# búscalo en la carpeta public"
-app.mount("/public", StaticFiles(directory=str(ROOT_PATH / "public")), name="public")
-
-# CORS (frontend served from same origin usually; keep permissive for dev)
+# ------------------------------------------------------------
+# CORS (dev friendly)
+# ------------------------------------------------------------
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -62,31 +67,70 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Serve frontend
-if os.path.isdir(PUBLIC_DIR):
-    app.mount("/public", StaticFiles(directory=PUBLIC_DIR, html=True), name="public")
+# ------------------------------------------------------------
+# Helpers
+# ------------------------------------------------------------
+def _safe_mkdir(path: str):
+    """Crear directorio solo si NO estamos en serverless (o usar /tmp)."""
+    if IS_SERVERLESS:
+        return
+    os.makedirs(path, exist_ok=True)
 
-
-# ---------------- helpers ----------------
 def kom_profile_path(chamber: str, pid: str) -> str:
     chamber = (chamber or "camara").lower()
     safe_pid = str(pid).strip()
+
+    # En serverless => /tmp (escribible)
+    if IS_SERVERLESS:
+        base = os.path.join("/tmp", "kom_profiles", chamber)
+        os.makedirs(base, exist_ok=True)  # /tmp sí permite
+        return os.path.join(base, f"{safe_pid}.json")
+
+    # Local => carpeta KOM/profiles/...
     base = os.path.join(store.kom_dir, "profiles", chamber)
-    os.makedirs(base, exist_ok=True)
+    _safe_mkdir(base)
     return os.path.join(base, f"{safe_pid}.json")
 
+# ------------------------------------------------------------
+# Health
+# ------------------------------------------------------------
+@app.get("/health")
+def health():
+    return {"ok": True}
 
-# ---------------- endpoints ----------------
+@app.get("/api/health")
+def api_health():
+    return {"ok": True}
+
+# ------------------------------------------------------------
+# Front root: devolver index.html si existe
+# (En Vercel normalmente no se usa, pero no rompe local)
+# ------------------------------------------------------------
+@app.get("/")
+async def read_index():
+    # Busca /public/index.html
+    index_path = os.path.join(PUBLIC_DIR, "index.html")
+    if os.path.exists(index_path):
+        return FileResponse(index_path)
+
+    # fallback: raíz
+    fallback = os.path.join(PROJECT_DIR, "index.html")
+    if os.path.exists(fallback):
+        return FileResponse(fallback)
+
+    return {"error": "No encontré index.html", "buscado_en": [index_path, fallback]}
+
+# ------------------------------------------------------------
+# TXT por sesión
+# ------------------------------------------------------------
 @app.get("/api/session_txt")
-def session_txt(group: str, commission: str, session_id: str):
-    # ejemplo esperado:
-    # data_repo_dir/Permanentes/Agricultura, Silvicultura y Desarrollo Rural/221.txt
+def session_txt(group: str, commission: str, sid: str):
     base = store.data_repo_dir
     if not base:
         raise HTTPException(500, "data_repo_dir no configurado")
 
     commission_dir = os.path.join(base, group, commission)
-    path = os.path.join(commission_dir, f"{session_id}.txt")
+    path = os.path.join(commission_dir, f"{sid}.txt")
 
     if not os.path.exists(path):
         raise HTTPException(404, "TXT no encontrado para esa sesión")
@@ -97,66 +141,16 @@ def session_txt(group: str, commission: str, session_id: str):
     except Exception as e:
         raise HTTPException(500, f"No se pudo leer TXT: {e}")
 
-@app.get("/api/kom/{slug}")
-def kom_by_slug(slug: str):
-    prof = store.get_kom_profile(slug)  # (lo implementamos abajo)
-    if not prof:
-        raise HTTPException(status_code=404, detail="KOM profile not found")
-    return {"success": True, "profile": prof}
-
-@app.get("/health")
-def health():
-    return {"ok": True}
-
-@app.get("/")
-async def read_index():
-    # Intentar ruta 1: carpeta public
-    path1 = os.path.join(BASE_DIR, 'public', 'index.html')
-    # Intentar ruta 2: raíz del proyecto
-    path2 = os.path.join(BASE_DIR, 'index.html')
-    
-    if os.path.exists(path1):
-        return FileResponse(path1)
-    elif os.path.exists(path2):
-        return FileResponse(path2)
-    else:
-        # Si no está en ninguna, listamos qué hay en la raíz para saber la verdad
-        files = os.listdir(BASE_DIR)
-        return {"error": "No encontré index.html", "visto_en": [path1, path2], "archivos_raiz": files}
-    
-@app.get("/")
-async def read_index():
-    # Buscamos el archivo usando la ruta absoluta calculada
-    index_path = ROOT_PATH / "public" / "index.html"
-    
-    if index_path.exists():
-        return FileResponse(str(index_path))
-    
-    # Si falla, buscamos en la carpeta actual por si acaso
-    fallback_path = Path("/var/task/public/index.html")
-    if fallback_path.exists():
-        return FileResponse(str(fallback_path))
-        
-    return {
-        "error": "Archivo no encontrado",
-        "buscado_en": str(index_path),
-        "existe_raiz": os.path.exists("/var/task")
-    }
-
+# ------------------------------------------------------------
+# Comisiones / sesiones / transcript
+# ------------------------------------------------------------
 @app.get("/api/commissions")
 def commissions(group: str = "Permanentes", q: str = ""):
-    comms = store.list_commissions(group, q=q)
-    return {
-        "success": True, 
-        "commissions": comms,
-        "total": len(comms)
-    }
-
+    return store.list_commissions(group, q=q)
 
 @app.get("/api/commissions/{group}/{commission_name}/sessions")
 def commission_sessions(group: str, commission_name: str):
     return store.get_commission_sessions(group, commission_name)
-
 
 @app.get("/api/commissions/{group}/{commission_name}/sessions/{sid}/transcript")
 def get_transcript(group: str, commission_name: str, sid: str):
@@ -170,63 +164,33 @@ def get_transcript(group: str, commission_name: str, sid: str):
     except Exception as e:
         return {"success": False, "error": str(e)}
 
-
+# ------------------------------------------------------------
+# Politicians
+# ------------------------------------------------------------
 @app.get("/api/politicians")
 def politicians(q: str = ""):
     pols = store.list_politicians(q=q)
-    return {
-        "success": True, 
-        "politicians": pols,
-        "total": len(pols)
-    }
+    return {"success": True, "politicians": pols, "total": len(pols)}
 
-
+# ------------------------------------------------------------
+# Activity
+# ------------------------------------------------------------
 @app.get("/api/activity")
-def activity(
-    group: str = "", 
-    status: str = "", 
-    q: str = "",
-    days: int = 90  # Nuevo parámetro: días hacia atrás (default: 90 = 3 meses)
-):
-    """
-    Obtiene actividad legislativa reciente
-    
-    Query params:
-        - group: Filtrar por grupo (Permanentes, Otras, Unidas)
-        - status: Filtrar por estado (CITADA, CELEBRADA, SUSPENDIDA, etc)
-        - q: Búsqueda en nombre de comisión
-        - days: Días hacia atrás (default 90 = 3 meses)
-                30 = último mes
-                180 = últimos 6 meses
-                365 = último año
-    
-    Ejemplo: /api/activity?status=CITADA&days=30
-    """
-    items = store.activity_feed(
-        group=group, 
-        status=status, 
-        q=q,
-        days_back=days
-    )
-    return {
-        "success": True, 
-        "items": items,
-        "total": len(items),
-        "days_back": days  # Informar cuántos días se filtraron
-    }
+def activity(group: str = "", status: str = "", q: str = "", days: int = 90):
+    items = store.activity_feed(group=group, status=status, q=q, days_back=days)
+    return {"success": True, "items": items, "total": len(items), "days_back": days}
 
-
+# ------------------------------------------------------------
+# News
+# ------------------------------------------------------------
 @app.get("/api/news")
 def news(source: str = "diario_oficial", q: str = ""):
     items = store.news_feed(source=source, q=q)
-    return {
-        "success": True, 
-        "items": items,
-        "total": len(items)
-    }
+    return {"success": True, "items": items, "total": len(items)}
 
-
-# ---- KOM profiles ----
+# ------------------------------------------------------------
+# KOM profiles
+# ------------------------------------------------------------
 @app.get("/api/kom/{chamber}/{pid}")
 def get_kom_profile(chamber: str, pid: str):
     path = kom_profile_path(chamber, pid)
@@ -251,7 +215,6 @@ def get_kom_profile(chamber: str, pid: str):
         },
     }
 
-
 @app.post("/api/kom/{chamber}/{pid}")
 def save_kom_profile(chamber: str, pid: str, payload: dict = Body(...)):
     payload["id"] = pid
@@ -260,14 +223,17 @@ def save_kom_profile(chamber: str, pid: str, payload: dict = Body(...)):
 
     path = kom_profile_path(chamber, pid)
     try:
+        # En serverless solo /tmp
         with open(path, "w", encoding="utf-8") as f:
             json.dump(payload, f, ensure_ascii=False, indent=2)
-        return {"success": True, "saved": True}
+        return {"success": True, "saved": True, "path": path if IS_SERVERLESS else None}
     except Exception as e:
         return {"success": False, "error": str(e)}
 
-
-# ---- Upload ----
+# ------------------------------------------------------------
+# Upload
+# (OJO: si tu store.save_upload escribe en disco, en Vercel debe usar /tmp)
+# ------------------------------------------------------------
 @app.post("/api/upload")
 async def upload(file: UploadFile = File(...)):
     try:
@@ -277,14 +243,15 @@ async def upload(file: UploadFile = File(...)):
     except Exception as e:
         return {"success": False, "error": str(e)}
 
-
-# ---- Chat with AI agent ----
+# ------------------------------------------------------------
+# Chat IA
+# ------------------------------------------------------------
 @app.post("/api/chat")
 def chat(payload: dict = Body(...)):
     msg = (payload or {}).get("message") or ""
     if not msg:
         return {"success": False, "error": "No message provided"}
-    
+
     try:
         response = agent.ask(msg)
         return {"success": True, "response": response}
