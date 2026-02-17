@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21560",
+  "id_comision": "1405",
+  "nombre_comision": "Comisión Mixta para Boletín Nº 16316-05",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1405/21560",
+  "fecha_iso": "2025-06-03",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "14:35",
+  "hora_termino": "14:48",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16316-05",
+      "tema": "Crea el Servicio de Auditoría Interna de Gobierno Aspectos considerados: La comisión eligió como su Presidenta a la Honorable Senadora señora Ximena Rincón y acordó citar a una próxima sesión.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Diputado Barrera Moreno Boris Diputado Donoso Castro Felipe Senador Insulza Salinas José Miguel Senador Kuschel Silva Carlos Ignacio en reemplazo de Galilea Vial Rodrigo Senador Lagos Weber Ricardo Diputado Mellado Suazo Miguel Diputado Sáez Quiroz Jaime en reemplazo de Yeomans Araya Gael Diputado Videla Castillo Sebastián en reemplazo de Sepúlveda Soto Alexis",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio Secretaría General de la Presidencia, la Ministra, señora Macarena Lobos; el Jefe DIREPOL, señor Carlos Arrué; los asesores, señora Ignacia Guzmán y señores Daniel Vizcarra y Cristián Vargas El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. Los asesores del Honorable Diputado Barrera, señora Josefa Fernández y señor Cristhian Urrea. El asesor del Honorable Diputado Mellado Suazo, señor Benjamín Gajardo. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, la Ministra, señora Macarena Lobos; el Jefe DIREPOL, señor Carlos Arrué; los asesores, señora Ignacia Guzmán y señores Daniel Vizcarra y Cristián Vargas El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. Los asesores del Honorable Diputado Barrera, señora Josefa Fernández y señor Cristhian Urrea. El asesor del Honorable Diputado Mellado Suazo, señor Benjamín Gajardo. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

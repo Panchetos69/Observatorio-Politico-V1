@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22252",
+  "id_comision": "192",
+  "nombre_comision": "Comisión de Agricultura",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/192/22252",
+  "fecha_iso": "2026-01-07",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "11:00",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "14714-01",
+      "tema": "Proyecto de ley que establece una ley marco de suelos. Aspectos considerados: Continuar el estudio de las indicaciones formuladas a la iniciativa legal.",
+      "acuerdo": "Se aprobaron las indicaciones presentadas por el Ejecutivo en cumplimiento de los compromisos tomados con la Comisión. Despachado el proyecto de ley en particular, pasa a la Comisión de Hacienda. Invitar a una futura sesión a representantes del Ministerio de Bienes Nacionales y Familia para referirse a los acuerdos sobre cánones de arriendo de bienes fiscales a agricultores de la Región de Arica y Parinacota. Integrantes: (Presidente) Senadora Sepúlveda Orbenes Alejandra Senadora Aravena Acuña Carmen Gloria Senadora Carvajal Ambiado Loreto Senador Durana Semir José Miguel",
+      "estado_punto": "DESPACHADO",
+      "invitados_punto": "La subdirectora de la Oficina de Estudios y Políticas Agrarias, ODEPA, señora Daniela Acuña. Otros asistentes: Por la Oficina de Estudios y Políticas Agrarias, el abogado don Felipe Valenzuela, y doña María José Pizarro; por la Biblioteca del Congreso Nacional, el analista, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Mauricio Vásquez; de la Senadora señora Aravena, don Felipe Pereira; por el Senador señor Durana, doña Pamela Cousins y don César Quiroga; de la Senadora señora Carvajal, don Julio Valladares; por la Fundación Jaime Guzmán, don Juan José Llorente; y por el Comité del Partido Socialista, don Claudio Hurtado. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "La subdirectora de la Oficina de Estudios y Políticas Agrarias, ODEPA, señora Daniela Acuña."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Oficina de Estudios y Políticas Agrarias, el abogado don Felipe Valenzuela, y doña María José Pizarro; por la Biblioteca del Congreso Nacional, el analista, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Mauricio Vásquez; de la Senadora señora Aravena, don Felipe Pereira; por el Senador señor Durana, doña Pamela Cousins y don César Quiroga; de la Senadora señora Carvajal, don Julio Valladares; por la Fundación Jaime Guzmán, don Juan José Llorente; y por el Comité del Partido Socialista, don Claudio Hurtado."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

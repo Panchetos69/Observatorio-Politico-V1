@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21884",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21884",
+  "fecha_iso": "2025-09-02",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "10:30",
+  "hora_termino": "12:06",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16552-12",
+      "tema": "Modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia Aspectos considerados: La comisión continuó con la discusión del proyecto de ley.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Lagos Weber Ricardo Senador Macaya Danús Javier",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio del Medio Ambiente, la Ministra, señora María Heloisa Rojas; el Jefe de la Oficina de Evaluación Ambiental, señor Sebastián Aylwin y el asesor, señor Tomás Monsalve. Del Ministerio Secretaría General de la Presidencia, el asesor, señor Héctor Correa. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador Espinoza, señor Juan Molina. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Javiera Gómez y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. De la Oficina de la Honorable Senadora Rincón, el Jefe de Gabinete, señor Gonzalo Mardones y la asesora, señora Sofía Dib. Del Comité Renovación Nacional, el asesor, señor Eduardo Méndez. De la Fundación Jaime Guzmán, el asesor, señor Joaquín García. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio del Medio Ambiente, la Ministra, señora María Heloisa Rojas; el Jefe de la Oficina de Evaluación Ambiental, señor Sebastián Aylwin y el asesor, señor Tomás Monsalve."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, el asesor, señor Héctor Correa. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador Espinoza, señor Juan Molina. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Javiera Gómez y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. De la Oficina de la Honorable Senadora Rincón, el Jefe de Gabinete, señor Gonzalo Mardones y la asesora, señora Sofía Dib."
+    }
+  ],
+  "url_video": ""
+}

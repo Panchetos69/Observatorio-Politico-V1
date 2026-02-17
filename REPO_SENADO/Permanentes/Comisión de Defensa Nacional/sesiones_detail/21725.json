@@ -1,0 +1,42 @@
+{
+  "id_sesion": "21725",
+  "id_comision": "190",
+  "nombre_comision": "Comisión de Defensa Nacional",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/190/21725",
+  "fecha_iso": "2025-07-21",
+  "ano": "2025",
+  "mes": "07",
+  "hora_inicio": "12:00",
+  "hora_termino": "13:45",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Escuchar a la señora Ministra de Defensa Nacional y al señor Subsecretario de Defensa, en su calidad de Presidente del Consejo del Fondo Plurianual para las Capacidades Estratégicas de la Defensa, acerca de la actualización del programa de inversiones, de conformidad al artículo 101 de la ley N° 18.948, orgánica constitucional de las Fuerzas Armadas. Aspectos considerados: La Comisión trató el asunto de la referencia.",
+      "acuerdo": "Conforme a lo dispuesto en el artículo 101, inciso tercero, de la ley orgánica constitucional de las Fuerzas Armadas, la sesión fue declarada secreta. Integrantes: (Presidente) Senador Macaya Danús Javier Senador Ossandón Irarrázabal Manuel José Senador Pugh Olavarría Kenneth",
+      "estado_punto": "",
+      "invitados_punto": "DEL MINISTERIO DE DEFENSA NACIONAL: Ministra, señora Adriana Delpiano; Asesora Económica y Financiera, señora Natalia Angulo, y coordinadora legislativa, señora Leslie Sánchez. DE LA SUBSECRETARÍA DE DEFENSA: Subsecretario de Defensa, señor Ricardo Montero; Jefe de la División de Planes y Políticas, señor Juan Olivares, y Jefe de la División de Evaluación de Proyectos, señor Cristian Ramírez. DE LA SUBSECRETARÍA PARA LAS FUERZAS ARMADAS: Jefe de la División de Presupuesto y Finanzas, señor Gian Suil. DEL ESTADO MAYOR CONJUNTO: Jefe, General de Aviación, señor Leonardo Romanini. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DE DEFENSA NACIONAL: Ministra, señora Adriana Delpiano; Asesora Económica y Financiera, señora Natalia Angulo, y coordinadora legislativa, señora Leslie Sánchez. DE LA SUBSECRETARÍA DE DEFENSA: Subsecretario de Defensa, señor Ricardo Montero; Jefe de la División de Planes y Políticas, señor Juan Olivares, y Jefe de la División de Evaluación de Proyectos, señor Cristian Ramírez. DE LA SUBSECRETARÍA PARA LAS FUERZAS ARMADAS: Jefe de la División de Presupuesto y Finanzas, señor Gian Suil. DEL ESTADO MAYOR CONJUNTO: Jefe, General de Aviación, señor Leonardo Romanini."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21430",
+  "id_comision": "197",
+  "nombre_comision": "Comisión de Vivienda y Urbanismo",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/197/21430",
+  "fecha_iso": "2025-05-06",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "10:00",
+  "hora_termino": "11:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16744-14",
+      "tema": "Continuar el estudio del proyecto de ley, en segundo trámite constitucional, que modifica la Ley General de Urbanismo y Construcciones para exigir que la planificación urbana contemple espacios públicos seguros y accesibles para las mujeres. Aspectos considerados: Se escuchó a los invitados y se sometió a votación en general el proyecto.",
+      "acuerdo": "Aprobado en general, por unanimidad (3x0). Pendiente la discusión en particular. Integrantes: (Presidente) Senador Latorre Riveros Juan Ignacio Senador Espinoza Sandoval Fidel Senadora Gatica Bertin María José Senadora Provoste Campillay Yasna Senador Sandoval Plaza David Asistentes: Senador Durana Semir José Miguel",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "DEL INSTITUTO DE ESTUDIOS URBANOS Y TERRITORIALES DE LA PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE: la Académica, señora Isabel Zapata. DEL CENTRO CIUDHAD DE LA UNIVERSIDAD ANDRÉS BELLO: la Directora, señora Beatriz Mella. DEL INSTITUTO DE LA VIVIENDA DE LA FACULTAD DE ARQUITECTURA Y URBANISMO DE LA UNIVERSIDAD DE CHILE: la Subdirectora, señora Rebeca Silva. DEL MINISTERIO DE VIVIENDA Y URBANISMO: la Asesora Legislativa, señora Jeannette Tapia. Otros asistentes: DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: el asesor, señor Carlos Ortega. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: la analista, señora Verónica de la Paz. DEL COMITÉ DE SENADORES PS: la asesora, señora Melanie Moraga. DEL COMITÉ DE SENADORES UDI: el asesor, señor Juan José Llorente. Asesores parlamentarios: del Senador señor Durana, doña Pamela Cousins; de la Senadora señora Gatica, don Henry Azurmendi y don Felipe Pereira; del Senador señor Latorre, doña Jennifer Astudillo, don Felipe Morales y don Sebastián Villarroel; de la Senadora señora Provoste, don Julio Valladares, y del Senador señor Sandoval, don Pablo Cantellano, don Sebastián Puebla y don Nicolás Starck. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL INSTITUTO DE ESTUDIOS URBANOS Y TERRITORIALES DE LA PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE: la Académica, señora Isabel Zapata. DEL CENTRO CIUDHAD DE LA UNIVERSIDAD ANDRÉS BELLO: la Directora, señora Beatriz Mella. DEL INSTITUTO DE LA VIVIENDA DE LA FACULTAD DE ARQUITECTURA Y URBANISMO DE LA UNIVERSIDAD DE CHILE: la Subdirectora, señora Rebeca Silva. DEL MINISTERIO DE VIVIENDA Y URBANISMO: la Asesora Legislativa, señora Jeannette Tapia."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: el asesor, señor Carlos Ortega. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: la analista, señora Verónica de la Paz. DEL COMITÉ DE SENADORES PS: la asesora, señora Melanie Moraga. DEL COMITÉ DE SENADORES UDI: el asesor, señor Juan José Llorente. Asesores parlamentarios: del Senador señor Durana, doña Pamela Cousins; de la Senadora señora Gatica, don Henry Azurmendi y don Felipe Pereira; del Senador señor Latorre, doña Jennifer Astudillo, don Felipe Morales y don Sebastián Villarroel; de la Senadora señora Provoste, don Julio Valladares, y del Senador señor Sandoval, don Pablo Cantellano, don Sebastián Puebla y don Nicolás Starck."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

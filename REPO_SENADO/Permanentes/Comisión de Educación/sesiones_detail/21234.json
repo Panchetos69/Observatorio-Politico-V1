@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21234",
+  "id_comision": "189",
+  "nombre_comision": "Comisión de Educación",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/189/21234",
+  "fecha_iso": "2025-03-12",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "12:00",
+  "hora_termino": "13:40",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16901-04",
+      "tema": "Continuar la discusión en general del proyecto de ley, en segundo trámite constitucional, sobre convivencia, buen trato y bienestar de las comunidades educativas, con el objetivo de prevenir y erradicar el acoso escolar, la discriminación y todo tipo de violencia en los establecimientos educacionales (Boletines Nos. 16.781-04, 16.881-04 y 16.901-04, Refundidos). Aspectos considerados: Se escuchó la exposición del Presidente Nacional del Colegio de Profesoras y Profesores de Chile, señor Mario Aguilar y del Director Ejecutivo de Acción Educar, señor Daniel Rodríguez, como también, las preguntas y comentarios de los Senadores presentes.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senador Quintana Leal Jaime Senador Espinoza Sandoval Fidel Senador García Ruminot José Senador Sanhueza Dueñas Gustavo Senador Velásquez Núñez Esteban Asistentes: Senador Kusanovic Glusevic Alejandro Senadora Provoste Campillay Yasna",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Educación: el Ministro, señor Nicolás Cataldo; el Coordinador Legislativo, señor Leonardo Vilches y las Asesoras, señoras Francisca Córdoba; Valentina Ríos y Melissa Varas. Del Colegio de Profesoras y Profesores de Chile: el Presidente Nacional, señor Mario Aguilar; la Primera Vicepresidenta, señora Patricia Muñoz; el Segundo Vicepresidente, señor Guido Reyes; la Directora, señora Ligia Gallegos y la Pro Tesorera, señora Graciela Álvarez. De Acción Educar: el Director Ejecutivo, señor Daniel Rodríguez (vía Zoom). Otros asistentes: Del Ministerio Secretaría General de la Presidencia: el Asesor, señor Cristian Abarca. De la Biblioteca del Congreso Nacional: el Investigador, señor Mario Poblete. De la oficina del HS. Velásquez: el Asesor, señor Mauricio Vásquez. De la oficina del HS. García: el Jefe de Gabinete, señor Benjamín Sáenz y la Periodista, señora Andrea González. De la oficina del HS. Kusanovic: los Asesores, señores Benjamín Rodríguez y Sebastián Urrea. Del Comité PS: la Asesora, señora Martina Riveros. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Educación: el Ministro, señor Nicolás Cataldo; el Coordinador Legislativo, señor Leonardo Vilches y las Asesoras, señoras Francisca Córdoba; Valentina Ríos y Melissa Varas. Del Colegio de Profesoras y Profesores de Chile: el Presidente Nacional, señor Mario Aguilar; la Primera Vicepresidenta, señora Patricia Muñoz; el Segundo Vicepresidente, señor Guido Reyes; la Directora, señora Ligia Gallegos y la Pro Tesorera, señora Graciela Álvarez. De Acción Educar: el Director Ejecutivo, señor Daniel Rodríguez (vía Zoom). Otros asistentes:"
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: el Asesor, señor Cristian Abarca. De la Biblioteca del Congreso Nacional: el Investigador, señor Mario Poblete. De la oficina del HS. Velásquez: el Asesor, señor Mauricio Vásquez. De la oficina del HS. García: el Jefe de Gabinete, señor Benjamín Sáenz y la Periodista, señora Andrea González. De la oficina del HS. Kusanovic: los Asesores, señores Benjamín Rodríguez y Sebastián Urrea. Del Comité PS: la Asesora, señora Martina Riveros. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

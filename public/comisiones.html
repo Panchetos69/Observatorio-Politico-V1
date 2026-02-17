@@ -3,215 +3,388 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>OP - Comisiones</title>
+  <title>OP - Congresistas</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
     body { font-family: 'Inter', sans-serif; }
-    .gradient-text{
+    .gradient-text {
       background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
-      background-clip: text;
-      -webkit-background-clip: text;
-      color: transparent;
-      -webkit-text-fill-color: transparent;
+      background-clip: text; -webkit-background-clip: text;
+      color: transparent; -webkit-text-fill-color: transparent;
     }
-    .card-hover{transition:all .25s ease;} 
-    .card-hover:hover{transform:translateY(-3px);box-shadow:0 20px 40px rgba(0,0,0,.08);}
+    .card-hover { transition: all .25s ease; }
+    .card-hover:hover { transform: translateY(-3px); box-shadow: 0 20px 40px rgba(0,0,0,.08); }
+
+    .camara-btn {
+      padding: 6px 18px; border-radius: 999px; font-weight: 700;
+      font-size: .85rem; border: 2px solid transparent; transition: all .2s; cursor: pointer;
+    }
+    .camara-btn.active-diputados { background:#7c3aed; color:#fff; border-color:#7c3aed; }
+    .camara-btn.active-senado    { background:#b91c1c; color:#fff; border-color:#b91c1c; }
+    .camara-btn.active-all       { background:#374151; color:#fff; border-color:#374151; }
+    .camara-btn.inactive         { background:#f3f4f6; color:#6b7280; border-color:#e5e7eb; }
+    .camara-btn.inactive:hover   { border-color:#9ca3af; }
+
+    /* avatar color por cámara */
+    .avatar-diputados { background: #7c3aed; }
+    .avatar-senado    { background: #b91c1c; }
+    .avatar-other     { background: #374151; }
   </style>
+  <script src="/assets/app.js"></script>
+  <script src="/assets/ui.js"></script>
 </head>
 <body class="bg-gray-50">
-  <div class="max-w-6xl mx-auto px-4 py-6">
-    <div class="flex items-center justify-between">
-      <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-bold">OP</div>
-        <div>
-          <div class="text-xl font-extrabold gradient-text">Observatorio Político</div>
-          <div class="text-sm text-gray-500">Comisiones</div>
-        </div>
+<div class="max-w-6xl mx-auto px-4 py-6">
+
+  <!-- Header -->
+  <div class="flex items-center justify-between">
+    <div class="flex items-center gap-3">
+      <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-bold">OP</div>
+      <div>
+        <div class="text-xl font-extrabold gradient-text">Observatorio Político</div>
+        <div class="text-sm text-gray-500">Congresistas</div>
       </div>
-    </div>
-
-    <div class="mt-6 flex gap-6 text-sm text-gray-600 border-b border-gray-200 pb-3">
-      <a id="nav-chat" href="/chat.html">💬 Chat IA</a>
-      <a id="nav-congresistas" href="/congresistas.html">👥 Congresistas</a>
-      <a id="nav-comisiones" href="/comisiones.html" class="font-bold text-purple-600">📚 Comisiones</a>
-      <a id="nav-actividad" href="/actividad.html">📋 Actividad Legislativa</a>
-      <a id="nav-carga" href="/carga.html">📚 Carga</a>
-      <a id="nav-noticias" href="/noticias.html">📰 Noticias</a>
-    </div>
-
-    <div class="mt-6 bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-      <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center">📚</div>
-        <div>
-          <h2 class="text-2xl font-extrabold">Biblioteca de Comisiones</h2>
-          <p class="text-gray-500">Explora comisiones y sesiones desde tu data centralizada.</p>
-        </div>
-      </div>
-
-      <div class="mt-5 grid grid-cols-1 md:grid-cols-3 gap-3">
-        <input id="q" class="px-4 py-3 rounded-2xl border border-gray-200" placeholder="Buscar comisión..." />
-        <select id="groupSelect" class="px-4 py-3 rounded-2xl border border-gray-200">
-          <option value="Permanentes">Permanentes</option>
-          <option value="Otras">Otras</option>
-          <option value="Unidas">Unidas</option>
-        </select>
-        <button class="px-4 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold" onclick="loadCommissions()">Buscar</button>
-      </div>
-
-      <div class="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
-        <div>
-          <div class="text-sm text-gray-500 mb-2" id="count">Cargando…</div>
-          <div id="list" class="space-y-3"></div>
-        </div>
-
-        <div>
-          <div id="detail" class="bg-gray-50 border border-gray-100 rounded-2xl p-4">
-            <div class="text-sm text-gray-500">Selecciona una comisión para ver sesiones.</div>
-          </div>
-        </div>
-      </div>
-
     </div>
   </div>
 
+  <!-- Nav -->
+  <div class="mt-6 flex gap-6 text-sm text-gray-600 border-b border-gray-200 pb-3">
+    <a href="/chat.html">💬 Chat IA</a>
+    <a href="/congresistas.html" class="font-bold text-purple-600">👥 Congresistas</a>
+    <a href="/comisiones.html">📚 Comisiones</a>
+    <a href="/actividad.html">📋 Actividad Legislativa</a>
+    <a href="/carga.html">📚 Carga</a>
+    <a href="/noticias.html">📰 Noticias</a>
+  </div>
+  <script>if(typeof setActiveNav==="function") setActiveNav("nav-congresistas");</script>
+
+  <div class="mt-6 bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
+    <div class="flex items-center gap-3">
+      <div class="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center">👥</div>
+      <div>
+        <h2 class="text-2xl font-extrabold">Búsqueda de Congresistas</h2>
+        <p class="text-gray-500">Diputados y Senadores con sus comisiones. Crea perfiles KOM internos.</p>
+      </div>
+    </div>
+
+    <!-- Toggle Cámara -->
+    <div class="mt-5 flex items-center gap-2 flex-wrap">
+      <span class="text-sm font-semibold text-gray-500 mr-1">Cámara:</span>
+      <button id="btn-all"       class="camara-btn active-all"    onclick="setCamara('all')">🏛️ Todas</button>
+      <button id="btn-diputados" class="camara-btn inactive"       onclick="setCamara('camara')">🟣 Diputados</button>
+      <button id="btn-senado"    class="camara-btn inactive"       onclick="setCamara('senado')">🔴 Senado</button>
+      <span id="camara-badge" class="ml-auto text-xs font-bold px-3 py-1 rounded-full bg-gray-100 text-gray-600">
+        Todas las cámaras
+      </span>
+    </div>
+
+    <!-- Búsqueda -->
+    <div class="mt-4 flex gap-3">
+      <input id="q" class="flex-1 px-4 py-3 rounded-2xl border border-gray-200"
+             placeholder="Buscar por nombre..."
+             onkeydown="if(event.key==='Enter') loadPeople()" />
+      <button class="px-6 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold"
+              onclick="loadPeople()">Buscar</button>
+    </div>
+
+    <!-- Contador -->
+    <div class="mt-4 text-sm text-gray-500" id="count">Cargando…</div>
+
+    <!-- Grid de personas -->
+    <div class="mt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="grid"></div>
+  </div>
+
+  <!-- Modal KOM -->
+  <div id="komModal" class="fixed inset-0 hidden items-center justify-center bg-black/40 p-4 z-50">
+    <div class="bg-white rounded-2xl w-full max-w-2xl p-6 max-h-[90vh] overflow-y-auto">
+      <div class="flex items-start justify-between mb-4">
+        <div>
+          <div class="text-lg font-extrabold" id="komName">Perfil KOM</div>
+          <div class="text-sm text-gray-500 mt-1" id="komMeta"></div>
+          <div id="komCamaraBadge" class="mt-2"></div>
+        </div>
+        <button class="px-3 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-sm" onclick="closeKom()">✕ Cerrar</button>
+      </div>
+
+      <!-- Comisiones de esta persona -->
+      <div id="komComisiones" class="mb-4"></div>
+
+      <!-- Notas internas -->
+      <div>
+        <label class="text-sm font-semibold text-gray-700">📝 Notas internas</label>
+        <textarea id="komNotas" class="mt-2 w-full h-36 px-4 py-3 rounded-2xl border border-gray-200 text-sm"
+                  placeholder="Escribe aquí tus notas sobre este congresista…"></textarea>
+      </div>
+
+      <!-- Link perfil oficial -->
+      <div id="komLinkOficial" class="mt-3"></div>
+
+      <div class="mt-4 flex justify-end gap-2">
+        <button class="px-4 py-3 rounded-2xl bg-gray-100 hover:bg-gray-200 text-gray-700 font-bold text-sm"
+                onclick="closeKom()">Cancelar</button>
+        <button class="px-4 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold text-sm"
+                onclick="saveKom()">💾 Guardar</button>
+      </div>
+    </div>
+  </div>
+
+</div>
+
 <script>
-  const API_BASE = window.location.origin;
+const API_BASE = window.location.origin;
+let camaraActual = "all";
+let currentPerson = null;
 
-  async function apiGet(path) {
-    const res = await fetch(`${API_BASE}${path}`);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    return await res.json();
+// ── Helper API ─────────────────────────────────────────────
+async function apiGet(path) {
+  const res = await fetch(`${API_BASE}${path}`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return res.json();
+}
+async function apiPostJson(path, body) {
+  const res = await fetch(`${API_BASE}${path}`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body),
+  });
+  return res.json();
+}
+
+// ── Toggle cámara ──────────────────────────────────────────
+function setCamara(c) {
+  camaraActual = c;
+
+  const btns = {
+    all:       document.getElementById("btn-all"),
+    camara:    document.getElementById("btn-diputados"),
+    senado:    document.getElementById("btn-senado"),
+  };
+  const badge = document.getElementById("camara-badge");
+
+  // Reset todos
+  Object.entries(btns).forEach(([k, el]) => { el.className = "camara-btn inactive"; });
+
+  if (c === "all") {
+    btns.all.className    = "camara-btn active-all";
+    badge.textContent     = "Todas las cámaras";
+    badge.className       = "ml-auto text-xs font-bold px-3 py-1 rounded-full bg-gray-100 text-gray-600";
+  } else if (c === "camara") {
+    btns.camara.className = "camara-btn active-diputados";
+    badge.textContent     = "Cámara de Diputados";
+    badge.className       = "ml-auto text-xs font-bold px-3 py-1 rounded-full bg-purple-100 text-purple-700";
+  } else {
+    btns.senado.className = "camara-btn active-senado";
+    badge.textContent     = "Senado de la República";
+    badge.className       = "ml-auto text-xs font-bold px-3 py-1 rounded-full bg-red-100 text-red-700";
   }
 
-  function badge(text) {
-    const colors = {
-      'CITADA': 'bg-blue-100 text-blue-700',
-      'CELEBRADA': 'bg-green-100 text-green-700',
-      'SUSPENDIDA': 'bg-yellow-100 text-yellow-700',
-      'FRACASADA': 'bg-red-100 text-red-700',
-    };
-    const colorClass = colors[text] || 'bg-gray-100 text-gray-700';
-    return `<span class="inline-flex items-center px-2 py-1 rounded-full text-xs font-semibold ${colorClass}">${text}</span>`;
-  }
+  loadPeople();
+}
 
-  async function loadCommissions(){
-    const q = document.getElementById("q").value.trim();
-    const group = document.getElementById("groupSelect").value;
-    
-    const data = await apiGet(`/api/commissions?group=${encodeURIComponent(group)}&q=${encodeURIComponent(q)}`);
-    
-    const list = document.getElementById("list");
-    const count = document.getElementById("count");
-    count.textContent = `Total: ${data.total || 0}`;
-    list.innerHTML = "";
+// ── Avatar color ───────────────────────────────────────────
+function avatarClass(chamber) {
+  if (chamber === "senado") return "avatar-senado";
+  if (chamber === "camara" || chamber === "diputado") return "avatar-diputados";
+  return "avatar-other";
+}
 
-    (data.commissions || []).forEach(c=>{
-      list.innerHTML += `
-        <button class="w-full text-left bg-white rounded-2xl border border-gray-100 p-4 card-hover"
-          onclick="openCommission('${c.group}','${c.commission_name}')">
-          <div class="font-extrabold">${c.nombre}</div>
-          <div class="text-sm text-gray-500">Sesiones: ${c.total_sessions}</div>
-        </button>
-      `;
-    });
-  }
+// ── Badge cámara ───────────────────────────────────────────
+function chamberBadge(chamber) {
+  if (chamber === "senado")
+    return `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-red-100 text-red-700">Senador</span>`;
+  if (chamber === "camara" || chamber === "diputado")
+    return `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-purple-100 text-purple-700">Diputado</span>`;
+  return `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-gray-100 text-gray-500">${chamber}</span>`;
+}
 
-  function linkBtn(label, url) {
-    const isValid = url && url !== "No" && url.trim() !== "";
-    if (!isValid) {
-      return `<span class="inline-flex items-center px-3 py-1.5 rounded-xl text-xs font-semibold bg-gray-100 text-gray-400 border border-gray-200 cursor-not-allowed">${label}</span>`;
-    }
-    return `
-      <a
-        class="inline-flex items-center px-3 py-1.5 rounded-xl text-xs font-semibold bg-purple-600 hover:bg-purple-700 text-white"
-        href="${url}"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        ${label} ↗
-      </a>
-    `;
-  }
+// ── Render comisiones (compacto, para card) ────────────────
+function renderComisionesBadges(comisiones, max = 3) {
+  if (!comisiones || !comisiones.length) return "";
+  const shown = comisiones.slice(0, max);
+  const rest  = comisiones.length - max;
+  let html = shown.map(c => {
+    const nombre = c.commission_name.replace(/^Comisi[oó]n de /i, "").slice(0, 30);
+    return `<span class="inline-block text-xs px-2 py-0.5 rounded-full bg-gray-100 text-gray-600 truncate max-w-[120px]"
+                  title="${c.commission_name}">${nombre}</span>`;
+  }).join("");
+  if (rest > 0) html += `<span class="text-xs text-gray-400">+${rest} más</span>`;
+  return `<div class="flex flex-wrap gap-1 mt-2">${html}</div>`;
+}
 
-  function sessionRow(s){
-    const estado = (s.Estado || "-");
-    const txt = (s.has_txt || s.transcript) ? linkBtn("TXT", s.txt_url || null) : "—";
+// ── Cargar lista ───────────────────────────────────────────
+async function loadPeople() {
+  const q     = (document.getElementById("q").value || "").trim();
+  const count = document.getElementById("count");
+  const grid  = document.getElementById("grid");
 
-    return `
-      <tr class="border-t border-gray-100">
-        <td class="py-2">${s.Fecha || ""}</td>
-        <td class="py-2">${badge(estado)}</td>
+  count.textContent = "Cargando…";
+  grid.innerHTML    = "";
 
-        <td class="py-2">
-          <div class="flex flex-wrap gap-2">
-            ${linkBtn("Citación", s.Citacion)}
-          </div>
-        </td>
+  try {
+    // El backend ya combina ambos repos cuando camara="all"
+    const url = `/api/politicians?q=${encodeURIComponent(q)}&camara=${camaraActual}`;
+    const data = await apiGet(url);
 
-        <td class="py-2">
-          <div class="flex flex-wrap gap-2">
-            ${linkBtn("Cuenta", s.Cuenta)}
-          </div>
-        </td>
+    const pols = data.politicians || [];
+    count.textContent = `${pols.length} congresista(s)${q ? ` — "${q}"` : ""}`;
 
-        <td class="py-2">
-          <div class="flex flex-wrap gap-2">
-            ${linkBtn("Acta", s.Acta)}
-          </div>
-        </td>
-
-        <td class="py-2 text-center">${txt}</td>
-      </tr>
-    `;
-  }
-
-  async function openCommission(group, commission_name){
-    const data = await apiGet(`/api/commissions/${encodeURIComponent(group)}/${encodeURIComponent(commission_name)}/sessions`);
-    const d = document.getElementById("detail");
-    
-    if(!data.success){
-      d.innerHTML = `<div class="text-red-600">Error: ${data.error || 'Desconocido'}</div>`;
+    if (!pols.length) {
+      grid.innerHTML = `<div class="col-span-3 text-sm text-gray-400 py-8 text-center">
+        Sin resultados.
+        ${camaraActual === "senado" ? "<br>¿Corriste el <code>scraper_senado.py</code>?" : ""}
+      </div>`;
       return;
     }
 
-    const c = data.commission;
-    const name = (c.meta && c.meta.nombre) ? c.meta.nombre : commission_name;
+    pols.forEach(p => {
+      const initials = p.nombre.split(" ").slice(0, 2).map(x => x[0] || "").join("").toUpperCase();
+      const avClass  = avatarClass(p.chamber);
+      const badge    = chamberBadge(p.chamber);
+      const comBadges = renderComisionesBadges(p.comisiones || []);
+      const totalComs = (p.comisiones || []).length;
 
-    let html = `
-      <div class="font-extrabold text-lg">${name}</div>
-      <div class="text-sm text-gray-500 mt-1">${c.group}</div>
-      <div class="mt-4 text-sm font-semibold">Sesiones</div>
-    `;
-
-    c.years.forEach(y=>{
-      const rows = (c.sessions_by_year[y] || []).map(sessionRow).join("");
-      html += `
-        <div class="mt-3 bg-white rounded-2xl border border-gray-100 p-3">
-          <div class="font-bold text-gray-900">${y}</div>
-          <div class="overflow-auto">
-            <table class="w-full text-sm mt-2">
-              <thead class="text-gray-500">
-                <tr>
-                  <th class="text-left py-2">Fecha</th>
-                  <th class="text-left py-2">Estado</th>
-                  <th class="text-left py-2">Citación</th>
-                  <th class="text-left py-2">Cuenta</th>
-                  <th class="text-left py-2">Acta</th>
-                  <th class="text-center py-2">Transcripción</th>
-                </tr>
-              </thead>
-              <tbody>${rows}</tbody>
-            </table>
+      const card = document.createElement("div");
+      card.className = "bg-white rounded-2xl shadow-sm border border-gray-100 p-5 card-hover flex flex-col justify-between";
+      card.innerHTML = `
+        <div>
+          <div class="flex items-start gap-3">
+            <div class="w-12 h-12 shrink-0 rounded-full ${avClass} text-white flex items-center justify-center font-bold text-sm">
+              ${initials}
+            </div>
+            <div class="min-w-0">
+              <div class="font-extrabold leading-tight truncate">${p.nombre}</div>
+              <div class="flex items-center gap-2 mt-1 flex-wrap">
+                ${badge}
+                ${p.cargo ? `<span class="text-xs text-gray-500">${p.cargo}</span>` : ""}
+              </div>
+            </div>
           </div>
+
+          ${comBadges}
+          ${totalComs > 0
+            ? `<div class="text-xs text-gray-400 mt-1">${totalComs} comisión(es)</div>`
+            : ""}
+        </div>
+
+        <div class="mt-4 flex gap-2 flex-wrap">
+          ${p.url_ficha
+            ? `<a class="px-3 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 text-xs font-semibold"
+                  href="${p.url_ficha}" target="_blank" rel="noopener">Ver Perfil ↗</a>`
+            : ""}
+          <button class="px-3 py-2 rounded-xl bg-purple-600 hover:bg-purple-700 text-white text-xs font-semibold"
+            onclick="openKom('${p.chamber}','${p.id}','${encodeURIComponent(p.nombre)}',
+                             '${encodeURIComponent(p.url_ficha || "")}',
+                             '${encodeURIComponent(JSON.stringify(p.comisiones || []))}')">
+            📋 Perfil KOM
+          </button>
         </div>
       `;
+      grid.appendChild(card);
     });
 
-    d.innerHTML = html;
+  } catch (e) {
+    count.textContent = "Error al cargar";
+    grid.innerHTML = `<div class="col-span-3 text-red-500 text-sm">${e.message}</div>`;
+  }
+}
+
+// ── Modal KOM ──────────────────────────────────────────────
+async function openKom(chamber, id, nameEnc, urlEnc, comisionesEnc) {
+  const nombre     = decodeURIComponent(nameEnc);
+  const urlFicha   = decodeURIComponent(urlEnc || "");
+  let   comisiones = [];
+  try { comisiones = JSON.parse(decodeURIComponent(comisionesEnc || "[]")); } catch {}
+
+  currentPerson = { chamber, id, nombre, url_ficha: urlFicha, comisiones };
+
+  // Header del modal
+  document.getElementById("komName").textContent = nombre;
+  document.getElementById("komMeta").textContent = `${chamber} · ID ${id}`;
+
+  // Badge cámara en modal
+  document.getElementById("komCamaraBadge").innerHTML = chamberBadge(chamber);
+
+  // Comisiones en modal
+  const comDiv = document.getElementById("komComisiones");
+  if (comisiones.length) {
+    const rows = comisiones.map(c => `
+      <div class="flex items-start gap-2 py-1 border-b border-gray-50">
+        <span class="text-xs text-gray-400 w-24 shrink-0">${c.group}</span>
+        <span class="text-xs font-medium text-gray-700 flex-1">${c.commission_name}</span>
+        ${c.cargo_en_comision
+          ? `<span class="text-xs text-gray-400">${c.cargo_en_comision}</span>`
+          : ""}
+      </div>
+    `).join("");
+    comDiv.innerHTML = `
+      <div class="mb-2 text-sm font-semibold text-gray-700">
+        📚 Comisiones (${comisiones.length})
+      </div>
+      <div class="bg-gray-50 rounded-xl p-3 max-h-40 overflow-y-auto text-sm">
+        ${rows}
+      </div>
+    `;
+  } else {
+    comDiv.innerHTML = "";
   }
 
-  loadCommissions();
+  // Link perfil oficial
+  const linkDiv = document.getElementById("komLinkOficial");
+  if (urlFicha) {
+    linkDiv.innerHTML = `
+      <a href="${urlFicha}" target="_blank" rel="noopener"
+         class="text-xs text-purple-600 hover:underline">🔗 Ver perfil oficial ↗</a>
+    `;
+  } else {
+    linkDiv.innerHTML = "";
+  }
+
+  // Cargar notas guardadas
+  try {
+    const data = await apiGet(`/api/kom/${chamber}/${id}`);
+    document.getElementById("komNotas").value =
+      (data.profile && data.profile.notas) ? data.profile.notas : "";
+  } catch {
+    document.getElementById("komNotas").value = "";
+  }
+
+  const modal = document.getElementById("komModal");
+  modal.classList.remove("hidden");
+  modal.classList.add("flex");
+}
+
+function closeKom() {
+  const m = document.getElementById("komModal");
+  m.classList.add("hidden");
+  m.classList.remove("flex");
+  currentPerson = null;
+}
+
+async function saveKom() {
+  if (!currentPerson) return;
+  const notas = document.getElementById("komNotas").value || "";
+  try {
+    await apiPostJson(`/api/kom/${currentPerson.chamber}/${currentPerson.id}`, {
+      notas,
+      nombre:    currentPerson.nombre,
+      url_ficha: currentPerson.url_ficha,
+      comisiones: currentPerson.comisiones,
+      updated_at: new Date().toISOString(),
+    });
+    closeKom();
+  } catch (e) {
+    alert("Error al guardar: " + e.message);
+  }
+}
+
+// Cerrar modal al hacer clic fuera
+document.getElementById("komModal").addEventListener("click", function(e) {
+  if (e.target === this) closeKom();
+});
+
+// Arranque
+loadPeople();
 </script>
 </body>
 </html>

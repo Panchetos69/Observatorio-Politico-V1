@@ -1,0 +1,110 @@
+{
+  "id_sesion": "21284",
+  "id_comision": "199",
+  "nombre_comision": "Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/199/21284",
+  "fecha_iso": "2025-03-25",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "15338-17",
+      "tema": "Proyecto de ley que introduce la calificación jurídica de Ausente por Desaparición Forzada y crea un registro especial Aspectos considerados: Iniciar el estudio del proyecto de ley. Invitados: El Ministro de Justicia, señor Jaime Gajardo. La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. La Diputada, señora Lorena Fríes.",
+      "acuerdo": "Continuar el análisis en una próxima sesión. Integrantes: (Presidente) Senadora Campillai Rojas Fabiola Senador Van Rysselberghe Herrera Enrique Senador Walker Prieto Matías Asistentes: Diputada Fries Monleón Lorena",
+      "estado_punto": "",
+      "invitados_punto": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. El Jefe de la División de Protección de la Subsecretaría de Derechos Humanos, señor Sebastián Cabezas Otros asistentes: Por la Biblioteca del Congreso Nacional, el profesional señor Jaime Rojas. Asesores de Parlamentarios: de la Senadora, señora Campillai, doña Claudia Ahumada y don Javier Pineda; por el Senador señor Saavedra, don César Barra; por el Senador señor Chahuán, doña Claudia Unicahuin (zoom); por el Senador señor Van Rysselberghe, don Juan Carlos Morales; por la Diputada señora Fríes, don Luis Felipe Parraguez y la periodista, señora Amanda Lara."
+    },
+    {
+      "numero": 2,
+      "boletin": "16017-17",
+      "tema": "Proyecto de ley que modifica la ley N°18.918, orgánica constitucional del Congreso Nacional, para regular la remisión y recepción de informes y antecedentes relativos al cumplimiento de tratados internacionales, así como de resoluciones y recomendaciones originadas en el Sistema Interamericano y en el Sistema Universal de Derechos Humanos Aspectos considerados: Iniciar el estudio de la iniciativa. Invitados: El Ministro de Justicia, señor Jaime Gajardo. La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. La Diputada, señora Lorena Fríes.",
+      "acuerdo": "Continuar el análisis en una próxima sesión. Integrantes: (Presidente) Senadora Campillai Rojas Fabiola Senador Van Rysselberghe Herrera Enrique Senador Walker Prieto Matías Asistentes: Diputada Fries Monleón Lorena",
+      "estado_punto": "",
+      "invitados_punto": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. El Jefe de la División de Protección de la Subsecretaría de Derechos Humanos, señor Sebastián Cabezas. Otros asistentes: Por la Biblioteca del Congreso Nacional, el profesional señor Jaime Rojas. Asesores de Parlamentarios: de la Senadora, señora Campillai, doña Claudia Ahumada y don Javier Pineda; por el Senador señor Saavedra, don César Barra; por el Senador señor Chahuán, doña Claudia Unicahuin (zoom); por el Senador señor Van Rysselberghe, don Juan Carlos Morales; por la Diputada señora Fríes, don Luis Felipe Parraguez y la periodista, señora Amanda Lara. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. El Jefe de la División de Protección de la Subsecretaría de Derechos Humanos, señor Sebastián Cabezas"
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Biblioteca del Congreso Nacional, el profesional señor Jaime Rojas. Asesores de Parlamentarios: de la Senadora, señora Campillai, doña Claudia Ahumada y don Javier Pineda; por el Senador señor Saavedra, don César Barra; por el Senador señor Chahuán, doña Claudia Unicahuin (zoom); por el Senador señor Van Rysselberghe, don Juan Carlos Morales; por la Diputada señora Fríes, don Luis Felipe Parraguez y la periodista, señora Amanda Lara."
+    },
+    {
+      "nombre": "Punto 2"
+    },
+    {
+      "nombre": "Boletin:"
+    },
+    {
+      "nombre": "16017-17"
+    },
+    {
+      "nombre": "Proyecto de ley que modifica la ley N°18.918, orgánica constitucional del Congreso Nacional, para regular la remisión y recepción de informes y antecedentes relativos al cumplimiento de tratados internacionales, así como de resoluciones y recomendaciones originadas en el Sistema Interamericano y en el Sistema Universal de Derechos Humanos"
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "Iniciar el estudio de la iniciativa. Invitados: El Ministro de Justicia, señor Jaime Gajardo. La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. La Diputada, señora Lorena Fríes."
+    },
+    {
+      "nombre": "Acuerdos:"
+    },
+    {
+      "nombre": "Continuar el análisis en una próxima sesión."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente) Senadora Campillai Rojas Fabiola"
+    },
+    {
+      "nombre": "Senador Van Rysselberghe Herrera Enrique"
+    },
+    {
+      "nombre": "Senador Walker Prieto Matías"
+    },
+    {
+      "nombre": "Asistentes:"
+    },
+    {
+      "nombre": "Diputada Fries Monleón Lorena"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. El Jefe de la División de Protección de la Subsecretaría de Derechos Humanos, señor Sebastián Cabezas."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Biblioteca del Congreso Nacional, el profesional señor Jaime Rojas. Asesores de Parlamentarios: de la Senadora, señora Campillai, doña Claudia Ahumada y don Javier Pineda; por el Senador señor Saavedra, don César Barra; por el Senador señor Chahuán, doña Claudia Unicahuin (zoom); por el Senador señor Van Rysselberghe, don Juan Carlos Morales; por la Diputada señora Fríes, don Luis Felipe Parraguez y la periodista, señora Amanda Lara."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -427,8 +427,19 @@ class DataStore:
     # Politicos
     # -----------------------------
     def list_politicians(self, q: str = "", chamber: str = "all") -> List[dict]:
+        """
+        Devuelve congresistas únicos con sus comisiones.
+        Cada registro incluye:
+          - id, nombre, cargo, chamber, url_ficha
+          - comisiones: lista de {group, commission_name, cargo_en_comision}
+        chamber = "all" | "camara" | "senado" | "diputado"
+        """
         qn = (q or "").strip().lower()
         chamber_filter = (chamber or "all").strip().lower()
+        # Normalizar alias
+        if chamber_filter in ("camara", "diputado", "diputados"):
+            chamber_filter = "camara"
+
         out: Dict[str, dict] = {}
 
         if not os.path.isdir(self.data_repo_dir):
@@ -438,7 +449,8 @@ class DataStore:
             group_dir = os.path.join(self.data_repo_dir, group)
             if not os.path.isdir(group_dir):
                 continue
-            for commission_name in os.listdir(group_dir):
+
+            for commission_name in sorted(os.listdir(group_dir)):
                 p = self.integrantes_path(group, commission_name)
                 data = _safe_read_json(p)
                 if not data:
@@ -446,35 +458,65 @@ class DataStore:
 
                 members = data
                 if isinstance(data, dict):
-                    members = data.get("integrantes") or data.get("members") or data.get("items") or []
+                    members = (data.get("integrantes")
+                               or data.get("members")
+                               or data.get("items") or [])
                 if not isinstance(members, list):
                     continue
 
                 for m in members:
                     if not isinstance(m, dict):
                         continue
+
                     nombre = (m.get("nombre") or m.get("name") or "").strip()
                     if not nombre:
                         continue
-                    if qn and qn not in nombre.lower():
-                        continue
-                    
+
                     member_chamber = (m.get("chamber") or m.get("camara") or "").strip().lower()
-                    
+                    # Normalizar "diputado" → "camara"
+                    if member_chamber in ("diputado", "diputados"):
+                        member_chamber = "camara"
+
+                    # Filtrar por cámara
                     if chamber_filter != "all" and member_chamber != chamber_filter:
                         continue
-                    
+
+                    # Filtrar por nombre
+                    if qn and qn not in nombre.lower():
+                        continue
+
                     pid = str(m.get("id") or m.get("pid") or nombre)
-                    key = f"{pid}"
+                    # Clave única: pid + cámara (evita colisión si mismo slug en ambas)
+                    key = f"{member_chamber}::{pid}"
+
+                    comision_entry = {
+                        "group":             group,
+                        "commission_name":   commission_name,
+                        "cargo_en_comision": (m.get("cargo") or "").strip(),
+                    }
+
                     if key not in out:
                         out[key] = {
-                            "id": pid,
-                            "nombre": nombre,
-                            "cargo": m.get("cargo") or m.get("role") or "",
-                            "chamber": member_chamber,
+                            "id":        pid,
+                            "nombre":    nombre,
+                            "cargo":     (m.get("cargo") or m.get("role") or "").strip(),
+                            "chamber":   member_chamber,
                             "url_ficha": m.get("url_ficha") or m.get("url") or "",
+                            "comisiones": [comision_entry],
                         }
-        return list(out.values())
+                    else:
+                        # Agregar comisión si no está ya
+                        existing = out[key]["comisiones"]
+                        already  = any(
+                            c["commission_name"] == commission_name
+                            for c in existing
+                        )
+                        if not already:
+                            existing.append(comision_entry)
+
+        # Ordenar alfabéticamente
+        result = sorted(out.values(), key=lambda x: x["nombre"])
+        return result
 
     # -----------------------------
     # Actividad - CON FILTRADO POR FECHA

@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21217",
+  "id_comision": "187",
+  "nombre_comision": "Comisión de Economía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/187/21217",
+  "fecha_iso": "2025-03-11",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "09:54",
+  "hora_termino": "11:27",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16566-03",
+      "tema": "Proyecto de ley que establece una Ley Marco de Autorizaciones Sectoriales e introduce modificaciones en cuerpos legales que indica. Aspectos considerados: Se continuó con el estudio del referido proyecto de ley.",
+      "acuerdo": "Continuar en una próxima sesión. Integrantes: (Presidente) Senador Edwards Silva Rojo Senador Pugh Olavarría Kenneth Senador Saavedra Chandía Gastón Senador Sanhueza Dueñas Gustavo",
+      "estado_punto": "",
+      "invitados_punto": "Del Ministerio de Economía, Fomento y Turismo: el Ministro, señor Nicolás Grau; la Coordinadora Legislativa, señora Virginia Rivas; la Coordinadora Normativa de la División de Fomento, Inversión e Industria, señora Camila Astorga y el Abogado Asesor, señor Sebastián Galaz, y la Jefa de Comunicaciones, señora Francisca Herrera. Otros asistentes: Los Asesores de los Parlamentarios, señoras Valentina Saldaña, Claudia Hidalgo y señores Diego González (Senador señor Rojo Edwards), Allonne Barra, Michael Heavey, Pascal de Smet (Senador señor Kenneth Pugh), César Barra, Luis Batallé, (Senador señor Gastón Saavedra) y Julio Valladares (Senadora señora María Loreto Carvajal).Del Instituto Libertad y Desarrollo, el Investigador, señor Simón Pinto. De la Fundación Jaime Guzmán, el Asesor, señor Joaquín García. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Economía, Fomento y Turismo: el Ministro, señor Nicolás Grau; la Coordinadora Legislativa, señora Virginia Rivas; la Coordinadora Normativa de la División de Fomento, Inversión e Industria, señora Camila Astorga y el Abogado Asesor, señor Sebastián Galaz, y la Jefa de Comunicaciones, señora Francisca Herrera. Otros asistentes: Los Asesores de los Parlamentarios, señoras Valentina Saldaña, Claudia Hidalgo y señores Diego González (Senador señor Rojo Edwards), Allonne Barra, Michael Heavey, Pascal de Smet (Senador señor Kenneth Pugh), César Barra, Luis Batallé, (Senador señor Gastón Saavedra) y Julio Valladares (Senadora señora María Loreto Carvajal).Del Instituto Libertad y Desarrollo, el Investigador, señor Simón Pinto. De la Fundación Jaime Guzmán, el Asesor, señor Joaquín García. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

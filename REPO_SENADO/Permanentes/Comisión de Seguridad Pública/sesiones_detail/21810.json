@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21810",
+  "id_comision": "615",
+  "nombre_comision": "Comisión de Seguridad Pública",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/615/21810",
+  "fecha_iso": "2025-08-11",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "15:30",
+  "hora_termino": "17:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16777-07",
+      "tema": "Modifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales Aspectos considerados: La Comisión continuó el estudio de las indicaciones presentadas al proyecto de ley, escuchando las opiniones de los invitados.",
+      "acuerdo": "Proseguirá su estudio en una próxima sesión. Pendiente. Integrantes: (Presidente) Senador Durana Semir José Miguel Senador Moreira Barros Iván Senadora Pascual Grau Claudia Senador Pugh Olavarría Kenneth",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Agricultura: el Subsecretario de Agricultura, señor Alan Espinoza; el asesor del Gabinete de Subsecretaría de Agricultura, señor Rodrigo Herrera; la Jefa Legislativa, señora Catalina Núñez Calderón, y el asesor de Audiovisual, señor Raúl Prado. Del Servicio Agrícola y Ganadero: el Director Nacional (S), señor Rodrigo Sotomayor, y la Jefa de la División Jurídica, señora Andrea Collao. De la Asociación Gremial de Productores de Huevos de Chile: el Presidente, señor Ignacio Correa; el Gerente, señor Patricio Kurte, y la asesora, señora Isidora Monterrosa. De la Asociación de Exportadores de Frutas de Chile: el Presidente, señor Iván Marambio; el Gerente General, señor Miguel Canala-Echeverría; el Secretario General, Rodrigo Gallardo, y la Coordinadora de Comunicaciones, señora Cecilia Casanova. Otros asistentes: Del Ministerio Secretaría General de la Presidencia: el asesor, señor Diego Castillo.De la Biblioteca del Congreso Nacional: la asesora, señora Jana Abujatum.Del Comité de Senadores RN: el asesor, señor Ronald Von Der Weth.Los asesores parlamentarios: del Senador Durana, señora Pamela Cousins y señor César Quiroga; del Senador Moreira, señor Raúl Araneda; de la Senadora Pascual, señor Roberto Carrasco, y de la Senadora Vodanovic, señor José Miguel Poblete. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Agricultura: el Subsecretario de Agricultura, señor Alan Espinoza; el asesor del Gabinete de Subsecretaría de Agricultura, señor Rodrigo Herrera; la Jefa Legislativa, señora Catalina Núñez Calderón, y el asesor de Audiovisual, señor Raúl Prado."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: el asesor, señor Diego Castillo.De la Biblioteca del Congreso Nacional: la asesora, señora Jana Abujatum.Del Comité de Senadores RN: el asesor, señor Ronald Von Der Weth.Los asesores parlamentarios: del Senador Durana, señora Pamela Cousins y señor César Quiroga; del Senador Moreira, señor Raúl Araneda; de la Senadora Pascual, señor Roberto Carrasco, y de la Senadora Vodanovic, señor José Miguel Poblete. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

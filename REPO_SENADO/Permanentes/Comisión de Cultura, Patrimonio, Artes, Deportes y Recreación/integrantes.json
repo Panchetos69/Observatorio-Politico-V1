@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
+  "id": "1324",
+  "integrantes": [
+    {
+      "nombre": "Ricardo Lagos Weber",
+      "cargo": "",
+      "id": "ricardo-lagos-weber-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/ricardo-lagos-weber-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Luciano Cruz-Coke Carvallo",
+      "cargo": "",
+      "id": "luciano-cruz-coke-carvallo-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/luciano-cruz-coke-carvallo-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Alfonso De Urresti Longton",
+      "cargo": "",
+      "id": "alfonso-de-urresti-longton-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/alfonso-de-urresti-longton-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Sebastián Keitel Bianchi",
+      "cargo": "",
+      "id": "sebastian-keitel-bianchi-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/sebastian-keitel-bianchi-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Esteban Velásquez Núñez",
+      "cargo": "",
+      "id": "esteban-velasquez-nunez-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/esteban-velasquez-nunez-sen",
+      "chamber": "senado"
+    }
+  ]
+}

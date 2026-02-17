@@ -1,0 +1,54 @@
+{
+  "id_sesion": "22235",
+  "id_comision": "187",
+  "nombre_comision": "Comisión de Economía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/187/22235",
+  "fecha_iso": "2026-01-06",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "09:53",
+  "hora_termino": "10:55",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "15610-03",
+      "tema": "Proyecto de ley que modifica la ley N°19.496, que establece normas sobre protección de los derechos de los consumidores, para prohibir llamadas telefónicas publicitarias de proveedores sin consentimiento del consumidor. Aspectos considerados: Se inició la discusión del referido proyecto de ley.",
+      "acuerdo": "Continuar en una próxima sesión. Integrantes: (Presidente) Senador Núñez Arancibia Daniel Senador Saavedra Chandía Gastón Senador Sanhueza Dueñas Gustavo Asistentes: Senador Pugh Olavarría Kenneth Diputado Winter Etcheberry Gonzalo",
+      "estado_punto": "",
+      "invitados_punto": "Ministerio de Economía, Fomento y Turismo: el Ministro, señor Álvaro García; el Coordinador Legislativo, señor Juan Ignacio Bugueño; la periodista, señora Karla Sánchez; el fotógrafo, señor Óscar Órdenes. Del Servicio Nacional del Consumidor (SERNAC) (Zoom): la Directora (S), señora Carolina González; el Subdirector de Procedimientos Extrajudiciales de Resolución de Conflictos Colectivos, señor Milo Rojas. De la Subsecretaría de Telecomunicaciones (Zoom): el Subsecretario, señor Claudio Araya; el Coordinador Legislativo del Ministerio de Transportes y Telecomunicaciones, señor Sebastián Godoy; el Coordinador Legislativo del Ministerio, señor Felipe González. Otros asistentes: Los asesores de los Parlamentarios, señores César Barra (Senador señor Gastón Saavedra), Allonne Barra (Senador señor Rojo Edwards), Pablo Rebolledo y Ariel Salinas (Diputado señor Gonzalo Winter).Del Comité PC, el asesor, señor Elías Mella.Del Comité PS, la asesora, señora Mariana Caroca.De la Secretaría General de la Presidencia, la asesora, señora Vanessa Layana.De la Biblioteca del Congreso Nacional (BCN), la analista, señora Fabiola Cabrera.De la Fundación Jaime Guzmán, el asesor, señor Joaquín García.De la radio BioBío, el periodista, señor Gonzalo Olguín. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Ministerio de Economía, Fomento y Turismo: el Ministro, señor Álvaro García; el Coordinador Legislativo, señor Juan Ignacio Bugueño; la periodista, señora Karla Sánchez; el fotógrafo, señor Óscar Órdenes."
+    },
+    {
+      "nombre": "Del Servicio Nacional del Consumidor (SERNAC) (Zoom): la Directora (S), señora Carolina González; el Subdirector de Procedimientos Extrajudiciales de Resolución de Conflictos Colectivos, señor Milo Rojas."
+    },
+    {
+      "nombre": "De la Subsecretaría de Telecomunicaciones (Zoom): el Subsecretario, señor Claudio Araya; el Coordinador Legislativo del Ministerio de Transportes y Telecomunicaciones, señor Sebastián Godoy; el Coordinador Legislativo del Ministerio, señor Felipe González."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Los asesores de los Parlamentarios, señores César Barra (Senador señor Gastón Saavedra), Allonne Barra (Senador señor Rojo Edwards), Pablo Rebolledo y Ariel Salinas (Diputado señor Gonzalo Winter).Del Comité PC, el asesor, señor Elías Mella.Del Comité PS, la asesora, señora Mariana Caroca.De la Secretaría General de la Presidencia, la asesora, señora Vanessa Layana.De la Biblioteca del Congreso Nacional (BCN), la analista, señora Fabiola Cabrera.De la Fundación Jaime Guzmán, el asesor, señor Joaquín García.De la radio BioBío, el periodista, señor Gonzalo Olguín."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

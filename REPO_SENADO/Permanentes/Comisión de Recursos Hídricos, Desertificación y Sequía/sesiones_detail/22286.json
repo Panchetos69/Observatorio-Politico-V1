@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22286",
+  "id_comision": "1009",
+  "nombre_comision": "Comisión de Recursos Hídricos, Desertificación y Sequía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1009/22286",
+  "fecha_iso": "2026-01-14",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "10:00",
+  "hora_termino": "11:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Recibir a autoridades de la Municipalidad de Putaendo, para conocer los alcances del expediente sobre declaratoria de área de conservación de múltiples usos del río Rocín, ingresado durante el año 2025 al Ministerio del Medio Ambiente. Aspectos considerados: Se escuchó a los invitados.",
+      "acuerdo": "Se acordó oficiar sobre la materia al Ministerio del Medio Ambiente y a la Dirección General de Aguas. Integrantes: (Presidente) Senador Castro Prieto Juan Senador De Rementería Venegas Tomás Senador Gahona Salazar Sergio Senador Kuschel Silva Carlos Ignacio",
+      "estado_punto": "",
+      "invitados_punto": "DE LA MUNICIPALIDAD DE PUTAENDO: el Alcalde, señor Mauricio Quiroz; la Concejala, señora Angélica Leiva, y el Director de la Secretaría Comunal de Planificación, señor Cristóbal Murillo. Otros asistentes: DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: la asesora, señora Antonia Letelier. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: el investigador, señor Eduardo Baeza. DEL COMITÉ DE SENADORES UDI: la asesora, señora Catalina Delgado. Asesores parlamentarios: del Senador señor Castro Prieto, don Daniel Quiroga; del Senador señor De Rementería, don Jaime Miranda, don Diego Montoya y don Nicolás Rojas; del Senador señor Gahona, don Benjamín Rug y la estudiante en práctica, doña Zofia Gasiorowska; del Senador señor Kuschel, don Alejandro Mera, y de la Senadora señora Provoste, don Enrique Soler. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DE LA MUNICIPALIDAD DE PUTAENDO: el Alcalde, señor Mauricio Quiroz; la Concejala, señora Angélica Leiva, y el Director de la Secretaría Comunal de Planificación, señor Cristóbal Murillo."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: la asesora, señora Antonia Letelier. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: el investigador, señor Eduardo Baeza. DEL COMITÉ DE SENADORES UDI: la asesora, señora Catalina Delgado. Asesores parlamentarios: del Senador señor Castro Prieto, don Daniel Quiroga; del Senador señor De Rementería, don Jaime Miranda, don Diego Montoya y don Nicolás Rojas; del Senador señor Gahona, don Benjamín Rug y la estudiante en práctica, doña Zofia Gasiorowska; del Senador señor Kuschel, don Alejandro Mera, y de la Senadora señora Provoste, don Enrique Soler."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

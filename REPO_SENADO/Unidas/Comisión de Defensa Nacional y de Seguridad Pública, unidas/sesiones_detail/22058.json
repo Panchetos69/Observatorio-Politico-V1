@@ -1,0 +1,42 @@
+{
+  "id_sesion": "22058",
+  "id_comision": "1130",
+  "nombre_comision": "Comisión de Defensa Nacional y de Seguridad Pública, unidas",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1130/22058",
+  "fecha_iso": "2025-10-14",
+  "ano": "2025",
+  "mes": "10",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:20",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Considerar la situación en la denominada macrozona sur. Aspectos considerados: Las Comisiones unidas trataron el asunto de la referencia, recibiendo en audiencia al Subsecretario de Defensa; al Jefe del Estado Mayor Conjunto, y representantes de Carabineros de Chile y de la Policía de Investigaciones de Chile.",
+      "acuerdo": "La sesión fue declarada secreta. Integrantes: (Presidente) Senador Macaya Danús Javier Senador Flores García Iván Senador Kuschel Silva Carlos Ignacio en reemplazo de Ossandón Irarrázabal Manuel José Senador Moreira Barros Iván Senador Pugh Olavarría Kenneth Senador Pugh Olavarría Kenneth Senador Saavedra Chandía Gastón en reemplazo de Vodanovic Rojas Paulina Senador Saavedra Chandía Gastón Asistentes: Senadora Aravena Acuña Carmen Gloria Senador García Ruminot José Senador Quintana Leal Jaime",
+      "estado_punto": "",
+      "invitados_punto": "DEL MINISTERIO DE DEFENSA NACIONAL: Subsecretario de Defensa, señor Ricardo Montero, y Jefe de asesores de la Subsecretaría de Defensa, señor Rodrigo Muñoz. DEL ESTADO MAYOR CONJUNTO: Jefe, General de Aviación, señor Leonardo Romanini, y Director de Operaciones y Conducción Conjunta, Contraalmirante, señor Oscar Manzano. DE CARABINEROS DE CHILE: Director de Inteligencia Policial, General, señor Julio Jaramillo, y Director Nacional de Orden y Seguridad, General Inspector, señor Rodrigo Espinoza. DE LA POLICÍA DE INVESTIGACIONES DE CHILE: Jefe Nacional de Inteligencia Policial, Prefecto, señor Juan Carlos Bustos. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DE DEFENSA NACIONAL: Subsecretario de Defensa, señor Ricardo Montero, y Jefe de asesores de la Subsecretaría de Defensa, señor Rodrigo Muñoz. DEL ESTADO MAYOR CONJUNTO: Jefe, General de Aviación, señor Leonardo Romanini, y Director de Operaciones y Conducción Conjunta, Contraalmirante, señor Oscar Manzano. DE CARABINEROS DE CHILE: Director de Inteligencia Policial, General, señor Julio Jaramillo, y Director Nacional de Orden y Seguridad, General Inspector, señor Rodrigo Espinoza. DE LA POLICÍA DE INVESTIGACIONES DE CHILE: Jefe Nacional de Inteligencia Policial, Prefecto, señor Juan Carlos Bustos."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

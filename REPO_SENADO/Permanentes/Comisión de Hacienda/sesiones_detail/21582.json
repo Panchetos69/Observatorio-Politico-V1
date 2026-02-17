@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21582",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21582",
+  "fecha_iso": "2025-06-09",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "10:51",
+  "hora_termino": "12:13",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16850-07",
+      "tema": "Incorpora la Fiscalía Supraterritorial en la ley N° 19.640, orgánica constitucional del Ministerio Público, y modifica otros cuerpos legales que regulan actuaciones de los fiscales y de las fiscalías regionales Aspectos considerados: La comisión recibió las presentación del Ministerio de Justicia y Derechos Humanos y del Ministerio Público para posteriormente votar la iniciativa.",
+      "acuerdo": "Aprobado en particular. Pasa a la Sala. Integrantes: (Presidente) Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Macaya Danús Javier Senadora Rincón González Ximena Senador Walker Prieto Matías en reemplazo de Rincón González Ximena",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "Del Ministerio de Justicia y Derechos Humanos, el Ministro, señor Jaime Gajardo; el Subsecretario de Justicia, señor Ernesto Muñoz y los Asesores, señora Paula Recabarren y señores Rafael Ferrada y Francisco Molina. Del Ministerio Público, el Fiscal Nacional, señor Ángel Valencia; la Gerente de la División de Estudios, señora Ana María Morales y el asesor, señor Francisco Pincheira. De la Defensoría Penal Pública, asesor legislativo, señor Leonardo Moreno. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Walker, señor Ignacio Ortega. Del Comité Demócratas, la asesora, señora Paz Anastasiadis. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Justicia y Derechos Humanos, el Ministro, señor Jaime Gajardo; el Subsecretario de Justicia, señor Ernesto Muñoz y los Asesores, señora Paula Recabarren y señores Rafael Ferrada y Francisco Molina."
+    },
+    {
+      "bloque": "Del Ministerio Público, el Fiscal Nacional, señor Ángel Valencia; la Gerente de la División de Estudios, señora Ana María Morales y el asesor, señor Francisco Pincheira. De la Defensoría Penal Pública, asesor legislativo, señor Leonardo Moreno. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Walker, señor Ignacio Ortega."
+    }
+  ],
+  "url_video": ""
+}

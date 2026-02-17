@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21489",
+  "id_comision": "192",
+  "nombre_comision": "Comisión de Agricultura",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/192/21489",
+  "fecha_iso": "2025-05-14",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "11:00",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "14714-01",
+      "tema": "Proyecto de ley que establece una ley marco de suelos. Aspectos considerados: Se conocieron los avances en materia de financiamiento, relativos del proyecto de ley marco de suelos, de parte de Oficina de Estudios y Políticas Agrarias.",
+      "acuerdo": "Oficiar al Ministerio de Agricultura a fin de solicitar que se realicen jornadas de capacitación sobre la normativa referida a prevención de incendios forestales a los municipios y sociedad civil. Continuar con el estudio del proyecto de ley marco de suelos el día miércoles 28 de mayo, convocando a los académicos y científicos promotores de la iniciativa legal. Integrantes: (Presidente) Senadora Sepúlveda Orbenes Alejandra Senadora Aravena Acuña Carmen Gloria Senador De Rementería Venegas Tomás Senador Durana Semir José Miguel Asistentes: Senador Kuschel Silva Carlos Ignacio",
+      "estado_punto": "",
+      "invitados_punto": "Por la Oficina de Estudios y Políticas Agrarias: la Directora Nacional (s), señora Daniela Acuña; la Jefa de Gabinete y Coordinadora de Proyectos Estratégicos, señora María José Pizarro; el abogado del Departamento Jurídico, señor Felipe Valenzuela. El asesor del Ministerio de Agricultura, señor Fabián Luengo. Otros asistentes: Por la Biblioteca del Congreso Nacional: el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Aravena, don Claudio Pimentel y la periodista, doña Roser Rojas; de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Mauricio Vásquez; del Senador señor Durana, don César Quiroga y doña Pamela Cousins; de la Senadora señora Carvajal, don Julio Valladares; por el Comité UDI, don Juan José Llorente. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Por la Oficina de Estudios y Políticas Agrarias: la Directora Nacional (s), señora Daniela Acuña; la Jefa de Gabinete y Coordinadora de Proyectos Estratégicos, señora María José Pizarro; el abogado del Departamento Jurídico, señor Felipe Valenzuela. El asesor del Ministerio de Agricultura, señor Fabián Luengo."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Biblioteca del Congreso Nacional: el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Aravena, don Claudio Pimentel y la periodista, doña Roser Rojas; de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Mauricio Vásquez; del Senador señor Durana, don César Quiroga y doña Pamela Cousins; de la Senadora señora Carvajal, don Julio Valladares; por el Comité UDI, don Juan José Llorente."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

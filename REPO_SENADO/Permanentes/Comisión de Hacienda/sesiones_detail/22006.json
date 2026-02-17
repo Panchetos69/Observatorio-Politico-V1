@@ -1,0 +1,53 @@
+{
+  "id_sesion": "22006",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/22006",
+  "fecha_iso": "2025-10-07",
+  "ano": "2025",
+  "mes": "10",
+  "hora_inicio": "11:20",
+  "hora_termino": "12:41",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17767-05",
+      "tema": "Modifica el decreto con fuerza de ley N° 3, de 1997, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican, para restablecer el denominado \"feriado bancario\". Aspectos considerados: La comisión consideró la iniciativa.",
+      "acuerdo": "Aprobado en general y en particular. Pasa a la Sala. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Lagos Weber Ricardo Senador Macaya Danús Javier",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "Del Ministerio de Hacienda, la Coordinadora Legilativa, señora Consuelo Fernández. Del Ministerio Secretaría General de la Presidencia, el asesor, señor José Luis Pulgar. La asesora del Honorable Senador Coloma, señora Carolina Infante. Los asesores del Honorable Senador Galilea, señores José Pedro Ríos y Gonzalo Vásquez. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo."
+    },
+    {
+      "numero": 2,
+      "boletin": "16889-05",
+      "tema": "Crea una Agencia de Financiamiento e Inversión para el Desarrollo (Afide), y la autoriza a participar en fondos de fondos Aspectos considerados: La comisión recibió las opiniones del Banco Central de Chile, la Contraloría General de la Presidencia, de ASECH y de FinteChile.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Lagos Weber Ricardo Senador Macaya Danús Javier",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Economía, Fomento y Turismo, el Ministro, señor Álvaro García; la Subsecretaria de Economía y Empresas de Menor Tamaño, señora Javiera Petersen; el Asesor Económico, señor Fernando Cortés; la asesora, señora Antonia Sánchez y el Coordinador Legislativo, señor Juan Ignacio Bugueño. Del Ministerio de Hacienda, la Coordinadora Legilativa, señora Consuelo Fernández. Del Ministerio Secretaría General de la Presidencia, el asesor, señor José Luis Pulgar. Del Banco Central de Chile, la Presidenta, señora Rosanna Costa; el Fiscal, señor Juan Pablo Araya y el Gerente División de Política Financiera, señor Claudio Raddatz. De la Contraloría General de la República, el Subcontralor General, señor Hugo Merino- De la Asociación de Emprendedores en Chile (Asech), el Presidente, señor Jorge Welch. De Fintechile, el Presidente, señor José Gabriel Carrasco y el Gerente Gremial, señor Diego Veroiza. La asesora del Honorable Senador Coloma, señora Carolina Infante. Los asesores del Honorable Senador Galilea, señores José Pedro Ríos y Gonzalo Vásquez. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Hacienda, la Coordinadora Legilativa, señora Consuelo Fernández."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, el asesor, señor José Luis Pulgar. La asesora del Honorable Senador Coloma, señora Carolina Infante. Los asesores del Honorable Senador Galilea, señores José Pedro Ríos y Gonzalo Vásquez. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. Punto 2 Boletin: 16889-05 Tema: Crea una Agencia de Financiamiento e Inversión para el Desarrollo (Afide), y la autoriza a participar en fondos de fondos Aspectos considerados: La comisión recibió las opiniones del Banco Central de Chile, la Contraloría General de la Presidencia, de ASECH y de FinteChile. Acuerdos: Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Lagos Weber Ricardo Senador Macaya Danús Javier Invitados:"
+    },
+    {
+      "bloque": "Del Ministerio de Economía, Fomento y Turismo, el Ministro, señor Álvaro García; la Subsecretaria de Economía y Empresas de Menor Tamaño, señora Javiera Petersen; el Asesor Económico, señor Fernando Cortés; la asesora, señora Antonia Sánchez y el Coordinador Legislativo, señor Juan Ignacio Bugueño."
+    },
+    {
+      "bloque": "Del Ministerio de Hacienda, la Coordinadora Legilativa, señora Consuelo Fernández."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, el asesor, señor José Luis Pulgar."
+    }
+  ],
+  "url_video": ""
+}

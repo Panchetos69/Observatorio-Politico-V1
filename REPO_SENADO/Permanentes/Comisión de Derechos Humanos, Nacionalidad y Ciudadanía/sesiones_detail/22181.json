@@ -1,0 +1,92 @@
+{
+  "id_sesion": "22181",
+  "id_comision": "199",
+  "nombre_comision": "Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/199/22181",
+  "fecha_iso": "2025-12-09",
+  "ano": "2025",
+  "mes": "12",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "15776-17",
+      "tema": "Proyecto de ley que promueve, protege y garantiza los derechos lingüísticos de los pueblos indígenas de Chile Aspectos considerados: Continuar el estudio de las indicaciones formuladas a la iniciativa.",
+      "acuerdo": "Se votaron las indicaciones pendientes. Despachado en particular. Pasa a la Sala. Integrantes: (Presidente) Senador Chahuán Chahuán Francisco Senador Edwards Silva Rojo Senador Van Rysselberghe Herrera Enrique",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Por el Ministerio de Desarrollo Social y Familia: el señor Iván Mulato, coordinador jurídico de la Unidad de Asuntos Indígenas y Afrodescendientes (UCAIA), y la asesora legislativa señora Alena Gutiérrez. La Presidenta del Comité para la Prevención de la Tortura, señora Karen Espínola, los Integrantes expertos señor Daniel Soto y señora Paula Valenzuela, y el Secretario Ejecutivo (s) señor Nicolás Anglas. Otros asistentes: Por la Secretaría General de la Presidencia: doña Ignacia García. Por el Instituto Nacional de Derechos Humanos, los abogados, doña Bernardita Vega, y don Nicolas Del Fierro. Asesores de Parlamentarios: por el Senador señor Chahuán, don Carlos Huerta y doña Claudia Unicahuin (por Zoom); por el Senador señor Van Rysselberghe, don Juan Pablo Morales; por el Senador señor Edwards, don Allonne Barra; por el Comité de Renovación Nacional, don Sebastián Amado, y don Octavio Tapia; por el Comité de la Unión Demócrata Independiente, don Fernando Castro, y por la Fundación Jaime Guzmán, doña Antonella León."
+    },
+    {
+      "numero": 2,
+      "boletin": "",
+      "tema": "Conocer el Informe Anual del Comité para la Prevención de la Tortura. Aspectos considerados: Se escuchó a los expositores. Integrantes: (Presidente) Senador Chahuán Chahuán Francisco Senador Edwards Silva Rojo Senador Van Rysselberghe Herrera Enrique",
+      "acuerdo": "",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Comité para la Prevención de la Tortura: la Presidenta, señora Karen Espínola; los integrantes expertos, señor Daniel Soto y señora Paula Valenzuela, y el Secretario Ejecutivo (s) señor Nicolás Anglas. Otros asistentes: Por la Secretaría General de la Presidencia: doña Ignacia García. Por el Instituto Nacional de Derechos Humanos, los abogados doña Bernardita Vega y don Nicolas Del Fierro. Asesores de Parlamentarios: por el Senador señor Chahuán, don Carlos Huerta y doña Claudia Unicahuin (por Zoom); por el Senador señor Van Rysselberghe, don Juan Pablo Morales; por el Senador señor Edwards, don Allonne Barra; por el Comité de Renovación Nacional, don Sebastián Amado, y don Octavio Tapia; por el Comité de la Unión Demócrata Independiente, don Fernando Castro, y por la Fundación Jaime Guzmán, doña Antonella León. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Por el Ministerio de Desarrollo Social y Familia: el señor Iván Mulato, coordinador jurídico de la Unidad de Asuntos Indígenas y Afrodescendientes (UCAIA), y la asesora legislativa señora Alena Gutiérrez. La Presidenta del Comité para la Prevención de la Tortura, señora Karen Espínola, los Integrantes expertos señor Daniel Soto y señora Paula Valenzuela, y el Secretario Ejecutivo (s) señor Nicolás Anglas."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Secretaría General de la Presidencia: doña Ignacia García. Por el Instituto Nacional de Derechos Humanos, los abogados, doña Bernardita Vega, y don Nicolas Del Fierro. Asesores de Parlamentarios: por el Senador señor Chahuán, don Carlos Huerta y doña Claudia Unicahuin (por Zoom); por el Senador señor Van Rysselberghe, don Juan Pablo Morales; por el Senador señor Edwards, don Allonne Barra; por el Comité de Renovación Nacional, don Sebastián Amado, y don Octavio Tapia; por el Comité de la Unión Demócrata Independiente, don Fernando Castro, y por la Fundación Jaime Guzmán, doña Antonella León."
+    },
+    {
+      "nombre": "Punto 2"
+    },
+    {
+      "nombre": "Conocer el Informe Anual del Comité para la Prevención de la Tortura."
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "Se escuchó a los expositores."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente) Senador Chahuán Chahuán Francisco"
+    },
+    {
+      "nombre": "Senador Edwards Silva Rojo"
+    },
+    {
+      "nombre": "Senador Van Rysselberghe Herrera Enrique"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "Del Comité para la Prevención de la Tortura: la Presidenta, señora Karen Espínola; los integrantes expertos, señor Daniel Soto y señora Paula Valenzuela, y el Secretario Ejecutivo (s) señor Nicolás Anglas."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Secretaría General de la Presidencia: doña Ignacia García. Por el Instituto Nacional de Derechos Humanos, los abogados doña Bernardita Vega y don Nicolas Del Fierro. Asesores de Parlamentarios: por el Senador señor Chahuán, don Carlos Huerta y doña Claudia Unicahuin (por Zoom); por el Senador señor Van Rysselberghe, don Juan Pablo Morales; por el Senador señor Edwards, don Allonne Barra; por el Comité de Renovación Nacional, don Sebastián Amado, y don Octavio Tapia; por el Comité de la Unión Demócrata Independiente, don Fernando Castro, y por la Fundación Jaime Guzmán, doña Antonella León."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

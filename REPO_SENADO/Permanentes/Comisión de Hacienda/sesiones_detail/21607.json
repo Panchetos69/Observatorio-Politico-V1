@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21607",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21607",
+  "fecha_iso": "2025-06-11",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "10:47",
+  "hora_termino": "12:07",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16552-12",
+      "tema": "Modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia Aspectos considerados: La comisión recibió la presentación por parte del Ministerio del Medio Ambiente y el Informe de la Biblioteca del Congreso Nacional.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Macaya Danús Javier",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio del Medio Ambiente, el Ministro (S), señor Maximiliano Proaño; el Subsecretario (S), señor Ariel Espinoza; el Jefe de la Oficina de Evaluación Ambiental, señor Sebastián Aylwin y el Asesor, señor Tomas Monsalve. De la Biblioteca del Congreso Nacional, la Abogada, señora María Soledad Mortera; la Coordinadora Área Análisis Legal, señora Paola Álvarez y el analista, señor Samuel Argüello. Del Ministerio Secretaría General de la Presidencia, el asesor, señor Héctor Correa. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. La asesora del Honorable Senador Insulza, señora Lorena Escalona. Del Comité Renovación Nacional, el asesor, señor Eduardo Méndez. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio del Medio Ambiente, el Ministro (S), señor Maximiliano Proaño; el Subsecretario (S), señor Ariel Espinoza; el Jefe de la Oficina de Evaluación Ambiental, señor Sebastián Aylwin y el Asesor, señor Tomas Monsalve. De la Biblioteca del Congreso Nacional, la Abogada, señora María Soledad Mortera; la Coordinadora Área Análisis Legal, señora Paola Álvarez y el analista, señor Samuel Argüello."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, el asesor, señor Héctor Correa. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. La asesora del Honorable Senador Insulza, señora Lorena Escalona."
+    }
+  ],
+  "url_video": ""
+}

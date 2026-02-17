@@ -1,0 +1,39 @@
+{
+  "id_sesion": "22082",
+  "id_comision": "617",
+  "nombre_comision": "Segunda Subcomisión Mixta de Presupuestos",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/617/22082",
+  "fecha_iso": "2025-10-15",
+  "ano": "2025",
+  "mes": "10",
+  "hora_inicio": "18:57",
+  "hora_termino": "19:00",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17870-05",
+      "tema": "Ley de Presupuestos del Sector Público correspondiente al año 2026 de la Partida 25, Ministerio del Medio Ambiente. Aspectos considerados: Votar los Capítulos 02 y 03 correspondientes al Servicio de Evaluación Ambiental y Superintendencia del Medio Ambiente contenido en la Partida 25, Ministerio del Medio Ambiente.",
+      "acuerdo": "Rechazados los Capítulos en votación. Integrantes: (Presidente) Diputado Von Mühlenbrock Zamora Gastón Diputado Cuello Peña Y Lillo Luis Senador Galilea Vial Rodrigo Senador Lagos Weber Ricardo Senador Macaya Danús Javier",
+      "estado_punto": "RECHAZADO",
+      "invitados_punto": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión Mixta para Boletín Nº 17096-21. Fraccionamiento.",
+  "id": "1435",
+  "integrantes": [
+    {
+      "nombre": "Fidel Espinoza Sandoval",
+      "cargo": "",
+      "id": "fidel-espinoza-sandoval-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/fidel-espinoza-sandoval-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Alejandro Kusanovic Glusevic",
+      "cargo": "",
+      "id": "alejandro-kusanovic-glusevic-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/alejandro-kusanovic-glusevic-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Carlos Ignacio Kuschel Silva",
+      "cargo": "",
+      "id": "carlos-ignacio-kuschel-silva-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/carlos-ignacio-kuschel-silva-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Daniel Núñez Arancibia",
+      "cargo": "",
+      "id": "daniel-nunez-arancibia-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/daniel-nunez-arancibia-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "David Sandoval Plaza",
+      "cargo": "",
+      "id": "david-sandoval-plaza-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/david-sandoval-plaza-sen",
+      "chamber": "senado"
+    }
+  ]
+}

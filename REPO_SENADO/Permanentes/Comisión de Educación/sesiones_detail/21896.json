@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21896",
+  "id_comision": "189",
+  "nombre_comision": "Comisión de Educación",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/189/21896",
+  "fecha_iso": "2025-09-02",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16763-04",
+      "tema": "Iniciar la discusión en particular del proyecto de ley, en primer trámite constitucional, que modifica la Ley sobre Subvención del Estado a Establecimientos Educacionales, en cuanto al proceso de admisión escolar (Boletín Nos 16.763-04 y N° 16.766-04, refundidos). Aspectos considerados: Se inició la discusión y votación de las indicaciones presentadas al proyecto de ley.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senador Sanhueza Dueñas Gustavo Senador Castro Prieto Juan Senador Espinoza Sandoval Fidel Senador Kast Sommerhoff Felipe Senadora Provoste Campillay Yasna Asistentes: Senadora Pascual Grau Claudia",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Educación: el Ministro, señor Nicolás Cataldo; el Coordinador Jurídico-Legislativo, señor Leonardo Vilches; la Abogada a cargo de los proyectos del Sector Escolar, Naiara Susaeta; los Asesores, señoras Melissa Varas y Valentina Ríos, y señores Eduardo Díaz y Matías Sandoval. Otros asistentes: Del Ministerio Secretaría General de la Presidencia: los Asesores, señora Isidora Yáñez y señor Diego Castillo. De la Biblioteca del Congreso Nacional: el Investigador, señor Mario Poblete. De la oficina del HS. Sanhueza: la Asesora, señora Carolina Navarrete. De la oficina de la HS. Pascual: los Asesores, señores Roberto Carrasco y Mauricio Díaz. De la oficina del HS. Kast: el Asesor, señor José Astorga. De la oficina del HS. Castro Prieto: los Asesores, señores Sergio Mancilla y Daniel Quiroga. De la oficina de la HS. Provoste: el Asesor, señor Enrique Soler. Del Comité PS: la Asesora, señora Martina Riveros. Del Comité RN: el Asesor, señor Benjamín Sáenz. De Fundación Jaime Guzmán: el Asesor, señor Juan José Llorente. De la oficina de la Diputada Arce: la Asesora, señora Claudia Toval. Del Diario El Mercurio: la Periodista, señora Macarena Cerda. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Educación: el Ministro, señor Nicolás Cataldo; el Coordinador Jurídico-Legislativo, señor Leonardo Vilches; la Abogada a cargo de los proyectos del Sector Escolar, Naiara Susaeta; los Asesores, señoras Melissa Varas y Valentina Ríos, y señores Eduardo Díaz y Matías Sandoval. Otros asistentes:"
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: los Asesores, señora Isidora Yáñez y señor Diego Castillo. De la Biblioteca del Congreso Nacional: el Investigador, señor Mario Poblete. De la oficina del HS. Sanhueza: la Asesora, señora Carolina Navarrete. De la oficina de la HS. Pascual: los Asesores, señores Roberto Carrasco y Mauricio Díaz. De la oficina del HS. Kast: el Asesor, señor José Astorga. De la oficina del HS. Castro Prieto: los Asesores, señores Sergio Mancilla y Daniel Quiroga. De la oficina de la HS. Provoste: el Asesor, señor Enrique Soler. Del Comité PS: la Asesora, señora Martina Riveros. Del Comité RN: el Asesor, señor Benjamín Sáenz. De Fundación Jaime Guzmán: el Asesor, señor Juan José Llorente. De la oficina de la Diputada Arce: la Asesora, señora Claudia Toval. Del Diario El Mercurio: la Periodista, señora Macarena Cerda. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

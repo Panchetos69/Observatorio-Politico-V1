@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21610",
+  "id_comision": "196",
+  "nombre_comision": "Comisión de Minería y Energía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/196/21610",
+  "fecha_iso": "2025-06-11",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "12:30",
+  "hora_termino": "14:00",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17064-08",
+      "tema": "Amplía la cobertura del subsidio eléctrico a que se refiere el artículo sexto transitorio de la ley N° 21.667 e introduce otras medidas de perfeccionamiento a la ley N° 18.410 que crea la Superintendencia de Electricidad y Combustibles Aspectos considerados: Se continuó con el estudio de las indicaciones.",
+      "acuerdo": "Pendiente Integrantes: (Presidente) Senador Prohens Espinosa Rafael Senador Castro González Juan Luis Senadora Ebensperger Orrego Luz Eliana Senador Galilea Vial Rodrigo Senadora Provoste Campillay Yasna Asistentes: Senadora Ordenes Neira Ximena",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "El Ministro, señor Diego Pardow, la Jefa de asesores, señora Ignacia García, los asesores, señores Fernando Monsalve, Maher Pichara, Michel Núñez, el Jefe de Comunicaciones, señor Andrés Muñoz. Otros asistentes: De la Biblioteca del Congreso Nacional, el Analista señor Rafael Torres, y el asesor técnico señor Nicolás García. De la oficina del Senador señor Juan Luis Castro, los asesores legislativos, señor Arturo León y la señora Teresita Fabres, y la Jefa de Gabinete, señora Maggy López. De la oficina de la Senadora señora Luz Ebensperger, la asesora, señora Paola Bobadilla. De la oficina de la Senadora señora Yasna Provoste, el asesor legislativo, señor Julio Valladares. De la Oficina del Senador señor Rodrigo Galilea, el asesor legislativo, señor Gonzalo Vásquez. De la Oficina de la Senadora señora Ximena Ordenes, el asesor, señor Jonatán Sepúlveda. De Libertad y Desarrollo, el Coordinador señor Juan Ignacio Gómez. De la Fundación Jaime Guzmán, la Directora del área Legislativa, señora Barbara Bayolo. Del Comité RN, el Coordinador Legislativo señor Eduardo Méndez. Del Comité UDI, la asesora, señora Cristina Pinochet. Del Comité PPD, la asesora, señora Paulin Silva. De la Asociación Nacional de APR´S., el Coordinador Nacional, señor Rufino Hevia. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "El Ministro, señor Diego Pardow, la Jefa de asesores, señora Ignacia García, los asesores, señores Fernando Monsalve, Maher Pichara, Michel Núñez, el Jefe de Comunicaciones, señor Andrés Muñoz."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "De la Biblioteca del Congreso Nacional, el Analista señor Rafael Torres, y el asesor técnico señor Nicolás García. De la oficina del Senador señor Juan Luis Castro, los asesores legislativos, señor Arturo León y la señora Teresita Fabres, y la Jefa de Gabinete, señora Maggy López. De la oficina de la Senadora señora Luz Ebensperger, la asesora, señora Paola Bobadilla. De la oficina de la Senadora señora Yasna Provoste, el asesor legislativo, señor Julio Valladares. De la Oficina del Senador señor Rodrigo Galilea, el asesor legislativo, señor Gonzalo Vásquez. De la Oficina de la Senadora señora Ximena Ordenes, el asesor, señor Jonatán Sepúlveda. De Libertad y Desarrollo, el Coordinador señor Juan Ignacio Gómez. De la Fundación Jaime Guzmán, la Directora del área Legislativa, señora Barbara Bayolo. Del Comité RN, el Coordinador Legislativo señor Eduardo Méndez. Del Comité UDI, la asesora, señora Cristina Pinochet. Del Comité PPD, la asesora, señora Paulin Silva. De la Asociación Nacional de APR´S., el Coordinador Nacional, señor Rufino Hevia."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

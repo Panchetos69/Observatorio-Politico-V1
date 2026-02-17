@@ -1,0 +1,33 @@
+{
+  "id_sesion": "22045",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/22045",
+  "fecha_iso": "2025-10-13",
+  "ano": "2025",
+  "mes": "10",
+  "hora_inicio": "11:16",
+  "hora_termino": "12:40",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16889-05",
+      "tema": "Crea una Agencia de Financiamiento e Inversión para el Desarrollo (Afide), y la autoriza a participar en fondos de fondos Aspectos considerados: La comisión recibió la presentación del señor Matías Acevedo, Académico Universidad de los Andes Facultad de Ciencias Económicas y Empresariales y Ex Director de Presupuestos.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senador Galilea Vial Rodrigo Senador Lagos Weber Ricardo Senador Macaya Danús Javier Asistentes: Senador Coloma Correa Juan Antonio",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Economía, Fomento y Turismo, la Subsecretaria de Economía y Empresas de Menor Tamaño, señora Javiera Petersen; el Asesor Económico, señor Fernando Cortés; el Coordinador Legislativo, señor Juan Ignacio Bugueño y el asesor, señor Martín Mujica. El Economista, Profesor Adjunto UANDES, Director de Empresas y Consultor Internacional en Asuntos Fiscales y Económicos, señor Matías Acevedo. Los asesores del Honorable Senador Galilea, señores José Pedro Ríos y Gonzalo Vásquez. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. Del Comité Unión Demócrata Independiente, la asesora, señora Cristina Pinochet. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo y el asesor, señor Arturo Hasbún. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Economía, Fomento y Turismo, la Subsecretaria de Economía y Empresas de Menor Tamaño, señora Javiera Petersen; el Asesor Económico, señor Fernando Cortés; el Coordinador Legislativo, señor Juan Ignacio Bugueño y el asesor, señor Martín Mujica. El Economista, Profesor Adjunto UANDES, Director de Empresas y Consultor Internacional en Asuntos Fiscales y Económicos, señor Matías Acevedo. Los asesores del Honorable Senador Galilea, señores José Pedro Ríos y Gonzalo Vásquez. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes."
+    }
+  ],
+  "url_video": ""
+}

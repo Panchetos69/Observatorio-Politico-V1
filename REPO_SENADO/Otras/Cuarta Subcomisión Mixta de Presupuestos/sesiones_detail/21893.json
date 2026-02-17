@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21893",
+  "id_comision": "619",
+  "nombre_comision": "Cuarta Subcomisión Mixta de Presupuestos",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/619/21893",
+  "fecha_iso": "2025-09-02",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "14:36",
+  "hora_termino": "14:45",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Elegir Presidente y acordar las demás normas de procedimiento que estime pertinentes. Aspectos considerados: Se eligió como presidente al Honorable Senador, señor José Miguel Insulza.",
+      "acuerdo": "Se acordó el calendario para las próximas sesiones. Integrantes: (Presidente) Diputado Barrera Moreno Boris Senador García Ruminot José Senador Insulza Salinas José Miguel Diputado Mellado Suazo Miguel Senadora Ordenes Neira Ximena",
+      "estado_punto": "",
+      "invitados_punto": "No hubo. Otros asistentes: Del Ministerio Secretaría General de la Presidencia: la Asesora, señora Marcia González. De la oficina del Senador Insulza: los Asesores, señora Javiera Gómez y señor Carlos Fernández. De la oficina del Diputado Mellado: el Asesor, señor Benjamín Gajardo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: la Asesora, señora Marcia González. De la oficina del Senador Insulza: los Asesores, señora Javiera Gómez y señor Carlos Fernández. De la oficina del Diputado Mellado: el Asesor, señor Benjamín Gajardo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

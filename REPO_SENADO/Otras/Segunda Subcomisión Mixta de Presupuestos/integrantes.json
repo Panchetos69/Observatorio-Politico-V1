@@ -1,0 +1,27 @@
+{
+  "comision": "Segunda Subcomisión Mixta de Presupuestos",
+  "id": "617",
+  "integrantes": [
+    {
+      "nombre": "Rodrigo Galilea Vial",
+      "cargo": "",
+      "id": "rodrigo-galilea-vial-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/rodrigo-galilea-vial-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Ricardo Lagos Weber",
+      "cargo": "",
+      "id": "ricardo-lagos-weber-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/ricardo-lagos-weber-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Javier Macaya Danús",
+      "cargo": "",
+      "id": "javier-macaya-danus-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/javier-macaya-danus-sen",
+      "chamber": "senado"
+    }
+  ]
+}

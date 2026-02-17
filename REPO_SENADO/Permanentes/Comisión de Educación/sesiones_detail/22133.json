@@ -1,0 +1,36 @@
+{
+  "id_sesion": "22133",
+  "id_comision": "189",
+  "nombre_comision": "Comisión de Educación",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/189/22133",
+  "fecha_iso": "2025-11-19",
+  "ano": "2025",
+  "mes": "11",
+  "hora_inicio": "12:00",
+  "hora_termino": "13:48",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16901-04",
+      "tema": "Continuar la discusión en particular del proyecto de ley, en segundo trámite constitucional, sobre convivencia, buen trato y bienestar de las comunidades educativas, con el objetivo de prevenir y erradicar el acoso escolar, la discriminación y todo tipo de violencia en los establecimientos educacionales (Boletines Nos. 16.781-04, 16.881-04 y 16.901-04, Refundidos). Aspectos considerados: Continuó la discusión en particular del proyecto de ley y se escuchó la exposición del señor Ministro de Educación, en relación con el \"Programa de Bienestar Socioemocional\" a incorporar en esta iniciativa legal.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senador Sanhueza Dueñas Gustavo Senador Kast Sommerhoff Felipe Senadora Provoste Campillay Yasna",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Educación: el Ministro, señor Nicolás Cataldo, el Coordinador Legislativo, señor Leonardo Vilches y los Asesores, señoras Melissa Varas; Valentina Ríos y señores Juan Paillán; Eduardo Díaz; Sebastián Henríquez y Pablo Reyes. Otros asistentes: Del Ministerio Secretaría General de la Presidencia: la Asesora, señora Vanessa Layana. De la Biblioteca del Congreso Nacional: el Investigador, señor Mario Poblete. De la oficina del HS. Sanhueza: la Asesora, señora Carolina Navarrete. De la oficina de la HS. Provoste: el Asesor, señor Rodrigo Vega. De la oficina de la HS. Pascual: el Asesor, señor Mauricio Díaz. De la oficina del HS. Kast: el Asesor, señor Oscar Morales. De Libertad y Desarrollo: el Investigador, señor Simón Pinto. De Fundación Jaime Guzmán: el Asesor, señor Juan José Llorente. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Educación: el Ministro, señor Nicolás Cataldo, el Coordinador Legislativo, señor Leonardo Vilches y los Asesores, señoras Melissa Varas; Valentina Ríos y señores Juan Paillán; Eduardo Díaz; Sebastián Henríquez y Pablo Reyes. Otros asistentes:"
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: la Asesora, señora Vanessa Layana. De la Biblioteca del Congreso Nacional: el Investigador, señor Mario Poblete. De la oficina del HS. Sanhueza: la Asesora, señora Carolina Navarrete. De la oficina de la HS. Provoste: el Asesor, señor Rodrigo Vega. De la oficina de la HS. Pascual: el Asesor, señor Mauricio Díaz. De la oficina del HS. Kast: el Asesor, señor Oscar Morales. De Libertad y Desarrollo: el Investigador, señor Simón Pinto. De Fundación Jaime Guzmán: el Asesor, señor Juan José Llorente. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

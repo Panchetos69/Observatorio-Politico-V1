@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21789",
+  "id_comision": "195",
+  "nombre_comision": "Comisión de Salud",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/195/21789",
+  "fecha_iso": "2025-08-06",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "15:00",
+  "hora_termino": "15:45",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17003-11",
+      "tema": "Proyecto de ley que establece la ley integral de salud mental y modifica los cuerpos legales que indica. Aspectos considerados: Continuó el estudio y votación de las indicaciones.",
+      "acuerdo": "Citar a sesión el día martes 12 de agosto, para votar las indicaciones que quedaron pendientes. Integrantes: (Presidente Accidental) Senador Castro González Juan Luis Senador Chahuán Chahuán Francisco Senador Gahona Salazar Sergio Senadora Ordenes Neira Ximena",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "La Subsecretaria de Salud Pública, señora Andrea Albagli. La Jefa del Departamento de Salud Mental del Ministerio de Salud, señora Javiera Erazo. Otros asistentes: Del Ministerio de Salud: el Coordinador Legislativo, señor Cristian Miquel; la Jefa de la División Jurídica, señora Yasmina Viera, y el Asesor, señor Julio Muñoz.De la Subsecretaría de Salud Pública: el Asesor, señor Camilo Brauchy.La Asesora del Senador Iván Flores, señora Carolina Allende.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores, y Jonatan Sepúlveda.Los Asesores del Senador Juan Luis Castro, señoras Teresita Fabres; Paola Astudillo, y Meggy López, y señor Arturo León.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.La Asesora del Comité PPD, señora Paulin Silva.La Asesora del Comité UDI, señora Cristina Pinochet. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Salud: el Coordinador Legislativo, señor Cristian Miquel; la Jefa de la División Jurídica, señora Yasmina Viera, y el Asesor, señor Julio Muñoz.De la Subsecretaría de Salud Pública: el Asesor, señor Camilo Brauchy.La Asesora del Senador Iván Flores, señora Carolina Allende.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores, y Jonatan Sepúlveda.Los Asesores del Senador Juan Luis Castro, señoras Teresita Fabres; Paola Astudillo, y Meggy López, y señor Arturo León.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.La Asesora del Comité PPD, señora Paulin Silva.La Asesora del Comité UDI, señora Cristina Pinochet. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21673",
+  "id_comision": "1180",
+  "nombre_comision": "Comisión Mixta para Boletín Nº 9914-11. Fármacos II",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1180/21673",
+  "fecha_iso": "2025-07-02",
+  "ano": "2025",
+  "mes": "07",
+  "hora_inicio": "15:00",
+  "hora_termino": "15:40",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "9914-11",
+      "tema": "Proyecto de ley que modifica el Código Sanitario para regular los medicamentos bioequivalentes genéricos y evitar la integración vertical de laboratorios y farmacias. Aspectos considerados: Sometida a votación, se rechazó la reapertura del debate, por no lograr la unanimidad requerida en el inciso tercero del artículo 185 del Reglamento de esta Corporación. Integrantes: (Presidente) Senador Chahuán Chahuán Francisco Diputada Astudillo Peiretti Danisa Senador Castro González Juan Luis Diputado Celis Montt Andrés Senador Flores García Iván Senador Gahona Salazar Sergio Diputado Lilayu Vivanco Daniel Senadora Ordenes Neira Ximena Diputado Rosas Barrientos Patricio",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "El Coordinador Legislativo del Ministerio de Salud, señor Cristian Miquel. Otros asistentes: El Asesor del Ministerio Secretaría General de la Presidencia, señor Diego Castillo.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Juan Luis Castro, señoras Teresita Fabres y Meggy López, y señor Arturo León.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores y Jonatan Sepúlveda.Los Asesores del Senador Iván Flores, señora Carolina Allende, y señor Mauricio Vásquez.Los Asesores del Senador Francisco Chahuán, señores Cristian Carvajal, y Marcelo Sanhueza.El Asesor del Senador Gastón Saavedra, señor Luis Batallé.La Asesora del Comité PS, señora Paulin Silva.El Asesor del Comité RN, señor Octavio Tapia.Los Asesores del Diputado Daniel Lilayú, señora Trinidad Astrain, y señor Matías Seccatore.Los Asesores del Diputado Andrés Celis, señoras Constanza Palma y Pilar Rojas. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "El Coordinador Legislativo del Ministerio de Salud, señor Cristian Miquel."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "El Asesor del Ministerio Secretaría General de la Presidencia, señor Diego Castillo.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Juan Luis Castro, señoras Teresita Fabres y Meggy López, y señor Arturo León.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores y Jonatan Sepúlveda.Los Asesores del Senador Iván Flores, señora Carolina Allende, y señor Mauricio Vásquez.Los Asesores del Senador Francisco Chahuán, señores Cristian Carvajal, y Marcelo Sanhueza.El Asesor del Senador Gastón Saavedra, señor Luis Batallé.La Asesora del Comité PS, señora Paulin Silva.El Asesor del Comité RN, señor Octavio Tapia.Los Asesores del Diputado Daniel Lilayú, señora Trinidad Astrain, y señor Matías Seccatore.Los Asesores del Diputado Andrés Celis, señoras Constanza Palma y Pilar Rojas."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21327",
+  "id_comision": "200",
+  "nombre_comision": "Comisión de Intereses Marítimos, Pesca y Acuicultura",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/200/21327",
+  "fecha_iso": "2025-04-09",
+  "ano": "2025",
+  "mes": "04",
+  "hora_inicio": "11:00",
+  "hora_termino": "12:15",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Escuchar a la señora Claudia Urrutia, Presidenta de la Asociación Gremial de Bacaladeros del Maule y Vocera de las familias de los pescadores desaparecidos de la lancha Bruma, cuyo naufragio se produjo en las costas de Coronel, Región del Biobío. Aspectos considerados: Se escuchó la exposición de la Presidenta de la Asociación Gremial de Bacaladeros del Maule y Vocera de las familias de los pescadores desaparecidos de la lancha Bruma, señora Claudia Urrutia, para luego intercambiar puntos de vista con los miembros de la Comisión. Integrantes: (Presidente) Senador Espinoza Sandoval Fidel Senador Kuschel Silva Carlos Ignacio Senador Núñez Arancibia Daniel Senador Sandoval Plaza David Asistentes: Senador Kusanovic Glusevic Alejandro",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "La Presidenta de la Asociación Gremial de Bacaladeros del Maule y Vocera de las familias de los pescadores desaparecidos de la lancha Bruma, señora Claudia Urrutia.El Subsecretario de Pesca y Acuicultura, señor Julio Salas. Otros asistentes: El Jefe de Gabinete de la Subsecretaría de Pesca y Acuicultura, señor Javier Rivera.La Asesora de la Subsecretaría de Pesca y Acuicultura, señora Isadora Reyes.La Asesora del Ministerio Secretaría General de la Presidencia, señora Vanessa Layana.La Asesora del Senador Daniel Núñez, señora Tiffany Cataldo.El Asesor del Senador David Sandoval, señor Pablo Cantellano.El Asesor del Senador Alejandro Kusanovic, señor Sebastián Urrea.La Asesora del Comité PS, señora Martina Riveros. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "La Presidenta de la Asociación Gremial de Bacaladeros del Maule y Vocera de las familias de los pescadores desaparecidos de la lancha Bruma, señora Claudia Urrutia.El Subsecretario de Pesca y Acuicultura, señor Julio Salas."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "El Jefe de Gabinete de la Subsecretaría de Pesca y Acuicultura, señor Javier Rivera.La Asesora de la Subsecretaría de Pesca y Acuicultura, señora Isadora Reyes.La Asesora del Ministerio Secretaría General de la Presidencia, señora Vanessa Layana.La Asesora del Senador Daniel Núñez, señora Tiffany Cataldo.El Asesor del Senador David Sandoval, señor Pablo Cantellano.El Asesor del Senador Alejandro Kusanovic, señor Sebastián Urrea.La Asesora del Comité PS, señora Martina Riveros."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

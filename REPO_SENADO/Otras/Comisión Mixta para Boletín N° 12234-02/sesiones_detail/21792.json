@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21792",
+  "id_comision": "1443",
+  "nombre_comision": "Comisión Mixta para Boletín N° 12234-02",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1443/21792",
+  "fecha_iso": "2025-08-11",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "10:30",
+  "hora_termino": "12:00",
+  "lugar": "",
+  "estado": "CITADA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "12234-02",
+      "tema": "Proyecto de ley que fortalece y moderniza el sistema de inteligencia del Estado. Aspectos considerados: La Comisión Mixta trató, en términos generales, las divergencias suscitadas entre el Senado y la Cámara de Diputados en la tramitación de esta iniciativa de ley.",
+      "acuerdo": "Proseguir su análisis en una próxima sesión. Integrantes: (Presidente) Senador Macaya Danús Javier Diputado Brito Hasbún Jorge Diputada Hertz Cádiz Carmen Senador Huenchumilla Jaramillo Francisco Diputado Jouannet Valderrama Andrés Senador Ossandón Irarrázabal Manuel José Senador Pugh Olavarría Kenneth Diputado Sánchez Ossa Luis Diputado Undurraga Gazitúa Francisco Senadora Vodanovic Rojas Paulina en reemplazo de Saavedra Chandía Gastón",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "DEL MINISTERIOR DEL INTERIOR: Ministro, señor Álvaro Elizalde, y coordinadora legislativa del Ministro, señora Laura Mancilla. Otros asistentes: DEL MINISTERIO DEL INTERIOR: asesora legislativa del Gabinete del Ministro, señora Lesly Covarrubias, y asesores, señora Catalina Aninat y Thomas Heselaars. DEL MINISTERIO DE DEFENSA NACIONAL: asesores, señora Leslie Sánchez y señor Roberto Sáez. ASESORES LEGISLATIVOS: del Honorable Senador Huenchumilla, señor Enrique Soler; del Honorable Senador Macaya, señora Karelyn Luttecke; del Honorable Senador Ossandón, señoras Carmen Castañaza y María Angélica Villadangos; de la Honorable Senadora Vodanovic, señor José Miguel Poblete; del Honorable Diputado Brito, señora Camila Lucero; del Honorable Diputado Jouannet, señor Harold Correa y señora Claudia Iturriaga, y del Honorable Diputado Sánchez, señores Benjamín Peña y Lillo y Andrés Solar. DEL COMITÉ DEMÓCRATAS, EVOPOLI, AMARILLOS E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesor, señor Francisco Costa. DEL COMITÉ COMUNISTA, FEDERACIÓN REGIONALISTA VERDE SOCIAL, ACCIÓN HUMANISTA E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesora, señora Fernanda Arias. DEL COMITÉ PARTIDO RENOVACIÓN NACIONAL E INDEPENDIENTES DEL SENADO: coordinador legislativo, señor Ronald Von Der Weth. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. DEL CENTRO DE ESTUDIOS LIBERTAD Y DESARROLLO: asesora, señora Fiorella Romanini. DEL CENTRO DE ESTUDIOS IDEAS REPUBLICANAS: asesora, señora Constanza Tirado. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señoras Verónica Barrios y Bárbara Horzella. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIOR DEL INTERIOR: Ministro, señor Álvaro Elizalde, y coordinadora legislativa del Ministro, señora Laura Mancilla."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO DEL INTERIOR: asesora legislativa del Gabinete del Ministro, señora Lesly Covarrubias, y asesores, señora Catalina Aninat y Thomas Heselaars. DEL MINISTERIO DE DEFENSA NACIONAL: asesores, señora Leslie Sánchez y señor Roberto Sáez. ASESORES LEGISLATIVOS: del Honorable Senador Huenchumilla, señor Enrique Soler; del Honorable Senador Macaya, señora Karelyn Luttecke; del Honorable Senador Ossandón, señoras Carmen Castañaza y María Angélica Villadangos; de la Honorable Senadora Vodanovic, señor José Miguel Poblete; del Honorable Diputado Brito, señora Camila Lucero; del Honorable Diputado Jouannet, señor Harold Correa y señora Claudia Iturriaga, y del Honorable Diputado Sánchez, señores Benjamín Peña y Lillo y Andrés Solar. DEL COMITÉ DEMÓCRATAS, EVOPOLI, AMARILLOS E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesor, señor Francisco Costa. DEL COMITÉ COMUNISTA, FEDERACIÓN REGIONALISTA VERDE SOCIAL, ACCIÓN HUMANISTA E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesora, señora Fernanda Arias. DEL COMITÉ PARTIDO RENOVACIÓN NACIONAL E INDEPENDIENTES DEL SENADO: coordinador legislativo, señor Ronald Von Der Weth. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. DEL CENTRO DE ESTUDIOS LIBERTAD Y DESARROLLO: asesora, señora Fiorella Romanini. DEL CENTRO DE ESTUDIOS IDEAS REPUBLICANAS: asesora, señora Constanza Tirado. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señoras Verónica Barrios y Bárbara Horzella."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

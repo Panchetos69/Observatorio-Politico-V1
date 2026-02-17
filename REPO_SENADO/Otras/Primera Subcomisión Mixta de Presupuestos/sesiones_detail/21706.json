@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21706",
+  "id_comision": "624",
+  "nombre_comision": "Primera Subcomisión Mixta de Presupuestos",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/624/21706",
+  "fecha_iso": "2025-07-09",
+  "ano": "2025",
+  "mes": "07",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Con el objeto de conocer la ejecución presupuestaria del Ministerio de Economía, Fomento y Turismo. Aspectos considerados: Se escuchó al Ministro, señor Nicolás Grau; a la Subsecretaría de Turismo, señora Verónica Pardo, y a la Subsecretaria de Economía y Empresas de Menos Tamaño, señora Javiera Petersen.",
+      "acuerdo": "Se continuará analizando la ejecución presupuestaria en una siguiente sesión. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Coloma Correa Juan Antonio Senador De Urresti Longton Alfonso Senador Kast Sommerhoff Felipe en reemplazo de Coloma Correa Juan Antonio",
+      "estado_punto": "",
+      "invitados_punto": "Ministerio de Economía, Fomento y Turismo: el Ministro señor Nicolás Grau; la Subsecretaria de Economía y Empresas de Menor Tamaño, señora Javiera Petersen; la jefa de Administración y Finanzas de la Subsecretaría de Economía, señora Fernanda Plaza; el Subsecretario de Pesca y Acuicultura, señor Julio Salas; la Subsecretaria de Turismo, señora Verónica Pardo; la directora nacional de Sernapesca, señora María Soledad Tapia; la Directora (s) de Indespa, señora Priscilla Aguayo; la asesora de la Coordinación Legislativa, señora Antonia Sánchez; la jefa de Gabinete de la Subsecretaria de Economía, señora Francisca Ochoa; la jefa del Departamento Administrativo de la Subsecretaría de Pesca, señora Marta Hernández; el jefe de contabilidad y presupuesto, señor Robinson Quiero; la encargada de la Unidad de Gestión Estratégica y Administración, señora Alejandra Vargas; la jefa de Gabinete de la Subsecretaria de Turismo, señora Victoria Valdés. Otros asistentes: Ministerio de Economía, Fomento y Turismo: doña Francisca Herrera. Por el H. Senador señor Kast, don Oscar Morales. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Ministerio de Economía, Fomento y Turismo: el Ministro señor Nicolás Grau; la Subsecretaria de Economía y Empresas de Menor Tamaño, señora Javiera Petersen; la jefa de Administración y Finanzas de la Subsecretaría de Economía, señora Fernanda Plaza; el Subsecretario de Pesca y Acuicultura, señor Julio Salas; la Subsecretaria de Turismo, señora Verónica Pardo; la directora nacional de Sernapesca, señora María Soledad Tapia; la Directora (s) de Indespa, señora Priscilla Aguayo; la asesora de la Coordinación Legislativa, señora Antonia Sánchez; la jefa de Gabinete de la Subsecretaria de Economía, señora Francisca Ochoa; la jefa del Departamento Administrativo de la Subsecretaría de Pesca, señora Marta Hernández; el jefe de contabilidad y presupuesto, señor Robinson Quiero; la encargada de la Unidad de Gestión Estratégica y Administración, señora Alejandra Vargas; la jefa de Gabinete de la Subsecretaria de Turismo, señora Victoria Valdés."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Ministerio de Economía, Fomento y Turismo: doña Francisca Herrera. Por el H. Senador señor Kast, don Oscar Morales."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

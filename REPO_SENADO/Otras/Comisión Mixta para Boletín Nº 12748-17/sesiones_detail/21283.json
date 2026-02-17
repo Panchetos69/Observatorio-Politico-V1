@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21283",
+  "id_comision": "1407",
+  "nombre_comision": "Comisión Mixta para Boletín Nº 12748-17",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1407/21283",
+  "fecha_iso": "2025-03-25",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "10:45",
+  "hora_termino": "12:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "12748-17",
+      "tema": "Proyecto de ley que modifica y fortalece la ley N° 20.609, que establece medidas contra la discriminación. Aspectos considerados: Escuchar las exposiciones de los representantes de las entidades invitadas. Fundación Ronda. Fundación Iguales. Comunidad y Justicia. Comunidad Judía.",
+      "acuerdo": "Se continuará con las exposiciones en una próxima sesión. Integrantes: (Presidente) Senadora Campillai Rojas Fabiola Diputado Kaiser Barents-Von Hohenhagen Johannes en reemplazo de Labbé Martínez Cristian Diputado Labbé Martínez Cristian Diputado Melo Contreras Daniel Diputada Ossandón Irarrázabal Ximena Diputada Pizarro Sierra Lorena Senador Saavedra Chandía Gastón Diputada Schneider Videla Emilia Senador Walker Prieto Matías Asistentes: Senadora Carvajal Ambiado Loreto Diputada Concha Smith Sara",
+      "estado_punto": "",
+      "invitados_punto": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. El Jefe de la División de Protección de la Subsecretaría de Derechos Humanos, señor Sebastián Cabezas. Por Fundación Ronda: doña María José Escudero, Don Basilio Belmar y don Francisco Silva. Por Comunidad y Justicia: el abogado Gustavo Baehr. Por Fundación Iguales: las directoras, doña María José Cumplido y doña Constanza Canepa, y de comunicaciones, doña Catalina Llantén. Por Comunidad Judía: don Gabriel Silber. Otros asistentes: Por la Biblioteca del Congreso Nacional, el profesional señor Jaime Rojas. Asesores de Parlamentarios: de la Honorable Senadora, señora Campillai, doña Claudia Ahumada y don Pedro Carrasco; del Senador señor Saavedra, don César Barra; del Senador señor Chahuán, doña Claudia Unicahuin (zoom); del Senador señor Van Rysselberghe, don Juan Carlos Morales; de la Diputada señora Schneider, doña Nererdina González. Por Comunidad y Justicia, la señora Shaloom Riveros. Por el Comité Demócratas, la asesora legislativa, señora Paz Anastasiadis. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. El Jefe de la División de Protección de la Subsecretaría de Derechos Humanos, señor Sebastián Cabezas. Por Fundación Ronda: doña María José Escudero, Don Basilio Belmar y don Francisco Silva. Por Comunidad y Justicia: el abogado Gustavo Baehr. Por Fundación Iguales: las directoras, doña María José Cumplido y doña Constanza Canepa, y de comunicaciones, doña Catalina Llantén. Por Comunidad Judía: don Gabriel Silber."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Biblioteca del Congreso Nacional, el profesional señor Jaime Rojas. Asesores de Parlamentarios: de la Honorable Senadora, señora Campillai, doña Claudia Ahumada y don Pedro Carrasco; del Senador señor Saavedra, don César Barra; del Senador señor Chahuán, doña Claudia Unicahuin (zoom); del Senador señor Van Rysselberghe, don Juan Carlos Morales; de la Diputada señora Schneider, doña Nererdina González. Por Comunidad y Justicia, la señora Shaloom Riveros. Por el Comité Demócratas, la asesora legislativa, señora Paz Anastasiadis."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

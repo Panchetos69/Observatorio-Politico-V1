@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21605",
+  "id_comision": "198",
+  "nombre_comision": "Comisión de Transportes y Telecomunicaciones",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/198/21605",
+  "fecha_iso": "2025-06-11",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "09:30",
+  "hora_termino": "11:08",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17042-15",
+      "tema": "Modifica la Ley General de Telecomunicaciones para facultar el retiro del cableado aéreo en desuso por parte de las municipalidades Aspectos considerados: Se escuchó a los invitados y se analizó y se votó el proyecto de ley.",
+      "acuerdo": "Aprobado en general. Pasa a la Sala del Senado. Integrantes: (Presidente) Senador Kusanovic Glusevic Alejandro Senador Bianchi Retamales Karim Senador Castro González Juan Luis Senador Van Rysselberghe Herrera Enrique Senador Walker Prieto Matías",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "De la Asociación Chilena de Municipalidades (ACHM): el Director de Seguimiento Legislativo, señor Miguel Moreno. De la Asociación de Municipalidades de Chile (AMUCH): la Coordinadora Legislativa y Cumplimiento, señora Graciela Correa y la Directora Jurídica de la Municipalidad de La Reina, señora Sabrina Lagos. De la Asociación de Empresas Eléctricas A.G.: el Director Ejecutivo, señor Juan Meriches y el Director de Regulación, señor Andrés Vicent. Del Ministerio de Transportes y Telecomunicaciones: el Subsecretario de Telecomunicaciones, señor Claudio Araya y el asesor del Subsecretario, señor Sebastián Muñoz. Otros asistentes: De la Biblioteca del Congreso Nacional (BCN): la Investigadora del Área de Recursos Naturales, Ciencia y Tecnología, señora Claudia Cuevas, y los asesores del Honorable Senador señor Kusanovic, señores Sebastián Urrea y Benjamín Rodríguez; del Honorable Senador señor Castro, señoras Teresita Fabres, Meggy López y señor Arturo León; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; del Comité Partido Demócratas, señora Paz Anastasiadis; de la Fundación Jaime Guzmán, señor Joaquín García, y de la Secretaría General de la Presidencia (Segpres), señor Carlos Ortega. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Transportes y Telecomunicaciones: el Subsecretario de Telecomunicaciones, señor Claudio Araya y el asesor del Subsecretario, señor Sebastián Muñoz. Otros asistentes: De la Biblioteca del Congreso Nacional (BCN): la Investigadora del Área de Recursos Naturales, Ciencia y Tecnología, señora Claudia Cuevas, y los asesores del Honorable Senador señor Kusanovic, señores Sebastián Urrea y Benjamín Rodríguez; del Honorable Senador señor Castro, señoras Teresita Fabres, Meggy López y señor Arturo León; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; del Comité Partido Demócratas, señora Paz Anastasiadis; de la Fundación Jaime Guzmán, señor Joaquín García, y de la Secretaría General de la Presidencia (Segpres), señor Carlos Ortega. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

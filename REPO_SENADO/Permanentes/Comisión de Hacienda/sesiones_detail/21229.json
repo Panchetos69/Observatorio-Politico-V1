@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21229",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21229",
+  "fecha_iso": "2025-03-12",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "10:45",
+  "hora_termino": "12:16",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16811-04",
+      "tema": "Moderniza la oferta en la educación parvularia Aspectos considerados: La comisión recibió la presentación del Ministro de Educación y se abocó a las materias de su competencia.",
+      "acuerdo": "Aprobado en particular. Pasa a la Sala. Integrantes: (Presidente) Senador Kast Sommerhoff Felipe Senador Coloma Correa Juan Antonio Senador García Ruminot José Senador Insulza Salinas José Miguel Asistentes: Diputado Brito Hasbún Jorge Senadora Rincón González Ximena",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "Del Ministerio de Educación, el Ministro, señor Nicolás Cataldo; la Subsecretaria de Educación Parvularia, señora Claudia Lagos; el Coordinador Legislativo, señor Leonardo Vilches, y los asesores ministeriales, señoras Melissa Varas, Valentina Ríos y, señores Leonardo Jofré y Sebastián Henríquez. Del Ministerio Secretaria General de la Presidencia, los asesores, señora Marcia González y señor Héctor Correa. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador García, señor José Miguel Rey. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. Los asesores del Honorable Senador Kast, señores José Manuel Astorga y Óscar Morales. El asesor del Honorable Diputado Brito, señor Felipe Pérez. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Educación, el Ministro, señor Nicolás Cataldo; la Subsecretaria de Educación Parvularia, señora Claudia Lagos; el Coordinador Legislativo, señor Leonardo Vilches, y los asesores ministeriales, señoras Melissa Varas, Valentina Ríos y, señores Leonardo Jofré y Sebastián Henríquez."
+    },
+    {
+      "bloque": "Del Ministerio Secretaria General de la Presidencia, los asesores, señora Marcia González y señor Héctor Correa. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador García, señor José Miguel Rey. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. Los asesores del Honorable Senador Kast, señores José Manuel Astorga y Óscar Morales. El asesor del Honorable Diputado Brito, señor Felipe Pérez. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

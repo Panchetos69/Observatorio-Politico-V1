@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22270",
+  "id_comision": "1443",
+  "nombre_comision": "Comisión Mixta para Boletín N° 12234-02",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1443/22270",
+  "fecha_iso": "2026-01-13",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "12:00",
+  "hora_termino": "14:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "12234-02",
+      "tema": "Proyecto de ley que fortalece y moderniza el sistema de inteligencia del Estado. Aspectos considerados: La Comisión continuó analizando la forma de resolver las divergencias surgidas entre el Senado y la Cámara de Diputados.",
+      "acuerdo": "Proseguir su análisis en una próxima sesión. Integrantes: Diputado Brito Hasbún Jorge Senador Flores García Iván Diputada Hertz Cádiz Carmen Diputado Jouannet Valderrama Andrés Senador Macaya Danús Javier Senador Ossandón Irarrázabal Manuel José Senador Pugh Olavarría Kenneth Senador Saavedra Chandía Gastón Diputado Sánchez Ossa Luis Diputado Undurraga Gazitúa Francisco",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "DEL MINISTERIO DEL INTERIOR: Ministro, señor Álvaro Elizalde, y coordinadora legislativa, señora Laura Mancilla. DEL MINISTERIO DE DEFENSA NACIONAL: asesora, señora Leslie Sánchez. Otros asistentes: DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesores, señores Diego Castillo y Javier Sutil. ASESORES LEGISLATIVOS: del Honorable Senador Flores, señora Carolina Allende y señor Mauricio Vásquez; del Honorable Senador Macaya, señoras Karelyn Luttecke y Bernardita Valdés; de la Honorable Senadora Provoste, señor Enrique Soler; del Honorable Senador Pugh, señores Allonne Barra, Jorge Chocair y Juan Ignacio Nicolossi; del Honorable Senador Saavedra, señor César Barra; del Honorable Diputado Jouannet, señor Harold Correa, y del Honorable Diputado Undurraga, don Francisco, señor Lucas González. DEL COMITÉ PARTIDO RENOVACIÓN NACIONAL E INDEPENDIENTES DEL SENADO: coordinador legislativo, señor Ronald Von Der Weth. DEL COMITÉ COMUNISTA, FEDERACIÓN REGIONALISTA VERDE SOCIAL, ACCIÓN HUMANISTA E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesor, señor Ricardo Galaz. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. DE IDEAS REPÚBLICAS: asesora, señora Constanza Tirado. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analista, señora Verónica Barrios. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DEL INTERIOR: Ministro, señor Álvaro Elizalde, y coordinadora legislativa, señora Laura Mancilla. DEL MINISTERIO DE DEFENSA NACIONAL: asesora, señora Leslie Sánchez."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesores, señores Diego Castillo y Javier Sutil. ASESORES LEGISLATIVOS: del Honorable Senador Flores, señora Carolina Allende y señor Mauricio Vásquez; del Honorable Senador Macaya, señoras Karelyn Luttecke y Bernardita Valdés; de la Honorable Senadora Provoste, señor Enrique Soler; del Honorable Senador Pugh, señores Allonne Barra, Jorge Chocair y Juan Ignacio Nicolossi; del Honorable Senador Saavedra, señor César Barra; del Honorable Diputado Jouannet, señor Harold Correa, y del Honorable Diputado Undurraga, don Francisco, señor Lucas González. DEL COMITÉ PARTIDO RENOVACIÓN NACIONAL E INDEPENDIENTES DEL SENADO: coordinador legislativo, señor Ronald Von Der Weth. DEL COMITÉ COMUNISTA, FEDERACIÓN REGIONALISTA VERDE SOCIAL, ACCIÓN HUMANISTA E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesor, señor Ricardo Galaz. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. DE IDEAS REPÚBLICAS: asesora, señora Constanza Tirado. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analista, señora Verónica Barrios."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

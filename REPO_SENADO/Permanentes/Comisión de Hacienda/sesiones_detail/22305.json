@@ -1,0 +1,39 @@
+{
+  "id_sesion": "22305",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/22305",
+  "fecha_iso": "2026-01-19",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "15:00",
+  "hora_termino": "20:38",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "18036-05",
+      "tema": "Otorga reajuste general de remuneraciones a las y los trabajadores del sector público, concede aguinaldos que señala, concede otros beneficios que indica y modifica diversos cuerpos legales Aspectos considerados: La comisión retomó la discusión del proyecto y procedió a votar en general y en particular.",
+      "acuerdo": "Aprobado en general y en particular. Pasa a la Sala. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Lagos Weber Ricardo Senador Macaya Danús Javier Asistentes: Senador Saavedra Chandía Gastón",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "Del Ministerio de Hacienda, el Ministro, señor Nicolás Grau; la Subsecretaria, señora Heidi Berner; la Coordinadora Legislativa, señora Consuelo Fernández y el asesor, señor Andrés Smith. Del Ministerio del Trabajo y Previsión Social, el Ministro, señor Giorgio Boccardo y el asesor, señor José Méndez. Del Ministerio Secretaría General de la Presidencia, la Ministra, señora Macarena Lobos; el Jefe de Gabinete, señor Christián Valenzuela y la asesora, señora Isidora Yáñez De la Dirección de Presupuestos, la Subdirectora de Racionalización y Función Pública, señora Tania Hernández y los asesores, señora Patricia Orellana y, señores Patricio Camus, Luis Sánchez Castellón y Francisco Hernández. Los asesores del Honorable Senador Galilea, señores Gonzalo Vásquez y José Pedro Ríos. El asesor del Honorable Senador García, señor José Miguel Rey. Los asesores del Honorable Senador Insulza, señoras Lorena Escalona, Patricia Silva y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. La Jefa de Gabinete del Honorable Senador Macaya, señora Karelyn Luttecke. El asesor de la Honorable Senadora Provoste, señor Enrique Soler. Del Comité Unión Demócrata Independiente, la asesora, señora Bernardita Valdés. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. De la Municipalidad de Talcahuano, el Alcalde, señor Eduardo Saavedra. De la Biblioteca del Congreso Nacional, el asesor, señor Pablo Morales. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Hacienda, el Ministro, señor Nicolás Grau; la Subsecretaria, señora Heidi Berner; la Coordinadora Legislativa, señora Consuelo Fernández y el asesor, señor Andrés Smith."
+    },
+    {
+      "bloque": "Del Ministerio del Trabajo y Previsión Social, el Ministro, señor Giorgio Boccardo y el asesor, señor José Méndez."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, la Ministra, señora Macarena Lobos; el Jefe de Gabinete, señor Christián Valenzuela y la asesora, señora Isidora Yáñez De la Dirección de Presupuestos, la Subdirectora de Racionalización y Función Pública, señora Tania Hernández y los asesores, señora Patricia Orellana y, señores Patricio Camus, Luis Sánchez Castellón y Francisco Hernández. Los asesores del Honorable Senador Galilea, señores Gonzalo Vásquez y José Pedro Ríos. El asesor del Honorable Senador García, señor José Miguel Rey. Los asesores del Honorable Senador Insulza, señoras Lorena Escalona, Patricia Silva y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. La Jefa de Gabinete del Honorable Senador Macaya, señora Karelyn Luttecke. El asesor de la Honorable Senadora Provoste, señor Enrique Soler."
+    }
+  ],
+  "url_video": ""
+}

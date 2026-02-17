@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21378",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21378",
+  "fecha_iso": "2025-04-16",
+  "ano": "2025",
+  "mes": "04",
+  "hora_inicio": "10:38",
+  "hora_termino": "12:09",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17040-05",
+      "tema": "Modifica el decreto ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, para establecer un régimen tributario especial para comerciantes de ferias libres Aspectos considerados: La comisión recibió la presentación de la señora Subsecretaria de Hacienda y de la Confederación Gremial Nacional de Organizaciones de Ferias Libres (ASOF C.G).",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Macaya Danús Javier Senadora Provoste Campillay Yasna en reemplazo de Lagos Weber Ricardo",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Hacienda, la Subsecretaria, señora Heidi Berner y el Coordinador de Políticas Tributarias, señor Diego Riquelme. De la Confederación Gremial Nacional de Organizaciones de Ferias Libres (ASOF C.G), el Presidente, señor Froilán Flores; la Vicepresidenta, señora Paola Morales; la Coordinadora de Proyectos, señora Patricia Cabrera y la Vocera de la Coordinadora Nacional de Ferias Libres, señora Carla Muñoz. Del Ministerio Secretaría General de la Presidencia, los asesores, señora Marcia González y señor Héctor Correa. La asesora del Honorable Senador Coloma, señora Carolina Infante. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. El asesor del Honorable Senador Macaya, señor Carlos Oyarzún. La asesora de la Honorable Senadora Rincón, señora Sofía Dib. Del Comité Demócratas, la asesora, señora Paz Anastasiadis. Del Comité Partido Socialista, el asesor, señor Javier Sutil. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Hacienda, la Subsecretaria, señora Heidi Berner y el Coordinador de Políticas Tributarias, señor Diego Riquelme. De la Confederación Gremial Nacional de Organizaciones de Ferias Libres (ASOF C.G), el Presidente, señor Froilán Flores; la Vicepresidenta, señora Paola Morales; la Coordinadora de Proyectos, señora Patricia Cabrera y la Vocera de la Coordinadora Nacional de Ferias Libres, señora Carla Muñoz."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, los asesores, señora Marcia González y señor Héctor Correa. La asesora del Honorable Senador Coloma, señora Carolina Infante. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. El asesor del Honorable Senador Macaya, señor Carlos Oyarzún. La asesora de la Honorable Senadora Rincón, señora Sofía Dib."
+    }
+  ],
+  "url_video": ""
+}

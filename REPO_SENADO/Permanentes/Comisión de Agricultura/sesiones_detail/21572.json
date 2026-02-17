@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21572",
+  "id_comision": "192",
+  "nombre_comision": "Comisión de Agricultura",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/192/21572",
+  "fecha_iso": "2025-06-04",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "11:00",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "14714-01",
+      "tema": "Proyecto de ley que establece una ley marco de suelos. Aspectos considerados: Se escuchó la opinión de la representante del Colegio de Geólogos, señora Patricia Narváez.",
+      "acuerdo": "Se fijó plazo para presentar indicaciones, hasta el 23 de junio a las 12 horas en la Secretaría de la Comisión, al proyecto de ley que modifica el Código Sanitario. con el objeto de establecer normas sobre la trazabilidad del huevo y la certificación de huevos de gallina feliz o libre. Integrantes: (Presidente) Senadora Sepúlveda Orbenes Alejandra Senadora Aravena Acuña Carmen Gloria Senadora Carvajal Ambiado Loreto Senador Durana Semir José Miguel",
+      "estado_punto": "",
+      "invitados_punto": "Por el Ministerio de Agricultura: la Directora de la Oficina de Estudios y Políticas Agrarias, señora Andrea García, (Zoom). El Académico y representante de la ONG Suelos Sustentables, señor Luciano Duhalde. La representante del Colegio de Geólogos, señora Patricia Narváez. Otros asistentes: Por el Ministerio Secretaría General de la Presidencia, el asesor, don Daniel Olivares; por la Biblioteca del Congreso Nacional, el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Mauricio Vásquez, doña Magaly Fuenzalida, y don Hermes Gutiérrez; por la Senadora señora Aravena, don Claudio Pimentel; por el Senador señor Durana, don César Quiroga y doña Pamela Cousins; por el Senador señor De Rementería, don Nicolás Rojas, y por el Comité de Renovación Nacional, el Coordinador, señor Sebastián Amado. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Por el Ministerio de Agricultura: la Directora de la Oficina de Estudios y Políticas Agrarias, señora Andrea García, (Zoom). El Académico y representante de la ONG Suelos Sustentables, señor Luciano Duhalde. La representante del Colegio de Geólogos, señora Patricia Narváez."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio Secretaría General de la Presidencia, el asesor, don Daniel Olivares; por la Biblioteca del Congreso Nacional, el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Mauricio Vásquez, doña Magaly Fuenzalida, y don Hermes Gutiérrez; por la Senadora señora Aravena, don Claudio Pimentel; por el Senador señor Durana, don César Quiroga y doña Pamela Cousins; por el Senador señor De Rementería, don Nicolás Rojas, y por el Comité de Renovación Nacional, el Coordinador, señor Sebastián Amado."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

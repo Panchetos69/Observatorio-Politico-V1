@@ -1,0 +1,63 @@
+{
+  "id_sesion": "21620",
+  "id_comision": "195",
+  "nombre_comision": "Comisión de Salud",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/195/21620",
+  "fecha_iso": "2025-06-17",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "09:30",
+  "hora_termino": "11:40",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "7736-11",
+      "tema": "Proyecto de ley que establece el derecho a optar voluntariamente para recibir asistencia médica con el objeto de acelerar la muerte en caso de enfermedad terminal e incurable (Boletines N°s. 7.736-11; 9.644-11; 11.577-11, y 11.745-11, refundidos). Aspectos considerados: La señora Ministra de Salud dio a conocer las indicaciones que deberán ser consideradas con posterioridad a la aprobación en general del proyecto de ley. A continuación, expusieron los invitados de la Pontificia Universidad Católica de Chile. Integrantes: (Presidente) Senador Flores García Iván Senador Castro González Juan Luis Senador Chahuán Chahuán Francisco Senador Gahona Salazar Sergio Senadora Ordenes Neira Ximena Asistentes: Diputado Mirosevic Verdugo Vlado",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "La Ministra de Salud, Dra. Ximena Aguilera. La Subsecretaria de Salud Pública, señora Andrea Albagli. El Decano de la Facultad de Medicina de la Pontificia Universidad Católica de Chile, señor Felipe Heusser. La Profesora Paulina Ramos, profesora de Bioética y Subdirectora del Centro de Bioética de la Universidad Católica. El Profesor Dr. Jaime Godoy, Director de ¿Pulso Legislativo¿ de la Facultad de Medicina UC. La Profesora Carolina Goic, Profesora de la Escuela de Medicina, Directora Ejecutiva del Centro para la Prevención y Control del Cáncer (CECAN). Otros asistentes: La Jefa de la Oficina de Bioética del Ministerio de Salud, Dra. Ximena Luengo.El Coordinador Legislativo del Ministerio de Salud, señor Cristian Miquel.El Asesor de la Subsecretaría de Salud Pública, señor Camilo Brauchy.Los Asesores del Ministerio Secretaría General de la Presidencia, señores Agustín Díaz y Cristian Abarca.El Asesor de la Fundación Jaime Guzmán, señor Arturo Hasbún.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende, y Mauricio Vásquez.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.Los Asesores del Senador Juan Luis Castro, señora Teresita Fabres y señor Arturo León.El Asesor del Senador Frnacisco Chahuán, señor Nicolás Cerda.El Asesor del Senador Gastón Saavedra, señor Luis Batallé.El Asesor del Comité RN, señor Benjamín Saenz.El Asesor del Diputado Vlado Mirosevic, señor Oscar Guajardo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "La Ministra de Salud, Dra. Ximena Aguilera."
+    },
+    {
+      "nombre": "La Subsecretaria de Salud Pública, señora Andrea Albagli."
+    },
+    {
+      "nombre": "El Decano de la Facultad de Medicina de la Pontificia Universidad Católica de Chile, señor Felipe Heusser."
+    },
+    {
+      "nombre": "La Profesora Paulina Ramos, profesora de Bioética y Subdirectora del Centro de Bioética de la Universidad Católica."
+    },
+    {
+      "nombre": "El Profesor Dr. Jaime Godoy, Director de ¿Pulso Legislativo¿ de la Facultad de Medicina UC."
+    },
+    {
+      "nombre": "La Profesora Carolina Goic, Profesora de la Escuela de Medicina, Directora Ejecutiva del Centro para la Prevención y Control del Cáncer (CECAN)."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "La Jefa de la Oficina de Bioética del Ministerio de Salud, Dra. Ximena Luengo.El Coordinador Legislativo del Ministerio de Salud, señor Cristian Miquel.El Asesor de la Subsecretaría de Salud Pública, señor Camilo Brauchy.Los Asesores del Ministerio Secretaría General de la Presidencia, señores Agustín Díaz y Cristian Abarca.El Asesor de la Fundación Jaime Guzmán, señor Arturo Hasbún.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende, y Mauricio Vásquez.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.Los Asesores del Senador Juan Luis Castro, señora Teresita Fabres y señor Arturo León.El Asesor del Senador Frnacisco Chahuán, señor Nicolás Cerda.El Asesor del Senador Gastón Saavedra, señor Luis Batallé.El Asesor del Comité RN, señor Benjamín Saenz.El Asesor del Diputado Vlado Mirosevic, señor Oscar Guajardo."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

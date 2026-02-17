@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22078",
+  "id_comision": "619",
+  "nombre_comision": "Cuarta Subcomisión Mixta de Presupuestos",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/619/22078",
+  "fecha_iso": "2025-10-15",
+  "ano": "2025",
+  "mes": "10",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:20",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17870-05",
+      "tema": "Analizar la ejecución presupuestaria correspondiente a la Ley de Presupuestos del Sector Público año 2025 del Ministerio de Bienes Nacionales, así como el Proyecto de Ley de Presupuestos de dicha repartición para 2026. Aspectos considerados: Se escuchó a los invitados y se procedió a votar la Partida.",
+      "acuerdo": "Se aprobó la Partida 14, sin enmiendas (5x0). Pasa a la Comisión Especial Mixta de Presupuestos. Integrantes: (Presidente Accidental) Diputado Barrera Moreno Boris Diputado Cifuentes Lillo Ricardo Senador García Ruminot José Diputado Mellado Suazo Miguel Senadora Ordenes Neira Ximena",
+      "estado_punto": "",
+      "invitados_punto": "DEL MINISTERIO DE BIENES NACIONALES: el Ministro, señor Francisco Figueroa; el Jefe de la División de Planificación y Presupuesto, señor Francisco Domínguez; el Analista de la División de Planificación y Presupuesto, señor Néstor Zavala, y el Asesor legislativo, señor Luis Sepúlveda. DE LA DIRECCIÓN DE PRESUPUESTOS: el Jefe del Sector Vivienda y Bienes Nacionales, señor Mario Flores; los Analistas, señores Raúl Guerrero, Arturo Méndez y Hernán Sovino, y el Abogado de la Unidad Jurídica, señor Rodrigo Quinteros. Otros asistentes: DE LA OFICINA DE INFORMACIÓN, ANÁLISIS Y ASESORÍA PRESUPUESTARIA DEL SENADO: el analista coordinador, señor Rodrigo Ruiz. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: la analista, señora Verónica de la Paz. DEL COMITÉ DE SENADORES PS: la asesora, señora Catalina Ávalos. DEL INSTITUTO LIBERTAD Y DESARROLLO: el coordinador, señor Juan Ignacio Gómez. Asesores parlamentarios: del Senador señor García, don José Miguel Rey; del Senador señor Insulza, doña Lorena Escalona; del Senador señor Kusanovic, don Sebastián Urrea; de la Senadora señora Órdenes, don Jonatán Sepúlveda; del Diputado señor Barrera, don Cristián Cataldo; del Diputado señor Cifuentes, doña Paula Farías, y del Diputado señor Miguel Mellado, don Benjamín Gajardo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DE BIENES NACIONALES: el Ministro, señor Francisco Figueroa; el Jefe de la División de Planificación y Presupuesto, señor Francisco Domínguez; el Analista de la División de Planificación y Presupuesto, señor Néstor Zavala, y el Asesor legislativo, señor Luis Sepúlveda. DE LA DIRECCIÓN DE PRESUPUESTOS: el Jefe del Sector Vivienda y Bienes Nacionales, señor Mario Flores; los Analistas, señores Raúl Guerrero, Arturo Méndez y Hernán Sovino, y el Abogado de la Unidad Jurídica, señor Rodrigo Quinteros."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DE LA OFICINA DE INFORMACIÓN, ANÁLISIS Y ASESORÍA PRESUPUESTARIA DEL SENADO: el analista coordinador, señor Rodrigo Ruiz. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: la analista, señora Verónica de la Paz. DEL COMITÉ DE SENADORES PS: la asesora, señora Catalina Ávalos. DEL INSTITUTO LIBERTAD Y DESARROLLO: el coordinador, señor Juan Ignacio Gómez. Asesores parlamentarios: del Senador señor García, don José Miguel Rey; del Senador señor Insulza, doña Lorena Escalona; del Senador señor Kusanovic, don Sebastián Urrea; de la Senadora señora Órdenes, don Jonatán Sepúlveda; del Diputado señor Barrera, don Cristián Cataldo; del Diputado señor Cifuentes, doña Paula Farías, y del Diputado señor Miguel Mellado, don Benjamín Gajardo."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

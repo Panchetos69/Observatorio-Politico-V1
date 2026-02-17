@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21652",
+  "id_comision": "1407",
+  "nombre_comision": "Comisión Mixta para Boletín Nº 12748-17",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1407/21652",
+  "fecha_iso": "2025-07-01",
+  "ano": "2025",
+  "mes": "07",
+  "hora_inicio": "10:15",
+  "hora_termino": "11:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "12748-17",
+      "tema": "Resolver las divergencias producidas en la tramitación del proyecto de ley que modifica y fortalece la ley N° 20.609, que establece medidas contra la discriminación. Aspectos considerados: Se dieron a conocer los contenidos de la propuesta del Ejecutivo.",
+      "acuerdo": "1.- Sesionar los días miércoles de 11:00 a 12:30 horas. 2. Fijar la próxima sesión para el día 23 de julio de 2025, con el objeto de votar la idea de legislar. 3. Que los asesores parlamentarios se reúnan, convocados por el Ejecutivo, con el objeto de tratar los temas en que existan divergencias y que se relacionen con la idea de legislar. Integrantes: (Presidente) Senadora Campillai Rojas Fabiola Diputada Acevedo Sáez María Candelaria en reemplazo de Pizarro Sierra Lorena Senador Araya Guerrero Pedro Senador Chahuán Chahuán Francisco Senador Edwards Silva Rojo Diputado Kaiser Barents-Von Hohenhagen Johannes Diputado Melo Contreras Daniel Diputada Ossandón Irarrázabal Ximena Diputada Schneider Videla Emilia Senador Van Rysselberghe Herrera Enrique",
+      "estado_punto": "",
+      "invitados_punto": "El Subsecretario (s) de Derechos Humanos, señor Sebastián Cabezas y doña Valentina Parodi. Otros asistentes: Por el Ministerio Secretaria General de la Presidencia, doña Rosario Figueroa; por la Cámara de Diputados, don Orlando Cortés; por el Movimiento de Integración y Liberación Homosexual, Movilh, don Rolando Jiménez; Por la Fundación Ronda, doña María José Escudero y Basilio Belmar; Por la Fundación Jaime Guzmán, doña Antonella León. Asesores de Parlamentarios: de la Senadora, señora Campillai, doña Clauadia Ahumada, y don Pedro Carrasco; del Senador señor Chahuán, doña Claudia Unicahuin (zoom); del Senador señor Edwards, doña Valentina Saldaña; del Senador señor Van Rysselberghe, don Juan Carlos Morales; de la Diputada señora Schneider, don Matival Cortez, y por el Comité RN, don Octavio Tapia. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "El Subsecretario (s) de Derechos Humanos, señor Sebastián Cabezas y doña Valentina Parodi."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio Secretaria General de la Presidencia, doña Rosario Figueroa; por la Cámara de Diputados, don Orlando Cortés; por el Movimiento de Integración y Liberación Homosexual, Movilh, don Rolando Jiménez; Por la Fundación Ronda, doña María José Escudero y Basilio Belmar; Por la Fundación Jaime Guzmán, doña Antonella León. Asesores de Parlamentarios: de la Senadora, señora Campillai, doña Clauadia Ahumada, y don Pedro Carrasco; del Senador señor Chahuán, doña Claudia Unicahuin (zoom); del Senador señor Edwards, doña Valentina Saldaña; del Senador señor Van Rysselberghe, don Juan Carlos Morales; de la Diputada señora Schneider, don Matival Cortez, y por el Comité RN, don Octavio Tapia."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

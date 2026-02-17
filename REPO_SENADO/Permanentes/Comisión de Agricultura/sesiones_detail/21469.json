@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21469",
+  "id_comision": "192",
+  "nombre_comision": "Comisión de Agricultura",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/192/21469",
+  "fecha_iso": "2025-05-12",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "12:00",
+  "hora_termino": "13:30",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "14673-11",
+      "tema": "Proyecto de ley que modifica el Código Sanitario, con el objeto de establecer normas sobre la trazabilidad del huevo y la certificación de huevos de gallina feliz o libre. Aspectos considerados: Se escuchó la opinión de los invitados.",
+      "acuerdo": "Remitir al Ministerio de Agricultura la comunicación de la Asociación Gremial de Agricultores de Chile, que solicita una evaluación del acuerdo de SQM con Colelco respecto de la explotación del Salar de Atacama y su impacto en el mercado de fertilizantes. Soliciatr al Ministerio de Salud que envíe por escrito sus observaciones al proyecto de ley. Integrantes: (Presidente) Senadora Sepúlveda Orbenes Alejandra Senadora Aravena Acuña Carmen Gloria Senadora Carvajal Ambiado Loreto Senador Sanhueza Dueñas Gustavo en reemplazo de Durana Semir José Miguel",
+      "estado_punto": "",
+      "invitados_punto": "Por el Ministerio de Agricultura: la Ministra (s) señora Ignacia Fernández. Por el Servicio Agrícola y Ganadero: el Subdirector (s) de Gestión Técnica y Jefe División de Control de Frontera, señor Oscar Camacho; la Jefa de la División Jurídica, señora Andrea Collao; el Jefe de División Pecuaria, señor Carlos Orellana, y el Jefe del Departamento de Sanidad Animal, señor Hugo Araya. Por el Instituto de Desarrollo Agropecuario, INDAP: el Director Nacional, señor Santiago Rojas. Otros asistentes: Por el Ministerio de Agricultura: el asesor legislativo, don Rodrigo Herrera, y la periodista, doña Camila Olmos; por el Instituto de Desarrollo Agropecuario: los profesionales, don Gabriel Peralta, don Sebastián Acosta; la asesora comunicacional, doña Francisca Acevedo, y la fotógrafa, doña Abhideya Fariña. Asesores parlamentarios: de la Senadora señora Aravena, don Claudio Pimentel; de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Francisco Gómez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Por el Ministerio de Agricultura: la Ministra (s) señora Ignacia Fernández. Por el Servicio Agrícola y Ganadero: el Subdirector (s) de Gestión Técnica y Jefe División de Control de Frontera, señor Oscar Camacho; la Jefa de la División Jurídica, señora Andrea Collao; el Jefe de División Pecuaria, señor Carlos Orellana, y el Jefe del Departamento de Sanidad Animal, señor Hugo Araya. Por el Instituto de Desarrollo Agropecuario, INDAP: el Director Nacional, señor Santiago Rojas."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio de Agricultura: el asesor legislativo, don Rodrigo Herrera, y la periodista, doña Camila Olmos; por el Instituto de Desarrollo Agropecuario: los profesionales, don Gabriel Peralta, don Sebastián Acosta; la asesora comunicacional, doña Francisca Acevedo, y la fotógrafa, doña Abhideya Fariña. Asesores parlamentarios: de la Senadora señora Aravena, don Claudio Pimentel; de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Francisco Gómez."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

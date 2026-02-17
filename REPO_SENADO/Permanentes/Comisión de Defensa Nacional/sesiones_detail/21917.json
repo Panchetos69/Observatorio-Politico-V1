@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21917",
+  "id_comision": "190",
+  "nombre_comision": "Comisión de Defensa Nacional",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/190/21917",
+  "fecha_iso": "2025-09-09",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "12:30",
+  "hora_termino": "13:15",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16143-02",
+      "tema": "Proyecto de ley, en primer trámite constitucional, para la protección de la infraestructura crítica del país. Aspectos considerados: Ante la ausencia de los Ministros de Estado, la Comisión decidió no continuar el estudio de las indicaciones formuladas a esta iniciativa legal.",
+      "acuerdo": "Proseguir su análisis en una próxima sesión. Integrantes: (Presidente) Senador Macaya Danús Javier Senador Flores García Iván Senador Ossandón Irarrázabal Manuel José Senador Pugh Olavarría Kenneth Senadora Vodanovic Rojas Paulina en reemplazo de Saavedra Chandía Gastón",
+      "estado_punto": "",
+      "invitados_punto": "DEL MINISTERIO DEL INTERIOR: asesora legislativa del Gabinete del Ministro, señora Lesly Covarrubias. Otros asistentes: DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesores, señores Claudio Hurtado y Daniel Olivares. ASESORES LEGISLATIVOS: del Honorable Senador Flores, señora Carolina Allende; del Honorable Senador Ossandón, señora Carmen Castañaza; del Honorable Senador Pugh, señor Allonne Barra; del Honorable Senador Saavedra, señor César Barra, y de la Honorable Senadora Vodanovic, señores Jaime Morales y José Miguel Poblete. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señora Bárbara Horzella y señor Juan Pablo Jarufe. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DEL INTERIOR: asesora legislativa del Gabinete del Ministro, señora Lesly Covarrubias."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesores, señores Claudio Hurtado y Daniel Olivares. ASESORES LEGISLATIVOS: del Honorable Senador Flores, señora Carolina Allende; del Honorable Senador Ossandón, señora Carmen Castañaza; del Honorable Senador Pugh, señor Allonne Barra; del Honorable Senador Saavedra, señor César Barra, y de la Honorable Senadora Vodanovic, señores Jaime Morales y José Miguel Poblete. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señora Bárbara Horzella y señor Juan Pablo Jarufe. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

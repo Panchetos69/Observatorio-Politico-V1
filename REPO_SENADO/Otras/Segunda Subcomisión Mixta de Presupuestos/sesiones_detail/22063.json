@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22063",
+  "id_comision": "617",
+  "nombre_comision": "Segunda Subcomisión Mixta de Presupuestos",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/617/22063",
+  "fecha_iso": "2025-10-14",
+  "ano": "2025",
+  "mes": "10",
+  "hora_inicio": "18:00",
+  "hora_termino": "19:45",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Considerar el Presupuesto para el año 2026 de la Partida 04, correspondiente a la Contraloría General de la República. Aspectos considerados: La Subcomisión conoció el presupuesto del organismo autónomo referido, recibiendo en audiencia a la Contralora General de la República.",
+      "acuerdo": "La instancia acordó, por la unanimidad de sus integrantes presentes, dejar pendiente esta Partida para su consideración por la Comisión Especial Mixta de Presupuestos. Integrantes: (Presidente) Diputado Von Mühlenbrock Zamora Gastón Senador Galilea Vial Rodrigo Senador Macaya Danús Javier Diputado Sáez Quiroz Jaime en reemplazo de Cuello Peña Y Lillo Luis Asistentes: Diputado Castro Bascuñán José Miguel Senador De Urresti Longton Alfonso",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA: Contralora General, señora Dorothy Pérez; Subcontralor General, señor Víctor Hugo Merino; Jefa de la División de Administración Interna y Abastecimiento, señora Daniela Andreu, y Jefe del Departamento de Finanzas de la División de Administración Interna y Abastecimiento, señor Mauricio Rojas. DE LA DIRECCIÓN DE PRESUPUESTOS: Jefa Sector Ministerios Políticos y Poderes Autónomos, señora Mabel Barrales. Otros asistentes: DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesores, señora Marcia González y señor Cristian Vargas. DE LA DIRECCIÓN DE PRESUPUESTOS: analista del Sector Ministerios Políticos y Poderes Autónomos, señora Ximena Zúñiga y asesor, señor Juan Andrés Rojas. ASESORES LEGISLATIVOS: del Honorable Senador Galilea, señores Gonzalo Vásquez (vía telemática) y José Pedro Ríos; del Honorable Senador Lagos, señor Reinaldo Monardes, y del Honorable Diputado Sáez, señor Matías Zárate. DEL COMITÉ FRENTE AMPLIO E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesor, señor Mauricio Pardo. DEL COMITÉ COMUNISTA, FEDERACIÓN REGIONALISTA VERDE SOCIAL, ACCIÓN HUMANISTA E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesor, señor Ion de Rementería . DEL COMITÉ UNIÓN DEMÓCRATA INDEPENDIENTE DE LA CÁMARA DE DIPUTADOS: asesor, señor Ignacio Sariego. DE LA FUNDACIÓN JAIME GUZMÁN: Directora del Área Legislativa, señora Bárbara Bayolo. DEL CENTRO DE ESTUDIOS LIBERTAD Y DESARROLLO: asesor, señor Juan Ignacio Gómez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA: Contralora General, señora Dorothy Pérez; Subcontralor General, señor Víctor Hugo Merino; Jefa de la División de Administración Interna y Abastecimiento, señora Daniela Andreu, y Jefe del Departamento de Finanzas de la División de Administración Interna y Abastecimiento, señor Mauricio Rojas. DE LA DIRECCIÓN DE PRESUPUESTOS: Jefa Sector Ministerios Políticos y Poderes Autónomos, señora Mabel Barrales."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesores, señora Marcia González y señor Cristian Vargas. DE LA DIRECCIÓN DE PRESUPUESTOS: analista del Sector Ministerios Políticos y Poderes Autónomos, señora Ximena Zúñiga y asesor, señor Juan Andrés Rojas. ASESORES LEGISLATIVOS: del Honorable Senador Galilea, señores Gonzalo Vásquez (vía telemática) y José Pedro Ríos; del Honorable Senador Lagos, señor Reinaldo Monardes, y del Honorable Diputado Sáez, señor Matías Zárate. DEL COMITÉ FRENTE AMPLIO E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesor, señor Mauricio Pardo. DEL COMITÉ COMUNISTA, FEDERACIÓN REGIONALISTA VERDE SOCIAL, ACCIÓN HUMANISTA E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesor, señor Ion de Rementería . DEL COMITÉ UNIÓN DEMÓCRATA INDEPENDIENTE DE LA CÁMARA DE DIPUTADOS: asesor, señor Ignacio Sariego. DE LA FUNDACIÓN JAIME GUZMÁN: Directora del Área Legislativa, señora Bárbara Bayolo. DEL CENTRO DE ESTUDIOS LIBERTAD Y DESARROLLO: asesor, señor Juan Ignacio Gómez."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21773",
+  "id_comision": "1442",
+  "nombre_comision": "Comisión Bicameral de avalúo de predios agrícolas",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1442/21773",
+  "fecha_iso": "2025-08-05",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "12:15",
+  "hora_termino": "13:15",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Tiene por finalidad conocer los planteamientos de los invitados respecto de las materias objeto de esta Comisión Bicameral. Aspectos considerados: Se escuchó las exposiciones de los invitados.",
+      "acuerdo": "Se acordó oficiar al Ejecutivo a fin de consultar la razón de prorrogar solamente el reavalúo del año 2026, por lo que solo beneficiaría a los inmuebles urbanos. Se proseguirá con más invitados en una próxima sesión. Integrantes: Senadora Carvajal Ambiado Loreto Senador De Rementería Venegas Tomás Senador Durana Semir José Miguel Senador García Ruminot José en reemplazo de Aravena Acuña Carmen Gloria Diputada Labra Besserer Paula Diputado Moreno Bascur Benjamín Diputada Nuyado Ancapichún Emilia Diputado Rathgeb Schifferli Jorge Senadora Sepúlveda Orbenes Alejandra Diputada Weisse Novoa Flor",
+      "estado_punto": "",
+      "invitados_punto": "Por la Asociación de Comunas Rurales - AMUR - el Presidente (s) y Alcalde de Buin, señor Miguel Araya; por la Asociación de Agricultores de Malleco, el Presidente, señor Sebastián Naveillan; por la Multigremial Nacional, el Director, señor José Miguel Stegmeier; por el Colegio Contadores Auditores de Chile, el Presidente de la Comisión Tributaria, señor Juan Alberto Pizarro. Por la Asociación de Comunas Rurales - AMUR - el jefe de Proyectos, señor Jaime Vera, y el encargado de comunicaciones, señor Berrío. Otros asistentes: Por el Ministerio Secretaria General de la Presidencia: don Diego Castillo; por la Biblioteca del Congreso Nacional: el profesional, don Paco González; por la Cámara de Diputados, don Hernán Maturana y doña Sofia Jenschke. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Mauricio Vásquez y don Hermes Gutiérrez; por el Senador señor García, don Rodrigo Munita; por el Senador señor Durana, doña Pamela Cousins; por el Senador señor De Rementería, Jaime Miranda, y por el comité de Renovación Nacional, don Benjamín Saenz. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Por la Asociación de Comunas Rurales - AMUR - el Presidente (s) y Alcalde de Buin, señor Miguel Araya; por la Asociación de Agricultores de Malleco, el Presidente, señor Sebastián Naveillan; por la Multigremial Nacional, el Director, señor José Miguel Stegmeier; por el Colegio Contadores Auditores de Chile, el Presidente de la Comisión Tributaria, señor Juan Alberto Pizarro. Por la Asociación de Comunas Rurales - AMUR - el jefe de Proyectos, señor Jaime Vera, y el encargado de comunicaciones, señor Berrío."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio Secretaria General de la Presidencia: don Diego Castillo; por la Biblioteca del Congreso Nacional: el profesional, don Paco González; por la Cámara de Diputados, don Hernán Maturana y doña Sofia Jenschke. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Mauricio Vásquez y don Hermes Gutiérrez; por el Senador señor García, don Rodrigo Munita; por el Senador señor Durana, doña Pamela Cousins; por el Senador señor De Rementería, Jaime Miranda, y por el comité de Renovación Nacional, don Benjamín Saenz."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

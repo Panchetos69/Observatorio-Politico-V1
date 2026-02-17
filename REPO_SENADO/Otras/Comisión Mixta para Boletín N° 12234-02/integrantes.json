@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión Mixta para Boletín N° 12234-02",
+  "id": "1443",
+  "integrantes": [
+    {
+      "nombre": "Iván Flores García",
+      "cargo": "",
+      "id": "ivan-flores-garcia-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/ivan-flores-garcia-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Javier Macaya Danús",
+      "cargo": "",
+      "id": "javier-macaya-danus-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/javier-macaya-danus-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Manuel José Ossandón Irarrázabal",
+      "cargo": "",
+      "id": "manuel-jose-ossandon-irarrazabal-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/manuel-jose-ossandon-irarrazabal-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Kenneth Pugh Olavarría",
+      "cargo": "",
+      "id": "kenneth-pugh-olavarria-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/kenneth-pugh-olavarria-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Gastón Saavedra Chandía",
+      "cargo": "",
+      "id": "gaston-saavedra-chandia-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/gaston-saavedra-chandia-sen",
+      "chamber": "senado"
+    }
+  ]
+}

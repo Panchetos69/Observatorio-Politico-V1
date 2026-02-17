@@ -1,0 +1,36 @@
+{
+  "id_sesion": "22253",
+  "id_comision": "194",
+  "nombre_comision": "Comisión de Trabajo y Previsión Social",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/194/22253",
+  "fecha_iso": "2026-01-07",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "12:36",
+  "hora_termino": "14:04",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17641-13",
+      "tema": "Crea un nuevo sistema de subsidio unificado al empleo Aspectos considerados: La Comisión continuó con el estudio de las indicaciones formuladas al proyecto de ley que crea un nuevo sistema de subsidio unificado al empleo. Para conocer mayores antecedentes respecto de esta sesión puede consultar la grabación en el sitio https://tv.senado.cl/tvsenado/comisiones/permanentes/trabajo-y-prevision-social/comision-de-trabajo-y-prevision-social/2026-01-06/140104.html",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senador Saavedra Chandía Gastón Senadora Carvajal Ambiado Loreto Senador García Ruminot José Senadora Sepúlveda Orbenes Alejandra",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio del Trabajo y Previsión Social: el Ministro, señor Giorgio Boccardo; la Asesora, señora Daniela Ponce; y los Asesores, señores Fidel Bennett, Nicolás Ratto, Francisco Neira y José Méndez. Del Ministerio Secretaría General de la Presidencia (SEGPRES): los Asesores, señora Ignacia Guzmán y señor Vicente Riquelme. Los Asesores Parlamentarios: De la Senadora Sepúlveda, la señora Magaly Fuenzalida, y los señores Hermes Gutiérrez y Mauricio Vásquez. Del Senador Saavedra, el señor César Barra. Del Senador García, la señora Andrea González. Del Comité P.S, la señora Melanie Moraga, y del Comité UDI y del Senador Galilea, el señor Francisco del Río. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio del Trabajo y Previsión Social: el Ministro, señor Giorgio Boccardo; la Asesora, señora Daniela Ponce; y los Asesores, señores Fidel Bennett, Nicolás Ratto, Francisco Neira y José Méndez."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia (SEGPRES): los Asesores, señora Ignacia Guzmán y señor Vicente Riquelme. Los Asesores Parlamentarios: De la Senadora Sepúlveda, la señora Magaly Fuenzalida, y los señores Hermes Gutiérrez y Mauricio Vásquez. Del Senador Saavedra, el señor César Barra. Del Senador García, la señora Andrea González. Del Comité P.S, la señora Melanie Moraga, y del Comité UDI y del Senador Galilea, el señor Francisco del Río. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

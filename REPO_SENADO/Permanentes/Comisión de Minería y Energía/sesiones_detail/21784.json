@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21784",
+  "id_comision": "196",
+  "nombre_comision": "Comisión de Minería y Energía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/196/21784",
+  "fecha_iso": "2025-08-06",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "12:30",
+  "hora_termino": "13:40",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Recibir información acerca de las Centrales Nucleares Modulares. A esta sesión fueron especialmente invitados el Rector de la Universidad de Concepción, señor Carlos Saavedra, y el Director Ejecutivo de la Comisión Chilena de Energía Nuclear, señor Luis Huerta. Aspectos considerados: La Comisión escuchó a los invitados. Integrantes: (Presidente) Senador Prohens Espinosa Rafael Senador Castro González Juan Luis Senadora Ebensperger Orrego Luz Eliana Senadora Provoste Campillay Yasna",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "nullDe la Universidad de Concepción: el Rector, señor Carlos Saavedra. De la Comisión Chilena de Energía Nuclear: el Director Ejecutivo, señor Luis Huerta. Otros asistentes: De la Universidad de Concepción: el Rector, señor Carlos Saavedra. De la Comisión Chilena de Energía Nuclear: el Director Ejecutivo, señor Luis Huerta, y el Director de Comunicaciones señor Carlos Montes. De la Biblioteca del Congreso Nacional: el asesor, señor Rafael Torres. De la oficina del Senador señor Rafael Prohens, De la oficina del Senador señor Juan Luis Castro, la asesora legislativa señora Teresita Fabres, De la oficina de la Senadora señora Luz Ebensperger, la asesora señora Paola Bobadilla. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "nullDe la Universidad de Concepción: el Rector, señor Carlos Saavedra. De la Comisión Chilena de Energía Nuclear: el Director Ejecutivo, señor Luis Huerta."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "De la Universidad de Concepción: el Rector, señor Carlos Saavedra. De la Comisión Chilena de Energía Nuclear: el Director Ejecutivo, señor Luis Huerta, y el Director de Comunicaciones señor Carlos Montes. De la Biblioteca del Congreso Nacional: el asesor, señor Rafael Torres. De la oficina del Senador señor Rafael Prohens, De la oficina del Senador señor Juan Luis Castro, la asesora legislativa señora Teresita Fabres, De la oficina de la Senadora señora Luz Ebensperger, la asesora señora Paola Bobadilla."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

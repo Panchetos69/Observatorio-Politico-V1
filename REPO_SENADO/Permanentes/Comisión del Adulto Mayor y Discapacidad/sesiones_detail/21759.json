@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21759",
+  "id_comision": "1133",
+  "nombre_comision": "Comisión del Adulto Mayor y Discapacidad",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1133/21759",
+  "fecha_iso": "2025-08-04",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "17:00",
+  "hora_termino": "18:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "13822-07",
+      "tema": "Para promover el envejecimiento positivo, el cuidado integral de las personas mayores, y el fortalecimiento de la institucionalidad del adulto mayor. Aspectos considerados: Continuar el estudio del Proyecto de ley, en tercer trámite constitucional, para promover el envejecimiento positivo, el cuidado integral de las personas mayores, y el fortalecimiento de la institucionalidad del adulto mayor, correspondiente al boletín No13.822-07, con urgencia calificada de suma.",
+      "acuerdo": "Se despacha a Sala. Integrantes: (Presidente) Senadora Campillai Rojas Fabiola Senador Insulza Salinas José Miguel Senador Keitel Bianchi Sebastián Senador Sandoval Plaza David Senador Velásquez Núñez Esteban",
+      "estado_punto": "",
+      "invitados_punto": "Ministra de Desarrollo Social y Familia, señora Javiera Toro Cáceres. -Subsecretaria de Servicios Sociales, señora Francisca Gallegos Directora de Senama, señora Claudia Asmad. Otros asistentes: -Ministerio e Desarrollo Social y Familia, los asesores señores Mara Roitstein, Alena Gutiérrez y Fernando Carvallo -Subsecretaria de Servicios Sociales, las asesoras señoras María Belén Tomic y Francisca Cavada. -De Senama, la asesora, señora Tania Mora. -Asesor Honorable Senador Esteban Velásquez, señores Mauricio Velásquez y Sebastián León. -Asesores de Honorable Senadora Fabiola Campillai, señor Hermes Ortega y la señora Claudia Ahumada -Jefa de Gabinete Honorable Senador Sebastián Keitel, señora Camila Muñoz, la abogada, señora Valeria Ramírez -Asesores Honorable Senador José Miguel Insulza, señora Javiera Gómez y señor Carlos Fernández. -Asesor Honorable Senador David Sandoval, señor Nicolas Starck -Responsable del Programa de Inclusión de la Biblioteca del Congreso Nacional señora Paola Santibáñez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Ministra de Desarrollo Social y Familia, señora Javiera Toro Cáceres. -Subsecretaria de Servicios Sociales, señora Francisca Gallegos Directora de Senama, señora Claudia Asmad."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "-Ministerio e Desarrollo Social y Familia, los asesores señores Mara Roitstein, Alena Gutiérrez y Fernando Carvallo -Subsecretaria de Servicios Sociales, las asesoras señoras María Belén Tomic y Francisca Cavada. -De Senama, la asesora, señora Tania Mora. -Asesor Honorable Senador Esteban Velásquez, señores Mauricio Velásquez y Sebastián León. -Asesores de Honorable Senadora Fabiola Campillai, señor Hermes Ortega y la señora Claudia Ahumada -Jefa de Gabinete Honorable Senador Sebastián Keitel, señora Camila Muñoz, la abogada, señora Valeria Ramírez -Asesores Honorable Senador José Miguel Insulza, señora Javiera Gómez y señor Carlos Fernández. -Asesor Honorable Senador David Sandoval, señor Nicolas Starck -Responsable del Programa de Inclusión de la Biblioteca del Congreso Nacional señora Paola Santibáñez."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

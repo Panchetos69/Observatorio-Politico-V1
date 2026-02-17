@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21665",
+  "id_comision": "192",
+  "nombre_comision": "Comisión de Agricultura",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/192/21665",
+  "fecha_iso": "2025-07-02",
+  "ano": "2025",
+  "mes": "07",
+  "hora_inicio": "11:00",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Conocer la implementación de las distintas etapas de la nueva institucionalidad, el traspaso y directrices del Servicio Nacional Forestal, Sernafor. Aspectos considerados: Se tomó conocimiento de los avances en la implementación del nuevo Servicio Nacional Forestal de parte del Ministro (s), señor Alan Espinoza, y del Director (s) de la Corporación Nacional Forestal, señor Rodrigo Illesca.",
+      "acuerdo": "Oficiar al Ministerio de Agricultura a fin de solicitar información sobre: diagnóstico de pérdidas en la producción de agricultores que se han visto afectados por las heladas de las últimas semanas, los mecanismos que ha contemplado la Cartera para ir en su apoyo y si es posible aplicar el seguro agrícola en esta materia; antecedentes sobre la reciente noticia en cuanto a que Perú superará a Chile como el mayor exportador de frutas de Sudamérica. Se requiere que la Oficina de Estudios y Políticas Agrarias proporcione detalles respecto a los productos que se han visto afectados y si tal situación es permanente o transitoria; y, nuevas medidas adoptadas por el Servicio Agrícola y Ganadero en la aplicación del decreto supremo N° 3.516, que establece normas sobre división de predios rústicos. Oficiar al Ministerio de Obras Públicas para requerir antecedentes detallados sobre el funcionamiento y administración del Embalse Punilla, en la Región de Ñuble. Se fijó plazo para presentar indicaciones hasta el 28 de julio a las 12 horas en la Secretaría de la Comisión, en el proyecto de ley que modifica el Código Sanitario con el objeto de establecer normas sobre la trazabilidad del huevo y la certificación de huevos de gallina feliz o libre, Boletín N° 14.673-11 Integrantes: (Presidente) Senadora Sepúlveda Orbenes Alejandra Senadora Aravena Acuña Carmen Gloria Senadora Carvajal Ambiado Loreto Senador De Rementería Venegas Tomás Senador Durana Semir José Miguel",
+      "estado_punto": "",
+      "invitados_punto": "Por el Ministerio de Agricultura: el Ministro (s) señor Alan Espinoza; el asesor, señor Fabian Luengo, y la asesora, señora Catalina Núñez; por la Subsecretaría de Agricultura: el asesor, señor Rodrigo Herrera, y el audiovisual, señor Raúl Prado; por la Corporación Nacional Forestal: el Director (s), señor Rodrigo Illesca; la Fiscal, señora Daniela Prokurica; la jefa de gabinete, señora Claudia Ramos, y el asesor, señor Maximiliano Guiñez. Otros asistentes: Por la Biblioteca del Congreso Nacional, el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Mauricio Vásquez y don Hermes Gutiérrez; por la Senadora señora Aravena, don Felipe Pereira; por el Senador señor Durana, don César Quiroga y doña Pamela Cousins; por la Senadora señora Carvajal, don Julio Valladares; por el Senador señor De Rementería, don Nicolás Rojas y Jaime Miranda, por el Senador señor García, don Rodrigo Munita, y por la Fundación Jaime Guzmán, don Juan José Llorente. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Por el Ministerio de Agricultura: el Ministro (s) señor Alan Espinoza; el asesor, señor Fabian Luengo, y la asesora, señora Catalina Núñez; por la Subsecretaría de Agricultura: el asesor, señor Rodrigo Herrera, y el audiovisual, señor Raúl Prado; por la Corporación Nacional Forestal: el Director (s), señor Rodrigo Illesca; la Fiscal, señora Daniela Prokurica; la jefa de gabinete, señora Claudia Ramos, y el asesor, señor Maximiliano Guiñez."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Biblioteca del Congreso Nacional, el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Mauricio Vásquez y don Hermes Gutiérrez; por la Senadora señora Aravena, don Felipe Pereira; por el Senador señor Durana, don César Quiroga y doña Pamela Cousins; por la Senadora señora Carvajal, don Julio Valladares; por el Senador señor De Rementería, don Nicolás Rojas y Jaime Miranda, por el Senador señor García, don Rodrigo Munita, y por la Fundación Jaime Guzmán, don Juan José Llorente."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

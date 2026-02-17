@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21746",
+  "id_comision": "185",
+  "nombre_comision": "Comisión de Gobierno, Descentralización y Regionalización",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/185/21746",
+  "fecha_iso": "2025-07-22",
+  "ano": "2025",
+  "mes": "07",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17640-06",
+      "tema": "Modifica diversos cuerpos legales, para promover la gobernabilidad y la representatividad del sistema político Aspectos considerados: Continuar el estudio del Proyecto de ley, en primer trámite constitucional, que modifica diversos cuerpos legales, para promover la gobernabilidad y la representatividad del sistema político, correspondiente al Boletín N°17.640-06, con urgencia calificada de suma.",
+      "acuerdo": "Aprobado en general. Integrantes: (Presidente) Senadora Vodanovic Rojas Paulina Senadora Ebensperger Orrego Luz Eliana Senador Prohens Espinosa Rafael Senador Quintana Leal Jaime Senador Velásquez Núñez Esteban",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "-Ministra Secretaria General de la Presidencia, señora Macarena Lobos -Ministro del Interior señor Álvaro Elizalde Otros asistentes: -Ministro del Interior, la Jefa Legislativa del gabinete, señora Laura Mancilla Rubio y los asesores señora Alexandra Álvarez y señor Ignacio Soto -Asesor Honorable Senador Jaime Quintana, señor Álvaro Pávez -Asesores Honorable Senado Esteban Velásquez, señora Magaly Fuenzalida y señor Mauricio Vásquez -Asesor Honorable Senadora Paulina Vodanovic, señor José Poblete -Asesores Legislativos de Segpres, señores Cristian Vargas y señor Carlos Valenzuela -Asesores Comité UDI, señores Williams Valenzuela y señor Fernando Castro -Asesor Comité PS, señor Javier Sutil -Asesora Fundación Jaime Guzmán, señora Antonella León -Periodista diario el Mercurio, señor Rienzi Franco -Periodista radio Bio Bio, señor Nicolas Donoso. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "-Ministra Secretaria General de la Presidencia, señora Macarena Lobos -Ministro del Interior señor Álvaro Elizalde"
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "-Ministro del Interior, la Jefa Legislativa del gabinete, señora Laura Mancilla Rubio y los asesores señora Alexandra Álvarez y señor Ignacio Soto -Asesor Honorable Senador Jaime Quintana, señor Álvaro Pávez -Asesores Honorable Senado Esteban Velásquez, señora Magaly Fuenzalida y señor Mauricio Vásquez -Asesor Honorable Senadora Paulina Vodanovic, señor José Poblete -Asesores Legislativos de Segpres, señores Cristian Vargas y señor Carlos Valenzuela -Asesores Comité UDI, señores Williams Valenzuela y señor Fernando Castro -Asesor Comité PS, señor Javier Sutil -Asesora Fundación Jaime Guzmán, señora Antonella León -Periodista diario el Mercurio, señor Rienzi Franco -Periodista radio Bio Bio, señor Nicolas Donoso."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

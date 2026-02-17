@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21856",
+  "id_comision": "617",
+  "nombre_comision": "Segunda Subcomisión Mixta de Presupuestos",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/617/21856",
+  "fecha_iso": "2025-08-19",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "17:00",
+  "hora_termino": "18:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Conocer la ejecución presupuestaria del año 2025 de la Partida 11, correspondiente al Ministerio de Defensa Nacional. Aspectos considerados: La Subcomisión conoció la ejecución de la Partida de la referencia. Integrantes: (Presidente) Diputado Von Mühlenbrock Zamora Gastón Diputado Cuello Peña Y Lillo Luis Senador Galilea Vial Rodrigo Senador Lagos Weber Ricardo Senador Macaya Danús Javier Asistentes: Senador Pugh Olavarría Kenneth",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "DEL MINISTERIO DE DEFENSA NACIONAL: Ministra, señora Adriana Delpiano; Subsecretario de Defensa, señor Ricardo Montero; Subsecretario para las Fuerzas Armadas, señor Galo Eidelstein, y Jefe de la División de Presupuestos y Finanzas de la Subsecretaría para las Fuerzas Armadas, señor Gian Suil. DEL EJÉRCITO DE CHILE: Jefe del Estado Mayor General, General de División, señor Rodrigo Pino, y Director de Finanzas, General de Brigada, señor Eric Fuentes. DE LA ARMADA DE CHILE: Comandante en Jefe, Almirante, señor Fernando Cabrera, y Director General de Finanzas, Contraalmirante AB, señor Klaus Hartung. DE LA FUERZA AÉREA DE CHILE: Comandante en Jefe, General del Aire, señor Hugo Rodríguez, y Director de Finanzas, General de Brigada Aérea (AD), señor Boris León. DEL ESTADO MAYOR CONJUNTO: Jefe del Departamento de Contabilidad, Teniente 1°, señor Gonzalo Leal, y Director de Finanzas, Coronel de Aviación (AD), señor Emilio Herrera. DE LA DIRECCIÓN DE PRESUPUESTOS: analistas, señoras Karla Díaz y Mariela Orellana. Otros asistentes: DEL MINISTERIO DE DEFENSA NACIONAL: Asesora Económica y Financiera, señora Natalia Angulo; asesora legislativa del Gabinete de la Ministra, señora Leslie Sánchez, y asesor, señor Roberto Sáez. ASESORES PARLAMENTARIOS: del Honorable Senador Galilea, señor Gonzalo Vásquez, y del Honorable Senador Lagos, señor Reinaldo Monardes. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DE DEFENSA NACIONAL: Ministra, señora Adriana Delpiano; Subsecretario de Defensa, señor Ricardo Montero; Subsecretario para las Fuerzas Armadas, señor Galo Eidelstein, y Jefe de la División de Presupuestos y Finanzas de la Subsecretaría para las Fuerzas Armadas, señor Gian Suil. DEL EJÉRCITO DE CHILE: Jefe del Estado Mayor General, General de División, señor Rodrigo Pino, y Director de Finanzas, General de Brigada, señor Eric Fuentes. DE LA ARMADA DE CHILE: Comandante en Jefe, Almirante, señor Fernando Cabrera, y Director General de Finanzas, Contraalmirante AB, señor Klaus Hartung. DE LA FUERZA AÉREA DE CHILE: Comandante en Jefe, General del Aire, señor Hugo Rodríguez, y Director de Finanzas, General de Brigada Aérea (AD), señor Boris León. DEL ESTADO MAYOR CONJUNTO: Jefe del Departamento de Contabilidad, Teniente 1°, señor Gonzalo Leal, y Director de Finanzas, Coronel de Aviación (AD), señor Emilio Herrera. DE LA DIRECCIÓN DE PRESUPUESTOS: analistas, señoras Karla Díaz y Mariela Orellana."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO DE DEFENSA NACIONAL: Asesora Económica y Financiera, señora Natalia Angulo; asesora legislativa del Gabinete de la Ministra, señora Leslie Sánchez, y asesor, señor Roberto Sáez. ASESORES PARLAMENTARIOS: del Honorable Senador Galilea, señor Gonzalo Vásquez, y del Honorable Senador Lagos, señor Reinaldo Monardes."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

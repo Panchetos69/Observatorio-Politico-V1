@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Transportes y Telecomunicaciones",
+  "id": "198",
+  "integrantes": [
+    {
+      "nombre": "Alejandro Kusanovic Glusevic",
+      "cargo": "",
+      "id": "alejandro-kusanovic-glusevic-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/alejandro-kusanovic-glusevic-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Karim Bianchi Retamales",
+      "cargo": "",
+      "id": "karim-bianchi-retamales-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/karim-bianchi-retamales-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Juan Luis Castro González",
+      "cargo": "",
+      "id": "juan-luis-castro-gonzalez-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/juan-luis-castro-gonzalez-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Enrique Van Rysselberghe Herrera",
+      "cargo": "",
+      "id": "enrique-van-rysselberghe-herrera-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/enrique-van-rysselberghe-herrera-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Matías Walker Prieto",
+      "cargo": "",
+      "id": "matias-walker-prieto-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/matias-walker-prieto-sen",
+      "chamber": "senado"
+    }
+  ]
+}

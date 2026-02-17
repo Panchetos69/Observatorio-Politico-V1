@@ -1,0 +1,36 @@
+{
+  "id_sesion": "22323",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/22323",
+  "fecha_iso": "2026-01-21",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "16:06",
+  "hora_termino": "16:24",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16335-14",
+      "tema": "Regula la prevención de incendios forestales y rurales, y otras materias que indica Aspectos considerados: La comisión sesionó con autorización de la Sala.",
+      "acuerdo": "Aprobado en particular. Pasa a la Sala. Integrantes: (Presidente) Senadora Rincón González Ximena Senadora Ebensperger Orrego Luz Eliana en reemplazo de Macaya Danús Javier Senador García Ruminot José en reemplazo de Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Lagos Weber Ricardo",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "Del Ministerio de Agricultura, el Subsecretario, señor Alan Espinoza y los asesores, señora Rocío Norambuena y señor Sergio Herrera. De la Corporación Nacional Forestal (CONAF), la Jefa de Gabinete, señora Catalina Núñez y el Asesor Jurídico, señor Maximiliano Guiñez. Del Ministerio Secretaría General de la Presidencia, el asesor, señor José Luis Pulgar. Las asesoras de la Honorable Senadora Rincón, señoras Fernanda Thompson y Sofía Dib. Del Comité Unión Demócrata Independiente, el asesor Juan José Llorente. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Agricultura, el Subsecretario, señor Alan Espinoza y los asesores, señora Rocío Norambuena y señor Sergio Herrera. De la Corporación Nacional Forestal (CONAF), la Jefa de Gabinete, señora Catalina Núñez y el Asesor Jurídico, señor Maximiliano Guiñez."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, el asesor, señor José Luis Pulgar. Las asesoras de la Honorable Senadora Rincón, señoras Fernanda Thompson y Sofía Dib."
+    }
+  ],
+  "url_video": ""
+}

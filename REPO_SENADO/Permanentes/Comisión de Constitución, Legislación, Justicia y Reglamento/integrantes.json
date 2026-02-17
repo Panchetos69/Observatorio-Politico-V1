@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+  "id": "186",
+  "integrantes": [
+    {
+      "nombre": "Paulina Núñez Urrutia",
+      "cargo": "",
+      "id": "paulina-nunez-urrutia-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/paulina-nunez-urrutia-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Pedro Araya Guerrero",
+      "cargo": "",
+      "id": "pedro-araya-guerrero-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/pedro-araya-guerrero-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Luciano Cruz-Coke Carvallo",
+      "cargo": "",
+      "id": "luciano-cruz-coke-carvallo-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/luciano-cruz-coke-carvallo-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Alfonso De Urresti Longton",
+      "cargo": "",
+      "id": "alfonso-de-urresti-longton-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/alfonso-de-urresti-longton-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Luz Eliana Ebensperger Orrego",
+      "cargo": "",
+      "id": "luz-eliana-ebensperger-orrego-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/luz-eliana-ebensperger-orrego-sen",
+      "chamber": "senado"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id_sesion": "21395",
+  "id_comision": "199",
+  "nombre_comision": "Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/199/21395",
+  "fecha_iso": "2025-04-22",
+  "ano": "2025",
+  "mes": "04",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "15338-17",
+      "tema": "Continuar el estudio y votar, en general y en particular, el proyecto de ley que introduce la calificación jurídica de Ausente por Desaparición Forzada y crea un registro especial Aspectos considerados: Se escucharon los argumentos del señor Ministro de Justicia y del señor Sebastián Cabezas, sobre los aspectos considerados por la mesa de trabajo constituida al afecto.",
+      "acuerdo": "Despachado, en general y particular, a la vez, 2x1 abst. Pasa a la Sala. Integrantes: (Presidente) Senador Chahuán Chahuán Francisco Senadora Campillai Rojas Fabiola Senador Edwards Silva Rojo",
+      "estado_punto": "DESPACHADO",
+      "invitados_punto": "El Ministro de Justicia, señor Jaime Gajardo. La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. El Jefe de la División de Protección de la Subsecretaría de Derechos Humanos, señor Sebastián Cabezas. Por la Asociación de ex soldados conscriptos de Chile: su presidente, señor Ángel Ulloa y los dirigentes, señores Juan Álvarez y Raúl Maldonado. Por el Instituto Nacional de Derechos Humanos: doña Bernardita Vega y don Nicolás del Fierro. Por la Subsecretaría de Derechos Humanos: doña Valentina Parodi. Otros asistentes: Por el Ministerio de Justicia y Derechos Humanos: el periodista, don Max Laulié. Por el Ministerio Secretaria General de la Presidencia: doña Rosario Figueroa y don Carlos Ortega. Por Fundación Ronda: la directora, doña María José Escudero. Por la Biblioteca del Congreso Nacional: el profesional, don Jaime Rojas. Asesores de Parlamentarios: de la Senadora, señora Campillai, doña Claudia Ahumada, don Pedro Carrasco y don Gabriel Gajardo; del Senador señor Edwards, don Diego González. Por el Comité de Renovación Nacional: don Octavio Tapia."
+    },
+    {
+      "numero": 2,
+      "boletin": "16971-17",
+      "tema": "Se inició el estudio del proyecto de ley que reconoce la calidad de víctimas de violaciones a los derechos humanos a las personas que indica. Aspectos considerados: Se escuchó a los representantes de la Coordinación de ex conscriptos, señores Raúl Maldonado, Ángel Ulloa y Juan Álvarez, quienes expresaron sus consideraciones sobre la iniciativa.",
+      "acuerdo": "Convocar para una próxima sesión a los ex titulares de las carteras de Defensa, Interior, Justicia y Derechos Humanos, junto a los Subsecretarios, de los Gobiernos de los ex Presidentes señora Bachelet y señor Piñera. Integrantes: (Presidente) Senador Chahuán Chahuán Francisco Senadora Campillai Rojas Fabiola Senador Edwards Silva Rojo",
+      "estado_punto": "",
+      "invitados_punto": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. El Jefe de la División de Protección de la Subsecretaría de Derechos Humanos, señor Sebastián Cabezas. Por la Asociación de ex soldados conscriptos de Chile: su presidente, señor Ángel Ulloa y los dirigentes, señores Juan Álvarez y Raúl Maldonado. Por el Instituto Nacional de Derechos Humanos: doña Bernardita Vega y don Nicolás del Fierro. Por la Subsecretaría de Derechos Humanos: doña Valentina Parodi. Otros asistentes: Por el Ministerio de Justicia y Derechos Humanos: el periodista, don Max Laulié. Por el Ministerio Secretaria General de la Presidencia: doña Rosario Figueroa y don Carlos Ortega. Por Fundación Ronda: la directora, doña María José Escudero. Por la Biblioteca del Congreso Nacional: el profesional, don Jaime Rojas. Asesores de Parlamentarios: de la Senadora, señora Campillai, doña Claudia Ahumada, don Pedro Carrasco y don Gabriel Gajardo; del Senador señor Edwards, don Diego González. Por el Comité de Renovación Nacional: don Octavio Tapia. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "El Ministro de Justicia, señor Jaime Gajardo. La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. El Jefe de la División de Protección de la Subsecretaría de Derechos Humanos, señor Sebastián Cabezas. Por la Asociación de ex soldados conscriptos de Chile: su presidente, señor Ángel Ulloa y los dirigentes, señores Juan Álvarez y Raúl Maldonado. Por el Instituto Nacional de Derechos Humanos: doña Bernardita Vega y don Nicolás del Fierro. Por la Subsecretaría de Derechos Humanos: doña Valentina Parodi."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio de Justicia y Derechos Humanos: el periodista, don Max Laulié. Por el Ministerio Secretaria General de la Presidencia: doña Rosario Figueroa y don Carlos Ortega. Por Fundación Ronda: la directora, doña María José Escudero. Por la Biblioteca del Congreso Nacional: el profesional, don Jaime Rojas. Asesores de Parlamentarios: de la Senadora, señora Campillai, doña Claudia Ahumada, don Pedro Carrasco y don Gabriel Gajardo; del Senador señor Edwards, don Diego González. Por el Comité de Renovación Nacional: don Octavio Tapia."
+    },
+    {
+      "nombre": "Punto 2"
+    },
+    {
+      "nombre": "Boletin:"
+    },
+    {
+      "nombre": "16971-17"
+    },
+    {
+      "nombre": "Se inició el estudio del proyecto de ley que reconoce la calidad de víctimas de violaciones a los derechos humanos a las personas que indica."
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "Se escuchó a los representantes de la Coordinación de ex conscriptos, señores Raúl Maldonado, Ángel Ulloa y Juan Álvarez, quienes expresaron sus consideraciones sobre la iniciativa."
+    },
+    {
+      "nombre": "Acuerdos:"
+    },
+    {
+      "nombre": "Convocar para una próxima sesión a los ex titulares de las carteras de Defensa, Interior, Justicia y Derechos Humanos, junto a los Subsecretarios, de los Gobiernos de los ex Presidentes señora Bachelet y señor Piñera."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente) Senador Chahuán Chahuán Francisco"
+    },
+    {
+      "nombre": "Senadora Campillai Rojas Fabiola"
+    },
+    {
+      "nombre": "Senador Edwards Silva Rojo"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. El Jefe de la División de Protección de la Subsecretaría de Derechos Humanos, señor Sebastián Cabezas. Por la Asociación de ex soldados conscriptos de Chile: su presidente, señor Ángel Ulloa y los dirigentes, señores Juan Álvarez y Raúl Maldonado. Por el Instituto Nacional de Derechos Humanos: doña Bernardita Vega y don Nicolás del Fierro. Por la Subsecretaría de Derechos Humanos: doña Valentina Parodi."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio de Justicia y Derechos Humanos: el periodista, don Max Laulié. Por el Ministerio Secretaria General de la Presidencia: doña Rosario Figueroa y don Carlos Ortega. Por Fundación Ronda: la directora, doña María José Escudero. Por la Biblioteca del Congreso Nacional: el profesional, don Jaime Rojas. Asesores de Parlamentarios: de la Senadora, señora Campillai, doña Claudia Ahumada, don Pedro Carrasco y don Gabriel Gajardo; del Senador señor Edwards, don Diego González. Por el Comité de Renovación Nacional: don Octavio Tapia."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

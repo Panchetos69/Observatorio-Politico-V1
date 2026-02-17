@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21309",
+  "id_comision": "191",
+  "nombre_comision": "Comisión de Obras Públicas",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/191/21309",
+  "fecha_iso": "2025-03-26",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "12:30",
+  "hora_termino": "14:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Conocer la situación del puerto pesquero artesanal de Lebu. Aspectos considerados: La Comisión trató el asunto referido, recibiendo en audiencia al Delegado Presidencial Provincial de Arauco; al Director de Obras Portuarias del Ministerio de Obras Públicas, y al Administrador del puerto mencionado. Integrantes: (Presidente) Senador Núñez Arancibia Daniel Senador Gahona Salazar Sergio Senadora Gatica Bertin María José",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "DE LA DELEGACIÓN PRESIDENCIAL PROVINCIAL DE ARAUCO: Delegado Presidencial Provincial, señor Humberto Toro. DEL MINISTERIO DE OBRAS PÚBLICAS: Director Nacional de Obras Portuarias, señor Ricardo Trigo. DEL PUERTO PESQUERO ARTESANAL DE LEBU: Primer Director de la Federación de Organización de Pescadores Artesanales, señor Juan Bravo; Segundo Director, señor Sergio Fernández, y Administrador, señor Lester Chávez. Otros asistentes: DE LA DELEGACIÓN PRESIDENCIAL PROVINCIAL DE ARAUCO: Jefe de Planificación, señor Francisco Fernández, y jefe de Gabinete, señor Ignacio Inostroza. DEL MINISTERIO DE OBRAS PÚBLICAS: coordinador legislativo del Gabinete, señor Tomás Mendoza. DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesor, señor Héctor Correa. ASESORES LEGISLATIVOS: del Honorable Senador Gahona, señor Benjamín Rug; de la Honorable Senadora Gatica, señor Felipe Pereira y señora Elisa Ríos, y del Honorable Senador Núñez, señora Tiffany Cataldo y señor Manuel Torres. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Joaquín García. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analista, señor Hernán Cerda. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DE LA DELEGACIÓN PRESIDENCIAL PROVINCIAL DE ARAUCO: Delegado Presidencial Provincial, señor Humberto Toro. DEL MINISTERIO DE OBRAS PÚBLICAS: Director Nacional de Obras Portuarias, señor Ricardo Trigo. DEL PUERTO PESQUERO ARTESANAL DE LEBU: Primer Director de la Federación de Organización de Pescadores Artesanales, señor Juan Bravo; Segundo Director, señor Sergio Fernández, y Administrador, señor Lester Chávez."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DE LA DELEGACIÓN PRESIDENCIAL PROVINCIAL DE ARAUCO: Jefe de Planificación, señor Francisco Fernández, y jefe de Gabinete, señor Ignacio Inostroza. DEL MINISTERIO DE OBRAS PÚBLICAS: coordinador legislativo del Gabinete, señor Tomás Mendoza. DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesor, señor Héctor Correa. ASESORES LEGISLATIVOS: del Honorable Senador Gahona, señor Benjamín Rug; de la Honorable Senadora Gatica, señor Felipe Pereira y señora Elisa Ríos, y del Honorable Senador Núñez, señora Tiffany Cataldo y señor Manuel Torres. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Joaquín García. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analista, señor Hernán Cerda."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

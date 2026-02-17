@@ -1,0 +1,45 @@
+{
+  "id_sesion": "22280",
+  "id_comision": "1114",
+  "nombre_comision": "Comisión Bicameral del artículo 66 de la LOC Congreso Nacional",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1114/22280",
+  "fecha_iso": "2026-01-13",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "15:30",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Continuar con el proceso para la designación de nuevos integrantes del Consejo Resolutivo de Asignaciones Parlamentarias, y tratar otros asuntos de su competencia. Aspectos considerados: Se continuó con el proceso de designación de nuevos integrantes del Consejo Resolutivo de Asignaciones Parlamentarias.",
+      "acuerdo": "Continúa en una próxima sesión. Integrantes: (Presidente) Senador Araya Guerrero Pedro Diputada Gazmuri Vieira Ana María en reemplazo de Hirsch Goldschmidt Tomás Senador Prohens Espinosa Rafael Diputada Pérez Olea Joanna Diputado Romero Leiva Agustín Senador Sandoval Plaza David Diputado Sáez Quiroz Jaime",
+      "estado_punto": "",
+      "invitados_punto": "Otros asistentes: Del Comité RN, el asesor señor Sebastián Amado. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Del Comité RN, el asesor señor Sebastián Amado."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

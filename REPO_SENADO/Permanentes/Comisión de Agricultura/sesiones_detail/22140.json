@@ -1,0 +1,101 @@
+{
+  "id_sesion": "22140",
+  "id_comision": "192",
+  "nombre_comision": "Comisión de Agricultura",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/192/22140",
+  "fecha_iso": "2025-11-26",
+  "ano": "2025",
+  "mes": "11",
+  "hora_inicio": "11:00",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "14714-01",
+      "tema": "Establece una ley marco de suelos. Aspectos considerados: Se inició la votación de las indicaciones formuladas al proyecto de ley que establece una ley marco de suelos.",
+      "acuerdo": "Continuar el estudio en la próxima sesión. Integrantes: (Presidente) Senadora Sepúlveda Orbenes Alejandra Senadora Aravena Acuña Carmen Gloria Senador De Rementería Venegas Tomás Senador Durana Semir José Miguel",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Otros asistentes: Por la Biblioteca del Congreso Nacional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Hermes Gutiérrez y doña Magaly Fuenzalida; de la Senadora señora Aravena, don Felipe Pereira; por el Senador señor Durana, doña Pamela Cousins; por el Senador señor De Rementeria, don Nicolás Rojas, don Jaime Miranda, y por el Comité de la Unión Demócrata Independiente, don Juan José LLorente y don Cristian Pinochet."
+    },
+    {
+      "numero": 2,
+      "boletin": "16777-07",
+      "tema": "Modifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales Aspectos considerados: Retomar el análisis del proyecto de ley.",
+      "acuerdo": "Se aprobó en general por unanimidad. Se solicitará autorización a la Sala del Senado para tratar la iniciativa también en particular, así como para sesionar durante la tarde. Integrantes: (Presidente) Senadora Sepúlveda Orbenes Alejandra Senadora Aravena Acuña Carmen Gloria Senador De Rementería Venegas Tomás Senador Durana Semir José Miguel",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Otros asistentes: Por la Biblioteca del Congreso Nacional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Hermes Gutiérrez y doña Magaly Fuenzalida; de la Senadora señora Aravena, don Felipe Pereira; por el Senador señor Durana, doña Pamela Cousins; por el Senador señor De Rementeria, don Nicolás Rojas, don Jaime Miranda, y por el Comité de la Unión Demócrata Independiente, don Juan José LLorente y don Cristian Pinochet. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Biblioteca del Congreso Nacional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Hermes Gutiérrez y doña Magaly Fuenzalida; de la Senadora señora Aravena, don Felipe Pereira; por el Senador señor Durana, doña Pamela Cousins; por el Senador señor De Rementeria, don Nicolás Rojas, don Jaime Miranda, y por el Comité de la Unión Demócrata Independiente, don Juan José LLorente y don Cristian Pinochet."
+    },
+    {
+      "nombre": "Punto 2"
+    },
+    {
+      "nombre": "Boletin:"
+    },
+    {
+      "nombre": "16777-07"
+    },
+    {
+      "nombre": "Modifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales"
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "Retomar el análisis del proyecto de ley."
+    },
+    {
+      "nombre": "Acuerdos:"
+    },
+    {
+      "nombre": "Se aprobó en general por unanimidad. Se solicitará autorización a la Sala del Senado para tratar la iniciativa también en particular, así como para sesionar durante la tarde."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente) Senadora Sepúlveda Orbenes Alejandra"
+    },
+    {
+      "nombre": "Senadora Aravena Acuña Carmen Gloria"
+    },
+    {
+      "nombre": "Senador De Rementería Venegas Tomás"
+    },
+    {
+      "nombre": "Senador Durana Semir José Miguel"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Biblioteca del Congreso Nacional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Hermes Gutiérrez y doña Magaly Fuenzalida; de la Senadora señora Aravena, don Felipe Pereira; por el Senador señor Durana, doña Pamela Cousins; por el Senador señor De Rementeria, don Nicolás Rojas, don Jaime Miranda, y por el Comité de la Unión Demócrata Independiente, don Juan José LLorente y don Cristian Pinochet."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

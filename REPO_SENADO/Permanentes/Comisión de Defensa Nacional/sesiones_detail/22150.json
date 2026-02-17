@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22150",
+  "id_comision": "190",
+  "nombre_comision": "Comisión de Defensa Nacional",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/190/22150",
+  "fecha_iso": "2025-12-02",
+  "ano": "2025",
+  "mes": "12",
+  "hora_inicio": "12:30",
+  "hora_termino": "14:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "15346-12",
+      "tema": "Proyecto de ley, en primer trámite constitucional, que modifica el Decreto Ley N° 1939, de 1977, sobre normas de adquisición, administración y disposición de bienes del Estado, con el objeto de que se informe sobre la situación de los bienes destinados que se indican. Aspectos considerados: La Comisión consideró la iniciativa legal de la referencia.",
+      "acuerdo": "Proseguir su análisis en una próxima sesión. Integrantes: (Presidente) Senador Macaya Danús Javier Senador Flores García Iván Senador Ossandón Irarrázabal Manuel José Senador Pugh Olavarría Kenneth Senador Saavedra Chandía Gastón",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "DEL MINISTERIO DE BIENES NACIONALES: Ministro, señor Francisco Figueroa. DEL EJÉRCITO DE CHILE: asesor jurídico de la Comandancia en Jefe, Coronel, señor Eduardo Escanilla. DE LA ARMADA DE CHILE: Auditor General, Contraalmirante, JT, señor Francisco Figueroa. DE LA FUERZA AÉREA DE CHILE: Auditor General, General de Brigada Aérea (J), señora Paula Carrasco. Otros asistentes: DEL MINISTERIO DE BIENES NACIONALES: asesor, señor Luis Sepúlveda. DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesores, señores Daniel Olivares y Javier Sutil. ASESORES LEGISLATIVOS: del Honorable Senador Flores, señora Carolina Allende; del Honorable Senador Macaya, señora Karelyn Luttecke; del Honorable Senador Pugh, señor Allonne Barra, y del Honorable Senador Saavedra, señor César Barra. DEL COMITÉ PARTIDO RENOVACIÓN NACIONAL E INDEPENDIENTES: coordinador legislativo, señor Ronald Von Der Weth (vía telemática). DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señora Bárbara Horzella y señor Juan Pablo Jarufe. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DE BIENES NACIONALES: Ministro, señor Francisco Figueroa. DEL EJÉRCITO DE CHILE: asesor jurídico de la Comandancia en Jefe, Coronel, señor Eduardo Escanilla. DE LA ARMADA DE CHILE: Auditor General, Contraalmirante, JT, señor Francisco Figueroa. DE LA FUERZA AÉREA DE CHILE: Auditor General, General de Brigada Aérea (J), señora Paula Carrasco."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO DE BIENES NACIONALES: asesor, señor Luis Sepúlveda. DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesores, señores Daniel Olivares y Javier Sutil. ASESORES LEGISLATIVOS: del Honorable Senador Flores, señora Carolina Allende; del Honorable Senador Macaya, señora Karelyn Luttecke; del Honorable Senador Pugh, señor Allonne Barra, y del Honorable Senador Saavedra, señor César Barra. DEL COMITÉ PARTIDO RENOVACIÓN NACIONAL E INDEPENDIENTES: coordinador legislativo, señor Ronald Von Der Weth (vía telemática). DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señora Bárbara Horzella y señor Juan Pablo Jarufe."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

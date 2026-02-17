@@ -1,0 +1,55 @@
+{
+  "comision": "Comisión de Régimen Interior",
+  "id": "201",
+  "integrantes": [
+    {
+      "nombre": "Manuel José Ossandón Irarrázabal",
+      "cargo": "",
+      "id": "manuel-jose-ossandon-irarrazabal-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/manuel-jose-ossandon-irarrazabal-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "José García Ruminot",
+      "cargo": "",
+      "id": "jose-garcia-ruminot-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/jose-garcia-ruminot-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Sebastián Keitel Bianchi",
+      "cargo": "",
+      "id": "sebastian-keitel-bianchi-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/sebastian-keitel-bianchi-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Ricardo Lagos Weber",
+      "cargo": "",
+      "id": "ricardo-lagos-weber-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/ricardo-lagos-weber-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Jaime Quintana Leal",
+      "cargo": "",
+      "id": "jaime-quintana-leal-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/jaime-quintana-leal-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Gastón Saavedra Chandía",
+      "cargo": "",
+      "id": "gaston-saavedra-chandia-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/gaston-saavedra-chandia-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "David Sandoval Plaza",
+      "cargo": "",
+      "id": "david-sandoval-plaza-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/david-sandoval-plaza-sen",
+      "chamber": "senado"
+    }
+  ]
+}

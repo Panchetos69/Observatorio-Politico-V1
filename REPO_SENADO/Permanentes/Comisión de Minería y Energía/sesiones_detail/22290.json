@@ -1,0 +1,33 @@
+{
+  "id_sesion": "22290",
+  "id_comision": "196",
+  "nombre_comision": "Comisión de Minería y Energía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/196/22290",
+  "fecha_iso": "2026-01-14",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "12:30",
+  "hora_termino": "13:42",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17153-08",
+      "tema": "Establece la obligatoriedad de soterrar los cables de redes eléctricas y de telecomunicaciones, en los términos que indica Aspectos considerados: La Comisión continuó con el estudio del proyecto.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senador Prohens Espinosa Rafael Senadora Ebensperger Orrego Luz Eliana Senador Galilea Vial Rodrigo",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "El Ministro de Energía, señor Álvaro García; el Director Ejecutivo de Empresas Eléctricas A.G., señor Juan Meriches, y el Gerente de la Federación Nacional de Cooperativas Eléctricas, Fenacopel, señor Patricio Molina. Otros asistentes: Del Ministerio de Energía, el Ministro, señor Álvaro García; el asesor legislativo, señor Fernando Monsalve, y el Jefe de Comunicaciones señor Carlos Agurto. De Empresas Eléctricas A.G., el Director Ejecutivo, señor Juan Meriches, y la Directora de Asuntos Públicos, señora Alejandra Rojas. De la Federación Nacional de Cooperativas Eléctricas, Fenacopel, el Gerente General, señor Patricio Molina. De la Secretaría General de la Presidencia, el asesor señor Daniel Olivares. De la Biblioteca del Congreso Nacional, el asesor señor Nicolás García. De la oficina de la Senadora señora Yasna Provoste, el asesor señor Julio Valladares. Del Comité Renovación Nacional, el Coordinador Legislativo señor Eduardo Méndez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Energía, el Ministro, señor Álvaro García; el asesor legislativo, señor Fernando Monsalve, y el Jefe de Comunicaciones señor Carlos Agurto. De Empresas Eléctricas A.G., el Director Ejecutivo, señor Juan Meriches, y la Directora de Asuntos Públicos, señora Alejandra Rojas. De la Federación Nacional de Cooperativas Eléctricas, Fenacopel, el Gerente General, señor Patricio Molina. De la Secretaría General de la Presidencia, el asesor señor Daniel Olivares. De la Biblioteca del Congreso Nacional, el asesor señor Nicolás García. De la oficina de la Senadora señora Yasna Provoste, el asesor señor Julio Valladares. Del Comité Renovación Nacional, el Coordinador Legislativo señor Eduardo Méndez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

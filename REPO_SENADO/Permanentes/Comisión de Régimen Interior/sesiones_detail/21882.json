@@ -1,0 +1,42 @@
+{
+  "id_sesion": "21882",
+  "id_comision": "201",
+  "nombre_comision": "Comisión de Régimen Interior",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/201/21882",
+  "fecha_iso": "2025-09-01",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "17:40",
+  "hora_termino": "18:40",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Tratar asuntos propios de su competencia. Aspectos considerados: Tratar asuntos propios de su competencia. Integrantes: (Presidente) Senador Ossandón Irarrázabal Manuel José Senador Keitel Bianchi Sebastián Senador Lagos Weber Ricardo Senador Prohens Espinosa Rafael Senador Quintana Leal Jaime Senador Saavedra Chandía Gastón Senador Sandoval Plaza David",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "El Prosecretario y Tesorero (S) del Senado, señor Andrés Salas Amaya, y el Contralor y Jefe de Asesoría Jurídica y Transparencia del Senado, señor Juan Pablo Montes Mery. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "El Prosecretario y Tesorero (S) del Senado, señor Andrés Salas Amaya, y el Contralor y Jefe de Asesoría Jurídica y Transparencia del Senado, señor Juan Pablo Montes Mery."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

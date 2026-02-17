@@ -1,0 +1,36 @@
+{
+  "id_sesion": "22238",
+  "id_comision": "1323",
+  "nombre_comision": "Comisión de Familia, Infancia y Adolescencia.",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1323/22238",
+  "fecha_iso": "2026-01-06",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "11:15",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Conocer sobre las medidas de protección que contempla la legislación nacional respecto del uso de redes sociales por niños y niñas. A esta sesión han sido invitados la Subsecretaria de la Niñez, señora Verónica Silva y el Subsecretario de Telecomunicaciones, señor Claudio Araya. Aspectos considerados: Se escuchó a los invitados. Integrantes: (Presidente) Senadora Campillai Rojas Fabiola Senadora Carvajal Ambiado Loreto Senador Van Rysselberghe Herrera Enrique Senador Walker Prieto Matías",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "Del Ministerio de Desarrollo Social y Familia: la Subsecretaria de la Niñez, señora Verónica Silva y la asesora legislativa de la Subsecretaria, señora Karla Toro. Del Ministerio de Transportes y Telecomunicaciones: el Subsecretario de Telecomunicaciones, señor Claudio Araya y el asesor legislativo, señor Sebastián Godoy. Otros asistentes: De la Biblioteca del Congreso Nacional: la analista investigadora, señora Paola Truffello, y los asesores de la Honorable Senadora señora Campillai, señor Hermes Ortega; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; de la Fundación Jaime Guzmán, señor Juan José Llorente, y de la Secretaría General de la Presidencia (Segpres), señoras Ignacia Guzmán y María Lourdes Cox. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Desarrollo Social y Familia: la Subsecretaria de la Niñez, señora Verónica Silva y la asesora legislativa de la Subsecretaria, señora Karla Toro."
+    },
+    {
+      "bloque": "Del Ministerio de Transportes y Telecomunicaciones: el Subsecretario de Telecomunicaciones, señor Claudio Araya y el asesor legislativo, señor Sebastián Godoy. Otros asistentes: De la Biblioteca del Congreso Nacional: la analista investigadora, señora Paola Truffello, y los asesores de la Honorable Senadora señora Campillai, señor Hermes Ortega; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; de la Fundación Jaime Guzmán, señor Juan José Llorente, y de la Secretaría General de la Presidencia (Segpres), señoras Ignacia Guzmán y María Lourdes Cox. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

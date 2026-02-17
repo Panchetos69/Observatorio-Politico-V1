@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21545",
+  "id_comision": "192",
+  "nombre_comision": "Comisión de Agricultura",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/192/21545",
+  "fecha_iso": "2025-06-02",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "12:00",
+  "hora_termino": "13:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Continuar analizando las modificaciones al organigrama de la Corporación Nacional Forestal. Aspectos considerados: Se escuchó la observaciones de los representantes de los trabajadores de la Corporación Nacional Forestal. Luego, el Subsecretario de Agricultura, y la señora Directora Ejecutiva y el Fiscal de Conaf respondieron a los emplazamientos. Integrantes: (Presidente) Senadora Sepúlveda Orbenes Alejandra Senadora Aravena Acuña Carmen Gloria Senador De Rementería Venegas Tomás Senador Durana Semir José Miguel",
+      "acuerdo": "",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "El Subsecretario de Agricultura, señor Alan Espinoza, y la asesora del Ministerio de Agricultura, la señora Catalina Núñez. La Directora Ejecutiva de la Corporación Nacional Forestal, señora Aida Baldini, y el Fiscal, señor Daniel Correa. Por la Federación Nacional de Sindicatos regionales de CONAF, las señoras Carla Vargas, Mónica Muñoz, Paulina Reyes, y la asesora legal doña Patricia Silva. Por el Sindicato Nacional de Guardaparques y trabajadoras/res de ASP de Chile, los señores Álvaro Aguilar y Moisés Grimberg. Por el Sindicato Nacional de Profesionales de CONAF, el señor Eduardo Olmedo. Por el Sindicato Nacional de Trabajadores de la Metropolitana, el señor Osvaldo Herrera. Otros asistentes: Por el Ministerio de Agricultura: el asesor don Fabián Luengo; Por la Subsecretaría de Agricultura: el asesor, don Rodrigo Herrera; el jefe de comunicaciones, don Ricardo Morales, y el realizador audiovisual, don Raúl Prado. Por la Corporación Nacional Forestal: el asesor legislativo, don Maximiliano Guiñez, y el periodista, señor Harold Briceño. Asesores Parlamentarios: de la Senadora señora Aravena, don Claudio Pimentel; de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Francisco Gómez; del Senador señor Durana, doña Pamela Cousins y don César Quiroga. Por el Comité Unión Demócrata Independiente, doña Cristina Pinochet. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "El Subsecretario de Agricultura, señor Alan Espinoza, y la asesora del Ministerio de Agricultura, la señora Catalina Núñez. La Directora Ejecutiva de la Corporación Nacional Forestal, señora Aida Baldini, y el Fiscal, señor Daniel Correa. Por la Federación Nacional de Sindicatos regionales de CONAF, las señoras Carla Vargas, Mónica Muñoz, Paulina Reyes, y la asesora legal doña Patricia Silva. Por el Sindicato Nacional de Guardaparques y trabajadoras/res de ASP de Chile, los señores Álvaro Aguilar y Moisés Grimberg. Por el Sindicato Nacional de Profesionales de CONAF, el señor Eduardo Olmedo. Por el Sindicato Nacional de Trabajadores de la Metropolitana, el señor Osvaldo Herrera."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio de Agricultura: el asesor don Fabián Luengo; Por la Subsecretaría de Agricultura: el asesor, don Rodrigo Herrera; el jefe de comunicaciones, don Ricardo Morales, y el realizador audiovisual, don Raúl Prado. Por la Corporación Nacional Forestal: el asesor legislativo, don Maximiliano Guiñez, y el periodista, señor Harold Briceño. Asesores Parlamentarios: de la Senadora señora Aravena, don Claudio Pimentel; de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Francisco Gómez; del Senador señor Durana, doña Pamela Cousins y don César Quiroga. Por el Comité Unión Demócrata Independiente, doña Cristina Pinochet."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

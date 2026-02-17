@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22089",
+  "id_comision": "199",
+  "nombre_comision": "Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/199/22089",
+  "fecha_iso": "2025-11-04",
+  "ano": "2025",
+  "mes": "11",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "15776-17",
+      "tema": "Proyecto de ley que promueve, protege y garantiza los derechos lingüísticos de los pueblos indígenas de Chile Aspectos considerados: Analizar las indicaciones formuladas al proyecto de ley.",
+      "acuerdo": "Se comenzó la votación de indicaciones y se proseguirá en la siguiente sesión. Integrantes: (Presidente) Senador Chahuán Chahuán Francisco Senador Edwards Silva Rojo Senador Van Rysselberghe Herrera Enrique",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "El Director Nacional de la Corporación Nacional de Desarrollo Indígena, CONADI, señor Álvaro Morales Marileo. La Jefa Legislativa del Ministerio de Desarrollo Social y Familia, señora Alena Gutiérrez. Otros asistentes: Por la Biblioteca del Congreso Nacional: el profesional, don Jaime Rojas. Por la Fundación Jaime Guzmán: doña Antonella León. Asesores de Parlamentarios: por el Senador señor Chahuán, don Carlos Huerta y doña Claudia Unicahuin; por el Senador señor Van Rysselberghe, don Juan Pablo Morales; por el Comité de Renovación Nacional, don Sebastián Amado y don Octavio Tapia, y por el Comité de la Unión Demócrata Independiente, don Fernando Castro. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "El Director Nacional de la Corporación Nacional de Desarrollo Indígena, CONADI, señor Álvaro Morales Marileo. La Jefa Legislativa del Ministerio de Desarrollo Social y Familia, señora Alena Gutiérrez."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Biblioteca del Congreso Nacional: el profesional, don Jaime Rojas. Por la Fundación Jaime Guzmán: doña Antonella León. Asesores de Parlamentarios: por el Senador señor Chahuán, don Carlos Huerta y doña Claudia Unicahuin; por el Senador señor Van Rysselberghe, don Juan Pablo Morales; por el Comité de Renovación Nacional, don Sebastián Amado y don Octavio Tapia, y por el Comité de la Unión Demócrata Independiente, don Fernando Castro."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de la Mujer y Equidad de Género",
+  "id": "1126",
+  "integrantes": [
+    {
+      "nombre": "Carmen Gloria Aravena Acuña",
+      "cargo": "",
+      "id": "carmen-gloria-aravena-acuna-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/carmen-gloria-aravena-acuna-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Loreto Carvajal Ambiado",
+      "cargo": "",
+      "id": "loreto-carvajal-ambiado-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/loreto-carvajal-ambiado-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Paulina Núñez Urrutia",
+      "cargo": "",
+      "id": "paulina-nunez-urrutia-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/paulina-nunez-urrutia-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Claudia Pascual Grau",
+      "cargo": "",
+      "id": "claudia-pascual-grau-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/claudia-pascual-grau-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Gustavo Sanhueza Dueñas",
+      "cargo": "",
+      "id": "gustavo-sanhueza-duenas-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/gustavo-sanhueza-duenas-sen",
+      "chamber": "senado"
+    }
+  ]
+}

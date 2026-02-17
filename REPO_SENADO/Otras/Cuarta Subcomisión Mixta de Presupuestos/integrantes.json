@@ -1,0 +1,27 @@
+{
+  "comision": "Cuarta Subcomisión Mixta de Presupuestos",
+  "id": "619",
+  "integrantes": [
+    {
+      "nombre": "José Miguel Insulza Salinas",
+      "cargo": "",
+      "id": "jose-miguel-insulza-salinas-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/jose-miguel-insulza-salinas-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "José García Ruminot",
+      "cargo": "",
+      "id": "jose-garcia-ruminot-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/jose-garcia-ruminot-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Ximena Ordenes Neira",
+      "cargo": "",
+      "id": "ximena-ordenes-neira-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/ximena-ordenes-neira-sen",
+      "chamber": "senado"
+    }
+  ]
+}

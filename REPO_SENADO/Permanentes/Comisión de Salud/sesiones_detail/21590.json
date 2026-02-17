@@ -1,0 +1,63 @@
+{
+  "id_sesion": "21590",
+  "id_comision": "195",
+  "nombre_comision": "Comisión de Salud",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/195/21590",
+  "fecha_iso": "2025-06-10",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "09:30",
+  "hora_termino": "11:20",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17375-11",
+      "tema": "Proyecto de ley que moderniza el Sistema Nacional de Servicios de la Salud; fortalece al Fondo Nacional de Salud; crea el Servicio Nacional de Salud Digital; otorga facultades al Instituto de Salud Pública de Chile y a la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, y modifica normas que indica. Aspectos considerados: La Comisión escuchó la opinión de los invitados sobre la iniciativa legal. A continuación, se produjo un intercambio de opiniones. Integrantes: (Presidente) Senador Flores García Iván Senador Castro González Juan Luis Senador Chahuán Chahuán Francisco Senador Gahona Salazar Sergio Senadora Ordenes Neira Ximena",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "La Ministra de Salud, Dra. Ximena Aguilera. El Subsecretario de Redes Asistenciales, Dr. Bernardo Martorell. El Director Nacional de FONASA, señor Camilo Cid. El Decano de la Facultad de Ciencias de la Salud, Universidad de Las Américas, Dr. Osvaldo Artaza. La Directora Ejecutiva del Centro de Políticas Públicas e Innovación en Salud de la Universidad del Desarrollo, Dra. Paula Daza. El Gerente de la División de Asuntos Jurídicos y Corporativos de la Asociación Chilena de Seguridad, señor Cristóbal Cuadra. Otros asistentes: De la Asociación Chilena de Seguridad: el Gerente de la División de Servicios de Salud, señor Angel Vargas, y la Directora de Estudios de Gerencia Asuntos Corporativos, señora Isabel Contrucci.La Jefa del Subdepartamento de Registro del Instituto de Salud Pública, señora María Cecilia López.La Jefa de la Oficina de Asuntos Regulatorios del Instituto de Salud Pública, señora Cynthia Salamanca.El Coordinador Legislativo del Ministerio de Salud, señor Cristian Miquel.El Asesor del Ministerio de Salud, señor Sergio Sánchez.El Asesor de la Subsecretaría de Redes Asistenciales, señor Claudio Pérez.El Jefe de la División de Planificación y Desarrollo Estratégico de FONASA, señor Matías Goyenechea.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende, y señor Mauricio Vásquez.Los Asesores del Senador Francisco Chahuán, señores Nicolás Cerda, y Marcelo Sanhueza.Los Asesores del Senador Juan Luis Castro, señora Teresita Fabres y señor Arturo León.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores, y Jonatan Sepúlveda.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.La Asesora del Comité PPD, señora Paulin Silva. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "La Ministra de Salud, Dra. Ximena Aguilera."
+    },
+    {
+      "nombre": "El Subsecretario de Redes Asistenciales, Dr. Bernardo Martorell."
+    },
+    {
+      "nombre": "El Director Nacional de FONASA, señor Camilo Cid."
+    },
+    {
+      "nombre": "El Decano de la Facultad de Ciencias de la Salud, Universidad de Las Américas, Dr. Osvaldo Artaza."
+    },
+    {
+      "nombre": "La Directora Ejecutiva del Centro de Políticas Públicas e Innovación en Salud de la Universidad del Desarrollo, Dra. Paula Daza."
+    },
+    {
+      "nombre": "El Gerente de la División de Asuntos Jurídicos y Corporativos de la Asociación Chilena de Seguridad, señor Cristóbal Cuadra."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "De la Asociación Chilena de Seguridad: el Gerente de la División de Servicios de Salud, señor Angel Vargas, y la Directora de Estudios de Gerencia Asuntos Corporativos, señora Isabel Contrucci.La Jefa del Subdepartamento de Registro del Instituto de Salud Pública, señora María Cecilia López.La Jefa de la Oficina de Asuntos Regulatorios del Instituto de Salud Pública, señora Cynthia Salamanca.El Coordinador Legislativo del Ministerio de Salud, señor Cristian Miquel.El Asesor del Ministerio de Salud, señor Sergio Sánchez.El Asesor de la Subsecretaría de Redes Asistenciales, señor Claudio Pérez.El Jefe de la División de Planificación y Desarrollo Estratégico de FONASA, señor Matías Goyenechea.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende, y señor Mauricio Vásquez.Los Asesores del Senador Francisco Chahuán, señores Nicolás Cerda, y Marcelo Sanhueza.Los Asesores del Senador Juan Luis Castro, señora Teresita Fabres y señor Arturo León.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores, y Jonatan Sepúlveda.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.La Asesora del Comité PPD, señora Paulin Silva."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

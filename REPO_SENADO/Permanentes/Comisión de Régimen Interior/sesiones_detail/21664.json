@@ -1,0 +1,42 @@
+{
+  "id_sesion": "21664",
+  "id_comision": "201",
+  "nombre_comision": "Comisión de Régimen Interior",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/201/21664",
+  "fecha_iso": "2025-06-30",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "11:39",
+  "hora_termino": "12:50",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Tratar asuntos propios de su competencia. Aspectos considerados: Tratar asuntos propios de su competencia. Integrantes: (Presidente) Senador Ossandón Irarrázabal Manuel José Senador De Urresti Longton Alfonso en reemplazo de Saavedra Chandía Gastón Senador Keitel Bianchi Sebastián Senador Lagos Weber Ricardo Senador Pugh Olavarría Kenneth en reemplazo de Prohens Espinosa Rafael Senador Sandoval Plaza David",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "El Prosecretario y Tesorero (S) del Senado, señor Andrés Salas Amaya. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "El Prosecretario y Tesorero (S) del Senado, señor Andrés Salas Amaya."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

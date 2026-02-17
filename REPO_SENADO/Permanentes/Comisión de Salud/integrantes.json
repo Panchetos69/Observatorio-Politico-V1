@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Salud",
+  "id": "195",
+  "integrantes": [
+    {
+      "nombre": "Iván Flores García",
+      "cargo": "",
+      "id": "ivan-flores-garcia-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/ivan-flores-garcia-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Juan Luis Castro González",
+      "cargo": "",
+      "id": "juan-luis-castro-gonzalez-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/juan-luis-castro-gonzalez-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Francisco Chahuán Chahuán",
+      "cargo": "",
+      "id": "francisco-chahuan-chahuan-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/francisco-chahuan-chahuan-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Sergio Gahona Salazar",
+      "cargo": "",
+      "id": "sergio-gahona-salazar-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/sergio-gahona-salazar-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Ximena Ordenes Neira",
+      "cargo": "",
+      "id": "ximena-ordenes-neira-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/ximena-ordenes-neira-sen",
+      "chamber": "senado"
+    }
+  ]
+}

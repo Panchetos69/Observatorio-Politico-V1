@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21700",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21700",
+  "fecha_iso": "2025-07-09",
+  "ano": "2025",
+  "mes": "07",
+  "hora_inicio": "10:42",
+  "hora_termino": "12:51",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16705-04",
+      "tema": "Modifica la ley Nº 21.040 y otros cuerpos legales, fortaleciendo la gestión educativa y mejorando las normas sobre administración e instalación del Sistema de Educación Pública. Aspectos considerados: La comisión continuó con el estudio del proyecto.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Lagos Weber Ricardo Senador Macaya Danús Javier Asistentes: Senador Castro Prieto Juan",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Educación, el Ministro, señor Nicolás Cataldo; el Director de Educación Pública, señor Rodrigo Egaña; el Coordinador Jurídico-Legislativo, señor Leonardo Vilches; la abogada encargada del proyecto, señora Naiara Susaeta y el asesor señor Eduardo Díaz. Del Ministerio Secretaría General de la Presidencia, el asesor, señor Héctor Correa. El asesor del Honorable Senador Castro Prieto, señor Daniel Quiroga. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. Del Comité Unión Demócrata Independiente, el asesor, señor Juan José Llorente. De la Fundación Jaime Guzmán, la Directora de Área Legislativa, señora Bárbara Bayolo. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Educación, el Ministro, señor Nicolás Cataldo; el Director de Educación Pública, señor Rodrigo Egaña; el Coordinador Jurídico-Legislativo, señor Leonardo Vilches; la abogada encargada del proyecto, señora Naiara Susaeta y el asesor señor Eduardo Díaz."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, el asesor, señor Héctor Correa. El asesor del Honorable Senador Castro Prieto, señor Daniel Quiroga. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes."
+    }
+  ],
+  "url_video": ""
+}

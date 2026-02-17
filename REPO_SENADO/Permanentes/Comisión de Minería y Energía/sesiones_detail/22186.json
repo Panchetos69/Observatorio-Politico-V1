@@ -1,0 +1,33 @@
+{
+  "id_sesion": "22186",
+  "id_comision": "196",
+  "nombre_comision": "Comisión de Minería y Energía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/196/22186",
+  "fecha_iso": "2025-12-10",
+  "ano": "2025",
+  "mes": "12",
+  "hora_inicio": "12:30",
+  "hora_termino": "13:55",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16627-08",
+      "tema": "Perfecciona los sistemas medianos en la Ley General de Servicios Eléctricos Aspectos considerados: La Comisión escuchó a los invitados y votó el proyecto en general y particular.",
+      "acuerdo": "Aprobado. Pasa a la Comisión de Hacienda. Integrantes: (Presidente) Senador Prohens Espinosa Rafael Senador Castro González Juan Luis Senador Kuschel Silva Carlos Ignacio en reemplazo de Galilea Vial Rodrigo Senadora Ordenes Neira Ximena en reemplazo de Provoste Campillay Yasna Senador Sandoval Plaza David en reemplazo de Ebensperger Orrego Luz Eliana",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "Ministro de Energía, señor Gobernador Regional de Aysén, y el Doctor en Ingeniería Eléctrica, Investigador del Centro de Energía de la Facultad de Ciencias Físicas y Matemáticas de la U. de Chile. Otros asistentes: Del Ministerio de Energía: el Subsecretario, señor Luis Felipe Ramos; los asesores del Gabinete del Ministro, señores Fernando Monsalve y Luis Felipe Mengual, y la asesora del Gabinete del Subsecretario, señora Nicole Troncoso. De la Gobernación Regional de Aysén: el Gobernador, señor Marcelo Santana. De Systep Ingeniería y Diseños, y de la Universidad de Chile: el Director de Mercados y Regulación, y Profesor del Departamento de Ingeniería Eléctrica de la Universidad de Chile, señor Alejandro Navarro. De la Biblioteca del Congreso Nacional, el asesor señor Nicolás García. De la oficina del Senador señor Rodrigo Galilea, el asesor señor Gonzalo Vásquez. De la oficina del Senador señor Rafael Prohens, el asesor legislativo señor Eduardo Méndez. De la oficina de la Senadora señora Ximena Órdenes, el asesor señor Julio Valladares, y el asesor de prensa señor Jonatán Sepúlveda. De la oficina del Senador señor David Sandoval, los asesores señor Sebastián Puebla y señor Pablo Cantellano. De la oficina del Senador señor Juan Luis Castro, la Jefa de Gabinete, señora Meggy López, y los asesores señora Teresita Fabres y señor Arturo León. Del Comité por la Democracia, las asesora señora Paulin Silva. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Energía: el Subsecretario, señor Luis Felipe Ramos; los asesores del Gabinete del Ministro, señores Fernando Monsalve y Luis Felipe Mengual, y la asesora del Gabinete del Subsecretario, señora Nicole Troncoso. De la Gobernación Regional de Aysén: el Gobernador, señor Marcelo Santana. De Systep Ingeniería y Diseños, y de la Universidad de Chile: el Director de Mercados y Regulación, y Profesor del Departamento de Ingeniería Eléctrica de la Universidad de Chile, señor Alejandro Navarro. De la Biblioteca del Congreso Nacional, el asesor señor Nicolás García. De la oficina del Senador señor Rodrigo Galilea, el asesor señor Gonzalo Vásquez. De la oficina del Senador señor Rafael Prohens, el asesor legislativo señor Eduardo Méndez. De la oficina de la Senadora señora Ximena Órdenes, el asesor señor Julio Valladares, y el asesor de prensa señor Jonatán Sepúlveda. De la oficina del Senador señor David Sandoval, los asesores señor Sebastián Puebla y señor Pablo Cantellano. De la oficina del Senador señor Juan Luis Castro, la Jefa de Gabinete, señora Meggy López, y los asesores señora Teresita Fabres y señor Arturo León. Del Comité por la Democracia, las asesora señora Paulin Silva. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

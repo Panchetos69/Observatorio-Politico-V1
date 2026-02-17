@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21901",
+  "id_comision": "624",
+  "nombre_comision": "Primera Subcomisión Mixta de Presupuestos",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/624/21901",
+  "fecha_iso": "2025-09-03",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "14:00",
+  "hora_termino": "15:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Continuar revisando la ejecución presupuestaria del Ministerio de Economía, Fomento y Turismo. Aspectos considerados: Se revisó la ejecución de la Corporación de Fomento de la Producción, Comité Innova, Agencia de Promoción de la Inversión Extranjera e Instituto Nacional de Estadísticas.",
+      "acuerdo": "Oficiar a la Contraloría General de la República remitiendo antecedentes sobre comunicación recibida por la Subcomisión. Integrantes: (Presidente) Senador Kast Sommerhoff Felipe Senador De Urresti Longton Alfonso Diputado Donoso Castro Felipe Diputada Rojas Valderrama Camila",
+      "estado_punto": "",
+      "invitados_punto": "Por el Ministerio Economía, Fomento y Turismo: la Ministra (s) señora Javiera Petersen, y la asesora de la Coordinación Legislativa, señora Antonia Sánchez. Por la Subsecretaria de Economía y Empresas de Menor Tamaño: la Subsecretaria señora Javiera Petersen; la jefa de Gabinete señora Francisca Ochoa, y la jefa de Administración y Finanzas, señora Fernanda Plaza. Por la Corporación de Fomento de la Producción: el Gerente de Administración y Finanzas, señor Carlos Álvarez, el Vicepresidente Ejecutivo, señor José Miguel Benavente, y la Vicepresidenta Ejecutiva (s), señora Marcela Guerra. Por el Comité Innova Chile: la Subdirectora de Operaciones y Mejora Continua, señora Patricia Fuentealba. Por la Agencia del Promoción de la Inversión Extranjera: el Director (s), señor Juan Pablo Candia, y el Ejecutivo de Finanzas, señor Francisco Puentes. Por el Instituto Nacional de Estadísticas: el Subdirector Administrativo (s), señor Nicolás Rojas, y la Jefa del Departamento de administración y Finanzas, señora Lidia Pizarro. Por el Servicio de Cooperación Técnica: el Gerente General, señor Juan Cristóbal Labarca; el Gerente de Administración y Finanzas, señor Raúl Aparicio, y la jefa de Gabinete, señora Ximena Díaz. Otros asistentes: Por la Corporación de Fomento de la Producción: doña Barbara Gutiérrez; Asesores de Parlamentarios: del Senador señor Kast, don Oscar Morales; del Senador señor De Urresti, doña Fernanda Valencia y don Luciano Candia, y por el comité del partido Socialista, doña Melissa Navarro. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Por el Ministerio Economía, Fomento y Turismo: la Ministra (s) señora Javiera Petersen, y la asesora de la Coordinación Legislativa, señora Antonia Sánchez. Por la Subsecretaria de Economía y Empresas de Menor Tamaño: la Subsecretaria señora Javiera Petersen; la jefa de Gabinete señora Francisca Ochoa, y la jefa de Administración y Finanzas, señora Fernanda Plaza. Por la Corporación de Fomento de la Producción: el Gerente de Administración y Finanzas, señor Carlos Álvarez, el Vicepresidente Ejecutivo, señor José Miguel Benavente, y la Vicepresidenta Ejecutiva (s), señora Marcela Guerra. Por el Comité Innova Chile: la Subdirectora de Operaciones y Mejora Continua, señora Patricia Fuentealba. Por la Agencia del Promoción de la Inversión Extranjera: el Director (s), señor Juan Pablo Candia, y el Ejecutivo de Finanzas, señor Francisco Puentes. Por el Instituto Nacional de Estadísticas: el Subdirector Administrativo (s), señor Nicolás Rojas, y la Jefa del Departamento de administración y Finanzas, señora Lidia Pizarro. Por el Servicio de Cooperación Técnica: el Gerente General, señor Juan Cristóbal Labarca; el Gerente de Administración y Finanzas, señor Raúl Aparicio, y la jefa de Gabinete, señora Ximena Díaz."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Corporación de Fomento de la Producción: doña Barbara Gutiérrez; Asesores de Parlamentarios: del Senador señor Kast, don Oscar Morales; del Senador señor De Urresti, doña Fernanda Valencia y don Luciano Candia, y por el comité del partido Socialista, doña Melissa Navarro."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

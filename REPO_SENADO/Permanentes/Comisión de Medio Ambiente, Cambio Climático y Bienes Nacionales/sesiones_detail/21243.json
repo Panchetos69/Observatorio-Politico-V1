@@ -1,0 +1,42 @@
+{
+  "id_sesion": "21243",
+  "id_comision": "193",
+  "nombre_comision": "Comisión de Medio Ambiente, Cambio Climático y Bienes Nacionales",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/193/21243",
+  "fecha_iso": "2025-03-17",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "11:45",
+  "hora_termino": "14:10",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Analizar las eventuales consecuencias en la actividad astronómica del país del \"Proyecto Integrado de Infraestructura Energética para la Generación de Hidrógeno y Amoníaco Verde, de AES GENER, ubicado en las proximidades del Observatorio Paranal de European Southern Observatory (ESO). Aspectos considerados: La Comisión trató la materia en estudio. Integrantes: (Presidente) Senador Gahona Salazar Sergio Senadora Allende Bussi Isabel Senador Chahuán Chahuán Francisco Senador Lagos Weber Ricardo Asistentes: Senadora Provoste Campillay Yasna",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "Del Ministerio de Relaciones Exteriores: La Subsecretaria, señora Gloria de la Fuente; el Jefe del Departamento de Tratados y Asuntos Legislativos, señor Pedro Ortúzar; el Director de la División de Ciencias, Energía, Educación, Innovación y Astronomía, embajador Luis Plaza; el asesor del Ministro, señor Nicolás Godoy; la asesora de la Subsecretaria, señora Claudia Godoy: el asesor de la Dirección General de Asuntos Jurídicos, señor Felipe Núñez. Del Ministerio del Medio Ambiente: La Ministra, señora Maisa Rojas; Los asesores legislativos, señora Rocío Fondón y señor Tomás Monsalve. Del Ministerio de Energía: El Ministro, señor Diego Pardow; la Jefa de la Oficina de Relaciones Internacionales, señora Maria Helena Lee, Del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación: La Ministra, señora Aisén Etcheverry; Los asesores, señora Paloma Herrera y señor Nicolás Trujillo. Del Servicio de Evaluación Ambiental: La Directora Ejecutiva, señora Valentina Durán; La asesora, señora Antonia Schmidt. De European Southern Observatory, ESO: La representante en Chile, señora Itziar De Gregorio; El abogado, señor Diego Rioseco. De Aes Chile: El Vicepresidente de Hidrógeno Verde, señor Luis Sarrás; La Vicepresidenta de Asuntos Corporativos y Sostenibilidad Andes Chile, señora Mariana Soto; De la Asociación Chilena de Hidrógeno: El Director Ejecutivo, señor Marcos Kulka. Otros asistentes: El asesor de la Honorable Senadora Allende, señor Javier Bravo. Los asesores del Honorable Senador Gahona, señores Benjamín Rug y Cristian Livingstone. La asesora del Honorable Senador Lagos, señora Valeska Ponce. El asesor del Comité Renovación Nacional, señor Eduardo Méndez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Relaciones Exteriores: La Subsecretaria, señora Gloria de la Fuente; el Jefe del Departamento de Tratados y Asuntos Legislativos, señor Pedro Ortúzar; el Director de la División de Ciencias, Energía, Educación, Innovación y Astronomía, embajador Luis Plaza; el asesor del Ministro, señor Nicolás Godoy; la asesora de la Subsecretaria, señora Claudia Godoy: el asesor de la Dirección General de Asuntos Jurídicos, señor Felipe Núñez."
+    },
+    {
+      "bloque": "Del Ministerio del Medio Ambiente: La Ministra, señora Maisa Rojas; Los asesores legislativos, señora Rocío Fondón y señor Tomás Monsalve."
+    },
+    {
+      "bloque": "Del Ministerio de Energía: El Ministro, señor Diego Pardow; la Jefa de la Oficina de Relaciones Internacionales, señora Maria Helena Lee,"
+    },
+    {
+      "bloque": "Del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación: La Ministra, señora Aisén Etcheverry; Los asesores, señora Paloma Herrera y señor Nicolás Trujillo."
+    }
+  ],
+  "url_video": ""
+}

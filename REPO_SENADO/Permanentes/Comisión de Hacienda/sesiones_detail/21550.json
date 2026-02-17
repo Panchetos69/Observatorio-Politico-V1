@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21550",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21550",
+  "fecha_iso": "2025-06-03",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "10:49",
+  "hora_termino": "12:27",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16566-03",
+      "tema": "Establece una Ley Marco de Autorizaciones Sectoriales e introduce modificaciones en cuerpos legales que indica Aspectos considerados: La comisión se abocó a las materias de su competencia.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Insulza Salinas José Miguel Senador Kuschel Silva Carlos Ignacio en reemplazo de Galilea Vial Rodrigo Senador Lagos Weber Ricardo Senador Macaya Danús Javier Asistentes: Senador Edwards Silva Rojo",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Economía, Fomento y Turismo, el Ministro, señor Nicolás Grau; la Coordinadora Normativa de la División de Fomento, Inversión e Industria, señora Camila Astorga, y la asesora, señora Valeria Donoso. Del Ministerio Secretaría General de la Presidencia, los asesores, señor Héctor Correa y señora Rosario Figueroa. La asesora del Honorable Senador Coloma, señora Carolina Infante. La asesora del Honorable Senador Edwards, señoras Claudia Hidalgo y Valentina Saldaña. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. La Jefa de Gabinete del Honorable Senador Macaya, señora Karelyn Luttecke. Del Comité Renovación Nacional, el Coordinador Legislativo, señor Eduardo Méndez. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo y el asesor, señor Joaquín García. De Libertad y Desarrollo, el Investigador, señor Simón Pinto. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Economía, Fomento y Turismo, el Ministro, señor Nicolás Grau; la Coordinadora Normativa de la División de Fomento, Inversión e Industria, señora Camila Astorga, y la asesora, señora Valeria Donoso."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, los asesores, señor Héctor Correa y señora Rosario Figueroa. La asesora del Honorable Senador Coloma, señora Carolina Infante. La asesora del Honorable Senador Edwards, señoras Claudia Hidalgo y Valentina Saldaña. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. La Jefa de Gabinete del Honorable Senador Macaya, señora Karelyn Luttecke."
+    }
+  ],
+  "url_video": ""
+}

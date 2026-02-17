@@ -1,0 +1,39 @@
+{
+  "id_sesion": "21524",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21524",
+  "fecha_iso": "2025-05-27",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "15:09",
+  "hora_termino": "16:21",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17508-05",
+      "tema": "Reajusta el monto del ingreso mínimo mensual, la asignación familiar y maternal, el subsidio único familiar, y modifica otras leyes que indica Aspectos considerados: La comisión recibió la presentación del señor Ministro de Hacienda y del Ministro del Trabajo y Previsión Social.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente Accidental) Senador García Ruminot José en reemplazo de Galilea Vial Rodrigo Senador Cruz-Coke Carvallo Luciano en reemplazo de Rincón González Ximena Senador Insulza Salinas José Miguel Senador Lagos Weber Ricardo Senador Sanhueza Dueñas Gustavo en reemplazo de Macaya Danús Javier Asistentes: Senador Kuschel Silva Carlos Ignacio",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Hacienda, el Ministro, señor Mario Marcel; la Subsecretaria, señora Heidi Berner; la Coordinadora Legislativa, señora Consuelo Fernández; la Coordinadora Macroeconómica, señora Pilar Díaz, y los asesores macroeconómicos, señores Sebastián González y Sebastián Aravena. Del Ministerio del Trabajo y Previsión Social, el Ministro, señor Giorgio Boccardo; el Subsecretario del Trabajo, señor Pablo Chacón, y las asesoras, señoras Vania Torrejón, María José San Martín y Silvana Guzmán. Del Ministerio Secretaría General de la Presidencia, la Ministra, señora Macarena Lobos y los asesores, señora Marcia González y señor Héctor Correa. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador Galilea, señor Francisco Del Río. Los asesores del Honorable Senador García, señora Valeria Gutiérrez y señor José Miguel Rey. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y Carlos Fernández. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Hacienda, el Ministro, señor Mario Marcel; la Subsecretaria, señora Heidi Berner; la Coordinadora Legislativa, señora Consuelo Fernández; la Coordinadora Macroeconómica, señora Pilar Díaz, y los asesores macroeconómicos, señores Sebastián González y Sebastián Aravena."
+    },
+    {
+      "bloque": "Del Ministerio del Trabajo y Previsión Social, el Ministro, señor Giorgio Boccardo; el Subsecretario del Trabajo, señor Pablo Chacón, y las asesoras, señoras Vania Torrejón, María José San Martín y Silvana Guzmán."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, la Ministra, señora Macarena Lobos y los asesores, señora Marcia González y señor Héctor Correa. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador Galilea, señor Francisco Del Río. Los asesores del Honorable Senador García, señora Valeria Gutiérrez y señor José Miguel Rey. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y Carlos Fernández. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

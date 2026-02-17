@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión Mixta para Boletín Nº 12748-17",
+  "id": "1407",
+  "integrantes": [
+    {
+      "nombre": "Fabiola Campillai Rojas",
+      "cargo": "",
+      "id": "fabiola-campillai-rojas-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/fabiola-campillai-rojas-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Pedro Araya Guerrero",
+      "cargo": "",
+      "id": "pedro-araya-guerrero-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/pedro-araya-guerrero-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Francisco Chahuán Chahuán",
+      "cargo": "",
+      "id": "francisco-chahuan-chahuan-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/francisco-chahuan-chahuan-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Rojo Edwards Silva",
+      "cargo": "",
+      "id": "rojo-edwards-silva-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/rojo-edwards-silva-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Enrique Van Rysselberghe Herrera",
+      "cargo": "",
+      "id": "enrique-van-rysselberghe-herrera-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/enrique-van-rysselberghe-herrera-sen",
+      "chamber": "senado"
+    }
+  ]
+}

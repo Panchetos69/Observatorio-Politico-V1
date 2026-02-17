@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21245",
+  "id_comision": "1324",
+  "nombre_comision": "Comisión de Cultura, Patrimonio, Artes, Deportes y Recreación",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1324/21245",
+  "fecha_iso": "2025-03-17",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "16:00",
+  "hora_termino": "17:30",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16223-29",
+      "tema": "Continuar con la discusión en particular del proyecto de ley, en segundo trámite constitucional que modifica la ley N° 19.327, de derechos y deberes en los espectáculos de fútbol profesional (Boletines N°s 16.223-29, 12.648-29, 14.984-29, 15.091-29, 15.598-29, 15.890-29, 15.904-29 y 15.919-29, refundidos). Aspectos considerados: Continuó la discusión en particular del proyecto de ley.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senador Keitel Bianchi Sebastián Senador Galilea Vial Rodrigo Senador Moreira Barros Iván Senador Núñez Arancibia Daniel Senadora Sepúlveda Orbenes Alejandra",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio del Interior y Seguridad Pública: la Jefa del Departamento de Estadio Seguro, señora Pamela Venegas; la Asesora, señora Lesly Covarrubias y el Abogado, señor Ricardo Viteri. Otros asistentes: De la Biblioteca del Congreso Nacional: la Investigadora, señora Marcela Cáceres. De la oficina del HS. Keitel: la Asesora, señora Valeria Ramírez. De la oficina del HS. Núñez: la Asesora, señora Tiffany Cataldo. De la oficina de la HS. Sepúlveda: los Asesores, señores Hermes Gutiérrez y Francisco Gómez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio del Interior y Seguridad Pública: la Jefa del Departamento de Estadio Seguro, señora Pamela Venegas; la Asesora, señora Lesly Covarrubias y el Abogado, señor Ricardo Viteri. Otros asistentes: De la Biblioteca del Congreso Nacional: la Investigadora, señora Marcela Cáceres. De la oficina del HS. Keitel: la Asesora, señora Valeria Ramírez. De la oficina del HS. Núñez: la Asesora, señora Tiffany Cataldo. De la oficina de la HS. Sepúlveda: los Asesores, señores Hermes Gutiérrez y Francisco Gómez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

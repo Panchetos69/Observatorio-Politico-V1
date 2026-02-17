@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21295",
+  "id_comision": "1133",
+  "nombre_comision": "Comisión del Adulto Mayor y Discapacidad",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1133/21295",
+  "fecha_iso": "2025-03-25",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "12:30",
+  "hora_termino": "14:00",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16396-35",
+      "tema": "Modifica la ley N° 20.422 con objeto de otorgar prioridad a personas con discapacidad en la atención de servicios públicos Aspectos considerados: Continuar el estudio del Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 20.422 con objeto de otorgar prioridad a personas con discapacidad en la atención de servicios públicos, correspondiente al boletín N°16.396-35, con urgencia calificada de suma. A esta sesión ha sido invitada la Ministra de Desarrollo Social y Familia, señora Javiera Toro Cáceres y el Director Nacional del Servicio del Consumidor, señor Andrés Herrera Troncoso.",
+      "acuerdo": "Despachada a sala. Integrantes: (Presidente) Senador Bianchi Retamales Karim Senador Keitel Bianchi Sebastián Senador Sandoval Plaza David",
+      "estado_punto": "",
+      "invitados_punto": "-Ministra de Desarrollo Social y Familia, señora Javiera Toro Cáceres-Subdirector Jurídico del Servicio Nacional del Consumidor, señor Edison Orellana. Otros asistentes: -Ministra de Desarrollo Social y Familia, su Jefe Legislativo, el señor Fernando Carvallo, la jefa de Comunicación señora Alejandra Lazo y la asesora, señora Alena Gutiérrez. -Asesores Honorable Senador David Sandoval, señor Pablo Cantellano y señor Sebastián Puebla. -Asesores Honorable Senador Sebastián Keitel, señora Camila Muñoz y el, señor Jaime Herrenz. -Asesores Honorable Senador Karim Bianchi, señora Carol Matus y señor Eduardo Sepúlveda. -Asesora Segpres, señora Vanessa Layama. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "-Ministra de Desarrollo Social y Familia, señora Javiera Toro Cáceres-Subdirector Jurídico del Servicio Nacional del Consumidor, señor Edison Orellana."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "-Ministra de Desarrollo Social y Familia, su Jefe Legislativo, el señor Fernando Carvallo, la jefa de Comunicación señora Alejandra Lazo y la asesora, señora Alena Gutiérrez. -Asesores Honorable Senador David Sandoval, señor Pablo Cantellano y señor Sebastián Puebla. -Asesores Honorable Senador Sebastián Keitel, señora Camila Muñoz y el, señor Jaime Herrenz. -Asesores Honorable Senador Karim Bianchi, señora Carol Matus y señor Eduardo Sepúlveda. -Asesora Segpres, señora Vanessa Layama."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

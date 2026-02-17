@@ -1,0 +1,54 @@
+{
+  "id_sesion": "21215",
+  "id_comision": "195",
+  "nombre_comision": "Comisión de Salud",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/195/21215",
+  "fecha_iso": "2025-03-11",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "09:30",
+  "hora_termino": "11:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17375-11",
+      "tema": "Proyecto de ley que moderniza el Sistema Nacional de Servicios de la Salud; fortalece al Fondo Nacional de Salud; crea el Servicio Nacional de Salud Digital; otorga facultades al Instituto de Salud Pública de Chile y a la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, y modifica normas que indica. Aspectos considerados: Se inició el estudio del proyecto de ley. La Subsecretaria (S) de Redes Asistenciales, el Director Nacional de FONASA y el Coordinador de la Reforma de Salud, expusieron los aspectos centrales de la iniciativa legal.",
+      "acuerdo": "El Ministerio de Salud se comprometió a entregar una minuta con las respuestas a las preguntas formuladas en la sesión. Integrantes: (Presidente) Senador Macaya Danús Javier Senador Castro González Juan Luis Senador Chahuán Chahuán Francisco en reemplazo de Kusanovic Glusevic Alejandro Senador Gahona Salazar Sergio Senadora Ordenes Neira Ximena",
+      "estado_punto": "",
+      "invitados_punto": "La Subsecretaria (S) de Redes Asistenciales, señora Andrea Solis. El Director Nacional de FONASA, señor Camilo Cid. El Coordinador de la Reforma de Salud, Dr. Bernardo Martorell. Otros asistentes: El Jefe de la División de Planificación y Desarrollo Estratégico de FONASA, señor Matías Goyenechea.El Asesor del Ministerio Secretaría General de la Presidencia, señor Cristian Abarca.El Asesor del Ministerio de Salud, señor Julio Muñoz.El Asesor de la Fundación Jaime Guzmán, señor Arturo Hasbún.La Investigadora de Libertad y Desarrollo, señora Trinidad Astrain.La Directora Ejecutiva del Centro para la Prevención y el Control del Cáncer (CECAN), señora Carolina Goic.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.El Asesor del Senador Javier Macaya, señor Carlos Oyarzún.La Jefa de Gabinete del Senador Javier Macaya, señora Karelyn Luttecke.Los Asesores del Senador Juan Luis Castro, señoras Teresita Fabres, Paola Astudillo, y Meggy López, y señor Arturo León.El Asesor de la Senadora Ximena Ordenes, señor Pablo Flores.Los Asesores del Senador Francisco Chahuán, señores Nicolás Cerda y Marcelo Sanhueza.El Asesor de la Senadora Claudia Pascual, señor Rodrigo Flores.La Asesora del Comité PPD, señora Paulin Silva. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "La Subsecretaria (S) de Redes Asistenciales, señora Andrea Solis."
+    },
+    {
+      "nombre": "El Director Nacional de FONASA, señor Camilo Cid."
+    },
+    {
+      "nombre": "El Coordinador de la Reforma de Salud, Dr. Bernardo Martorell."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "El Jefe de la División de Planificación y Desarrollo Estratégico de FONASA, señor Matías Goyenechea.El Asesor del Ministerio Secretaría General de la Presidencia, señor Cristian Abarca.El Asesor del Ministerio de Salud, señor Julio Muñoz.El Asesor de la Fundación Jaime Guzmán, señor Arturo Hasbún.La Investigadora de Libertad y Desarrollo, señora Trinidad Astrain.La Directora Ejecutiva del Centro para la Prevención y el Control del Cáncer (CECAN), señora Carolina Goic.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.El Asesor del Senador Javier Macaya, señor Carlos Oyarzún.La Jefa de Gabinete del Senador Javier Macaya, señora Karelyn Luttecke.Los Asesores del Senador Juan Luis Castro, señoras Teresita Fabres, Paola Astudillo, y Meggy López, y señor Arturo León.El Asesor de la Senadora Ximena Ordenes, señor Pablo Flores.Los Asesores del Senador Francisco Chahuán, señores Nicolás Cerda y Marcelo Sanhueza.El Asesor de la Senadora Claudia Pascual, señor Rodrigo Flores.La Asesora del Comité PPD, señora Paulin Silva."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

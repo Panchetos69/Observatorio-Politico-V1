@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Trabajo y Previsión Social",
+  "id": "194",
+  "integrantes": [
+    {
+      "nombre": "Gastón Saavedra Chandía",
+      "cargo": "",
+      "id": "gaston-saavedra-chandia-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/gaston-saavedra-chandia-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Karim Bianchi Retamales",
+      "cargo": "",
+      "id": "karim-bianchi-retamales-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/karim-bianchi-retamales-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Loreto Carvajal Ambiado",
+      "cargo": "",
+      "id": "loreto-carvajal-ambiado-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/loreto-carvajal-ambiado-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "José García Ruminot",
+      "cargo": "",
+      "id": "jose-garcia-ruminot-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/jose-garcia-ruminot-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Alejandra Sepúlveda Orbenes",
+      "cargo": "",
+      "id": "alejandra-sepulveda-orbenes-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/alejandra-sepulveda-orbenes-sen",
+      "chamber": "senado"
+    }
+  ]
+}

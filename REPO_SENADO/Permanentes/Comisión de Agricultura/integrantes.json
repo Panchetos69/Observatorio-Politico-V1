@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Agricultura",
+  "id": "192",
+  "integrantes": [
+    {
+      "nombre": "Alejandra Sepúlveda Orbenes",
+      "cargo": "",
+      "id": "alejandra-sepulveda-orbenes-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/alejandra-sepulveda-orbenes-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Carmen Gloria Aravena Acuña",
+      "cargo": "",
+      "id": "carmen-gloria-aravena-acuna-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/carmen-gloria-aravena-acuna-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Loreto Carvajal Ambiado",
+      "cargo": "",
+      "id": "loreto-carvajal-ambiado-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/loreto-carvajal-ambiado-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Tomás De Rementería Venegas",
+      "cargo": "",
+      "id": "tomas-de-rementeria-venegas-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/tomas-de-rementeria-venegas-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "José Miguel  Durana Semir",
+      "cargo": "",
+      "id": "jose-miguel-durana-semir-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/jose-miguel-durana-semir-sen",
+      "chamber": "senado"
+    }
+  ]
+}

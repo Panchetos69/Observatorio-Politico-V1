@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21441",
+  "id_comision": "185",
+  "nombre_comision": "Comisión de Gobierno, Descentralización y Regionalización",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/185/21441",
+  "fecha_iso": "2025-05-06",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16848-06",
+      "tema": "Modifica la ley N° 18.700, orgánica constitucional sobre votaciones populares y escrutinios, en cuanto a la información que debe contener la propaganda electoral Aspectos considerados: -Continuar el estudio del proyecto de ley, en primer trámite constitucional, que modifica la ley N° 18.700, orgánica constitucional sobre votaciones populares y escrutinios, en cuanto a la información que debe contener la propaganda electoral, correspondiente al Boletín N°16.848-06.",
+      "acuerdo": "Se escucho a los invitados, continua en una próxima sesión. Integrantes: (Presidente) Senadora Vodanovic Rojas Paulina Senadora Ebensperger Orrego Luz Eliana Senador Edwards Silva Rojo Senador Velásquez Núñez Esteban",
+      "estado_punto": "",
+      "invitados_punto": "-Ministra Secretaria General de la Presidencia, señora Macarena Lobos -EL señor Guillermo González Leiva, Subdirector de Control del Gasto y Financiamiento Electoral de Servel. -El abogado, señor Arturo Fermandois y telemáticamente el abogado, señor Gabriel Osorio. Otros asistentes: -Asesores Honorable Senador Esteban Velásquez, señores Mauricio Velásquez y Sebastián León. -Asesora Honorable Senadora Luz Ebensperger, señora Paola Bobadilla. -Asesores Comité UDI, señor Williams Valenzuela y señor Fernando Castro. -Asesor Honorable Senador José Manuel Rojo, señor Diego González. De SEGPRES la asesora, señora Isadora Venegas, el jefe de prensa, señor Daniel Vizcarra, la periodista, señora Ignacia Vásquez, el fotógrafo, señor Juan Cancino. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "-Ministra Secretaria General de la Presidencia, señora Macarena Lobos -EL señor Guillermo González Leiva, Subdirector de Control del Gasto y Financiamiento Electoral de Servel. -El abogado, señor Arturo Fermandois y telemáticamente el abogado, señor Gabriel Osorio."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "-Asesores Honorable Senador Esteban Velásquez, señores Mauricio Velásquez y Sebastián León. -Asesora Honorable Senadora Luz Ebensperger, señora Paola Bobadilla. -Asesores Comité UDI, señor Williams Valenzuela y señor Fernando Castro. -Asesor Honorable Senador José Manuel Rojo, señor Diego González. De SEGPRES la asesora, señora Isadora Venegas, el jefe de prensa, señor Daniel Vizcarra, la periodista, señora Ignacia Vásquez, el fotógrafo, señor Juan Cancino."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,92 @@
+{
+  "id_sesion": "21325",
+  "id_comision": "197",
+  "nombre_comision": "Comisión de Vivienda y Urbanismo",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/197/21325",
+  "fecha_iso": "2025-04-08",
+  "ano": "2025",
+  "mes": "04",
+  "hora_inicio": "10:00",
+  "hora_termino": "11:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Recibir a representantes de la Fundación Ronda y el Comité de Crisis de El Olivar, para presentar su informe de observaciones técnicas y administrativas respecto al avance del plan de reconstrucción de diversas áreas afectadas por los incendios acaecidos en febrero de 2024 en la Región de Valparaíso y acerca de los temas que les generan mayor preocupación sobre el particular. Aspectos considerados: Se escuchó a los invitados. Integrantes: (Presidente) Senadora Gatica Bertin María José Senadora Pascual Grau Claudia en reemplazo de Kusanovic Glusevic Alejandro Senador Sandoval Plaza David",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "DE LA FUNDACIÓN RONDA: la Directora de Incidencia y Desarrollo, señora María José Escudero; el Jefe Jurídico, señor Basilio Belmar, y la Coordinadora, señora Valentina Garay. DEL COMITÉ DE CRISIS DE EL OLIVAR: el Presidente, señor René Flores. DEL MINISTERIO DE VIVIENDA Y URBANISMO: la Secretaria Regional Ministerial de Vivienda y Urbanismo de Valparaíso, señora Belén Paredes, y la Asesora Legislativa, señora Jeannette Tapia. Otros asistentes: DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: los asesores, señoras Ignacia Guzmán e Isadora Venegas y señor Carlos Ortega. DE LA SECRETARÍA REGIONAL MINISTERIAL DE VIVIENDA Y URBANISMO DE VALPARAÍSO: la Jefa de Gabinete, señora Nikole Corces. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: los analistas, señora Verónica de la Paz y señor Pedro Guerra. DEL COMITÉ DE SENADORES PS: la asesora, señora Martina Riveros. Asesores parlamentarios: de la Senadora señora Gatica, don Henry Azurmendi y don Felipe Pereira; de la Senadora señora Pascual, don Roberto Carrasco, y del Senador señor Sandoval, don Pablo Cantellano, don Sebastián Puebla y don Nicolás Starck."
+    },
+    {
+      "numero": 2,
+      "boletin": "",
+      "tema": "Recibir a representantes de la Cámara Chilena de la Construcción y de la Asociación de Aseguradores de Chile, a fin de conocer las dificultades que están enfrentando sus gremios en el mercado inmobiliario. Aspectos considerados: Se escuchó a los invitados. Integrantes: (Presidente) Senadora Gatica Bertin María José Senadora Pascual Grau Claudia en reemplazo de Kusanovic Glusevic Alejandro Senador Sandoval Plaza David",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "DE LA CÁMARA CHILENA DE LA CONSTRUCCIÓN: el Vicepresidente Nacional, señor Orlando Sillano, y el Abogado de la Gerencia de Asuntos Regulatorios, señor Carlos Pinto. DE LA ASOCIACIÓN DE ASEGURADORES DE CHILE: el Vicepresidente Ejecutivo, señor Marcelo Mosso, y el Abogado, señor Felipe Casale. DEL MINISTERIO DE VIVIENDA Y URBANISMO: el Jefe de la División de Política Habitacional, señor Carlos Araya, y la Asesora Legislativa, señora Jeannette Tapia. Otros asistentes: DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: los asesores, señoras Ignacia Guzmán e Isadora Venegas y señor Carlos Ortega. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: los analistas, señora Verónica de la Paz y señor Pedro Guerra. DEL COMITÉ DE SENADORES PS: la asesora, señora Martina Riveros. Asesores parlamentarios: de la Senadora señora Gatica, don Henry Azurmendi y don Felipe Pereira; de la Senadora señora Pascual, don Roberto Carrasco, y del Senador señor Sandoval, don Pablo Cantellano, don Sebastián Puebla y don Nicolás Starck. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DE LA FUNDACIÓN RONDA: la Directora de Incidencia y Desarrollo, señora María José Escudero; el Jefe Jurídico, señor Basilio Belmar, y la Coordinadora, señora Valentina Garay. DEL COMITÉ DE CRISIS DE EL OLIVAR: el Presidente, señor René Flores. DEL MINISTERIO DE VIVIENDA Y URBANISMO: la Secretaria Regional Ministerial de Vivienda y Urbanismo de Valparaíso, señora Belén Paredes, y la Asesora Legislativa, señora Jeannette Tapia."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: los asesores, señoras Ignacia Guzmán e Isadora Venegas y señor Carlos Ortega. DE LA SECRETARÍA REGIONAL MINISTERIAL DE VIVIENDA Y URBANISMO DE VALPARAÍSO: la Jefa de Gabinete, señora Nikole Corces. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: los analistas, señora Verónica de la Paz y señor Pedro Guerra. DEL COMITÉ DE SENADORES PS: la asesora, señora Martina Riveros. Asesores parlamentarios: de la Senadora señora Gatica, don Henry Azurmendi y don Felipe Pereira; de la Senadora señora Pascual, don Roberto Carrasco, y del Senador señor Sandoval, don Pablo Cantellano, don Sebastián Puebla y don Nicolás Starck."
+    },
+    {
+      "nombre": "Punto 2"
+    },
+    {
+      "nombre": "Recibir a representantes de la Cámara Chilena de la Construcción y de la Asociación de Aseguradores de Chile, a fin de conocer las dificultades que están enfrentando sus gremios en el mercado inmobiliario."
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "Se escuchó a los invitados."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente) Senadora Gatica Bertin María José"
+    },
+    {
+      "nombre": "Senadora Pascual Grau Claudia en reemplazo de Kusanovic Glusevic Alejandro"
+    },
+    {
+      "nombre": "Senador Sandoval Plaza David"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "DE LA CÁMARA CHILENA DE LA CONSTRUCCIÓN: el Vicepresidente Nacional, señor Orlando Sillano, y el Abogado de la Gerencia de Asuntos Regulatorios, señor Carlos Pinto. DE LA ASOCIACIÓN DE ASEGURADORES DE CHILE: el Vicepresidente Ejecutivo, señor Marcelo Mosso, y el Abogado, señor Felipe Casale. DEL MINISTERIO DE VIVIENDA Y URBANISMO: el Jefe de la División de Política Habitacional, señor Carlos Araya, y la Asesora Legislativa, señora Jeannette Tapia."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: los asesores, señoras Ignacia Guzmán e Isadora Venegas y señor Carlos Ortega. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: los analistas, señora Verónica de la Paz y señor Pedro Guerra. DEL COMITÉ DE SENADORES PS: la asesora, señora Martina Riveros. Asesores parlamentarios: de la Senadora señora Gatica, don Henry Azurmendi y don Felipe Pereira; de la Senadora señora Pascual, don Roberto Carrasco, y del Senador señor Sandoval, don Pablo Cantellano, don Sebastián Puebla y don Nicolás Starck."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

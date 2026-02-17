@@ -1,0 +1,39 @@
+{
+  "id_sesion": "21559",
+  "id_comision": "615",
+  "nombre_comision": "Comisión de Seguridad Pública",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/615/21559",
+  "fecha_iso": "2025-06-03",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "11:00",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16974-07",
+      "tema": "Fija un plazo máximo para que los proveedores de servicios de internet y telecomunicaciones entreguen registros de llamadas y otros antecedentes de tráfico comunicacional en delitos de crimen organizado y otros cuya investigación requiere especial celeridad. Aspectos considerados: La Comisión continuó el estudio del proyecto de ley. Se escuchó la presentación del Subsecretario de Telecomunicaciones, señor Claudio Araya. Y luego se desarrolló un intercambio de opiniones con los miembros de la Comisión.",
+      "acuerdo": "Se fijó un plazo para presentar indicaciones hasta el día viernes 13 de junio de 2025 hasta las 14 horas. Integrantes: (Presidente) Senador Durana Semir José Miguel Senadora Pascual Grau Claudia Senador Pugh Olavarría Kenneth Senadora Vodanovic Rojas Paulina",
+      "estado_punto": "",
+      "invitados_punto": "Del Ministerio de Transportes y Telecomunicaciones: el Subsecretario de Telecomunicaciones, señor Claudio Araya. Del Ministerio de Seguridad Pública: el Jefe de la División Jurídica de dicha Subsecretaría de Seguridad Pública, señor José Tomás Humud, y la Coodinadora Legislativa, señora Lucía Álvarez. Otros asistentes: Del Ministerio Secretaría General de la Presidencia: el asesor, señor Daniel Olivares.De la Biblioteca del Congreso Nacional: el asesor, señor Guillermo Fernández.Los asesores parlamentarios: del Senador Durana, señora Pamela Cousins y señor César Quiroga; de la Senadora Pascual, señor Roberto Carrasco; del Senador Pugh, señor Allonne Barra, y de la Senadora Vodanovic, señor José Miguel Poblete. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Transportes y Telecomunicaciones: el Subsecretario de Telecomunicaciones, señor Claudio Araya."
+    },
+    {
+      "bloque": "Del Ministerio de Seguridad Pública: el Jefe de la División Jurídica de dicha Subsecretaría de Seguridad Pública, señor José Tomás Humud, y la Coodinadora Legislativa, señora Lucía Álvarez. Otros asistentes:"
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: el asesor, señor Daniel Olivares.De la Biblioteca del Congreso Nacional: el asesor, señor Guillermo Fernández.Los asesores parlamentarios: del Senador Durana, señora Pamela Cousins y señor César Quiroga; de la Senadora Pascual, señor Roberto Carrasco; del Senador Pugh, señor Allonne Barra, y de la Senadora Vodanovic, señor José Miguel Poblete. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

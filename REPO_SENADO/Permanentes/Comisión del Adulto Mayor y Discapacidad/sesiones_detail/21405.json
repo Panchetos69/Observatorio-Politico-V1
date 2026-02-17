@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21405",
+  "id_comision": "1133",
+  "nombre_comision": "Comisión del Adulto Mayor y Discapacidad",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1133/21405",
+  "fecha_iso": "2025-04-22",
+  "ano": "2025",
+  "mes": "04",
+  "hora_inicio": "12:30",
+  "hora_termino": "14:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "-A fin de conocer la agenda legislativa del Ministerio de Desarrollo Social y Familia y del Servicio Nacional de la Discapacidad en relación a las materias de competencia de esta Comisión. -A esta sesión, ha sido invitada la Ministra de Desarrollo Social y Familia, señora Javiera Toro y la Directora(S) Nacional de Senadis, señora Karen Astorga. Aspectos considerados: -A fin de conocer la agenda legislativa del Ministerio de Desarrollo Social y Familia y del Servicio Nacional de la Discapacidad en relación a las materias de competencia de esta Comisión. -A esta sesión, ha sido invitada la Ministra de Desarrollo Social y Familia, señora Javiera Toro y la Directora(S) Nacional de Senadis, señora Karen Astorga.",
+      "acuerdo": "Se escucho a la Ministra de Desarrollo Social y Familia, Javiera Toro Cáceres, a la Directora (S) del Servicio Nacional de la Discapacidad, Karen Astorga y la Directora del Servicio Nacional del Adulto Mayor, Claudia Asmad. Integrantes: (Presidente) Senadora Campillai Rojas Fabiola Senador Insulza Salinas José Miguel Senador Sandoval Plaza David Senador Velásquez Núñez Esteban",
+      "estado_punto": "",
+      "invitados_punto": "-Ministra de Desarrollo Social y Familia, señora Javiera Toro Cáceres, acompañada por su Jefe Legislativo, el señor Fernando Carvallo y las asesoras, señora Alena Gutiérrez y Mara Roitstein.-Directora del Servicio Nacional del Adulto Mayor, señora Claudia Asmad Palomo, la asesora legislativa, señora Tania Mora y el jefe de Gabinete, señor Juan Cristóbal Cantuarias. -Directora (S) del Servicio Nacional de la Discapacidad, señora Karen Astorga y señora María Pilar Iturrieta Jefa de Departamento de Derechos Humanos y Seguimiento Legislativo. Otros asistentes: -Asesora legislativa subsecretaria de Servicios Sociales, señora Belén Tomic. -Asesor Honorable Senadora Fabiola Campillai, señor Pedro Carrasco. -Asesor Senador Jose Miguel Insulza, señor Carlos Fernández. -Asesores Honorable Senador David Sandoval, señor Pablo Cantellano y señor Sebastián Puebla. -Asesores Honorable Senador Esteban Velásquez, señores Mauricio Velásquez y Sebastián León. -Responsable del Programa de Inclusión de la Biblioteca del Congreso Nacional, señora Paola Santibáñez. -Asesora Segpres, señor Carlos Ortega. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "-Ministra de Desarrollo Social y Familia, señora Javiera Toro Cáceres, acompañada por su Jefe Legislativo, el señor Fernando Carvallo y las asesoras, señora Alena Gutiérrez y Mara Roitstein.-Directora del Servicio Nacional del Adulto Mayor, señora Claudia Asmad Palomo, la asesora legislativa, señora Tania Mora y el jefe de Gabinete, señor Juan Cristóbal Cantuarias. -Directora (S) del Servicio Nacional de la Discapacidad, señora Karen Astorga y señora María Pilar Iturrieta Jefa de Departamento de Derechos Humanos y Seguimiento Legislativo."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "-Asesora legislativa subsecretaria de Servicios Sociales, señora Belén Tomic. -Asesor Honorable Senadora Fabiola Campillai, señor Pedro Carrasco. -Asesor Senador Jose Miguel Insulza, señor Carlos Fernández. -Asesores Honorable Senador David Sandoval, señor Pablo Cantellano y señor Sebastián Puebla. -Asesores Honorable Senador Esteban Velásquez, señores Mauricio Velásquez y Sebastián León. -Responsable del Programa de Inclusión de la Biblioteca del Congreso Nacional, señora Paola Santibáñez. -Asesora Segpres, señor Carlos Ortega."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

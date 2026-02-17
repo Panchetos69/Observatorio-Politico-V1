@@ -1,0 +1,42 @@
+{
+  "id_sesion": "21835",
+  "id_comision": "1443",
+  "nombre_comision": "Comisión Mixta para Boletín N° 12234-02",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1443/21835",
+  "fecha_iso": "2025-08-18",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "11:00",
+  "hora_termino": "13:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "12234-02",
+      "tema": "Proyecto de ley que fortalece y moderniza el sistema de inteligencia del Estado. Aspectos considerados: La Comisión analizó la forma de resolver las divergencias surgidas entre el Senado y la Cámara de Diputados.",
+      "acuerdo": "Proseguir su examen en una próxima sesión. La sesión fue declarada secreta. Integrantes: Diputado Brito Hasbún Jorge Diputada Hertz Cádiz Carmen Diputado Jouannet Valderrama Andrés Senador Macaya Danús Javier Senador Ossandón Irarrázabal Manuel José Senadora Provoste Campillay Yasna en reemplazo de Huenchumilla Jaramillo Francisco Senador Pugh Olavarría Kenneth Senador Saavedra Chandía Gastón Diputado Sánchez Ossa Luis Diputado Undurraga Gazitúa Francisco Asistentes: Senador Flores García Iván",
+      "estado_punto": "",
+      "invitados_punto": "DEL MINISTERIO DEL INTERIOR: Ministro, señor Álvaro Elizalde. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DEL INTERIOR: Ministro, señor Álvaro Elizalde."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

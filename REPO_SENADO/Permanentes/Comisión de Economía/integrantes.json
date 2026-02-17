@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Economía",
+  "id": "187",
+  "integrantes": [
+    {
+      "nombre": "Daniel Núñez Arancibia",
+      "cargo": "",
+      "id": "daniel-nunez-arancibia-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/daniel-nunez-arancibia-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Rojo Edwards Silva",
+      "cargo": "",
+      "id": "rojo-edwards-silva-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/rojo-edwards-silva-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Francisco Huenchumilla Jaramillo",
+      "cargo": "",
+      "id": "francisco-huenchumilla-jaramillo-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/francisco-huenchumilla-jaramillo-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Gastón Saavedra Chandía",
+      "cargo": "",
+      "id": "gaston-saavedra-chandia-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/gaston-saavedra-chandia-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Gustavo Sanhueza Dueñas",
+      "cargo": "",
+      "id": "gustavo-sanhueza-duenas-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/gustavo-sanhueza-duenas-sen",
+      "chamber": "senado"
+    }
+  ]
+}

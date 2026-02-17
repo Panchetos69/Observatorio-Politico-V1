@@ -1,0 +1,39 @@
+{
+  "id_sesion": "21846",
+  "id_comision": "189",
+  "nombre_comision": "Comisión de Educación",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/189/21846",
+  "fecha_iso": "2025-08-19",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "FRACASADA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16763-04",
+      "tema": "Iniciar la discusión en particular del proyecto de ley, en primer trámite constitucional, que modifica la Ley sobre Subvención del Estado a Establecimientos Educacionales, en cuanto al proceso de admisión escolar (Boletín Nos 16.763-04 y N° 16.766-04, refundidos). Aspectos considerados: La Comisión no se constituyó por falta de quórum. Integrantes: (Presidente) Senador Sanhueza Dueñas Gustavo Senadora Provoste Campillay Yasna",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

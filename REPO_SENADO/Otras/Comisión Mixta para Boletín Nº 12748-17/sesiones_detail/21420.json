@@ -1,0 +1,42 @@
+{
+  "id_sesion": "21420",
+  "id_comision": "1407",
+  "nombre_comision": "Comisión Mixta para Boletín Nº 12748-17",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1407/21420",
+  "fecha_iso": "2025-04-24",
+  "ano": "2025",
+  "mes": "04",
+  "hora_inicio": "11:00",
+  "hora_termino": "13:00",
+  "lugar": "",
+  "estado": "FRACASADA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "12748-17",
+      "tema": "Proyecto de ley que modifica y fortalece la ley N° 20.609, que establece medidas contra la discriminación. Aspectos considerados: Con el objeto de conocer la opinión de los invitados respecto del proyecto de ley que modifica y fortalece la ley N° 20.609, que establece medidas contra la discriminación. Invitados: Idea País. Movimiento Ciudadanos en Acción. ADF International. Movimiento Ciudadano con mis Hijos no te Metas. Universidad Finis Terrae. Observatorio Legislativo Cristiano. Agrupación Disforiamente. Profesor P. Universidad Católica de Chile. Red de Damas. Comisión Chilena de Derechos Humanos. Con Familia. Profesora de Derecho Procesal, Pontificia Universidad Católica de Chile. Integrantes: Senador Chahuán Chahuán Francisco Diputado Kaiser Barents-Von Hohenhagen Johannes en reemplazo de Labbé Martínez Cristian Senador Núñez Arancibia Daniel en reemplazo de Campillai Rojas Fabiola Diputada Ossandón Irarrázabal Ximena Diputada Schneider Videla Emilia",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "Por la Subsecretaría de Derechos Humanos, la abogada, señora Valenetina Parodi. Por la U. Católica, la profesora de Procesal, señora Priscila Machado; por el Movimiento Ciudadanos en Acción, la señora Carolina Gárate; de Red de Damas, señora Magaly Aguilar; por ConFamilia, el señor Esteban Barahona; por la Agrupación Disforiamente, el señor Santiago Hormázabal; por Idea País, el señor Arnau Sarrá; Por el Instituto Nacional de Derechos Humanos, los asesores señora Bernardita Vega y señor Nicolás Del Fierro. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Por la Subsecretaría de Derechos Humanos, la abogada, señora Valenetina Parodi. Por la U. Católica, la profesora de Procesal, señora Priscila Machado; por el Movimiento Ciudadanos en Acción, la señora Carolina Gárate; de Red de Damas, señora Magaly Aguilar; por ConFamilia, el señor Esteban Barahona; por la Agrupación Disforiamente, el señor Santiago Hormázabal; por Idea País, el señor Arnau Sarrá; Por el Instituto Nacional de Derechos Humanos, los asesores señora Bernardita Vega y señor Nicolás Del Fierro."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Gobierno, Descentralización y Regionalización",
+  "id": "185",
+  "integrantes": [
+    {
+      "nombre": "Paulina Vodanovic Rojas",
+      "cargo": "",
+      "id": "paulina-vodanovic-rojas-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/paulina-vodanovic-rojas-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Luz Eliana Ebensperger Orrego",
+      "cargo": "",
+      "id": "luz-eliana-ebensperger-orrego-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/luz-eliana-ebensperger-orrego-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Rafael   Prohens Espinosa",
+      "cargo": "",
+      "id": "rafael-prohens-espinosa-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/rafael-prohens-espinosa-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Jaime Quintana Leal",
+      "cargo": "",
+      "id": "jaime-quintana-leal-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/jaime-quintana-leal-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Esteban Velásquez Núñez",
+      "cargo": "",
+      "id": "esteban-velasquez-nunez-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/esteban-velasquez-nunez-sen",
+      "chamber": "senado"
+    }
+  ]
+}

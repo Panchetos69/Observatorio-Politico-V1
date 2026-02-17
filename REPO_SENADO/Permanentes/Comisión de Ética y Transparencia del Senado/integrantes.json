@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Ética y Transparencia del Senado",
+  "id": "718",
+  "integrantes": [
+    {
+      "nombre": "Carlos Ignacio Kuschel Silva",
+      "cargo": "",
+      "id": "carlos-ignacio-kuschel-silva-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/carlos-ignacio-kuschel-silva-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Carmen Gloria Aravena Acuña",
+      "cargo": "",
+      "id": "carmen-gloria-aravena-acuna-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/carmen-gloria-aravena-acuna-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Juan Luis Castro González",
+      "cargo": "",
+      "id": "juan-luis-castro-gonzalez-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/juan-luis-castro-gonzalez-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Luz Eliana Ebensperger Orrego",
+      "cargo": "",
+      "id": "luz-eliana-ebensperger-orrego-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/luz-eliana-ebensperger-orrego-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Francisco Huenchumilla Jaramillo",
+      "cargo": "",
+      "id": "francisco-huenchumilla-jaramillo-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/francisco-huenchumilla-jaramillo-sen",
+      "chamber": "senado"
+    }
+  ]
+}

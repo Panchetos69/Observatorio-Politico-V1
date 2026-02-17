@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21949",
+  "id_comision": "1323",
+  "nombre_comision": "Comisión de Familia, Infancia y Adolescencia.",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1323/21949",
+  "fecha_iso": "2025-09-16",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "12:00",
+  "hora_termino": "13:05",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16905-31",
+      "tema": "Reconoce el derecho al cuidado y crea el Sistema Nacional de Apoyos y Cuidados Aspectos considerados: Se continuó con el estudio de las indicaciones presentadas al proyecto de ley.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Campillai Rojas Fabiola Senadora Aravena Acuña Carmen Gloria Senadora Carvajal Ambiado Loreto Senador Van Rysselberghe Herrera Enrique Senador Walker Prieto Matías",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "De la Dirección de Presupuestos: el Jefe de estudios, señor Pablo Jorquera. Del Ministerio de Desarrollo Social y Familia: la Subsecretaria de Servicios Sociales, señora Francisca Gallegos; los asesores legislativos de la Ministra, señora Alena Gutiérrez y señor Fernando Carvallo; y la asesora de dicha Subsecretarías, señora Francisca Cavada. Del Ministerio de la Mujer y la Equidad de Género: la asesora del Ministerio, señora Loreto Godoy. Otros asistentes: De la Biblioteca del Congreso Nacional: la analista investigadora, señora Daniela Santana, y los asesores de la Honorable Senadora señora Campillai, señor Hermes Ortega; de la Honorable Senadora señora Aravena, señor Felipe Pereira; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; del Comité Demócratas, señora Paz Anastasiadis y de la Secretaría General de la Presidencia (Segpres), señoras Isidora Yáñez e Ignacia Guzmán. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Desarrollo Social y Familia: la Subsecretaria de Servicios Sociales, señora Francisca Gallegos; los asesores legislativos de la Ministra, señora Alena Gutiérrez y señor Fernando Carvallo; y la asesora de dicha Subsecretarías, señora Francisca Cavada."
+    },
+    {
+      "bloque": "Del Ministerio de la Mujer y la Equidad de Género: la asesora del Ministerio, señora Loreto Godoy. Otros asistentes: De la Biblioteca del Congreso Nacional: la analista investigadora, señora Daniela Santana, y los asesores de la Honorable Senadora señora Campillai, señor Hermes Ortega; de la Honorable Senadora señora Aravena, señor Felipe Pereira; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; del Comité Demócratas, señora Paz Anastasiadis y de la Secretaría General de la Presidencia (Segpres), señoras Isidora Yáñez e Ignacia Guzmán. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

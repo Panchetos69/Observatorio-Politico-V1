@@ -1,0 +1,89 @@
+{
+  "id_sesion": "21282",
+  "id_comision": "941",
+  "nombre_comision": "Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/941/21282",
+  "fecha_iso": "2025-03-24",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "15:42",
+  "hora_termino": "16:20",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Recibir al Doctor del Centro Interdisciplinario de Neurociencia de la Universidad de Valparaíso, señor John Ewer, para abordar los efectos biológicos del cambio de huso horario. Aspectos considerados: Se recibió al Doctor del Centro Interdisciplinario de Neurociencia de la Universidad de Valparaíso, señor John Ewer, quien abordó los efectos biológicos del cambio de huso horario. Integrantes: (Presidente) Senador Coloma Correa Juan Antonio Senador Chahuán Chahuán Francisco Senador De Urresti Longton Alfonso",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "De la Universidad de Valparaíso: del Centro Interdisciplinario de Neurociencia, el doctor, señor John Ewer. Otros asistentes: Los Asesores de los Parlamentarios señores, Alexis Sánchez, Luis Pereira y (Senador señor Francisco Chahuán).Del Consejo del Futuro, la Secretaria Ejecutiva, señora Carolina Muñoz.De la Biblioteca del Congreso Nacional, los Asesores, señores Marek Hoehn y Víctor Soto.El señor Fernando Chahuán.Vía Zoom: De la Academia Chilena de Ciencias, la Presidenta, señora María Cecilia Hidalgo.El Columnista Ciencia y Tecnología de El Mercurio, el señor Nicolás Luco.Consultor externo temas digitales, señor Christian Nicolai.Del Consejo del Futuro, la señora Jacqueline González.De la División de Ciencia, Tecnología e Innovación del Ministerio de Relaciones Exteriores, el señor Pablo García Aguirre."
+    },
+    {
+      "numero": 2,
+      "boletin": "",
+      "tema": "Otras materias de su competencia. Aspectos considerados: Otras materias de su competencia.",
+      "acuerdo": "El Presidente presentó su renuncia a la Presidencia de la Comisión. Integrantes: (Presidente) Senador Coloma Correa Juan Antonio Senador Chahuán Chahuán Francisco Senador De Urresti Longton Alfonso",
+      "estado_punto": "",
+      "invitados_punto": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "De la Universidad de Valparaíso: del Centro Interdisciplinario de Neurociencia, el doctor, señor John Ewer."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Los Asesores de los Parlamentarios señores, Alexis Sánchez, Luis Pereira y (Senador señor Francisco Chahuán).Del Consejo del Futuro, la Secretaria Ejecutiva, señora Carolina Muñoz.De la Biblioteca del Congreso Nacional, los Asesores, señores Marek Hoehn y Víctor Soto.El señor Fernando Chahuán.Vía Zoom: De la Academia Chilena de Ciencias, la Presidenta, señora María Cecilia Hidalgo.El Columnista Ciencia y Tecnología de El Mercurio, el señor Nicolás Luco.Consultor externo temas digitales, señor Christian Nicolai.Del Consejo del Futuro, la señora Jacqueline González.De la División de Ciencia, Tecnología e Innovación del Ministerio de Relaciones Exteriores, el señor Pablo García Aguirre."
+    },
+    {
+      "nombre": "Punto 2"
+    },
+    {
+      "nombre": "Otras materias de su competencia."
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "Otras materias de su competencia."
+    },
+    {
+      "nombre": "Acuerdos:"
+    },
+    {
+      "nombre": "El Presidente presentó su renuncia a la Presidencia de la Comisión."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente) Senador Coloma Correa Juan Antonio"
+    },
+    {
+      "nombre": "Senador Chahuán Chahuán Francisco"
+    },
+    {
+      "nombre": "Senador De Urresti Longton Alfonso"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

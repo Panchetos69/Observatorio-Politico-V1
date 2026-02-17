@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22022",
+  "id_comision": "1442",
+  "nombre_comision": "Comisión Bicameral de avalúo de predios agrícolas",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1442/22022",
+  "fecha_iso": "2025-10-08",
+  "ano": "2025",
+  "mes": "10",
+  "hora_inicio": "11:00",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Conocer la exposición del representante de la Contraloría General de la República respecto a las materias propias de la Comisión Bicameral. Aspectos considerados: Se escuchó la exposición del Subcontralor General de la República, señor Víctor Hugo Merino Rojas.",
+      "acuerdo": "Se coordinará una nueva sesión con representantes de la Contraloría General de la República. Integrantes: Senadora Aravena Acuña Carmen Gloria Senador Durana Semir José Miguel Diputado Moreno Bascur Benjamín Diputada Nuyado Ancapichún Emilia Diputado Rathgeb Schifferli Jorge Senadora Sepúlveda Orbenes Alejandra Diputada Weisse Novoa Flor",
+      "estado_punto": "",
+      "invitados_punto": "Por la Contraloría General de la República: el Subcontralor General señor Víctor Hugo Merino Rojas. Otros asistentes: Por el Ministerio Secretaria General de la Presidencia: don Daniel Olivares, y don Miguel Ángel Vergara; por la Biblioteca del Congreso Nacional: el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Mauricio Vásquez y don Hermes Gutiérrez; por la Senadora señora Aravena, don Felipe Pereira; por el Senador señor Durana, doña Pamela Cousins; por el comité del Partido Socialista, don Mauricio Galaz, y por la Fundación Jaime Guzmán, don Juan José Llorente. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Por la Contraloría General de la República: el Subcontralor General señor Víctor Hugo Merino Rojas."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio Secretaria General de la Presidencia: don Daniel Olivares, y don Miguel Ángel Vergara; por la Biblioteca del Congreso Nacional: el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Mauricio Vásquez y don Hermes Gutiérrez; por la Senadora señora Aravena, don Felipe Pereira; por el Senador señor Durana, doña Pamela Cousins; por el comité del Partido Socialista, don Mauricio Galaz, y por la Fundación Jaime Guzmán, don Juan José Llorente."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

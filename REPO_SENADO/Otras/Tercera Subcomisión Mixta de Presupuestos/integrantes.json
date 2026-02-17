@@ -1,0 +1,27 @@
+{
+  "comision": "Tercera Subcomisión Mixta de Presupuestos",
+  "id": "618",
+  "integrantes": [
+    {
+      "nombre": "Rafael   Prohens Espinosa",
+      "cargo": "",
+      "id": "rafael-prohens-espinosa-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/rafael-prohens-espinosa-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Sergio Gahona Salazar",
+      "cargo": "",
+      "id": "sergio-gahona-salazar-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/sergio-gahona-salazar-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Daniel Núñez Arancibia",
+      "cargo": "",
+      "id": "daniel-nunez-arancibia-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/daniel-nunez-arancibia-sen",
+      "chamber": "senado"
+    }
+  ]
+}

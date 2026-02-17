@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21776",
+  "id_comision": "199",
+  "nombre_comision": "Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/199/21776",
+  "fecha_iso": "2025-08-05",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17370-17",
+      "tema": "Continuar el debate del proyecto de ley que regula la suspensión y el cumplimiento alternativo de penas privativas de libertad, para condenados que indica. Aspectos considerados: La Comisión escuchó las exposiciones del señor Nelson Aramburú, representante del Comando Unitario de Ex Presos Políticos; de la señora Alejandra Arriaza, del Centro de Salud y Derechos Humanos CINTRAS; del Obispo Evangélico señor Emiliano Soto, y del también Obispo Evangélico Francisco Javier Rivera. También hizo uso de la palabra la Subsecretaria de Derechos Humanos señora Daniela Quintanilla.",
+      "acuerdo": "Uno) Continuar con los invitados para este proyecto en una próxima sesión. Dos) Se fijó un plazo para el día 22 agosto próximo, con el objeto de que los miembros de la Comisión y el Ejecutivo formulen las propuestas de invitados para el proyecto de ley del Boletín N° 16.017-17, que modifica la ley N°18.918, orgánica constitucional del Congreso Nacional, para regular la remisión y recepción de informes y antecedentes relativos al cumplimiento de tratados internacionales, así como de resoluciones y recomendaciones originadas en el Sistema Interamericano y en el Sistema Universal de Derechos Humanos Integrantes: (Presidente) Senador Chahuán Chahuán Francisco Senadora Campillai Rojas Fabiola Senador Van Rysselberghe Herrera Enrique",
+      "estado_punto": "",
+      "invitados_punto": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla; el señor Nelson Aramburu, por el Comando Unitario de ex Presos Políticos; la abogada, señora Alejandra Arriaza, del Centro de Salud Mental y Derechos Humanos Cintras; el Obispo Evangélico, señor Emiliano Soto, y el Obispo Francisco Javier Rivera, Presidente Internacional de la Mesa Ampliada de Iglesias Evángelicas. Otros asistentes: Por la Subsecretaría de Derechos Humanos: los abogados doña Valentina Parodi y don Sebastián Cabezas; por la Biblioteca del Congreso Nacional: el profesional don Jaime Rojas; por el Instituto Nacional de Derechos Humanos: el abogado don Nicolás del Fierro; por el Centro de Salud Mental y Derechos Humanos Cintras, el director ejecutivo, don José M. Guzmán Asesores de Parlamentarios: por el Senador señor Chahuán, doña Claudia Unicahuin (Zoom) y don Felipe Crespo; por el Senador señor Van Rysselberghe, don Juan Carlos Morales; por el Senador señor Edwards, doña Valentina Saldaña; por la Senadora señora Campillai, la asistente, doña Claudia Ahumada, el Jefe de Gabinete, don Pedro Carreño y el asesor don Gabriel Gajardo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla; el señor Nelson Aramburu, por el Comando Unitario de ex Presos Políticos; la abogada, señora Alejandra Arriaza, del Centro de Salud Mental y Derechos Humanos Cintras; el Obispo Evangélico, señor Emiliano Soto, y el Obispo Francisco Javier Rivera, Presidente Internacional de la Mesa Ampliada de Iglesias Evángelicas."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Subsecretaría de Derechos Humanos: los abogados doña Valentina Parodi y don Sebastián Cabezas; por la Biblioteca del Congreso Nacional: el profesional don Jaime Rojas; por el Instituto Nacional de Derechos Humanos: el abogado don Nicolás del Fierro; por el Centro de Salud Mental y Derechos Humanos Cintras, el director ejecutivo, don José M. Guzmán Asesores de Parlamentarios: por el Senador señor Chahuán, doña Claudia Unicahuin (Zoom) y don Felipe Crespo; por el Senador señor Van Rysselberghe, don Juan Carlos Morales; por el Senador señor Edwards, doña Valentina Saldaña; por la Senadora señora Campillai, la asistente, doña Claudia Ahumada, el Jefe de Gabinete, don Pedro Carreño y el asesor don Gabriel Gajardo."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

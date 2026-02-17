@@ -1,0 +1,36 @@
+{
+  "id_sesion": "22198",
+  "id_comision": "202",
+  "nombre_comision": "Comisión Revisora de Cuentas",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/202/22198",
+  "fecha_iso": "2025-12-15",
+  "ano": "2025",
+  "mes": "12",
+  "hora_inicio": "11:30",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "https://www.senado.cl/actividad-legislativa/comisiones/202",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Revisar las cuentas del Senado. Aspectos considerados: La Comisión revisó las cuentas del Senado.",
+      "acuerdo": "Aprobado. Integrantes: (Presidente) Senador Galilea Vial Rodrigo Senador Cruz-Coke Carvallo Luciano Senadora Rincón González Ximena Senador Saavedra Chandía Gastón",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "Del Senado: el Secretario General, señor Raúl Guzmán. Otros asistentes: Del Senado: el Secretario General, señor Raúl Guzmán, el Prosecretario y Tesorero (s), señor Andrés Salas; el Jefe de Presupuesto, señor Alejandro González, y el Profesional, señor Luis Rubio. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Senado: el Secretario General, señor Raúl Guzmán. Otros asistentes:"
+    },
+    {
+      "bloque": "Del Senado: el Secretario General, señor Raúl Guzmán, el Prosecretario y Tesorero (s), señor Andrés Salas; el Jefe de Presupuesto, señor Alejandro González, y el Profesional, señor Luis Rubio. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

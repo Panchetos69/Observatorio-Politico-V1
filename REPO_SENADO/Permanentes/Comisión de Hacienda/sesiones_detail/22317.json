@@ -1,0 +1,36 @@
+{
+  "id_sesion": "22317",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/22317",
+  "fecha_iso": "2026-01-21",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "10:46",
+  "hora_termino": "12:32",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16335-14",
+      "tema": "Regula la prevención de incendios forestales y rurales, y otras materias que indica Aspectos considerados: La comisión se abocó a las materias de su competencia.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Senador García Ruminot José en reemplazo de Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Kuschel Silva Carlos Ignacio en reemplazo de Galilea Vial Rodrigo Senador Lagos Weber Ricardo Senador Macaya Danús Javier",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Agricultura, el Subsecretario, señor Alan Espinoza y los asesores, señora Rocío Norambuena y señores Rodrigo Herrera, Sergio Herrera y Sandro Cisternas. De la Corporación Nacional Forestal (CONAF), el Director Ejecutivo, señor Rodrigo Illesca; la Jefa de Gabinete, señora Catalina Núñez; el Jefe de Departamento de Prevención de Incendios Forestales, señor Rolando Pardo y el Asesor Jurídico, señor Maximiliano Guiñez. Del Ministerio Secretaría General de la Presidencia, el asesor, señor Héctor Correa. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. El asesor del Honorable Senador Macaya, señor Jaime Varas. Las asesoras de la Honorable Senadora Rincón, señoras Fernanda Thompson y Sofía Dib. Del Comité Unión Demócrata Independiente, los asesores, señora Bernardita Valdés y Juan José Llorente. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Agricultura, el Subsecretario, señor Alan Espinoza y los asesores, señora Rocío Norambuena y señores Rodrigo Herrera, Sergio Herrera y Sandro Cisternas. De la Corporación Nacional Forestal (CONAF), el Director Ejecutivo, señor Rodrigo Illesca; la Jefa de Gabinete, señora Catalina Núñez; el Jefe de Departamento de Prevención de Incendios Forestales, señor Rolando Pardo y el Asesor Jurídico, señor Maximiliano Guiñez."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, el asesor, señor Héctor Correa. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. El asesor del Honorable Senador Macaya, señor Jaime Varas. Las asesoras de la Honorable Senadora Rincón, señoras Fernanda Thompson y Sofía Dib."
+    }
+  ],
+  "url_video": ""
+}

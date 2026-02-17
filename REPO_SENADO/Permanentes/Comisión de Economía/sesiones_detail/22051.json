@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22051",
+  "id_comision": "187",
+  "nombre_comision": "Comisión de Economía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/187/22051",
+  "fecha_iso": "2025-10-14",
+  "ano": "2025",
+  "mes": "10",
+  "hora_inicio": "09:45",
+  "hora_termino": "11:03",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17117-03",
+      "tema": "Proyecto de ley que reconoce y fortalece a las ferias libres como pilar de la alimentación y el desarrollo local, otorgando un marco jurídico integral para ellas. Aspectos considerados: Se inició la discusión particular del referido proyecto de ley.",
+      "acuerdo": "Continuar en una próxima sesión. Integrantes: (Presidente) Senador Núñez Arancibia Daniel Senador Edwards Silva Rojo Senador Huenchumilla Jaramillo Francisco Senador Saavedra Chandía Gastón Senador Sanhueza Dueñas Gustavo",
+      "estado_punto": "",
+      "invitados_punto": "Ministerio de Economía, Fomento y Turismo: la Subsecretaria, señora Javiera Petersen; el Coordinador Legislativo, señor Juan Ignacio Bugueño; la asesora, señora Antonia Sánchez; el asesor, señor Gabriel Bravo. Otros asistentes: Los asesores de los parlamentarios, señora Rosario Álvarez y señores Diego González (Senador señor Rojo Edwards), y César Barra (Senador señor Gastón Saavedra).De la Secretaría General de la Presidencia, las asesoras, señoras Isidora Yáñez y Rosario Figueroa.De la Biblioteca del Congreso Nacional, la analista, señora Fabiola Cabrera.Del Comité PC, el asesor, señor Elías Mella.De la Fundación Jaime Guzmán, el asesor, señor Joaquín García.El asesor, señor Allonne Barra.La asesora, señora Melanie Moraga.De FETRACOM, el señor Arnaldo Romero.De la Coordinadora de Ferias Libres, el señor Mario Cornejo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Ministerio de Economía, Fomento y Turismo: la Subsecretaria, señora Javiera Petersen; el Coordinador Legislativo, señor Juan Ignacio Bugueño; la asesora, señora Antonia Sánchez; el asesor, señor Gabriel Bravo."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Los asesores de los parlamentarios, señora Rosario Álvarez y señores Diego González (Senador señor Rojo Edwards), y César Barra (Senador señor Gastón Saavedra).De la Secretaría General de la Presidencia, las asesoras, señoras Isidora Yáñez y Rosario Figueroa.De la Biblioteca del Congreso Nacional, la analista, señora Fabiola Cabrera.Del Comité PC, el asesor, señor Elías Mella.De la Fundación Jaime Guzmán, el asesor, señor Joaquín García.El asesor, señor Allonne Barra.La asesora, señora Melanie Moraga.De FETRACOM, el señor Arnaldo Romero.De la Coordinadora de Ferias Libres, el señor Mario Cornejo."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

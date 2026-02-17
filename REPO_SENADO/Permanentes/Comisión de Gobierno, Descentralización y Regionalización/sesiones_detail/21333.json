@@ -1,0 +1,39 @@
+{
+  "id_sesion": "21333",
+  "id_comision": "185",
+  "nombre_comision": "Comisión de Gobierno, Descentralización y Regionalización",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/185/21333",
+  "fecha_iso": "2025-04-08",
+  "ano": "2025",
+  "mes": "04",
+  "hora_inicio": "15:30",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "-A fin de presentar su renuncia a la Presidencia de la Comisión. Aspectos considerados: -A fin de presentar su renuncia a la Presidencia de la Comisión.",
+      "acuerdo": "Se presento la renuncia del Presidente de la Comisión y la elección de su reemplazo quedo pendiente para la próxima sesión. Integrantes: (Presidente) Senador Ossandón Irarrázabal Manuel José Senadora Ebensperger Orrego Luz Eliana Senador Kuschel Silva Carlos Ignacio Senador Velásquez Núñez Esteban Senadora Vodanovic Rojas Paulina",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

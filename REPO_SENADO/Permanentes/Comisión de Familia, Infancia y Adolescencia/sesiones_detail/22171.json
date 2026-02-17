@@ -1,0 +1,33 @@
+{
+  "id_sesion": "22171",
+  "id_comision": "1323",
+  "nombre_comision": "Comisión de Familia, Infancia y Adolescencia.",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1323/22171",
+  "fecha_iso": "2025-12-09",
+  "ano": "2025",
+  "mes": "12",
+  "hora_inicio": "11:15",
+  "hora_termino": "12:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16379-04",
+      "tema": "Regula las prestaciones de servicio de cuidado infantil Aspectos considerados: Se escuchó a las invitadas.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Campillai Rojas Fabiola Senador Van Rysselberghe Herrera Enrique Senador Walker Prieto Matías",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "De la Superintendencia de Educación: la Superintendenta, señora Loreto Orellana; la Jefa de la División de Protección de Derechos Educacionales, señora Marggie Muñoz; el Fiscal, señor Miguel Zarate; el Jefe del Departamento de Fiscalía, señor Nicolás Baeza y la encargada de comunicaciones, señora Cecilia Vargas. De la Subsecretaría de Educación Parvularia: la Subsecretaria, señora Claudia Lagos. Del Ministerio de Desarrollo Social y Familia: la Subsecretaria de la Niñez, señora Verónica Silva; la Jefa de Gabinete de la Subsecretaria, señora Francisca Marinakis y la asesora legislativa de la Ministra, señora Alena Gutiérrez. Otros asistentes: De la Biblioteca del Congreso Nacional: la analista investigadora, señora Paola Truffello, y los asesores de la Honorable Senadora señora Campillai, señor Hermes Ortega; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; del Comité Demócratas, señora Paz Anastasiadis; de la Fundación Jaime Guzmán, señor Juan José Llorente, y de la Secretaría General de la Presidencia (Segpres), señoras Ignacia Guzmán y María Lourdes Coy. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Desarrollo Social y Familia: la Subsecretaria de la Niñez, señora Verónica Silva; la Jefa de Gabinete de la Subsecretaria, señora Francisca Marinakis y la asesora legislativa de la Ministra, señora Alena Gutiérrez. Otros asistentes: De la Biblioteca del Congreso Nacional: la analista investigadora, señora Paola Truffello, y los asesores de la Honorable Senadora señora Campillai, señor Hermes Ortega; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; del Comité Demócratas, señora Paz Anastasiadis; de la Fundación Jaime Guzmán, señor Juan José Llorente, y de la Secretaría General de la Presidencia (Segpres), señoras Ignacia Guzmán y María Lourdes Coy. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

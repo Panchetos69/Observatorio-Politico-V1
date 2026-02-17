@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21747",
+  "id_comision": "199",
+  "nombre_comision": "Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/199/21747",
+  "fecha_iso": "2025-07-23",
+  "ano": "2025",
+  "mes": "07",
+  "hora_inicio": "10:00",
+  "hora_termino": "11:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17370-17",
+      "tema": "Proyecto de ley que regula la suspensión y el cumplimiento alternativo de penas privativas de libertad, para condenados que indica Aspectos considerados: Conocer la opinión de los invitados respecto de la iniciativa legal.",
+      "acuerdo": "Solicitar documento sobre políticas públicas penitenciarias elaborado por la Pontificia Universidad Católica de Chile. Se proseguirá el estudio de la iniciativa en la siguiente sesión. Integrantes: (Presidente) Senador Chahuán Chahuán Francisco Senadora Campillai Rojas Fabiola Senador Edwards Silva Rojo Senador Van Rysselberghe Herrera Enrique",
+      "estado_punto": "",
+      "invitados_punto": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. Por el Instituto Nacional de Derechos Humanos: el Director señor Yerko Ljubetic, y el Jefe de la Unidad de Protección de Derechos, Legislación y Justicia, señor David Bahamondes. La Doctora en Historia por Universidad de Stanford y Profesora titular Pontificia Universidad Católica y de la Universidad Diego Portales, señora Ana María Stuven. El Premio Nacional de Ciencias Sociales y Humanidades, señor José Rodríguez Elizondo. Otros asistentes: Por el Ministerio Secreraría General de la Presidencia: el asesor don Diego Castillo; por la Subsecretaría de Derechos Humanos: los abogados doña Valentina Parodi y don Sebastián Cabezas; por la Biblioteca del Congreso Nacional: el profesional don Jaime Rojas; por el Instituto Nacional de Derechos Humanos: el abogado don Nicolás del Fierro. Asesores de Parlamentarios: por el Senador señor Chahuán, doña Claudia Unicahuin (Zoom); por el Senador señor Van Rysselberghe, don Juan Carlos Morales; por el Senador señor Edwards, doña Valentina Saldaña y doña Claudia Hidalgo; por la Senadora señora Campillai, la asistente, señora Claudia Ahumada, y el Jefe de Gabinete, señor Pedro Carreño, y por el Comité RN, el coordinador, don Sebastián Amado, y don Octavio Tapia. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla. Por el Instituto Nacional de Derechos Humanos: el Director señor Yerko Ljubetic, y el Jefe de la Unidad de Protección de Derechos, Legislación y Justicia, señor David Bahamondes. La Doctora en Historia por Universidad de Stanford y Profesora titular Pontificia Universidad Católica y de la Universidad Diego Portales, señora Ana María Stuven. El Premio Nacional de Ciencias Sociales y Humanidades, señor José Rodríguez Elizondo."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio Secreraría General de la Presidencia: el asesor don Diego Castillo; por la Subsecretaría de Derechos Humanos: los abogados doña Valentina Parodi y don Sebastián Cabezas; por la Biblioteca del Congreso Nacional: el profesional don Jaime Rojas; por el Instituto Nacional de Derechos Humanos: el abogado don Nicolás del Fierro. Asesores de Parlamentarios: por el Senador señor Chahuán, doña Claudia Unicahuin (Zoom); por el Senador señor Van Rysselberghe, don Juan Carlos Morales; por el Senador señor Edwards, doña Valentina Saldaña y doña Claudia Hidalgo; por la Senadora señora Campillai, la asistente, señora Claudia Ahumada, y el Jefe de Gabinete, señor Pedro Carreño, y por el Comité RN, el coordinador, don Sebastián Amado, y don Octavio Tapia."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

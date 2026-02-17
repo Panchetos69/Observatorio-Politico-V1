@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22013",
+  "id_comision": "199",
+  "nombre_comision": "Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/199/22013",
+  "fecha_iso": "2025-10-07",
+  "ano": "2025",
+  "mes": "10",
+  "hora_inicio": "14:30",
+  "hora_termino": "15:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17370-17",
+      "tema": "Que regula la suspensión y el cumplimiento alternativo de penas privativas de libertad, para condenados que indica Aspectos considerados: Se votaron las indicaciones formuladas al proyecto.",
+      "acuerdo": "Despachado, pasa a Sala. Integrantes: (Presidente) Senador Chahuán Chahuán Francisco Senadora Campillai Rojas Fabiola Senador Edwards Silva Rojo Senador Van Rysselberghe Herrera Enrique Asistentes: Senadora Pascual Grau Claudia Senador Walker Prieto Matías",
+      "estado_punto": "DESPACHADO",
+      "invitados_punto": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla junto a la abogada señora Valentina Parodi. Otros asistentes: Por la Secretaria General de la Presidencia, las asesoras doña Vanessa Layana y Rosario Figueroa. Por la Biblioteca del Congreso Nacional, el profesional, señor Jaime Rojas. Asesores de Parlamentarios: por el Senador señor Chahuán, doña Claudia Unicahuin (Zoom); por la Senadora señora Campillai, la asistente de trayecto, señora Claudia Ahumada y el abogado señor Pedro Carrasco; por el Senador señor Van Rysselberghe, don Juan Pablo Morales; por la Senadora señora Pascual, Catalina Maillard; Walker; por el Senador señor Walker, don Ignacio Ortega; por el Comité de Renovación Nacional, el asesor, don Octavio Tapia; por el Comité Demócratas, doña Paz Anastasiad. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "La Subsecretaria de Derechos Humanos, señora Daniela Quintanilla junto a la abogada señora Valentina Parodi."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por la Secretaria General de la Presidencia, las asesoras doña Vanessa Layana y Rosario Figueroa. Por la Biblioteca del Congreso Nacional, el profesional, señor Jaime Rojas. Asesores de Parlamentarios: por el Senador señor Chahuán, doña Claudia Unicahuin (Zoom); por la Senadora señora Campillai, la asistente de trayecto, señora Claudia Ahumada y el abogado señor Pedro Carrasco; por el Senador señor Van Rysselberghe, don Juan Pablo Morales; por la Senadora señora Pascual, Catalina Maillard; Walker; por el Senador señor Walker, don Ignacio Ortega; por el Comité de Renovación Nacional, el asesor, don Octavio Tapia; por el Comité Demócratas, doña Paz Anastasiad."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

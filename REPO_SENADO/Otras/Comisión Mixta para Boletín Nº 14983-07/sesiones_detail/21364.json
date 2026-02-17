@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21364",
+  "id_comision": "1424",
+  "nombre_comision": "Comisión Mixta para Boletín Nº 14983-07",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1424/21364",
+  "fecha_iso": "2025-04-15",
+  "ano": "2025",
+  "mes": "04",
+  "hora_inicio": "09:30",
+  "hora_termino": "10:14",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "14983-07",
+      "tema": "Modifica diversos cuerpos legales, en lo relativo a las sanciones de los delitos de robo, hurto y receptación de cables de telecomunicaciones. Aspectos considerados: La Comisión eligió como su nuevo Presidente al Honorable Senador señor José Miguel Durana.",
+      "acuerdo": "Se inició el debate y votación de las propuestas. Continuará su estudio en la próxima sesión. Pendiente. Integrantes: (Presidente) Senador Durana Semir José Miguel Diputado Leiva Carvajal Raúl Diputado Longton Herrera Andrés Diputada Morales Alvarado Javiera Senadora Pascual Grau Claudia Senador Pugh Olavarría Kenneth Diputado Ramírez Pascal Matías",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "No hubo. Otros asistentes: Los asesores parlamentarios: del Senador Durana, señora Pamela Cousins y señor César Quiroga; de la Senadora Pascual, señor Roberto Carrasco; del Senador Pugh, señor Pascal de Smet, y de la Diputada Morales, señora Noemí Cid. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "No hubo."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Los asesores parlamentarios: del Senador Durana, señora Pamela Cousins y señor César Quiroga; de la Senadora Pascual, señor Roberto Carrasco; del Senador Pugh, señor Pascal de Smet, y de la Diputada Morales, señora Noemí Cid."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

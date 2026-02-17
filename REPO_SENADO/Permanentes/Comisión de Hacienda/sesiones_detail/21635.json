@@ -1,0 +1,57 @@
+{
+  "id_sesion": "21635",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21635",
+  "fecha_iso": "2025-06-18",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "10:10",
+  "hora_termino": "12:13",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Informe de Política Monetaria del Banco Central de Chile (IPOM). Aspectos considerados: La comisión recibió la presentación de la señora Presidenta del Banco Central de Chile. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Coloma Correa Juan Antonio en reemplazo de Macaya Danús Javier Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Asistentes: Senador Edwards Silva Rojo Senador Kuschel Silva Carlos Ignacio Senador Sandoval Plaza David",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "Del Banco Central de Chile, la Presidenta, señora Rosanna Costa; la Vicepresidenta, señora Stephany Griffith-Jones; el Consejero, señor Alberto Naudon; el Consejero, señor Luis Felipe Céspedes; el Consejero, señor Claudio Soto; el Gerente División de Política Monetaria, señor Elías Albagli; el Gerente División Política Financiera (i), señor Miguel Fuentes; el Gerente División de Asuntos Institucionales, señor Michel Moure; la Gerenta de Comunicaciones, señora Silvana Celedón y el profesional Gerencia de Informática, señor Fernando Coulón. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Kuschel, señor Alejandro Mera. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Del Banco Central de Chile, la Presidenta, señora Rosanna Costa; la Vicepresidenta, señora Stephany Griffith-Jones; el Consejero, señor Alberto Naudon; el Consejero, señor Luis Felipe Céspedes; el Consejero, señor Claudio Soto; el Gerente División de Política Monetaria, señor Elías Albagli; el Gerente División Política Financiera (i), señor Miguel Fuentes; el Gerente División de Asuntos Institucionales, señor Michel Moure; la Gerenta de Comunicaciones, señora Silvana Celedón y el profesional Gerencia de Informática, señor Fernando Coulón."
+    },
+    {
+      "nombre": "El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez."
+    },
+    {
+      "nombre": "Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández."
+    },
+    {
+      "nombre": "El asesor del Honorable Senador Kuschel, señor Alejandro Mera."
+    },
+    {
+      "nombre": "El asesor del Honorable Senador Lagos, señor Reinaldo Monardes."
+    },
+    {
+      "nombre": "De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

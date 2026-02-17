@@ -1,0 +1,39 @@
+{
+  "id_sesion": "21298",
+  "id_comision": "187",
+  "nombre_comision": "Comisión de Economía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/187/21298",
+  "fecha_iso": "2025-03-25",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "17:00",
+  "hora_termino": "17:30",
+  "lugar": "",
+  "estado": "FRACASADA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16566-03",
+      "tema": "Proyecto de ley que establece una Ley Marco de Autorizaciones Sectoriales e introduce modificaciones en cuerpos legales que indica. Aspectos considerados: Continuar con el estudio del referido proyecto de ley. Integrantes: (Presidente) Senador Edwards Silva Rojo",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

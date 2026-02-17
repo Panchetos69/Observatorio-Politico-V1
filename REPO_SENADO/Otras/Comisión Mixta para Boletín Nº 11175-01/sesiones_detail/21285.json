@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21285",
+  "id_comision": "1427",
+  "nombre_comision": "Comisión Mixta para Boletín Nº 11175-01",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1427/21285",
+  "fecha_iso": "2025-03-25",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "17:30",
+  "hora_termino": "18:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "11175-01",
+      "tema": "Proyecto de ley que crea el Servicio Nacional Forestal y modifica la Ley General de Urbanismo y Construcciones Aspectos considerados: analizar y votar la propuesta que se determine, para el cumplimiento de su cometido. Invitado: El Ministro de Agricultura, señor Esteban Valenzuela.",
+      "acuerdo": "La Comisión Mixta votó una propuesta presentada por el Ejecutivo y resultó rechazada; luego, se votó conservar la redacción emanada del Senado en segundo trámite constitucional, que fue aprobada por por 7 votos a favor y 2 en contra. La propuesta para a la Sala de la Cámara de Diputados y a la Sala del Senado. Integrantes: Senadora Aravena Acuña Carmen Gloria Diputado Donoso Castro Felipe Senador Durana Semir José Miguel Diputado Melo Contreras Daniel Senador Prohens Espinosa Rafael Diputado Rathgeb Schifferli Jorge Senador Saavedra Chandía Gastón en reemplazo de Vodanovic Rojas Paulina Senadora Sepúlveda Orbenes Alejandra Diputado Sáez Quiroz Jaime",
+      "estado_punto": "",
+      "invitados_punto": "El Ministro de Agricultura, señor Esteban Valenzuela, y sus asesores, señora Catalina Núñez y señor Fabián Luengo. De la Corporación Nacional Forestal: la Directora Ejecutiva, señora Aida Baldini; el Fiscal, señor Daniel Correa, y el asesor, señor Maximiliano Guiñez. Por el Ministerio de Medio Ambiente: el Ministro (s), señor Maximiliano Proaño, y la asesora, señora Rocío Fondón. Por el Ministerio de Agricultura; la jefa de Comunicaciones, doña Paola Passig, y el fotógrafo, señor Marcelo Álvarez. Representantes de Sindicatos de Conaf: la Directora de Fenasic, doña Mónica Muñoz; el director, don Hugo Lucero; la Directora, doña Paulina Reyes; la Presidenta de la Novena Región, doña Guillermina Lobo; el Secretario, don Osvaldo Herrera; el Director, señor Marcelo Pérez; el señor Eduardo Caro; la Presidenta de las regiones del Biobío y Ñuble, señora Ana Méndez. Otros asistentes: Por el Ministerio Secretaría General de la Presidencia: el asesor, don Miguel Ángel Vergara. Por la Biblioteca del Congreso Nacional: el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Mauricio Vásquez; del Senador señor Saavedra, don Mauricio Galaz; del Senador señor García, don Rodrigo Munita; del Diputado señor Rathgeb, don Hernán Maturana; por el Comité RN, el señor Sebastián Amado; por la Fundación Jaime Guzmán, don Juan José Llorente; por Ideas Republicanas, doña Constanza Tirado; por la Bancada del Partido Comunista, el señor Cristián Cataldo. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "El Ministro de Agricultura, señor Esteban Valenzuela, y sus asesores, señora Catalina Núñez y señor Fabián Luengo. De la Corporación Nacional Forestal: la Directora Ejecutiva, señora Aida Baldini; el Fiscal, señor Daniel Correa, y el asesor, señor Maximiliano Guiñez. Por el Ministerio de Medio Ambiente: el Ministro (s), señor Maximiliano Proaño, y la asesora, señora Rocío Fondón. Por el Ministerio de Agricultura; la jefa de Comunicaciones, doña Paola Passig, y el fotógrafo, señor Marcelo Álvarez. Representantes de Sindicatos de Conaf: la Directora de Fenasic, doña Mónica Muñoz; el director, don Hugo Lucero; la Directora, doña Paulina Reyes; la Presidenta de la Novena Región, doña Guillermina Lobo; el Secretario, don Osvaldo Herrera; el Director, señor Marcelo Pérez; el señor Eduardo Caro; la Presidenta de las regiones del Biobío y Ñuble, señora Ana Méndez."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio Secretaría General de la Presidencia: el asesor, don Miguel Ángel Vergara. Por la Biblioteca del Congreso Nacional: el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Mauricio Vásquez; del Senador señor Saavedra, don Mauricio Galaz; del Senador señor García, don Rodrigo Munita; del Diputado señor Rathgeb, don Hernán Maturana; por el Comité RN, el señor Sebastián Amado; por la Fundación Jaime Guzmán, don Juan José Llorente; por Ideas Republicanas, doña Constanza Tirado; por la Bancada del Partido Comunista, el señor Cristián Cataldo."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

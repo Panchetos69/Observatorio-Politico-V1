@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21634",
+  "id_comision": "198",
+  "nombre_comision": "Comisión de Transportes y Telecomunicaciones",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/198/21634",
+  "fecha_iso": "2025-06-18",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "09:30",
+  "hora_termino": "11:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "14532-15",
+      "tema": "Modifica la Ley de Fomento a la Marina Mercante y la Ley de Navegación, para fomentar la competencia en el mercado del cabotaje marítimo Aspectos considerados: Se escuchó a los invitados.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senador Kusanovic Glusevic Alejandro Senador Saavedra Chandía Gastón en reemplazo de Castro González Juan Luis Senador Van Rysselberghe Herrera Enrique Senador Walker Prieto Matías",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "De la Asociación Gremial de Armadores del Transporte Marítimo, Fluvial, Lacustre y Turístico Sur Austral (ARMASUR): el Director, señor Jaime Jonshon y el Gerente General, señor Manuel Bagnara. - Del Consejo Superior del Transporte y del Sindicato Interempresas de Conductores de Chile (SITRACH): el Gerente, señor Carlos Salazar y el Director, señor Iván Mateluna. - De la Asociación Nacional de Armadores de Chile (ANA): el Gerente, señor Ricardo Tejada. - De la Cámara Aduanera: el Vicepresidente, señor Jorge Mac Ginty; el Gerente General, señor Sergio Cabezas y la Asesora Legal, señora Elsa Cerda. - Del Sindicato Interempresa de Oficiales de Marina Mercante (SI.MAR): los Directores, señores Francisco Durán y Gustavo Zúñiga. - Del Ministerio de Economía, Fomento y Turismo: el Ministro, señor Nicolás Grau; la Jefa de División de Competencia y Mejora Regulatoria, señora Fernanda Campos; el Asesor, Legislativo, señor Gabriel Bravo y la Jefa de Comunicaciones, señora Francisca Herrera. Del Ministerio de Transportes y Telecomunicaciones: el Coordinador Legislativo del Ministro, señor Felipe González. Otros asistentes: De la Biblioteca del Congreso Nacional (BCN): la Investigadora del Área de Recursos Naturales, Ciencia y Tecnología, señora Claudia Cuevas y el analista, señor Nicolás García; de la Asociación Chilena de Municipalidades: el Director de seguimiento legislativo, señor Miguel Moreno, y los asesores del Honorable Senador señor Kusanovic, señores Sebastián Urrea y Benjamín Rodríguez; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; del Honorable Senador señor Saavedra, señor Luis Batallé; del Comité Partido Demócratas, señora Paz Anastasiadis; de la Fundación Jaime Guzmán, señor Joaquín García, y de la Secretaría General de la Presidencia (Segpres), señor Carlos Ortega. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Economía, Fomento y Turismo: el Ministro, señor Nicolás Grau; la Jefa de División de Competencia y Mejora Regulatoria, señora Fernanda Campos; el Asesor, Legislativo, señor Gabriel Bravo y la Jefa de Comunicaciones, señora Francisca Herrera."
+    },
+    {
+      "bloque": "Del Ministerio de Transportes y Telecomunicaciones: el Coordinador Legislativo del Ministro, señor Felipe González. Otros asistentes: De la Biblioteca del Congreso Nacional (BCN): la Investigadora del Área de Recursos Naturales, Ciencia y Tecnología, señora Claudia Cuevas y el analista, señor Nicolás García; de la Asociación Chilena de Municipalidades: el Director de seguimiento legislativo, señor Miguel Moreno, y los asesores del Honorable Senador señor Kusanovic, señores Sebastián Urrea y Benjamín Rodríguez; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; del Honorable Senador señor Saavedra, señor Luis Batallé; del Comité Partido Demócratas, señora Paz Anastasiadis; de la Fundación Jaime Guzmán, señor Joaquín García, y de la Secretaría General de la Presidencia (Segpres), señor Carlos Ortega. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

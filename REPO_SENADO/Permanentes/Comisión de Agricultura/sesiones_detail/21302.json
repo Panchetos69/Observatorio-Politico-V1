@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21302",
+  "id_comision": "192",
+  "nombre_comision": "Comisión de Agricultura",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/192/21302",
+  "fecha_iso": "2025-03-26",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "11:00",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16193-01",
+      "tema": "Proyecto de ley que modifica el Código de Aguas, con el objeto de facilitar la construcción de tranques de uso agrícola Aspectos considerados: votar el proyecto de ley, en particular. Invitado: El Ministro de Agricultura, señor Esteban Valenzuela.",
+      "acuerdo": "Se aprobó una indicación formulada por los miembros presentes de la Comisión, con acuerdo del Ejecutivo. Aprobado 3 por 1 abstención. Pasa a la Sala. Integrantes: (Presidente) Senador Prohens Espinosa Rafael Senadora Aravena Acuña Carmen Gloria Senador Durana Semir José Miguel Senadora Vodanovic Rojas Paulina",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "El Ministro de Agricultura, señor Esteban Valenzuela, y la asesora legislativa, señora Catalina Núñez. El Director Ejecutivo de la Comisión Nacional de Riego, señor Wilson Ureta. Por la Dirección General de Aguas, la asesora legislativa, señora María Graciela Veas. Otros asistentes: Por el Ministerio de Agricultura, el fotógrafo, don Marcelo Álvarez. Por el Ministerio de Obas Públicas: el asesor, señor Tomás Mendoza. Por el Ministerio Secretaria General de la Presidencia: el asesor, don Daniel Olivares. Por la Biblioteca del Congreso Nacional: el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Aravena, doña Carmen Castañaza (zoom), y doña Constanza Tirado; del Senador señor Durana, doña Pamela Cousins y don César Quiroga. Por el Comité RN, el señor Sebastián Amado. Por el Comité UDI, don Juan José Llorente. Por el Comité Republicano, doña Andrea González. Por el Comité Socialista, don Javier Sutil. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "El Ministro de Agricultura, señor Esteban Valenzuela, y la asesora legislativa, señora Catalina Núñez. El Director Ejecutivo de la Comisión Nacional de Riego, señor Wilson Ureta. Por la Dirección General de Aguas, la asesora legislativa, señora María Graciela Veas."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio de Agricultura, el fotógrafo, don Marcelo Álvarez. Por el Ministerio de Obas Públicas: el asesor, señor Tomás Mendoza. Por el Ministerio Secretaria General de la Presidencia: el asesor, don Daniel Olivares. Por la Biblioteca del Congreso Nacional: el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Aravena, doña Carmen Castañaza (zoom), y doña Constanza Tirado; del Senador señor Durana, doña Pamela Cousins y don César Quiroga. Por el Comité RN, el señor Sebastián Amado. Por el Comité UDI, don Juan José Llorente. Por el Comité Republicano, doña Andrea González. Por el Comité Socialista, don Javier Sutil."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

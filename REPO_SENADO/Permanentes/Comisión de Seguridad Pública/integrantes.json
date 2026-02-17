@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Seguridad Pública",
+  "id": "615",
+  "integrantes": [
+    {
+      "nombre": "José Miguel  Durana Semir",
+      "cargo": "",
+      "id": "jose-miguel-durana-semir-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/jose-miguel-durana-semir-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Iván Moreira Barros",
+      "cargo": "",
+      "id": "ivan-moreira-barros-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/ivan-moreira-barros-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Claudia Pascual Grau",
+      "cargo": "",
+      "id": "claudia-pascual-grau-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/claudia-pascual-grau-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Kenneth Pugh Olavarría",
+      "cargo": "",
+      "id": "kenneth-pugh-olavarria-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/kenneth-pugh-olavarria-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Paulina Vodanovic Rojas",
+      "cargo": "",
+      "id": "paulina-vodanovic-rojas-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/paulina-vodanovic-rojas-sen",
+      "chamber": "senado"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id_sesion": "21421",
+  "id_comision": "192",
+  "nombre_comision": "Comisión de Agricultura",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/192/21421",
+  "fecha_iso": "2025-05-05",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "12:00",
+  "hora_termino": "13:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Recibir al Subsecretario de Bienes Nacionales, señor Sebastián Vergara, para tratar el alza de los avalúos de los inmuebles rurales. Aspectos considerados: Se escuchó al Subsecretario, que se comprometió a enviar una simulación de los beneficios.",
+      "acuerdo": "Oficiar al alcalde de Ñiquén por la celebración de la fiesta del arroz. Oficiar al Ministerio de Agricultura a fin de solicitar que se asignen recursos y se gestione el registro internacional de los embutidos de la Región de Ñuble. Integrantes: (Presidente Accidental) Senadora Carvajal Ambiado Loreto Senadora Aravena Acuña Carmen Gloria Senador Coloma Correa Juan Antonio en reemplazo de Sepúlveda Orbenes Alejandra Senador Durana Semir José Miguel Asistentes: Senador García Ruminot José",
+      "estado_punto": "",
+      "invitados_punto": "Por el Ministerio de Agricultura: el Ministro señor Esteban Valenzuela y la asesora señora Catalina Núñez; por el Ministerio de Bienes Nacionales: el Subsecretario, señor Sebastián Vergara, el jefe de división, señor Pablo Maino, y el asesor legislativo, señor Luis Felipe Sepúlveda. El académico de la Universidad de Chile, señor Claus Kobrich. Otros asistentes: Por el Ministerio de Agricultura: el fotógrafo, señor Marcelo Álvarez; por el Ministerio de Bienes Nacionales: el audiovisual, señor Luigi Alonzo; Por la Biblioteca del Congreso Nacional: el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Aravena, don Claudio Pimentel y la periodista, doña Monser Rojas; de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Francisco Yáñez; del Senador señor Durana, don César Quiroga. Por el Comité UDI, doña Macarena Cox y doña Cristina Pinochet."
+    },
+    {
+      "numero": 2,
+      "boletin": "14673-11",
+      "tema": "Proyecto de ley que modifica el Código Sanitario, con el objeto de establecer normas sobre la trazabilidad del huevo y la certificación de huevos de gallina feliz o libre. Aspectos considerados: Se escuchó a los académicos invitados a la sesión.",
+      "acuerdo": "Se continuará con el análisis del proyecto de ley en la siguiente sesión para la que se solicitó al Ejecutivo plantear un procedimiento de certificación para los productores de huevo. Integrantes: (Presidente Accidental) Senadora Carvajal Ambiado Loreto (Presidente) Senadora Sepúlveda Orbenes Alejandra Senadora Aravena Acuña Carmen Gloria Senador Durana Semir José Miguel Asistentes: Senador García Ruminot José",
+      "estado_punto": "",
+      "invitados_punto": "Por el Ministerio de Agricultura: el Ministro señor Esteban Valenzuela y la asesora señora Catalina Núñez; El académico de la Universidad de Chile, señor Claus Kobrich; la académica de la Universidad de Concepción, señora Pamela Williams. Otros asistentes: Por el Ministerio de Agricultura: el fotógrafo, señor Marcelo Álvarez; Por la Biblioteca del Congreso Nacional: el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Aravena, don Claudio Pimentel y la periodista, doña Monserrat Rojas; de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Francisco Gómez; del Senador señor Durana, don César Quiroga. Por el Comité UDI, doña Macarena Cox y doña Cristina Pinochet. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Por el Ministerio de Agricultura: el Ministro señor Esteban Valenzuela y la asesora señora Catalina Núñez; por el Ministerio de Bienes Nacionales: el Subsecretario, señor Sebastián Vergara, el jefe de división, señor Pablo Maino, y el asesor legislativo, señor Luis Felipe Sepúlveda. El académico de la Universidad de Chile, señor Claus Kobrich."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio de Agricultura: el fotógrafo, señor Marcelo Álvarez; por el Ministerio de Bienes Nacionales: el audiovisual, señor Luigi Alonzo; Por la Biblioteca del Congreso Nacional: el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Aravena, don Claudio Pimentel y la periodista, doña Monser Rojas; de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Francisco Yáñez; del Senador señor Durana, don César Quiroga. Por el Comité UDI, doña Macarena Cox y doña Cristina Pinochet."
+    },
+    {
+      "nombre": "Punto 2"
+    },
+    {
+      "nombre": "Boletin:"
+    },
+    {
+      "nombre": "14673-11"
+    },
+    {
+      "nombre": "Proyecto de ley que modifica el Código Sanitario, con el objeto de establecer normas sobre la trazabilidad del huevo y la certificación de huevos de gallina feliz o libre."
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "Se escuchó a los académicos invitados a la sesión."
+    },
+    {
+      "nombre": "Acuerdos:"
+    },
+    {
+      "nombre": "Se continuará con el análisis del proyecto de ley en la siguiente sesión para la que se solicitó al Ejecutivo plantear un procedimiento de certificación para los productores de huevo."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente Accidental) Senadora Carvajal Ambiado Loreto"
+    },
+    {
+      "nombre": "(Presidente) Senadora Sepúlveda Orbenes Alejandra"
+    },
+    {
+      "nombre": "Senadora Aravena Acuña Carmen Gloria"
+    },
+    {
+      "nombre": "Senador Durana Semir José Miguel"
+    },
+    {
+      "nombre": "Asistentes:"
+    },
+    {
+      "nombre": "Senador García Ruminot José"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "Por el Ministerio de Agricultura: el Ministro señor Esteban Valenzuela y la asesora señora Catalina Núñez; El académico de la Universidad de Chile, señor Claus Kobrich; la académica de la Universidad de Concepción, señora Pamela Williams."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio de Agricultura: el fotógrafo, señor Marcelo Álvarez; Por la Biblioteca del Congreso Nacional: el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Aravena, don Claudio Pimentel y la periodista, doña Monserrat Rojas; de la Senadora señora Sepúlveda, don Hermes Gutiérrez y don Francisco Gómez; del Senador señor Durana, don César Quiroga. Por el Comité UDI, doña Macarena Cox y doña Cristina Pinochet."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

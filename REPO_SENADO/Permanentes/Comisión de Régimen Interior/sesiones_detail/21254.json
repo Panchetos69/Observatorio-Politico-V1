@@ -1,0 +1,42 @@
+{
+  "id_sesion": "21254",
+  "id_comision": "201",
+  "nombre_comision": "Comisión de Régimen Interior",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/201/21254",
+  "fecha_iso": "2025-03-17",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "16:44",
+  "hora_termino": "17:52",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Tratar asuntos propios de su competencia. Aspectos considerados: Tratar asuntos propios de su competencia. Integrantes: (Presidente) Senador García Ruminot José Senador Moreira Barros Iván en reemplazo de Sandoval Plaza David Senador Prohens Espinosa Rafael Senadora Provoste Campillay Yasna Senador Quintana Leal Jaime Senador Saavedra Chandía Gastón en reemplazo de Castro González Juan Luis Senador Walker Prieto Matías Asistentes: Senadora Vodanovic Rojas Paulina",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "El Prosecretario y Tesorero (S) del Senado, señor Andrés Salas Amaya; el Contralor y Jefe de Asesoría Jurídica y Transparencia del Senado, señor Juan Pablo Montes Mery; la Jefa del Departamento de Administración del Senado, señora Ximena Amigo López, y el Director de la Unidad de Relaciones Internacionales del Senado, señor Juan Oses Moya. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "El Prosecretario y Tesorero (S) del Senado, señor Andrés Salas Amaya; el Contralor y Jefe de Asesoría Jurídica y Transparencia del Senado, señor Juan Pablo Montes Mery; la Jefa del Departamento de Administración del Senado, señora Ximena Amigo López, y el Director de la Unidad de Relaciones Internacionales del Senado, señor Juan Oses Moya."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

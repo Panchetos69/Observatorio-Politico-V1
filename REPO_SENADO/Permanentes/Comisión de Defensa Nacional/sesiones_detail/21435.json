@@ -1,0 +1,89 @@
+{
+  "id_sesion": "21435",
+  "id_comision": "190",
+  "nombre_comision": "Comisión de Defensa Nacional",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/190/21435",
+  "fecha_iso": "2025-05-06",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "12:30",
+  "hora_termino": "14:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Tratar materias propias de competencia de la Comisión. Aspectos considerados: La instancia legislativa abordó asuntos de su interés.",
+      "acuerdo": "Esta parte de la sesión fue declarada secreta. Integrantes: (Presidente) Senador Macaya Danús Javier Senador Ossandón Irarrázabal Manuel José Senador Pugh Olavarría Kenneth Senador Saavedra Chandía Gastón",
+      "estado_punto": "",
+      "invitados_punto": "DEL MINISTERIO DE DEFENSA NACIONAL: Ministra, señora Adriana Delpiano, y Subsecretario de Defensa, señor Ricardo Montero. DEL EJÉRCITO DE CHILE: Comandante en Jefe (s), General de División, señor Rodrigo Pino; Auditor General, General de Brigada, señor Eduardo Rosso, y Coronel, señor Nelson Cantillana."
+    },
+    {
+      "numero": 2,
+      "boletin": "",
+      "tema": "Escuchar la exposición del Comandante en Jefe de la Armada acerca de la prospectiva integrada y proyección presupuestaria de la construcción naval en Chile. Aspectos considerados: La Comisión recibió en audiencia al Comandante en Jefe de la Armada, quien se refirió al asunto mencionado.",
+      "acuerdo": "Esta parte de la sesión fue declarada secreta. Integrantes: (Presidente) Senador Macaya Danús Javier Senador Ossandón Irarrázabal Manuel José Senador Pugh Olavarría Kenneth Senador Saavedra Chandía Gastón",
+      "estado_punto": "",
+      "invitados_punto": "DEL MINISTERIO DE DEFENSA NACIONAL: Ministra, señora Adriana Delpiano, y Subsecretario de Defensa, señor Ricardo Montero. DE LA ARMADA DE CHILE: Comandante en Jefe, Almirante, señor Juan Andrés De La Maza; Secretario General, Contraalmirante, señor Raúl Silva, y Director de Planificación del Estado Mayor General de la Armada, Contraalmirante, señor José Agustín Pájaro. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DE DEFENSA NACIONAL: Ministra, señora Adriana Delpiano, y Subsecretario de Defensa, señor Ricardo Montero. DEL EJÉRCITO DE CHILE: Comandante en Jefe (s), General de División, señor Rodrigo Pino; Auditor General, General de Brigada, señor Eduardo Rosso, y Coronel, señor Nelson Cantillana."
+    },
+    {
+      "nombre": "Punto 2"
+    },
+    {
+      "nombre": "Escuchar la exposición del Comandante en Jefe de la Armada acerca de la prospectiva integrada y proyección presupuestaria de la construcción naval en Chile."
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "La Comisión recibió en audiencia al Comandante en Jefe de la Armada, quien se refirió al asunto mencionado."
+    },
+    {
+      "nombre": "Acuerdos:"
+    },
+    {
+      "nombre": "Esta parte de la sesión fue declarada secreta."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente) Senador Macaya Danús Javier"
+    },
+    {
+      "nombre": "Senador Ossandón Irarrázabal Manuel José"
+    },
+    {
+      "nombre": "Senador Pugh Olavarría Kenneth"
+    },
+    {
+      "nombre": "Senador Saavedra Chandía Gastón"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "DEL MINISTERIO DE DEFENSA NACIONAL: Ministra, señora Adriana Delpiano, y Subsecretario de Defensa, señor Ricardo Montero. DE LA ARMADA DE CHILE: Comandante en Jefe, Almirante, señor Juan Andrés De La Maza; Secretario General, Contraalmirante, señor Raúl Silva, y Director de Planificación del Estado Mayor General de la Armada, Contraalmirante, señor José Agustín Pájaro."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

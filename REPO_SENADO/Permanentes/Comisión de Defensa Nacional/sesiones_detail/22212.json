@@ -1,0 +1,110 @@
+{
+  "id_sesion": "22212",
+  "id_comision": "190",
+  "nombre_comision": "Comisión de Defensa Nacional",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/190/22212",
+  "fecha_iso": "2025-12-16",
+  "ano": "2025",
+  "mes": "12",
+  "hora_inicio": "12:30",
+  "hora_termino": "14:15",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16143-02",
+      "tema": "Proyecto de ley, en primer trámite constitucional, para la protección de la infraestructura crítica del país. Aspectos considerados: La Comisión continuó el estudio de las indicaciones presentadas a la iniciativa legal de la referencia.",
+      "acuerdo": "Proseguir su análisis en una próxima sesión. Integrantes: (Presidente) Senador Macaya Danús Javier Senador Flores García Iván Senador Ossandón Irarrázabal Manuel José Senador Pugh Olavarría Kenneth Senador Saavedra Chandía Gastón",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "DEL MINISTERIO DE DEFENSA NACIONAL: Subsecretario de Defensa, señor Ricardo Montero, y Jefe del Departamento de Auditoria Interna, señor Rodrigo Muñoz. DEL MINISTERIO DEL INTERIOR: coordinadora legislativa, señora Laura Mancilla. Otros asistentes: DEL MINISTERIO DEL INTERIOR: asesora legislativa, señora Alexandra Álvarez. DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesores, señores Daniel Olivares y Javier Sutil. ASESORES LEGISLATIVOS: del Honorable Senador Flores, señora Carolina Allende; del Honorable Senador Macaya, señora Karelyn Luttecke; del Honorable Senador Ossandón, señora Carmen Castañaza; del Honorable Senador Pugh, señor Allonne Barra, y del Honorable Senador Saavedra, señor César Barra. DEL COMITÉ PARTIDO RENOVACIÓN NACIONAL E INDEPENDIENTES: coordinador legislativo, señor Ronald Von Der Weth (vía telemática). DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señora Bárbara Horzella y señor Juan Pablo Jarufe."
+    },
+    {
+      "numero": 2,
+      "boletin": "15346-12",
+      "tema": "Proyecto de ley, en primer trámite constitucional, que modifica el Decreto Ley N° 1939, de 1977, sobre normas de adquisición, administración y disposición de bienes del Estado, con el objeto de que se informe sobre la situación de los bienes destinados que se indican. Aspectos considerados: La Comisión continuó el examen de la propuesta legal mencionada.",
+      "acuerdo": "Proseguir su estudio en una próxima sesión. Integrantes: (Presidente) Senador Macaya Danús Javier Senador Flores García Iván Senador Ossandón Irarrázabal Manuel José Senador Pugh Olavarría Kenneth Senador Saavedra Chandía Gastón",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "DEL MINISTERIO DE DEFENSA NACIONAL: Ministra, señora Adriana Delpiano, y coordinadora legislativa, señora Leslie Sánchez. DEL EJÉRCITO DE CHILE: asesor jurídico de la Comandancia en Jefe, Coronel, señor Eduardo Escanilla. DE LA ARMADA DE CHILE: Auditor General, Contraalmirante, JT, señor Francisco Figueroa. DE LA FUERZA AÉREA DE CHILE: Auditor General, General de Brigada Aérea (J), señora Paula Carrasco. DEL MINISTERIO DE BIENES NACIONALES: Ministro, señor Franscisco Figueroa. Otros asistentes: DEL MINISTERIO DEL INTERIOR: asesora legislativa, señora Alexandra Álvarez. DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesores, señores Daniel Olivares y Javier Sutil. DEL MINISTERIO DE BIENES NACIONALES: asesor, señor Luis Sepúlveda. ASESORES LEGISLATIVOS: del Honorable Senador Flores, señora Carolina Allende; del Honorable Senador Macaya, señora Karelyn Luttecke; del Honorable Senador Ossandón, señora Carmen Castañaza; del Honorable Senador Pugh, señor Allonne Barra, y del Honorable Senador Saavedra, señor César Barra. DEL COMITÉ PARTIDO RENOVACIÓN NACIONAL E INDEPENDIENTES: coordinador legislativo, señor Ronald Von Der Weth (vía telemática). DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señora Bárbara Horzella y señor Juan Pablo Jarufe. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DE DEFENSA NACIONAL: Subsecretario de Defensa, señor Ricardo Montero, y Jefe del Departamento de Auditoria Interna, señor Rodrigo Muñoz. DEL MINISTERIO DEL INTERIOR: coordinadora legislativa, señora Laura Mancilla."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO DEL INTERIOR: asesora legislativa, señora Alexandra Álvarez. DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesores, señores Daniel Olivares y Javier Sutil. ASESORES LEGISLATIVOS: del Honorable Senador Flores, señora Carolina Allende; del Honorable Senador Macaya, señora Karelyn Luttecke; del Honorable Senador Ossandón, señora Carmen Castañaza; del Honorable Senador Pugh, señor Allonne Barra, y del Honorable Senador Saavedra, señor César Barra. DEL COMITÉ PARTIDO RENOVACIÓN NACIONAL E INDEPENDIENTES: coordinador legislativo, señor Ronald Von Der Weth (vía telemática). DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señora Bárbara Horzella y señor Juan Pablo Jarufe."
+    },
+    {
+      "nombre": "Punto 2"
+    },
+    {
+      "nombre": "Boletin:"
+    },
+    {
+      "nombre": "15346-12"
+    },
+    {
+      "nombre": "Proyecto de ley, en primer trámite constitucional, que modifica el Decreto Ley N° 1939, de 1977, sobre normas de adquisición, administración y disposición de bienes del Estado, con el objeto de que se informe sobre la situación de los bienes destinados que se indican."
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "La Comisión continuó el examen de la propuesta legal mencionada."
+    },
+    {
+      "nombre": "Acuerdos:"
+    },
+    {
+      "nombre": "Proseguir su estudio en una próxima sesión."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente) Senador Macaya Danús Javier"
+    },
+    {
+      "nombre": "Senador Flores García Iván"
+    },
+    {
+      "nombre": "Senador Ossandón Irarrázabal Manuel José"
+    },
+    {
+      "nombre": "Senador Pugh Olavarría Kenneth"
+    },
+    {
+      "nombre": "Senador Saavedra Chandía Gastón"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "DEL MINISTERIO DE DEFENSA NACIONAL: Ministra, señora Adriana Delpiano, y coordinadora legislativa, señora Leslie Sánchez. DEL EJÉRCITO DE CHILE: asesor jurídico de la Comandancia en Jefe, Coronel, señor Eduardo Escanilla. DE LA ARMADA DE CHILE: Auditor General, Contraalmirante, JT, señor Francisco Figueroa. DE LA FUERZA AÉREA DE CHILE: Auditor General, General de Brigada Aérea (J), señora Paula Carrasco. DEL MINISTERIO DE BIENES NACIONALES: Ministro, señor Franscisco Figueroa."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO DEL INTERIOR: asesora legislativa, señora Alexandra Álvarez. DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesores, señores Daniel Olivares y Javier Sutil. DEL MINISTERIO DE BIENES NACIONALES: asesor, señor Luis Sepúlveda. ASESORES LEGISLATIVOS: del Honorable Senador Flores, señora Carolina Allende; del Honorable Senador Macaya, señora Karelyn Luttecke; del Honorable Senador Ossandón, señora Carmen Castañaza; del Honorable Senador Pugh, señor Allonne Barra, y del Honorable Senador Saavedra, señor César Barra. DEL COMITÉ PARTIDO RENOVACIÓN NACIONAL E INDEPENDIENTES: coordinador legislativo, señor Ronald Von Der Weth (vía telemática). DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señora Bárbara Horzella y señor Juan Pablo Jarufe."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21737",
+  "id_comision": "195",
+  "nombre_comision": "Comisión de Salud",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/195/21737",
+  "fecha_iso": "2025-07-22",
+  "ano": "2025",
+  "mes": "07",
+  "hora_inicio": "09:30",
+  "hora_termino": "11:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17003-11",
+      "tema": "Proyecto de ley que establece la ley integral de salud mental y modifica los cuerpos legales que indica. Aspectos considerados: Continuó la discusión y votación de las indicaciones presentadas al proyecto de ley.",
+      "acuerdo": "Continuar la votación de las indicaciones pendiente, en una próxima sesión. Integrantes: (Presidente) Senador Flores García Iván Senador Castro González Juan Luis Senador Gahona Salazar Sergio Senadora Ordenes Neira Ximena",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "La Ministra de Salud, Dra. Ximena Aguilera. La Subsecretaria de Salud Pública, señora Andrea Albagli. Otros asistentes: Del Ministerio de Salud: la Jefa de Gabinete de la Ministra de Salud, señora Javiera Menay; la Jefa del Departamento de Salud Mental, señora Javiera Erazo; el Coordinador Legislativo, señor Cristian Miquel, y el Asesor, señor Julio Muñoz.De la Subsecretaría de Salud Pública: la Asesora del Gabinete, señora Evelyn Reyes.Del Ministerio Secretaría General de la Presidencia: el Asesor, señor Cristian Vargas.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende, y señor Mauricio Vásquez.Los Asesores del Senador Sergio Gahona, señores Cristian Livingstone, y Benjamín Rug.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores, y Jonatan Sepúlveda.Los Asesores del Senador Juan Luis Castro, señoras Teresita Fabres, y Meggy López, y señor Arturo León.El Asesor del Senador Gastón Saavedra, señor Luis Batallé.La Asesora del Comité PPD, señora Paulin Silva. De la Fundación Jaime Guzmán: el Asesor, señor Arturo Hasbún. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Salud: la Jefa de Gabinete de la Ministra de Salud, señora Javiera Menay; la Jefa del Departamento de Salud Mental, señora Javiera Erazo; el Coordinador Legislativo, señor Cristian Miquel, y el Asesor, señor Julio Muñoz.De la Subsecretaría de Salud Pública: la Asesora del Gabinete, señora Evelyn Reyes.Del Ministerio Secretaría General de la Presidencia: el Asesor, señor Cristian Vargas.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende, y señor Mauricio Vásquez.Los Asesores del Senador Sergio Gahona, señores Cristian Livingstone, y Benjamín Rug.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores, y Jonatan Sepúlveda.Los Asesores del Senador Juan Luis Castro, señoras Teresita Fabres, y Meggy López, y señor Arturo León.El Asesor del Senador Gastón Saavedra, señor Luis Batallé.La Asesora del Comité PPD, señora Paulin Silva. De la Fundación Jaime Guzmán: el Asesor, señor Arturo Hasbún. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

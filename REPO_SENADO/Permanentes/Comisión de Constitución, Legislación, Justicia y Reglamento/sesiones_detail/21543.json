@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21543",
+  "id_comision": "186",
+  "nombre_comision": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/186/21543",
+  "fecha_iso": "2025-06-02",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "10:30",
+  "hora_termino": "12:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "2628-05",
+      "tema": "Oficio de Su Excelencia el Vicepresidente de la República, por el que solicita el acuerdo del Senado para designar como consejero del Consejo Directivo del Servicio Electoral, al señor Jorge Manzano Gouet Aspectos considerados: Se escucharon las exposiciones de la Ministra Secretaria General de la Presidencia, señora Macarena Lobos y del candidato a Consejero del Consejo Directivo del Servicio Electoral, señor Jorge Manzano Gouet.",
+      "acuerdo": "La solicitud de nombramiento de S.E. el Vicepresidente de la República cumple con los requisitos y formalidades previstos por el ordenamiento jurídico. Pasa a la Sala. Integrantes: (Presidente) Senadora Núñez Urrutia Paulina Senador Araya Guerrero Pedro Senadora Ebensperger Orrego Luz Eliana",
+      "estado_punto": "",
+      "invitados_punto": "Han sido especial invitados: la Ministra Secretaria General de la Presidencia, señora Macarena Lobos y el candidato a Consejero del Consejo Directivo del Servicio Electoral, el señor Jorge Manzano. Otros asistentes: Del Ministerio Secretaría General de la Presidencia: La Ministra, señora Macarena Lobos; y los asesores, señoras María Gabriela Álvarez e Ignacia Guzmán y el señor Christian Valenzuela.El Candidato a Consejero del Consejo Directivo del Servicio Electoral, señor Jorge Manzano.Los siguientes asesores parlamentarios: de la Senadora señora Paulina Núñez, la señora Johana Godoy y el señor Luis Ponce; del Senador señor Pedro Araya, la señora Catalina Flores y el señor Pedro Lezaeta; de la Senadora señora Luz Ebensperger, la señora Daniela Farías y los señores Juan Carlos Morales y Felipe Hübner y, del Senador señor Luciano Cruz-Coke, el señor Carlos Lobos. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: La Ministra, señora Macarena Lobos; y los asesores, señoras María Gabriela Álvarez e Ignacia Guzmán y el señor Christian Valenzuela.El Candidato a Consejero del Consejo Directivo del Servicio Electoral, señor Jorge Manzano.Los siguientes asesores parlamentarios: de la Senadora señora Paulina Núñez, la señora Johana Godoy y el señor Luis Ponce; del Senador señor Pedro Araya, la señora Catalina Flores y el señor Pedro Lezaeta; de la Senadora señora Luz Ebensperger, la señora Daniela Farías y los señores Juan Carlos Morales y Felipe Hübner y, del Senador señor Luciano Cruz-Coke, el señor Carlos Lobos. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

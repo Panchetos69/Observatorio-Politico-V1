@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21912",
+  "id_comision": "1443",
+  "nombre_comision": "Comisión Mixta para Boletín N° 12234-02",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1443/21912",
+  "fecha_iso": "2025-09-08",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "11:00",
+  "hora_termino": "13:10",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "12234-02",
+      "tema": "Proyecto de ley que fortalece y moderniza el sistema de inteligencia del Estado. Aspectos considerados: La Comisión analizó la forma de resolver las divergencias surgidas entre el Senado y la Cámara de Diputados.",
+      "acuerdo": "Proseguir su examen en una próxima sesión. Integrantes: Diputado Brito Hasbún Jorge Senador Flores García Iván Diputado Jouannet Valderrama Andrés Senador Macaya Danús Javier Senador Ossandón Irarrázabal Manuel José Senador Pugh Olavarría Kenneth Diputado Sánchez Ossa Luis Diputado Undurraga Gazitúa Francisco Asistentes: Diputado Schubert Rubio Stephan",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "DEL MINISTERIOR DEL INTERIOR: Ministro, señor Álvaro Elizalde, y coordinadora legislativa del Ministro, señora Laura Mancilla. Otros asistentes: DEL MINISTERIO DE DEFENSA NACIONAL: asesora, señora Leslie Sánchez. ASESORES LEGISLATIVOS: del Honorable Senador Flores, señora Carolina Allende y señor Gonzalo Duarte; de la Honorable Senadora Provoste, señor Enrique Soler; de la Honorable Senadora Vodanovic, señor José Miguel Poblete; del Honorable Diputado Brito, señora Camila Lucero; del Honorable Diputado Jouannet, señor Harold Correa, y del Honorable Diputado Sánchez, señores Benjamín Peña y Lillo y Andrés Solar. DEL COMITÉ DEMÓCRATAS, EVOPOLI, AMARILLOS E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesor, señor Francisco Costa. DEL COMITÉ COMUNISTA, FEDERACIÓN REGIONALISTA VERDE SOCIAL, ACCIÓN HUMANISTA E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesora, señora Fernanda Arias. DEL COMITÉ PARTIDO RENOVACIÓN NACIONAL E INDEPENDIENTES DEL SENADO: coordinador legislativo, señor Ronald Von Der Weth. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. DEL CENTRO DE ESTUDIOS IDEAS REPUBLICANAS: asesora, señora Constanza Tirado. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señoras Verónica Barrios y Bárbara Horzella. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIOR DEL INTERIOR: Ministro, señor Álvaro Elizalde, y coordinadora legislativa del Ministro, señora Laura Mancilla."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO DE DEFENSA NACIONAL: asesora, señora Leslie Sánchez. ASESORES LEGISLATIVOS: del Honorable Senador Flores, señora Carolina Allende y señor Gonzalo Duarte; de la Honorable Senadora Provoste, señor Enrique Soler; de la Honorable Senadora Vodanovic, señor José Miguel Poblete; del Honorable Diputado Brito, señora Camila Lucero; del Honorable Diputado Jouannet, señor Harold Correa, y del Honorable Diputado Sánchez, señores Benjamín Peña y Lillo y Andrés Solar. DEL COMITÉ DEMÓCRATAS, EVOPOLI, AMARILLOS E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesor, señor Francisco Costa. DEL COMITÉ COMUNISTA, FEDERACIÓN REGIONALISTA VERDE SOCIAL, ACCIÓN HUMANISTA E INDEPENDIENTES DE LA CÁMARA DE DIPUTADOS: asesora, señora Fernanda Arias. DEL COMITÉ PARTIDO RENOVACIÓN NACIONAL E INDEPENDIENTES DEL SENADO: coordinador legislativo, señor Ronald Von Der Weth. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. DEL CENTRO DE ESTUDIOS IDEAS REPUBLICANAS: asesora, señora Constanza Tirado. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señoras Verónica Barrios y Bárbara Horzella."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

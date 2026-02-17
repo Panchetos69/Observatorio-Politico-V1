@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21230",
+  "id_comision": "1009",
+  "nombre_comision": "Comisión de Recursos Hídricos, Desertificación y Sequía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1009/21230",
+  "fecha_iso": "2025-03-12",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "09:30",
+  "hora_termino": "11:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Conocer, de parte del Ejecutivo, el estado de avance del futuro proyecto de ley sobre modificación integral de los Servicios Sanitarios Rurales. Aspectos considerados: Se escuchó a los invitados. Integrantes: (Presidente) Senadora Provoste Campillay Yasna Senador Castro Prieto Juan Senador Sanhueza Dueñas Gustavo en reemplazo de Gahona Salazar Sergio",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "DEL MINISTERIO DE OBRAS PÚBLICAS: el Coordinador del Área Hídrica, señor Carlos Estévez; el Coordinador Legislativo, señor Tomás Mendoza, y el Asesor Legislativo, señor Stefano Salgado. DE APR CHILE: el Coordinador Nacional, señor Rufino Hevia; el Vicepresidente, señor Raúl Vera, y la Vicepresidenta de la Cooperativa La Tetera-Pueblo Indio, señora Grisel Aróstica. DE LA FEDERACIÓN NACIONAL DE AGUA POTABLE RURAL (FENAPRU): el Presidente, señor José Rivera, y el Vicepresidente de la Asociación Gremial de Servicios de Agua Potable Rural de la Sexta Región, señor Edmundo Jofré. DE LA ASOCIACIÓN PROVINCIAL DE AGUA POTABLE RURAL DEL LIMARÍ: el Presidente, señor Luis Alfaro. DE APR REGIÓN DE VALPARAÍSO: el Presidente Regional, señor Humberto González. Otros asistentes: DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: el asesor, señor Cristian Vargas. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: el investigador, señor Eduardo Baeza. Asesores parlamentarios: de la Senadora señora Allende, don Javier Bravo; de la Senadora señora Carvajal, don Rodrigo Vega; del Senador señor Castro Prieto, don Daniel Quiroga; del Senador señor Gahona, don Benjamín Rug, y de la Senadora señora Provoste, don Rodrigo Vega y don Enrique Soler. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DE OBRAS PÚBLICAS: el Coordinador del Área Hídrica, señor Carlos Estévez; el Coordinador Legislativo, señor Tomás Mendoza, y el Asesor Legislativo, señor Stefano Salgado. DE APR CHILE: el Coordinador Nacional, señor Rufino Hevia; el Vicepresidente, señor Raúl Vera, y la Vicepresidenta de la Cooperativa La Tetera-Pueblo Indio, señora Grisel Aróstica. DE LA FEDERACIÓN NACIONAL DE AGUA POTABLE RURAL (FENAPRU): el Presidente, señor José Rivera, y el Vicepresidente de la Asociación Gremial de Servicios de Agua Potable Rural de la Sexta Región, señor Edmundo Jofré. DE LA ASOCIACIÓN PROVINCIAL DE AGUA POTABLE RURAL DEL LIMARÍ: el Presidente, señor Luis Alfaro. DE APR REGIÓN DE VALPARAÍSO: el Presidente Regional, señor Humberto González."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: el asesor, señor Cristian Vargas. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: el investigador, señor Eduardo Baeza. Asesores parlamentarios: de la Senadora señora Allende, don Javier Bravo; de la Senadora señora Carvajal, don Rodrigo Vega; del Senador señor Castro Prieto, don Daniel Quiroga; del Senador señor Gahona, don Benjamín Rug, y de la Senadora señora Provoste, don Rodrigo Vega y don Enrique Soler."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

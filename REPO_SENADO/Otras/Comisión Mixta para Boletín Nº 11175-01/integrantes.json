@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión Mixta para Boletín Nº 11175-01",
+  "id": "1427",
+  "integrantes": [
+    {
+      "nombre": "Carmen Gloria Aravena Acuña",
+      "cargo": "",
+      "id": "carmen-gloria-aravena-acuna-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/carmen-gloria-aravena-acuna-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "José Miguel  Durana Semir",
+      "cargo": "",
+      "id": "jose-miguel-durana-semir-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/jose-miguel-durana-semir-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Rafael   Prohens Espinosa",
+      "cargo": "",
+      "id": "rafael-prohens-espinosa-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/rafael-prohens-espinosa-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Alejandra Sepúlveda Orbenes",
+      "cargo": "",
+      "id": "alejandra-sepulveda-orbenes-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/alejandra-sepulveda-orbenes-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Paulina Vodanovic Rojas",
+      "cargo": "",
+      "id": "paulina-vodanovic-rojas-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/paulina-vodanovic-rojas-sen",
+      "chamber": "senado"
+    }
+  ]
+}

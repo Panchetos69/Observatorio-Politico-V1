@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21303",
+  "id_comision": "198",
+  "nombre_comision": "Comisión de Transportes y Telecomunicaciones",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/198/21303",
+  "fecha_iso": "2025-03-26",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "09:30",
+  "hora_termino": "10:45",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16720-15",
+      "tema": "Modifica la ley N° 18.290 y otros cuerpos legales que indica, para hacer efectiva la exigencia de contar con aptitudes para conducir vehículos motorizados y regular otras materias relacionadas. Aspectos considerados: Se escuchó a los invitados.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Ordenes Neira Ximena Senador Castro González Juan Luis Senador Van Rysselberghe Herrera Enrique",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "De la Asociación de Aseguradoras de Chile (Aach): el Vicepresidente Ejecutivo, señor Marcelo Mosso; la Gerente de Estudios, señora Patricia Arias y el Abogado del Área Legal, señor Felipe Casale. De la Fundación Emilia: la Presidenta, señora Carolina Figueroa y la asesora, señora Edith González. Del Ministerio de Transportes y Telecomunicaciones: el Subsecretario de Transportes, señor Jorge Daza; el Jefe de Gabinete del Subsecretario de Transportes, señor Oscar Sandoval; el Asesor Legislativo del Ministro, señor Felipe González, y el Jefe de la Unidad de Desarrollo Urbano de la División de Transporte Público Regional, señor Oscar Moreno. Otros asistentes: De la Biblioteca del Congreso Nacional (BCN): los analistas, señores Raimundo Roberts y Nicolás García, y los asesores de la Honorable Senadora señora Órdenes, señor Julio Valladares; del Honorable Senador señor Castro, señoras Teresita Fabres, Meggy López y señor Arturo León; del Honorable Senador señor Kusanovic, señores Sebastián Urrea y Benjamín Rodríguez; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Comité Partido por la Democracia e Independiente (PPD), señora Paulin Silva; de la Fundación Jaime Guzmán, señor Joaquín García y de la Secretaría General de la Presidencia (Segpres), señor Daniel Olivares. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Transportes y Telecomunicaciones: el Subsecretario de Transportes, señor Jorge Daza; el Jefe de Gabinete del Subsecretario de Transportes, señor Oscar Sandoval; el Asesor Legislativo del Ministro, señor Felipe González, y el Jefe de la Unidad de Desarrollo Urbano de la División de Transporte Público Regional, señor Oscar Moreno. Otros asistentes: De la Biblioteca del Congreso Nacional (BCN): los analistas, señores Raimundo Roberts y Nicolás García, y los asesores de la Honorable Senadora señora Órdenes, señor Julio Valladares; del Honorable Senador señor Castro, señoras Teresita Fabres, Meggy López y señor Arturo León; del Honorable Senador señor Kusanovic, señores Sebastián Urrea y Benjamín Rodríguez; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Comité Partido por la Democracia e Independiente (PPD), señora Paulin Silva; de la Fundación Jaime Guzmán, señor Joaquín García y de la Secretaría General de la Presidencia (Segpres), señor Daniel Olivares. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21879",
+  "id_comision": "615",
+  "nombre_comision": "Comisión de Seguridad Pública",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/615/21879",
+  "fecha_iso": "2025-09-01",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "16:00",
+  "hora_termino": "17:12",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16777-07",
+      "tema": "Modifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales Aspectos considerados: La Comisión continuó el estudio del proyecto de ley.",
+      "acuerdo": "Proseguirá su estudio en la próxima sesión. Pendiente. Integrantes: (Presidente) Senador Durana Semir José Miguel Senador Moreira Barros Iván Senadora Pascual Grau Claudia Senador Pugh Olavarría Kenneth Asistentes: Senadora Sepúlveda Orbenes Alejandra",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Agricultura: la Ministra, señora Ignacia Fernández; la Jefa de Gabinete, señora Valentina Pojomovsky, y la asesora legislativa, señora Catalina Núñez. Del Servicio Agrícola y Ganadero: el Director Nacional, señor José Guajardo; la Fiscal (S), señora Marisol Ramírez, y el Jefe de la División de Control Fronterizo, señor Óscar Camacho. De la Asociación de Funcionarios de Servicio Agrícola y Ganadero: la Vicepresidenta Nacional, señora Erika Cáceres, y los Directores, señora Ana Mujica, señora Ximena Calabrano y señor Aliz Fernández. Otros asistentes: De la Biblioteca del Congreso Nacional: la asesora, señora Jana Abujatum.Del Comité de Senadores UDI: la periodista, señora Cristina Pinochet.Los asesores parlamentarios: del Senador Durana, señora Pamela Cousins y señor César Quiroga; del Senador Moreira, señor Raúl Araneda; de la Senadora Pascual, señor Roberto Carrasco, y de la Senadora Sepúlveda, señor Francisco Gómez y señor Hermes Gutiérrez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Agricultura: la Ministra, señora Ignacia Fernández; la Jefa de Gabinete, señora Valentina Pojomovsky, y la asesora legislativa, señora Catalina Núñez."
+    }
+  ],
+  "url_video": ""
+}

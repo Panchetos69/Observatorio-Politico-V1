@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21515",
+  "id_comision": "187",
+  "nombre_comision": "Comisión de Economía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/187/21515",
+  "fecha_iso": "2025-05-27",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "09:40",
+  "hora_termino": "11:11",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16817-05",
+      "tema": "Proyecto de ley sobre reactivación del turismo y de fomento a la industria audiovisual. Aspectos considerados: Se continuó con el estudio del referido proyecto de ley.",
+      "acuerdo": "Continuar en una próxima sesión. Integrantes: (Presidente) Senador Núñez Arancibia Daniel Senador Huenchumilla Jaramillo Francisco Senador Prohens Espinosa Rafael en reemplazo de Pugh Olavarría Kenneth Senador Saavedra Chandía Gastón Senador Sanhueza Dueñas Gustavo",
+      "estado_punto": "",
+      "invitados_punto": "De la Subsecretaría de Hacienda: la Subsecretaria, señora Heidi Berner; la Coordinadora Legislativa, señora Consuelo Fernández; el Coordinador de Política Tributaria, señor Diego Riquelme; el periodista, señor Andrés Cabero. De la Subsecretaría de Turismo: la Subsecretaria, señora Verónica Pardo; la Jefa de Gabinete, señora Victoria Valdés; la asesora Legal, señora Karla Pinto. Del Ministerio de Economía, Fomento y Turismo: la Coordinadora Legislativa, señora Virginia Rivas. Otros asistentes: Los asesores de los parlamentarios, señoras Carolina Navarrete (Senador señor Gustavo Sanhueza), Camila Briones (Senador señor Rafael Prohens), y señores Eduardo Lara (Senador señor Francisco Huenchumilla), César Barra y Mauricio Galaz (Senador señor Gastón Saavedra).De la Biblioteca del Congreso Nacional, señor James Wilkins.De la Fundación Jaime Guzmán, el asesor, señor Joaquín García.De la Asociación Chilena de Municipalidades (ACHM), el Director de Seguimiento Legislativo, señor Miguel Moreno. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Economía, Fomento y Turismo: la Coordinadora Legislativa, señora Virginia Rivas. Otros asistentes: Los asesores de los parlamentarios, señoras Carolina Navarrete (Senador señor Gustavo Sanhueza), Camila Briones (Senador señor Rafael Prohens), y señores Eduardo Lara (Senador señor Francisco Huenchumilla), César Barra y Mauricio Galaz (Senador señor Gastón Saavedra).De la Biblioteca del Congreso Nacional, señor James Wilkins.De la Fundación Jaime Guzmán, el asesor, señor Joaquín García.De la Asociación Chilena de Municipalidades (ACHM), el Director de Seguimiento Legislativo, señor Miguel Moreno. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

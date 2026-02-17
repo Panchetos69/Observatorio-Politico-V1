@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21305",
+  "id_comision": "186",
+  "nombre_comision": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/186/21305",
+  "fecha_iso": "2025-03-26",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "10:30",
+  "hora_termino": "11:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Tratar el cambio en la Presidencia de la Comisión, determinar su horario de funcionamiento en esta legislatura y fijar los asuntos que serán considerados en una próxima sesión. Aspectos considerados: Se inició el análisis del cambio en la Presidencia de la Comisión.",
+      "acuerdo": "PENDIENTE Integrantes: Senador Araya Guerrero Pedro Senadora Ebensperger Orrego Luz Eliana Senador Insulza Salinas José Miguel en reemplazo de De Urresti Longton Alfonso Senadora Núñez Urrutia Paulina Senadora Pascual Grau Claudia Asistentes: Senador Cruz-Coke Carvallo Luciano",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "No hubo Otros asistentes: Del Ministerio Secretaría General de la Presidencia: El asesor, señor Vicente Riquelme.Los siguientes asesores parlamentarios: del Senador señor Pedro Araya, la señora Ignacia Amunátegui y los señores Roberto Godoy y Pedro Lezaeta; de la Senadora Paulina Núñez, las señoras Johana Godoy y Carmen Cisternas y los señores Luis Ponce y Pablo Cantero; de la Senadora señora Claudia Pascual, el señor Roberto Carrasco; del Senador señor José Miguel Insulza, Lorena Escalona y señor Carlos Fernández; del Comité PS, la señora Melanie Moraga. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: El asesor, señor Vicente Riquelme.Los siguientes asesores parlamentarios: del Senador señor Pedro Araya, la señora Ignacia Amunátegui y los señores Roberto Godoy y Pedro Lezaeta; de la Senadora Paulina Núñez, las señoras Johana Godoy y Carmen Cisternas y los señores Luis Ponce y Pablo Cantero; de la Senadora señora Claudia Pascual, el señor Roberto Carrasco; del Senador señor José Miguel Insulza, Lorena Escalona y señor Carlos Fernández; del Comité PS, la señora Melanie Moraga. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

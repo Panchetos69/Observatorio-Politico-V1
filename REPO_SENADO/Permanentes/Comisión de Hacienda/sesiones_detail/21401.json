@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21401",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21401",
+  "fecha_iso": "2025-04-22",
+  "ano": "2025",
+  "mes": "04",
+  "hora_inicio": "10:46",
+  "hora_termino": "12:27",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17040-05",
+      "tema": "Modifica el decreto ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, para establecer un régimen tributario especial para comerciantes de ferias libres Aspectos considerados: La comisión recibió audiencias y continuó con la discusión del proyecto.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Lagos Weber Ricardo Senador Macaya Danús Javier Asistentes: Diputada Pérez Olea Joanna",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Hacienda, la Ministra (S), señora Heidi Berner; el Coordinador de Políticas Tributarias, señor Diego Riquelme; la Coordinadora Legislativa, señora Consuelo Fernández y el asesor, señor Andrés Smith. De la Federación Nacional de Ferias Libres, Persas y Anexos (FETACROM), el Presidente, señor Arnaldo Romero y el Vicepresidente, señor Víctor Orellana. De la Asociación de Emprendedores y Artesanos de Lican Ray, (ASOLIR), la Secretaria, señora Nallarett Velásquez. Del Sindicato de Ferias Libres N°3 de La Serena, la Presidenta, señora Gloria Vásquez y la Presidenta Sindicato N° 5, señora María Arena. Del Ministerio Secretaría General de la Presidencia, el asesor, señor Héctor Correa. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. De la Oficina del Honorable Senador Macaya, la Jefa de Gabinete señora Karelyn Luttecke y el asesor, señor Carlos Oyarzún. El asesor de la Honorable Diputada Pérez, señor Joris Carvajal. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Hacienda, la Ministra (S), señora Heidi Berner; el Coordinador de Políticas Tributarias, señor Diego Riquelme; la Coordinadora Legislativa, señora Consuelo Fernández y el asesor, señor Andrés Smith. De la Federación Nacional de Ferias Libres, Persas y Anexos (FETACROM), el Presidente, señor Arnaldo Romero y el Vicepresidente, señor Víctor Orellana. De la Asociación de Emprendedores y Artesanos de Lican Ray, (ASOLIR), la Secretaria, señora Nallarett Velásquez."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, el asesor, señor Héctor Correa. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. De la Oficina del Honorable Senador Macaya, la Jefa de Gabinete señora Karelyn Luttecke y el asesor, señor Carlos Oyarzún. El asesor de la Honorable Diputada Pérez, señor Joris Carvajal. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

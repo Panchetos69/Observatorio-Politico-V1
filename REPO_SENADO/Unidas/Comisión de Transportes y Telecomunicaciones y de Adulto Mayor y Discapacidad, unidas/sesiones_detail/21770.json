@@ -1,0 +1,54 @@
+{
+  "id_sesion": "21770",
+  "id_comision": "1444",
+  "nombre_comision": "Comisión de Transportes y Telecomunicaciones y de Adulto Mayor y Discapacidad, unidas.",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1444/21770",
+  "fecha_iso": "2025-08-05",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "12:30",
+  "hora_termino": "14:10",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Abordar los problemas de accesibilidad y asistencia a personas con discapacidad en el Aeropuerto Arturo Merino Benítez, de Santiago, y revisar las medidas que se están adoptando o que se pueden adoptar para su corrección y mejorar el servicio de asistencia o traslado de pasajeros con discapacidad. Aspectos considerados: Se escuchó a los invitados. Integrantes: (Presidente) Senador Kusanovic Glusevic Alejandro Senadora Campillai Rojas Fabiola Senador Castro González Juan Luis Senador Insulza Salinas José Miguel Senador Keitel Bianchi Sebastián Senador Van Rysselberghe Herrera Enrique Senador Walker Prieto Matías",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "Del Servicio Nacional de la Discapacidad (SENADIS): la Directora Nacional (S), señora Karen Astorga; el Abogado del Departamento DDHH y Seguimiento Legislativo, señor Mario González y el Jefe de gabinete, señor Carlos Escobar. Del Aeropuerto Nuevo Pudahuel: el Gerente de Operaciones, señor Antonio Mendes y el Subgerente de comunicaciones y asuntos corporativos, señor Manuel Valencia. De la Biblioteca del Congreso Nacional (BCN): la investigadora del Área de Recursos Naturales, Ciencia y Tecnología, señora Claudia Cuevas. Otros asistentes: : Los asesores de la Honorable Senadora señora Campillai, señora Andrea Boudeguer y señores Hermes Ortega y Gabriel Gajardo; del Honorable Senador señor Castro, señoras Teresita Fabres, Meggy López y señor Arturo León; del Honorable Senador señor Insulza, señor Carlos Fernández; del Honorable Senador señor Kusanovic, señores Sebastián Urrea y Benjamín Rodríguez; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; del Honorable Senador señor Keitel, señoras Camila Muñoz y Valeria Ramírez y señor Jaime Herranz, y de la Secretaría General de la Presidencia (Segpres), señoras Isidora Yáñez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Del Servicio Nacional de la Discapacidad (SENADIS): la Directora Nacional (S), señora Karen Astorga; el Abogado del Departamento DDHH y Seguimiento Legislativo, señor Mario González y el Jefe de gabinete, señor Carlos Escobar."
+    },
+    {
+      "nombre": "Del Aeropuerto Nuevo Pudahuel: el Gerente de Operaciones, señor Antonio Mendes y el Subgerente de comunicaciones y asuntos corporativos, señor Manuel Valencia."
+    },
+    {
+      "nombre": "De la Biblioteca del Congreso Nacional (BCN): la investigadora del Área de Recursos Naturales, Ciencia y Tecnología, señora Claudia Cuevas."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": ": Los asesores de la Honorable Senadora señora Campillai, señora Andrea Boudeguer y señores Hermes Ortega y Gabriel Gajardo; del Honorable Senador señor Castro, señoras Teresita Fabres, Meggy López y señor Arturo León; del Honorable Senador señor Insulza, señor Carlos Fernández; del Honorable Senador señor Kusanovic, señores Sebastián Urrea y Benjamín Rodríguez; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; del Honorable Senador señor Keitel, señoras Camila Muñoz y Valeria Ramírez y señor Jaime Herranz, y de la Secretaría General de la Presidencia (Segpres), señoras Isidora Yáñez."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Recursos Hídricos, Desertificación y Sequía",
+  "id": "1009",
+  "integrantes": [
+    {
+      "nombre": "Juan Castro Prieto",
+      "cargo": "",
+      "id": "juan-castro-prieto-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/juan-castro-prieto-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Tomás De Rementería Venegas",
+      "cargo": "",
+      "id": "tomas-de-rementeria-venegas-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/tomas-de-rementeria-venegas-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Sergio Gahona Salazar",
+      "cargo": "",
+      "id": "sergio-gahona-salazar-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/sergio-gahona-salazar-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Carlos Ignacio Kuschel Silva",
+      "cargo": "",
+      "id": "carlos-ignacio-kuschel-silva-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/carlos-ignacio-kuschel-silva-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Yasna Provoste Campillay",
+      "cargo": "",
+      "id": "yasna-provoste-campillay-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/yasna-provoste-campillay-sen",
+      "chamber": "senado"
+    }
+  ]
+}

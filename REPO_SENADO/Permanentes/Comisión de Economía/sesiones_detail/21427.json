@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21427",
+  "id_comision": "187",
+  "nombre_comision": "Comisión de Economía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/187/21427",
+  "fecha_iso": "2025-05-06",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "09:45",
+  "hora_termino": "10:45",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16817-05",
+      "tema": "Proyecto de ley sobre reactivación del turismo y de fomento a la industria audiovisual. Aspectos considerados: Se inició la discusión particular del proyecto de ley, en segundo trámite constitucional, sobre reactivación del turismo y de fomento a la industria audiovisual, con urgencia calificada de \"suma\" (Boletín N° 16.817-05).",
+      "acuerdo": "Continuar en una próxima sesión. Integrantes: (Presidente) Senador Núñez Arancibia Daniel Senador Pugh Olavarría Kenneth Senador Sanhueza Dueñas Gustavo",
+      "estado_punto": "",
+      "invitados_punto": "De la Subsecretaría de Hacienda: la Subsecretaria, señora Heidi Berner; la Coordinadora Legislativa, señora Consuelo Fernández; el Coordinador de Política Tributaria, señor Diego Riquelme y el periodista Andrés Cabrero. De la Subsecretaría de Turismo: la Subsecretaria, señora Verónica Pardo; la Jefa de Gabinete, señora Victoria Valdés; la asesora Legal, señora Karla Pinto. Del Ministerio de Economía, Fomento y Turismo: la Coordinadora Legislativa, señora Virginia Rivas. Otros asistentes: Los asesores de los Parlamentarios, señora Carolina Navarrete (Senador señor Gustavo Sanhueza) y señores Elías Mella (Senador señor Daniel Núñez) y Pascal de Smet (Senador señor Kenneth Pugh). Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Economía, Fomento y Turismo: la Coordinadora Legislativa, señora Virginia Rivas. Otros asistentes: Los asesores de los Parlamentarios, señora Carolina Navarrete (Senador señor Gustavo Sanhueza) y señores Elías Mella (Senador señor Daniel Núñez) y Pascal de Smet (Senador señor Kenneth Pugh). Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

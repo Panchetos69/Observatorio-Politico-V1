@@ -1,0 +1,34 @@
+{
+  "comision": "Comisión Bicameral del artículo 66 de la LOC Congreso Nacional",
+  "id": "1114",
+  "integrantes": [
+    {
+      "nombre": "Pedro Araya Guerrero",
+      "cargo": "",
+      "id": "pedro-araya-guerrero-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/pedro-araya-guerrero-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Juan Luis Castro González",
+      "cargo": "",
+      "id": "juan-luis-castro-gonzalez-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/juan-luis-castro-gonzalez-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Rafael   Prohens Espinosa",
+      "cargo": "",
+      "id": "rafael-prohens-espinosa-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/rafael-prohens-espinosa-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "David Sandoval Plaza",
+      "cargo": "",
+      "id": "david-sandoval-plaza-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/david-sandoval-plaza-sen",
+      "chamber": "senado"
+    }
+  ]
+}

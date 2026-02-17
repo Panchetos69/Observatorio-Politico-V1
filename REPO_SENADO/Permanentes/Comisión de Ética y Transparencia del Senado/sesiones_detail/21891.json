@@ -1,0 +1,39 @@
+{
+  "id_sesion": "21891",
+  "id_comision": "718",
+  "nombre_comision": "Comisión de Ética y Transparencia del Senado",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/718/21891",
+  "fecha_iso": "2025-09-02",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "12:39",
+  "hora_termino": "13:13",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Tratar materias de competencia. Aspectos considerados: La Comisión se abocó a las materias de su competencia. Integrantes: (Presidente) Senador Kuschel Silva Carlos Ignacio Senadora Aravena Acuña Carmen Gloria Senador Castro González Juan Luis Senadora Ebensperger Orrego Luz Eliana Asistentes: Senador Castro Prieto Juan",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

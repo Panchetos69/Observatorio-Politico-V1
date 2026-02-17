@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21637",
+  "id_comision": "186",
+  "nombre_comision": "Comisión de Constitución, Legislación, Justicia y Reglamento",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/186/21637",
+  "fecha_iso": "2025-06-18",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "10:30",
+  "hora_termino": "12:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "1500-09",
+      "tema": "Propone un conjunto de enmiendas al Reglamento del Senado con el objeto de adecuarlo a la ley N° 20.447 que modificó la Ley Orgánica Constitucional del Congreso Nacional. Aspectos considerados: Continuó con el estudio, EN PARTICULAR, del mencionado proyecto de acuerdo.",
+      "acuerdo": "PENDIENTE. Integrantes: (Presidente) Senadora Núñez Urrutia Paulina Senador Araya Guerrero Pedro Senador De Urresti Longton Alfonso Senadora Ebensperger Orrego Luz Eliana Asistentes: Senadora Pascual Grau Claudia",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Para el análisis de este asunto han sido especialmente invitados la Ministra Secretaria General de la Presidencia, señora Macarena Lobos y el Secretario General del Senado, señor Raúl Guzmán. Del Senado: El Secretario General, señor Raúl Guzmán. Otros asistentes: Del Ministerio Secretaría General de la Presidencia: La Ministra, señora Macarena Lobos, acompañada por los siguientes asesores: las señoras Ignacia Guzmán e Ignacia Vásquez y los señores Vicente Riquelme y Daniel Viscarra. Del Senado: el Secretario General, señor Raúl Guzmán y su Jefa de Gabinete, señora Javiera Balladares. Los siguientes asesores parlamentarios: de la Senadora señora Paulina Núñez, la señora Johana Godoy; del Senador señor Pedro Araya, la señora Ignacia Amunátegui y el señor Pedro Lezaeta; de la Senadora señora Claudia Pascual, el señor Roberto Carrasco; del Comité PS, la señora Melissa Navarro; del Comité RN, el señor Sebastián Amado; de la Biblioteca del Congreso Nacional, el señor Juan Pablo Cavada y, por último, el periodista de La Tercera, señor Nicolás Quiñones.Del Senado: El Secretario General, señor Raúl Guzmán. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Senado: El Secretario General, señor Raúl Guzmán. Otros asistentes:"
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: La Ministra, señora Macarena Lobos, acompañada por los siguientes asesores: las señoras Ignacia Guzmán e Ignacia Vásquez y los señores Vicente Riquelme y Daniel Viscarra. Del Senado: el Secretario General, señor Raúl Guzmán y su Jefa de Gabinete, señora Javiera Balladares. Los siguientes asesores parlamentarios: de la Senadora señora Paulina Núñez, la señora Johana Godoy; del Senador señor Pedro Araya, la señora Ignacia Amunátegui y el señor Pedro Lezaeta; de la Senadora señora Claudia Pascual, el señor Roberto Carrasco; del Comité PS, la señora Melissa Navarro; del Comité RN, el señor Sebastián Amado; de la Biblioteca del Congreso Nacional, el señor Juan Pablo Cavada y, por último, el periodista de La Tercera, señor Nicolás Quiñones.Del Senado: El Secretario General, señor Raúl Guzmán. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

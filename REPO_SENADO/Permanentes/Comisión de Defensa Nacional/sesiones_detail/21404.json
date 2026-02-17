@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21404",
+  "id_comision": "190",
+  "nombre_comision": "Comisión de Defensa Nacional",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/190/21404",
+  "fecha_iso": "2025-04-22",
+  "ano": "2025",
+  "mes": "04",
+  "hora_inicio": "12:30",
+  "hora_termino": "14:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16143-02",
+      "tema": "Proyecto de ley, en primer trámite constitucional, para la protección de la infraestructura crítica del país. Aspectos considerados: La Comisión discutió la manera de continuar la tramitación de esta y otras iniciativas de ley de su competencia. Integrantes: (Presidente) Senador Macaya Danús Javier Senador Huenchumilla Jaramillo Francisco Senador Pugh Olavarría Kenneth",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "DEL MINISTERIO DEL INTERIOR: Ministra (s), señora Macarena Lobos, y asesora del Gabinete, señora Lesly Covarrubias. Otros asistentes: DEL MINISTERIO DE DEFENSA NACIONAL: asesora jurídica del Gabinete, señora Lizelot Yáñez, y asesora legislativa, señora Leslie Sánchez. DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesora, señora Rosario Figueroa. ASESORES LEGISLATIVOS: del Honorable Senador Macaya, señor Carlos Oyarzún, y del Honorable Senador Pugh, señor Pascal De Smet D´Olbecke. DEL INSTITUTO NACIONAL DE DERECHOS HUMANOS: asesores, señor Nicolás del Fierro y señora Bernardita Vega. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señora Bárbara Horzella y señor Juan Pablo Jarufe. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DEL INTERIOR: Ministra (s), señora Macarena Lobos, y asesora del Gabinete, señora Lesly Covarrubias."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO DE DEFENSA NACIONAL: asesora jurídica del Gabinete, señora Lizelot Yáñez, y asesora legislativa, señora Leslie Sánchez. DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesora, señora Rosario Figueroa. ASESORES LEGISLATIVOS: del Honorable Senador Macaya, señor Carlos Oyarzún, y del Honorable Senador Pugh, señor Pascal De Smet D´Olbecke. DEL INSTITUTO NACIONAL DE DERECHOS HUMANOS: asesores, señor Nicolás del Fierro y señora Bernardita Vega. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analistas, señora Bárbara Horzella y señor Juan Pablo Jarufe."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,33 @@
+{
+  "id_sesion": "22316",
+  "id_comision": "195",
+  "nombre_comision": "Comisión de Salud",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/195/22316",
+  "fecha_iso": "2026-01-21",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "18001-11",
+      "tema": "Proyecto de ley que modifica la ley N° 20.606, sobre composición nutricional de los alimentos y su publicidad, para establecer la obligación de informar el contenido calórico de alimentos preparados, que se expenden en los establecimientos que indica. Aspectos considerados: Se dio inicio al estudio del proyecto de ley, con la presentación del Honorable Senador señor Keitel, autor de la iniciativa.",
+      "acuerdo": "Continuar en una próxima sesión y someterlo a votación en general. A su vez, se acordó solicitar en Sala refundir la presente iniciativa, Boletín N° 18.001-11 con el proyecto de ley Boletín N° 16.319-11. Integrantes: (Presidente) Senador Flores García Iván Senador Castro González Juan Luis Senadora Ordenes Neira Ximena",
+      "estado_punto": "",
+      "invitados_punto": "Senador Sebastián Keitel. Otros asistentes: Del Ministerio de Salud: el Jefe del Departamento de Nutrición y Alimentos, señor Cristian Cofré.De la Biblioteca del Congreso Nacional: el Investigador, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende y Mauricio Vásquez.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores y Jonatan Sepúlveda.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.Los Asesores del Senador Juan Luis Castro, señoras Ayelen Chanampa, Teresita Fabres, Paola Astudillo y Meggy López, y señor Arturo León.La Jefa de Gabinete del Senador Sebastián Keitel, señora Camila Muñoz.La Asesora del Comité PPD, señora Paulin Silva. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Salud: el Jefe del Departamento de Nutrición y Alimentos, señor Cristian Cofré.De la Biblioteca del Congreso Nacional: el Investigador, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende y Mauricio Vásquez.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores y Jonatan Sepúlveda.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.Los Asesores del Senador Juan Luis Castro, señoras Ayelen Chanampa, Teresita Fabres, Paola Astudillo y Meggy López, y señor Arturo León.La Jefa de Gabinete del Senador Sebastián Keitel, señora Camila Muñoz.La Asesora del Comité PPD, señora Paulin Silva. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

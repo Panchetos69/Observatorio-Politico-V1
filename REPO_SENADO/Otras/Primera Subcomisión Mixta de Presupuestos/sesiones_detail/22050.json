@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22050",
+  "id_comision": "624",
+  "nombre_comision": "Primera Subcomisión Mixta de Presupuestos",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/624/22050",
+  "fecha_iso": "2025-10-13",
+  "ano": "2025",
+  "mes": "10",
+  "hora_inicio": "10:30",
+  "hora_termino": "13:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17870-05",
+      "tema": "Ley de Presupuestos del Sector Público correspondiente al año 2026 Aspectos considerados: Ley de Presupuestos del Sector Público correspondiente al año 2026 - Continuar la Partida 21, correspondiente al Ministerio de Desarrollo Social y Familia.",
+      "acuerdo": "Continua en una próxima sesión, pendientes Senadis y Senama. Integrantes: (Presidente) Senador Cruz-Coke Carvallo Luciano Senador De Urresti Longton Alfonso Diputado Donoso Castro Felipe Senadora Rincón González Ximena Diputada Rojas Valderrama Camila Asistentes: Diputado Leal Bizama Henry",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "-Ministra señora Javiera Toro Cáceres Otros asistentes: - Subsecretaria de Servicios Sociales, señora Francisca Gallegos - DAF Subsecretaría de Servicios Sociales Esteban Andrés Rojas - DAF Subsecretaría de la Niñez, señor Cristian Parra Ibáñez -DAF -Instituto Nacional de la Juventud, señor Rodrigo San Martin -DAF Servicio Nacional de protección especializada a la niñez y adolescencia, señor Alfredo Matamala -Jefa de Gabinete de Subsecretaria de servicios sociales, señora Oriana Piffre -Asesores, señora Mara Roitstein, señora Alena Gutiérrez, señora Carolina García señor Alfonso Zagal y señor Camilo Ortega- Directores de Servicios: -Director FOSIS, señor Nicolas Navarrete Hernández -Director INJUV, señor Juan Pablo Duhalde Vera -Director CONADI, señor Álvaro Morales -Directora SENAMA, señora Claudia Asmad Palomo -Director SPE, señor Claudio Castillo. -Director SENADIS, señor Pedro Goic -Jefe Sección Finanzas SENADIS, señor Luis Pizarro -Subdirector INJUV, señor Nicolas Valdenegro -De Dipres, Jefa Sector Medio Ambiente, Cultura y Desarrollo Social, señora Pilar Galleguillos, el Abogado, señor Rodrigo Quinteros y los analistas, señora Valentina Silva y señor Víctor Valdivia. -Presidente Nacional de Asociación de Funcionarios Ministerio de Desarrollo Social, señor Lester Campos. -Federación Servicios del Ministerio de Desarrollo Social, señor Patricio Lama -Presidenta ANFUSAN y FENAMIAS, señora Sonia Núñez -Directora Federación FENAMIAS, señora Johana Escarilla. -Asesor Honorable Senador Cruz-Coke, señor Franco Nieri -Asesor Honorable Senadora Vodanovic, señor Gonzalo Mardones -Asesor Segpres, señor Daniel Olivares Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "-Ministra señora Javiera Toro Cáceres"
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "- Subsecretaria de Servicios Sociales, señora Francisca Gallegos - DAF Subsecretaría de Servicios Sociales Esteban Andrés Rojas - DAF Subsecretaría de la Niñez, señor Cristian Parra Ibáñez -DAF -Instituto Nacional de la Juventud, señor Rodrigo San Martin -DAF Servicio Nacional de protección especializada a la niñez y adolescencia, señor Alfredo Matamala -Jefa de Gabinete de Subsecretaria de servicios sociales, señora Oriana Piffre -Asesores, señora Mara Roitstein, señora Alena Gutiérrez, señora Carolina García señor Alfonso Zagal y señor Camilo Ortega- Directores de Servicios: -Director FOSIS, señor Nicolas Navarrete Hernández -Director INJUV, señor Juan Pablo Duhalde Vera -Director CONADI, señor Álvaro Morales -Directora SENAMA, señora Claudia Asmad Palomo -Director SPE, señor Claudio Castillo. -Director SENADIS, señor Pedro Goic -Jefe Sección Finanzas SENADIS, señor Luis Pizarro -Subdirector INJUV, señor Nicolas Valdenegro -De Dipres, Jefa Sector Medio Ambiente, Cultura y Desarrollo Social, señora Pilar Galleguillos, el Abogado, señor Rodrigo Quinteros y los analistas, señora Valentina Silva y señor Víctor Valdivia. -Presidente Nacional de Asociación de Funcionarios Ministerio de Desarrollo Social, señor Lester Campos. -Federación Servicios del Ministerio de Desarrollo Social, señor Patricio Lama -Presidenta ANFUSAN y FENAMIAS, señora Sonia Núñez -Directora Federación FENAMIAS, señora Johana Escarilla. -Asesor Honorable Senador Cruz-Coke, señor Franco Nieri -Asesor Honorable Senadora Vodanovic, señor Gonzalo Mardones -Asesor Segpres, señor Daniel Olivares"
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

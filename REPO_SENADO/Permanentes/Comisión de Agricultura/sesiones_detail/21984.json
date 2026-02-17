@@ -1,0 +1,39 @@
+{
+  "id_sesion": "21984",
+  "id_comision": "192",
+  "nombre_comision": "Comisión de Agricultura",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/192/21984",
+  "fecha_iso": "2025-10-01",
+  "ano": "2025",
+  "mes": "10",
+  "hora_inicio": "11:00",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "FRACASADA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "14673-11",
+      "tema": "Modifica el Código Sanitario, con el objeto de establecer normas sobre la trazabilidad del huevo y la certificación de huevos de gallina feliz o libre. Aspectos considerados: Continuar la votación de las indicaciones presentadas al proyecto de ley, en primer trámite constitucional, que modifica el Código Sanitario con el objeto de establecer normas sobre la trazabilidad del huevo y la certificación de huevos de gallina feliz o libre. Invitados: La Ministra de Agricultura, señora Ignacia Fernández. El Director Nacional del Instituto de Desarrollo Agropecuario INDAP Integrantes: (Presidente) Senadora Sepúlveda Orbenes Alejandra Senadora Aravena Acuña Carmen Gloria",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,36 @@
+{
+  "id_sesion": "22223",
+  "id_comision": "196",
+  "nombre_comision": "Comisión de Minería y Energía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/196/22223",
+  "fecha_iso": "2025-12-17",
+  "ano": "2025",
+  "mes": "12",
+  "hora_inicio": "12:30",
+  "hora_termino": "13:45",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Tratar ciberataque que afecta a sistemas del Servicio Nacional de Geología y Minería. Aspectos considerados: La Comisión escuchó a los invitados.",
+      "acuerdo": "Sesión reservada. Integrantes: (Presidente) Senador Prohens Espinosa Rafael Senador Castro González Juan Luis Senadora Ebensperger Orrego Luz Eliana Senadora Provoste Campillay Yasna Asistentes: Senadora Núñez Urrutia Paulina",
+      "estado_punto": "",
+      "invitados_punto": "Del Ministerio de Minería, la Ministra, señora Aurora Williams, y el Director Nacional (s) del Sernageomin, señor Mauricio Lorca. Otros asistentes: Del Ministerio de Minería: la Ministra, señora Aurora Williams, y las asesoras legislativas, señora Maritza Cabrera y señora Carolina Herrera. Del Servicio Nacional de Geología y Minería: el Director Nacional (s) señor Mauricio Lorca, y el Jefe del Subdepartamento de Tecnologías de la Información, señor Gonzalo Palet. De la oficina de la Senadora señora Luz Ebensperger, la asesora señora Paola Bobadilla. De la oficina del Senador señor Juan Luis Castro, la jefa de gabinete, señora Meggy López; la asesora legislativa, señora Teresita Fabres, y el asesor señor Arturo León. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Minería, la Ministra, señora Aurora Williams, y el Director Nacional (s) del Sernageomin, señor Mauricio Lorca. Otros asistentes:"
+    },
+    {
+      "bloque": "Del Ministerio de Minería: la Ministra, señora Aurora Williams, y las asesoras legislativas, señora Maritza Cabrera y señora Carolina Herrera. Del Servicio Nacional de Geología y Minería: el Director Nacional (s) señor Mauricio Lorca, y el Jefe del Subdepartamento de Tecnologías de la Información, señor Gonzalo Palet. De la oficina de la Senadora señora Luz Ebensperger, la asesora señora Paola Bobadilla. De la oficina del Senador señor Juan Luis Castro, la jefa de gabinete, señora Meggy López; la asesora legislativa, señora Teresita Fabres, y el asesor señor Arturo León. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,36 @@
+{
+  "id_sesion": "22025",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/22025",
+  "fecha_iso": "2025-10-08",
+  "ano": "2025",
+  "mes": "10",
+  "hora_inicio": "11:20",
+  "hora_termino": "12:40",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16889-05",
+      "tema": "Crea una Agencia de Financiamiento e Inversión para el Desarrollo (Afide), y la autoriza a participar en fondos de fondos Aspectos considerados: La comisión consideró el proyecto.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Macaya Danús Javier Senadora Rincón González Ximena",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Economía, Fomento y Turismo, la Subsecretaria de Economía y Empresas de Menor Tamaño, señora Javiera Petersen; el Asesor Económico, señor Fernando Cortés; la asesora, señora Antonia Sánchez y el Coordinador Legislativo, señor Juan Ignacio Bugueño. Del Ministerio Secretaría General de la Presidencia, el asesor, señor Héctor Correa. Los asesores del Honorable Senador Galilea, señores José Pedro Ríos y Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Economía, Fomento y Turismo, la Subsecretaria de Economía y Empresas de Menor Tamaño, señora Javiera Petersen; el Asesor Económico, señor Fernando Cortés; la asesora, señora Antonia Sánchez y el Coordinador Legislativo, señor Juan Ignacio Bugueño."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, el asesor, señor Héctor Correa. Los asesores del Honorable Senador Galilea, señores José Pedro Ríos y Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

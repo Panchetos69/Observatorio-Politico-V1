@@ -1,0 +1,157 @@
+{
+  "id_sesion": "21684",
+  "id_comision": "195",
+  "nombre_comision": "Comisión de Salud",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/195/21684",
+  "fecha_iso": "2025-07-08",
+  "ano": "2025",
+  "mes": "07",
+  "hora_inicio": "09:30",
+  "hora_termino": "11:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17375-11",
+      "tema": "Proyecto de ley que moderniza el Sistema Nacional de Servicios de la Salud; fortalece al Fondo Nacional de Salud; crea el Servicio Nacional de Salud Digital; otorga facultades al Instituto de Salud Pública de Chile y a la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, y modifica normas que indica. Aspectos considerados: Los invitados dieron a conocer su opinión acerca del proyecto de ley y formularon observaciones al texto.",
+      "acuerdo": "Continuar la discusión de la iniciativa de ley en una próxima sesión. Integrantes: (Presidente) Senador Flores García Iván Senador Chahuán Chahuán Francisco Senador Gahona Salazar Sergio Senadora Ordenes Neira Ximena",
+      "estado_punto": "",
+      "invitados_punto": "La Presidenta del Sindicato de Funcionarios Profesionales del Ministerio de Salud (FUNPRO MINSAL), señora Paula Díaz.De FUNPRO MINSAL: el Tesorero, señor Gabriel Abrigo; el Director, señor Matías Córdova, y la Secretaria, señora Nataly Cortínez. Otros asistentes: El Coordinador del Ministerio de Salud, señor Cristian Miquel.Del Instituto de Salud Pública de Chile: la Directora, señora Catterina Ferreccio; la Jefa de Asuntos Regulatorios, señora Cynthia Salamanca, y la Jefa (S) Unidad de Sistemas de Información y Coordinadora de Transformación Digital, señora Isabel Maureira.El Asesor del Ministerio Secretaría General de la Presidencia, señor Cristian Vargas.El Asesor de la Fundación Jaime Guzmán, señor Arturo Hasbún.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende, y señor Mauricio Vásquez.Los Asesores del Senador Juan Luis Castro, señora Teresita Fabres, y señor Arturo León.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.El Asesor de la Senadora Ximena Ordenes, señor Pablo Flores.El Asesor del Senador Francisco Chahuán, señor Marcelo Sanhueza.El Asesor del Comité RN, señor Octavio Tapia.La Asesora del Comité PPD, señora Paulin Silva."
+    },
+    {
+      "numero": 2,
+      "boletin": "16099-07",
+      "tema": "Proyecto de reforma constitucional que modifica la Carta Fundamental, con el objeto de consagrar el incentivo de la atención pediátrica integral en los centros de salud. Aspectos considerados: Se informó a la Comisión sobre el estado de tramitación del proyecto de ley.",
+      "acuerdo": "Se acordó despachar el proyecto de ley a la Comisión de Constitución, por no haberse presentado indicaciones al texto aprobado en general. Integrantes: (Presidente) Senador Flores García Iván Senador Castro González Juan Luis Senador Chahuán Chahuán Francisco Senador Gahona Salazar Sergio Senadora Ordenes Neira Ximena",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "Otros asistentes: El Coordinador del Ministerio de Salud, señor Cristian Miquel.Del Instituto de Salud Pública de Chile: la Directora, señora Catterina Ferreccio; la Jefa de Asuntos Regulatorios, señora Cynthia Salamanca, y la Jefa (S) Unidad de Sistemas de Información y Coordinadora de Transformación Digital, señora Isabel Maureira.El Asesor del Ministerio Secretaría General de la Presidencia, señor Cristian Vargas.El Asesor de la Fundación Jaime Guzmán, señor Arturo Hasbún.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende, y señor Mauricio Vásquez.Los Asesores del Senador Juan Luis Castro, señora Teresita Fabres, y señor Arturo León.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.El Asesor de la Senadora Ximena Ordenes, señor Pablo Flores.El Asesor del Senador Francisco Chahuán, señor Marcelo Sanhueza.El Asesor del Comité RN, señor Octavio Tapia.La Asesora del Comité PPD, señora Paulin Silva."
+    },
+    {
+      "numero": 3,
+      "boletin": "",
+      "tema": "Información sobre el incidente informático ocurrido en el Instituto de Salud Pública. Aspectos considerados: La Directora del ISP dio a conocer el incidente ocurrido en el sistema informático.",
+      "acuerdo": "Esta parte de la sesión fue declarada secreta por la Comisión. Integrantes: (Presidente) Senador Flores García Iván Senador Castro González Juan Luis Senador Chahuán Chahuán Francisco Senador Gahona Salazar Sergio Senadora Ordenes Neira Ximena",
+      "estado_punto": "",
+      "invitados_punto": "Del Instituto de Salud Pública de Chile: la Directora, señora Catterina Ferreccio; la Jefa de Asuntos Regulatorios, señora Cynthia Salamanca, y la Jefa (S) Unidad de Sistemas de Información y Coordinadora de Transformación Digital, señora Isabel Maureira. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "La Presidenta del Sindicato de Funcionarios Profesionales del Ministerio de Salud (FUNPRO MINSAL), señora Paula Díaz.De FUNPRO MINSAL: el Tesorero, señor Gabriel Abrigo; el Director, señor Matías Córdova, y la Secretaria, señora Nataly Cortínez."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "El Coordinador del Ministerio de Salud, señor Cristian Miquel.Del Instituto de Salud Pública de Chile: la Directora, señora Catterina Ferreccio; la Jefa de Asuntos Regulatorios, señora Cynthia Salamanca, y la Jefa (S) Unidad de Sistemas de Información y Coordinadora de Transformación Digital, señora Isabel Maureira.El Asesor del Ministerio Secretaría General de la Presidencia, señor Cristian Vargas.El Asesor de la Fundación Jaime Guzmán, señor Arturo Hasbún.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende, y señor Mauricio Vásquez.Los Asesores del Senador Juan Luis Castro, señora Teresita Fabres, y señor Arturo León.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.El Asesor de la Senadora Ximena Ordenes, señor Pablo Flores.El Asesor del Senador Francisco Chahuán, señor Marcelo Sanhueza.El Asesor del Comité RN, señor Octavio Tapia.La Asesora del Comité PPD, señora Paulin Silva."
+    },
+    {
+      "nombre": "Punto 2"
+    },
+    {
+      "nombre": "Boletin:"
+    },
+    {
+      "nombre": "16099-07"
+    },
+    {
+      "nombre": "Proyecto de reforma constitucional que modifica la Carta Fundamental, con el objeto de consagrar el incentivo de la atención pediátrica integral en los centros de salud."
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "Se informó a la Comisión sobre el estado de tramitación del proyecto de ley."
+    },
+    {
+      "nombre": "Acuerdos:"
+    },
+    {
+      "nombre": "Se acordó despachar el proyecto de ley a la Comisión de Constitución, por no haberse presentado indicaciones al texto aprobado en general."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente) Senador Flores García Iván"
+    },
+    {
+      "nombre": "Senador Castro González Juan Luis"
+    },
+    {
+      "nombre": "Senador Chahuán Chahuán Francisco"
+    },
+    {
+      "nombre": "Senador Gahona Salazar Sergio"
+    },
+    {
+      "nombre": "Senadora Ordenes Neira Ximena"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "El Coordinador del Ministerio de Salud, señor Cristian Miquel.Del Instituto de Salud Pública de Chile: la Directora, señora Catterina Ferreccio; la Jefa de Asuntos Regulatorios, señora Cynthia Salamanca, y la Jefa (S) Unidad de Sistemas de Información y Coordinadora de Transformación Digital, señora Isabel Maureira.El Asesor del Ministerio Secretaría General de la Presidencia, señor Cristian Vargas.El Asesor de la Fundación Jaime Guzmán, señor Arturo Hasbún.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende, y señor Mauricio Vásquez.Los Asesores del Senador Juan Luis Castro, señora Teresita Fabres, y señor Arturo León.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.El Asesor de la Senadora Ximena Ordenes, señor Pablo Flores.El Asesor del Senador Francisco Chahuán, señor Marcelo Sanhueza.El Asesor del Comité RN, señor Octavio Tapia.La Asesora del Comité PPD, señora Paulin Silva."
+    },
+    {
+      "nombre": "Punto 3"
+    },
+    {
+      "nombre": "Información sobre el incidente informático ocurrido en el Instituto de Salud Pública."
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "La Directora del ISP dio a conocer el incidente ocurrido en el sistema informático."
+    },
+    {
+      "nombre": "Acuerdos:"
+    },
+    {
+      "nombre": "Esta parte de la sesión fue declarada secreta por la Comisión."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente) Senador Flores García Iván"
+    },
+    {
+      "nombre": "Senador Castro González Juan Luis"
+    },
+    {
+      "nombre": "Senador Chahuán Chahuán Francisco"
+    },
+    {
+      "nombre": "Senador Gahona Salazar Sergio"
+    },
+    {
+      "nombre": "Senadora Ordenes Neira Ximena"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "Del Instituto de Salud Pública de Chile: la Directora, señora Catterina Ferreccio; la Jefa de Asuntos Regulatorios, señora Cynthia Salamanca, y la Jefa (S) Unidad de Sistemas de Información y Coordinadora de Transformación Digital, señora Isabel Maureira."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

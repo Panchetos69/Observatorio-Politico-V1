@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21817",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21817",
+  "fecha_iso": "2025-08-13",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "10:44",
+  "hora_termino": "12:31",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16371-24",
+      "tema": "Dicta normas sobre protección y fomento de la artesanía Aspectos considerados: La comisión continuó con la discusión del proyecto de ley.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente Accidental) Senador Insulza Salinas José Miguel (Presidente) Senadora Rincón González Ximena Senador Kuschel Silva Carlos Ignacio en reemplazo de Galilea Vial Rodrigo Senador Lagos Weber Ricardo Senador Macaya Danús Javier",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de las Culturas, las Artes y el Patrimonio, la Ministra, señora Carolina Arredondo; la Coordinadora Legislativa, señora Victoria Fullerton; los asesores, señoras Mercedes Montalva, Tatiana Larredonda y señor Rodney Belmar. Del Ministerio Secretaría General de la Presidencia, el asesor, señor Diego Castillo. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señoras Lorena Escalona, Javiera Gómez y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de las Culturas, las Artes y el Patrimonio, la Ministra, señora Carolina Arredondo; la Coordinadora Legislativa, señora Victoria Fullerton; los asesores, señoras Mercedes Montalva, Tatiana Larredonda y señor Rodney Belmar."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, el asesor, señor Diego Castillo. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señoras Lorena Escalona, Javiera Gómez y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

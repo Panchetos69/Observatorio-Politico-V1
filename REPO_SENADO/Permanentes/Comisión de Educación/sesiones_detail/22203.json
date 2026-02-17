@@ -1,0 +1,36 @@
+{
+  "id_sesion": "22203",
+  "id_comision": "189",
+  "nombre_comision": "Comisión de Educación",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/189/22203",
+  "fecha_iso": "2025-12-16",
+  "ano": "2025",
+  "mes": "12",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:04",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17489-04",
+      "tema": "Continuar la discusión en general, del proyecto de ley en segundo trámite constitucional, que modifica y prorroga la vigencia de la ley N° 19.648, que otorga titularidad en el cargo a profesores contratados a plazo fijo por más de tres años (Boletín 17.489-04, 17.749-04 y 17.755-04, refundidos). Aspectos considerados: Se escuchó la exposición del Presidente del Colegio de Profesoras y Profesores de Chile, señor Mario Aguilar; de la Alcaldesa de Colina, señora Isabel Valenzuela, así como también los comentarios y opiniones de la Subsecretaria de Educación, señora Alejandra Arratia y de los Senadores presentes. Posteriormente su puso en votación en general.",
+      "acuerdo": "Aprobado en general, pasa a la sala. Integrantes: (Presidente) Senador Sanhueza Dueñas Gustavo Senador Kast Sommerhoff Felipe Senadora Provoste Campillay Yasna Senador Saavedra Chandía Gastón en reemplazo de Espinoza Sandoval Fidel",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "Del Ministerio de Educación: la Subsecretaria, señora Alejandra Arratia y los Asesores, señoras Macarena Galaz y Natalia Cortés; y señor Matías Sandoval y el Periodista, señor José Miguel Gutiérrez. Del Colegio de Profesores de Chile: el Presidente, señor Mario Aguilar; el Segundo Vicepresidente, señor Guido Reyes; la Directora, señora Ligia Gallegos y del Área de Comunicaciones, señor Patricio Quintana. De la Asociación Chilena de Municipalidades, ACHM: la Alcaldesa de la Municipalidad de Colina y Vicepresidenta de la Comisión de Educación de esa entidad, señora Isabel Valenzuela, y el Asesor Legislativo, señor Sebastián Torrealba. Otros asistentes: Del Ministerio Secretaría General de la Presidencia: el Asesor, señor José Miguel Pulgar. De la Biblioteca del Congreso Nacional: el Investigador, señor Mario Poblete. De la oficina del HS. Sanhueza: la Asesora, señora Carolina Navarrete. De la oficina de la HS. Provoste: los Asesores, señores Rodrigo Vega y Enrique Soler. Del Comité PS: los Asesores, señora Martina Riveros y señor Mauricio Galvez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Educación: la Subsecretaria, señora Alejandra Arratia y los Asesores, señoras Macarena Galaz y Natalia Cortés; y señor Matías Sandoval y el Periodista, señor José Miguel Gutiérrez. Del Colegio de Profesores de Chile: el Presidente, señor Mario Aguilar; el Segundo Vicepresidente, señor Guido Reyes; la Directora, señora Ligia Gallegos y del Área de Comunicaciones, señor Patricio Quintana. De la Asociación Chilena de Municipalidades, ACHM: la Alcaldesa de la Municipalidad de Colina y Vicepresidenta de la Comisión de Educación de esa entidad, señora Isabel Valenzuela, y el Asesor Legislativo, señor Sebastián Torrealba. Otros asistentes:"
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: el Asesor, señor José Miguel Pulgar. De la Biblioteca del Congreso Nacional: el Investigador, señor Mario Poblete. De la oficina del HS. Sanhueza: la Asesora, señora Carolina Navarrete. De la oficina de la HS. Provoste: los Asesores, señores Rodrigo Vega y Enrique Soler. Del Comité PS: los Asesores, señora Martina Riveros y señor Mauricio Galvez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

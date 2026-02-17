@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21958",
+  "id_comision": "189",
+  "nombre_comision": "Comisión de Educación",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/189/21958",
+  "fecha_iso": "2025-09-16",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "11:30",
+  "hora_termino": "12:33",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16763-04",
+      "tema": "Continuar la discusión en particular del proyecto de ley, en primer trámite constitucional, que modifica la Ley sobre Subvención del Estado a Establecimientos Educacionales, en cuanto al proceso de admisión escolar (Boletín Nos 16.763-04 y N° 16.766-04, refundidos). Aspectos considerados: Continuó la discusión y votación de las indicaciones presentadas al proyecto de ley.",
+      "acuerdo": "Despachado. Pasa a la Sala. Integrantes: (Presidente) Senador Sanhueza Dueñas Gustavo Senador Castro González Juan Luis en reemplazo de Espinoza Sandoval Fidel Senadora Provoste Campillay Yasna",
+      "estado_punto": "DESPACHADO",
+      "invitados_punto": "Del Ministerio de Educación: el Ministro, señor Nicolás Cataldo; el Coordinador Jurídico-Legislativo, señor Leonardo Vilches; los Asesores, señora Valentina Ríos y señor Eduardo Díaz. Otros asistentes: Del Ministerio Secretaría General de la Presidencia: el Asesor, señor Cristian Vargas. De la Biblioteca del Congreso Nacional: el Investigador, señor Mario Poblete. De la oficina del HS. Sanhueza: la Asesora, señora Carolina Navarrete. De la oficina del HS. J.L. Castro: el Asesor, señor Arturo León. De la oficina de la HS. Pascual: el Asesor, señor Mauricio Díaz. De la oficina de la HS. Provoste: los Asesores, señores Rodrigo Vega y Julio Valladares. De la oficina de la Diputada Arce: la Asesora, señora Claudia Toval. De Fundación Jaime Guzmán: los Asesores, señora Antonella León y señor Joaquín García. Del Comité RN: el Asesor, señor Benjamín Sáenz. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Educación: el Ministro, señor Nicolás Cataldo; el Coordinador Jurídico-Legislativo, señor Leonardo Vilches; los Asesores, señora Valentina Ríos y señor Eduardo Díaz. Otros asistentes:"
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: el Asesor, señor Cristian Vargas. De la Biblioteca del Congreso Nacional: el Investigador, señor Mario Poblete. De la oficina del HS. Sanhueza: la Asesora, señora Carolina Navarrete. De la oficina del HS. J.L. Castro: el Asesor, señor Arturo León. De la oficina de la HS. Pascual: el Asesor, señor Mauricio Díaz. De la oficina de la HS. Provoste: los Asesores, señores Rodrigo Vega y Julio Valladares. De la oficina de la Diputada Arce: la Asesora, señora Claudia Toval. De Fundación Jaime Guzmán: los Asesores, señora Antonella León y señor Joaquín García. Del Comité RN: el Asesor, señor Benjamín Sáenz. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,51 @@
+{
+  "id_sesion": "21544",
+  "id_comision": "615",
+  "nombre_comision": "Comisión de Seguridad Pública",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/615/21544",
+  "fecha_iso": "2025-06-02",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "15:45",
+  "hora_termino": "16:45",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Recibir en audiencia a la Federación de Empresas de Turismo de Chile (FEDETUR) y al Movimiento Ciudadano No Más Víctimas, quienes expondrán sobre el problema de la violencia y delincuencia desde su experiencia. Aspectos considerados: La Comisión escuchó las exposiciones de los invitados y luego realizó un intercambio de opiniones con estos.",
+      "acuerdo": "No hubo. Integrantes: (Presidente) Senador Durana Semir José Miguel Senadora Pascual Grau Claudia Senador Pugh Olavarría Kenneth Senador Quintana Leal Jaime",
+      "estado_punto": "",
+      "invitados_punto": "De la Federación de Empresas de Turismo de Chile (FEDETUR): la Presidenta Ejecutiva, señora Mónica Zalaquett; la Gerente de Desarrollo y Relacionamiento, señora Francisca Herrera , y el asesor regulatorio, señor Francisco Moreno. Del Movimiento Ciudadano No Más Victimas: el Vocero, señor José Miguel González; el Encargado de Redes Sociales, señor José Ignacio Espinoza, y señora Claudia Contreras, señor Andrés Cubillos, señor José Ignacio Espinoza y señor Raúl Moya (víctimas). Otros asistentes: Del Comité de Senadores UDI: la asesora, señora Macarena Cox.Los asesores parlamentarios: del Senador Durana, señora Pamela Cousins y señor César Quiroga, y de la Senadora Pascual, señor Mauricio Díaz y señor Roberto Carrasco. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "De la Federación de Empresas de Turismo de Chile (FEDETUR): la Presidenta Ejecutiva, señora Mónica Zalaquett; la Gerente de Desarrollo y Relacionamiento, señora Francisca Herrera , y el asesor regulatorio, señor Francisco Moreno."
+    },
+    {
+      "nombre": "Del Movimiento Ciudadano No Más Victimas: el Vocero, señor José Miguel González; el Encargado de Redes Sociales, señor José Ignacio Espinoza, y señora Claudia Contreras, señor Andrés Cubillos, señor José Ignacio Espinoza y señor Raúl Moya (víctimas)."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Del Comité de Senadores UDI: la asesora, señora Macarena Cox.Los asesores parlamentarios: del Senador Durana, señora Pamela Cousins y señor César Quiroga, y de la Senadora Pascual, señor Mauricio Díaz y señor Roberto Carrasco."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

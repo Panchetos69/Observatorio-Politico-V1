@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22193",
+  "id_comision": "191",
+  "nombre_comision": "Comisión de Obras Públicas",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/191/22193",
+  "fecha_iso": "2025-12-10",
+  "ano": "2025",
+  "mes": "12",
+  "hora_inicio": "12:30",
+  "hora_termino": "13:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "10795-33",
+      "tema": "Proyecto de ley, en segundo trámite constitucional, que modifica la legislación aplicable a los servicios públicos sanitarios, en materia de servicios no regulados, de fijación tarifaria y de cumplimiento de planes de desarrollo por parte de los prestadores. Aspectos considerados: La Comisión continuó el estudio de las indicaciones presentadas a la iniciativa legal de la referencia.",
+      "acuerdo": "Despachado. Pasa a la Sala. Integrantes: (Presidente Accidental) Senador Gahona Salazar Sergio Senador Coloma Correa Juan Antonio Senador Walker Prieto Matías",
+      "estado_punto": "DESPACHADO",
+      "invitados_punto": "DEL MINISTERIO DE OBRAS PÚBLICAS: Jefe de la División Jurídica de la Superintendencia de Servicios Sanitarios, señor Federico Alles, y coordinador de Recursos Hídricos, señor Carlos Estévez. Otros asistentes: DEL MINISTERIO DE OBRAS PÚBLICAS: coordinador legislativo, señor Tomás Mendoza. DEL MINISTERÍO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesor, señor Diego Castillo. ASESORES PARLAMENTARIOS: del Honorable Senador Coloma, señora Carolina Infante (vía telemática) y señor Álvaro Pillado; del Honorable Senador Gahona, señor Benjamín Rug; de la Honorable Senadora Gatica, señores Felipe Pereira y Cristóbal Santa María (este último vía telemática) y señora Elisa Ríos, y del Honorable Senador Walker, señor Ignacio Ortega. DEL COMITÉ PARTIDO DEMÓCRATAS CHILE: asesora, señora Paz Anastasiadis. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analista, señor Hernán Cerda. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Joaquín García. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DE OBRAS PÚBLICAS: Jefe de la División Jurídica de la Superintendencia de Servicios Sanitarios, señor Federico Alles, y coordinador de Recursos Hídricos, señor Carlos Estévez."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO DE OBRAS PÚBLICAS: coordinador legislativo, señor Tomás Mendoza. DEL MINISTERÍO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesor, señor Diego Castillo. ASESORES PARLAMENTARIOS: del Honorable Senador Coloma, señora Carolina Infante (vía telemática) y señor Álvaro Pillado; del Honorable Senador Gahona, señor Benjamín Rug; de la Honorable Senadora Gatica, señores Felipe Pereira y Cristóbal Santa María (este último vía telemática) y señora Elisa Ríos, y del Honorable Senador Walker, señor Ignacio Ortega. DEL COMITÉ PARTIDO DEMÓCRATAS CHILE: asesora, señora Paz Anastasiadis. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analista, señor Hernán Cerda. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Joaquín García."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

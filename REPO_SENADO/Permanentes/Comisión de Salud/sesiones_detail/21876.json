@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21876",
+  "id_comision": "195",
+  "nombre_comision": "Comisión de Salud",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/195/21876",
+  "fecha_iso": "2025-09-01",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "14:00",
+  "hora_termino": "15:40",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "7736-11",
+      "tema": "Proyecto de ley que establece el derecho a optar voluntariamente para recibir asistencia médica con el objeto de acelerar la muerte en caso de enfermedad terminal e incurable (Boletines N°s. 7.736-11; 9.644-11; 11.577-11, y 11.745-11, refundidos). Aspectos considerados: La Comisión escuchó las intervenciones de los expositores invitados.",
+      "acuerdo": "Continuar con la ronda de audiencias. Integrantes: (Presidente) Senador Flores García Iván Senador Chahuán Chahuán Francisco Senador Moreira Barros Iván en reemplazo de Gahona Salazar Sergio Senadora Ordenes Neira Ximena Asistentes: Diputado Mirosevic Verdugo Vlado Diputada Musante Müller Camila",
+      "estado_punto": "",
+      "invitados_punto": "El Profesor Experto en Bioética de la Universidad de Chile, Dr. Miguel Kottow. El Doctor en Filosofía de la Universidad Complutense de Madrid, señor Felipe Widow. El Padre de Valentina Maureira, paciente que solicitó eutanasia, señor Freddy Maureira.La Ministra, Dra. Ximena Aguilera. La Subsecretaria, señora Andrea Albagli. Otros asistentes: Del Ministerio de Salud: el Coordinador Legislativo, señor Cristian Miquel; el Jefe de la Reforma, señor Sergio Sánchez; la Jefa de Comunicaciones, señora Maritza Labraña, y el Asesor, señor Andrés Perry.De la Subsecretaría de Salud Pública: los Asesores, señora Evelyn Reyes, y señor Camilo Brauchy.Del Ministerio Secretaría General de la Presidencia: la Procuradora, señora Isidora Yáñez.De la Biblioteca del Congreso Nacional: el Investigador, señor Eduardo Goldstein.La Asesora del Senador Iván Flores, señora Carolina Allende.La Asesora del Senador Juan Luis Castro, señora Teresita Fabres.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.El Asesor de la Senadora Ximena Ordenes, señor Pablo Flores.El Asesor del Senador Iván Moreira, señor Raúl Araneda.La Asesora del Comité UDI, señora Cristina Pinochet. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Salud: el Coordinador Legislativo, señor Cristian Miquel; el Jefe de la Reforma, señor Sergio Sánchez; la Jefa de Comunicaciones, señora Maritza Labraña, y el Asesor, señor Andrés Perry.De la Subsecretaría de Salud Pública: los Asesores, señora Evelyn Reyes, y señor Camilo Brauchy.Del Ministerio Secretaría General de la Presidencia: la Procuradora, señora Isidora Yáñez.De la Biblioteca del Congreso Nacional: el Investigador, señor Eduardo Goldstein.La Asesora del Senador Iván Flores, señora Carolina Allende.La Asesora del Senador Juan Luis Castro, señora Teresita Fabres.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.El Asesor de la Senadora Ximena Ordenes, señor Pablo Flores.El Asesor del Senador Iván Moreira, señor Raúl Araneda.La Asesora del Comité UDI, señora Cristina Pinochet. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21383",
+  "id_comision": "191",
+  "nombre_comision": "Comisión de Obras Públicas",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/191/21383",
+  "fecha_iso": "2025-04-16",
+  "ano": "2025",
+  "mes": "04",
+  "hora_inicio": "12:30",
+  "hora_termino": "14:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Conocer el estado de avance de la construcción del Hospital de La Unión. Aspectos considerados: La Comisión trató la situación del Hospital de La Unión, recibiendo a audiencia al Ministro (S) del Ministerio de Obras Públicas; al Director General de Concesiones de dicha Secretaría de Estado, y al Coordinador de Infraestructura Hospitalaria de la Dirección General de Concesiones. Integrantes: (Presidente) Senadora Gatica Bertin María José Senador Coloma Correa Juan Antonio Senador De Urresti Longton Alfonso Senador Gahona Salazar Sergio Senador Walker Prieto Matías Asistentes: Senador Castro Prieto Juan Diputado Von Mühlenbrock Zamora Gastón",
+      "acuerdo": "",
+      "estado_punto": "",
+      "invitados_punto": "DEL MINISTERIO DE OBRAS PÚBLICAS: Ministro (s), señor Danilo Núñez; Director General de Concesiones, señor Juan Manuel Sánchez, y Coordinador de Infraestructura Hospitalaria de la Dirección General de Concesiones, señor Ricardo Faúndez. DE FENATS HISTÓRICA - HOSPITAL DE LA UNIÓN: Presidenta, señora Sara Barría. DE LA CONFEDERACIÓN NACIONAL DE PROFESIONALES UNIVERSITARIOS DE LOS SERVICIOS DE SALUD (FENPRUSS) - HOSPITAL DE LA UNIÓN: Presidente, señor Gerson Burgos, y Tesorero, señor Javier Vera. Otros asistentes: DEL MINISTERIO DE OBRAS PÚBLICAS: Jefa de la Unidad de Control de Gestión, Seguimiento y Monitoreo Estratégico, señora Leticia Rivas, y asesor, señor Tomás Mendoza. DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesor, señor Diego Castillo. ASESORES LEGISLATIVOS: del Honorable Senador Castro Prieto, señor Sergio Mancilla; del Honorable Senador Coloma, señora Carolina Infante (vía telemática); del Honorable Senador De Urresti, señor Luciano Candia y señora Fernanda Valencia; del Honorable Senador Gahona, señor Benjamín Rug (vía telemática); de la Honorable Senadora Gatica, señoras Eliana Azócar y Bernardita Castillo y señores Henry Azurmendi (vía telemática), Enrique Larre (vía telemática), Felipe Pereira y Alex Valderrama (vía telemática), y del Honorable Senador Walker, señor Ignacio Ortega. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Joaquín García. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analista, señor Hernán Cerda. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DE OBRAS PÚBLICAS: Ministro (s), señor Danilo Núñez; Director General de Concesiones, señor Juan Manuel Sánchez, y Coordinador de Infraestructura Hospitalaria de la Dirección General de Concesiones, señor Ricardo Faúndez. DE FENATS HISTÓRICA - HOSPITAL DE LA UNIÓN: Presidenta, señora Sara Barría. DE LA CONFEDERACIÓN NACIONAL DE PROFESIONALES UNIVERSITARIOS DE LOS SERVICIOS DE SALUD (FENPRUSS) - HOSPITAL DE LA UNIÓN: Presidente, señor Gerson Burgos, y Tesorero, señor Javier Vera."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO DE OBRAS PÚBLICAS: Jefa de la Unidad de Control de Gestión, Seguimiento y Monitoreo Estratégico, señora Leticia Rivas, y asesor, señor Tomás Mendoza. DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: asesor, señor Diego Castillo. ASESORES LEGISLATIVOS: del Honorable Senador Castro Prieto, señor Sergio Mancilla; del Honorable Senador Coloma, señora Carolina Infante (vía telemática); del Honorable Senador De Urresti, señor Luciano Candia y señora Fernanda Valencia; del Honorable Senador Gahona, señor Benjamín Rug (vía telemática); de la Honorable Senadora Gatica, señoras Eliana Azócar y Bernardita Castillo y señores Henry Azurmendi (vía telemática), Enrique Larre (vía telemática), Felipe Pereira y Alex Valderrama (vía telemática), y del Honorable Senador Walker, señor Ignacio Ortega. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Joaquín García. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analista, señor Hernán Cerda."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

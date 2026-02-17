@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Vivienda y Urbanismo",
+  "id": "197",
+  "integrantes": [
+    {
+      "nombre": "Juan Ignacio Latorre Riveros",
+      "cargo": "",
+      "id": "juan-ignacio-latorre-riveros-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/juan-ignacio-latorre-riveros-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Fidel Espinoza Sandoval",
+      "cargo": "",
+      "id": "fidel-espinoza-sandoval-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/fidel-espinoza-sandoval-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "María José Gatica Bertin",
+      "cargo": "",
+      "id": "maria-jose-gatica-bertin-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/maria-jose-gatica-bertin-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Yasna Provoste Campillay",
+      "cargo": "",
+      "id": "yasna-provoste-campillay-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/yasna-provoste-campillay-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "David Sandoval Plaza",
+      "cargo": "",
+      "id": "david-sandoval-plaza-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/david-sandoval-plaza-sen",
+      "chamber": "senado"
+    }
+  ]
+}

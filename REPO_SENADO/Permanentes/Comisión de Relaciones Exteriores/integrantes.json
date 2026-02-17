@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Relaciones Exteriores",
+  "id": "221",
+  "integrantes": [
+    {
+      "nombre": "Iván Moreira Barros",
+      "cargo": "",
+      "id": "ivan-moreira-barros-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/ivan-moreira-barros-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Rojo Edwards Silva",
+      "cargo": "",
+      "id": "rojo-edwards-silva-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/rojo-edwards-silva-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "José Miguel Insulza Salinas",
+      "cargo": "",
+      "id": "jose-miguel-insulza-salinas-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/jose-miguel-insulza-salinas-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Felipe  Kast Sommerhoff",
+      "cargo": "",
+      "id": "felipe-kast-sommerhoff-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/felipe-kast-sommerhoff-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Juan Ignacio Latorre Riveros",
+      "cargo": "",
+      "id": "juan-ignacio-latorre-riveros-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/juan-ignacio-latorre-riveros-sen",
+      "chamber": "senado"
+    }
+  ]
+}

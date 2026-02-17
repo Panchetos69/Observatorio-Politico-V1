@@ -1,0 +1,101 @@
+{
+  "id_sesion": "21533",
+  "id_comision": "192",
+  "nombre_comision": "Comisión de Agricultura",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/192/21533",
+  "fecha_iso": "2025-05-28",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "11:00",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "14714-01",
+      "tema": "Proyecto de ley que establece una ley marco de suelos. Aspectos considerados: Se recibió a los científicos y académicos que elaboraron el anteproyecto para conocer su opinión respecto de la indicación sustitutiva presentada por el Ejecutivo.",
+      "acuerdo": "Los académicos y científicos enviarán una minuta detallada con sus observaciones sobre la indicación sustitutiva del Ejecutivo, dentro de las siguientes tres semanas. Integrantes: (Presidente) Senadora Sepúlveda Orbenes Alejandra Senadora Carvajal Ambiado Loreto Senador Durana Semir José Miguel",
+      "estado_punto": "",
+      "invitados_punto": "Los Académicos: Señora Mónica Antilén, profesora Pontificia Universidad Católica de Chile. Señora Claudia Rojas, profesora Universidad de O`Higgins. Señor Felipe Zúñiga, profesor auxiliar Universidad Austral de Chile. Otros asistentes: Por el Ministerio Secretaría General de la Presidencia, los asesores, don Miguel Ángel Vergara, y don David Olivares; por el Ministerio de Agricultura, la asesora, doña Catalina Núñez; por la Biblioteca del Congreso Nacional, el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Mauricio Vásquez y don Hermes Gutiérrez; por la Senadora señora Carvajal, doña Tali Marras; por el Senador señor Durana, don César Quiroga y doña Pamela Cousins, y por la Fundación Jaime Guzmán, don Juan José Llorente."
+    },
+    {
+      "numero": 2,
+      "boletin": "",
+      "tema": "Conocer la opinión de la Directora de la Corporación Nacional Forestal (Conaf) respecto de la presentación de los Sindicatos de dicha institución. Aspectos considerados: Se escuchó la exposición de la Directora Ejecutiva de la Corporación Nacional Forestal.",
+      "acuerdo": "Continuar analizando esta situación en la sesión del lunes 2 de junio en Santiago, con la presencia de los representantes de los sindicatos de trabajadores, el Ministro de Agricultura y la Directora Ejecutiva de Conaf. Integrantes: (Presidente) Senadora Sepúlveda Orbenes Alejandra Senadora Carvajal Ambiado Loreto Senador De Rementería Venegas Tomás Senador Durana Semir José Miguel",
+      "estado_punto": "",
+      "invitados_punto": "Por la Corporación Nacional Forestal: la Directora Ejecutiva, señora Aida Baldini; el Subdirector, señor Rodrigo Illesca; el Gerente Forestal, señor Jorge Céspedes, y el asesor, señor Maximiliano Guiñez. La Jefe de Gabinete de la Oficina de Estudios y Políticas Agrarias, ODEPA, señora María José Pizarro. Por el Ministerio de Agricultura, la asesora legislativa, señora Catalina Núñez. Otros asistentes: Por el Ministerio Secretaría General de la Presidencia, los asesores, don Miguel Ángel Vergara, y don David Olivares; por la Corporación Nacional Forestal la periodista, doña Mabel Salamanca; por la Biblioteca del Congreso Nacional, el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Mauricio Vásquez y don Hermes Gutiérrez; por la Senadora señora Carvajal, doña Tali Marras; por el Senador señor Durana, don César Quiroga y doña Pamela Cousins, y por la Fundación Jaime Guzmán, don Juan José Llorente. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Los Académicos: Señora Mónica Antilén, profesora Pontificia Universidad Católica de Chile. Señora Claudia Rojas, profesora Universidad de O`Higgins. Señor Felipe Zúñiga, profesor auxiliar Universidad Austral de Chile."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio Secretaría General de la Presidencia, los asesores, don Miguel Ángel Vergara, y don David Olivares; por el Ministerio de Agricultura, la asesora, doña Catalina Núñez; por la Biblioteca del Congreso Nacional, el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Mauricio Vásquez y don Hermes Gutiérrez; por la Senadora señora Carvajal, doña Tali Marras; por el Senador señor Durana, don César Quiroga y doña Pamela Cousins, y por la Fundación Jaime Guzmán, don Juan José Llorente."
+    },
+    {
+      "nombre": "Punto 2"
+    },
+    {
+      "nombre": "Conocer la opinión de la Directora de la Corporación Nacional Forestal (Conaf) respecto de la presentación de los Sindicatos de dicha institución."
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "Se escuchó la exposición de la Directora Ejecutiva de la Corporación Nacional Forestal."
+    },
+    {
+      "nombre": "Acuerdos:"
+    },
+    {
+      "nombre": "Continuar analizando esta situación en la sesión del lunes 2 de junio en Santiago, con la presencia de los representantes de los sindicatos de trabajadores, el Ministro de Agricultura y la Directora Ejecutiva de Conaf."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente) Senadora Sepúlveda Orbenes Alejandra"
+    },
+    {
+      "nombre": "Senadora Carvajal Ambiado Loreto"
+    },
+    {
+      "nombre": "Senador De Rementería Venegas Tomás"
+    },
+    {
+      "nombre": "Senador Durana Semir José Miguel"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "Por la Corporación Nacional Forestal: la Directora Ejecutiva, señora Aida Baldini; el Subdirector, señor Rodrigo Illesca; el Gerente Forestal, señor Jorge Céspedes, y el asesor, señor Maximiliano Guiñez. La Jefe de Gabinete de la Oficina de Estudios y Políticas Agrarias, ODEPA, señora María José Pizarro. Por el Ministerio de Agricultura, la asesora legislativa, señora Catalina Núñez."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Por el Ministerio Secretaría General de la Presidencia, los asesores, don Miguel Ángel Vergara, y don David Olivares; por la Corporación Nacional Forestal la periodista, doña Mabel Salamanca; por la Biblioteca del Congreso Nacional, el profesional, don Paco González. Asesores Parlamentarios: de la Senadora señora Sepúlveda, don Mauricio Vásquez y don Hermes Gutiérrez; por la Senadora señora Carvajal, doña Tali Marras; por el Senador señor Durana, don César Quiroga y doña Pamela Cousins, y por la Fundación Jaime Guzmán, don Juan José Llorente."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

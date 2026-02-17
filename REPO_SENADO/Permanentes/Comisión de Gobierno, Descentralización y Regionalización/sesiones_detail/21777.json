@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21777",
+  "id_comision": "185",
+  "nombre_comision": "Comisión de Gobierno, Descentralización y Regionalización",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/185/21777",
+  "fecha_iso": "2025-08-05",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:00",
+  "lugar": "",
+  "estado": "",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16836-06",
+      "tema": "Modifica la ley N° 21.325 para perfeccionar el procedimiento de expulsión administrativa Aspectos considerados: Comenzar el estudio del Proyecto de ley, en segundo trámite constitucional, que modifica la ley N° 21.325 para perfeccionar el procedimiento de expulsión administrativa, correspondiente al Boletín N°16.836-06, con urgencia calificada de suma.",
+      "acuerdo": "Continua en una próxima sesión. Integrantes: (Presidente) Senadora Vodanovic Rojas Paulina Senadora Ebensperger Orrego Luz Eliana Senador Prohens Espinosa Rafael Senador Quintana Leal Jaime Senador Velásquez Núñez Esteban",
+      "estado_punto": "",
+      "invitados_punto": "-Director Nacional de Migraciones, señor Luis Thayer. Otros asistentes: -Jefe de Gabinete Servicio Nacional de Migraciones señor Nicolás Torrealba Ibáñez -Asesora Legislativa del Ministerio del Interior señora, Alexandra Álvarez -Asesor Honorable Senadora Paulina Vodanovic, señor José Poblete -Asesora Honorable Senadora Luz Ebensperger, señora Paola Bobadilla -Asesor Honorable Senador Jaime Quintana, señor Álvaro Pávez -Asesores Honorable Senado Esteban Velásquez, señor Sebastián León y señor Mauricio Vásquez -Asesora Comité PS, señora Melanie Moraga -Asesor Comité RN, señor Eduardo Méndez Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "-Director Nacional de Migraciones, señor Luis Thayer."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "-Jefe de Gabinete Servicio Nacional de Migraciones señor Nicolás Torrealba Ibáñez -Asesora Legislativa del Ministerio del Interior señora, Alexandra Álvarez -Asesor Honorable Senadora Paulina Vodanovic, señor José Poblete -Asesora Honorable Senadora Luz Ebensperger, señora Paola Bobadilla -Asesor Honorable Senador Jaime Quintana, señor Álvaro Pávez -Asesores Honorable Senado Esteban Velásquez, señor Sebastián León y señor Mauricio Vásquez -Asesora Comité PS, señora Melanie Moraga -Asesor Comité RN, señor Eduardo Méndez"
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

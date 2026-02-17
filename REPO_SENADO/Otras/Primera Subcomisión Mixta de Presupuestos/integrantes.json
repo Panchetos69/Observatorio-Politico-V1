@@ -1,0 +1,27 @@
+{
+  "comision": "Primera Subcomisión Mixta de Presupuestos",
+  "id": "624",
+  "integrantes": [
+    {
+      "nombre": "Luciano Cruz-Coke Carvallo",
+      "cargo": "",
+      "id": "luciano-cruz-coke-carvallo-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/luciano-cruz-coke-carvallo-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Alfonso De Urresti Longton",
+      "cargo": "",
+      "id": "alfonso-de-urresti-longton-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/alfonso-de-urresti-longton-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Ximena Rincón González",
+      "cargo": "",
+      "id": "ximena-rincon-gonzalez-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/ximena-rincon-gonzalez-sen",
+      "chamber": "senado"
+    }
+  ]
+}

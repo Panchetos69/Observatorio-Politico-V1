@@ -1,0 +1,50 @@
+{
+  "id_sesion": "21779",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21779",
+  "fecha_iso": "2025-08-06",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "10:42",
+  "hora_termino": "12:27",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17447-10",
+      "tema": "Aspectos considerados:",
+      "acuerdo": "Aprobado. Pasa a la Sala. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Macaya Danús Javier",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "Del Ministerio del Medio Ambiente, la Ministra, señora María Heloisa Rojas; el Jefe de la Oficina de Evaluación Ambiental, señor Sebastián Aylwin, y el asesor, señor Tomás Monsalve. Del Ministerio Secretaría General de la Presidencia, el asesor, señor Diego Castillo. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Javiera Gómez y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. La asesora de la Honorable Senadora Rincón, señoras Fernanda Thompson y Sofía Dib. De la Biblioteca del Congreso Nacional, la Abogada, señora María Soledad Mortera y el analista, señor Samuel Argüello."
+    },
+    {
+      "numero": 2,
+      "boletin": "16552-12",
+      "tema": "Modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia Aspectos considerados: La comisión continuó con el estudio del proyecto de ley.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Macaya Danús Javier",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio del Medio Ambiente, la Ministra, señora María Heloisa Rojas; el Jefe de la Oficina de Evaluación Ambiental, señor Sebastián Aylwin, y el asesor, señor Tomás Monsalve. Del Ministerio Secretaría General de la Presidencia, el asesor, señor Diego Castillo. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Javiera Gómez y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. La asesora de la Honorable Senadora Rincón, señoras Fernanda Thompson y Sofía Dib. De la Biblioteca del Congreso Nacional, la Abogada, señora María Soledad Mortera y el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio del Medio Ambiente, la Ministra, señora María Heloisa Rojas; el Jefe de la Oficina de Evaluación Ambiental, señor Sebastián Aylwin, y el asesor, señor Tomás Monsalve."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, el asesor, señor Diego Castillo. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Javiera Gómez y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. La asesora de la Honorable Senadora Rincón, señoras Fernanda Thompson y Sofía Dib. De la Biblioteca del Congreso Nacional, la Abogada, señora María Soledad Mortera y el analista, señor Samuel Argüello. Punto 2 Boletin: 16552-12 Tema: Modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia Aspectos considerados: La comisión continuó con el estudio del proyecto de ley. Acuerdos: Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Macaya Danús Javier Invitados:"
+    },
+    {
+      "bloque": "Del Ministerio del Medio Ambiente, la Ministra, señora María Heloisa Rojas; el Jefe de la Oficina de Evaluación Ambiental, señor Sebastián Aylwin, y el asesor, señor Tomás Monsalve."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, el asesor, señor Diego Castillo. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Javiera Gómez y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. La asesora de la Honorable Senadora Rincón, señoras Fernanda Thompson y Sofía Dib. De la Biblioteca del Congreso Nacional, la Abogada, señora María Soledad Mortera y el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

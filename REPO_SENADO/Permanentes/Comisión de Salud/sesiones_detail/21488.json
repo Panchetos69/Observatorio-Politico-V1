@@ -1,0 +1,57 @@
+{
+  "id_sesion": "21488",
+  "id_comision": "195",
+  "nombre_comision": "Comisión de Salud",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/195/21488",
+  "fecha_iso": "2025-05-14",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:15",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Conocer las respuestas pendientes de los asistentes a la sesión del lunes 12 de mayo en curso, acerca de licencias médicas. Aspectos considerados: Los asistentes aclararon las consultas formuladas por los parlamentarios relacionadas con el proceso de fiscalización de las licencias médicas. Integrantes: (Presidente) Senador Flores García Iván Senador Castro González Juan Luis Senador Gahona Salazar Sergio Senadora Ordenes Neira Ximena Asistentes: Senador Kuschel Silva Carlos Ignacio",
+      "acuerdo": "",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "La Subsecretaria de Salud Pública, señora Andrea Albagli. La Superintendenta de Seguridad Social, señor Pamela Gana. La Directora de la Comisión de Medicina Preventiva e Invalidez (COMPIN), señora Valeria Céspedes. La Presidenta del Colegio Médico de Chile A.G., Dra. Anamaría Arriagada. Otros asistentes: El Asesor del Ministerio de Salud, señor Cristian Miquel.El Asesor de la Subsecretaría de Salud Pública, señor Camilo Brauchy.El Asesor del Ministerio Secretaría General de la Presidencia, señor Cristian Abarca.La Jefa de Gabinete del Colegio Médico, señora Bárbara Palma.El Abogado del Colegio Médico, señor Adelio Misseroni.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende, y Mauricio Vásquez.Los Asesores del Senador Juan Luis Castro, señoras Teresita Fabres y Meggy López, y señor Arturo López.El Asesor de la Senadora Ximena Ordenes, señor Pablo Flores.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.El Asesor del Comité RN, señor Benjamín Saenz.La Asesora del Comité PPD, señora Paulin Silva. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "La Subsecretaria de Salud Pública, señora Andrea Albagli."
+    },
+    {
+      "nombre": "La Superintendenta de Seguridad Social, señor Pamela Gana."
+    },
+    {
+      "nombre": "La Directora de la Comisión de Medicina Preventiva e Invalidez (COMPIN), señora Valeria Céspedes."
+    },
+    {
+      "nombre": "La Presidenta del Colegio Médico de Chile A.G., Dra. Anamaría Arriagada."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "El Asesor del Ministerio de Salud, señor Cristian Miquel.El Asesor de la Subsecretaría de Salud Pública, señor Camilo Brauchy.El Asesor del Ministerio Secretaría General de la Presidencia, señor Cristian Abarca.La Jefa de Gabinete del Colegio Médico, señora Bárbara Palma.El Abogado del Colegio Médico, señor Adelio Misseroni.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Iván Flores, señora Carolina Allende, y Mauricio Vásquez.Los Asesores del Senador Juan Luis Castro, señoras Teresita Fabres y Meggy López, y señor Arturo López.El Asesor de la Senadora Ximena Ordenes, señor Pablo Flores.El Asesor del Senador Sergio Gahona, señor Benjamín Rug.El Asesor del Comité RN, señor Benjamín Saenz.La Asesora del Comité PPD, señora Paulin Silva."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

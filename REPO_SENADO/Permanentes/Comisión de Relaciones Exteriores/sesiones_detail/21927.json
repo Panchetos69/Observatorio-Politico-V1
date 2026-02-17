@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21927",
+  "id_comision": "221",
+  "nombre_comision": "Comisión de Relaciones Exteriores",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/221/21927",
+  "fecha_iso": "2025-09-09",
+  "ano": "2025",
+  "mes": "09",
+  "hora_inicio": "12:30",
+  "hora_termino": "13:25",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17644-10",
+      "tema": "Aspectos considerados:",
+      "acuerdo": "Aprobado. Pasa a la Sala. Integrantes: (Presidente) Senador Moreira Barros Iván Senador Edwards Silva Rojo Senador Insulza Salinas José Miguel Senador Kast Sommerhoff Felipe Senador Latorre Riveros Juan Ignacio",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "Del Ministerio de Relaciones Exteriores: el Ministro, señor Alberto van Klaveren. Otros asistentes: Del Ministerio de Relaciones Exteriores: el Ministro, señor Alberto van Klaveren; el profesional de la División de Integración Regional Multilateral, señor Juan Alberto Fernández; el Director de Comunicaciones, señor Benjamín Aguirre, y el asesor del gabinete del Ministro, señor Nicolás Godoy. De la Secretaría General de la Presidencia, el asesor, señor José Luis Pulgar. De la Biblioteca del Congreso Nacional, la analista, señora Andrea Vargas. De la oficina del Senador señor Iván Moreira, el asesor señor Raúl Araneda. De la oficina del Senador señor Juan Ignacio Latorre, los asesores señor Felipe Morales y señor Mauricio Mendoza. De la oficina del Senador señor Rojo Edwards, el asesor señor Diego González. De la oficina del Senador señor Felipe Kast, el asesor señor Óscar Morales. De la oficina del Senador señor José Miguel Insulza, la asesora señora Javiera Gómez, y el asesor comunicacional, señor Carlos Fernández. De la Fundación Jaime Guzmán, la asesora señora Catalina Delgado. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Relaciones Exteriores: el Ministro, señor Alberto van Klaveren. Otros asistentes:"
+    },
+    {
+      "bloque": "Del Ministerio de Relaciones Exteriores: el Ministro, señor Alberto van Klaveren; el profesional de la División de Integración Regional Multilateral, señor Juan Alberto Fernández; el Director de Comunicaciones, señor Benjamín Aguirre, y el asesor del gabinete del Ministro, señor Nicolás Godoy. De la Secretaría General de la Presidencia, el asesor, señor José Luis Pulgar. De la Biblioteca del Congreso Nacional, la analista, señora Andrea Vargas. De la oficina del Senador señor Iván Moreira, el asesor señor Raúl Araneda. De la oficina del Senador señor Juan Ignacio Latorre, los asesores señor Felipe Morales y señor Mauricio Mendoza. De la oficina del Senador señor Rojo Edwards, el asesor señor Diego González. De la oficina del Senador señor Felipe Kast, el asesor señor Óscar Morales. De la oficina del Senador señor José Miguel Insulza, la asesora señora Javiera Gómez, y el asesor comunicacional, señor Carlos Fernández. De la Fundación Jaime Guzmán, la asesora señora Catalina Delgado. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

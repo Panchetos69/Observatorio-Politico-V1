@@ -1,0 +1,47 @@
+{
+  "id_sesion": "21623",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21623",
+  "fecha_iso": "2025-06-17",
+  "ano": "2025",
+  "mes": "06",
+  "hora_inicio": "10:43",
+  "hora_termino": "12:08",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "2630-05",
+      "tema": "Oficio de Su Excelencia el Presidente de la República, con el que solicita el acuerdo del Senado para designar a la señora Paula Benavides Salazar como consejera del Consejo Fiscal Autónomo, por un período de cinco años, en virtud de lo dispuesto en el artículo 3 de la ley N° 21.148 Aspectos considerados: La comisión recibió la exposición del Ministro de Hacienda, señor Mario Marcel y la Economista, señora Paula Benavides.",
+      "acuerdo": "Despachado. Pasa a la Sala. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Lagos Weber Ricardo Senador Macaya Danús Javier",
+      "estado_punto": "DESPACHADO",
+      "invitados_punto": "Del Ministerio de Hacienda, el Ministro, señor Mario Marcel. La Economista, señora Paula Benavides. Del Ministerio Secretaría General de la Presidencia, los asesores, señores Héctor Correa y Miguel Ángel Vergara. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. El asesor del Honorable Senador García, señor José Miguel Rey. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello."
+    },
+    {
+      "numero": 2,
+      "boletin": "11073-07",
+      "tema": "Modifica el Código Procesal Penal en materia de procedencia de la prisión preventiva y de suspensión de ejecución de la sentencia, respecto de mujeres embarazadas o que tengan hijos o hijas menores de tres años. Aspectos considerados: La comisión recibió la presentación de la Subsecretaria de Derechos Humanos y consideró las normas de su competencia.",
+      "acuerdo": "Aprobado en particular. Pasa a la Sala. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Macaya Danús Javier",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "Del Ministro de Justicia y Derechos Humanos, la Subsecretaria de Derechos Humanos, señora Daniela Quintanilla; el Jefe de la División de Protección de la Subsecretaría, señor Sebastián Cabezas; la Asesora, señora Valentina Parodi y la Abogada de la División Jurídica, señora María Florencia Draper. Del Ministerio Secretaría General de la Presidencia, los asesores, señores Héctor Correa y Miguel Ángel Vergara. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. Del Comité Demócratas, la asesora, señora Paz Anastasiadis. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Hacienda, el Ministro, señor Mario Marcel. La Economista, señora Paula Benavides."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, los asesores, señores Héctor Correa y Miguel Ángel Vergara. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. El asesor del Honorable Senador García, señor José Miguel Rey. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. De la Fundación Jaime Guzmán, la Directora del Área Legislativa, señora Bárbara Bayolo. De la Biblioteca del Congreso Nacional, el analista, señor Samuel Argüello. Punto 2 Boletin: 11073-07 Tema: Modifica el Código Procesal Penal en materia de procedencia de la prisión preventiva y de suspensión de ejecución de la sentencia, respecto de mujeres embarazadas o que tengan hijos o hijas menores de tres años. Aspectos considerados: La comisión recibió la presentación de la Subsecretaria de Derechos Humanos y consideró las normas de su competencia. Acuerdos: Aprobado en particular. Pasa a la Sala. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Galilea Vial Rodrigo Senador Insulza Salinas José Miguel Senador Macaya Danús Javier Invitados:"
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, los asesores, señores Héctor Correa y Miguel Ángel Vergara. La asesora del Honorable Senador Coloma, señora Carolina Infante. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. Los asesores del Honorable Senador Insulza, señora Lorena Escalona y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes."
+    }
+  ],
+  "url_video": ""
+}

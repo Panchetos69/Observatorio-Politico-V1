@@ -1,0 +1,107 @@
+{
+  "id_sesion": "21470",
+  "id_comision": "195",
+  "nombre_comision": "Comisión de Salud",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/195/21470",
+  "fecha_iso": "2025-05-13",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "09:30",
+  "hora_termino": "11:20",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "11606-11",
+      "tema": "Reapertura del debate del proyecto de ley que obliga a los establecimientos de expendio de comidas y bebidas a ofrecer agua potable gratuita a sus clientes (Boletines Nos. 11.606-11; 12.512-11, y 16.588-11, refundidos). Aspectos considerados: Se solicitó reapertura del debate, con el objeto de incorporar el proyecto de ley boletín N° 9.680-11, recientemente desarchivado.",
+      "acuerdo": "La reapertura del debate se votará la próxima sesión ordinaria. Integrantes: (Presidente) Senador Flores García Iván Senador Castro González Juan Luis Senadora Ordenes Neira Ximena",
+      "estado_punto": "",
+      "invitados_punto": "Otros asistentes: El Asesor del Ministerio de Salud, señor Cristian Miquel.El Asesor del Ministerio Secretaría General de la Presidencia, señor Cristian Abarca.El Asesor de la Fundación Jaime Guzmán, señor Arturo Hasbún.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Juan Luis Castro, señora Teresita Fabres y señor Arturo León.El Asesor del Senador Iván Flores, señor Mauricio Vásquez.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores y Jonatan Sepúlveda.La Asesora del Comité PPD, señora Paulin Silva."
+    },
+    {
+      "numero": 2,
+      "boletin": "17375-11",
+      "tema": "Proyecto de ley que moderniza el Sistema Nacional de Servicios de la Salud; fortalece al Fondo Nacional de Salud; crea el Servicio Nacional de Salud Digital; otorga facultades al Instituto de Salud Pública de Chile y a la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, y modifica normas que indica. Aspectos considerados: La Comisión tomó conocimiento de las opiniones y propuestas de los invitados sobre el proyecto de ley.",
+      "acuerdo": "Continuar el estudio de la iniciativa legal. Integrantes: (Presidente) Senador Flores García Iván Senador Castro González Juan Luis Senadora Ordenes Neira Ximena",
+      "estado_punto": "",
+      "invitados_punto": "El Presidente de Clínicas de Chile, señor Javier Fuenzalida. El Presidente de Isapres de Chile A.G., señor Gonzalo Arriagada. El Presidente del Colegio de Cirujano Dentistas, señor Carlos Marchant. Otros asistentes: El Asesor del Ministerio de Salud, señor Cristian Miquel.El Asesor del Ministerio Secretaría General de la Presidencia, señor Cristian Abarca.El Asesor de Isapres de Chile, señor Matías Avendaño.El Asesor de la Fundación Jaime Guzmán, señor Arturo Hasbún.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Juan Luis Castro, señora Teresita Fabres y señor Arturo León.El Asesor del Senador Iván Flores, señor Mauricio Vásquez.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores y Jonatan Sepúlveda.La Asesora del Comité PPD, señora Paulin Silva. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "El Asesor del Ministerio de Salud, señor Cristian Miquel.El Asesor del Ministerio Secretaría General de la Presidencia, señor Cristian Abarca.El Asesor de la Fundación Jaime Guzmán, señor Arturo Hasbún.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Juan Luis Castro, señora Teresita Fabres y señor Arturo León.El Asesor del Senador Iván Flores, señor Mauricio Vásquez.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores y Jonatan Sepúlveda.La Asesora del Comité PPD, señora Paulin Silva."
+    },
+    {
+      "nombre": "Punto 2"
+    },
+    {
+      "nombre": "Boletin:"
+    },
+    {
+      "nombre": "17375-11"
+    },
+    {
+      "nombre": "Proyecto de ley que moderniza el Sistema Nacional de Servicios de la Salud; fortalece al Fondo Nacional de Salud; crea el Servicio Nacional de Salud Digital; otorga facultades al Instituto de Salud Pública de Chile y a la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, y modifica normas que indica."
+    },
+    {
+      "nombre": "Aspectos considerados:"
+    },
+    {
+      "nombre": "La Comisión tomó conocimiento de las opiniones y propuestas de los invitados sobre el proyecto de ley."
+    },
+    {
+      "nombre": "Acuerdos:"
+    },
+    {
+      "nombre": "Continuar el estudio de la iniciativa legal."
+    },
+    {
+      "nombre": "Integrantes:"
+    },
+    {
+      "nombre": "(Presidente) Senador Flores García Iván"
+    },
+    {
+      "nombre": "Senador Castro González Juan Luis"
+    },
+    {
+      "nombre": "Senadora Ordenes Neira Ximena"
+    },
+    {
+      "nombre": "Invitados:"
+    },
+    {
+      "nombre": "El Presidente de Clínicas de Chile, señor Javier Fuenzalida."
+    },
+    {
+      "nombre": "El Presidente de Isapres de Chile A.G., señor Gonzalo Arriagada."
+    },
+    {
+      "nombre": "El Presidente del Colegio de Cirujano Dentistas, señor Carlos Marchant."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "El Asesor del Ministerio de Salud, señor Cristian Miquel.El Asesor del Ministerio Secretaría General de la Presidencia, señor Cristian Abarca.El Asesor de Isapres de Chile, señor Matías Avendaño.El Asesor de la Fundación Jaime Guzmán, señor Arturo Hasbún.El Investigador de la Biblioteca del Congreso Nacional, señor Eduardo Goldstein.Los Asesores del Senador Juan Luis Castro, señora Teresita Fabres y señor Arturo León.El Asesor del Senador Iván Flores, señor Mauricio Vásquez.Los Asesores de la Senadora Ximena Ordenes, señores Pablo Flores y Jonatan Sepúlveda.La Asesora del Comité PPD, señora Paulin Silva."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

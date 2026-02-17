@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21279",
+  "id_comision": "1130",
+  "nombre_comision": "Comisión de Defensa Nacional y de Seguridad Pública, unidas",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1130/21279",
+  "fecha_iso": "2025-03-24",
+  "ano": "2025",
+  "mes": "03",
+  "hora_inicio": "11:00",
+  "hora_termino": "13:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "15805-07",
+      "tema": "Proyecto de ley, en segundo trámite constitucional, que establece normas generales sobre el uso de la fuerza para el personal de las Fuerzas de Orden y Seguridad Pública y de las Fuerzas Armadas en las circunstancias que se señala. Aspectos considerados: Las Comisiones unidas continuaron el estudio en particular de la iniciativa legal de la referencia.",
+      "acuerdo": "Proseguir su análisis en una próxima sesión. Integrantes: (Presidente) Senador Araya Guerrero Pedro Senador Araya Guerrero Pedro en reemplazo de Quintana Leal Jaime Senador Durana Semir José Miguel Senador Macaya Danús Javier Senador Pugh Olavarría Kenneth en reemplazo de Ossandón Irarrázabal Manuel José Senador Pugh Olavarría Kenneth Senador Saavedra Chandía Gastón Senador Saavedra Chandía Gastón en reemplazo de Vodanovic Rojas Paulina Asistentes: Senador Moreira Barros Iván",
+      "estado_punto": "",
+      "invitados_punto": "DEL MINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA: Jefe de la División Jurídica, señor Rafael Collado. DEL MINISTERIO DE DEFENSA NACIONAL: Ministra, señora Adriana Delpiano, y Subsecretario de Defensa, señor Ricardo Montero. Otros asistentes: DEL MINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA: asesor, señor José Tomás Humud. DEL MINISTERIO DE DEFENSA NACIONAL: Jefa de la División Jurídica de la Subsecretaría de Defensa, señora Carolina Meza; asesora de la Subsecretaría de Defensa, señora Edith Aros, y asesor, señor Roberto Sáez. ASESORES LEGISLATIVOS: del Honorable Senador Araya, señores Roberto Godoy y Pedro Lezaeta; del Honorable Senador Durana, señor César Quiroga; del Honorable Senador Macaya, señora Karelyn Lüttecke y señor Carlos Oyarzún, y del Honorable Senador Saavedra, señores César Barra y Mauricio Galaz. DEL COMITÉ PARTIDO SOCIALISTA: asesor, señor Patricio Rojas. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analista, señor Juan Pablo Jarufe. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA: Jefe de la División Jurídica, señor Rafael Collado. DEL MINISTERIO DE DEFENSA NACIONAL: Ministra, señora Adriana Delpiano, y Subsecretario de Defensa, señor Ricardo Montero."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA: asesor, señor José Tomás Humud. DEL MINISTERIO DE DEFENSA NACIONAL: Jefa de la División Jurídica de la Subsecretaría de Defensa, señora Carolina Meza; asesora de la Subsecretaría de Defensa, señora Edith Aros, y asesor, señor Roberto Sáez. ASESORES LEGISLATIVOS: del Honorable Senador Araya, señores Roberto Godoy y Pedro Lezaeta; del Honorable Senador Durana, señor César Quiroga; del Honorable Senador Macaya, señora Karelyn Lüttecke y señor Carlos Oyarzún, y del Honorable Senador Saavedra, señores César Barra y Mauricio Galaz. DEL COMITÉ PARTIDO SOCIALISTA: asesor, señor Patricio Rojas. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: analista, señor Juan Pablo Jarufe. DE LA FUNDACIÓN JAIME GUZMÁN: asesor, señor Arturo Hasbún."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

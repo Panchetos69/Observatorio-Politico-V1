@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión del Adulto Mayor y Discapacidad",
+  "id": "1133",
+  "integrantes": [
+    {
+      "nombre": "Fabiola Campillai Rojas",
+      "cargo": "",
+      "id": "fabiola-campillai-rojas-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/fabiola-campillai-rojas-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "José Miguel Insulza Salinas",
+      "cargo": "",
+      "id": "jose-miguel-insulza-salinas-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/jose-miguel-insulza-salinas-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Sebastián Keitel Bianchi",
+      "cargo": "",
+      "id": "sebastian-keitel-bianchi-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/sebastian-keitel-bianchi-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "David Sandoval Plaza",
+      "cargo": "",
+      "id": "david-sandoval-plaza-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/david-sandoval-plaza-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Esteban Velásquez Núñez",
+      "cargo": "",
+      "id": "esteban-velasquez-nunez-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/esteban-velasquez-nunez-sen",
+      "chamber": "senado"
+    }
+  ]
+}

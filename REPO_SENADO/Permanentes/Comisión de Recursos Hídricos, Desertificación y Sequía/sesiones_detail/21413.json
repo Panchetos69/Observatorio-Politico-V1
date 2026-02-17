@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21413",
+  "id_comision": "1009",
+  "nombre_comision": "Comisión de Recursos Hídricos, Desertificación y Sequía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1009/21413",
+  "fecha_iso": "2025-04-23",
+  "ano": "2025",
+  "mes": "04",
+  "hora_inicio": "09:30",
+  "hora_termino": "11:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16193-01",
+      "tema": "Someter a discusión y votación el proyecto de ley, en segundo trámite constitucional, que modifica el Código de Aguas, con el objeto de facilitar la construcción de tranques de uso agrícola. Aspectos considerados: Se procedió a la votación en general del proyecto.",
+      "acuerdo": "Aprobado en general (3x1). Votación en particular pendiente. Integrantes: (Presidente) Senador Castro Prieto Juan Senador Gahona Salazar Sergio Senador Kuschel Silva Carlos Ignacio Senadora Provoste Campillay Yasna",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "DEL MINISTERIO DE OBRAS PÚBLICAS: el Coordinador del Área Hídrica, señor Carlos Estévez; el Coordinador Legislativo, señor Tomás Mendoza; el Asesor Legislativo, señor Stefano Salgado, y la Asesora Legislativa de la Dirección General de Aguas, señora María Graciela Veas. Otros asistentes: DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: el asesor, señor Cristian Abarca. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: el investigador, señor Eduardo Baeza. DEL COMITÉ DE SENADORES DC: el asesor, señor Mauricio Burgos. DEL COMITÉ DE SENADORES RN: el asesor, señor Sebastián Amado. Asesores parlamentarios: del Senador señor Castro Prieto, don Daniel Quiroga; del Senador señor Gahona, don Benjamín Rug, y de la Senadora señora Provoste, don Rodrigo Vega, don Enrique Soler y don Julio Valladares. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "DEL MINISTERIO DE OBRAS PÚBLICAS: el Coordinador del Área Hídrica, señor Carlos Estévez; el Coordinador Legislativo, señor Tomás Mendoza; el Asesor Legislativo, señor Stefano Salgado, y la Asesora Legislativa de la Dirección General de Aguas, señora María Graciela Veas."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "DEL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA: el asesor, señor Cristian Abarca. DE LA BIBLIOTECA DEL CONGRESO NACIONAL: el investigador, señor Eduardo Baeza. DEL COMITÉ DE SENADORES DC: el asesor, señor Mauricio Burgos. DEL COMITÉ DE SENADORES RN: el asesor, señor Sebastián Amado. Asesores parlamentarios: del Senador señor Castro Prieto, don Daniel Quiroga; del Senador señor Gahona, don Benjamín Rug, y de la Senadora señora Provoste, don Rodrigo Vega, don Enrique Soler y don Julio Valladares."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

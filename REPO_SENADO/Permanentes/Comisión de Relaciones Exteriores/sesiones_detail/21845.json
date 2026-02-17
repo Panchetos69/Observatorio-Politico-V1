@@ -1,0 +1,48 @@
+{
+  "id_sesion": "21845",
+  "id_comision": "221",
+  "nombre_comision": "Comisión de Relaciones Exteriores",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/221/21845",
+  "fecha_iso": "2025-08-19",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "12:30",
+  "hora_termino": "13:05",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17530-10",
+      "tema": "Aprueba el Tratado sobre el Derecho de Patentes, adoptado en Ginebra, el 1 de junio de 2000 Aspectos considerados: La Comisión escuchó a los invitados.",
+      "acuerdo": "La Comisión aprobó el proyecto. Pasa a la Sala. Integrantes: (Presidente) Senador Moreira Barros Iván Senador Edwards Silva Rojo Senador Insulza Salinas José Miguel Senador Latorre Riveros Juan Ignacio",
+      "estado_punto": "",
+      "invitados_punto": "Ministro de Relaciones Exteriores, señor Alberto van Klaveren; Subsecretaria de Relaciones Económicas Internacionales, señora Claudia Sanhueza, y Director Nacional del Instituto Nacional de Propiedad Industrial, señor Esteban Figueroa. Otros asistentes: De la Subsecretaría de Relaciones Económicas Internacionales: la Subsecretaria, señora Claudia Sanhueza; el Jefe del Departamento de Propiedad Intelectual, señor Felipe Ferreira, y el Jefe de asesores del Gabinete, señor Diego Pérez. Del Instituto Nacional de Propiedad Industrial: el Director Nacional (s), señor Esteban Figueroa. De la Secretaría General de la Presidencia, la procuradora señora Isidora Yáñez. De la Biblioteca del Congreso Nacional, la analista señora Andrea Vargas. De la oficina del Senador señor Rojo Edwards, el asesor señor Diego González. De la oficina del Senador señor Iván Moreira, el asesor señor Raúl Araneda. De la oficina del Senador señor José Miguel Insulza, la asesora señora Javiera Gómez. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Invitados: Ministro de Relaciones Exteriores, señor Alberto van Klaveren; Subsecretaria de Relaciones Económicas Internacionales, señora Claudia Sanhueza, y Director Nacional del Instituto Nacional de Propiedad Industrial, señor Esteban Figueroa."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "De la Subsecretaría de Relaciones Económicas Internacionales: la Subsecretaria, señora Claudia Sanhueza; el Jefe del Departamento de Propiedad Intelectual, señor Felipe Ferreira, y el Jefe de asesores del Gabinete, señor Diego Pérez. Del Instituto Nacional de Propiedad Industrial: el Director Nacional (s), señor Esteban Figueroa. De la Secretaría General de la Presidencia, la procuradora señora Isidora Yáñez. De la Biblioteca del Congreso Nacional, la analista señora Andrea Vargas. De la oficina del Senador señor Rojo Edwards, el asesor señor Diego González. De la oficina del Senador señor Iván Moreira, el asesor señor Raúl Araneda. De la oficina del Senador señor José Miguel Insulza, la asesora señora Javiera Gómez."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

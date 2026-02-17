@@ -1,0 +1,36 @@
+{
+  "id_sesion": "21505",
+  "id_comision": "615",
+  "nombre_comision": "Comisión de Seguridad Pública",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/615/21505",
+  "fecha_iso": "2025-05-26",
+  "ano": "2025",
+  "mes": "05",
+  "hora_inicio": "15:30",
+  "hora_termino": "17:00",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "",
+      "tema": "Escuchar la exposición del Ministro de Seguridad Pública, señor Luis Cordero, en relación al proceso de instalación e implementación de dicho ministerio. Aspectos considerados: La Comisión escuchó la exposición del Ministro de Seguridad Pública, señor Luis Cordero y luego se realizó un intercambio de opiniones con los miembros de la Comisión.",
+      "acuerdo": "No hubo. Integrantes: (Presidente) Senador Durana Semir José Miguel Senadora Pascual Grau Claudia Senador Pugh Olavarría Kenneth Senador Quintana Leal Jaime",
+      "estado_punto": "",
+      "invitados_punto": "Del Ministerio de Seguridad Pública: el Ministro de Seguridad Pública, señor Luis Cordero; la Subsecretaria de Prevención del Delito, señora Carolina Leitao; la Coordinadora Legislativa, señora Sthefania Walser; el Jefe de Prensa, señor Hernán Leighton, y el asesor de Comunicaciones de la Subsecretaría de Prevención del Delito, señor Carlos Avendaño. Otros asistentes: Del Ministerio Secretaría General de la Presidencia: los asesores, señora Ignacia Guzmán y señor Daniel Olivares.De la Biblioteca del Congreso Nacional: el asesor, señor Guillermo Fernández.Los asesores parlamentarios: del Senador Durana, señora Pamela Cousins y señor César Quiroga, y de la Senadora Pascual, señor Mauricio Díaz y señor Roberto Carrasco. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Seguridad Pública: el Ministro de Seguridad Pública, señor Luis Cordero; la Subsecretaria de Prevención del Delito, señora Carolina Leitao; la Coordinadora Legislativa, señora Sthefania Walser; el Jefe de Prensa, señor Hernán Leighton, y el asesor de Comunicaciones de la Subsecretaría de Prevención del Delito, señor Carlos Avendaño. Otros asistentes:"
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: los asesores, señora Ignacia Guzmán y señor Daniel Olivares.De la Biblioteca del Congreso Nacional: el asesor, señor Guillermo Fernández.Los asesores parlamentarios: del Senador Durana, señora Pamela Cousins y señor César Quiroga, y de la Senadora Pascual, señor Mauricio Díaz y señor Roberto Carrasco. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

@@ -1,0 +1,33 @@
+{
+  "id_sesion": "22210",
+  "id_comision": "1323",
+  "nombre_comision": "Comisión de Familia, Infancia y Adolescencia.",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1323/22210",
+  "fecha_iso": "2025-12-16",
+  "ano": "2025",
+  "mes": "12",
+  "hora_inicio": "11:15",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16379-04",
+      "tema": "Regula las prestaciones de servicio de cuidado infantil Aspectos considerados: Se escuchó a los invitados y se votó el proyecto de ley.",
+      "acuerdo": "Aprobado en general, pasa a la Comisión de Educación. Integrantes: (Presidente) Senadora Campillai Rojas Fabiola Senadora Aravena Acuña Carmen Gloria Senador Van Rysselberghe Herrera Enrique",
+      "estado_punto": "APROBADO",
+      "invitados_punto": "De la Asociación Chilena de Municipalidades (ACHM): el asesor legislativo, señor Sebastián Torrealba. De Párvulo Red y de la Asociación Gremial de Salas Cunas y Jardines Infantiles Particulares: la Presidenta, señora Ana María Ramírez. De la Fundación Ronda: la Directora de incidencia y desarrollo, señora María José Escudero. De UNICEF: la Oficial de Políticas Sociales, señora Amanda Telias. De la Universidad Central de Chile: el abogado académico de derecho público, señor Camilo Mirosevic. Del Ministerio de Desarrollo Social y Familia: la Subsecretaria de la Niñez, señora Verónica Silva; la Jefa de Gabinete de la Subsecretaria, señora Francisca Marinakis y la asesora legislativa de la Ministra, señora Mara Roitstein. Otros asistentes: De la Biblioteca del Congreso Nacional: la analista investigadora, señora Daniela Santana, y los asesores de la Honorable Senadora señora Aravena, señora Paola Cruz y señores Felipe Pereira y Claudio Pimentel; de la Honorable Senadora señora Campillai, señor Hermes Ortega; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; de la Fundación Jaime Guzmán, señor Juan José Llorente, y de la Secretaría General de la Presidencia (Segpres), señoras Ignacia Guzmán y María Lourdes Cox. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Desarrollo Social y Familia: la Subsecretaria de la Niñez, señora Verónica Silva; la Jefa de Gabinete de la Subsecretaria, señora Francisca Marinakis y la asesora legislativa de la Ministra, señora Mara Roitstein. Otros asistentes: De la Biblioteca del Congreso Nacional: la analista investigadora, señora Daniela Santana, y los asesores de la Honorable Senadora señora Aravena, señora Paola Cruz y señores Felipe Pereira y Claudio Pimentel; de la Honorable Senadora señora Campillai, señor Hermes Ortega; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; de la Fundación Jaime Guzmán, señor Juan José Llorente, y de la Secretaría General de la Presidencia (Segpres), señoras Ignacia Guzmán y María Lourdes Cox. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

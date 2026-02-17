@@ -1,0 +1,39 @@
+{
+  "id_sesion": "21802",
+  "id_comision": "188",
+  "nombre_comision": "Comisión de Hacienda",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/188/21802",
+  "fecha_iso": "2025-08-12",
+  "ano": "2025",
+  "mes": "08",
+  "hora_inicio": "10:47",
+  "hora_termino": "12:33",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17064-08",
+      "tema": "Amplía la cobertura del subsidio eléctrico a que se refiere el artículo sexto transitorio de la ley N° 21.667 e introduce otras medidas de perfeccionamiento a la ley N° 18.410 que crea la Superintendencia de Electricidad y Combustibles Aspectos considerados: La comisión recibió las presentaciones de la Asociación de Generadoras de Chile y de la Federación Nacional APR´s Chile y se continuó con la discusión del proyecto.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Rincón González Ximena Senador Insulza Salinas José Miguel Senador Kuschel Silva Carlos Ignacio en reemplazo de Galilea Vial Rodrigo Senador Lagos Weber Ricardo Senador Macaya Danús Javier",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Energía, el Ministro, señor Diego Pardow; la Jefa de Asesores, señora María Ignacia García y el Asesor, señor Maher Pichara. Del Ministerio de Hacienda, el Coordinador de Regulación Económica, señor Francisco Saffie. De la Dirección de Presupuestos, el Jefe de Estudios, señor Pablo Jorquera. Del Ministerio Secretaría General de la Presidencia, los asesores, señores Héctor Correa y Carlos Valenzuela. De la Asociación de Generadoras de Chile, el Director Ejecutivo, señor Camilo Charme. De la Federación Nacional APR´s Chile, la Presidenta, señora Yorki Riquelme y el Coordinador Nacional, señor Rufino Hevia. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. De la Oficina del Honorable Senador Insulza, los asesores, señoras Lorena Escalona, Javiera Gómez y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. La asesora de la Honorable Senadora Rincón, señora Sofía Dib. Del Comité Renovación Nacional, el asesor, señor Eduardo Méndez. De Libertad y Desarrollo, el Coordinador Congreso Nacional, señor Juan Ignacio Gómez y la Directora del Área Legislativa, señora Bárbara Bayolo. De la Bilbioteca del Congreso Nacional, el analista, señor Samuel Argüello. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Energía, el Ministro, señor Diego Pardow; la Jefa de Asesores, señora María Ignacia García y el Asesor, señor Maher Pichara."
+    },
+    {
+      "bloque": "Del Ministerio de Hacienda, el Coordinador de Regulación Económica, señor Francisco Saffie. De la Dirección de Presupuestos, el Jefe de Estudios, señor Pablo Jorquera."
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia, los asesores, señores Héctor Correa y Carlos Valenzuela. De la Asociación de Generadoras de Chile, el Director Ejecutivo, señor Camilo Charme. De la Federación Nacional APR´s Chile, la Presidenta, señora Yorki Riquelme y el Coordinador Nacional, señor Rufino Hevia. El asesor del Honorable Senador Galilea, señor Gonzalo Vásquez. De la Oficina del Honorable Senador Insulza, los asesores, señoras Lorena Escalona, Javiera Gómez y señor Carlos Fernández. El asesor del Honorable Senador Lagos, señor Reinaldo Monardes. La asesora de la Honorable Senadora Rincón, señora Sofía Dib."
+    }
+  ],
+  "url_video": ""
+}

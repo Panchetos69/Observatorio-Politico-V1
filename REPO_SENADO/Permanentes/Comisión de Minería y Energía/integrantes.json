@@ -1,0 +1,41 @@
+{
+  "comision": "Comisión de Minería y Energía",
+  "id": "196",
+  "integrantes": [
+    {
+      "nombre": "Rafael   Prohens Espinosa",
+      "cargo": "",
+      "id": "rafael-prohens-espinosa-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/rafael-prohens-espinosa-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Juan Luis Castro González",
+      "cargo": "",
+      "id": "juan-luis-castro-gonzalez-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/juan-luis-castro-gonzalez-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Luz Eliana Ebensperger Orrego",
+      "cargo": "",
+      "id": "luz-eliana-ebensperger-orrego-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/luz-eliana-ebensperger-orrego-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Rodrigo Galilea Vial",
+      "cargo": "",
+      "id": "rodrigo-galilea-vial-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/rodrigo-galilea-vial-sen",
+      "chamber": "senado"
+    },
+    {
+      "nombre": "Yasna Provoste Campillay",
+      "cargo": "",
+      "id": "yasna-provoste-campillay-sen",
+      "url_ficha": "https://www.senado.cl/senadoras-y-senadores/listado-de-senadoras-y-senadores/yasna-provoste-campillay-sen",
+      "chamber": "senado"
+    }
+  ]
+}

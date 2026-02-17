@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22276",
+  "id_comision": "615",
+  "nombre_comision": "Comisión de Seguridad Pública",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/615/22276",
+  "fecha_iso": "2026-01-13",
+  "ano": "2026",
+  "mes": "01",
+  "hora_inicio": "11:00",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17879-25",
+      "tema": "Crea el Sistema Nacional de Protección Ciudadana y modifica los cuerpos legales que indica Aspectos considerados: La Comisión inició el estudio de las indicaciones presentadas al proyecto de ley.",
+      "acuerdo": "Continuará su estudio en la próxima sesión. Integrantes: (Presidente) Senador Durana Semir José Miguel Senador Castro González Juan Luis en reemplazo de Vodanovic Rojas Paulina Senador Kuschel Silva Carlos Ignacio en reemplazo de Pugh Olavarría Kenneth Senador Moreira Barros Iván Senadora Pascual Grau Claudia",
+      "estado_punto": "",
+      "invitados_punto": "De la Subsecretaría de Prevención del Delito: la Subsecretaria, señora Carolina Leitao; la Coordinadora Legislativa de la División Jurídica y Legislativa, señora Carolina Codoceo; el asesor legislativo, señor Gonzalo Valderrama, y los asesores de Comunicaciones, señores Carlos Avendaño y Diego Insunza. Otros asistentes: De la Biblioteca del Congreso Nacional: la asesora, señora Jana Abujatum.De la Fundación Jaime Guzmán: la asesora, señora Catalina Delgado.Del Comité de Senadores RN: el asesor, señor Ronald Von Der Weth.Del Comité de Senadores PS: la asesora, señora Ayelén Chanampa.Los asesores parlamentarios: del Senador Castro González, señora Teresita Fabres, señora Meggy López y señor Arturo León; del Senador Durana, señora Pamela Cousins y señor César Quiroga; del Senador Kuschel, señor Alejandro Mera; del Senador Moreira, señor Raúl Araneda; de la Senadora Pascual, señor Roberto Carrasco; del Senador Pugh, señor Allonne Barra, y de la Senadora Vodanovic, señor Juan Pablo Letelier. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "De la Subsecretaría de Prevención del Delito: la Subsecretaria, señora Carolina Leitao; la Coordinadora Legislativa de la División Jurídica y Legislativa, señora Carolina Codoceo; el asesor legislativo, señor Gonzalo Valderrama, y los asesores de Comunicaciones, señores Carlos Avendaño y Diego Insunza."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "De la Biblioteca del Congreso Nacional: la asesora, señora Jana Abujatum.De la Fundación Jaime Guzmán: la asesora, señora Catalina Delgado.Del Comité de Senadores RN: el asesor, señor Ronald Von Der Weth.Del Comité de Senadores PS: la asesora, señora Ayelén Chanampa.Los asesores parlamentarios: del Senador Castro González, señora Teresita Fabres, señora Meggy López y señor Arturo León; del Senador Durana, señora Pamela Cousins y señor César Quiroga; del Senador Kuschel, señor Alejandro Mera; del Senador Moreira, señor Raúl Araneda; de la Senadora Pascual, señor Roberto Carrasco; del Senador Pugh, señor Allonne Barra, y de la Senadora Vodanovic, señor Juan Pablo Letelier."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

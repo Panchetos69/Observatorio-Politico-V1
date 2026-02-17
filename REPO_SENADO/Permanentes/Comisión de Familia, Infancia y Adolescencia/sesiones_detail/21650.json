@@ -1,0 +1,33 @@
+{
+  "id_sesion": "21650",
+  "id_comision": "1323",
+  "nombre_comision": "Comisión de Familia, Infancia y Adolescencia.",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/1323/21650",
+  "fecha_iso": "2025-07-01",
+  "ano": "2025",
+  "mes": "07",
+  "hora_inicio": "11:15",
+  "hora_termino": "12:30",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "16461-36",
+      "tema": "Modifica la ley N° 20.285, sobre acceso a la información pública, con el objeto de facilitar el ejercicio de ese derecho a niños, niñas y adolescentes Aspectos considerados: Se escuchó a los invitados.",
+      "acuerdo": "Pendiente. Integrantes: (Presidente) Senadora Campillai Rojas Fabiola Senadora Aravena Acuña Carmen Gloria Senadora Carvajal Ambiado Loreto Senador Van Rysselberghe Herrera Enrique Senador Walker Prieto Matías",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Consejo para la Transparencia (CPLT): la Presidenta, señora Natalia González; el Director General, señor David Ibaceta; el Jefe de Normativa, señor Alejandro González y el Jefe de Gabinete, señor Juan Felipe Villanueva. Del Ministerio de Desarrollo Social y Familia: el Asesor Legislativo de la Ministra, señor Fernando Carvallo; la Asesoras del Ministerio, señora Mara Roitstein y la Asesora Legislativa de la Subsecretaria de la Niñez, señora Karla Toro. De la Biblioteca del Congreso Nacional: la analista investigadora, señora Paola Truffello Otros asistentes: Los asesores de la Honorable Senadora señora Campillai, señores Pedro Carrasco y Hermes Ortega; de la Honorable Senadora señora Aravena, señor Felipe Pereira; de la Honorable Senadora señora Carvajal, señora Tali Mochon; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; de la Honorable Senadora señora Pascual, señora Carolina Maillard; de la Fundación Jaime Guzmán, señor Juan José Llorente y de la Secretaría General de la Presidencia (Segpres), señora Vanessa Layana. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Desarrollo Social y Familia: el Asesor Legislativo de la Ministra, señor Fernando Carvallo; la Asesoras del Ministerio, señora Mara Roitstein y la Asesora Legislativa de la Subsecretaria de la Niñez, señora Karla Toro. De la Biblioteca del Congreso Nacional: la analista investigadora, señora Paola Truffello Otros asistentes: Los asesores de la Honorable Senadora señora Campillai, señores Pedro Carrasco y Hermes Ortega; de la Honorable Senadora señora Aravena, señor Felipe Pereira; de la Honorable Senadora señora Carvajal, señora Tali Mochon; del Honorable Senador señor Van Rysselberghe, señor Juan Paulo Morales; del Honorable Senador señor Walker, señor Ignacio Ortega; de la Honorable Senadora señora Pascual, señora Carolina Maillard; de la Fundación Jaime Guzmán, señor Juan José Llorente y de la Secretaría General de la Presidencia (Segpres), señora Vanessa Layana. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}

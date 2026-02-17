@@ -1,0 +1,48 @@
+{
+  "id_sesion": "22205",
+  "id_comision": "187",
+  "nombre_comision": "Comisión de Economía",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/187/22205",
+  "fecha_iso": "2025-12-16",
+  "ano": "2025",
+  "mes": "12",
+  "hora_inicio": "09:55",
+  "hora_termino": "11:29",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17117-03",
+      "tema": "Proyecto de ley que reconoce y fortalece a las ferias libres como pilar de la alimentación y el desarrollo local, otorgando un marco jurídico integral para ellas. Aspectos considerados: Se continuó con el estudio del referido proyecto de ley.",
+      "acuerdo": "Despachado en particular. Pasa a la Comisión de Hacienda. Integrantes: (Presidente) Senador Núñez Arancibia Daniel Senador Edwards Silva Rojo Senador Saavedra Chandía Gastón Senador Sanhueza Dueñas Gustavo",
+      "estado_punto": "DESPACHADO",
+      "invitados_punto": "Ministerio de Economía, Fomento y Turismo: el Ministro, señor Álvaro García; la Subsecretaria, señora Javiera Petersen; el Coordinador Legislativo, señor Juan Ignacio Bugueño; la asesora, señora Antonia Sánchez; la periodista, señora Karla Sánchez; el fotógrafo, señor Óscar Ordenes. Otros asistentes: Los asesores de los Parlamentarios, señores César Barra (Senador señor Gastón Saavedra), Diego González y Allonne Barra (Senador señor Rojo Edwards).Del Comité PC, el asesor, señor Elías Mella.Del Comité PS, el asesor, señor Mauricio Galaz.De la Secretaría General de la Presidencia, la asesora, señora Vanessa Layana.De la Biblioteca del Congreso Nacional (BCN), la analista, señora Fabiola Cabrera.De la Fundación Jaime Guzmán, el asesor, señor Joaquín García.De FETRACOM, el Presidente, señor Arnaldo Romero y la secretaria, señora Clara Román.De la Feria Caupolicán Viña del Mar, el Presidente, señor Axel Pérez.De ASOF, la Directora, señora Fanny Gajardo, la Presidenta, señora Paola Morales y el Vicepresidente, señor Froilan Flores.De la Coordinadora de Ferias Libres, el vocero, señor Julio Muñoz. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "nombre": "Ministerio de Economía, Fomento y Turismo: el Ministro, señor Álvaro García; la Subsecretaria, señora Javiera Petersen; el Coordinador Legislativo, señor Juan Ignacio Bugueño; la asesora, señora Antonia Sánchez; la periodista, señora Karla Sánchez; el fotógrafo, señor Óscar Ordenes."
+    },
+    {
+      "nombre": "Otros asistentes:"
+    },
+    {
+      "nombre": "Los asesores de los Parlamentarios, señores César Barra (Senador señor Gastón Saavedra), Diego González y Allonne Barra (Senador señor Rojo Edwards).Del Comité PC, el asesor, señor Elías Mella.Del Comité PS, el asesor, señor Mauricio Galaz.De la Secretaría General de la Presidencia, la asesora, señora Vanessa Layana.De la Biblioteca del Congreso Nacional (BCN), la analista, señora Fabiola Cabrera.De la Fundación Jaime Guzmán, el asesor, señor Joaquín García.De FETRACOM, el Presidente, señor Arnaldo Romero y la secretaria, señora Clara Román.De la Feria Caupolicán Viña del Mar, el Presidente, señor Axel Pérez.De ASOF, la Directora, señora Fanny Gajardo, la Presidenta, señora Paola Morales y el Vicepresidente, señor Froilan Flores.De la Coordinadora de Ferias Libres, el vocero, señor Julio Muñoz."
+    },
+    {
+      "nombre": "Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago"
+    },
+    {
+      "nombre": "(56-32) 250 4000 / (56-2) 2519 6700"
+    },
+    {
+      "nombre": "Contacto"
+    }
+  ],
+  "url_video": ""
+}

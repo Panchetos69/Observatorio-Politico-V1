@@ -1,0 +1,36 @@
+{
+  "id_sesion": "22183",
+  "id_comision": "189",
+  "nombre_comision": "Comisión de Educación",
+  "url_sesion": "https://www.senado.cl/actividad-legislativa/comisiones/189/22183",
+  "fecha_iso": "2025-12-09",
+  "ano": "2025",
+  "mes": "12",
+  "hora_inicio": "15:00",
+  "hora_termino": "16:20",
+  "lugar": "",
+  "estado": "SECRETA",
+  "citacion": "No",
+  "acta": "No",
+  "cuenta": "No",
+  "puntos": [
+    {
+      "numero": 1,
+      "boletin": "17442-04",
+      "tema": "Modifica la ley N° 20.129, con el objeto de regular nuevas exigencias para ingresar a las carreras y programas de pedagogía Aspectos considerados: Se escuchó la exposición de la Directora Ejecutiva de Elige Educar, señora Verónica Cabezas y del Presidente del Consorcio de Universidades del Estado de Chile CUECH, Rector Osvaldo Corrales, así como tambien los comentarios y opiniones de los Senadores presentes.",
+      "acuerdo": "Pendiente Integrantes: (Presidente) Senador Sanhueza Dueñas Gustavo Senador Espinoza Sandoval Fidel Senador Kast Sommerhoff Felipe Senadora Provoste Campillay Yasna",
+      "estado_punto": "PENDIENTE",
+      "invitados_punto": "Del Ministerio de Educación: el Subsecretario de Educación Superior, señor Víctor Orellana; el Coordinador Jurídico-Legislativo, señor Leonardo Vilches y las Asesoras, señoras Irune Martínez y Macarena Galaz. De Elige Educar: la Directora Ejecutiva, señora Verónica Cabezas; la Directora del Área de Investigaciones, señora Consuelo del Canto y la Directora de Comunicaciones, señora Ana Rojas y el Investigador, señor José Vergara. Del Consorcio de Universidades del Estado de Chile CUECH: el Presidente, Rector Osvaldo Corrales. Otros asistentes: Del Ministerio Secretaría General de la Presidencia: la Asesora, señora Antonia Letelier. De la Biblioteca del Congreso Nacional: el Investigador, señor Mario Poblete. De la oficina de la HS. Provoste: el Asesor, señor Enrique Soler. De la oficina del HS. Sanhueza: la Asesora, señora Carolina Navarrete. De la oficina del HS. Kast: el Asesor, señor José Astorga. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "integrantes_presentes": [],
+  "invitados": [
+    {
+      "bloque": "Del Ministerio de Educación: el Subsecretario de Educación Superior, señor Víctor Orellana; el Coordinador Jurídico-Legislativo, señor Leonardo Vilches y las Asesoras, señoras Irune Martínez y Macarena Galaz. De Elige Educar: la Directora Ejecutiva, señora Verónica Cabezas; la Directora del Área de Investigaciones, señora Consuelo del Canto y la Directora de Comunicaciones, señora Ana Rojas y el Investigador, señor José Vergara. Del Consorcio de Universidades del Estado de Chile CUECH: el Presidente, Rector Osvaldo Corrales. Otros asistentes:"
+    },
+    {
+      "bloque": "Del Ministerio Secretaría General de la Presidencia: la Asesora, señora Antonia Letelier. De la Biblioteca del Congreso Nacional: el Investigador, señor Mario Poblete. De la oficina de la HS. Provoste: el Asesor, señor Enrique Soler. De la oficina del HS. Sanhueza: la Asesora, señora Carolina Navarrete. De la oficina del HS. Kast: el Asesor, señor José Astorga. Avenida Pedro Montt s/n, Valparaíso / Morandé 441, Santiago (56-32) 250 4000 / (56-2) 2519 6700 Contacto"
+    }
+  ],
+  "url_video": ""
+}
