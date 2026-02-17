@@ -135,7 +135,7 @@
       <button class="tabBtn gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabCommissions">Comisiones</button>
       <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabPoliticians">Parlamentarios</button>
       <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabActivity">Actividad</button>
-      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabNews">Noticias</button>
+      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabNews">Diario Oficial</button>
       <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabChat">Chat IA</button>
     </div>
 
@@ -226,7 +226,7 @@
       <div class="bg-white rounded-2xl border border-gray-200 p-5 mb-6">
         <div class="flex flex-wrap gap-3 items-end justify-between">
           <div>
-            <h2 class="text-lg font-bold">Noticias (placeholder)</h2>
+            <h2 class="text-lg font-bold">Diario Oficial (placeholder)</h2>
             <div class="text-sm text-gray-500">Lee <span class="mono">/api/news</span> desde JSONL si existe.</div>
           </div>
 
@@ -1091,7 +1091,7 @@
   // ===== News =====
 
   async function loadNews() {
-    const source = $("newsSource").value || "diario_oficial";
+    const source = $("newsSource").value || "Diario Oficial";
     const q = $("newsQ").value || "";
 
     // (opcional) muestra que está cargando
