@@ -340,5 +340,34 @@
     "status": "OK",
     "ediciones": 1,
     "items": 29
+  },
+  {
+    "fecha": "13-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 19
+  },
+  {
+    "fecha": "14-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 4
+  },
+  {
+    "fecha": "15-02-2026",
+    "status": "SIN_EDICIONES_URL",
+    "url_day": "https://www.diariooficial.interior.gob.cl/edicionelectronica/index.php?date=15-02-2026"
+  },
+  {
+    "fecha": "16-02-2026",
+    "status": "OK",
+    "ediciones": 3,
+    "items": 12
+  },
+  {
+    "fecha": "17-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 11
   }
 ]
