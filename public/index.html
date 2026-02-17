@@ -153,11 +153,11 @@
           </div>
           <!-- Toggle Cámara/Senado -->
           <div class="flex gap-2 mb-3" id="comCamaraToggle">
-            <button id="comBtn-diputados" onclick="setComCamara('diputados')"
+            <button id="comBtn-diputados" onclick="window.setComCamara('diputados')"
               class="flex-1 text-xs py-1.5 rounded-lg font-bold bg-purple-600 text-white border-2 border-purple-600">
               🟣 Diputados
             </button>
-            <button id="comBtn-senado" onclick="setComCamara('senado')"
+            <button id="comBtn-senado" onclick="window.setComCamara('senado')"
               class="flex-1 text-xs py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200">
               🔴 Senado
             </button>
@@ -202,15 +202,15 @@
         </div>
         <!-- Toggle Cámara/Senado -->
         <div class="flex gap-2 mt-3">
-          <button id="polBtn-all" onclick="setPolCamara('all')"
+          <button id="polBtn-all" onclick="window.setPolCamara('all')"
             class="text-xs px-3 py-1.5 rounded-lg font-bold bg-gray-700 text-white border-2 border-gray-700">
             🏛️ Todas
           </button>
-          <button id="polBtn-diputados" onclick="setPolCamara('camara')"
+          <button id="polBtn-diputados" onclick="window.setPolCamara('camara')"
             class="text-xs px-3 py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200">
             🟣 Diputados
           </button>
-          <button id="polBtn-senado" onclick="setPolCamara('senado')"
+          <button id="polBtn-senado" onclick="window.setPolCamara('senado')"
             class="text-xs px-3 py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200">
             🔴 Senado
           </button>
@@ -797,30 +797,45 @@
 
   function setComCamara(c) {
     currentComCamara = c;
-    const btns = { diputados: "comBtn-diputados", senado: "comBtn-senado" };
-    Object.entries(btns).forEach(([k, id]) => {
-      const el = $(id);
-      if (!el) return;
-      if (k === c) {
-        el.className = `flex-1 text-xs py-1.5 rounded-lg font-bold border-2 ${
-          c === "senado" ? "bg-red-600 text-white border-red-600" : "bg-purple-600 text-white border-purple-600"
-        }`;
-      } else {
-        el.className = "flex-1 text-xs py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200";
-      }
-    });
+    const esSenado = c === "senado";
+
+    // Actualizar botones
+    const btnDip = $("comBtn-diputados");
+    const btnSen = $("comBtn-senado");
+    if (btnDip) btnDip.className = "flex-1 text-xs py-1.5 rounded-lg font-bold border-2 "
+      + (!esSenado ? "bg-purple-600 text-white border-purple-600" : "bg-white text-gray-500 border-gray-200");
+    if (btnSen) btnSen.className = "flex-1 text-xs py-1.5 rounded-lg font-bold border-2 "
+      + (esSenado ? "bg-red-600 text-white border-red-600" : "bg-white text-gray-500 border-gray-200");
+
+    // Limpiar el panel de detalle al cambiar cámara
+    const camaraLabel = esSenado ? "🔴 Senado de la República" : "🟣 Cámara de Diputados";
+    $("commissionTitle").textContent = "Selecciona una comisión";
+    $("commissionSubtitle").textContent = camaraLabel;
+    $("commissionMeta").textContent = "";
+    $("commissionDetail").innerHTML = "";
+
     loadCommissions(($("commissionSearch").value || "").trim());
   }
 
   async function loadCommissions(q = "") {
     const group = $("groupSelect").value || "Permanentes";
     currentGroup = group;
-    const url = `/api/commissions?group=${encodeURIComponent(group)}&q=${encodeURIComponent(q)}&camara=${currentComCamara}`;
-    const data = await apiGet(url);
-    const items = data.commissions || data.items || [];
     const label = currentComCamara === "senado" ? "🔴 Senado" : "🟣 Diputados";
-    $("commissionsHint").textContent = `${items.length} comisión(es) · ${label}`;
-    renderCommissions(items);
+
+    // Spinner
+    $("commissionsHint").textContent = `Cargando ${label}…`;
+    $("commissionsList").innerHTML = '<div class="text-xs text-gray-400 py-2">Buscando…</div>';
+
+    try {
+      const url = `/api/commissions?group=${encodeURIComponent(group)}&q=${encodeURIComponent(q)}&camara=${currentComCamara}`;
+      const data = await apiGet(url);
+      const items = data.commissions || data.items || [];
+      $("commissionsHint").textContent = `${items.length} comisión(es) · ${label}`;
+      renderCommissions(items);
+    } catch(e) {
+      $("commissionsHint").textContent = "Error al cargar";
+      $("commissionsList").innerHTML = `<div class="text-sm text-red-500">${e.message}</div>`;
+    }
   }
 
   function renderCommissions(items) {
@@ -828,7 +843,14 @@
     if (!el) return;
 
     if (!items.length) {
-      el.innerHTML = `<div class="text-sm text-gray-500">No hay comisiones.</div>`;
+      const msg = currentComCamara === "senado"
+        ? `<div class="text-sm text-gray-400 p-3 bg-red-50 rounded-lg border border-red-100">
+             <div class="font-semibold text-red-700 mb-1">🔴 Sin datos del Senado</div>
+             <div>El <code>REPO_SENADO/</code> no existe aún.<br>
+             Ejecuta <code>scraper_senado.py</code> primero.</div>
+           </div>`
+        : `<div class="text-sm text-gray-500">No hay comisiones.</div>`;
+      el.innerHTML = msg;
       return;
     }
 
@@ -844,9 +866,13 @@
   }
 
   async function openCommission(group, name) {
-    $("commissionTitle").textContent = name;
-    $("commissionSubtitle").textContent = `Cargando sesiones...`;
-    $("commissionMeta").textContent = `${group}`;
+    const esSenado = currentComCamara === "senado";
+    const camaraBadge = esSenado
+      ? "<span class='text-xs font-bold px-2 py-0.5 rounded-full bg-red-100 text-red-700 ml-2'>Senado</span>"
+      : "<span class='text-xs font-bold px-2 py-0.5 rounded-full bg-purple-100 text-purple-700 ml-2'>Diputados</span>";
+    $("commissionTitle").innerHTML = name + camaraBadge;
+    $("commissionSubtitle").textContent = "Cargando sesiones...";
+    $("commissionMeta").textContent = group;
     $("commissionDetail").innerHTML = `<div class="text-sm text-gray-500">Cargando...</div>`;
 
     try {
@@ -953,26 +979,41 @@
   function setPolCamara(c) {
     currentPolCamara = c;
     const configs = {
-      all:      { id: "polBtn-all",       cls: "bg-gray-700 text-white border-gray-700",    label: "Todas las cámaras" },
-      camara:   { id: "polBtn-diputados", cls: "bg-purple-600 text-white border-purple-600", label: "🟣 Diputados" },
-      senado:   { id: "polBtn-senado",    cls: "bg-red-600 text-white border-red-600",       label: "🔴 Senado" },
+      all:    { id: "polBtn-all",       cls: "bg-gray-700 text-white border-gray-700",     label: "Todas las cámaras" },
+      camara: { id: "polBtn-diputados", cls: "bg-purple-600 text-white border-purple-600", label: "🟣 Diputados" },
+      senado: { id: "polBtn-senado",    cls: "bg-red-600 text-white border-red-600",        label: "🔴 Senado" },
     };
-    ["polBtn-all","polBtn-diputados","polBtn-senado"].forEach(id => {
-      const el = $(id);
+
+    // Reset todos los botones
+    ["polBtn-all","polBtn-diputados","polBtn-senado"].forEach(function(id) {
+      var el = $(id);
       if (el) el.className = "text-xs px-3 py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200";
     });
-    const cfg = configs[c] || configs.all;
-    const btn = $(cfg.id);
-    if (btn) btn.className = `text-xs px-3 py-1.5 rounded-lg font-bold border-2 ${cfg.cls}`;
-    const lbl = $("polCamaraLabel");
+
+    // Activar el seleccionado
+    var cfg = configs[c] || configs.all;
+    var btn = $(cfg.id);
+    if (btn) btn.className = "text-xs px-3 py-1.5 rounded-lg font-bold border-2 " + cfg.cls;
+    var lbl = $("polCamaraLabel");
     if (lbl) lbl.textContent = cfg.label;
+
+    // Limpiar grid para dar feedback inmediato
+    var grid = $("politiciansGrid");
+    if (grid) grid.innerHTML = "<div class='col-span-3 text-xs text-gray-400 py-4'>Cambiando a " + cfg.label + "…</div>";
+
     loadPoliticians(($("politicianSearch").value || "").trim());
   }
 
   async function loadPoliticians(q = "") {
-    const data = await apiGet(`/api/politicians?q=${encodeURIComponent(q)}&camara=${currentPolCamara}`);
-    const items = data.politicians || [];
-    renderPoliticians(items);
+    const el = $("politiciansGrid");
+    if (el) el.innerHTML = '<div class="col-span-3 text-xs text-gray-400 py-4">Cargando…</div>';
+    try {
+      const data = await apiGet(`/api/politicians?q=${encodeURIComponent(q)}&camara=${currentPolCamara}`);
+      const items = data.politicians || [];
+      renderPoliticians(items);
+    } catch(e) {
+      if (el) el.innerHTML = `<div class="col-span-3 text-sm text-red-500">${e.message}</div>`;
+    }
   }
 
   function renderPoliticians(items) {
@@ -980,7 +1021,13 @@
     if (!el) return;
 
     if (!items.length) {
-      el.innerHTML = '<div class="text-sm text-gray-500">No hay resultados.</div>';
+      var msg = currentPolCamara === "senado"
+        ? "<div class='col-span-3 text-sm text-gray-400 p-4 bg-red-50 rounded-xl border border-red-100'>"
+          + "<div class='font-semibold text-red-700 mb-1'>🔴 Sin senadores indexados</div>"
+          + "<div>Ejecuta <code>scraper_senado.py</code> para generar el <code>REPO_SENADO/</code>.</div>"
+          + "</div>"
+        : "<div class='col-span-3 text-sm text-gray-500'>No hay resultados.</div>";
+      el.innerHTML = msg;
       return;
     }
 
@@ -1357,8 +1404,17 @@
 
   $("uploadBtn")?.addEventListener("click", uploadFile);
 
-  // Expose openCommission for inline onclick
+  // Expose functions for inline onclick (fuera del IIFE no son accesibles de otro modo)
   window.__openCommission = openCommission;
+  window.setComCamara    = setComCamara;
+  window.setPolCamara    = setPolCamara;
+  window.openKomModal    = openKomModal;
+  window.closeKomModal   = closeKomModal;
+  window.addKomTag       = addKomTag;
+  window.removeKomTag    = removeKomTag;
+  window.addKomLink      = addKomLink;
+  window.removeKomLink   = removeKomLink;
+  window.saveKomProfile  = saveKomProfile;
 
   // First health ping on landing
   pingHealth();
