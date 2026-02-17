@@ -143,13 +143,24 @@
     <div id="tabCommissions" class="tabPanel fade-in">
       <div class="grid lg:grid-cols-3 gap-6">
         <div class="bg-white rounded-2xl border border-gray-200 p-5">
-          <div class="flex items-center justify-between gap-3 mb-4">
+          <div class="flex items-center justify-between gap-3 mb-3">
             <h2 class="text-lg font-bold">Comisiones</h2>
             <select id="groupSelect" class="text-sm border border-gray-200 rounded-lg px-3 py-2">
               <option>Permanentes</option>
               <option>Otras</option>
               <option>Unidas</option>
             </select>
+          </div>
+          <!-- Toggle Cámara/Senado -->
+          <div class="flex gap-2 mb-3" id="comCamaraToggle">
+            <button id="comBtn-diputados" onclick="setComCamara('diputados')"
+              class="flex-1 text-xs py-1.5 rounded-lg font-bold bg-purple-600 text-white border-2 border-purple-600">
+              🟣 Diputados
+            </button>
+            <button id="comBtn-senado" onclick="setComCamara('senado')"
+              class="flex-1 text-xs py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200">
+              🔴 Senado
+            </button>
           </div>
 
           <div class="flex gap-2 mb-3">
@@ -188,6 +199,22 @@
               Buscar
             </button>
           </div>
+        </div>
+        <!-- Toggle Cámara/Senado -->
+        <div class="flex gap-2 mt-3">
+          <button id="polBtn-all" onclick="setPolCamara('all')"
+            class="text-xs px-3 py-1.5 rounded-lg font-bold bg-gray-700 text-white border-2 border-gray-700">
+            🏛️ Todas
+          </button>
+          <button id="polBtn-diputados" onclick="setPolCamara('camara')"
+            class="text-xs px-3 py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200">
+            🟣 Diputados
+          </button>
+          <button id="polBtn-senado" onclick="setPolCamara('senado')"
+            class="text-xs px-3 py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200">
+            🔴 Senado
+          </button>
+          <span id="polCamaraLabel" class="ml-auto self-center text-xs text-gray-400">Todas las cámaras</span>
         </div>
         <div class="text-xs text-gray-500 mt-2">Fuente: integrantes.json de comisiones (indexado por el backend).</div>
       </div>
@@ -766,12 +793,33 @@
   }
 
   // ===== Commissions =====
+  let currentComCamara = "diputados";
+
+  function setComCamara(c) {
+    currentComCamara = c;
+    const btns = { diputados: "comBtn-diputados", senado: "comBtn-senado" };
+    Object.entries(btns).forEach(([k, id]) => {
+      const el = $(id);
+      if (!el) return;
+      if (k === c) {
+        el.className = `flex-1 text-xs py-1.5 rounded-lg font-bold border-2 ${
+          c === "senado" ? "bg-red-600 text-white border-red-600" : "bg-purple-600 text-white border-purple-600"
+        }`;
+      } else {
+        el.className = "flex-1 text-xs py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200";
+      }
+    });
+    loadCommissions(($("commissionSearch").value || "").trim());
+  }
+
   async function loadCommissions(q = "") {
     const group = $("groupSelect").value || "Permanentes";
     currentGroup = group;
-    const data = await apiGet(`/api/commissions?group=${encodeURIComponent(group)}&q=${encodeURIComponent(q)}`);
-    const items = data.items || [];
-    $("commissionsHint").textContent = `${items.length} comisión(es) en ${group}`;
+    const url = `/api/commissions?group=${encodeURIComponent(group)}&q=${encodeURIComponent(q)}&camara=${currentComCamara}`;
+    const data = await apiGet(url);
+    const items = data.commissions || data.items || [];
+    const label = currentComCamara === "senado" ? "🔴 Senado" : "🟣 Diputados";
+    $("commissionsHint").textContent = `${items.length} comisión(es) · ${label}`;
     renderCommissions(items);
   }
 
@@ -802,7 +850,7 @@
     $("commissionDetail").innerHTML = `<div class="text-sm text-gray-500">Cargando...</div>`;
 
     try {
-      const data = await apiGet(`/api/commissions/${encodeURIComponent(group)}/${encodeURIComponent(name)}/sessions`);
+      const data = await apiGet(`/api/commissions/${encodeURIComponent(group)}/${encodeURIComponent(name)}/sessions?camara=${currentComCamara}`);
       if (!data.success) {
         $("commissionDetail").innerHTML = `<div class="text-sm text-red-600">Error: ${data.error || "Desconocido"}</div>`;
         return;
@@ -840,6 +888,7 @@
                   <th class="text-left py-2 px-2">Estado</th>
                   <th class="text-left py-2 px-2">Documentos</th>
                   <th class="text-center py-2 px-2">Transcripción</th>
+                  ${currentComCamara === "senado" ? '<th class="text-center py-2 px-2">Video</th>' : ""}
                 </tr>
               </thead>
               <tbody>
@@ -872,12 +921,18 @@
 
     const docsHTML = docs.length ? docs.join(" ") : `<span class="text-xs text-gray-400">Sin docs</span>`;
 
+    const videoURL = s.URL_Video || s.url_video || "";
+    const videoCell = videoURL
+      ? `<a href="${videoURL}" target="_blank" class="inline-flex items-center px-2 py-1 rounded text-xs font-semibold bg-red-100 text-red-700 hover:bg-red-200">🎥 Ver ↗</a>`
+      : `<span class="text-xs text-gray-400">—</span>`;
+
     return `
       <tr class="border-t border-gray-100 hover:bg-gray-50">
         <td class="py-2 px-2">${s.Fecha || ""}</td>
         <td class="py-2 px-2">${estadoBadge}</td>
         <td class="py-2 px-2"><div class="flex flex-wrap gap-1">${docsHTML}</div></td>
         <td class="py-2 px-2 text-center">${transcript}</td>
+        ${currentComCamara === "senado" ? `<td class="py-2 px-2 text-center">${videoCell}</td>` : ""}
       </tr>
     `;
   }
@@ -893,33 +948,108 @@
   }
 
   // ===== Politicians =====
+  let currentPolCamara = "all";
+
+  function setPolCamara(c) {
+    currentPolCamara = c;
+    const configs = {
+      all:      { id: "polBtn-all",       cls: "bg-gray-700 text-white border-gray-700",    label: "Todas las cámaras" },
+      camara:   { id: "polBtn-diputados", cls: "bg-purple-600 text-white border-purple-600", label: "🟣 Diputados" },
+      senado:   { id: "polBtn-senado",    cls: "bg-red-600 text-white border-red-600",       label: "🔴 Senado" },
+    };
+    ["polBtn-all","polBtn-diputados","polBtn-senado"].forEach(id => {
+      const el = $(id);
+      if (el) el.className = "text-xs px-3 py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200";
+    });
+    const cfg = configs[c] || configs.all;
+    const btn = $(cfg.id);
+    if (btn) btn.className = `text-xs px-3 py-1.5 rounded-lg font-bold border-2 ${cfg.cls}`;
+    const lbl = $("polCamaraLabel");
+    if (lbl) lbl.textContent = cfg.label;
+    loadPoliticians(($("politicianSearch").value || "").trim());
+  }
+
   async function loadPoliticians(q = "") {
-    const data = await apiGet(`/api/politicians?q=${encodeURIComponent(q)}`);
+    const data = await apiGet(`/api/politicians?q=${encodeURIComponent(q)}&camara=${currentPolCamara}`);
     const items = data.politicians || [];
     renderPoliticians(items);
   }
 
   function renderPoliticians(items) {
-    const el = $("politiciansGrid");
+    var el = $("politiciansGrid");
     if (!el) return;
 
     if (!items.length) {
-      el.innerHTML = `<div class="text-sm text-gray-500">No hay resultados.</div>`;
+      el.innerHTML = '<div class="text-sm text-gray-500">No hay resultados.</div>';
       return;
     }
 
-    el.innerHTML = items.map(p => `
-      <div class="card-hover bg-white rounded-2xl border border-gray-200 p-4">
-        <div class="font-bold text-gray-900">${p.nombre}</div>
-        <div class="text-xs text-gray-500 mb-3">${p.cargo || ""} · ${p.chamber || ""}</div>
-        <div class="flex gap-2">
-          ${p.url_ficha ? `<a class="flex-1 text-center text-xs px-3 py-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white font-semibold" href="${p.url_ficha}" target="_blank">Ver ficha →</a>` : `<div class="text-xs text-gray-400">Sin ficha</div>`}
-          <button onclick="openKomModal('${p.chamber}', '${p.id}', '${encodeURIComponent(p.nombre)}')" class="flex-1 text-xs px-3 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 font-semibold">
-            📋 Perfil KOM
-          </button>
-        </div>
-      </div>
-    `).join("");
+    var html = "";
+    items.forEach(function(p) {
+      var isSenado  = (p.chamber || "").toLowerCase() === "senado";
+      var avatarCls = isSenado ? "bg-red-600" : "bg-purple-600";
+      var badgeCls  = isSenado ? "bg-red-100 text-red-700" : "bg-purple-100 text-purple-700";
+      var badgeTxt  = isSenado ? "Senador/a" : "Diputado/a";
+      var nameParts = p.nombre.split(" ").slice(0,2);
+      var initials  = nameParts.map(function(x){ return x[0]||""; }).join("").toUpperCase();
+
+      // Comisiones (hasta 2 badges)
+      var coms = p.comisiones || [];
+      var comBadgesHtml = "";
+      coms.slice(0,2).forEach(function(c) {
+        var short = c.commission_name.replace(/^Comisi[oó]n de /i,"").slice(0,22);
+        comBadgesHtml += "<span class='inline-block text-xs px-2 py-0.5 rounded-full bg-gray-100 text-gray-600' title='" + short + "'>" + short + "</span> ";
+      });
+      if (coms.length > 2) comBadgesHtml += "<span class='text-xs text-gray-400'>+" + (coms.length-2) + " más</span>";
+
+      var comsSection = coms.length
+        ? "<div class='flex flex-wrap gap-1 mb-1'>" + comBadgesHtml + "</div>"
+          + "<div class='text-xs text-gray-400 mb-2'>" + coms.length + " comisión(es)</div>"
+        : "";
+
+      var cargoHtml = p.cargo
+        ? "<span class='text-xs text-gray-500'>" + p.cargo + "</span>"
+        : "";
+
+      var fichaHtml = p.url_ficha
+        ? "<a class='flex-1 text-center text-xs px-3 py-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white font-semibold' href='" + p.url_ficha + "' target='_blank'>Ver ficha →</a>"
+        : "<div class='text-xs text-gray-400 flex-1'>Sin ficha</div>";
+
+      // KOM button usando data-attributes para evitar problemas con comillas
+      var komBtn = "<button class='flex-1 text-xs px-3 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 font-semibold kom-btn'"
+        + " data-chamber='" + (p.chamber||"camara") + "'"
+        + " data-id='" + (p.id||"") + "'"
+        + " data-nombre='" + encodeURIComponent(p.nombre) + "'"
+        + ">📋 Perfil KOM</button>";
+
+      html += "<div class='card-hover bg-white rounded-2xl border border-gray-200 p-4'>"
+        + "<div class='flex items-start gap-3 mb-2'>"
+          + "<div class='w-10 h-10 shrink-0 rounded-full " + avatarCls + " text-white flex items-center justify-center font-bold text-xs'>" + initials + "</div>"
+          + "<div class='min-w-0'>"
+            + "<div class='font-bold text-gray-900 text-sm leading-tight'>" + p.nombre + "</div>"
+            + "<div class='flex items-center gap-1 mt-0.5 flex-wrap'>"
+              + "<span class='text-xs px-2 py-0.5 rounded-full font-semibold " + badgeCls + "'>" + badgeTxt + "</span>"
+              + cargoHtml
+            + "</div>"
+          + "</div>"
+        + "</div>"
+        + comsSection
+        + "<div class='flex gap-2'>" + fichaHtml + komBtn + "</div>"
+        + "</div>";
+    });
+
+    el.innerHTML = html;
+
+    // Bind KOM buttons via event delegation (evita problemas de comillas en onclick)
+    el.querySelectorAll(".kom-btn").forEach(function(btn) {
+      btn.addEventListener("click", function() {
+        openKomModal(
+          btn.dataset.chamber,
+          btn.dataset.id,
+          btn.dataset.nombre
+        );
+      });
+    });
   }
 
 // ===== KOM Modal =====
