@@ -1,0 +1,30 @@
+03:27:38 [INFO] ============================================================
+03:27:38 [INFO]   SCRAPER SENADO DE CHILE
+03:27:38 [INFO]   REPO:        ../REPO_V40_HISTORIAL_COMPLETO_V2
+03:27:38 [INFO]   Tipos:       ['permanentes', 'especiales', 'mixtas', 'presupuesto', 'unidas']
+03:27:38 [INFO]   Rango:       sin inicio → 2026-02-17
+03:27:38 [INFO]   Con detalle: False
+03:27:38 [INFO]   Reanudar:    False
+03:27:38 [INFO] ============================================================
+03:27:38 [INFO] 
+[1/2] Obteniendo listado de comisiones...
+03:27:38 [INFO] Obteniendo listado de comisiones — tipos: ['permanentes', 'especiales', 'mixtas', 'presupuesto', 'unidas']
+03:27:38 [DEBUG] Starting new HTTPS connection (1): www.senado.cl:443
+03:27:39 [DEBUG] https://www.senado.cl:443 "GET /actividad-legislativa/comisiones HTTP/1.1" 200 None
+03:27:39 [DEBUG] Encoding detection: utf_8 is most likely the one.
+03:27:40 [DEBUG] https://www.senado.cl:443 "GET /actividad-legislativa/comisiones?tab=permanentes HTTP/1.1" 200 None
+03:27:40 [DEBUG] Encoding detection: utf_8 is most likely the one.
+03:27:42 [DEBUG] https://www.senado.cl:443 "GET /actividad-legislativa/comisiones?tipo=permanentes HTTP/1.1" 200 None
+03:27:42 [DEBUG] Encoding detection: utf_8 is most likely the one.
+03:27:43 [WARNING]   [permanentes] Sin resultados — puede requerir Playwright (tabs JS)
+03:27:43 [INFO]   [permanentes] 0 comisiones
+03:27:43 [DEBUG] https://www.senado.cl:443 "GET /actividad-legislativa/comisiones?tab=especiales HTTP/1.1" 200 None
+03:27:43 [DEBUG] Encoding detection: utf_8 is most likely the one.
+03:27:45 [DEBUG] https://www.senado.cl:443 "GET /actividad-legislativa/comisiones?tipo=especiales HTTP/1.1" 200 None
+03:27:45 [DEBUG] Encoding detection: utf_8 is most likely the one.
+03:27:46 [WARNING]   [especiales] Sin resultados — puede requerir Playwright (tabs JS)
+03:27:46 [INFO]   [especiales] 0 comisiones
+03:27:46 [DEBUG] https://www.senado.cl:443 "GET /actividad-legislativa/comisiones?tab=mixtas HTTP/1.1" 200 None
+03:27:46 [DEBUG] Encoding detection: utf_8 is most likely the one.
+03:27:48 [DEBUG] https://www.senado.cl:443 "GET /actividad-legislativa/comisiones?tipo=mixtas HTTP/1.1" 200 None
+03:27:48 [DEBUG] Encoding detection: utf_8 is most likely the one.
