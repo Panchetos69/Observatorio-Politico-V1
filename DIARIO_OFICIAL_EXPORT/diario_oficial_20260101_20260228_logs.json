@@ -369,5 +369,22 @@
     "status": "OK",
     "ediciones": 1,
     "items": 11
+  },{
+    "fecha": "18-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 25
+  },
+  {
+    "fecha": "19-02-2026",
+    "status": "OK",
+    "ediciones": 2,
+    "items": 21
+  },
+  {
+    "fecha": "20-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 12
   }
 ]

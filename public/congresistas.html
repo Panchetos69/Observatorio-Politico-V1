@@ -8,151 +8,632 @@
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
     body { font-family: 'Inter', sans-serif; }
-    .gradient-text{
-  background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
-  background-clip: text;           /* estándar */
-  -webkit-background-clip: text;   /* Safari/Chrome */
-  color: transparent;              /* estándar */
-  -webkit-text-fill-color: transparent; /* Safari */
-}
-    .card-hover{transition:all .25s ease;} .card-hover:hover{transform:translateY(-3px);box-shadow:0 20px 40px rgba(0,0,0,.08);}
+
+    .gradient-text {
+      background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+      background-clip: text; -webkit-background-clip: text;
+      color: transparent; -webkit-text-fill-color: transparent;
+    }
+    .gradient-bg {
+      background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+    }
+    .card-hover { transition: all .25s ease; }
+    .card-hover:hover { transform: translateY(-3px); box-shadow: 0 20px 40px rgba(0,0,0,.08); }
+
+    .camara-btn {
+      padding: 6px 18px; border-radius: 999px; font-weight: 700;
+      font-size: .8rem; border: 2px solid transparent; transition: all .2s; cursor: pointer;
+    }
+    .camara-btn.active-diputados { background:#7c3aed; color:#fff; border-color:#7c3aed; }
+    .camara-btn.active-senado    { background:#b91c1c; color:#fff; border-color:#b91c1c; }
+    .camara-btn.active-all       { background:#374151; color:#fff; border-color:#374151; }
+    .camara-btn.inactive         { background:#f3f4f6; color:#6b7280; border-color:#e5e7eb; }
+    .camara-btn.inactive:hover   { border-color:#9ca3af; }
+
+    .modal-overlay { background: rgba(0,0,0,0.55); backdrop-filter: blur(4px); }
+
+    /* Foto parlamentario */
+    .parl-foto {
+      width:56px; height:56px; border-radius:50%; object-fit:cover; object-position:top;
+      border:2px solid #e9d5ff; flex-shrink:0;
+    }
+    .parl-foto-lg {
+      width:96px; height:96px; border-radius:16px; object-fit:cover; object-position:top;
+      border:3px solid rgba(255,255,255,0.3); flex-shrink:0; box-shadow:0 4px 20px rgba(0,0,0,.2);
+    }
+    .avatar-initials {
+      display:flex; align-items:center; justify-content:center;
+      font-weight:700; color:#fff; flex-shrink:0; border-radius:50%;
+    }
+    .avatar-initials-lg {
+      display:flex; align-items:center; justify-content:center;
+      font-weight:700; color:#fff; flex-shrink:0; border-radius:16px;
+      font-size:1.5rem; box-shadow:0 4px 20px rgba(0,0,0,.2);
+    }
   </style>
   <script src="/assets/app.js"></script>
   <script src="/assets/ui.js"></script>
 </head>
 <body class="bg-gray-50">
-  <div class="max-w-6xl mx-auto px-4 py-6">
-    <div class="flex items-center justify-between">
-      <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-bold">OP</div>
-        <div>
-          <div class="text-xl font-extrabold gradient-text">Observatorio Político</div>
-          <div class="text-sm text-gray-500">Congresistas</div>
-        </div>
+<div class="max-w-6xl mx-auto px-4 py-6">
+
+  <!-- Header -->
+  <div class="flex items-center justify-between">
+    <div class="flex items-center gap-3">
+      <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-bold">OP</div>
+      <div>
+        <div class="text-xl font-extrabold gradient-text">Observatorio Político</div>
+        <div class="text-sm text-gray-500">Congresistas</div>
       </div>
     </div>
-
-    <div class="mt-6 flex gap-6 text-sm text-gray-600 border-b border-gray-200 pb-3">
-      <a id="nav-chat" href="/chat.html">💬 Chat IA</a>
-      <a id="nav-congresistas" href="/congresistas.html">👥 Congresistas</a>
-      <a id="nav-comisiones" href="/comisiones.html">📁 Comisiones</a>
-      <a id="nav-actividad" href="/actividad.html">🔔 Actividad Legislativa</a>
-      <a id="nav-carga" href="/carga.html">📚 Carga</a>
-      <a id="nav-noticias" href="/noticias.html">📰 Noticias</a>
-    </div>
-    <script>setActiveNav("nav-congresistas");</script>
-
-    <div class="mt-6 bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-      <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center">👥</div>
-        <div>
-          <h2 class="text-2xl font-extrabold">Búsqueda de Congresistas</h2>
-          <p class="text-gray-500">Explora perfiles oficiales y crea perfiles internos KOM.</p>
-        </div>
-      </div>
-
-      <div class="mt-5 grid grid-cols-1 md:grid-cols-3 gap-3">
-        <input id="q" class="px-4 py-3 rounded-2xl border border-gray-200" placeholder="Buscar por nombre..." />
-        <select id="chamber" class="px-4 py-3 rounded-2xl border border-gray-200">
-          <option value="all">Todas las cámaras</option>
-          <option value="camara">Cámara</option>
-          <option value="senado">Senado</option>
-        </select>
-        <button class="px-4 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold" onclick="loadPeople()">Buscar</button>
-      </div>
-
-      <div class="mt-6 text-sm text-gray-500" id="count">Cargando…</div>
-      <div class="mt-4 grid grid-cols-1 md:grid-cols-3 gap-4" id="grid"></div>
-    </div>
-
-    <!-- Modal KOM -->
-    <div id="komModal" class="fixed inset-0 hidden items-center justify-center bg-black/40 p-4">
-      <div class="bg-white rounded-2xl w-full max-w-2xl p-6">
-        <div class="flex items-start justify-between">
-          <div>
-            <div class="text-lg font-extrabold" id="komName">Perfil KOM</div>
-            <div class="text-sm text-gray-500" id="komMeta"></div>
-          </div>
-          <button class="px-3 py-2 rounded-xl bg-gray-100" onclick="closeKom()">Cerrar</button>
-        </div>
-
-        <div class="mt-4">
-          <label class="text-sm font-semibold text-gray-700">Notas internas</label>
-          <textarea id="komNotas" class="mt-2 w-full h-40 px-4 py-3 rounded-2xl border border-gray-200"></textarea>
-        </div>
-
-        <div class="mt-4 flex justify-end gap-2">
-          <button class="px-4 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold" onclick="saveKom()">Guardar</button>
-        </div>
-      </div>
-    </div>
-
   </div>
 
-<script>
-  let currentPerson = null;
+  <!-- Nav -->
+  <div class="mt-6 flex gap-6 text-sm text-gray-600 border-b border-gray-200 pb-3 overflow-x-auto">
+    <a id="nav-chat" href="/chat.html">💬 Chat IA</a>
+    <a id="nav-congresistas" href="/congresistas.html">👥 Congresistas</a>
+    <a id="nav-comisiones" href="/comisiones.html">📁 Comisiones</a>
+    <a id="nav-actividad" href="/actividad.html">🔔 Actividad Legislativa</a>
+    <a id="nav-carga" href="/carga.html">📚 Carga</a>
+    <a id="nav-noticias" href="/noticias.html">📰 Noticias</a>
+  </div>
+  <script>if (typeof setActiveNav === "function") setActiveNav("nav-congresistas");</script>
 
-  async function loadPeople(){
-    const q = document.getElementById("q").value.trim();
-    const chamber = document.getElementById("chamber").value;
-    const data = await apiGet(`/api/politicians?q=${encodeURIComponent(q)}&chamber=${encodeURIComponent(chamber)}`);
-    const grid = document.getElementById("grid");
-    const count = document.getElementById("count");
-    count.textContent = `Mostrando ${data.total || 0} congresistas`;
-    grid.innerHTML = "";
+  <!-- Contenido -->
+  <div class="mt-6 bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
+    <div class="flex items-center gap-3 mb-5">
+      <div class="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center text-lg">👥</div>
+      <div>
+        <h2 class="text-2xl font-extrabold">Búsqueda de Congresistas</h2>
+        <p class="text-gray-500 text-sm">Diputados y Senadores · perfiles oficiales y KOM internos.</p>
+      </div>
+    </div>
 
-    (data.politicians || []).forEach(p=>{
-      const initials = p.nombre.split(" ").slice(0,2).map(x=>x[0]).join("").toUpperCase();
-      grid.innerHTML += `
-        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5 card-hover">
-          <div class="flex items-center gap-3">
-            <div class="w-12 h-12 rounded-full bg-purple-600 text-white flex items-center justify-center font-bold">${initials}</div>
-            <div>
-              <div class="font-extrabold">${p.nombre}</div>
-              <div class="text-sm text-gray-500">${p.cargo} • ${p.chamber}</div>
-            </div>
+    <!-- Toggle cámara -->
+    <div class="flex items-center gap-2 flex-wrap mb-4">
+      <span class="text-sm font-semibold text-gray-500">Cámara:</span>
+      <button id="btn-all"       class="camara-btn active-all" onclick="setCamara('all')">🏛️ Todas</button>
+      <button id="btn-diputados" class="camara-btn inactive"   onclick="setCamara('camara')">🟣 Diputados</button>
+      <button id="btn-senado"    class="camara-btn inactive"   onclick="setCamara('senado')">🔴 Senado</button>
+      <span id="camara-badge" class="ml-auto text-xs font-bold px-3 py-1 rounded-full bg-gray-100 text-gray-600">Todas las cámaras</span>
+    </div>
+
+    <!-- Búsqueda -->
+    <div class="flex gap-3 mb-4">
+      <input id="q" class="flex-1 px-4 py-3 rounded-2xl border border-gray-200 focus:border-purple-400 focus:outline-none"
+             placeholder="Buscar por nombre..."
+             onkeydown="if(event.key==='Enter') loadPeople()" />
+      <button class="px-6 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold transition"
+              onclick="loadPeople()">Buscar</button>
+    </div>
+
+    <div class="text-sm text-gray-500 mb-4" id="count">Cargando…</div>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="grid"></div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     MODAL KOM ELEGANTE
+═══════════════════════════════════════════════════ -->
+<div id="komModal" class="fixed inset-0 z-50 hidden items-center justify-center modal-overlay p-4">
+  <div class="bg-white rounded-3xl w-full max-w-2xl max-h-[92vh] overflow-y-auto shadow-2xl flex flex-col">
+
+    <!-- Header con foto y datos -->
+    <div class="relative bg-gradient-to-br from-indigo-600 via-purple-600 to-purple-700 rounded-t-3xl p-6 text-white shrink-0">
+      <button onclick="closeKom()"
+        class="absolute top-4 right-4 w-8 h-8 rounded-full bg-white/20 hover:bg-white/35 flex items-center justify-center font-bold text-lg transition">
+        ×
+      </button>
+
+      <div class="flex items-center gap-4">
+        <!-- Foto / avatar -->
+        <div id="komFotoWrap" class="shrink-0">
+          <!-- Se rellena dinámicamente -->
+        </div>
+
+        <div class="flex-1 min-w-0">
+          <div id="komCamaraBadge" class="mb-1"></div>
+          <h2 id="komName" class="text-xl font-extrabold leading-tight">Nombre</h2>
+          <p id="komCargo" class="text-white/75 text-sm mt-0.5">Cargo</p>
+          <div id="komLinkOficial" class="mt-2"></div>
+        </div>
+      </div>
+
+      <!-- URL foto personalizada (colapsable) -->
+      <details class="mt-4">
+        <summary class="text-xs text-white/60 cursor-pointer hover:text-white/90 select-none">⚙️ Personalizar foto</summary>
+        <div class="mt-2 flex gap-2">
+          <input id="komFotoUrl" type="url" placeholder="URL de foto personalizada..."
+            class="flex-1 text-xs px-3 py-2 rounded-xl bg-white/20 border border-white/30 text-white placeholder-white/40 focus:outline-none focus:bg-white/25"
+            oninput="updateKomFotoPreview()" />
+        </div>
+      </details>
+    </div>
+
+    <!-- Cuerpo -->
+    <div class="p-6 space-y-5 flex-1">
+
+      <!-- Contacto -->
+      <div>
+        <h3 class="text-xs font-bold text-gray-400 uppercase tracking-widest mb-3">📇 Datos de Contacto</h3>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+          <div>
+            <label class="text-xs font-semibold text-gray-600 block mb-1">Email</label>
+            <input id="komEmail" type="email" placeholder="correo@..."
+              class="w-full px-3 py-2 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none" />
           </div>
-          <div class="mt-4 flex gap-2">
-            <a class="px-3 py-2 rounded-xl bg-purple-600 hover:bg-purple-700 text-white text-sm font-semibold" target="_blank" href="${p.url_ficha}">Ver Perfil Oficial →</a>
-            <button class="px-3 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-900 text-sm font-semibold"
-              onclick="openKom('${p.chamber}','${p.id}','${encodeURIComponent(p.nombre)}')">Perfil KOM</button>
+          <div>
+            <label class="text-xs font-semibold text-gray-600 block mb-1">Teléfono</label>
+            <input id="komTelefono" type="tel" placeholder="+56 2..."
+              class="w-full px-3 py-2 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none" />
+          </div>
+          <div>
+            <label class="text-xs font-semibold text-gray-600 block mb-1">Sitio web</label>
+            <input id="komWeb" type="url" placeholder="https://..."
+              class="w-full px-3 py-2 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none" />
           </div>
         </div>
-      `;
-    });
+      </div>
+
+      <!-- Biografía + Notas -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div>
+          <label class="text-xs font-bold text-gray-400 uppercase tracking-widest block mb-1">📖 Biografía / Contexto</label>
+          <textarea id="komBiografia" rows="4"
+            placeholder="Historial político, relaciones clave, antecedentes..."
+            class="w-full px-3 py-2 rounded-xl border border-gray-200 text-sm resize-none focus:border-purple-400 focus:outline-none"></textarea>
+        </div>
+        <div>
+          <label class="text-xs font-bold text-gray-400 uppercase tracking-widest block mb-1">📝 Notas KOM</label>
+          <textarea id="komNotas" rows="4"
+            placeholder="Estrategia de relacionamiento, reuniones, observaciones..."
+            class="w-full px-3 py-2 rounded-xl border border-gray-200 text-sm resize-none focus:border-purple-400 focus:outline-none"></textarea>
+        </div>
+      </div>
+
+      <!-- Tópicos de interés -->
+      <div>
+        <div class="flex items-center justify-between mb-2">
+          <h3 class="text-xs font-bold text-gray-400 uppercase tracking-widest">🎯 Tópicos de Interés</h3>
+          <button onclick="addTopico()"
+            class="text-xs px-3 py-1.5 rounded-lg bg-purple-600 hover:bg-purple-700 text-white font-semibold transition">
+            + Agregar
+          </button>
+        </div>
+        <!-- Editor inline -->
+        <div id="topicoForm" class="hidden mb-3 p-4 bg-purple-50 rounded-xl border border-purple-200 space-y-2">
+          <input id="topicoTitulo" placeholder="Título (ej: Educación, Minería...)"
+            class="w-full px-3 py-2 rounded-lg border border-purple-200 text-sm focus:border-purple-400 focus:outline-none" />
+          <textarea id="topicoDesc" rows="2" placeholder="Descripción, posición, contexto..."
+            class="w-full px-3 py-2 rounded-lg border border-purple-200 text-sm resize-none focus:border-purple-400 focus:outline-none"></textarea>
+          <div class="flex gap-2">
+            <button onclick="guardarTopico()" class="px-4 py-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white text-xs font-bold transition">Guardar</button>
+            <button onclick="cancelarTopico()" class="px-4 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 text-gray-700 text-xs font-semibold transition">Cancelar</button>
+          </div>
+        </div>
+        <div id="komTopicos" class="space-y-2"></div>
+      </div>
+
+      <!-- Tags -->
+      <div>
+        <h3 class="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2">🏷️ Etiquetas</h3>
+        <div class="flex gap-2 mb-2">
+          <input id="komNewTag" placeholder="Nueva etiqueta..."
+            class="flex-1 px-3 py-2 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none"
+            onkeydown="if(event.key==='Enter') addTag()" />
+          <button onclick="addTag()" class="px-4 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 text-xs font-semibold transition">+ Agregar</button>
+        </div>
+        <div id="komTags" class="flex flex-wrap gap-2 min-h-[32px]"></div>
+      </div>
+
+      <!-- Links -->
+      <div>
+        <h3 class="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2">🔗 Enlaces Relevantes</h3>
+        <div id="komLinks" class="space-y-2 mb-3"></div>
+        <div class="flex gap-2 flex-wrap">
+          <input id="komNewLinkTitle" placeholder="Título del enlace"
+            class="flex-1 min-w-[120px] px-3 py-2 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none" />
+          <input id="komNewLinkUrl" type="url" placeholder="https://..."
+            class="flex-1 min-w-[160px] px-3 py-2 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none" />
+          <button onclick="addLink()" class="px-4 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 text-xs font-semibold transition shrink-0">+ Agregar</button>
+        </div>
+      </div>
+
+    </div><!-- /cuerpo -->
+
+    <!-- Footer sticky -->
+    <div class="sticky bottom-0 bg-white border-t border-gray-100 rounded-b-3xl px-6 py-4 flex justify-end gap-3 shrink-0">
+      <button onclick="closeKom()"
+        class="px-5 py-2.5 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 font-semibold text-sm transition">
+        Cerrar
+      </button>
+      <button id="komSaveBtn" onclick="saveKom()"
+        class="px-6 py-2.5 rounded-xl bg-purple-600 hover:bg-purple-700 text-white font-bold text-sm transition shadow-lg shadow-purple-200">
+        💾 Guardar perfil
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ══════════════════════════════════════════════════════════
+// UTILIDADES
+// ══════════════════════════════════════════════════════════
+function $(id) { return document.getElementById(id); }
+
+async function apiGet(url) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error("HTTP " + r.status);
+  return r.json();
+}
+async function apiPost(url, body) {
+  const r = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body),
+  });
+  if (!r.ok) throw new Error("HTTP " + r.status);
+  return r.json();
+}
+
+// Extrae URL de foto oficial a partir del perfil
+function getFotoUrl(urlFicha) {
+  if (!urlFicha) return "";
+  try {
+    if (urlFicha.includes("camara.cl")) {
+      const m = urlFicha.match(/[?&]prmID=(\d+)/i);
+      if (m) return `https://www.camara.cl/img.aspx?prmID=${m[1]}&prmTipo=DIPUTADOS`;
+    }
+    if (urlFicha.includes("senado.cl")) {
+      const m = urlFicha.match(/\/(\d+)\/?$/);
+      if (m) return `https://www.senado.cl/senadores/img/${m[1]}.jpg`;
+    }
+  } catch {}
+  return "";
+}
+
+// Avatar HTML: foto real o iniciales con color
+function makeAvatar(nombre, urlFicha, chamber, size) {
+  const isSenado = (chamber || "").toLowerCase() === "senado";
+  const bg = isSenado ? "bg-red-600" : "bg-purple-600";
+  const border = isSenado ? "border-red-200" : "border-purple-200";
+  const initials = nombre.split(" ").slice(0, 2).map(x => x[0] || "").join("").toUpperCase();
+  const fotoUrl = getFotoUrl(urlFicha);
+
+  if (size === "lg") {
+    if (fotoUrl) {
+      return `<img src="${fotoUrl}" alt="${nombre}" class="parl-foto-lg"
+        onerror="this.outerHTML='<div class=\\'avatar-initials-lg w-24 h-24 ${bg}\\'>${initials}</div>'" />`;
+    }
+    return `<div class="avatar-initials-lg w-24 h-24 ${bg}">${initials}</div>`;
   }
-
-  async function openKom(chamber,id,nameEnc){
-    const nombre = decodeURIComponent(nameEnc);
-    currentPerson = {chamber,id,nombre};
-    document.getElementById("komName").textContent = `Perfil KOM • ${nombre}`;
-    document.getElementById("komMeta").textContent = `${chamber} • ID ${id}`;
-
-    const data = await apiGet(`/api/kom/${chamber}/${id}`);
-    document.getElementById("komNotas").value = (data.profile && data.profile.notas) ? data.profile.notas : "";
-
-    const m = document.getElementById("komModal");
-    m.classList.remove("hidden");
-    m.classList.add("flex");
+  // card size
+  if (fotoUrl) {
+    return `<img src="${fotoUrl}" alt="${nombre}" class="parl-foto border-2 ${border}"
+      onerror="this.outerHTML='<div class=\\'avatar-initials w-14 h-14 text-sm ${bg}\\'>${initials}</div>'" />`;
   }
+  return `<div class="avatar-initials w-14 h-14 text-sm ${bg}">${initials}</div>`;
+}
 
-  function closeKom(){
-    const m = document.getElementById("komModal");
-    m.classList.add("hidden");
-    m.classList.remove("flex");
-  }
+// ══════════════════════════════════════════════════════════
+// TOGGLE CÁMARA
+// ══════════════════════════════════════════════════════════
+let camaraActual = "all";
 
-  async function saveKom(){
-    if(!currentPerson) return;
-    const notas = document.getElementById("komNotas").value || "";
-    await apiPostJson(`/api/kom/${currentPerson.chamber}/${currentPerson.id}`, {
-      notas,
-      updated_at: new Date().toISOString()
-    });
-    closeKom();
-  }
-
+function setCamara(c) {
+  camaraActual = c;
+  const cfgs = {
+    all:    { id: "btn-all",       cls: "active-all",       label: "Todas las cámaras",   badgeCls: "bg-gray-100 text-gray-600" },
+    camara: { id: "btn-diputados", cls: "active-diputados", label: "🟣 Cámara de Diputados", badgeCls: "bg-purple-100 text-purple-700" },
+    senado: { id: "btn-senado",    cls: "active-senado",    label: "🔴 Senado de la República", badgeCls: "bg-red-100 text-red-700" },
+  };
+  ["btn-all", "btn-diputados", "btn-senado"].forEach(id => {
+    const el = $(id); if (el) el.className = "camara-btn inactive";
+  });
+  const cfg = cfgs[c] || cfgs.all;
+  const btn = $(cfg.id); if (btn) btn.className = `camara-btn ${cfg.cls}`;
+  const badge = $("camara-badge");
+  if (badge) { badge.textContent = cfg.label; badge.className = `ml-auto text-xs font-bold px-3 py-1 rounded-full ${cfg.badgeCls}`; }
   loadPeople();
+}
+
+// ══════════════════════════════════════════════════════════
+// CARGAR PARLAMENTARIOS
+// ══════════════════════════════════════════════════════════
+async function loadPeople() {
+  const q = ($("q")?.value || "").trim();
+  const count = $("count");
+  const grid  = $("grid");
+  if (count) count.textContent = "Cargando…";
+  if (grid)  grid.innerHTML = "";
+
+  try {
+    // FIX: usar "camara" (no "chamber") — así lo espera el backend
+    const data = await apiGet(`/api/politicians?q=${encodeURIComponent(q)}&camara=${encodeURIComponent(camaraActual)}`);
+    const pols = data.politicians || [];
+
+    if (count) count.textContent = `${pols.length} congresista(s)${q ? ` — "${q}"` : ""}`;
+
+    if (!pols.length) {
+      const sinSen = camaraActual === "senado"
+        ? "<br>¿Ejecutaste <code>scraper_senado.py</code>?"
+        : "";
+      grid.innerHTML = `<div class="col-span-3 text-sm text-gray-400 py-10 text-center">Sin resultados.${sinSen}</div>`;
+      return;
+    }
+
+    grid.innerHTML = "";
+    pols.forEach(p => {
+      const isSenado  = (p.chamber || "").toLowerCase() === "senado";
+      const badgeCls  = isSenado ? "bg-red-100 text-red-700" : "bg-purple-100 text-purple-700";
+      const badgeTxt  = isSenado ? "Senador/a" : "Diputado/a";
+      const comBadges = (p.comisiones || []).slice(0, 2).map(c =>
+        `<span class="inline-block text-xs px-2 py-0.5 rounded-full bg-gray-100 text-gray-600 truncate max-w-[130px]"
+          title="${c.commission_name}">${c.commission_name.replace(/^Comisi[oó]n de /i,"").slice(0,26)}</span>`
+      ).join("") + ((p.comisiones||[]).length > 2 ? `<span class="text-xs text-gray-400">+${(p.comisiones||[]).length - 2} más</span>` : "");
+
+      const div = document.createElement("div");
+      div.className = "bg-white rounded-2xl shadow-sm border border-gray-100 p-4 card-hover flex flex-col justify-between";
+      div.innerHTML = `
+        <div>
+          <div class="flex items-center gap-3 mb-2">
+            ${makeAvatar(p.nombre, p.url_ficha, p.chamber, "sm")}
+            <div class="min-w-0 flex-1">
+              <div class="font-extrabold text-gray-900 leading-tight line-clamp-2">${p.nombre}</div>
+              <div class="flex items-center gap-1 mt-1 flex-wrap">
+                <span class="text-xs font-bold px-2 py-0.5 rounded-full ${badgeCls}">${badgeTxt}</span>
+                ${p.cargo ? `<span class="text-xs text-gray-500">${p.cargo}</span>` : ""}
+              </div>
+            </div>
+          </div>
+          ${comBadges ? `<div class="flex flex-wrap gap-1 mt-1">${comBadges}</div>` : ""}
+          ${(p.comisiones||[]).length > 0 ? `<div class="text-xs text-gray-400 mt-1">${(p.comisiones||[]).length} comisión(es)</div>` : ""}
+        </div>
+        <div class="mt-3 flex gap-2">
+          ${p.url_ficha
+            ? `<a href="${p.url_ficha}" target="_blank" rel="noopener"
+                class="flex-1 text-center text-xs px-3 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 font-semibold transition">Ver Perfil ↗</a>`
+            : `<div class="flex-1"></div>`}
+          <button class="flex-1 text-xs px-3 py-2 rounded-xl bg-purple-600 hover:bg-purple-700 text-white font-semibold transition kom-open"
+            data-chamber="${p.chamber||"camara"}"
+            data-id="${p.id||""}"
+            data-nombre="${encodeURIComponent(p.nombre)}"
+            data-cargo="${encodeURIComponent(p.cargo||"Parlamentario/a")}"
+            data-url="${encodeURIComponent(p.url_ficha||"")}">
+            📋 Perfil KOM
+          </button>
+        </div>
+      `;
+      grid.appendChild(div);
+    });
+
+    // Bind botones KOM con event delegation
+    grid.querySelectorAll(".kom-open").forEach(btn => {
+      btn.addEventListener("click", () => openKom(
+        btn.dataset.chamber,
+        btn.dataset.id,
+        btn.dataset.nombre,
+        btn.dataset.cargo,
+        btn.dataset.url
+      ));
+    });
+
+  } catch(e) {
+    if (count) count.textContent = "Error al cargar";
+    if (grid) grid.innerHTML = `<div class="col-span-3 text-sm text-red-500 py-4">Error: ${e.message}</div>`;
+  }
+}
+
+// ══════════════════════════════════════════════════════════
+// KOM MODAL
+// ══════════════════════════════════════════════════════════
+let currentPerson = null;
+let editingTopicoIdx = null;
+let komData = { topicos: [], tags: [], links: [] };
+
+async function openKom(chamber, id, nameEnc, cargoEnc, urlEnc) {
+  const nombre   = decodeURIComponent(nameEnc || "");
+  const cargo    = decodeURIComponent(cargoEnc || "Parlamentario/a");
+  const urlFicha = decodeURIComponent(urlEnc  || "");
+  chamber = (chamber || "camara").trim();
+  id      = (id || nombre).trim();
+
+  currentPerson = { chamber, id, nombre, cargo, urlFicha };
+
+  // — Header foto —
+  const isSenado = chamber === "senado";
+  $("komFotoWrap").innerHTML = makeAvatar(nombre, urlFicha, chamber, "lg");
+  $("komName").textContent   = nombre;
+  $("komCargo").textContent  = cargo;
+  $("komCamaraBadge").innerHTML = isSenado
+    ? `<span class="text-xs font-bold px-2 py-1 rounded-full bg-white/20">🔴 Senado</span>`
+    : `<span class="text-xs font-bold px-2 py-1 rounded-full bg-white/20">🟣 Diputados</span>`;
+  $("komLinkOficial").innerHTML = urlFicha
+    ? `<a href="${urlFicha}" target="_blank" rel="noopener" class="text-xs text-white/80 hover:text-white underline">🔗 Ver perfil oficial ↗</a>`
+    : "";
+
+  // — Cargar perfil guardado —
+  try {
+    const data = await apiGet(`/api/kom/${encodeURIComponent(chamber)}/${encodeURIComponent(id)}`);
+    const prof = data.profile || {};
+    komData = {
+      topicos: prof.topicos || [],
+      tags:    prof.tags    || [],
+      links:   prof.links   || [],
+    };
+    if ($("komFotoUrl"))   $("komFotoUrl").value   = prof.foto_url   || getFotoUrl(urlFicha) || "";
+    if ($("komEmail"))     $("komEmail").value      = prof.email      || "";
+    if ($("komTelefono"))  $("komTelefono").value   = prof.telefono   || "";
+    if ($("komWeb"))       $("komWeb").value         = prof.web        || "";
+    if ($("komBiografia")) $("komBiografia").value  = prof.biografia  || "";
+    if ($("komNotas"))     $("komNotas").value       = prof.notas      || "";
+    // Si hay foto guardada, actualizar preview
+    if (prof.foto_url) {
+      $("komFotoWrap").innerHTML = `<img src="${prof.foto_url}" alt="${nombre}" class="parl-foto-lg"
+        onerror="this.outerHTML='${makeAvatar(nombre, urlFicha, chamber, "lg")}'" />`;
+    }
+  } catch {
+    komData = { topicos: [], tags: [], links: [] };
+  }
+
+  renderTopicos(); renderTags(); renderLinks();
+  cancelarTopico();
+
+  $("komModal").classList.remove("hidden");
+  $("komModal").classList.add("flex");
+}
+
+function closeKom() {
+  $("komModal").classList.add("hidden");
+  $("komModal").classList.remove("flex");
+  currentPerson = null;
+}
+
+// Click fuera del modal → cerrar
+$("komModal").addEventListener("click", e => { if (e.target === $("komModal")) closeKom(); });
+
+function updateKomFotoPreview() {
+  const url = ($("komFotoUrl")?.value || "").trim();
+  if (!url || !currentPerson) return;
+  $("komFotoWrap").innerHTML = `<img src="${url}" alt="" class="parl-foto-lg"
+    onerror="this.parentElement.innerHTML='<div class=\\'avatar-initials-lg w-24 h-24 bg-gray-400\\'>?</div>'" />`;
+}
+
+async function saveKom() {
+  if (!currentPerson) return;
+  const payload = {
+    nombre:    currentPerson.nombre,
+    chamber:   currentPerson.chamber,
+    foto_url:  $("komFotoUrl")?.value     || "",
+    email:     $("komEmail")?.value       || "",
+    telefono:  $("komTelefono")?.value    || "",
+    web:       $("komWeb")?.value         || "",
+    biografia: $("komBiografia")?.value   || "",
+    notas:     $("komNotas")?.value       || "",
+    topicos:   komData.topicos,
+    tags:      komData.tags,
+    links:     komData.links,
+    updated_at: new Date().toISOString(),
+  };
+  try {
+    await apiPost(`/api/kom/${currentPerson.chamber}/${currentPerson.id}`, payload);
+    const btn = $("komSaveBtn");
+    btn.textContent = "✓ Guardado";
+    btn.classList.replace("bg-purple-600","bg-green-600");
+    btn.classList.replace("shadow-purple-200","shadow-green-200");
+    setTimeout(() => {
+      btn.textContent = "💾 Guardar perfil";
+      btn.classList.replace("bg-green-600","bg-purple-600");
+      btn.classList.replace("shadow-green-200","shadow-purple-200");
+    }, 2200);
+  } catch(e) {
+    alert("Error al guardar: " + e.message);
+  }
+}
+
+// ── Tópicos ──
+function addTopico() {
+  editingTopicoIdx = null;
+  if ($("topicoTitulo"))  $("topicoTitulo").value  = "";
+  if ($("topicoDesc"))    $("topicoDesc").value     = "";
+  $("topicoForm")?.classList.remove("hidden");
+  $("topicoTitulo")?.focus();
+}
+function editTopico(idx) {
+  editingTopicoIdx = idx;
+  const t = komData.topicos[idx];
+  if ($("topicoTitulo")) $("topicoTitulo").value = t.titulo    || "";
+  if ($("topicoDesc"))   $("topicoDesc").value   = t.descripcion || "";
+  $("topicoForm")?.classList.remove("hidden");
+}
+function cancelarTopico() {
+  $("topicoForm")?.classList.add("hidden");
+  editingTopicoIdx = null;
+}
+function guardarTopico() {
+  const titulo = ($("topicoTitulo")?.value || "").trim();
+  if (!titulo) { alert("Ingresa un título"); return; }
+  const entry = { titulo, descripcion: ($("topicoDesc")?.value || "").trim() };
+  if (editingTopicoIdx !== null) {
+    komData.topicos[editingTopicoIdx] = entry;
+  } else {
+    komData.topicos.push(entry);
+  }
+  cancelarTopico();
+  renderTopicos();
+}
+function deleteTopico(idx) {
+  komData.topicos.splice(idx, 1);
+  renderTopicos();
+}
+function renderTopicos() {
+  const el = $("komTopicos");
+  if (!el) return;
+  if (!komData.topicos.length) {
+    el.innerHTML = `<div class="text-xs text-gray-400 p-3 bg-gray-50 rounded-xl border border-dashed border-gray-200">Sin tópicos. Haz clic en "+ Agregar".</div>`;
+    return;
+  }
+  el.innerHTML = komData.topicos.map((t, i) => `
+    <div class="bg-purple-50 border border-purple-200 rounded-xl p-3 flex items-start gap-2">
+      <div class="flex-1">
+        <div class="font-bold text-gray-900 text-sm">${t.titulo}</div>
+        ${t.descripcion ? `<div class="text-xs text-gray-600 mt-0.5 line-clamp-2">${t.descripcion}</div>` : ""}
+      </div>
+      <div class="flex gap-1 shrink-0">
+        <button onclick="editTopico(${i})" class="text-xs px-2 py-1 rounded-lg bg-white border hover:bg-gray-50 text-gray-600 transition">✏️</button>
+        <button onclick="deleteTopico(${i})" class="text-xs px-2 py-1 rounded-lg bg-white border hover:bg-red-50 text-red-500 transition">✕</button>
+      </div>
+    </div>
+  `).join("");
+}
+
+// ── Tags ──
+function addTag() {
+  const val = ($("komNewTag")?.value || "").trim();
+  if (!val) return;
+  if (!komData.tags.includes(val)) { komData.tags.push(val); renderTags(); }
+  if ($("komNewTag")) $("komNewTag").value = "";
+}
+function removeTag(idx) { komData.tags.splice(idx, 1); renderTags(); }
+function renderTags() {
+  const el = $("komTags");
+  if (!el) return;
+  if (!komData.tags.length) { el.innerHTML = `<span class="text-xs text-gray-400">Sin etiquetas</span>`; return; }
+  el.innerHTML = komData.tags.map((t, i) => `
+    <span class="inline-flex items-center gap-1 text-xs px-3 py-1 rounded-full bg-purple-100 text-purple-700 font-semibold">
+      ${t}
+      <button onclick="removeTag(${i})" class="hover:text-red-500 transition font-bold">×</button>
+    </span>
+  `).join("");
+}
+
+// ── Links ──
+function addLink() {
+  const title = ($("komNewLinkTitle")?.value || "").trim();
+  const url   = ($("komNewLinkUrl")?.value   || "").trim();
+  if (!title || !url) { alert("Completa título y URL"); return; }
+  komData.links.push({ title, url });
+  if ($("komNewLinkTitle")) $("komNewLinkTitle").value = "";
+  if ($("komNewLinkUrl"))   $("komNewLinkUrl").value   = "";
+  renderLinks();
+}
+function removeLink(idx) { komData.links.splice(idx, 1); renderLinks(); }
+function renderLinks() {
+  const el = $("komLinks");
+  if (!el) return;
+  if (!komData.links.length) { el.innerHTML = `<div class="text-xs text-gray-400 p-2 bg-gray-50 rounded-xl border border-dashed border-gray-200">Sin enlaces</div>`; return; }
+  el.innerHTML = komData.links.map((l, i) => `
+    <div class="flex items-center gap-2 p-2 bg-gray-50 rounded-xl border border-gray-200">
+      <a href="${l.url}" target="_blank" rel="noopener" class="flex-1 text-sm text-purple-700 hover:underline truncate">${l.title}</a>
+      <button onclick="removeLink(${i})" class="shrink-0 text-xs text-red-400 hover:text-red-600 font-bold px-2 transition">✕</button>
+    </div>
+  `).join("");
+}
+
+// ══════════════════════════════════════════════════════════
+// ARRANQUE
+// ══════════════════════════════════════════════════════════
+loadPeople();
 </script>
 </body>
 </html>
