@@ -1,254 +1,242 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>OP - Congresistas</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
-    body { font-family: 'Inter', sans-serif; }
+    body { font-family:'Inter',sans-serif; }
 
     .gradient-text {
-      background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
-      background-clip: text; -webkit-background-clip: text;
-      color: transparent; -webkit-text-fill-color: transparent;
+      background:linear-gradient(135deg,#667eea,#764ba2);
+      background-clip:text; -webkit-background-clip:text;
+      color:transparent; -webkit-text-fill-color:transparent;
     }
-    .gradient-bg {
-      background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
-    }
-    .card-hover { transition: all .25s ease; }
-    .card-hover:hover { transform: translateY(-3px); box-shadow: 0 20px 40px rgba(0,0,0,.08); }
+    .gradient-bg { background:linear-gradient(135deg,#667eea,#764ba2); }
+    .card-hover  { transition:all .2s; }
+    .card-hover:hover { transform:translateY(-2px); box-shadow:0 12px 32px rgba(102,126,234,.13); }
 
-    .camara-btn {
-      padding: 6px 18px; border-radius: 999px; font-weight: 700;
-      font-size: .8rem; border: 2px solid transparent; transition: all .2s; cursor: pointer;
+    /* ── Toggles cámara ── */
+    .cam-btn {
+      padding:5px 16px; border-radius:999px; font-size:.78rem; font-weight:700;
+      border:2px solid transparent; transition:all .18s; cursor:pointer;
     }
-    .camara-btn.active-diputados { background:#7c3aed; color:#fff; border-color:#7c3aed; }
-    .camara-btn.active-senado    { background:#b91c1c; color:#fff; border-color:#b91c1c; }
-    .camara-btn.active-all       { background:#374151; color:#fff; border-color:#374151; }
-    .camara-btn.inactive         { background:#f3f4f6; color:#6b7280; border-color:#e5e7eb; }
-    .camara-btn.inactive:hover   { border-color:#9ca3af; }
+    .cam-all      { background:#1f2937; color:#fff; border-color:#1f2937; }
+    .cam-diputado { background:#7c3aed; color:#fff; border-color:#7c3aed; }
+    .cam-senado   { background:#b91c1c; color:#fff; border-color:#b91c1c; }
+    .cam-off      { background:#f3f4f6; color:#6b7280; border-color:#e5e7eb; }
+    .cam-off:hover { border-color:#9ca3af; background:#fff; }
 
-    .modal-overlay { background: rgba(0,0,0,0.55); backdrop-filter: blur(4px); }
+    /* ── Avatar ── */
+    .av-dip { background:linear-gradient(135deg,#7c3aed,#a855f7); }
+    .av-sen { background:linear-gradient(135deg,#b91c1c,#ef4444); }
+    .av-all { background:linear-gradient(135deg,#374151,#6b7280); }
 
-    /* Foto parlamentario */
-    .parl-foto {
-      width:56px; height:56px; border-radius:50%; object-fit:cover; object-position:top;
-      border:2px solid #e9d5ff; flex-shrink:0;
+    /* ── Selector comisión ── */
+    .com-select-wrap { position:relative; }
+    .com-select-wrap::after {
+      content:'▾'; position:absolute; right:12px; top:50%;
+      transform:translateY(-50%); color:#9ca3af;
+      pointer-events:none; font-size:.75rem;
     }
-    .parl-foto-lg {
-      width:96px; height:96px; border-radius:16px; object-fit:cover; object-position:top;
-      border:3px solid rgba(255,255,255,0.3); flex-shrink:0; box-shadow:0 4px 20px rgba(0,0,0,.2);
+    #comisionSelect {
+      appearance:none; -webkit-appearance:none;
+      width:100%; padding:9px 32px 9px 12px;
+      border-radius:14px; border:1.5px solid #e5e7eb;
+      font-size:.8rem; font-weight:600; color:#374151;
+      background:#fff; cursor:pointer; transition:border-color .15s;
+      outline:none;
     }
-    .avatar-initials {
-      display:flex; align-items:center; justify-content:center;
-      font-weight:700; color:#fff; flex-shrink:0; border-radius:50%;
+    #comisionSelect:focus   { border-color:#7c3aed; }
+    #comisionSelect.active  { border-color:#7c3aed; background:#faf5ff; color:#5b21b6; }
+
+    /* ── Chip filtro activo ── */
+    .filter-chip {
+      display:inline-flex; align-items:center; gap:.35rem;
+      padding:3px 10px 3px 12px; border-radius:999px; font-size:.7rem; font-weight:700;
+      background:#ede9fe; color:#5b21b6; border:1px solid #c4b5fd;
     }
-    .avatar-initials-lg {
-      display:flex; align-items:center; justify-content:center;
-      font-weight:700; color:#fff; flex-shrink:0; border-radius:16px;
-      font-size:1.5rem; box-shadow:0 4px 20px rgba(0,0,0,.2);
+    .chip-x { cursor:pointer; opacity:.55; transition:opacity .15s; font-size:.85rem; line-height:1; }
+    .chip-x:hover { opacity:1; color:#7c3aed; }
+
+    /* ── Skeleton ── */
+    @keyframes shimmer { 0%{background-position:200%}100%{background-position:-200%} }
+    .skel {
+      border-radius:6px; height:12px;
+      background:linear-gradient(90deg,#f0f0f0 25%,#e4e4e4 50%,#f0f0f0 75%);
+      background-size:200% 100%; animation:shimmer 1.4s infinite;
     }
+
+    /* ── Modal ── */
+    .modal-bg { background:rgba(0,0,0,.45); backdrop-filter:blur(5px); }
+
+    /* ── Toast ── */
+    #toast {
+      position:fixed; bottom:1.5rem; right:1.5rem; z-index:9999;
+      padding:.65rem 1.1rem; border-radius:12px; font-size:.82rem; font-weight:600;
+      box-shadow:0 8px 32px rgba(0,0,0,.12); transform:translateY(60px); opacity:0;
+      transition:all .25s; pointer-events:none;
+    }
+    #toast.show { transform:none; opacity:1; }
+    #toast.ok  { background:#ecfdf5; color:#065f46; border:1px solid #6ee7b7; }
+    #toast.err { background:#fef2f2; color:#991b1b; border:1px solid #fca5a5; }
+
+    /* ── Com row en modal ── */
+    .com-row {
+      display:flex; align-items:center; gap:.5rem;
+      padding:.35rem .6rem; border-radius:8px;
+      border:1px solid #f3f4f6; transition:background .12s;
+    }
+    .com-row:hover { background:#faf5ff; border-color:#ddd6fe; }
+    .com-row.highlighted { background:#f5f3ff; border-color:#c4b5fd; }
   </style>
-  <script src="/assets/app.js"></script>
-  <script src="/assets/ui.js"></script>
 </head>
-<body class="bg-gray-50">
-<div class="max-w-6xl mx-auto px-4 py-6">
+<body class="bg-gray-50 min-h-screen">
+
+<div id="toast"></div>
+
+<button id="scrollTop" onclick="window.scrollTo({top:0,behavior:'smooth'})"
+  class="fixed bottom-5 left-5 z-50 w-10 h-10 rounded-full gradient-bg text-white shadow-lg text-base font-bold hidden hover:scale-110 transition">↑</button>
+
+<div class="max-w-7xl mx-auto px-4 py-6">
 
   <!-- Header -->
-  <div class="flex items-center justify-between">
-    <div class="flex items-center gap-3">
-      <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-bold">OP</div>
-      <div>
-        <div class="text-xl font-extrabold gradient-text">Observatorio Político</div>
-        <div class="text-sm text-gray-500">Congresistas</div>
-      </div>
+  <div class="flex items-center gap-3 mb-1">
+    <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-extrabold text-sm">OP</div>
+    <div>
+      <div class="text-xl font-extrabold gradient-text">Observatorio Político</div>
+      <div class="text-sm text-gray-400">Parlamentarios</div>
     </div>
   </div>
 
   <!-- Nav -->
-  <div class="mt-6 flex gap-6 text-sm text-gray-600 border-b border-gray-200 pb-3 overflow-x-auto">
-    <a id="nav-chat" href="/chat.html">💬 Chat IA</a>
-    <a id="nav-congresistas" href="/congresistas.html">👥 Congresistas</a>
-    <a id="nav-comisiones" href="/comisiones.html">📁 Comisiones</a>
-    <a id="nav-actividad" href="/actividad.html">🔔 Actividad Legislativa</a>
-    <a id="nav-carga" href="/carga.html">📚 Carga</a>
-    <a id="nav-noticias" href="/noticias.html">📰 Noticias</a>
+  <div class="mt-4 flex gap-5 text-sm text-gray-500 border-b border-gray-200 pb-3 overflow-x-auto whitespace-nowrap">
+    <a href="/chat.html" class="hover:text-gray-800 transition">💬 Chat IA</a>
+    <a href="/congresistas.html" class="font-bold text-purple-700">👥 Congresistas</a>
+    <a href="/comisiones.html"   class="hover:text-gray-800 transition">📁 Comisiones</a>
+    <a href="/actividad.html"    class="hover:text-gray-800 transition">🔔 Actividad</a>
+    <a href="/carga.html"        class="hover:text-gray-800 transition">📚 Carga</a>
+    <a href="/noticias.html"     class="hover:text-gray-800 transition">📰 Noticias</a>
   </div>
-  <script>if (typeof setActiveNav === "function") setActiveNav("nav-congresistas");</script>
 
-  <!-- Contenido -->
-  <div class="mt-6 bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-    <div class="flex items-center gap-3 mb-5">
-      <div class="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center text-lg">👥</div>
-      <div>
-        <h2 class="text-2xl font-extrabold">Búsqueda de Congresistas</h2>
-        <p class="text-gray-500 text-sm">Diputados y Senadores · perfiles oficiales y KOM internos.</p>
+  <!-- Panel filtros -->
+  <div class="mt-5 bg-white rounded-2xl border border-gray-100 shadow-sm p-5">
+
+    <div class="flex items-center justify-between gap-3 mb-4 flex-wrap">
+      <div class="flex items-center gap-3">
+        <div class="w-9 h-9 rounded-xl bg-purple-100 flex items-center justify-center text-lg">👥</div>
+        <div>
+          <h2 class="text-lg font-extrabold text-gray-900">Búsqueda de Congresistas</h2>
+          <p class="text-xs text-gray-400">Diputados y Senadores · filtro por comisión en tiempo real</p>
+        </div>
+      </div>
+      <div id="count" class="text-sm font-semibold text-gray-500 shrink-0 bg-gray-50 px-3 py-1.5 rounded-xl border border-gray-100">
+        Cargando…
       </div>
     </div>
 
-    <!-- Toggle cámara -->
+    <!-- Toggles cámara -->
     <div class="flex items-center gap-2 flex-wrap mb-4">
-      <span class="text-sm font-semibold text-gray-500">Cámara:</span>
-      <button id="btn-all"       class="camara-btn active-all" onclick="setCamara('all')">🏛️ Todas</button>
-      <button id="btn-diputados" class="camara-btn inactive"   onclick="setCamara('camara')">🟣 Diputados</button>
-      <button id="btn-senado"    class="camara-btn inactive"   onclick="setCamara('senado')">🔴 Senado</button>
-      <span id="camara-badge" class="ml-auto text-xs font-bold px-3 py-1 rounded-full bg-gray-100 text-gray-600">Todas las cámaras</span>
+      <span class="text-xs font-bold text-gray-400 uppercase tracking-wide mr-1">Cámara:</span>
+      <button id="btn-all"       class="cam-btn cam-all"  onclick="setCamara('all')">🏛️ Todos</button>
+      <button id="btn-diputados" class="cam-btn cam-off"  onclick="setCamara('camara')">🟣 Diputados</button>
+      <button id="btn-senado"    class="cam-btn cam-off"  onclick="setCamara('senado')">🔴 Senadores</button>
     </div>
 
-    <!-- Búsqueda -->
-    <div class="flex gap-3 mb-4">
-      <input id="q" class="flex-1 px-4 py-3 rounded-2xl border border-gray-200 focus:border-purple-400 focus:outline-none"
-             placeholder="Buscar por nombre..."
-             onkeydown="if(event.key==='Enter') loadPeople()" />
-      <button class="px-6 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold transition"
-              onclick="loadPeople()">Buscar</button>
+    <!-- Fila: nombre + comisión + orden -->
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+
+      <!-- Nombre (debounce) -->
+      <div class="relative">
+        <span class="absolute left-3 top-1/2 -translate-y-1/2 text-gray-300 text-sm select-none">🔍</span>
+        <input id="q" type="text"
+          class="w-full pl-9 pr-4 py-2.5 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none transition"
+          placeholder="Buscar por nombre…"
+          oninput="debounceFilter()" />
+      </div>
+
+      <!-- Selector comisión agrupado -->
+      <div class="com-select-wrap">
+        <select id="comisionSelect" onchange="applyFilters()" title="Filtrar por comisión">
+          <option value="">📋 Todas las comisiones</option>
+        </select>
+      </div>
+
+      <!-- Orden -->
+      <div class="relative">
+        <span class="absolute left-3 top-1/2 -translate-y-1/2 text-gray-300 text-sm select-none">↕</span>
+        <select id="ordenSelect"
+          class="w-full pl-9 pr-4 py-2.5 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none transition appearance-none"
+          onchange="applyFilters()">
+          <option value="az">Nombre A → Z</option>
+          <option value="za">Nombre Z → A</option>
+          <option value="coms_desc">Más comisiones primero</option>
+          <option value="coms_asc">Menos comisiones primero</option>
+          <option value="diputados">Diputados primero</option>
+          <option value="senadores">Senadores primero</option>
+        </select>
+      </div>
     </div>
 
-    <div class="text-sm text-gray-500 mb-4" id="count">Cargando…</div>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="grid"></div>
+    <!-- Chip de filtro activo -->
+    <div id="activeFilters" class="mt-2.5 flex flex-wrap gap-2 hidden"></div>
+
   </div>
+
+  <!-- Grid -->
+  <div id="grid" class="mt-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════
-     MODAL KOM ELEGANTE
-═══════════════════════════════════════════════════ -->
-<div id="komModal" class="fixed inset-0 z-50 hidden items-center justify-center modal-overlay p-4">
-  <div class="bg-white rounded-3xl w-full max-w-2xl max-h-[92vh] overflow-y-auto shadow-2xl flex flex-col">
+<!-- ══════════════════════════════════════════
+     MODAL KOM
+══════════════════════════════════════════ -->
+<div id="komModal" class="fixed inset-0 z-50 hidden items-center justify-center modal-bg p-4">
+  <div class="bg-white rounded-2xl w-full max-w-2xl max-h-[92vh] flex flex-col shadow-2xl">
 
-    <!-- Header con foto y datos -->
-    <div class="relative bg-gradient-to-br from-indigo-600 via-purple-600 to-purple-700 rounded-t-3xl p-6 text-white shrink-0">
-      <button onclick="closeKom()"
-        class="absolute top-4 right-4 w-8 h-8 rounded-full bg-white/20 hover:bg-white/35 flex items-center justify-center font-bold text-lg transition">
-        ×
-      </button>
-
-      <div class="flex items-center gap-4">
-        <!-- Foto / avatar -->
-        <div id="komFotoWrap" class="shrink-0">
-          <!-- Se rellena dinámicamente -->
-        </div>
-
-        <div class="flex-1 min-w-0">
-          <div id="komCamaraBadge" class="mb-1"></div>
-          <h2 id="komName" class="text-xl font-extrabold leading-tight">Nombre</h2>
-          <p id="komCargo" class="text-white/75 text-sm mt-0.5">Cargo</p>
-          <div id="komLinkOficial" class="mt-2"></div>
-        </div>
+    <!-- Header -->
+    <div class="flex items-start gap-4 p-5 border-b border-gray-100 shrink-0">
+      <div id="komAvatar"
+        class="w-14 h-14 shrink-0 rounded-2xl flex items-center justify-center text-white font-extrabold text-lg shadow-sm">
       </div>
-
-      <!-- URL foto personalizada (colapsable) -->
-      <details class="mt-4">
-        <summary class="text-xs text-white/60 cursor-pointer hover:text-white/90 select-none">⚙️ Personalizar foto</summary>
-        <div class="mt-2 flex gap-2">
-          <input id="komFotoUrl" type="url" placeholder="URL de foto personalizada..."
-            class="flex-1 text-xs px-3 py-2 rounded-xl bg-white/20 border border-white/30 text-white placeholder-white/40 focus:outline-none focus:bg-white/25"
-            oninput="updateKomFotoPreview()" />
-        </div>
-      </details>
+      <div class="flex-1 min-w-0">
+        <div id="komName"  class="font-extrabold text-gray-900 text-base leading-tight"></div>
+        <div id="komMeta"  class="text-xs text-gray-400 mt-0.5"></div>
+        <div id="komBadge" class="mt-1.5 flex flex-wrap gap-1"></div>
+      </div>
+      <button onclick="closeKom()"
+        class="w-8 h-8 rounded-full bg-gray-100 hover:bg-gray-200 text-gray-500 font-bold text-sm flex items-center justify-center shrink-0 transition">×</button>
     </div>
 
     <!-- Cuerpo -->
-    <div class="p-6 space-y-5 flex-1">
+    <div class="flex-1 overflow-y-auto p-5 space-y-4">
 
-      <!-- Contacto -->
+      <!-- Comisiones -->
+      <div id="komComisiones"></div>
+
+      <!-- Notas -->
       <div>
-        <h3 class="text-xs font-bold text-gray-400 uppercase tracking-widest mb-3">📇 Datos de Contacto</h3>
-        <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
-          <div>
-            <label class="text-xs font-semibold text-gray-600 block mb-1">Email</label>
-            <input id="komEmail" type="email" placeholder="correo@..."
-              class="w-full px-3 py-2 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none" />
-          </div>
-          <div>
-            <label class="text-xs font-semibold text-gray-600 block mb-1">Teléfono</label>
-            <input id="komTelefono" type="tel" placeholder="+56 2..."
-              class="w-full px-3 py-2 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none" />
-          </div>
-          <div>
-            <label class="text-xs font-semibold text-gray-600 block mb-1">Sitio web</label>
-            <input id="komWeb" type="url" placeholder="https://..."
-              class="w-full px-3 py-2 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none" />
-          </div>
-        </div>
+        <label class="text-xs font-bold text-gray-600 block mb-1.5">📝 Notas internas</label>
+        <textarea id="komNotas" rows="4"
+          class="w-full px-3 py-2.5 text-sm border border-gray-200 rounded-xl resize-none focus:border-purple-400 focus:outline-none transition"
+          placeholder="Estrategia, reuniones, observaciones…"></textarea>
       </div>
 
-      <!-- Biografía + Notas -->
-      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-        <div>
-          <label class="text-xs font-bold text-gray-400 uppercase tracking-widest block mb-1">📖 Biografía / Contexto</label>
-          <textarea id="komBiografia" rows="4"
-            placeholder="Historial político, relaciones clave, antecedentes..."
-            class="w-full px-3 py-2 rounded-xl border border-gray-200 text-sm resize-none focus:border-purple-400 focus:outline-none"></textarea>
-        </div>
-        <div>
-          <label class="text-xs font-bold text-gray-400 uppercase tracking-widest block mb-1">📝 Notas KOM</label>
-          <textarea id="komNotas" rows="4"
-            placeholder="Estrategia de relacionamiento, reuniones, observaciones..."
-            class="w-full px-3 py-2 rounded-xl border border-gray-200 text-sm resize-none focus:border-purple-400 focus:outline-none"></textarea>
-        </div>
-      </div>
+      <!-- Link oficial -->
+      <div id="komLink"></div>
 
-      <!-- Tópicos de interés -->
-      <div>
-        <div class="flex items-center justify-between mb-2">
-          <h3 class="text-xs font-bold text-gray-400 uppercase tracking-widest">🎯 Tópicos de Interés</h3>
-          <button onclick="addTopico()"
-            class="text-xs px-3 py-1.5 rounded-lg bg-purple-600 hover:bg-purple-700 text-white font-semibold transition">
-            + Agregar
-          </button>
-        </div>
-        <!-- Editor inline -->
-        <div id="topicoForm" class="hidden mb-3 p-4 bg-purple-50 rounded-xl border border-purple-200 space-y-2">
-          <input id="topicoTitulo" placeholder="Título (ej: Educación, Minería...)"
-            class="w-full px-3 py-2 rounded-lg border border-purple-200 text-sm focus:border-purple-400 focus:outline-none" />
-          <textarea id="topicoDesc" rows="2" placeholder="Descripción, posición, contexto..."
-            class="w-full px-3 py-2 rounded-lg border border-purple-200 text-sm resize-none focus:border-purple-400 focus:outline-none"></textarea>
-          <div class="flex gap-2">
-            <button onclick="guardarTopico()" class="px-4 py-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white text-xs font-bold transition">Guardar</button>
-            <button onclick="cancelarTopico()" class="px-4 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 text-gray-700 text-xs font-semibold transition">Cancelar</button>
-          </div>
-        </div>
-        <div id="komTopicos" class="space-y-2"></div>
-      </div>
+    </div>
 
-      <!-- Tags -->
-      <div>
-        <h3 class="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2">🏷️ Etiquetas</h3>
-        <div class="flex gap-2 mb-2">
-          <input id="komNewTag" placeholder="Nueva etiqueta..."
-            class="flex-1 px-3 py-2 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none"
-            onkeydown="if(event.key==='Enter') addTag()" />
-          <button onclick="addTag()" class="px-4 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 text-xs font-semibold transition">+ Agregar</button>
-        </div>
-        <div id="komTags" class="flex flex-wrap gap-2 min-h-[32px]"></div>
-      </div>
-
-      <!-- Links -->
-      <div>
-        <h3 class="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2">🔗 Enlaces Relevantes</h3>
-        <div id="komLinks" class="space-y-2 mb-3"></div>
-        <div class="flex gap-2 flex-wrap">
-          <input id="komNewLinkTitle" placeholder="Título del enlace"
-            class="flex-1 min-w-[120px] px-3 py-2 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none" />
-          <input id="komNewLinkUrl" type="url" placeholder="https://..."
-            class="flex-1 min-w-[160px] px-3 py-2 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none" />
-          <button onclick="addLink()" class="px-4 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 text-xs font-semibold transition shrink-0">+ Agregar</button>
-        </div>
-      </div>
-
-    </div><!-- /cuerpo -->
-
-    <!-- Footer sticky -->
-    <div class="sticky bottom-0 bg-white border-t border-gray-100 rounded-b-3xl px-6 py-4 flex justify-end gap-3 shrink-0">
+    <!-- Footer -->
+    <div class="flex gap-2 p-4 border-t border-gray-100 shrink-0">
       <button onclick="closeKom()"
-        class="px-5 py-2.5 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 font-semibold text-sm transition">
-        Cerrar
+        class="flex-1 py-2.5 rounded-xl bg-gray-100 hover:bg-gray-200 text-sm font-semibold text-gray-700 transition">
+        Cancelar
       </button>
       <button id="komSaveBtn" onclick="saveKom()"
-        class="px-6 py-2.5 rounded-xl bg-purple-600 hover:bg-purple-700 text-white font-bold text-sm transition shadow-lg shadow-purple-200">
+        class="flex-1 py-2.5 rounded-xl gradient-bg text-white text-sm font-bold hover:opacity-90 transition">
         💾 Guardar perfil
       </button>
     </div>
@@ -256,11 +244,31 @@
 </div>
 
 <script>
-// ══════════════════════════════════════════════════════════
-// UTILIDADES
-// ══════════════════════════════════════════════════════════
-function $(id) { return document.getElementById(id); }
+// ═══════════════════════════════════════════
+// ESTADO
+// ═══════════════════════════════════════════
+const $ = id => document.getElementById(id);
+let camaraActual  = "all";
+let allPols       = [];
+let currentPerson = null;
+let _deb;
 
+// ── Toast ──────────────────────────────────
+let _tt;
+function toast(msg, type="ok") {
+  const t = $("toast");
+  t.textContent = (type==="ok"?"✓ ":"✗ ") + msg;
+  t.className = `show ${type}`;
+  clearTimeout(_tt);
+  _tt = setTimeout(()=>t.classList.remove("show"), 3000);
+}
+
+// ── Scroll top ─────────────────────────────
+window.addEventListener("scroll", ()=>{
+  $("scrollTop").classList.toggle("hidden", scrollY < 300);
+}, {passive:true});
+
+// ── Helpers API ────────────────────────────
 async function apiGet(url) {
   const r = await fetch(url);
   if (!r.ok) throw new Error("HTTP " + r.status);
@@ -268,216 +276,399 @@ async function apiGet(url) {
 }
 async function apiPost(url, body) {
   const r = await fetch(url, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(body),
+    method:"POST",
+    headers:{"Content-Type":"application/json"},
+    body:JSON.stringify(body)
   });
   if (!r.ok) throw new Error("HTTP " + r.status);
   return r.json();
 }
 
-// Extrae URL de foto oficial a partir del perfil
-function getFotoUrl(urlFicha) {
-  if (!urlFicha) return "";
-  try {
-    if (urlFicha.includes("camara.cl")) {
-      const m = urlFicha.match(/[?&]prmID=(\d+)/i);
-      if (m) return `https://www.camara.cl/img.aspx?prmID=${m[1]}&prmTipo=DIPUTADOS`;
-    }
-    if (urlFicha.includes("senado.cl")) {
-      const m = urlFicha.match(/\/(\d+)\/?$/);
-      if (m) return `https://www.senado.cl/senadores/img/${m[1]}.jpg`;
-    }
-  } catch {}
-  return "";
+// ── Escape HTML ────────────────────────────
+function esc(s) {
+  return String(s||"")
+    .replace(/&/g,"&amp;")
+    .replace(/"/g,"&quot;")
+    .replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;");
 }
 
-// Avatar HTML: foto real o iniciales con color
-function makeAvatar(nombre, urlFicha, chamber, size) {
-  const isSenado = (chamber || "").toLowerCase() === "senado";
-  const bg = isSenado ? "bg-red-600" : "bg-purple-600";
-  const border = isSenado ? "border-red-200" : "border-purple-200";
-  const initials = nombre.split(" ").slice(0, 2).map(x => x[0] || "").join("").toUpperCase();
-  const fotoUrl = getFotoUrl(urlFicha);
-
-  if (size === "lg") {
-    if (fotoUrl) {
-      return `<img src="${fotoUrl}" alt="${nombre}" class="parl-foto-lg"
-        onerror="this.outerHTML='<div class=\\'avatar-initials-lg w-24 h-24 ${bg}\\'>${initials}</div>'" />`;
-    }
-    return `<div class="avatar-initials-lg w-24 h-24 ${bg}">${initials}</div>`;
-  }
-  // card size
-  if (fotoUrl) {
-    return `<img src="${fotoUrl}" alt="${nombre}" class="parl-foto border-2 ${border}"
-      onerror="this.outerHTML='<div class=\\'avatar-initials w-14 h-14 text-sm ${bg}\\'>${initials}</div>'" />`;
-  }
-  return `<div class="avatar-initials w-14 h-14 text-sm ${bg}">${initials}</div>`;
-}
-
-// ══════════════════════════════════════════════════════════
-// TOGGLE CÁMARA
-// ══════════════════════════════════════════════════════════
-let camaraActual = "all";
-
+// ═══════════════════════════════════════════
+// CÁMARA
+// ═══════════════════════════════════════════
 function setCamara(c) {
   camaraActual = c;
-  const cfgs = {
-    all:    { id: "btn-all",       cls: "active-all",       label: "Todas las cámaras",   badgeCls: "bg-gray-100 text-gray-600" },
-    camara: { id: "btn-diputados", cls: "active-diputados", label: "🟣 Cámara de Diputados", badgeCls: "bg-purple-100 text-purple-700" },
-    senado: { id: "btn-senado",    cls: "active-senado",    label: "🔴 Senado de la República", badgeCls: "bg-red-100 text-red-700" },
-  };
-  ["btn-all", "btn-diputados", "btn-senado"].forEach(id => {
-    const el = $(id); if (el) el.className = "camara-btn inactive";
+  // Estilos botones
+  const map = { all:"cam-all", camara:"cam-diputado", senado:"cam-senado" };
+  ["all","camara","senado"].forEach(k => {
+    const btn = k==="all" ? $("btn-all") : k==="camara" ? $("btn-diputados") : $("btn-senado");
+    btn.className = "cam-btn " + (k===c ? map[k] : "cam-off");
   });
-  const cfg = cfgs[c] || cfgs.all;
-  const btn = $(cfg.id); if (btn) btn.className = `camara-btn ${cfg.cls}`;
-  const badge = $("camara-badge");
-  if (badge) { badge.textContent = cfg.label; badge.className = `ml-auto text-xs font-bold px-3 py-1 rounded-full ${cfg.badgeCls}`; }
+  $("comisionSelect").value = "";
   loadPeople();
 }
 
-// ══════════════════════════════════════════════════════════
-// CARGAR PARLAMENTARIOS
-// ══════════════════════════════════════════════════════════
+// ═══════════════════════════════════════════
+// CARGA DESDE API
+// ═══════════════════════════════════════════
 async function loadPeople() {
-  const q = ($("q")?.value || "").trim();
-  const count = $("count");
-  const grid  = $("grid");
-  if (count) count.textContent = "Cargando…";
-  if (grid)  grid.innerHTML = "";
+  $("count").textContent = "Cargando…";
+  $("grid").innerHTML = skelGrid(6);
 
   try {
-    // FIX: usar "camara" (no "chamber") — así lo espera el backend
-    const data = await apiGet(`/api/politicians?q=${encodeURIComponent(q)}&camara=${encodeURIComponent(camaraActual)}`);
-    const pols = data.politicians || [];
-
-    if (count) count.textContent = `${pols.length} congresista(s)${q ? ` — "${q}"` : ""}`;
-
-    if (!pols.length) {
-      const sinSen = camaraActual === "senado"
-        ? "<br>¿Ejecutaste <code>scraper_senado.py</code>?"
-        : "";
-      grid.innerHTML = `<div class="col-span-3 text-sm text-gray-400 py-10 text-center">Sin resultados.${sinSen}</div>`;
-      return;
-    }
-
-    grid.innerHTML = "";
-    pols.forEach(p => {
-      const isSenado  = (p.chamber || "").toLowerCase() === "senado";
-      const badgeCls  = isSenado ? "bg-red-100 text-red-700" : "bg-purple-100 text-purple-700";
-      const badgeTxt  = isSenado ? "Senador/a" : "Diputado/a";
-      const comBadges = (p.comisiones || []).slice(0, 2).map(c =>
-        `<span class="inline-block text-xs px-2 py-0.5 rounded-full bg-gray-100 text-gray-600 truncate max-w-[130px]"
-          title="${c.commission_name}">${c.commission_name.replace(/^Comisi[oó]n de /i,"").slice(0,26)}</span>`
-      ).join("") + ((p.comisiones||[]).length > 2 ? `<span class="text-xs text-gray-400">+${(p.comisiones||[]).length - 2} más</span>` : "");
-
-      const div = document.createElement("div");
-      div.className = "bg-white rounded-2xl shadow-sm border border-gray-100 p-4 card-hover flex flex-col justify-between";
-      div.innerHTML = `
-        <div>
-          <div class="flex items-center gap-3 mb-2">
-            ${makeAvatar(p.nombre, p.url_ficha, p.chamber, "sm")}
-            <div class="min-w-0 flex-1">
-              <div class="font-extrabold text-gray-900 leading-tight line-clamp-2">${p.nombre}</div>
-              <div class="flex items-center gap-1 mt-1 flex-wrap">
-                <span class="text-xs font-bold px-2 py-0.5 rounded-full ${badgeCls}">${badgeTxt}</span>
-                ${p.cargo ? `<span class="text-xs text-gray-500">${p.cargo}</span>` : ""}
-              </div>
-            </div>
-          </div>
-          ${comBadges ? `<div class="flex flex-wrap gap-1 mt-1">${comBadges}</div>` : ""}
-          ${(p.comisiones||[]).length > 0 ? `<div class="text-xs text-gray-400 mt-1">${(p.comisiones||[]).length} comisión(es)</div>` : ""}
-        </div>
-        <div class="mt-3 flex gap-2">
-          ${p.url_ficha
-            ? `<a href="${p.url_ficha}" target="_blank" rel="noopener"
-                class="flex-1 text-center text-xs px-3 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 font-semibold transition">Ver Perfil ↗</a>`
-            : `<div class="flex-1"></div>`}
-          <button class="flex-1 text-xs px-3 py-2 rounded-xl bg-purple-600 hover:bg-purple-700 text-white font-semibold transition kom-open"
-            data-chamber="${p.chamber||"camara"}"
-            data-id="${p.id||""}"
-            data-nombre="${encodeURIComponent(p.nombre)}"
-            data-cargo="${encodeURIComponent(p.cargo||"Parlamentario/a")}"
-            data-url="${encodeURIComponent(p.url_ficha||"")}">
-            📋 Perfil KOM
-          </button>
-        </div>
-      `;
-      grid.appendChild(div);
-    });
-
-    // Bind botones KOM con event delegation
-    grid.querySelectorAll(".kom-open").forEach(btn => {
-      btn.addEventListener("click", () => openKom(
-        btn.dataset.chamber,
-        btn.dataset.id,
-        btn.dataset.nombre,
-        btn.dataset.cargo,
-        btn.dataset.url
-      ));
-    });
-
+    const data = await apiGet(`/api/politicians?q=&camara=${camaraActual}`);
+    allPols = data.politicians || [];
+    buildComisionSelect(allPols);
+    applyFilters();
   } catch(e) {
-    if (count) count.textContent = "Error al cargar";
-    if (grid) grid.innerHTML = `<div class="col-span-3 text-sm text-red-500 py-4">Error: ${e.message}</div>`;
+    $("count").textContent = "Error";
+    $("grid").innerHTML = `<div class="col-span-3 text-red-500 text-sm py-8 text-center">Error: ${esc(e.message)}</div>`;
   }
 }
 
-// ══════════════════════════════════════════════════════════
-// KOM MODAL
-// ══════════════════════════════════════════════════════════
-let currentPerson = null;
-let editingTopicoIdx = null;
-let komData = { topicos: [], tags: [], links: [] };
+// ═══════════════════════════════════════════
+// POBLAR SELECTOR COMISIONES (agrupado por cámara)
+// ═══════════════════════════════════════════
+function buildComisionSelect(pols) {
+  // Recopilar comisiones únicas por cámara
+  const dipMap = new Map(); // nombre → true
+  const senMap = new Map();
 
-async function openKom(chamber, id, nameEnc, cargoEnc, urlEnc) {
-  const nombre   = decodeURIComponent(nameEnc || "");
-  const cargo    = decodeURIComponent(cargoEnc || "Parlamentario/a");
-  const urlFicha = decodeURIComponent(urlEnc  || "");
-  chamber = (chamber || "camara").trim();
-  id      = (id || nombre).trim();
+  pols.forEach(p => {
+    (p.comisiones||[]).forEach(c => {
+      if (!c.commission_name) return;
+      if (p.chamber === "camara") dipMap.set(c.commission_name, true);
+      if (p.chamber === "senado") senMap.set(c.commission_name, true);
+    });
+  });
 
-  currentPerson = { chamber, id, nombre, cargo, urlFicha };
+  const dipList = [...dipMap.keys()].sort((a,b)=>a.localeCompare(b,"es"));
+  const senList = [...senMap.keys()].sort((a,b)=>a.localeCompare(b,"es"));
 
-  // — Header foto —
-  const isSenado = chamber === "senado";
-  $("komFotoWrap").innerHTML = makeAvatar(nombre, urlFicha, chamber, "lg");
-  $("komName").textContent   = nombre;
-  $("komCargo").textContent  = cargo;
-  $("komCamaraBadge").innerHTML = isSenado
-    ? `<span class="text-xs font-bold px-2 py-1 rounded-full bg-white/20">🔴 Senado</span>`
-    : `<span class="text-xs font-bold px-2 py-1 rounded-full bg-white/20">🟣 Diputados</span>`;
-  $("komLinkOficial").innerHTML = urlFicha
-    ? `<a href="${urlFicha}" target="_blank" rel="noopener" class="text-xs text-white/80 hover:text-white underline">🔗 Ver perfil oficial ↗</a>`
-    : "";
+  // Abreviar nombre: quitar "Comisión de/del/…"
+  const abbr = n => n.replace(/^Comisi[oó]n\s+(de\s+|del\s+|de\s+la\s+|de\s+los\s+|de\s+las\s+)?/i,"").trim().slice(0,50);
 
-  // — Cargar perfil guardado —
-  try {
-    const data = await apiGet(`/api/kom/${encodeURIComponent(chamber)}/${encodeURIComponent(id)}`);
-    const prof = data.profile || {};
-    komData = {
-      topicos: prof.topicos || [],
-      tags:    prof.tags    || [],
-      links:   prof.links   || [],
-    };
-    if ($("komFotoUrl"))   $("komFotoUrl").value   = prof.foto_url   || getFotoUrl(urlFicha) || "";
-    if ($("komEmail"))     $("komEmail").value      = prof.email      || "";
-    if ($("komTelefono"))  $("komTelefono").value   = prof.telefono   || "";
-    if ($("komWeb"))       $("komWeb").value         = prof.web        || "";
-    if ($("komBiografia")) $("komBiografia").value  = prof.biografia  || "";
-    if ($("komNotas"))     $("komNotas").value       = prof.notas      || "";
-    // Si hay foto guardada, actualizar preview
-    if (prof.foto_url) {
-      $("komFotoWrap").innerHTML = `<img src="${prof.foto_url}" alt="${nombre}" class="parl-foto-lg"
-        onerror="this.outerHTML='${makeAvatar(nombre, urlFicha, chamber, "lg")}'" />`;
-    }
-  } catch {
-    komData = { topicos: [], tags: [], links: [] };
+  const prev = $("comisionSelect").value;
+  let html = `<option value="">📋 Todas las comisiones</option>`;
+
+  if (dipList.length) {
+    html += `<optgroup label="🟣 Cámara de Diputados (${dipList.length} comisiones)">`;
+    dipList.forEach(n => {
+      html += `<option value="${esc(n)}">${esc(abbr(n))}</option>`;
+    });
+    html += `</optgroup>`;
   }
 
-  renderTopicos(); renderTags(); renderLinks();
-  cancelarTopico();
+  if (senList.length) {
+    html += `<optgroup label="🔴 Senado (${senList.length} comisiones)">`;
+    senList.forEach(n => {
+      html += `<option value="${esc(n)}">${esc(abbr(n))}</option>`;
+    });
+    html += `</optgroup>`;
+  }
+
+  $("comisionSelect").innerHTML = html;
+  // Restaurar selección previa si sigue siendo válida
+  if (prev) $("comisionSelect").value = prev;
+}
+
+// ═══════════════════════════════════════════
+// FILTROS (operan en el array local)
+// ═══════════════════════════════════════════
+function debounceFilter() {
+  clearTimeout(_deb);
+  _deb = setTimeout(applyFilters, 280);
+}
+
+function applyFilters() {
+  const q      = ($("q").value||"").trim().toLowerCase();
+  const comFil = ($("comisionSelect").value||"").trim();
+  const orden  = $("ordenSelect").value;
+
+  let list = [...allPols];
+
+  // Nombre
+  if (q) list = list.filter(p => p.nombre.toLowerCase().includes(q));
+
+  // Comisión
+  if (comFil) {
+    list = list.filter(p =>
+      (p.comisiones||[]).some(c => c.commission_name === comFil)
+    );
+  }
+
+  // Orden
+  list.sort((a,b)=>{
+    switch(orden) {
+      case "az":        return a.nombre.localeCompare(b.nombre,"es");
+      case "za":        return b.nombre.localeCompare(a.nombre,"es");
+      case "coms_desc": return (b.comisiones||[]).length - (a.comisiones||[]).length;
+      case "coms_asc":  return (a.comisiones||[]).length - (b.comisiones||[]).length;
+      case "diputados": {
+        const ad = a.chamber==="camara"?0:1, bd = b.chamber==="camara"?0:1;
+        return ad-bd || a.nombre.localeCompare(b.nombre,"es");
+      }
+      case "senadores": {
+        const as = a.chamber==="senado"?0:1, bs = b.chamber==="senado"?0:1;
+        return as-bs || a.nombre.localeCompare(b.nombre,"es");
+      }
+    }
+  });
+
+  renderChip(comFil);
+  renderGrid(list, comFil);
+}
+
+function renderChip(comFil) {
+  const wrap = $("activeFilters");
+  if (!comFil) { wrap.innerHTML=""; wrap.classList.add("hidden"); return; }
+
+  const abbr = comFil.replace(/^Comisi[oó]n\s+(de\s+|del\s+|de\s+la\s+|de\s+los\s+|de\s+las\s+)?/i,"").trim().slice(0,45);
+
+  // Detectar si es comisión de diputados o senado
+  let camaraLabel = "";
+  if ($("comisionSelect")) {
+    const opt = [...$("comisionSelect").options].find(o=>o.value===comFil);
+    if (opt) {
+      const grp = opt.parentElement?.label || "";
+      if (grp.includes("Diputados")) camaraLabel = "🟣 ";
+      if (grp.includes("Senado"))    camaraLabel = "🔴 ";
+    }
+  }
+
+  wrap.innerHTML = `
+    <span class="filter-chip">
+      ${camaraLabel}📋 ${esc(abbr)}
+      <span class="chip-x" onclick="clearComFil()">×</span>
+    </span>`;
+  wrap.classList.remove("hidden");
+}
+
+function clearComFil() {
+  $("comisionSelect").value = "";
+  $("comisionSelect").classList.remove("active");
+  applyFilters();
+}
+
+// ═══════════════════════════════════════════
+// RENDER GRID
+// ═══════════════════════════════════════════
+function renderGrid(pols, comFil) {
+  const countEl = $("count");
+
+  if (!pols.length) {
+    countEl.textContent = "0 congresistas";
+    $("grid").innerHTML = `
+      <div class="col-span-3">
+        <div class="flex flex-col items-center py-16 text-gray-300">
+          <div class="text-5xl mb-3">🔍</div>
+          <div class="text-base font-bold text-gray-400 mb-1">Sin resultados</div>
+          <div class="text-sm text-gray-400 text-center max-w-xs">
+            ${comFil
+              ? `Ningún parlamentario figura en <strong class="text-gray-500">${esc(comFil.replace(/^Comisi[oó]n\s+(de\s+)?/i,""))}</strong> con los filtros actuales.`
+              : "Prueba con otro nombre o cámara."}
+          </div>
+          ${comFil ? `<button onclick="clearComFil()"
+            class="mt-4 px-5 py-2 rounded-xl gradient-bg text-white text-xs font-bold hover:opacity-90 transition">
+            Limpiar filtro de comisión
+          </button>` : ""}
+        </div>
+      </div>`;
+    return;
+  }
+
+  countEl.textContent = `${pols.length} congresista${pols.length!==1?"s":""}`;
+  $("comisionSelect").classList.toggle("active", !!comFil);
+
+  const grid = $("grid");
+  grid.innerHTML = "";
+
+  pols.forEach(p => {
+    const initials = p.nombre.split(" ").slice(0,2).map(x=>x[0]||"").join("").toUpperCase();
+    const isSen    = p.chamber === "senado";
+    const isDip    = p.chamber === "camara";
+    const avCls    = isSen ? "av-sen" : isDip ? "av-dip" : "av-all";
+
+    const chamberBadge = isSen
+      ? `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-red-100 text-red-700">Senador/a</span>`
+      : isDip
+      ? `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-purple-100 text-purple-700">Diputado/a</span>`
+      : `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-gray-100 text-gray-500">${esc(p.chamber)}</span>`;
+
+    const coms = p.comisiones || [];
+
+    // Comisiones: resaltar la filtrada si aplica
+    let comsHtml = "";
+    if (coms.length) {
+      const shown = coms.slice(0, 3);
+      const rest  = coms.length - 3;
+      comsHtml = `<div class="flex flex-wrap gap-1 mt-2">
+        ${shown.map(c => {
+          const short  = c.commission_name.replace(/^Comisi[oó]n\s+(de\s+|del\s+|de\s+la\s+)?/i,"").slice(0,28);
+          const isHigh = comFil && c.commission_name === comFil;
+          return `<span
+            class="inline-block text-xs px-2 py-0.5 rounded-full truncate max-w-[130px] cursor-default
+              ${isHigh ? "bg-purple-100 text-purple-700 font-bold ring-1 ring-purple-300" : "bg-gray-100 text-gray-500"}"
+            title="${esc(c.commission_name)}">${esc(short)}</span>`;
+        }).join("")}
+        ${rest > 0 ? `<span class="text-xs text-gray-400 self-center">+${rest}</span>` : ""}
+      </div>`;
+    }
+
+    // Cargo en la comisión filtrada
+    let cargoComHtml = "";
+    if (comFil) {
+      const m = coms.find(c => c.commission_name === comFil);
+      if (m?.cargo_en_comision) {
+        cargoComHtml = `<div class="text-xs text-purple-600 font-semibold mt-1.5">
+          📋 ${esc(m.cargo_en_comision)}
+        </div>`;
+      }
+    }
+
+    const card = document.createElement("div");
+    card.className = "card-hover bg-white rounded-2xl border border-gray-100 p-5 flex flex-col justify-between";
+    card.innerHTML = `
+      <div>
+        <div class="flex items-start gap-3">
+          <div class="w-12 h-12 shrink-0 rounded-2xl ${avCls} text-white flex items-center justify-center font-extrabold text-sm shadow-sm">
+            ${initials}
+          </div>
+          <div class="min-w-0 flex-1">
+            <div class="font-extrabold text-gray-900 leading-tight">${esc(p.nombre)}</div>
+            <div class="flex items-center gap-2 mt-1 flex-wrap">
+              ${chamberBadge}
+              ${p.cargo ? `<span class="text-xs text-gray-400">${esc(p.cargo)}</span>` : ""}
+            </div>
+            ${cargoComHtml}
+          </div>
+        </div>
+        ${comsHtml}
+        ${coms.length > 0
+          ? `<div class="text-xs text-gray-400 mt-1">${coms.length} comisión${coms.length!==1?"es":""}</div>`
+          : ""}
+      </div>
+      <div class="mt-4 flex gap-2">
+        ${p.url_ficha
+          ? `<a href="${esc(p.url_ficha)}" target="_blank" rel="noopener"
+               class="flex-1 text-center px-3 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 text-xs font-semibold transition">
+               Ver Perfil ↗
+             </a>`
+          : ""}
+        <button
+          class="flex-1 px-3 py-2 rounded-xl gradient-bg text-white text-xs font-bold hover:opacity-90 transition"
+          data-ch="${esc(p.chamber)}"
+          data-id="${esc(String(p.id))}"
+          data-nb="${encodeURIComponent(p.nombre)}"
+          data-ur="${encodeURIComponent(p.url_ficha||"")}"
+          data-cm="${encodeURIComponent(JSON.stringify(p.comisiones||[]))}"
+          onclick="openFromBtn(this)">
+          📋 Perfil KOM
+        </button>
+      </div>`;
+    grid.appendChild(card);
+  });
+}
+
+function skelGrid(n) {
+  return Array.from({length:n}).map(()=>`
+    <div class="bg-white rounded-2xl border border-gray-100 p-5 space-y-3">
+      <div class="flex gap-3 items-start">
+        <div class="skel w-12 shrink-0" style="height:48px;border-radius:12px"></div>
+        <div class="flex-1 space-y-2 pt-1">
+          <div class="skel w-4/5"></div>
+          <div class="skel w-2/5 h-2"></div>
+        </div>
+      </div>
+      <div class="flex gap-1"><div class="skel w-1/3 h-2"></div><div class="skel w-1/4 h-2"></div></div>
+      <div class="skel w-full rounded-xl" style="height:30px"></div>
+    </div>`).join("");
+}
+
+// ═══════════════════════════════════════════
+// MODAL KOM
+// ═══════════════════════════════════════════
+function openFromBtn(btn) {
+  const chamber  = btn.dataset.ch;
+  const id       = btn.dataset.id;
+  const nombre   = decodeURIComponent(btn.dataset.nb||"");
+  const urlFicha = decodeURIComponent(btn.dataset.ur||"");
+  let coms = [];
+  try { coms = JSON.parse(decodeURIComponent(btn.dataset.cm||"[]")); } catch {}
+  openKom(chamber, id, nombre, urlFicha, coms);
+}
+
+async function openKom(chamber, id, nombre, urlFicha, comisiones) {
+  currentPerson = { chamber, id, nombre, url_ficha:urlFicha, comisiones };
+
+  const initials = nombre.split(" ").slice(0,2).map(x=>x[0]||"").join("").toUpperCase();
+  const isSen    = chamber === "senado";
+
+  // Avatar
+  const av = $("komAvatar");
+  av.className = `w-14 h-14 shrink-0 rounded-2xl flex items-center justify-center text-white font-extrabold text-lg shadow-sm ${isSen?"av-sen":"av-dip"}`;
+  av.textContent = initials;
+
+  $("komName").textContent = nombre;
+  $("komMeta").textContent = `${isSen?"Senador/a":"Diputado/a"} · ID ${id}`;
+
+  $("komBadge").innerHTML = isSen
+    ? `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-red-100 text-red-700">🔴 Senado</span>`
+    : `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-purple-100 text-purple-700">🟣 Diputados</span>`;
+
+  // Comisiones en modal — resaltar la filtrada activa
+  const activeCom = $("comisionSelect").value;
+  const comDiv = $("komComisiones");
+
+  if (comisiones.length) {
+    // Ordenar: la comisión filtrada activa primero
+    const sorted = [...comisiones].sort((a,b) => {
+      if (activeCom) {
+        const aH = a.commission_name === activeCom ? -1 : 0;
+        const bH = b.commission_name === activeCom ? -1 : 0;
+        if (aH !== bH) return aH - bH;
+      }
+      return a.commission_name.localeCompare(b.commission_name,"es");
+    });
+
+    comDiv.innerHTML = `
+      <div>
+        <div class="text-xs font-bold text-gray-500 mb-2 flex items-center gap-2">
+          📚 Comisiones
+          <span class="text-gray-400 font-normal">(${comisiones.length})</span>
+          ${activeCom ? `<span class="text-purple-600 font-semibold">· filtro activo resaltado</span>` : ""}
+        </div>
+        <div class="space-y-1 max-h-48 overflow-y-auto pr-1">
+          ${sorted.map(c => {
+            const isH = activeCom && c.commission_name === activeCom;
+            return `<div class="com-row ${isH?"highlighted":""}">
+              <span class="text-xs text-gray-400 w-20 shrink-0">${esc(c.group||"")}</span>
+              <span class="text-xs font-semibold text-gray-700 flex-1 leading-tight">${esc(c.commission_name)}</span>
+              ${c.cargo_en_comision
+                ? `<span class="text-xs font-medium ${isH?"text-purple-700":"text-gray-500"} shrink-0">${esc(c.cargo_en_comision)}</span>`
+                : ""}
+            </div>`;
+          }).join("")}
+        </div>
+      </div>`;
+  } else {
+    comDiv.innerHTML = `<div class="text-xs text-gray-400 italic py-1">Sin comisiones registradas</div>`;
+  }
+
+  // Link oficial
+  $("komLink").innerHTML = urlFicha
+    ? `<a href="${esc(urlFicha)}" target="_blank" rel="noopener"
+         class="inline-flex items-center gap-1.5 text-xs text-purple-600 hover:underline font-semibold">
+         🔗 Ver perfil oficial ↗
+       </a>`
+    : "";
+
+  // Cargar notas
+  $("komNotas").value = "";
+  try {
+    const data = await apiGet(`/api/kom/${chamber}/${id}`);
+    $("komNotas").value = (data.profile && (data.profile.notas || data.profile.notes)) || "";
+  } catch {}
 
   $("komModal").classList.remove("hidden");
   $("komModal").classList.add("flex");
@@ -489,150 +680,43 @@ function closeKom() {
   currentPerson = null;
 }
 
-// Click fuera del modal → cerrar
-$("komModal").addEventListener("click", e => { if (e.target === $("komModal")) closeKom(); });
-
-function updateKomFotoPreview() {
-  const url = ($("komFotoUrl")?.value || "").trim();
-  if (!url || !currentPerson) return;
-  $("komFotoWrap").innerHTML = `<img src="${url}" alt="" class="parl-foto-lg"
-    onerror="this.parentElement.innerHTML='<div class=\\'avatar-initials-lg w-24 h-24 bg-gray-400\\'>?</div>'" />`;
-}
+$("komModal").addEventListener("click", e => { if (e.target===$("komModal")) closeKom(); });
 
 async function saveKom() {
   if (!currentPerson) return;
-  const payload = {
-    nombre:    currentPerson.nombre,
-    chamber:   currentPerson.chamber,
-    foto_url:  $("komFotoUrl")?.value     || "",
-    email:     $("komEmail")?.value       || "",
-    telefono:  $("komTelefono")?.value    || "",
-    web:       $("komWeb")?.value         || "",
-    biografia: $("komBiografia")?.value   || "",
-    notas:     $("komNotas")?.value       || "",
-    topicos:   komData.topicos,
-    tags:      komData.tags,
-    links:     komData.links,
-    updated_at: new Date().toISOString(),
-  };
+  const btn = $("komSaveBtn");
+  const orig = btn.textContent;
+  btn.textContent = "Guardando…";
+  btn.disabled = true;
+
   try {
-    await apiPost(`/api/kom/${currentPerson.chamber}/${currentPerson.id}`, payload);
-    const btn = $("komSaveBtn");
+    await apiPost(`/api/kom/${currentPerson.chamber}/${currentPerson.id}`, {
+      notas:      $("komNotas").value || "",
+      nombre:     currentPerson.nombre,
+      url_ficha:  currentPerson.url_ficha,
+      comisiones: currentPerson.comisiones,
+      updated_at: new Date().toISOString(),
+    });
+
     btn.textContent = "✓ Guardado";
-    btn.classList.replace("bg-purple-600","bg-green-600");
-    btn.classList.replace("shadow-purple-200","shadow-green-200");
+    btn.classList.replace("gradient-bg","bg-green-500");
+    toast(`Perfil de ${currentPerson.nombre} guardado`);
+
     setTimeout(() => {
-      btn.textContent = "💾 Guardar perfil";
-      btn.classList.replace("bg-green-600","bg-purple-600");
-      btn.classList.replace("shadow-green-200","shadow-purple-200");
+      btn.textContent = orig;
+      btn.classList.replace("bg-green-500","gradient-bg");
+      btn.disabled = false;
     }, 2200);
   } catch(e) {
-    alert("Error al guardar: " + e.message);
+    toast("Error: " + e.message, "err");
+    btn.textContent = orig;
+    btn.disabled = false;
   }
 }
 
-// ── Tópicos ──
-function addTopico() {
-  editingTopicoIdx = null;
-  if ($("topicoTitulo"))  $("topicoTitulo").value  = "";
-  if ($("topicoDesc"))    $("topicoDesc").value     = "";
-  $("topicoForm")?.classList.remove("hidden");
-  $("topicoTitulo")?.focus();
-}
-function editTopico(idx) {
-  editingTopicoIdx = idx;
-  const t = komData.topicos[idx];
-  if ($("topicoTitulo")) $("topicoTitulo").value = t.titulo    || "";
-  if ($("topicoDesc"))   $("topicoDesc").value   = t.descripcion || "";
-  $("topicoForm")?.classList.remove("hidden");
-}
-function cancelarTopico() {
-  $("topicoForm")?.classList.add("hidden");
-  editingTopicoIdx = null;
-}
-function guardarTopico() {
-  const titulo = ($("topicoTitulo")?.value || "").trim();
-  if (!titulo) { alert("Ingresa un título"); return; }
-  const entry = { titulo, descripcion: ($("topicoDesc")?.value || "").trim() };
-  if (editingTopicoIdx !== null) {
-    komData.topicos[editingTopicoIdx] = entry;
-  } else {
-    komData.topicos.push(entry);
-  }
-  cancelarTopico();
-  renderTopicos();
-}
-function deleteTopico(idx) {
-  komData.topicos.splice(idx, 1);
-  renderTopicos();
-}
-function renderTopicos() {
-  const el = $("komTopicos");
-  if (!el) return;
-  if (!komData.topicos.length) {
-    el.innerHTML = `<div class="text-xs text-gray-400 p-3 bg-gray-50 rounded-xl border border-dashed border-gray-200">Sin tópicos. Haz clic en "+ Agregar".</div>`;
-    return;
-  }
-  el.innerHTML = komData.topicos.map((t, i) => `
-    <div class="bg-purple-50 border border-purple-200 rounded-xl p-3 flex items-start gap-2">
-      <div class="flex-1">
-        <div class="font-bold text-gray-900 text-sm">${t.titulo}</div>
-        ${t.descripcion ? `<div class="text-xs text-gray-600 mt-0.5 line-clamp-2">${t.descripcion}</div>` : ""}
-      </div>
-      <div class="flex gap-1 shrink-0">
-        <button onclick="editTopico(${i})" class="text-xs px-2 py-1 rounded-lg bg-white border hover:bg-gray-50 text-gray-600 transition">✏️</button>
-        <button onclick="deleteTopico(${i})" class="text-xs px-2 py-1 rounded-lg bg-white border hover:bg-red-50 text-red-500 transition">✕</button>
-      </div>
-    </div>
-  `).join("");
-}
-
-// ── Tags ──
-function addTag() {
-  const val = ($("komNewTag")?.value || "").trim();
-  if (!val) return;
-  if (!komData.tags.includes(val)) { komData.tags.push(val); renderTags(); }
-  if ($("komNewTag")) $("komNewTag").value = "";
-}
-function removeTag(idx) { komData.tags.splice(idx, 1); renderTags(); }
-function renderTags() {
-  const el = $("komTags");
-  if (!el) return;
-  if (!komData.tags.length) { el.innerHTML = `<span class="text-xs text-gray-400">Sin etiquetas</span>`; return; }
-  el.innerHTML = komData.tags.map((t, i) => `
-    <span class="inline-flex items-center gap-1 text-xs px-3 py-1 rounded-full bg-purple-100 text-purple-700 font-semibold">
-      ${t}
-      <button onclick="removeTag(${i})" class="hover:text-red-500 transition font-bold">×</button>
-    </span>
-  `).join("");
-}
-
-// ── Links ──
-function addLink() {
-  const title = ($("komNewLinkTitle")?.value || "").trim();
-  const url   = ($("komNewLinkUrl")?.value   || "").trim();
-  if (!title || !url) { alert("Completa título y URL"); return; }
-  komData.links.push({ title, url });
-  if ($("komNewLinkTitle")) $("komNewLinkTitle").value = "";
-  if ($("komNewLinkUrl"))   $("komNewLinkUrl").value   = "";
-  renderLinks();
-}
-function removeLink(idx) { komData.links.splice(idx, 1); renderLinks(); }
-function renderLinks() {
-  const el = $("komLinks");
-  if (!el) return;
-  if (!komData.links.length) { el.innerHTML = `<div class="text-xs text-gray-400 p-2 bg-gray-50 rounded-xl border border-dashed border-gray-200">Sin enlaces</div>`; return; }
-  el.innerHTML = komData.links.map((l, i) => `
-    <div class="flex items-center gap-2 p-2 bg-gray-50 rounded-xl border border-gray-200">
-      <a href="${l.url}" target="_blank" rel="noopener" class="flex-1 text-sm text-purple-700 hover:underline truncate">${l.title}</a>
-      <button onclick="removeLink(${i})" class="shrink-0 text-xs text-red-400 hover:text-red-600 font-bold px-2 transition">✕</button>
-    </div>
-  `).join("");
-}
-
-// ══════════════════════════════════════════════════════════
+// ═══════════════════════════════════════════
 // ARRANQUE
-// ══════════════════════════════════════════════════════════
+// ═══════════════════════════════════════════
 loadPeople();
 </script>
 </body>

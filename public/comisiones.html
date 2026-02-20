@@ -1,390 +1,1128 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>OP - Congresistas</title>
+  <title>OP - Comisiones</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
     body { font-family: 'Inter', sans-serif; }
+
     .gradient-text {
-      background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+      background: linear-gradient(135deg,#667eea,#764ba2);
       background-clip: text; -webkit-background-clip: text;
       color: transparent; -webkit-text-fill-color: transparent;
     }
-    .card-hover { transition: all .25s ease; }
-    .card-hover:hover { transform: translateY(-3px); box-shadow: 0 20px 40px rgba(0,0,0,.08); }
+    .gradient-bg { background: linear-gradient(135deg,#667eea,#764ba2); }
+    .card-hover  { transition: all .2s; }
+    .card-hover:hover { transform: translateY(-2px); box-shadow: 0 12px 32px rgba(0,0,0,.07); }
 
-    .camara-btn {
-      padding: 6px 18px; border-radius: 999px; font-weight: 700;
-      font-size: .85rem; border: 2px solid transparent; transition: all .2s; cursor: pointer;
-    }
+    /* ── Toggles cámara ── */
+    .camara-btn { padding:5px 16px; border-radius:999px; font-size:.78rem; font-weight:700; border:2px solid transparent; transition:all .2s; cursor:pointer; }
     .camara-btn.active-diputados { background:#7c3aed; color:#fff; border-color:#7c3aed; }
     .camara-btn.active-senado    { background:#b91c1c; color:#fff; border-color:#b91c1c; }
-    .camara-btn.active-all       { background:#374151; color:#fff; border-color:#374151; }
     .camara-btn.inactive         { background:#f3f4f6; color:#6b7280; border-color:#e5e7eb; }
     .camara-btn.inactive:hover   { border-color:#9ca3af; }
 
-    /* avatar color por cámara */
-    .avatar-diputados { background: #7c3aed; }
-    .avatar-senado    { background: #b91c1c; }
-    .avatar-other     { background: #374151; }
+    /* ── Filtros estado ── */
+    .estado-chip { padding:4px 12px; border-radius:999px; font-size:.72rem; font-weight:700; border:1.5px solid transparent; cursor:pointer; transition:all .15s; user-select:none; }
+    .estado-chip.active   { opacity:1; }
+    .estado-chip.inactive { opacity:.55; filter:grayscale(.4); }
+    .estado-chip:hover    { opacity:1; filter:none; }
+
+    /* ── Accordion año ── */
+    .year-block { border:1px solid #e5e7eb; border-radius:14px; overflow:hidden; }
+    .year-header {
+      display:flex; align-items:center; justify-content:space-between;
+      padding:.9rem 1.1rem; background:#f9fafb; cursor:pointer;
+      transition:background .15s; user-select:none;
+    }
+    .year-header:hover { background:#f3f4f6; }
+    .year-body { display:none; border-top:1px solid #e5e7eb; }
+    .year-body.open { display:block; }
+    .year-chevron { transition:transform .2s; font-size:.75rem; color:#9ca3af; }
+    .year-chevron.open { transform:rotate(180deg); }
+
+    /* ── Docs panel ── */
+    .docs-panel {
+      display:none; background:#fafbff;
+      border-top:1px dashed #d1d5db; padding:1rem 1.1rem;
+    }
+    .docs-panel.open { display:block; }
+
+    .doc-pill {
+      display:inline-flex; align-items:center; gap:.35rem;
+      padding:3px 10px; border-radius:999px; font-size:.68rem; font-weight:600;
+      border:1px solid; transition:all .15s; cursor:default;
+      max-width:200px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
+    }
+    .doc-pill:hover { opacity:.85; }
+    .doc-pill-del {
+      cursor:pointer; font-size:.8rem; line-height:1; flex-shrink:0;
+      opacity:.5; transition:opacity .15s;
+    }
+    .doc-pill-del:hover { opacity:1; color:#ef4444; }
+
+    /* ── Skeleton ── */
+    @keyframes shimmer { 0%{background-position:200%} 100%{background-position:-200%} }
+    .skel {
+      border-radius:6px; height:12px;
+      background: linear-gradient(90deg,#f0f0f0 25%,#e0e0e0 50%,#f0f0f0 75%);
+      background-size:200% 100%; animation:shimmer 1.4s infinite;
+    }
+
+    /* ── Modal docs ── */
+    .modal-overlay { background:rgba(0,0,0,.5); backdrop-filter:blur(4px); }
+
+    /* ── Toast ── */
+    #toast {
+      position:fixed; bottom:1.5rem; right:1.5rem; z-index:9999;
+      padding:.7rem 1.2rem; border-radius:12px; font-size:.82rem; font-weight:600;
+      box-shadow:0 8px 32px rgba(0,0,0,.15); transform:translateY(80px); opacity:0;
+      transition:all .3s; pointer-events:none;
+    }
+    #toast.show { transform:none; opacity:1; }
+    #toast.ok   { background:#ecfdf5; color:#065f46; border:1px solid #6ee7b7; }
+    #toast.err  { background:#fef2f2; color:#991b1b; border:1px solid #fca5a5; }
+
+    /* ── Scrolls independientes ── */
+    #commission-list-wrap  { height:calc(100vh - 280px); overflow-y:auto; }
+    #commission-detail-wrap { height:calc(100vh - 200px); overflow-y:auto; }
+
+    @media(max-width:1024px) {
+      #commission-list-wrap  { height:auto; max-height:40vh; }
+      #commission-detail-wrap { height:auto; }
+    }
   </style>
   <script src="/assets/app.js"></script>
   <script src="/assets/ui.js"></script>
 </head>
-<body class="bg-gray-50">
-<div class="max-w-6xl mx-auto px-4 py-6">
+<body class="bg-gray-50 min-h-screen">
+
+<!-- Toast -->
+<div id="toast"></div>
+
+<!-- Scroll to top -->
+<button id="scrollTop"
+  onclick="window.scrollTo({top:0,behavior:'smooth'})"
+  class="fixed bottom-6 left-6 z-50 w-10 h-10 rounded-full gradient-bg text-white shadow-lg text-lg hidden transition hover:scale-110"
+  title="Volver arriba">↑</button>
+
+<div class="max-w-7xl mx-auto px-4 py-6">
 
   <!-- Header -->
-  <div class="flex items-center justify-between">
+  <div class="flex items-center justify-between mb-1">
     <div class="flex items-center gap-3">
-      <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-bold">OP</div>
+      <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-bold text-sm">OP</div>
       <div>
         <div class="text-xl font-extrabold gradient-text">Observatorio Político</div>
-        <div class="text-sm text-gray-500">Congresistas</div>
+        <div class="text-sm text-gray-500">Comisiones</div>
       </div>
     </div>
   </div>
 
   <!-- Nav -->
-  <div class="mt-6 flex gap-6 text-sm text-gray-600 border-b border-gray-200 pb-3">
-    <a href="/chat.html">💬 Chat IA</a>
-    <a href="/congresistas.html" class="font-bold text-purple-600">👥 Congresistas</a>
-    <a href="/comisiones.html">📚 Comisiones</a>
-    <a href="/actividad.html">📋 Actividad Legislativa</a>
-    <a href="/carga.html">📚 Carga</a>
-    <a href="/noticias.html">📰 Noticias</a>
+  <div class="mt-4 flex gap-5 text-sm text-gray-600 border-b border-gray-200 pb-3 overflow-x-auto">
+    <a id="nav-chat"         href="/chat.html">💬 Chat IA</a>
+    <a id="nav-congresistas" href="/congresistas.html">👥 Congresistas</a>
+    <a id="nav-comisiones"   href="/comisiones.html">📁 Comisiones</a>
+    <a id="nav-actividad"    href="/actividad.html">🔔 Actividad</a>
+    <a id="nav-carga"        href="/carga.html">📚 Carga</a>
+    <a id="nav-noticias"     href="/noticias.html">📰 Noticias</a>
   </div>
-  <script>if(typeof setActiveNav==="function") setActiveNav("nav-congresistas");</script>
+  <script>if(typeof setActiveNav==="function") setActiveNav("nav-comisiones");</script>
 
-  <div class="mt-6 bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-    <div class="flex items-center gap-3">
-      <div class="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center">👥</div>
-      <div>
-        <h2 class="text-2xl font-extrabold">Búsqueda de Congresistas</h2>
-        <p class="text-gray-500">Diputados y Senadores con sus comisiones. Crea perfiles KOM internos.</p>
+  <!-- Layout principal -->
+  <div class="mt-5 grid grid-cols-1 lg:grid-cols-3 gap-5">
+
+    <!-- ══ Columna izquierda: lista comisiones ══ -->
+    <div class="bg-white rounded-2xl border border-gray-100 shadow-sm p-4 flex flex-col gap-3">
+
+      <!-- Toggle cámara -->
+      <div class="flex items-center gap-2 flex-wrap">
+        <button id="btn-diputados" class="camara-btn active-diputados" onclick="setCamara('diputados')">🟣 Diputados</button>
+        <button id="btn-senado"    class="camara-btn inactive"         onclick="setCamara('senado')">🔴 Senado</button>
+      </div>
+
+      <!-- Grupo + búsqueda -->
+      <div class="flex gap-2">
+        <select id="groupSelect" class="flex-1 text-sm border border-gray-200 rounded-xl px-3 py-2 focus:border-purple-400 focus:outline-none">
+          <option>Permanentes</option>
+          <option>Otras</option>
+          <option>Unidas</option>
+        </select>
+      </div>
+      <div class="flex gap-2">
+        <input id="comSearch" placeholder="Buscar comisión…"
+          class="flex-1 text-sm border border-gray-200 rounded-xl px-3 py-2 focus:border-purple-400 focus:outline-none"
+          oninput="debounceLoadCommissions()" />
+      </div>
+      <div id="comCount" class="text-xs text-gray-400"></div>
+
+      <!-- Lista -->
+      <div id="commission-list-wrap" class="pr-1">
+        <div id="commissionsList" class="space-y-1.5"></div>
       </div>
     </div>
 
-    <!-- Toggle Cámara -->
-    <div class="mt-5 flex items-center gap-2 flex-wrap">
-      <span class="text-sm font-semibold text-gray-500 mr-1">Cámara:</span>
-      <button id="btn-all"       class="camara-btn active-all"    onclick="setCamara('all')">🏛️ Todas</button>
-      <button id="btn-diputados" class="camara-btn inactive"       onclick="setCamara('camara')">🟣 Diputados</button>
-      <button id="btn-senado"    class="camara-btn inactive"       onclick="setCamara('senado')">🔴 Senado</button>
-      <span id="camara-badge" class="ml-auto text-xs font-bold px-3 py-1 rounded-full bg-gray-100 text-gray-600">
-        Todas las cámaras
-      </span>
-    </div>
+    <!-- ══ Columna derecha: detalle ══ -->
+    <div class="lg:col-span-2 bg-white rounded-2xl border border-gray-100 shadow-sm p-5 flex flex-col">
 
-    <!-- Búsqueda -->
-    <div class="mt-4 flex gap-3">
-      <input id="q" class="flex-1 px-4 py-3 rounded-2xl border border-gray-200"
-             placeholder="Buscar por nombre..."
-             onkeydown="if(event.key==='Enter') loadPeople()" />
-      <button class="px-6 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold"
-              onclick="loadPeople()">Buscar</button>
-    </div>
-
-    <!-- Contador -->
-    <div class="mt-4 text-sm text-gray-500" id="count">Cargando…</div>
-
-    <!-- Grid de personas -->
-    <div class="mt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" id="grid"></div>
-  </div>
-
-  <!-- Modal KOM -->
-  <div id="komModal" class="fixed inset-0 hidden items-center justify-center bg-black/40 p-4 z-50">
-    <div class="bg-white rounded-2xl w-full max-w-2xl p-6 max-h-[90vh] overflow-y-auto">
-      <div class="flex items-start justify-between mb-4">
-        <div>
-          <div class="text-lg font-extrabold" id="komName">Perfil KOM</div>
-          <div class="text-sm text-gray-500 mt-1" id="komMeta"></div>
-          <div id="komCamaraBadge" class="mt-2"></div>
+      <!-- Header detalle -->
+      <div class="flex items-start justify-between gap-3 mb-1">
+        <div class="flex-1">
+          <div id="comBreadcrumb" class="text-xs text-gray-400 mb-1 hidden">
+            <!-- Rellena dinámicamente -->
+          </div>
+          <h2 id="commissionTitle" class="text-xl font-extrabold text-gray-900">Selecciona una comisión</h2>
+          <div id="commissionSubtitle" class="text-sm text-gray-500 mt-0.5">Elige de la lista para ver las sesiones y documentos.</div>
         </div>
-        <button class="px-3 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-sm" onclick="closeKom()">✕ Cerrar</button>
+        <!-- Botón docs de toda la comisión -->
+        <button id="btnDocsComision" class="hidden shrink-0 flex items-center gap-1.5 px-3 py-2 rounded-xl border border-indigo-200 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 text-xs font-bold transition"
+          onclick="openDocsModal('comision','','')">
+          📂 Docs comisión
+          <span id="docsComisionCount" class="bg-indigo-200 text-indigo-800 px-1.5 py-0.5 rounded-full text-xs font-extrabold">0</span>
+        </button>
       </div>
 
-      <!-- Comisiones de esta persona -->
-      <div id="komComisiones" class="mb-4"></div>
-
-      <!-- Notas internas -->
-      <div>
-        <label class="text-sm font-semibold text-gray-700">📝 Notas internas</label>
-        <textarea id="komNotas" class="mt-2 w-full h-36 px-4 py-3 rounded-2xl border border-gray-200 text-sm"
-                  placeholder="Escribe aquí tus notas sobre este congresista…"></textarea>
+      <!-- Stats año (cuando hay comisión abierta) -->
+      <div id="statsBar" class="hidden flex-wrap gap-2 mb-3 pt-3 border-t border-gray-100">
+        <!-- Rellena dinámicamente -->
       </div>
 
-      <!-- Link perfil oficial -->
-      <div id="komLinkOficial" class="mt-3"></div>
+      <!-- Filtros de estado -->
+      <div id="filtrosEstado" class="hidden flex-wrap gap-1.5 mb-3">
+        <span class="text-xs font-semibold text-gray-500 self-center mr-1">Estado:</span>
+        <button class="estado-chip active"   style="background:#f0fdf4;color:#166534;border-color:#86efac" data-estado="TODAS"     onclick="setEstadoFilter('TODAS')">Todas</button>
+        <button class="estado-chip inactive" style="background:#dcfce7;color:#166534;border-color:#4ade80" data-estado="CELEBRADA" onclick="setEstadoFilter('CELEBRADA')">✓ Celebrada</button>
+        <button class="estado-chip inactive" style="background:#eff6ff;color:#1d4ed8;border-color:#93c5fd" data-estado="CITADA"    onclick="setEstadoFilter('CITADA')">↗ Citada</button>
+        <button class="estado-chip inactive" style="background:#fffbeb;color:#92400e;border-color:#fcd34d" data-estado="SUSPENDIDA" onclick="setEstadoFilter('SUSPENDIDA')">⏸ Suspendida</button>
+        <button class="estado-chip inactive" style="background:#fef2f2;color:#991b1b;border-color:#fca5a5" data-estado="FRACASADA" onclick="setEstadoFilter('FRACASADA')">✗ Fracasada</button>
+        <span id="filtroCount" class="ml-auto self-center text-xs text-gray-400"></span>
+      </div>
 
-      <div class="mt-4 flex justify-end gap-2">
-        <button class="px-4 py-3 rounded-2xl bg-gray-100 hover:bg-gray-200 text-gray-700 font-bold text-sm"
-                onclick="closeKom()">Cancelar</button>
-        <button class="px-4 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold text-sm"
-                onclick="saveKom()">💾 Guardar</button>
+      <!-- Contenido años -->
+      <div id="commission-detail-wrap" class="flex-1">
+        <div id="commissionDetail">
+          <div class="flex flex-col items-center justify-center h-64 text-gray-300">
+            <div class="text-5xl mb-3">📁</div>
+            <div class="text-sm font-medium">Elige una comisión de la lista</div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
+</div>
 
+<!-- ══════════════════════════════════════════
+     MODAL DOCUMENTOS
+══════════════════════════════════════════ -->
+<div id="docsModal" class="fixed inset-0 z-50 hidden items-center justify-center modal-overlay p-4">
+  <div class="bg-white rounded-2xl w-full max-w-2xl max-h-[90vh] flex flex-col shadow-2xl">
+
+    <!-- Header modal -->
+    <div class="flex items-center justify-between p-5 border-b border-gray-100 shrink-0">
+      <div>
+        <h3 id="docsModalTitle" class="font-extrabold text-gray-900 text-base">Documentos</h3>
+        <p id="docsModalSub"   class="text-xs text-gray-400 mt-0.5"></p>
+      </div>
+      <button onclick="closeDocsModal()" class="w-8 h-8 rounded-full bg-gray-100 hover:bg-gray-200 flex items-center justify-center text-gray-600 font-bold transition">×</button>
+    </div>
+
+    <!-- Tabs: Lista / Agregar -->
+    <div class="flex border-b border-gray-100 px-5 shrink-0">
+      <button id="tabDocsList" class="tab-btn px-4 py-3 text-sm font-bold border-b-2 border-purple-600 text-purple-600" onclick="switchDocsTab('list')">📋 Documentos</button>
+      <button id="tabDocsAdd"  class="tab-btn px-4 py-3 text-sm font-semibold border-b-2 border-transparent text-gray-400 hover:text-gray-700" onclick="switchDocsTab('add')">+ Agregar</button>
+    </div>
+
+    <!-- Tab: Lista -->
+    <div id="panelDocsList" class="flex-1 overflow-y-auto p-5">
+      <div id="docsListContent">
+        <div class="text-sm text-gray-400 text-center py-8">Cargando documentos…</div>
+      </div>
+    </div>
+
+    <!-- Tab: Agregar -->
+    <div id="panelDocsAdd" class="hidden flex-1 overflow-y-auto p-5">
+
+      <!-- Subir archivo -->
+      <div class="mb-5">
+        <h4 class="text-sm font-bold text-gray-700 mb-3 flex items-center gap-2">
+          <span class="w-6 h-6 rounded-lg bg-purple-100 text-purple-700 flex items-center justify-center text-xs font-extrabold">↑</span>
+          Subir archivo desde tu equipo
+        </h4>
+        <div id="dropzone"
+          class="border-2 border-dashed border-gray-300 rounded-xl p-6 text-center cursor-pointer hover:border-purple-400 hover:bg-purple-50 transition"
+          onclick="document.getElementById('docFileInput').click()"
+          ondragover="event.preventDefault();this.classList.add('border-purple-400','bg-purple-50')"
+          ondragleave="this.classList.remove('border-purple-400','bg-purple-50')"
+          ondrop="handleDocDrop(event)">
+          <div class="text-3xl mb-2">📄</div>
+          <div class="text-sm font-semibold text-gray-700">Arrastra un archivo o haz clic</div>
+          <div class="text-xs text-gray-400 mt-1">PDF, DOCX, XLSX, PPTX, TXT · máx 50 MB</div>
+          <input id="docFileInput" type="file" class="hidden"
+            accept=".pdf,.doc,.docx,.xls,.xlsx,.ppt,.pptx,.txt,.csv,.zip"
+            onchange="handleDocFileSelect(event)" />
+        </div>
+        <div id="filePreview" class="hidden mt-3 flex items-center gap-2 p-3 bg-gray-50 rounded-xl border border-gray-200">
+          <span id="filePreviewIcon" class="text-xl">📄</span>
+          <div class="flex-1 min-w-0">
+            <div id="filePreviewName" class="text-sm font-semibold text-gray-800 truncate"></div>
+            <div id="filePreviewSize" class="text-xs text-gray-400"></div>
+          </div>
+          <button onclick="clearFilePreview()" class="text-gray-400 hover:text-red-500 font-bold text-lg">×</button>
+        </div>
+      </div>
+
+      <!-- OR divider -->
+      <div class="flex items-center gap-3 mb-5">
+        <div class="flex-1 h-px bg-gray-200"></div>
+        <span class="text-xs text-gray-400 font-semibold">O AGREGAR URL EXTERNA</span>
+        <div class="flex-1 h-px bg-gray-200"></div>
+      </div>
+
+      <!-- URL externa -->
+      <div class="mb-5">
+        <h4 class="text-sm font-bold text-gray-700 mb-3 flex items-center gap-2">
+          <span class="w-6 h-6 rounded-lg bg-blue-100 text-blue-700 flex items-center justify-center text-xs font-extrabold">🔗</span>
+          URL de documento (scraping / links)
+        </h4>
+        <input id="docExtUrl" type="url" placeholder="https://www.camara.cl/..."
+          class="w-full px-3 py-2.5 text-sm border border-gray-200 rounded-xl focus:border-purple-400 focus:outline-none" />
+      </div>
+
+      <!-- Campos comunes -->
+      <div class="grid grid-cols-2 gap-3 mb-3">
+        <div>
+          <label class="text-xs font-bold text-gray-600 block mb-1">Título del documento</label>
+          <input id="docTitle" placeholder="Ej: Informe sesión nov."
+            class="w-full px-3 py-2 text-sm border border-gray-200 rounded-xl focus:border-purple-400 focus:outline-none" />
+        </div>
+        <div>
+          <label class="text-xs font-bold text-gray-600 block mb-1">Tipo</label>
+          <select id="docTipo" class="w-full px-3 py-2 text-sm border border-gray-200 rounded-xl focus:border-purple-400 focus:outline-none">
+            <option value="informe">📋 Informe</option>
+            <option value="presentacion">📊 Presentación</option>
+            <option value="citacion">📅 Citación</option>
+            <option value="acta">📝 Acta</option>
+            <option value="minuta">🗒️ Minuta</option>
+            <option value="proyecto_ley">⚖️ Proyecto de Ley</option>
+            <option value="otro">📄 Otro</option>
+          </select>
+        </div>
+      </div>
+      <div class="grid grid-cols-2 gap-3 mb-3">
+        <div>
+          <label class="text-xs font-bold text-gray-600 block mb-1">Alcance</label>
+          <select id="docScope" class="w-full px-3 py-2 text-sm border border-gray-200 rounded-xl focus:border-purple-400 focus:outline-none">
+            <option value="sesion">📅 Sesión específica</option>
+            <option value="comision">📁 Toda la comisión</option>
+          </select>
+        </div>
+        <div>
+          <label class="text-xs font-bold text-gray-600 block mb-1">Fecha sesión (si aplica)</label>
+          <input id="docFechaSesion" type="text" placeholder="DD-MM-YYYY"
+            class="w-full px-3 py-2 text-sm border border-gray-200 rounded-xl focus:border-purple-400 focus:outline-none" />
+        </div>
+      </div>
+      <div class="mb-4">
+        <label class="text-xs font-bold text-gray-600 block mb-1">Notas (opcional)</label>
+        <textarea id="docNotas" rows="2" placeholder="Contexto, resumen, o descripción…"
+          class="w-full px-3 py-2 text-sm border border-gray-200 rounded-xl focus:border-purple-400 focus:outline-none resize-none"></textarea>
+      </div>
+
+      <button onclick="saveDoc()"
+        class="w-full py-3 rounded-xl gradient-bg text-white font-bold text-sm hover:opacity-90 transition">
+        💾 Guardar documento
+      </button>
+    </div>
+  </div>
 </div>
 
 <script>
-const API_BASE = window.location.origin;
-let camaraActual = "all";
-let currentPerson = null;
+// ══════════════════════════════════════════════════════════════
+// ESTADO GLOBAL
+// ══════════════════════════════════════════════════════════════
+const $ = id => document.getElementById(id);
+let camaraActual      = "diputados";
+let currentCommission = null;   // { group, name }
+let allSessionsData   = null;   // datos crudos de sesiones
+let estadoFiltro      = "TODAS";
+let docsModalCtx      = null;   // { scope, sesionFecha, sesionDisplay }
+let selectedFile      = null;
 
-// ── Helper API ─────────────────────────────────────────────
-async function apiGet(path) {
-  const res = await fetch(`${API_BASE}${path}`);
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  return res.json();
+// ── API helpers ──────────────────────────────────────────────
+async function apiGet(url) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error("HTTP " + r.status);
+  return r.json();
 }
-async function apiPostJson(path, body) {
-  const res = await fetch(`${API_BASE}${path}`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(body),
-  });
-  return res.json();
+async function apiPost(url, body) {
+  const r = await fetch(url, { method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify(body) });
+  if (!r.ok) throw new Error("HTTP " + r.status);
+  return r.json();
+}
+async function apiPostForm(url, fd) {
+  const r = await fetch(url, { method:"POST", body:fd });
+  if (!r.ok) throw new Error("HTTP " + r.status);
+  return r.json();
+}
+async function apiDelete(url) {
+  const r = await fetch(url, { method:"DELETE" });
+  if (!r.ok) throw new Error("HTTP " + r.status);
+  return r.json();
 }
 
-// ── Toggle cámara ──────────────────────────────────────────
+// ── Toast ────────────────────────────────────────────────────
+let toastTimer;
+function showToast(msg, type="ok") {
+  const t = $("toast");
+  t.textContent = (type==="ok"?"✓ ":"✗ ") + msg;
+  t.className = `show ${type}`;
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => { t.classList.remove("show"); }, 3000);
+}
+
+// ── Scroll to top ────────────────────────────────────────────
+window.addEventListener("scroll", () => {
+  $("scrollTop").classList.toggle("hidden", window.scrollY < 300);
+}, {passive:true});
+
+// ══════════════════════════════════════════════════════════════
+// CÁMARA
+// ══════════════════════════════════════════════════════════════
 function setCamara(c) {
   camaraActual = c;
+  const isSen = c === "senado";
+  $("btn-diputados").className = "camara-btn " + (!isSen ? "active-diputados" : "inactive");
+  $("btn-senado"   ).className = "camara-btn " + ( isSen ? "active-senado"    : "inactive");
+  currentCommission = null;
+  allSessionsData = null;
+  resetDetailPanel();
+  loadCommissions();
+}
 
-  const btns = {
-    all:       document.getElementById("btn-all"),
-    camara:    document.getElementById("btn-diputados"),
-    senado:    document.getElementById("btn-senado"),
-  };
-  const badge = document.getElementById("camara-badge");
+// ══════════════════════════════════════════════════════════════
+// COMISIONES
+// ══════════════════════════════════════════════════════════════
+let _comDebounce;
+function debounceLoadCommissions() {
+  clearTimeout(_comDebounce);
+  _comDebounce = setTimeout(loadCommissions, 280);
+}
 
-  // Reset todos
-  Object.entries(btns).forEach(([k, el]) => { el.className = "camara-btn inactive"; });
-
-  if (c === "all") {
-    btns.all.className    = "camara-btn active-all";
-    badge.textContent     = "Todas las cámaras";
-    badge.className       = "ml-auto text-xs font-bold px-3 py-1 rounded-full bg-gray-100 text-gray-600";
-  } else if (c === "camara") {
-    btns.camara.className = "camara-btn active-diputados";
-    badge.textContent     = "Cámara de Diputados";
-    badge.className       = "ml-auto text-xs font-bold px-3 py-1 rounded-full bg-purple-100 text-purple-700";
-  } else {
-    btns.senado.className = "camara-btn active-senado";
-    badge.textContent     = "Senado de la República";
-    badge.className       = "ml-auto text-xs font-bold px-3 py-1 rounded-full bg-red-100 text-red-700";
+async function loadCommissions() {
+  const q     = ($("comSearch").value||"").trim();
+  const group = $("groupSelect").value||"Permanentes";
+  $("comCount").textContent = "Cargando…";
+  $("commissionsList").innerHTML = skeletonList(5);
+  try {
+    const data = await apiGet(`/api/commissions?group=${encodeURIComponent(group)}&q=${encodeURIComponent(q)}&camara=${camaraActual}`);
+    const items = data.commissions || data.items || [];
+    $("comCount").textContent = `${items.length} comisión(es)`;
+    renderCommissionsList(items, group);
+  } catch(e) {
+    $("commissionsList").innerHTML = `<div class="text-sm text-red-500 p-2">Error: ${e.message}</div>`;
   }
-
-  loadPeople();
 }
 
-// ── Avatar color ───────────────────────────────────────────
-function avatarClass(chamber) {
-  if (chamber === "senado") return "avatar-senado";
-  if (chamber === "camara" || chamber === "diputado") return "avatar-diputados";
-  return "avatar-other";
+function skeletonList(n) {
+  return Array.from({length:n}).map(()=>`
+    <div class="p-3 rounded-xl border border-gray-100 space-y-1.5">
+      <div class="skel w-3/4 h-3"></div>
+      <div class="skel w-1/3 h-2"></div>
+    </div>`).join("");
 }
 
-// ── Badge cámara ───────────────────────────────────────────
-function chamberBadge(chamber) {
-  if (chamber === "senado")
-    return `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-red-100 text-red-700">Senador</span>`;
-  if (chamber === "camara" || chamber === "diputado")
-    return `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-purple-100 text-purple-700">Diputado</span>`;
-  return `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-gray-100 text-gray-500">${chamber}</span>`;
+function renderCommissionsList(items, group) {
+  if (!items.length) {
+    $("commissionsList").innerHTML = `<div class="text-sm text-gray-400 p-3 text-center">Sin comisiones.<br><span class="text-xs">${camaraActual==="senado"?"¿Ejecutaste scraper_senado.py?":""}</span></div>`;
+    return;
+  }
+  $("commissionsList").innerHTML = items.map(c => `
+    <button class="w-full text-left p-3 rounded-xl border border-gray-100 hover:border-purple-400 hover:shadow-sm transition group"
+      onclick="openCommission('${group}','${c.commission_name.replace(/'/g,"\\'")}')">
+      <div class="font-semibold text-sm text-gray-800 group-hover:text-purple-700 leading-tight">${c.nombre||c.commission_name}</div>
+      <div class="text-xs text-gray-400 mt-0.5">${c.total_sessions} sesiones</div>
+    </button>`).join("");
 }
 
-// ── Render comisiones (compacto, para card) ────────────────
-function renderComisionesBadges(comisiones, max = 3) {
-  if (!comisiones || !comisiones.length) return "";
-  const shown = comisiones.slice(0, max);
-  const rest  = comisiones.length - max;
-  let html = shown.map(c => {
-    const nombre = c.commission_name.replace(/^Comisi[oó]n de /i, "").slice(0, 30);
-    return `<span class="inline-block text-xs px-2 py-0.5 rounded-full bg-gray-100 text-gray-600 truncate max-w-[120px]"
-                  title="${c.commission_name}">${nombre}</span>`;
-  }).join("");
-  if (rest > 0) html += `<span class="text-xs text-gray-400">+${rest} más</span>`;
-  return `<div class="flex flex-wrap gap-1 mt-2">${html}</div>`;
-}
+// ══════════════════════════════════════════════════════════════
+// ABRIR COMISIÓN
+// ══════════════════════════════════════════════════════════════
+async function openCommission(group, name) {
+  currentCommission = { group, name };
+  estadoFiltro = "TODAS";
 
-// ── Cargar lista ───────────────────────────────────────────
-async function loadPeople() {
-  const q     = (document.getElementById("q").value || "").trim();
-  const count = document.getElementById("count");
-  const grid  = document.getElementById("grid");
+  // Breadcrumb
+  const $bc = $("comBreadcrumb");
+  $bc.innerHTML = `<span class="text-gray-400">${group}</span> <span class="text-gray-300 mx-1">›</span> <span class="font-semibold text-gray-600">${name}</span>`;
+  $bc.classList.remove("hidden");
 
-  count.textContent = "Cargando…";
-  grid.innerHTML    = "";
+  $("commissionTitle").textContent = name;
+  $("commissionSubtitle").textContent = "Cargando sesiones…";
+  $("commissionDetail").innerHTML = skeletonYears();
+  $("statsBar").classList.add("hidden");
+  $("filtrosEstado").classList.add("hidden");
+
+  // Mostrar botón docs comisión
+  $("btnDocsComision").classList.remove("hidden");
 
   try {
-    // El backend ya combina ambos repos cuando camara="all"
-    const url = `/api/politicians?q=${encodeURIComponent(q)}&camara=${camaraActual}`;
-    const data = await apiGet(url);
+    const data = await apiGet(`/api/commissions/${encodeURIComponent(group)}/${encodeURIComponent(name)}/sessions?camara=${camaraActual}`);
+    if (!data.success) throw new Error(data.error||"Error desconocido");
 
-    const pols = data.politicians || [];
-    count.textContent = `${pols.length} congresista(s)${q ? ` — "${q}"` : ""}`;
+    allSessionsData = data.commission;
+    const total = Object.values(allSessionsData.sessions_by_year||{}).flat().length;
+    $("commissionSubtitle").textContent = `${allSessionsData.years.length} año(s) · ${total} sesiones`;
 
-    if (!pols.length) {
-      grid.innerHTML = `<div class="col-span-3 text-sm text-gray-400 py-8 text-center">
-        Sin resultados.
-        ${camaraActual === "senado" ? "<br>¿Corriste el <code>scraper_senado.py</code>?" : ""}
-      </div>`;
+    if (!allSessionsData.years.length) {
+      $("commissionDetail").innerHTML = `<div class="text-sm text-gray-400 py-10 text-center">Sin sesiones registradas.</div>`;
       return;
     }
 
-    pols.forEach(p => {
-      const initials = p.nombre.split(" ").slice(0, 2).map(x => x[0] || "").join("").toUpperCase();
-      const avClass  = avatarClass(p.chamber);
-      const badge    = chamberBadge(p.chamber);
-      const comBadges = renderComisionesBadges(p.comisiones || []);
-      const totalComs = (p.comisiones || []).length;
+    renderYears();
+    buildStatsBar();
+    $("filtrosEstado").classList.remove("hidden");
+    $("filtrosEstado").style.display = "flex";
+    $("statsBar").classList.remove("hidden");
+    $("statsBar").style.display = "flex";
 
-      const card = document.createElement("div");
-      card.className = "bg-white rounded-2xl shadow-sm border border-gray-100 p-5 card-hover flex flex-col justify-between";
-      card.innerHTML = `
-        <div>
-          <div class="flex items-start gap-3">
-            <div class="w-12 h-12 shrink-0 rounded-full ${avClass} text-white flex items-center justify-center font-bold text-sm">
-              ${initials}
-            </div>
-            <div class="min-w-0">
-              <div class="font-extrabold leading-tight truncate">${p.nombre}</div>
-              <div class="flex items-center gap-2 mt-1 flex-wrap">
-                ${badge}
-                ${p.cargo ? `<span class="text-xs text-gray-500">${p.cargo}</span>` : ""}
-              </div>
+    // Conteo docs de comisión
+    refreshDocsComisionCount();
+
+  } catch(e) {
+    $("commissionDetail").innerHTML = `<div class="text-sm text-red-500 p-4">Error: ${e.message}</div>`;
+  }
+}
+
+function skeletonYears() {
+  return `<div class="space-y-3">${Array.from({length:3}).map((_,i)=>`
+    <div class="year-block"><div class="year-header"><div class="skel w-20 h-4"></div><div class="skel w-32 h-3"></div></div></div>`).join("")}</div>`;
+}
+
+// ══════════════════════════════════════════════════════════════
+// RENDER AÑOS + SESIONES
+// ══════════════════════════════════════════════════════════════
+function renderYears() {
+  if (!allSessionsData) return;
+  const c = allSessionsData;
+
+  // ── Extraer año de la fecha si "anio" es null (fix Senado: formato YYYY-MM-DD) ──
+  // Re-agrupar en el frontend como garantía extra
+  const rebuiltByYear = {};
+  const rebuiltYears  = new Set();
+
+  c.years.forEach(y => {
+    rebuiltByYear[String(y)] = [];
+    rebuiltYears.add(String(y));
+  });
+
+  // Recorrer TODAS las sesiones y reasignar año si falta
+  Object.entries(c.sessions_by_year).forEach(([yk, sessions]) => {
+    sessions.forEach(s => {
+      let targetYear = yk;
+
+      // Si la clave es "Sin año", "" o parecida — intentar parsear de Fecha
+      const keyIsEmpty = !yk || yk === "Sin año" || yk === "None" || yk === "null" || yk === "undefined";
+      if (keyIsEmpty) {
+        const fecha = s.Fecha || s.fecha || "";
+        // Formatos: "YYYY-MM-DD", "DD-MM-YYYY", "DD mon. YYYY"
+        let m;
+        if ((m = fecha.match(/^(\d{4})-\d{2}-\d{2}/)))         targetYear = m[1];
+        else if ((m = fecha.match(/\b(20\d{2})\b/)))            targetYear = m[1];
+        else                                                     targetYear = "Sin año";
+      }
+
+      if (!rebuiltByYear[targetYear]) {
+        rebuiltByYear[targetYear] = [];
+        rebuiltYears.add(targetYear);
+      }
+      rebuiltByYear[targetYear].push(s);
+    });
+  });
+
+  // Ordenar años: numéricos desc, "Sin año" al final
+  const sortedYears = [...rebuiltYears].sort((a, b) => {
+    const na = parseInt(a), nb = parseInt(b);
+    if (isNaN(na) && isNaN(nb)) return 0;
+    if (isNaN(na)) return 1;
+    if (isNaN(nb)) return -1;
+    return nb - na;
+  }).filter(y => rebuiltByYear[y]?.length > 0); // quitar años vacíos
+
+  let html = '<div class="space-y-3">';
+  sortedYears.forEach((year, idx) => {
+    const sessions = rebuiltByYear[year] || [];
+    const stats    = calcStats(sessions);
+    const isOpen   = idx === 0;
+    const isNoYear = isNaN(parseInt(year));
+
+    const docsBtn = currentCommission
+      ? `<button onclick="event.stopPropagation();openDocsModal('year','',${JSON.stringify(year)})"
+           class="flex items-center gap-1 px-2 py-1 rounded-lg bg-indigo-50 hover:bg-indigo-100 border border-indigo-200 text-indigo-700 text-xs font-bold transition"
+           title="Documentos del año ${year}">
+           📂 <span id="docsCount-${year}">…</span>
+         </button>`
+      : "";
+
+    const yearLabel = isNoYear
+      ? `<span class="text-base font-extrabold text-gray-400 italic">Sin año registrado</span>`
+      : `<span class="text-base font-extrabold text-gray-900">${year}</span>`;
+
+    html += `
+      <div class="year-block" id="year-${year}">
+        <div class="year-header" onclick="toggleYear('${year}')">
+          <div class="flex items-center gap-3">
+            ${yearLabel}
+            <div class="flex gap-1 flex-wrap">
+              ${stats.celebradas  ? `<span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-bold bg-green-100 text-green-700">✓ ${stats.celebradas}</span>`  : ""}
+              ${stats.citadas     ? `<span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-bold bg-blue-100 text-blue-700">↗ ${stats.citadas}</span>`     : ""}
+              ${stats.suspendidas ? `<span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-bold bg-amber-100 text-amber-700">⏸ ${stats.suspendidas}</span>` : ""}
+              ${stats.fracasadas  ? `<span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-bold bg-red-100 text-red-700">✗ ${stats.fracasadas}</span>`  : ""}
             </div>
           </div>
-
-          ${comBadges}
-          ${totalComs > 0
-            ? `<div class="text-xs text-gray-400 mt-1">${totalComs} comisión(es)</div>`
-            : ""}
+          <div class="flex items-center gap-2">
+            ${docsBtn}
+            <span class="text-xs text-gray-400 hidden sm:inline">${sessions.length} ses.</span>
+            <span class="year-chevron ${isOpen?"open":""}">▼</span>
+          </div>
         </div>
-
-        <div class="mt-4 flex gap-2 flex-wrap">
-          ${p.url_ficha
-            ? `<a class="px-3 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 text-xs font-semibold"
-                  href="${p.url_ficha}" target="_blank" rel="noopener">Ver Perfil ↗</a>`
-            : ""}
-          <button class="px-3 py-2 rounded-xl bg-purple-600 hover:bg-purple-700 text-white text-xs font-semibold"
-            onclick="openKom('${p.chamber}','${p.id}','${encodeURIComponent(p.nombre)}',
-                             '${encodeURIComponent(p.url_ficha || "")}',
-                             '${encodeURIComponent(JSON.stringify(p.comisiones || []))}')">
-            📋 Perfil KOM
-          </button>
+        <div class="year-body ${isOpen?"open":""}">
+          ${renderSessionsTable(sessions, year, 40)}
         </div>
-      `;
-      grid.appendChild(card);
+      </div>`;
+  });
+  html += '</div>';
+  $("commissionDetail").innerHTML = html;
+
+  // Guardar datos re-agrupados para filtros
+  allSessionsData._rebuiltByYear  = rebuiltByYear;
+  allSessionsData._sortedYears    = sortedYears;
+
+  // Cargar conteo docs por año
+  sortedYears.forEach(year => loadDocsCountForYear(year));
+}
+
+async function loadDocsCountForYear(year) {
+  if (!currentCommission) return;
+  const el = $(`docsCount-${year}`);
+  if (!el) return;
+  try {
+    const data = await apiGet(docsUrl(currentCommission.group, currentCommission.name)
+      + `?scope=comision&sesion_fecha=`);
+    // Solo para el year block: contar todos los docs de sesiones de ese año
+    // Hacemos una petición más específica por año no existe, así que cargamos todos
+    // y filtramos localmente
+    const allDocs = await apiGet(docsUrl(currentCommission.group, currentCommission.name));
+    const yearDocs = (allDocs.docs||[]).filter(d => {
+      const f = d.sesion_fecha||"";
+      // Fecha formato DD-MM-YYYY → extraer año
+      const parts = f.split("-");
+      const docYear = parts.length===3 ? parts[2] : "";
+      return docYear === String(year) || d.scope === "comision";
     });
+    if (el) el.textContent = yearDocs.length || "0";
+  } catch { if (el) el.textContent = "0"; }
+}
 
-  } catch (e) {
-    count.textContent = "Error al cargar";
-    grid.innerHTML = `<div class="col-span-3 text-red-500 text-sm">${e.message}</div>`;
+function docsUrl(group, name) {
+  return `/api/docs/${camaraActual}/${encodeURIComponent(group)}/${encodeURIComponent(name)}`;
+}
+
+// ── Acordeón ─────────────────────────────────────────────────
+function toggleYear(year) {
+  const block = $(`year-${year}`);
+  if (!block) return;
+  const body    = block.querySelector(".year-body");
+  const chevron = block.querySelector(".year-chevron");
+  const isOpen  = body.classList.contains("open");
+  body.classList.toggle("open", !isOpen);
+  chevron.classList.toggle("open", !isOpen);
+}
+
+// ── Estadísticas globales ────────────────────────────────────
+function calcStats(sessions) {
+  const r = { celebradas:0, citadas:0, suspendidas:0, fracasadas:0 };
+  sessions.forEach(s => {
+    const e = (s.Estado||"").toUpperCase();
+    if (e.includes("CELEBRADA"))  r.celebradas++;
+    else if (e.includes("CITADA"))     r.citadas++;
+    else if (e.includes("SUSPENDIDA")) r.suspendidas++;
+    else if (e.includes("FRACASADA"))  r.fracasadas++;
+  });
+  return r;
+}
+
+function buildStatsBar() {
+  if (!allSessionsData) return;
+  // Usar datos re-agrupados si están disponibles, sino fallback
+  const byYear = allSessionsData._rebuiltByYear || allSessionsData.sessions_by_year;
+  const all = Object.values(byYear).flat();
+  const s   = calcStats(all);
+  const tasa = all.length ? Math.round(s.celebradas/all.length*100) : 0;
+  $("statsBar").innerHTML = `
+    <div class="flex flex-wrap gap-2 items-center w-full">
+      <span class="text-xs text-gray-500 font-semibold">Total:</span>
+      <span class="text-xs font-bold text-gray-700">${all.length} sesiones</span>
+      <span class="text-xs text-gray-300">|</span>
+      <span class="text-xs font-semibold text-green-700">✓ ${s.celebradas} cel.</span>
+      <span class="text-xs font-semibold text-blue-700">↗ ${s.citadas} cit.</span>
+      <span class="text-xs font-semibold text-amber-700">⏸ ${s.suspendidas} sus.</span>
+      ${s.fracasadas ? `<span class="text-xs font-semibold text-red-700">✗ ${s.fracasadas} frac.</span>` : ""}
+      <div class="flex items-center gap-1.5 ml-auto">
+        <span class="text-xs text-gray-500">Tasa celebración:</span>
+        <div class="w-24 h-1.5 rounded-full bg-gray-200 overflow-hidden">
+          <div class="h-full rounded-full bg-gradient-to-r from-green-400 to-emerald-500" style="width:${tasa}%"></div>
+        </div>
+        <span class="text-xs font-bold text-green-700">${tasa}%</span>
+      </div>
+    </div>`;
+}
+
+// ── Filtro estado ────────────────────────────────────────────
+function setEstadoFilter(estado) {
+  estadoFiltro = estado;
+  document.querySelectorAll(".estado-chip").forEach(el => {
+    const active = el.dataset.estado === estado;
+    el.classList.toggle("active",   active);
+    el.classList.toggle("inactive", !active);
+  });
+  applyEstadoFilter();
+}
+
+function applyEstadoFilter() {
+  if (!allSessionsData) return;
+  const years  = allSessionsData._sortedYears  || allSessionsData.years;
+  const byYear = allSessionsData._rebuiltByYear || allSessionsData.sessions_by_year;
+  let total = 0;
+
+  years.forEach(year => {
+    const sessions = byYear[year] || [];
+    const filtered = estadoFiltro === "TODAS"
+      ? sessions
+      : sessions.filter(s => (s.Estado || "").toUpperCase().includes(estadoFiltro));
+
+    total += filtered.length;
+    const block = $(`year-${year}`);
+    if (!block) return;
+    const body = block.querySelector(".year-body");
+    if (!body) return;
+    if (!filtered.length) {
+      body.innerHTML = `<div class="py-6 text-center text-sm text-gray-400">Sin sesiones <strong>${estadoFiltro.toLowerCase()}</strong> en ${year}</div>`;
+    } else {
+      body.innerHTML = renderSessionsTable(filtered, year, 40);
+    }
+  });
+
+  $("filtroCount").textContent = estadoFiltro === "TODAS"
+    ? ""
+    : `${total} resultado(s)`;
+}
+
+// ── Tabla de sesiones con paginación ─────────────────────────
+// pageSize: cuántas mostrar inicialmente; null = mostrar todas
+function renderSessionsTable(sessions, year, pageSize = 40) {
+  const yearKey = String(year);
+
+  if (!sessions.length) {
+    return `<div class="py-6 text-center text-sm text-gray-400">Sin sesiones en ${year}</div>`;
+  }
+
+  const isSenado = camaraActual === "senado";
+  const total    = sessions.length;
+  const showing  = (pageSize === null) ? sessions : sessions.slice(0, pageSize);
+  const hasMore  = pageSize !== null && total > pageSize;
+
+  const thead = `
+    <thead class="bg-gray-50 text-xs text-gray-500 font-semibold sticky top-0">
+      <tr>
+        <th class="text-left py-2 px-3 w-28">Fecha</th>
+        <th class="text-left py-2 px-3 w-32">Estado</th>
+        <th class="text-left py-2 px-3">Documentos oficiales</th>
+        <th class="text-center py-2 px-3 w-20">Docs KOM</th>
+        <th class="text-center py-2 px-3 w-12">TXT</th>
+        ${isSenado ? '<th class="text-center py-2 px-3 w-12">Video</th>' : ""}
+      </tr>
+    </thead>`;
+
+  const rows = showing.map(s => renderSessionRow(s, isSenado)).join("");
+
+  const verMasBtn = hasMore ? `
+    <div class="px-3 py-3 bg-gray-50 border-t border-gray-100 text-center">
+      <button
+        onclick="showAllSessions('${yearKey}')"
+        class="inline-flex items-center gap-2 px-5 py-2 rounded-xl border border-gray-300 bg-white hover:border-purple-400 hover:text-purple-700 text-sm font-semibold text-gray-600 transition shadow-sm">
+        ↓ Ver las ${total - showing.length} sesiones restantes
+        <span class="text-xs bg-gray-100 px-2 py-0.5 rounded-full">${total} total</span>
+      </button>
+    </div>` : (total > 10 ? `
+    <div class="px-3 py-2 bg-gray-50 border-t border-gray-100 text-right">
+      <span class="text-xs text-gray-400">${total} sesiones en ${year}</span>
+    </div>` : "");
+
+  return `
+    <div class="overflow-x-auto" id="table-wrap-${yearKey}">
+      <table class="w-full text-sm">
+        ${thead}
+        <tbody id="tbody-${yearKey}">${rows}</tbody>
+      </table>
+      ${verMasBtn}
+    </div>`;
+}
+
+// Expande el año mostrando TODAS las sesiones (reemplaza sólo tbody + botón)
+function showAllSessions(yearKey) {
+  if (!allSessionsData) return;
+
+  const sessions = estadoFiltro === "TODAS"
+    ? (allSessionsData.sessions_by_year[yearKey] || [])
+    : (allSessionsData.sessions_by_year[yearKey] || []).filter(
+        s => (s.Estado || "").toUpperCase().includes(estadoFiltro)
+      );
+
+  const isSenado = camaraActual === "senado";
+  const tbody = document.getElementById(`tbody-${yearKey}`);
+  const wrap  = document.getElementById(`table-wrap-${yearKey}`);
+  if (!tbody || !wrap) return;
+
+  // Rerender todo con pageSize=null (sin límite)
+  const parent = tbody.closest(".year-body");
+  if (parent) {
+    parent.innerHTML = renderSessionsTable(sessions, yearKey, null);
   }
 }
 
-// ── Modal KOM ──────────────────────────────────────────────
-async function openKom(chamber, id, nameEnc, urlEnc, comisionesEnc) {
-  const nombre     = decodeURIComponent(nameEnc);
-  const urlFicha   = decodeURIComponent(urlEnc || "");
-  let   comisiones = [];
-  try { comisiones = JSON.parse(decodeURIComponent(comisionesEnc || "[]")); } catch {}
+function renderSessionRow(s, isSenado) {
+  const estado = (s.Estado||"-").toUpperCase();
+  const estadoColors = {
+    CELEBRADA:  "bg-green-100 text-green-700",
+    CITADA:     "bg-blue-100  text-blue-700",
+    SUSPENDIDA: "bg-amber-100 text-amber-700",
+    FRACASADA:  "bg-red-100   text-red-700",
+  };
+  const eColor = Object.entries(estadoColors).find(([k]) => estado.includes(k))?.[1] || "bg-gray-100 text-gray-600";
+  const estadoBadge = `<span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-semibold ${eColor}">${s.Estado||"-"}</span>`;
 
-  currentPerson = { chamber, id, nombre, url_ficha: urlFicha, comisiones };
+  const docs = [];
+  if (s.Citacion && s.Citacion !== "No" && s.Citacion.startsWith("http"))
+    docs.push(`<a href="${s.Citacion}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-blue-100 text-blue-700 hover:bg-blue-200 transition">Citación ↗</a>`);
+  if (s.Cuenta && s.Cuenta !== "No" && s.Cuenta.startsWith("http"))
+    docs.push(`<a href="${s.Cuenta}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-green-100 text-green-700 hover:bg-green-200 transition">Cuenta ↗</a>`);
+  if (s.Acta && s.Acta !== "No" && s.Acta.startsWith("http"))
+    docs.push(`<a href="${s.Acta}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-purple-100 text-purple-700 hover:bg-purple-200 transition">Acta ↗</a>`);
+  const docsHTML = docs.length ? docs.join(" ") : `<span class="text-xs text-gray-300">—</span>`;
 
-  // Header del modal
-  document.getElementById("komName").textContent = nombre;
-  document.getElementById("komMeta").textContent = `${chamber} · ID ${id}`;
+  const transcript = s.transcript
+    ? `<button onclick="openTranscript('${s.ID||s.id||""}')" class="text-purple-600 hover:text-purple-800 text-base" title="Ver transcripción">📄</button>`
+    : `<span class="text-gray-300 text-xs">—</span>`;
 
-  // Badge cámara en modal
-  document.getElementById("komCamaraBadge").innerHTML = chamberBadge(chamber);
+  const videoURL = s.URL_Video || s.url_video || "";
+  const videoCell = isSenado
+    ? `<td class="py-2 px-3 text-center">${videoURL ? `<a href="${videoURL}" target="_blank" class="text-red-600 hover:text-red-800 text-base" title="Ver video">🎥</a>` : `<span class="text-gray-300 text-xs">—</span>`}</td>`
+    : "";
 
-  // Comisiones en modal
-  const comDiv = document.getElementById("komComisiones");
-  if (comisiones.length) {
-    const rows = comisiones.map(c => `
-      <div class="flex items-start gap-2 py-1 border-b border-gray-50">
-        <span class="text-xs text-gray-400 w-24 shrink-0">${c.group}</span>
-        <span class="text-xs font-medium text-gray-700 flex-1">${c.commission_name}</span>
-        ${c.cargo_en_comision
-          ? `<span class="text-xs text-gray-400">${c.cargo_en_comision}</span>`
-          : ""}
-      </div>
-    `).join("");
-    comDiv.innerHTML = `
-      <div class="mb-2 text-sm font-semibold text-gray-700">
-        📚 Comisiones (${comisiones.length})
-      </div>
-      <div class="bg-gray-50 rounded-xl p-3 max-h-40 overflow-y-auto text-sm">
-        ${rows}
-      </div>
-    `;
+  // Botón docs KOM para esta sesión
+  const fecha = s.Fecha || "";
+  const docsKomBtn = currentCommission
+    ? `<button onclick="openDocsModal('sesion','${fecha}','')"
+         class="inline-flex items-center justify-center w-7 h-7 rounded-lg bg-indigo-50 hover:bg-indigo-100 border border-indigo-200 text-indigo-600 text-xs font-bold transition"
+         title="Documentos de esta sesión">📎</button>`
+    : "";
+
+  return `
+    <tr class="border-t border-gray-100 hover:bg-gray-50/60 transition">
+      <td class="py-2 px-3 text-xs text-gray-600 font-medium">${fecha}</td>
+      <td class="py-2 px-3">${estadoBadge}</td>
+      <td class="py-2 px-3"><div class="flex flex-wrap gap-1">${docsHTML}</div></td>
+      <td class="py-2 px-3 text-center">${docsKomBtn}</td>
+      <td class="py-2 px-3 text-center">${transcript}</td>
+      ${videoCell}
+    </tr>`;
+}
+
+function resetDetailPanel() {
+  $("commissionTitle").textContent   = "Selecciona una comisión";
+  $("commissionSubtitle").textContent = "Elige de la lista para ver las sesiones y documentos.";
+  $("commissionDetail").innerHTML    = `<div class="flex flex-col items-center justify-center h-64 text-gray-300"><div class="text-5xl mb-3">📁</div><div class="text-sm font-medium">Elige una comisión de la lista</div></div>`;
+  $("comBreadcrumb").classList.add("hidden");
+  $("btnDocsComision").classList.add("hidden");
+  $("statsBar").classList.add("hidden");
+  $("filtrosEstado").classList.add("hidden");
+}
+
+// ══════════════════════════════════════════════════════════════
+// MODAL DOCUMENTOS
+// ══════════════════════════════════════════════════════════════
+function openDocsModal(scope, sesionFecha, yearLabel) {
+  if (!currentCommission) return;
+  docsModalCtx = { scope, sesionFecha, yearLabel };
+
+  let title, sub;
+  if (scope === "sesion") {
+    title = `Documentos · ${sesionFecha || "sesión"}`;
+    sub   = `${currentCommission.name} · sesión ${sesionFecha}`;
+  } else if (scope === "year") {
+    title = `Documentos · ${yearLabel}`;
+    sub   = `${currentCommission.name} · año ${yearLabel}`;
   } else {
-    comDiv.innerHTML = "";
+    title = `Documentos de comisión`;
+    sub   = currentCommission.name;
   }
+  $("docsModalTitle").textContent = title;
+  $("docsModalSub").textContent   = sub;
+  if (scope === "sesion") $("docFechaSesion").value = sesionFecha;
 
-  // Link perfil oficial
-  const linkDiv = document.getElementById("komLinkOficial");
-  if (urlFicha) {
-    linkDiv.innerHTML = `
-      <a href="${urlFicha}" target="_blank" rel="noopener"
-         class="text-xs text-purple-600 hover:underline">🔗 Ver perfil oficial ↗</a>
-    `;
-  } else {
-    linkDiv.innerHTML = "";
-  }
-
-  // Cargar notas guardadas
-  try {
-    const data = await apiGet(`/api/kom/${chamber}/${id}`);
-    document.getElementById("komNotas").value =
-      (data.profile && data.profile.notas) ? data.profile.notas : "";
-  } catch {
-    document.getElementById("komNotas").value = "";
-  }
-
-  const modal = document.getElementById("komModal");
+  const modal = $("docsModal");
   modal.classList.remove("hidden");
   modal.classList.add("flex");
+
+  switchDocsTab("list");
+  loadDocsList();
 }
 
-function closeKom() {
-  const m = document.getElementById("komModal");
-  m.classList.add("hidden");
-  m.classList.remove("flex");
-  currentPerson = null;
+function closeDocsModal() {
+  $("docsModal").classList.add("hidden");
+  $("docsModal").classList.remove("flex");
+  clearFilePreview();
+  docsModalCtx = null;
 }
 
-async function saveKom() {
-  if (!currentPerson) return;
-  const notas = document.getElementById("komNotas").value || "";
+$("docsModal").addEventListener("click", e => { if (e.target === $("docsModal")) closeDocsModal(); });
+
+function switchDocsTab(tab) {
+  const isList = tab === "list";
+  $("panelDocsList").classList.toggle("hidden", !isList);
+  $("panelDocsAdd" ).classList.toggle("hidden",  isList);
+  $("tabDocsList").className = "tab-btn px-4 py-3 text-sm font-bold border-b-2 " + (isList ? "border-purple-600 text-purple-600" : "border-transparent text-gray-400 hover:text-gray-700");
+  $("tabDocsAdd" ).className = "tab-btn px-4 py-3 text-sm font-bold border-b-2 " + (!isList? "border-purple-600 text-purple-600" : "border-transparent text-gray-400 hover:text-gray-700");
+}
+
+async function loadDocsList() {
+  if (!currentCommission || !docsModalCtx) return;
+  $("docsListContent").innerHTML = `<div class="text-sm text-gray-400 text-center py-8">Cargando…</div>`;
+
+  const { scope, sesionFecha, yearLabel } = docsModalCtx;
+  let url = docsUrl(currentCommission.group, currentCommission.name);
+
   try {
-    await apiPostJson(`/api/kom/${currentPerson.chamber}/${currentPerson.id}`, {
-      notas,
-      nombre:    currentPerson.nombre,
-      url_ficha: currentPerson.url_ficha,
-      comisiones: currentPerson.comisiones,
-      updated_at: new Date().toISOString(),
-    });
-    closeKom();
-  } catch (e) {
-    alert("Error al guardar: " + e.message);
+    const data = await apiGet(url);
+    let docs = data.docs || [];
+
+    // Filtrar según contexto del modal
+    if (scope === "sesion") {
+      docs = docs.filter(d => d.sesion_fecha === sesionFecha || d.scope === "comision");
+    } else if (scope === "year") {
+      docs = docs.filter(d => {
+        const parts = (d.sesion_fecha||"").split("-");
+        const docYear = parts.length===3 ? parts[2] : "";
+        return docYear === String(yearLabel) || d.scope === "comision";
+      });
+    }
+    // scope === "comision" → todos
+
+    renderDocsList(docs);
+  } catch(e) {
+    $("docsListContent").innerHTML = `<div class="text-sm text-red-500 text-center py-6">Error: ${e.message}</div>`;
   }
 }
 
-// Cerrar modal al hacer clic fuera
-document.getElementById("komModal").addEventListener("click", function(e) {
-  if (e.target === this) closeKom();
-});
+const tipoIcons = {
+  informe:"📋", presentacion:"📊", citacion:"📅", acta:"📝",
+  minuta:"🗒️", proyecto_ley:"⚖️", otro:"📄"
+};
+const tipoColors = {
+  informe:       "bg-purple-100 text-purple-700 border-purple-200",
+  presentacion:  "bg-amber-100  text-amber-700  border-amber-200",
+  citacion:      "bg-blue-100   text-blue-700   border-blue-200",
+  acta:          "bg-green-100  text-green-700  border-green-200",
+  minuta:        "bg-orange-100 text-orange-700 border-orange-200",
+  proyecto_ley:  "bg-red-100    text-red-700    border-red-200",
+  otro:          "bg-gray-100   text-gray-600   border-gray-200",
+};
 
-// Arranque
-loadPeople();
+function renderDocsList(docs) {
+  if (!docs.length) {
+    $("docsListContent").innerHTML = `
+      <div class="flex flex-col items-center py-12 text-gray-300">
+        <div class="text-5xl mb-3">📭</div>
+        <div class="text-sm font-semibold text-gray-500">Sin documentos aún</div>
+        <div class="text-xs text-gray-400 mt-1">Agrégalos en la pestaña "+ Agregar"</div>
+        <button onclick="switchDocsTab('add')" class="mt-4 px-4 py-2 rounded-xl gradient-bg text-white text-xs font-bold hover:opacity-90 transition">+ Agregar primer documento</button>
+      </div>`;
+    return;
+  }
+
+  $("docsListContent").innerHTML = `
+    <div class="space-y-2">
+      ${docs.map(d => {
+        const icon  = tipoIcons[d.tipo] || "📄";
+        const color = tipoColors[d.tipo] || tipoColors.otro;
+        const scopeBadge = d.scope === "comision"
+          ? `<span class="text-xs px-1.5 py-0.5 rounded-full bg-indigo-100 text-indigo-700 font-semibold">📁 comisión</span>`
+          : `<span class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 text-gray-500 font-semibold">📅 ${d.sesion_fecha||"sesión"}</span>`;
+        const sourceBadge = d.source === "scraping"
+          ? `<span class="text-xs px-1.5 py-0.5 rounded-full bg-teal-100 text-teal-700 font-semibold">🤖 scraping</span>`
+          : `<span class="text-xs px-1.5 py-0.5 rounded-full bg-gray-100 text-gray-400">👤 manual</span>`;
+        const link = d.url
+          ? `<a href="${d.url}" target="_blank" class="text-xs text-purple-600 hover:underline font-semibold truncate max-w-[160px] inline-block align-bottom">Abrir URL ↗</a>`
+          : (d.filename
+            ? `<a href="/api/docs/${camaraActual}/${encodeURIComponent(currentCommission.group)}/${encodeURIComponent(currentCommission.name)}/file/${encodeURIComponent(d.filename)}" target="_blank" class="text-xs text-purple-600 hover:underline font-semibold">Descargar ↗</a>`
+            : "");
+
+        return `
+          <div class="flex items-start gap-3 p-3 bg-gray-50 rounded-xl border border-gray-200 hover:border-gray-300 transition group">
+            <div class="w-9 h-9 shrink-0 rounded-xl ${color} flex items-center justify-center text-lg border">${icon}</div>
+            <div class="flex-1 min-w-0">
+              <div class="font-semibold text-sm text-gray-800 leading-tight">${d.title||d.original_name||"Documento"}</div>
+              <div class="flex flex-wrap gap-1.5 mt-1">
+                ${scopeBadge}
+                ${sourceBadge}
+                ${link}
+              </div>
+              ${d.notas ? `<div class="text-xs text-gray-500 mt-1 line-clamp-1">${d.notas}</div>` : ""}
+            </div>
+            <button onclick="deleteDoc('${d.id}')"
+              class="opacity-0 group-hover:opacity-100 w-7 h-7 rounded-lg bg-red-50 hover:bg-red-100 text-red-500 flex items-center justify-center text-xs font-bold transition shrink-0"
+              title="Eliminar">✕</button>
+          </div>`;
+      }).join("")}
+    </div>`;
+}
+
+// ── Guardar doc ──────────────────────────────────────────────
+async function saveDoc() {
+  if (!currentCommission || !docsModalCtx) return;
+  const { group, name } = currentCommission;
+
+  const title       = ($("docTitle").value||"").trim();
+  const tipo        = $("docTipo").value||"otro";
+  const scope       = $("docScope").value||"sesion";
+  const sesionFecha = ($("docFechaSesion").value||"").trim();
+  const notas       = ($("docNotas").value||"").trim();
+  const extUrl      = ($("docExtUrl").value||"").trim();
+
+  // Validación mínima
+  if (!title) { showToast("Ingresa un título para el documento","err"); return; }
+
+  try {
+    if (selectedFile) {
+      // Subir archivo
+      const fd = new FormData();
+      fd.append("file", selectedFile);
+      fd.append("title", title);
+      fd.append("tipo",  tipo);
+      fd.append("scope", scope);
+      fd.append("sesion_fecha", sesionFecha);
+      fd.append("notas", notas);
+      const url = `/api/docs/${camaraActual}/${encodeURIComponent(group)}/${encodeURIComponent(name)}/upload?sesion_fecha=${encodeURIComponent(sesionFecha)}&scope=${encodeURIComponent(scope)}&tipo=${encodeURIComponent(tipo)}&title=${encodeURIComponent(title)}&notas=${encodeURIComponent(notas)}`;
+      await apiPostForm(url, fd);
+      showToast("Archivo subido y guardado");
+    } else if (extUrl) {
+      // Registrar URL
+      await apiPost(`/api/docs/${camaraActual}/${encodeURIComponent(group)}/${encodeURIComponent(name)}/link`, {
+        url: extUrl, title, tipo, scope, sesion_fecha: sesionFecha, notas, source:"manual"
+      });
+      showToast("Enlace guardado");
+    } else {
+      showToast("Adjunta un archivo o ingresa una URL","err");
+      return;
+    }
+
+    // Limpiar form
+    clearDocForm();
+    switchDocsTab("list");
+    loadDocsList();
+    refreshDocsComisionCount();
+  } catch(e) {
+    showToast("Error al guardar: " + e.message, "err");
+  }
+}
+
+async function deleteDoc(docId) {
+  if (!currentCommission) return;
+  if (!confirm("¿Eliminar este documento?")) return;
+  try {
+    const { group, name } = currentCommission;
+    await apiDelete(`/api/docs/${camaraActual}/${encodeURIComponent(group)}/${encodeURIComponent(name)}/${docId}`);
+    showToast("Documento eliminado");
+    loadDocsList();
+    refreshDocsComisionCount();
+  } catch(e) {
+    showToast("Error: " + e.message, "err");
+  }
+}
+
+async function refreshDocsComisionCount() {
+  if (!currentCommission) return;
+  try {
+    const data = await apiGet(docsUrl(currentCommission.group, currentCommission.name));
+    const n = (data.docs||[]).length;
+    $("docsComisionCount").textContent = n;
+    // Actualizar conteos por año
+    if (allSessionsData) allSessionsData.years.forEach(y => loadDocsCountForYear(y));
+  } catch {}
+}
+
+// ── Drag & Drop / selección de archivo ──────────────────────
+function handleDocDrop(e) {
+  e.preventDefault();
+  $("dropzone").classList.remove("border-purple-400","bg-purple-50");
+  const file = e.dataTransfer.files[0];
+  if (file) setSelectedFile(file);
+}
+function handleDocFileSelect(e) {
+  const file = e.target.files[0];
+  if (file) setSelectedFile(file);
+}
+function setSelectedFile(file) {
+  selectedFile = file;
+  const extIcons = { pdf:"🔴", docx:"🔵", xlsx:"🟢", pptx:"🟠", txt:"⬜", csv:"🟡" };
+  const ext = file.name.split(".").pop().toLowerCase();
+  $("filePreviewIcon").textContent = extIcons[ext] || "📄";
+  $("filePreviewName").textContent = file.name;
+  $("filePreviewSize").textContent = formatBytes(file.size);
+  $("filePreview").classList.remove("hidden");
+  $("dropzone").classList.add("hidden");
+  // Autocompletar título si está vacío
+  if (!$("docTitle").value) {
+    $("docTitle").value = file.name.replace(/\.[^.]+$/, "");
+  }
+}
+function clearFilePreview() {
+  selectedFile = null;
+  $("docFileInput").value = "";
+  $("filePreview").classList.add("hidden");
+  $("dropzone").classList.remove("hidden");
+}
+function clearDocForm() {
+  clearFilePreview();
+  $("docExtUrl").value = $("docTitle").value = $("docNotas").value = $("docFechaSesion").value = "";
+}
+function formatBytes(b) {
+  if (b < 1024)        return b + " B";
+  if (b < 1024*1024)   return (b/1024).toFixed(1) + " KB";
+  return (b/1024/1024).toFixed(1) + " MB";
+}
+
+// ── Transcript (si existe) ───────────────────────────────────
+async function openTranscript(sid) {
+  if (!currentCommission || !sid) return;
+  try {
+    const data = await apiGet(`/api/commissions/${encodeURIComponent(currentCommission.group)}/${encodeURIComponent(currentCommission.name)}/sessions/${sid}/transcript?camara=${camaraActual}`);
+    if (data.success && data.text) {
+      const w = window.open("", "_blank");
+      w.document.write(`<pre style="font:14px monospace;padding:2rem;max-width:800px;margin:auto;white-space:pre-wrap">${data.text}</pre>`);
+    } else showToast("Sin transcripción disponible","err");
+  } catch(e) { showToast("Error cargando transcripción","err"); }
+}
+
+// ══════════════════════════════════════════════════════════════
+// ARRANQUE
+// ══════════════════════════════════════════════════════════════
+$("groupSelect").addEventListener("change", loadCommissions);
+loadCommissions();
 </script>
 </body>
 </html>

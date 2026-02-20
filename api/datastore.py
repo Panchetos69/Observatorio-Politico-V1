@@ -61,9 +61,9 @@ class DataStore:
                          - "camara"  → para store_camara (REPO_V40...)
                          - "senado"  → para store_senado (REPO_SENADO)
         """
-        self.data_repo_dir    = os.path.abspath(data_repo_dir)
-        self.kom_dir          = os.path.abspath(kom_dir)
-        self.default_chamber  = default_chamber.strip().lower()
+        self.data_repo_dir   = os.path.abspath(data_repo_dir)
+        self.kom_dir         = os.path.abspath(kom_dir)
+        self.default_chamber = default_chamber.strip().lower()
 
         print(f"[DataStore] Initialized")
         print(f"  data_repo_dir:   {self.data_repo_dir}")
@@ -117,6 +117,18 @@ class DataStore:
         return out
 
     def get_commission_sessions(self, group: str, commission_name: str) -> dict:
+        """
+        Lee historial.csv y agrupa sesiones por año.
+
+        FIX "Sin año":
+        - Extrae el año desde múltiples campos y formatos de fecha:
+            · Campo "Año" explícito
+            · Fecha "YYYY-MM-DD" (formato Senado)
+            · Fecha "DD-MM-YYYY" (formato Diputados)
+            · Cualquier año 20XX embebido en la cadena
+        - Sesiones sin año parseable van a bucket "Sin año" (al final),
+          en vez de perderse silenciosamente.
+        """
         hist_path = self.historial_path(group, commission_name)
         if not os.path.exists(hist_path):
             return {"success": False, "error": f"historial.csv no encontrado para {commission_name}"}
@@ -128,35 +140,77 @@ class DataStore:
                 "years": [], "sessions_by_year": {},
             }}
 
-        # Detectar si hay transcripts
+        # Detectar transcripts disponibles
         transcripts_dir = os.path.join(self.data_repo_dir, group, commission_name, "transcripts")
         txt_dir         = os.path.join(self.data_repo_dir, group, commission_name, "txt")
-        transcript_ids  = set()
+        transcript_ids: set = set()
         for d in [transcripts_dir, txt_dir]:
             if os.path.isdir(d):
                 for f in os.listdir(d):
                     if f.endswith(".txt"):
                         transcript_ids.add(os.path.splitext(f)[0])
 
-        by_year: Dict[str, list] = {}
-        for row in rows:
+        def _extract_year(row: dict) -> Optional[int]:
+            """Extrae el año de una fila del CSV probando múltiples fuentes."""
+            # 1) Campo Año explícito
+            año_raw = (
+                row.get("Año") or row.get("año") or
+                row.get("Ano") or row.get("ano") or ""
+            ).strip()
+            if año_raw.isdigit() and len(año_raw) == 4:
+                return int(año_raw)
+
+            # 2) Parsear desde el campo Fecha
             fecha = (row.get("Fecha") or row.get("fecha") or "").strip()
-            year  = fecha.split("-")[-1] if fecha else "Sin año"
-            if len(year) != 4:
-                # intentar extraer año de otro formato
-                parts = fecha.replace("/", "-").split("-")
-                year = next((p for p in parts if len(p) == 4), "Sin año")
+            if not fecha:
+                return None
+
+            # Formato YYYY-MM-DD  (Senado)
+            m = re.match(r'^(\d{4})-\d{2}-\d{2}', fecha)
+            if m:
+                return int(m.group(1))
+
+            # Formato DD-MM-YYYY  (Diputados)
+            m = re.match(r'^\d{2}-\d{2}-(\d{4})', fecha)
+            if m:
+                return int(m.group(1))
+
+            # Cualquier año 20XX embebido en la cadena
+            m = re.search(r'\b(20\d{2})\b', fecha)
+            if m:
+                return int(m.group(1))
+
+            return None
+
+        by_year: Dict[str, list] = {}
+        years_seen: set = set()
+
+        for row in rows:
             sid = (row.get("ID") or row.get("id") or row.get("Id") or "").strip()
             row["transcript"] = bool(sid and sid in transcript_ids)
-            by_year.setdefault(year, []).append(row)
 
-        years = sorted(by_year.keys(), reverse=True)
+            year = _extract_year(row)
+
+            if year is not None:
+                yk = str(year)
+                years_seen.add(year)
+            else:
+                yk = "Sin año"
+
+            by_year.setdefault(yk, []).append(row)
+
+        # Años numéricos en orden descendente, "Sin año" siempre al final
+        sorted_numeric = sorted(years_seen, reverse=True)
+        years_list = [str(y) for y in sorted_numeric]
+        if "Sin año" in by_year:
+            years_list.append("Sin año")
+
         return {
             "success": True,
             "commission": {
                 "group":            group,
                 "commission_name":  commission_name,
-                "years":            years,
+                "years":            years_list,
                 "sessions_by_year": by_year,
             },
         }
@@ -169,7 +223,7 @@ class DataStore:
         return None
 
     # -----------------------------
-    # Políticos  ← FIX PRINCIPAL
+    # Políticos
     # -----------------------------
     def list_politicians(self, q: str = "", chamber: str = "all") -> List[dict]:
         """
@@ -239,7 +293,7 @@ class DataStore:
                     elif raw in ("senador", "senadores", "senate"):
                         raw = "senado"
 
-                    # ← FIX: si está vacío, usar el default de este DataStore
+                    # Si está vacío, usar el default de este DataStore
                     member_chamber = raw if raw else self.default_chamber
                     # ────────────────────────────────────────────────────────
 
@@ -353,7 +407,6 @@ class DataStore:
         if not os.path.isdir(diario_dir):
             return []
 
-        # Buscar el archivo más reciente (JSON o CSV)
         candidates = (
             glob.glob(os.path.join(diario_dir, "*.json"))
             + glob.glob(os.path.join(diario_dir, "*.csv"))
@@ -371,13 +424,13 @@ class DataStore:
             raw = _safe_read_json(latest)
             items = raw if isinstance(raw, list) else (raw or {}).get("items", [])
             for it in (items or []):
-                titulo    = (it.get("titulo") or it.get("title") or "").strip()
-                fecha     = (it.get("fecha") or it.get("date") or "").strip()
-                pdf_url   = (it.get("pdf_url") or it.get("url") or "").strip()
+                titulo      = (it.get("titulo") or it.get("title") or "").strip()
+                fecha       = (it.get("fecha") or it.get("date") or "").strip()
+                pdf_url     = (it.get("pdf_url") or it.get("url") or "").strip()
                 edicion_url = (it.get("edicion_url") or "").strip()
-                cve       = (it.get("cve") or "").strip()
-                edition   = (it.get("edition") or it.get("edicion") or "").strip()
-                tab       = (it.get("tab") or it.get("Tab") or "").strip()
+                cve         = (it.get("cve") or "").strip()
+                edition     = (it.get("edition") or it.get("edicion") or "").strip()
+                tab         = (it.get("tab") or it.get("Tab") or "").strip()
                 hay = f"{titulo} {tab} {cve}".lower()
                 if qn and qn not in hay:
                     continue
@@ -392,13 +445,13 @@ class DataStore:
         else:
             rows = _safe_read_csv_dicts(latest)
             for row in rows:
-                titulo    = (row.get("titulo") or row.get("title") or "").strip()
-                fecha     = (row.get("fecha") or row.get("date") or "").strip()
-                pdf_url   = (row.get("pdf_url") or row.get("url") or "").strip()
+                titulo      = (row.get("titulo") or row.get("title") or "").strip()
+                fecha       = (row.get("fecha") or row.get("date") or "").strip()
+                pdf_url     = (row.get("pdf_url") or row.get("url") or "").strip()
                 edicion_url = (row.get("edicion_url") or "").strip()
-                cve       = (row.get("cve") or "").strip()
-                edition   = (row.get("edition") or "").strip()
-                tab       = (row.get("tab") or "").strip()
+                cve         = (row.get("cve") or "").strip()
+                edition     = (row.get("edition") or "").strip()
+                tab         = (row.get("tab") or "").strip()
                 hay = f"{titulo} {tab} {cve}".lower()
                 if qn and qn not in hay:
                     continue

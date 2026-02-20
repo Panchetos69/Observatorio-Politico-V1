@@ -17,6 +17,9 @@ from __future__ import annotations
 
 import json
 import os
+import shutil
+import uuid
+import mimetypes
 from datetime import datetime
 from typing import Any, Dict
 
@@ -183,7 +186,157 @@ def activity(group: str = "", status: str = "", q: str = "",
         items   = sorted(items_c + items_s, key=lambda x: x.get("Fecha", ""), reverse=True)
 
     return {"success": True, "items": items, "total": len(items), "days_back": days}
+DOCS_SUBDIR = "docs"
 
+def docs_dir(camara: str, group: str, commission_name: str) -> str:
+    store = get_store(camara)
+    d = os.path.join(store.data_repo_dir, group, commission_name, DOCS_SUBDIR)
+    os.makedirs(d, exist_ok=True)
+    return d
+
+def docs_meta_path(camara: str, group: str, commission_name: str) -> str:
+    return os.path.join(docs_dir(camara, group, commission_name), "docs_meta.json")
+
+def load_docs_meta(camara: str, group: str, commission_name: str) -> list:
+    p = docs_meta_path(camara, group, commission_name)
+    if not os.path.exists(p):
+        return []
+    try:
+        with open(p, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return []
+
+def save_docs_meta(camara: str, group: str, commission_name: str, meta: list):
+    p = docs_meta_path(camara, group, commission_name)
+    with open(p, "w", encoding="utf-8") as f:
+        json.dump(meta, f, ensure_ascii=False, indent=2)
+
+
+# ── GET: listar documentos de una comisión ──────────────────
+@app.get("/api/docs/{camara}/{group}/{commission_name}")
+def list_docs(camara: str, group: str, commission_name: str, sesion_fecha: str = "", scope: str = ""):
+    """
+    Lista documentos de una comisión.
+    Filtros opcionales:
+      sesion_fecha = "12-11-2024"  → solo docs de esa sesión
+      scope        = "sesion" | "comision"
+    """
+    meta = load_docs_meta(camara, group, commission_name)
+    if sesion_fecha:
+        meta = [d for d in meta if d.get("sesion_fecha") == sesion_fecha]
+    if scope:
+        meta = [d for d in meta if d.get("scope") == scope]
+    # Ordenar: más recientes primero
+    meta.sort(key=lambda x: x.get("uploaded_at", ""), reverse=True)
+    return {"success": True, "docs": meta, "total": len(meta)}
+
+
+# ── POST: subir documento ───────────────────────────────────
+@app.post("/api/docs/{camara}/{group}/{commission_name}/upload")
+async def upload_doc(
+    camara: str, group: str, commission_name: str,
+    file: UploadFile = File(...),
+    sesion_fecha: str = "",
+    scope: str = "sesion",
+    tipo: str = "otro",
+    title: str = "",
+    notas: str = "",
+):
+    """Sube un archivo y lo registra en docs_meta.json."""
+    d = docs_dir(camara, group, commission_name)
+
+    # Nombre único en disco
+    ext = os.path.splitext(file.filename or "doc")[-1].lower() or ".bin"
+    doc_id = str(uuid.uuid4())[:8]
+    safe_date = sesion_fecha.replace("/", "-").replace(" ", "_")
+    stored_name = f"{safe_date}_{doc_id}{ext}" if safe_date else f"{doc_id}{ext}"
+    dest = os.path.join(d, stored_name)
+
+    raw = await file.read()
+    with open(dest, "wb") as f_out:
+        f_out.write(raw)
+
+    meta = load_docs_meta(camara, group, commission_name)
+    entry = {
+        "id":           doc_id,
+        "filename":     stored_name,
+        "original_name": file.filename or stored_name,
+        "title":        title or file.filename or stored_name,
+        "tipo":         tipo,
+        "sesion_fecha": sesion_fecha,
+        "scope":        scope,
+        "source":       "manual",
+        "url":          "",
+        "notas":        notas,
+        "size_bytes":   len(raw),
+        "uploaded_at":  datetime.utcnow().isoformat() + "Z",
+    }
+    meta.append(entry)
+    save_docs_meta(camara, group, commission_name, meta)
+
+    return {"success": True, "doc": entry}
+
+
+# ── POST: registrar URL externa (scraping / link) ──────────
+@app.post("/api/docs/{camara}/{group}/{commission_name}/link")
+def add_doc_link(
+    camara: str, group: str, commission_name: str,
+    payload: dict = Body(...),
+):
+    """
+    Registra un documento externo por URL (sin subir archivo).
+    payload: { url, title, tipo, sesion_fecha, scope, notas, source }
+    """
+    meta = load_docs_meta(camara, group, commission_name)
+    doc_id = str(uuid.uuid4())[:8]
+    entry = {
+        "id":           doc_id,
+        "filename":     "",
+        "original_name": payload.get("title", ""),
+        "title":        payload.get("title", "Documento externo"),
+        "tipo":         payload.get("tipo", "otro"),
+        "sesion_fecha": payload.get("sesion_fecha", ""),
+        "scope":        payload.get("scope", "sesion"),
+        "source":       payload.get("source", "manual"),
+        "url":          payload.get("url", ""),
+        "notas":        payload.get("notas", ""),
+        "size_bytes":   0,
+        "uploaded_at":  datetime.utcnow().isoformat() + "Z",
+    }
+    meta.append(entry)
+    save_docs_meta(camara, group, commission_name, meta)
+    return {"success": True, "doc": entry}
+
+
+# ── DELETE: eliminar documento ──────────────────────────────
+@app.delete("/api/docs/{camara}/{group}/{commission_name}/{doc_id}")
+def delete_doc(camara: str, group: str, commission_name: str, doc_id: str):
+    meta = load_docs_meta(camara, group, commission_name)
+    entry = next((d for d in meta if d["id"] == doc_id), None)
+    if not entry:
+        return {"success": False, "error": "Documento no encontrado"}
+
+    # Eliminar archivo físico si existe
+    if entry.get("filename"):
+        fpath = os.path.join(docs_dir(camara, group, commission_name), entry["filename"])
+        if os.path.exists(fpath):
+            os.remove(fpath)
+
+    meta = [d for d in meta if d["id"] != doc_id]
+    save_docs_meta(camara, group, commission_name, meta)
+    return {"success": True}
+
+
+# ── GET: servir archivo subido ──────────────────────────────
+@app.get("/api/docs/{camara}/{group}/{commission_name}/file/{filename}")
+def serve_doc_file(camara: str, group: str, commission_name: str, filename: str):
+    d    = docs_dir(camara, group, commission_name)
+    path = os.path.join(d, filename)
+    if not os.path.isfile(path):
+        return {"error": "Archivo no encontrado"}
+    mime = mimetypes.guess_type(path)[0] or "application/octet-stream"
+    return FileResponse(path, media_type=mime, filename=filename)
 
 @app.get("/api/news")
 def news(source: str = "diario_oficial", q: str = ""):
