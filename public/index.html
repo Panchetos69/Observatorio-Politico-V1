@@ -873,6 +873,7 @@
     $("commissionTitle").innerHTML = name + camaraBadge;
     $("commissionSubtitle").textContent = "Cargando sesiones...";
     $("commissionMeta").textContent = group;
+    window._currentCommissionData = c;          // ← nueva
     $("commissionDetail").innerHTML = `<div class="text-sm text-gray-500">Cargando...</div>`;
 
     try {
@@ -899,33 +900,79 @@
   function renderCommissionYears(c) {
     return c.years.map(year => {
       const sessions = c.sessions_by_year[year] || [];
-      const rows = sessions.slice(0, 40).map(s => renderSessionRow(s)).join("");
-      return `
-        <div class="bg-white rounded-xl border border-gray-200 p-4">
-          <div class="flex items-center justify-between mb-3">
-            <div class="text-lg font-bold text-gray-900">${year}</div>
-            <div class="text-xs text-gray-500">${sessions.length} sesiones</div>
-          </div>
-          <div class="overflow-x-auto">
-            <table class="w-full text-sm">
-              <thead class="text-gray-500 border-b border-gray-200">
-                <tr>
-                  <th class="text-left py-2 px-2">Fecha</th>
-                  <th class="text-left py-2 px-2">Estado</th>
-                  <th class="text-left py-2 px-2">Documentos</th>
-                  <th class="text-center py-2 px-2">Transcripción</th>
-                  ${currentComCamara === "senado" ? '<th class="text-center py-2 px-2">Video</th>' : ""}
-                </tr>
-              </thead>
-              <tbody>
-                ${rows}
-              </tbody>
-            </table>
-            ${sessions.length > 40 ? `<div class="text-xs text-gray-500 mt-2">Mostrando 40 de ${sessions.length}.</div>` : ""}
-          </div>
-        </div>
-      `;
+
+      if (!sessions.length) {
+        return `
+          <div class="bg-white rounded-xl border border-gray-200 p-4">
+            <div class="flex items-center justify-between mb-3">
+              <div class="text-lg font-bold text-gray-900">${year}</div>
+              <div class="text-xs text-gray-500">0 sesiones</div>
+            </div>
+            <div class="text-sm text-gray-400">Sin sesiones registradas.</div>
+          </div>`;
+      }
+
+      return renderYearBlock(year, sessions, 40);
     }).join("");
+  }
+
+  // Renderiza el bloque de un año con paginación.
+  // pageSize=null → muestra todo; pageSize=N → muestra N con botón "Ver más"
+  function renderYearBlock(year, sessions, pageSize) {
+    const total   = sessions.length;
+    const showing = pageSize === null ? sessions : sessions.slice(0, pageSize);
+    const hasMore = pageSize !== null && total > pageSize;
+    const rest    = total - showing.length;
+
+    const rows = showing.map(s => renderSessionRow(s)).join("");
+
+    const verMasBtn = hasMore ? `
+      <div class="mt-3 text-center">
+        <button
+          onclick="showAllYearSessions('${year}')"
+          class="inline-flex items-center gap-2 px-5 py-2 rounded-xl border border-gray-300 bg-white
+                 hover:border-purple-400 hover:text-purple-700 text-sm font-semibold text-gray-600
+                 transition shadow-sm">
+          ↓ Ver ${rest} sesión${rest !== 1 ? 'es' : ''} más
+          <span class="text-xs bg-gray-100 px-2 py-0.5 rounded-full">${total} total</span>
+        </button>
+      </div>` : ``;
+
+    return `
+      <div class="bg-white rounded-xl border border-gray-200 p-4" id="year-block-${year}">
+        <div class="flex items-center justify-between mb-3">
+          <div class="text-lg font-bold text-gray-900">${year}</div>
+          <div class="text-xs text-gray-500">${total} sesiones</div>
+        </div>
+        <div class="overflow-x-auto" id="year-table-${year}">
+          <table class="w-full text-sm">
+            <thead class="text-gray-500 border-b border-gray-200">
+              <tr>
+                <th class="text-left py-2 px-2">Fecha</th>
+                <th class="text-left py-2 px-2">Estado</th>
+                <th class="text-left py-2 px-2">Documentos</th>
+                <th class="text-center py-2 px-2">Transcripción</th>
+                ${currentComCamara === "senado" ? '<th class="text-center py-2 px-2">Video</th>' : ""}
+              </tr>
+            </thead>
+            <tbody id="year-tbody-${year}">${rows}</tbody>
+          </table>
+        </div>
+        <div id="year-more-${year}">${verMasBtn}</div>
+      </div>`;
+  }
+
+  // Expande un año mostrando TODAS las sesiones (sin fetch adicional)
+  function showAllYearSessions(year) {
+    if (!window._currentCommissionData) return;
+    const sessions = window._currentCommissionData.sessions_by_year[year] || [];
+    if (!sessions.length) return;
+
+    // Reemplazar solo tbody + botón, manteniendo el header intacto
+    const tbody = document.getElementById(`year-tbody-${year}`);
+    const more  = document.getElementById(`year-more-${year}`);
+    if (tbody) tbody.innerHTML = sessions.map(s => renderSessionRow(s)).join("");
+    if (more)  more.innerHTML  = `<div class="mt-2 text-xs text-gray-400 text-right">${sessions.length} sesiones · todas visibles</div>`;
   }
 
   function renderSessionRow(s) {
