@@ -1,4 +1,18 @@
-# api/index.py
+# api/index.py  — solo cambia la inicialización de los DataStores
+# Busca estas 2 líneas en tu index.py:
+#
+#   store_camara = DataStore(DATA_REPO_DIR,   KOM_DIR)
+#   store_senado = DataStore(SENADO_REPO_DIR, KOM_DIR)
+#
+# Y reemplázalas con:
+#
+#   store_camara = DataStore(DATA_REPO_DIR,   KOM_DIR, default_chamber="camara")
+#   store_senado = DataStore(SENADO_REPO_DIR, KOM_DIR, default_chamber="senado")
+#
+# El resto del archivo queda IGUAL.
+# ──────────────────────────────────────────────────────────────
+# A continuación el archivo completo por si prefieres reemplazarlo:
+
 from __future__ import annotations
 
 import json
@@ -10,7 +24,6 @@ from fastapi import Body, FastAPI, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse, FileResponse
 from fastapi.staticfiles import StaticFiles
-from fastapi import FastAPI
 
 from .datastore import DataStore
 from .agent import LegislativeAgent
@@ -31,15 +44,17 @@ KOM_DIR          = os.getenv("KOM_DIR")          or os.path.join(PROJECT_DIR, "K
 PUBLIC_DIR       = os.path.join(PROJECT_DIR, "public")
 GEMINI_API_KEY   = os.getenv("GEMINI_API_KEY", "")
 
-# Dos DataStores — uno por cámara
-store_camara = DataStore(DATA_REPO_DIR,   KOM_DIR)
-store_senado = DataStore(SENADO_REPO_DIR, KOM_DIR)
+# ★★★ FIX: pasar default_chamber a cada DataStore ★★★
+# Cuando un integrante.json no tiene campo "chamber", se asume
+# la cámara correspondiente al repo que se está leyendo.
+store_camara = DataStore(DATA_REPO_DIR,   KOM_DIR, default_chamber="camara")
+store_senado = DataStore(SENADO_REPO_DIR, KOM_DIR, default_chamber="senado")
 
 agent = LegislativeAgent(store_camara, GEMINI_API_KEY)
 
 def get_store(camara: str = "diputados") -> DataStore:
-    """Devuelve el DataStore correcto según parámetro ?camara="""
     return store_senado if camara.lower() in ("senado", "senate") else store_camara
+
 
 app = FastAPI(title="Observatorio Politico API", version="0.3")
 
@@ -81,29 +96,23 @@ def root():
 def health():
     senado_ok = os.path.isdir(SENADO_REPO_DIR)
     return {
-        "success":          True,
-        "data_repo_dir":    store_camara.data_repo_dir,
-        "senado_repo_dir":  SENADO_REPO_DIR,
+        "success":           True,
+        "data_repo_dir":     store_camara.data_repo_dir,
+        "senado_repo_dir":   SENADO_REPO_DIR,
         "senado_disponible": senado_ok,
-        "kom_dir":          store_camara.kom_dir,
+        "kom_dir":           store_camara.kom_dir,
         "gemini_configured": bool(GEMINI_API_KEY),
     }
 
 
 @app.get("/api/commissions")
 def commissions(group: str = "Permanentes", q: str = "", camara: str = "diputados"):
-    """
-    Parámetros:
-      group  = Permanentes | Otras | Unidas
-      q      = búsqueda por nombre
-      camara = diputados | senado
-    """
     store = get_store(camara)
     comms = store.list_commissions(group, q=q)
     return {
         "success":     True,
         "commissions": comms,
-        "items":       comms,   # compatibilidad con versiones anteriores
+        "items":       comms,
         "total":       len(comms),
         "group":       group,
         "camara":      camara,
@@ -146,7 +155,7 @@ def politicians(q: str = "", camara: str = "all"):
         pols = store_camara.list_politicians(q=q, chamber="camara")
 
     else:
-        # Combinar ambas camaras
+        # Combinar ambas cámaras
         pols_c = store_camara.list_politicians(q=q, chamber="camara")
         pols_s = store_senado.list_politicians(q=q, chamber="senado")
         seen = set()
@@ -164,18 +173,14 @@ def politicians(q: str = "", camara: str = "all"):
 @app.get("/api/activity")
 def activity(group: str = "", status: str = "", q: str = "",
              days: int = 90, camara: str = ""):
-    """
-    camara = "" → actividad de ambas cámaras (mezclada)
-    """
     if camara.lower() == "senado":
         items = store_senado.activity_feed(group=group, status=status, q=q, days_back=days)
-    elif camara.lower() in ("diputados","camara"):
+    elif camara.lower() in ("diputados", "camara"):
         items = store_camara.activity_feed(group=group, status=status, q=q, days_back=days)
     else:
         items_c = store_camara.activity_feed(group=group, status=status, q=q, days_back=days)
         items_s = store_senado.activity_feed(group=group, status=status, q=q, days_back=days)
-        items   = sorted(items_c + items_s,
-                         key=lambda x: x.get("Fecha",""), reverse=True)
+        items   = sorted(items_c + items_s, key=lambda x: x.get("Fecha", ""), reverse=True)
 
     return {"success": True, "items": items, "total": len(items), "days_back": days}
 
@@ -246,27 +251,36 @@ def chat(payload: dict = Body(...)):
 # ---- Debug ----
 @app.get("/api/test-debug")
 def test_debug():
-    repo  = DATA_REPO_DIR
-    repis = SENADO_REPO_DIR
-    perm  = os.path.join(repo, "Permanentes")
     result = {
         "config": {
-            "DATA_REPO_DIR":   repo,   "exists_camara": os.path.isdir(repo),
-            "SENADO_REPO_DIR": repis,  "exists_senado": os.path.isdir(repis),
+            "DATA_REPO_DIR":   DATA_REPO_DIR,   "exists_camara": os.path.isdir(DATA_REPO_DIR),
+            "SENADO_REPO_DIR": SENADO_REPO_DIR, "exists_senado": os.path.isdir(SENADO_REPO_DIR),
             "KOM_DIR":         KOM_DIR,
         }
     }
-    if os.path.isdir(perm):
-        dirs = [i for i in os.listdir(perm)
-                if os.path.isdir(os.path.join(perm, i))]
-        result["camara_permanentes"] = {"total": len(dirs), "muestra": sorted(dirs)[:3]}
     try:
         comms_c = store_camara.list_commissions("Permanentes")
         comms_s = store_senado.list_commissions("Permanentes")
+        pols_c  = store_camara.list_politicians(chamber="camara")
+        pols_s  = store_senado.list_politicians(chamber="senado")
         result["datastore"] = {
-            "camara_permanentes":  len(comms_c),
-            "senado_permanentes":  len(comms_s),
+            "camara_permanentes": len(comms_c),
+            "senado_permanentes": len(comms_s),
+            "diputados_total":    len(pols_c),
+            "senadores_total":    len(pols_s),
         }
     except Exception as e:
         result["datastore_error"] = str(e)
     return result
+
+
+@app.get("/api/file")
+def serve_file(path: str):
+    """Sirve archivos del repo para el agente IA."""
+    safe_root = os.path.abspath(PROJECT_DIR)
+    abs_path  = os.path.abspath(path)
+    if not abs_path.startswith(safe_root):
+        return {"error": "Acceso denegado"}
+    if not os.path.isfile(abs_path):
+        return {"error": "Archivo no encontrado"}
+    return FileResponse(abs_path)

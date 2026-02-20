@@ -54,396 +54,149 @@ def _score(query: str, text: str) -> int:
 
 
 class DataStore:
-    def __init__(self, data_repo_dir: str, kom_dir: str):
-        self.data_repo_dir = os.path.abspath(data_repo_dir)
-        self.kom_dir = os.path.abspath(kom_dir)
-        
+    def __init__(self, data_repo_dir: str, kom_dir: str, default_chamber: str = "camara"):
+        """
+        default_chamber: cámara que se asume cuando un integrante.json
+                         no tiene el campo 'chamber' o 'camara'.
+                         - "camara"  → para store_camara (REPO_V40...)
+                         - "senado"  → para store_senado (REPO_SENADO)
+        """
+        self.data_repo_dir    = os.path.abspath(data_repo_dir)
+        self.kom_dir          = os.path.abspath(kom_dir)
+        self.default_chamber  = default_chamber.strip().lower()
+
         print(f"[DataStore] Initialized")
-        print(f"  data_repo_dir: {self.data_repo_dir}")
-        print(f"  kom_dir: {self.kom_dir}")
-    
+        print(f"  data_repo_dir:   {self.data_repo_dir}")
+        print(f"  kom_dir:         {self.kom_dir}")
+        print(f"  default_chamber: {self.default_chamber}")
+
     # -----------------------------
-    # KOM Profile (Perfil de Congresistas)
+    # Paths helpers
+    # -----------------------------
+    def integrantes_path(self, group: str, commission_name: str) -> str:
+        return os.path.join(self.data_repo_dir, group, commission_name, "integrantes.json")
+
+    def historial_path(self, group: str, commission_name: str) -> str:
+        return os.path.join(self.data_repo_dir, group, commission_name, "historial.csv")
+
+    # -----------------------------
+    # KOM Profile
     # -----------------------------
     def get_kom_profile(self, slug: str) -> Optional[dict]:
-        """Busca un perfil KOM por slug (nombre o ID)"""
         base = self.kom_dir
         if not os.path.isdir(base):
             return None
-
-        slug_n = (slug or "").strip().lower()
-        if not slug_n:
-            return None
-
-        # Buscar en archivos JSON del directorio KOM
-        for p in glob.glob(os.path.join(base, "*.json")):
-            try:
-                with open(p, "r", encoding="utf-8-sig", errors="ignore") as f:
-                    obj = json.load(f)
-                if not isinstance(obj, dict):
-                    continue
-
-                name = (obj.get("nombre") or obj.get("name") or "").strip().lower()
-                pid = str(obj.get("id") or obj.get("pid") or "").strip().lower()
-
-                if slug_n == pid or (name and slug_n in name):
-                    return obj
-            except Exception:
-                continue
-
+        for path in glob.glob(os.path.join(base, "**", "*.json"), recursive=True):
+            if os.path.splitext(os.path.basename(path))[0] == slug:
+                return _safe_read_json(path)
         return None
 
     # -----------------------------
-    # Paths Comisiones
+    # Comisiones
     # -----------------------------
-    def commission_dir(self, group: str, commission_name: str) -> str:
-        return os.path.join(self.data_repo_dir, group, commission_name)
+    def list_commissions(self, group: str = "Permanentes", q: str = "") -> List[dict]:
+        qn = (q or "").strip().lower()
+        group_dir = os.path.join(self.data_repo_dir, group)
+        if not os.path.isdir(group_dir):
+            return []
+        out = []
+        for name in sorted(os.listdir(group_dir)):
+            if qn and qn not in name.lower():
+                continue
+            hist = self.historial_path(group, name)
+            total = 0
+            if os.path.exists(hist):
+                rows = _safe_read_csv_dicts(hist)
+                total = len(rows)
+            out.append({
+                "group":           group,
+                "commission_name": name,
+                "nombre":          name,
+                "total_sessions":  total,
+            })
+        return out
 
-    def historial_path(self, group: str, commission_name: str) -> str:
-        return os.path.join(self.commission_dir(group, commission_name), "historial.csv")
+    def get_commission_sessions(self, group: str, commission_name: str) -> dict:
+        hist_path = self.historial_path(group, commission_name)
+        if not os.path.exists(hist_path):
+            return {"success": False, "error": f"historial.csv no encontrado para {commission_name}"}
 
-    def integrantes_path(self, group: str, commission_name: str) -> str:
-        return os.path.join(self.commission_dir(group, commission_name), "integrantes.json")
+        rows = _safe_read_csv_dicts(hist_path)
+        if not rows:
+            return {"success": True, "commission": {
+                "group": group, "commission_name": commission_name,
+                "years": [], "sessions_by_year": {},
+            }}
+
+        # Detectar si hay transcripts
+        transcripts_dir = os.path.join(self.data_repo_dir, group, commission_name, "transcripts")
+        txt_dir         = os.path.join(self.data_repo_dir, group, commission_name, "txt")
+        transcript_ids  = set()
+        for d in [transcripts_dir, txt_dir]:
+            if os.path.isdir(d):
+                for f in os.listdir(d):
+                    if f.endswith(".txt"):
+                        transcript_ids.add(os.path.splitext(f)[0])
+
+        by_year: Dict[str, list] = {}
+        for row in rows:
+            fecha = (row.get("Fecha") or row.get("fecha") or "").strip()
+            year  = fecha.split("-")[-1] if fecha else "Sin año"
+            if len(year) != 4:
+                # intentar extraer año de otro formato
+                parts = fecha.replace("/", "-").split("-")
+                year = next((p for p in parts if len(p) == 4), "Sin año")
+            sid = (row.get("ID") or row.get("id") or row.get("Id") or "").strip()
+            row["transcript"] = bool(sid and sid in transcript_ids)
+            by_year.setdefault(year, []).append(row)
+
+        years = sorted(by_year.keys(), reverse=True)
+        return {
+            "success": True,
+            "commission": {
+                "group":            group,
+                "commission_name":  commission_name,
+                "years":            years,
+                "sessions_by_year": by_year,
+            },
+        }
 
     def find_transcript_path(self, group: str, commission_name: str, sid: str) -> Optional[str]:
-        base = self.commission_dir(group, commission_name)
-        candidates = [
-            os.path.join(base, "transcripts", f"{sid}.txt"),
-            os.path.join(base, "txt", f"{sid}.txt"),
-        ]
-        for p in candidates:
+        for sub in ["transcripts", "txt"]:
+            p = os.path.join(self.data_repo_dir, group, commission_name, sub, f"{sid}.txt")
             if os.path.exists(p):
                 return p
         return None
 
     # -----------------------------
-    # Listados Comisiones / Sesiones
-    # -----------------------------
-    def list_commissions(self, group: str, q: str = "") -> List[dict]:
-        group_dir = os.path.join(self.data_repo_dir, group)
-        if not os.path.isdir(group_dir):
-            return []
-
-        qn = (q or "").strip().lower()
-        out: List[dict] = []
-        
-        # Listamos carpetas y aseguramos que existe
-        try:
-            items = sorted(os.listdir(group_dir))
-        except Exception:
-            return []
-
-        for name in items:
-            full = os.path.join(group_dir, name)
-            if not os.path.isdir(full):
-                continue
-            if qn and qn not in name.lower():
-                continue
-
-            rows = _safe_read_csv_dicts(os.path.join(full, "historial.csv"))
-            out.append(
-                {
-                    "commission_name": name,
-                    "nombre": name,
-                    "group": group,
-                    "total_sessions": len(rows),
-                }
-            )
-        return out
-
-    def get_commission_sessions(self, group: str, commission_name: str) -> dict:
-        hist_path = self.historial_path(group, commission_name)
-
-        if not os.path.exists(hist_path):
-            return {"success": False, "error": "No se encontró historial.csv"}
-
-        rows = _safe_read_csv_dicts(hist_path)
-
-        sessions: List[dict] = []
-        years_set = set()
-
-        # --- FIX IMPORTANTE: Asegurar que el año actual (2026) exista ---
-        # Esto evita que la web falle si no hay sesiones registradas este año aún.
-        try:
-            years_set.add(datetime.now().year)
-        except:
-            pass # Si falla datetime por alguna razón, seguimos
-        # ----------------------------------------------------------------
-
-        for r in rows:
-            año_raw = (r.get("Año") or r.get("año") or r.get("Ano") or r.get("ano") or "").strip()
-            mes = (r.get("Mes") or r.get("mes") or "").strip()
-            sid = (r.get("ID") or r.get("Id") or r.get("id") or "").strip()
-            fecha = (r.get("Fecha") or r.get("fecha") or "").strip()
-            estado = (r.get("Estado") or r.get("estado") or "").strip()
-            citacion = (r.get("Citacion") or r.get("Citación") or r.get("citacion") or "").strip()
-            acta = (r.get("Acta") or r.get("acta") or "").strip()
-            cuenta = (r.get("Cuenta") or r.get("cuenta") or "").strip()
-
-            year: Optional[int] = None
-            if año_raw and str(año_raw).strip().isdigit():
-                year = int(str(año_raw).strip())
-
-            if year is None and fecha:
-                parts = fecha.replace(",", " ").split()
-                for part in parts:
-                    if part.isdigit() and len(part) == 4:
-                        year = int(part)
-                        break
-
-            if year is not None:
-                years_set.add(year)
-
-            if sid or fecha:
-                sessions.append(
-                    {
-                        "ID": sid,
-                        "Año": str(year) if year is not None else año_raw,
-                        "anio": year,
-                        "Mes": mes,
-                        "Fecha": fecha,
-                        "Estado": estado,
-                        "Citacion": citacion,
-                        "Acta": acta,
-                        "Cuenta": cuenta,
-                        "transcript": bool(sid and self.find_transcript_path(group, commission_name, sid)),
-                    }
-                )
-
-        years = sorted(years_set, reverse=True)
-        # Usamos la clave como string para compatibilidad con JSON
-        by_year: Dict[str, List[dict]] = {str(y): [] for y in years}
-
-        for s in sessions:
-            y = s.get("anio")
-            # Intentamos insertar usando el entero convertido a string
-            if isinstance(y, int) and str(y) in by_year:
-                by_year[str(y)].append(s)
-            else:
-                # Fallback por si el año vino como texto
-                y2 = (s.get("Año") or "").strip()
-                if y2.isdigit() and y2 in by_year:
-                    by_year[y2].append(s)
-
-        return {
-            "success": True,
-            "commission": {
-                "group": group,
-                "commission_name": commission_name,
-                "meta": {"nombre": commission_name},
-                "years": years,
-                "sessions_by_year": by_year,
-            },
-        }
-    
-    # -----------------------------
-    # Noticias - CON LOGGING DETALLADO
-    # -----------------------------
-    def news_feed(self, source: str, q: str = "", limit: int = 200) -> List[Dict]:
-        """
-        Lee noticias desde DIARIO_OFICIAL_EXPORT
-        Retorna lista de diccionarios con las noticias
-        """
-        print(f"\n[news_feed] === INICIO ===")
-        print(f"[news_feed] source={source}, q='{q}', limit={limit}")
-        
-        qn = (q or "").strip().lower()
-
-        if source != "diario_oficial":
-            print(f"[news_feed] Source '{source}' no soportado, retornando vacío")
-            if source == "camara_senado":
-                return []
-            return []
-
-        # Calcular ruta a DIARIO_OFICIAL_EXPORT
-        project_dir = os.path.abspath(os.path.join(self.kom_dir, ".."))
-        diario_dir = os.path.join(project_dir, "DIARIO_OFICIAL_EXPORT")
-        
-        print(f"[news_feed] kom_dir: {self.kom_dir}")
-        print(f"[news_feed] project_dir: {project_dir}")
-        print(f"[news_feed] diario_dir: {diario_dir}")
-        print(f"[news_feed] Directory exists: {os.path.isdir(diario_dir)}")
-        
-        if not os.path.isdir(diario_dir):
-            print(f"[news_feed] ❌ Directorio no encontrado!")
-            print(f"[news_feed] Verificar que exista: {diario_dir}")
-            return []
-
-        # Listar archivos en el directorio
-        try:
-            all_files = os.listdir(diario_dir)
-            print(f"[news_feed] Archivos en directorio ({len(all_files)}):")
-            for f in all_files:
-                print(f"  - {f}")
-        except Exception as e:
-            print(f"[news_feed] ❌ Error listando directorio: {e}")
-            return []
-
-        # Buscar archivos JSON (excluyendo logs)
-        json_candidates = [
-            p for p in glob.glob(os.path.join(diario_dir, "*.json"))
-            if "log" not in os.path.basename(p).lower()
-        ]
-        csv_candidates = glob.glob(os.path.join(diario_dir, "*.csv"))
-
-        print(f"[news_feed] JSON candidates: {len(json_candidates)}")
-        for jf in json_candidates:
-            print(f"  - {os.path.basename(jf)}")
-        
-        print(f"[news_feed] CSV candidates: {len(csv_candidates)}")
-        for cf in csv_candidates:
-            print(f"  - {os.path.basename(cf)}")
-
-        candidates = json_candidates if json_candidates else csv_candidates
-        if not candidates:
-            print(f"[news_feed] ❌ No se encontraron archivos JSON/CSV válidos")
-            return []
-
-        # Seleccionar el archivo más reciente
-        path = max(candidates, key=lambda p: os.path.getmtime(p))
-        print(f"[news_feed] ✓ Archivo seleccionado: {os.path.basename(path)}")
-        print(f"[news_feed]   Tamaño: {os.path.getsize(path):,} bytes")
-
-        raw: List[dict] = []
-
-        # Leer archivo JSON
-        if path.lower().endswith(".json"):
-            print(f"[news_feed] Leyendo como JSON...")
-            try:
-                with open(path, "r", encoding="utf-8-sig", errors="ignore") as f:
-                    content = f.read().strip()
-
-                print(f"[news_feed] Contenido leído: {len(content)} caracteres")
-
-                if content.startswith("["):
-                    print(f"[news_feed] Formato: JSON Array")
-                    data = json.loads(content)
-                    if isinstance(data, list):
-                        raw = [x for x in data if isinstance(x, dict)]
-                        print(f"[news_feed] ✓ Parseado como array: {len(raw)} items")
-                else:
-                    print(f"[news_feed] Formato: JSONL (línea por línea)")
-                    lines = content.splitlines()
-                    print(f"[news_feed] Total líneas: {len(lines)}")
-                    
-                    for i, line in enumerate(lines, 1):
-                        line = line.strip()
-                        if not line:
-                            continue
-                        try:
-                            obj = json.loads(line)
-                            if isinstance(obj, dict):
-                                raw.append(obj)
-                        except Exception as e:
-                            print(f"[news_feed] ⚠️  Error en línea {i}: {e}")
-                            continue
-                    
-                    print(f"[news_feed] ✓ Parseado {len(raw)} objetos de {len(lines)} líneas")
-                    
-            except Exception as e:
-                print(f"[news_feed] ❌ Error leyendo JSON {path}: {e}")
-                import traceback
-                traceback.print_exc()
-                return []
-
-        # Leer archivo CSV
-        elif path.lower().endswith(".csv"):
-            print(f"[news_feed] Leyendo como CSV...")
-            raw = _safe_read_csv_dicts(path)
-            print(f"[news_feed] ✓ Leído CSV: {len(raw)} filas")
-
-        if not raw:
-            print(f"[news_feed] ❌ No se pudieron parsear datos del archivo")
-            return []
-
-        # Mostrar muestra de datos
-        if raw:
-            print(f"[news_feed] Muestra del primer item:")
-            sample = raw[0]
-            for key in list(sample.keys())[:10]:
-                value = str(sample.get(key, ""))[:80]
-                print(f"  {key}: {value}")
-            
-            # Mostrar todas las claves disponibles
-            all_keys = set()
-            for item in raw:
-                all_keys.update(item.keys())
-            print(f"[news_feed] Claves disponibles: {', '.join(sorted(all_keys))}")
-
-        # Procesar y filtrar items
-        out: List[Dict] = []
-        for it in raw:
-            titulo = (it.get("titulo") or it.get("title") or it.get("Título") or it.get("Titulo") or "").strip()
-            fecha = (it.get("fecha") or it.get("date") or it.get("Fecha") or "").strip()
-
-            pdf_url = (it.get("pdf_url") or it.get("url") or it.get("link") or it.get("pdf") or "").strip()
-            edicion_url = (it.get("edicion_url") or it.get("edition_url") or it.get("edicion") or "").strip()
-
-            cve = (it.get("cve") or it.get("CVE") or "").strip()
-            edition = (it.get("edition") or it.get("edicion_num") or it.get("Edition") or "").strip()
-            tab = (it.get("tab") or it.get("Tab") or "").strip()
-
-            # Filtrar por query
-            hay = f"{titulo} {tab} {cve}".lower()
-            if qn and qn not in hay:
-                continue
-
-            out.append(
-                {
-                    "titulo": titulo,
-                    "title": titulo,
-                    "fecha": fecha,
-                    "date": fecha,
-                    "url": pdf_url,
-                    "pdf_url": pdf_url,
-                    "edicion_url": edicion_url,
-                    "cve": cve,
-                    "edition": edition,
-                    "tab": tab,
-                    "source": "diario_oficial",
-                }
-            )
-
-        print(f"[news_feed] Items después de filtrar: {len(out)}")
-
-        # Ordenar por fecha (más reciente primero)
-        def key_dt(x: Dict) -> tuple:
-            f = (x.get("fecha") or "").strip()
-            try:
-                d, m, y = f.split("-")
-                return (int(y), int(m), int(d))
-            except Exception:
-                return (0, 0, 0)
-
-        out.sort(key=key_dt, reverse=True)
-        
-        final_count = min(len(out), limit)
-        print(f"[news_feed] ✓ Retornando {final_count} items (de {len(out)} totales)")
-        print(f"[news_feed] === FIN ===\n")
-        
-        return out[:limit]
-
-    # -----------------------------
-    # Politicos
+    # Políticos  ← FIX PRINCIPAL
     # -----------------------------
     def list_politicians(self, q: str = "", chamber: str = "all") -> List[dict]:
         """
         Devuelve congresistas únicos con sus comisiones.
-        Cada registro incluye:
-          - id, nombre, cargo, chamber, url_ficha
-          - comisiones: lista de {group, commission_name, cargo_en_comision}
-        chamber = "all" | "camara" | "senado" | "diputado"
+
+        FIX: cuando un integrante NO tiene el campo 'chamber'/'camara',
+             se usa self.default_chamber como valor por defecto.
+             - store_camara tiene default_chamber="camara"  → diputados sin campo aparecen como diputados ✓
+             - store_senado  tiene default_chamber="senado" → senadores sin campo aparecen como senadores ✓
         """
         qn = (q or "").strip().lower()
         chamber_filter = (chamber or "all").strip().lower()
-        # Normalizar alias
+
+        # Normalizar aliases
         if chamber_filter in ("camara", "diputado", "diputados"):
             chamber_filter = "camara"
+        elif chamber_filter in ("senate",):
+            chamber_filter = "senado"
 
         out: Dict[str, dict] = {}
 
         if not os.path.isdir(self.data_repo_dir):
+            print(f"[list_politicians] ⚠ data_repo_dir no existe: {self.data_repo_dir}")
             return []
+
+        total_leidos = 0
+        total_pasaron_filtro = 0
 
         for group in ["Permanentes", "Otras", "Unidas"]:
             group_dir = os.path.join(self.data_repo_dir, group)
@@ -458,9 +211,12 @@ class DataStore:
 
                 members = data
                 if isinstance(data, dict):
-                    members = (data.get("integrantes")
-                               or data.get("members")
-                               or data.get("items") or [])
+                    members = (
+                        data.get("integrantes")
+                        or data.get("members")
+                        or data.get("items")
+                        or []
+                    )
                 if not isinstance(members, list):
                     continue
 
@@ -472,10 +228,20 @@ class DataStore:
                     if not nombre:
                         continue
 
-                    member_chamber = (m.get("chamber") or m.get("camara") or "").strip().lower()
-                    # Normalizar "diputado" → "camara"
-                    if member_chamber in ("diputado", "diputados"):
-                        member_chamber = "camara"
+                    total_leidos += 1
+
+                    # ── CAMPO CHAMBER CON FALLBACK ──────────────────────────
+                    raw = (m.get("chamber") or m.get("camara") or "").strip().lower()
+
+                    # Normalizar alias comunes
+                    if raw in ("diputado", "diputados"):
+                        raw = "camara"
+                    elif raw in ("senador", "senadores", "senate"):
+                        raw = "senado"
+
+                    # ← FIX: si está vacío, usar el default de este DataStore
+                    member_chamber = raw if raw else self.default_chamber
+                    # ────────────────────────────────────────────────────────
 
                     # Filtrar por cámara
                     if chamber_filter != "all" and member_chamber != chamber_filter:
@@ -485,8 +251,9 @@ class DataStore:
                     if qn and qn not in nombre.lower():
                         continue
 
+                    total_pasaron_filtro += 1
+
                     pid = str(m.get("id") or m.get("pid") or nombre)
-                    # Clave única: pid + cámara (evita colisión si mismo slug en ambas)
                     key = f"{member_chamber}::{pid}"
 
                     comision_entry = {
@@ -505,7 +272,6 @@ class DataStore:
                             "comisiones": [comision_entry],
                         }
                     else:
-                        # Agregar comisión si no está ya
                         existing = out[key]["comisiones"]
                         already  = any(
                             c["commission_name"] == commission_name
@@ -514,121 +280,165 @@ class DataStore:
                         if not already:
                             existing.append(comision_entry)
 
-        # Ordenar alfabéticamente
-        result = sorted(out.values(), key=lambda x: x["nombre"])
-        return result
+        print(f"[list_politicians] store={self.default_chamber} filter={chamber_filter} "
+              f"leidos={total_leidos} pasaron={total_pasaron_filtro} únicos={len(out)}")
+
+        return sorted(out.values(), key=lambda x: x["nombre"])
 
     # -----------------------------
-    # Actividad - CON FILTRADO POR FECHA
+    # Actividad
     # -----------------------------
-    def activity_feed(self, group: str = "", status: str = "", q: str = "", chamber: str = "", days_back: int = 90) -> List[dict]:
-        """
-        Retorna actividad legislativa reciente
-        """
-        groups = [group] if group else ["Permanentes", "Otras", "Unidas"]
+    def activity_feed(self, group: str = "", status: str = "", q: str = "",
+                      chamber: str = "", days_back: int = 90) -> List[dict]:
+        groups   = [group] if group else ["Permanentes", "Otras", "Unidas"]
         status_n = (status or "").strip().lower()
-        qn = (q or "").strip().lower()
+        qn       = (q or "").strip().lower()
         items: List[dict] = []
-        
-        # Calcular fecha límite (hoy - days_back días)
+
         fecha_limite = datetime.now() - timedelta(days=days_back)
         print(f"[activity_feed] Filtrando desde: {fecha_limite.strftime('%d-%m-%Y')}")
 
         for g in groups:
-            for c in self.list_commissions(g, q=""):
-                cname = c["commission_name"]
-                rows = _safe_read_csv_dicts(self.historial_path(g, cname))
-                for r in rows:
-                    año = (r.get("Año") or r.get("año") or r.get("Ano") or r.get("ano") or "").strip()
-                    mes = (r.get("Mes") or r.get("mes") or "").strip()
-                    sid = (r.get("ID") or r.get("Id") or r.get("id") or "").strip()
-                    fecha = (r.get("Fecha") or r.get("fecha") or "").strip()
-                    estado = (r.get("Estado") or r.get("estado") or "").strip()
-                    citacion = (r.get("Citacion") or r.get("Citación") or r.get("citacion") or "").strip()
-
-                    # Filtrar por estado
+            gdir = os.path.join(self.data_repo_dir, g)
+            if not os.path.isdir(gdir):
+                continue
+            for commission_name in sorted(os.listdir(gdir)):
+                hist = self.historial_path(g, commission_name)
+                if not os.path.exists(hist):
+                    continue
+                rows = _safe_read_csv_dicts(hist)
+                for row in rows:
+                    estado = (row.get("Estado") or row.get("estado") or "").strip().upper()
                     if status_n and status_n not in estado.lower():
                         continue
-                    
-                    # Filtrar por nombre de comisión
-                    if qn and qn not in cname.lower():
-                        continue
-
-                    # Parsear fecha y filtrar por fecha límite
-                    fecha_obj = None
+                    fecha = (row.get("Fecha") or row.get("fecha") or "").strip()
                     if fecha:
-                        # Intentar varios formatos de fecha
-                        for fmt in ["%d-%m-%Y", "%d/%m/%Y", "%Y-%m-%d", "%d de %B de %Y"]:
-                            try:
-                                fecha_limpia = fecha.replace("de ", "")
-                                fecha_obj = datetime.strptime(fecha_limpia, fmt)
-                                break
-                            except ValueError:
+                        try:
+                            d, m_n, y = fecha.split("-")
+                            fecha_dt = datetime(int(y), int(m_n), int(d))
+                            if fecha_dt < fecha_limite:
                                 continue
-                        
-                        # Si no se pudo parsear la fecha, intentar extraer el año
-                        if not fecha_obj:
-                            year_match = re.search(r'\b(20\d{2})\b', fecha)
-                            if year_match:
-                                year = int(year_match.group(1))
-                                if year < fecha_limite.year:
-                                    continue
-                    
-                    # Si pudimos parsear la fecha, verificar que sea reciente
-                    if fecha_obj and fecha_obj < fecha_limite:
+                        except Exception:
+                            pass
+                    titulo = (row.get("Nombre") or row.get("nombre")
+                              or row.get("Comision") or commission_name or "").strip()
+                    if qn and qn not in titulo.lower() and qn not in commission_name.lower():
                         continue
+                    items.append({
+                        **row,
+                        "commission": commission_name,
+                        "group": g,
+                        "chamber": self.default_chamber,
+                    })
 
-                    items.append(
-                        {
-                            "group": g,
-                            "commission": cname,
-                            "commission_name": cname,
-                            "Año": año,
-                            "Mes": mes,
-                            "ID": sid,
-                            "session_id": sid,
-                            "Fecha": fecha,
-                            "fecha": fecha,
-                            "Estado": estado,
-                            "estado": estado,
-                            "citacion": citacion,
-                            "_fecha_obj": fecha_obj,  # Para ordenar
-                        }
-                    )
-
-        # Ordenar por fecha (más reciente primero)
-        def sort_key(x):
-            if x.get("_fecha_obj"):
-                return x["_fecha_obj"]
-            return datetime(1900, 1, 1)
-        
-        items.sort(key=sort_key, reverse=True)
-        
-        # Eliminar el campo temporal _fecha_obj
-        for item in items:
-            item.pop("_fecha_obj", None)
-        
-        print(f"[activity_feed] Retornando {len(items)} items recientes (últimos {days_back} días)")
+        items.sort(key=lambda x: x.get("Fecha", ""), reverse=True)
         return items
 
     # -----------------------------
-    # Búsqueda de texto - MEJORADO
+    # Noticias
     # -----------------------------
-    def search_texts(self, query: str, top_k: int = 10) -> List[dict]:
+    def news_feed(self, source: str, q: str = "", limit: int = 200) -> List[Dict]:
+        print(f"\n[news_feed] === INICIO === source={source}, q='{q}', limit={limit}")
+        qn = (q or "").strip().lower()
+
+        if source != "diario_oficial":
+            return []
+
+        project_dir = os.path.abspath(os.path.join(self.kom_dir, ".."))
+        diario_dir  = os.path.join(project_dir, "DIARIO_OFICIAL_EXPORT")
+
+        print(f"[news_feed] diario_dir: {diario_dir}")
+        print(f"[news_feed] existe: {os.path.isdir(diario_dir)}")
+
+        if not os.path.isdir(diario_dir):
+            return []
+
+        # Buscar el archivo más reciente (JSON o CSV)
+        candidates = (
+            glob.glob(os.path.join(diario_dir, "*.json"))
+            + glob.glob(os.path.join(diario_dir, "*.csv"))
+        )
+        candidates = [c for c in candidates if "log" not in os.path.basename(c).lower()]
+        if not candidates:
+            return []
+
+        latest = max(candidates, key=os.path.getmtime)
+        print(f"[news_feed] leyendo: {os.path.basename(latest)}")
+
         out: List[dict] = []
 
-        # ---------- Comisiones: transcripts/txt + integrantes.json + historial.csv ----------
+        if latest.endswith(".json"):
+            raw = _safe_read_json(latest)
+            items = raw if isinstance(raw, list) else (raw or {}).get("items", [])
+            for it in (items or []):
+                titulo    = (it.get("titulo") or it.get("title") or "").strip()
+                fecha     = (it.get("fecha") or it.get("date") or "").strip()
+                pdf_url   = (it.get("pdf_url") or it.get("url") or "").strip()
+                edicion_url = (it.get("edicion_url") or "").strip()
+                cve       = (it.get("cve") or "").strip()
+                edition   = (it.get("edition") or it.get("edicion") or "").strip()
+                tab       = (it.get("tab") or it.get("Tab") or "").strip()
+                hay = f"{titulo} {tab} {cve}".lower()
+                if qn and qn not in hay:
+                    continue
+                out.append({
+                    "titulo": titulo, "title": titulo,
+                    "fecha": fecha,   "date": fecha,
+                    "url": pdf_url,   "pdf_url": pdf_url,
+                    "edicion_url": edicion_url,
+                    "cve": cve, "edition": edition, "tab": tab,
+                    "source": "diario_oficial",
+                })
+        else:
+            rows = _safe_read_csv_dicts(latest)
+            for row in rows:
+                titulo    = (row.get("titulo") or row.get("title") or "").strip()
+                fecha     = (row.get("fecha") or row.get("date") or "").strip()
+                pdf_url   = (row.get("pdf_url") or row.get("url") or "").strip()
+                edicion_url = (row.get("edicion_url") or "").strip()
+                cve       = (row.get("cve") or "").strip()
+                edition   = (row.get("edition") or "").strip()
+                tab       = (row.get("tab") or "").strip()
+                hay = f"{titulo} {tab} {cve}".lower()
+                if qn and qn not in hay:
+                    continue
+                out.append({
+                    "titulo": titulo, "title": titulo,
+                    "fecha": fecha,   "date": fecha,
+                    "url": pdf_url,   "pdf_url": pdf_url,
+                    "edicion_url": edicion_url,
+                    "cve": cve, "edition": edition, "tab": tab,
+                    "source": "diario_oficial",
+                })
+
+        def key_dt(x: Dict) -> tuple:
+            f = (x.get("fecha") or "").strip()
+            try:
+                d, m_n, y = f.split("-")
+                return (int(y), int(m_n), int(d))
+            except Exception:
+                return (0, 0, 0)
+
+        out.sort(key=key_dt, reverse=True)
+        print(f"[news_feed] retornando {min(len(out), limit)} items")
+        return out[:limit]
+
+    # -----------------------------
+    # Búsqueda de texto
+    # -----------------------------
+    def search_texts(self, query: str, top_k: int = 6) -> List[dict]:
+        out: List[dict] = []
+        if not os.path.isdir(self.data_repo_dir):
+            return out
+
         for group in ["Permanentes", "Otras", "Unidas"]:
-            group_dir = os.path.join(self.data_repo_dir, group)
-            if not os.path.isdir(group_dir):
+            gdir = os.path.join(self.data_repo_dir, group)
+            if not os.path.isdir(gdir):
                 continue
-
-            for commission_name in os.listdir(group_dir):
-                base = self.commission_dir(group, commission_name)
-
-                # transcripts/txt
-                for folder in ["transcripts", "txt"]:
-                    td = os.path.join(base, folder)
+            for commission_name in sorted(os.listdir(gdir)):
+                # transcripts
+                for sub in ["transcripts", "txt"]:
+                    td = os.path.join(gdir, commission_name, sub)
                     if not os.path.isdir(td):
                         continue
                     for p in glob.glob(os.path.join(td, "*.txt")):
@@ -657,20 +467,16 @@ class DataStore:
                         if s > 0:
                             out.append({"file": pc, "score": s, "snippet": text[:1400]})
 
-        # ---------- KOM: perfiles congresistas ----------
-        kom_base = self.kom_dir
-        if os.path.isdir(kom_base):
-            # KOM/*.json
-            for p in glob.glob(os.path.join(kom_base, "*.json")):
+        # KOM profiles
+        if os.path.isdir(self.kom_dir):
+            for p in glob.glob(os.path.join(self.kom_dir, "*.json")):
                 obj = _safe_read_json(p)
                 if obj:
                     text = json.dumps(obj, ensure_ascii=False)
                     s = _score(query, text)
                     if s > 0:
                         out.append({"file": p, "score": s, "snippet": text[:1400]})
-
-            # KOM/profiles/**.json (si existe)
-            for p in glob.glob(os.path.join(kom_base, "profiles", "**", "*.json"), recursive=True):
+            for p in glob.glob(os.path.join(self.kom_dir, "profiles", "**", "*.json"), recursive=True):
                 obj = _safe_read_json(p)
                 if obj:
                     text = json.dumps(obj, ensure_ascii=False)
