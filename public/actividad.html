@@ -8,92 +8,315 @@
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
     body { font-family: 'Inter', sans-serif; }
-    .gradient-text{
-  background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
-  background-clip: text;           /* estándar */
-  -webkit-background-clip: text;   /* Safari/Chrome */
-  color: transparent;              /* estándar */
-  -webkit-text-fill-color: transparent; /* Safari */
-}
-    .card-hover{transition:all .25s ease;} .card-hover:hover{transform:translateY(-3px);box-shadow:0 20px 40px rgba(0,0,0,.08);}
+
+    .gradient-text {
+      background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+      -webkit-text-fill-color: transparent;
+    }
+    .gradient-bg { background: linear-gradient(135deg,#667eea,#764ba2); }
+
+    .card-hover { transition:all .2s ease; }
+    .card-hover:hover { transform:translateY(-2px); box-shadow:0 16px 40px rgba(0,0,0,.07); }
+
+    /* Chips de estado */
+    .estado-chip {
+      display:inline-flex; align-items:center; gap:.3rem;
+      padding:3px 11px; border-radius:999px; font-size:.7rem; font-weight:700;
+      border:1.5px solid transparent; cursor:pointer; transition:all .15s; user-select:none;
+    }
+    .estado-chip.active   { opacity:1; }
+    .estado-chip.inactive { opacity:.5; filter:grayscale(.4); }
+    .estado-chip:hover    { opacity:1; filter:none; }
+
+    /* Botones cámara */
+    .cam-btn {
+      padding:5px 14px; border-radius:999px; font-size:.76rem; font-weight:700;
+      border:2px solid transparent; transition:all .18s; cursor:pointer;
+    }
+    .cam-all       { background:#1f2937; color:#fff; border-color:#1f2937; }
+    .cam-diputados { background:#7c3aed; color:#fff; border-color:#7c3aed; }
+    .cam-senado    { background:#b91c1c; color:#fff; border-color:#b91c1c; }
+    .cam-off       { background:#f3f4f6; color:#6b7280; border-color:#e5e7eb; }
+    .cam-off:hover { border-color:#9ca3af; }
+
+    @keyframes shimmer { 0%{background-position:200%}100%{background-position:-200%} }
+    .skel {
+      border-radius:6px; height:12px;
+      background:linear-gradient(90deg,#f0f0f0 25%,#e4e4e4 50%,#f0f0f0 75%);
+      background-size:200% 100%; animation:shimmer 1.4s infinite;
+    }
   </style>
   <script src="/assets/app.js"></script>
   <script src="/assets/ui.js"></script>
 </head>
-<body class="bg-gray-50">
-  <div class="max-w-6xl mx-auto px-4 py-6">
-    <div class="flex items-center justify-between">
-      <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-bold">OP</div>
-        <div>
-          <div class="text-xl font-extrabold gradient-text">Observatorio Político</div>
-          <div class="text-sm text-gray-500">Actividad Legislativa</div>
-        </div>
-      </div>
-    </div>
+<body class="bg-gray-50 min-h-screen">
+<div class="max-w-6xl mx-auto px-4 py-6">
 
-    <div class="mt-6 flex gap-6 text-sm text-gray-600 border-b border-gray-200 pb-3">
-      <a id="nav-chat" href="/chat.html">💬 Chat IA</a>
-      <a id="nav-congresistas" href="/congresistas.html">👥 Congresistas</a>
-      <a id="nav-comisiones" href="/comisiones.html">📁 Comisiones</a>
-      <a id="nav-actividad" href="/actividad.html">🔔 Actividad Legislativa</a>
-      <a id="nav-carga" href="/carga.html">📚 Carga</a>
-      <a id="nav-noticias" href="/noticias.html">📰 Noticias</a>
-    </div>
-    <script>setActiveNav("nav-actividad");</script>
-
-    <div class="mt-6 bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-      <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center">🔔</div>
-        <div>
-          <h2 class="text-2xl font-extrabold">Alertas Legislativas</h2>
-          <p class="text-gray-500">Derivadas de sesiones en tu data centralizada (CITADA/CELEBRADA/SUSPENDIDA…)</p>
-        </div>
-      </div>
-
-      <div class="mt-5 grid grid-cols-1 md:grid-cols-3 gap-3">
-        <input id="q" class="px-4 py-3 rounded-2xl border border-gray-200" placeholder="Buscar..." />
-        <select id="status" class="px-4 py-3 rounded-2xl border border-gray-200">
-          <option value="">Todos los estados</option>
-          <option value="CITADA">CITADA</option>
-          <option value="CELEBRADA">CELEBRADA</option>
-          <option value="SUSPENDIDA">SUSPENDIDA</option>
-          <option value="FRACASADA">FRACASADA</option>
-          <option value="CELEBRADA">CELEBRADA</option>
-        </select>
-        <button class="px-4 py-3 rounded-2xl bg-purple-600 hover:bg-purple-700 text-white font-bold" onclick="loadFeed()">Filtrar</button>
-      </div>
-
-      <div class="mt-6 text-sm text-gray-500" id="count">Cargando…</div>
-      <div class="mt-4 space-y-3" id="list"></div>
+  <!-- Header -->
+  <div class="flex items-center gap-3">
+    <div class="w-10 h-10 rounded-xl bg-purple-600 flex items-center justify-center text-white font-bold">OP</div>
+    <div>
+      <div class="text-xl font-extrabold gradient-text">Observatorio Político</div>
+      <div class="text-sm text-gray-500">Actividad Legislativa</div>
     </div>
   </div>
 
+  <!-- Nav -->
+  <div class="mt-6 flex gap-6 text-sm text-gray-600 border-b border-gray-200 pb-3 overflow-x-auto whitespace-nowrap">
+    <a id="nav-chat"         href="/chat.html">💬 Chat IA</a>
+    <a id="nav-congresistas" href="/congresistas.html">👥 Congresistas</a>
+    <a id="nav-comisiones"   href="/comisiones.html">📁 Comisiones</a>
+    <a id="nav-actividad"    href="/actividad.html">🔔 Actividad Legislativa</a>
+    <a id="nav-carga"        href="/carga.html">📚 Carga</a>
+    <a id="nav-noticias"     href="/noticias.html">📰 Noticias</a>
+  </div>
+  <script>if(typeof setActiveNav==="function") setActiveNav("nav-actividad");</script>
+
+  <!-- Panel principal -->
+  <div class="mt-6 bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
+
+    <!-- Título -->
+    <div class="flex items-center gap-3 mb-5">
+      <div class="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center text-xl">🔔</div>
+      <div>
+        <h2 class="text-2xl font-extrabold">Alertas Legislativas</h2>
+        <p class="text-sm text-gray-500">Sesiones CITADAS, CELEBRADAS, SUSPENDIDAS… de todas las comisiones</p>
+      </div>
+    </div>
+
+    <!-- Filtros cámara -->
+    <div class="flex items-center gap-2 flex-wrap mb-4">
+      <span class="text-xs font-bold text-gray-400 uppercase tracking-wide mr-1">Cámara:</span>
+      <button id="btn-all"       class="cam-btn cam-all"  onclick="setCamara('')">🏛️ Todas</button>
+      <button id="btn-diputados" class="cam-btn cam-off"  onclick="setCamara('camara')">🟣 Diputados</button>
+      <button id="btn-senado"    class="cam-btn cam-off"  onclick="setCamara('senado')">🔴 Senado</button>
+    </div>
+
+    <!-- Filtros de estado (chips) -->
+    <div class="flex flex-wrap items-center gap-2 mb-4">
+      <span class="text-xs font-bold text-gray-400 uppercase tracking-wide mr-1">Estado:</span>
+      <button class="estado-chip active"   style="background:#f9fafb;color:#374151;border-color:#d1d5db"  data-estado=""          onclick="setEstado('')">Todos</button>
+      <button class="estado-chip inactive" style="background:#eff6ff;color:#1d4ed8;border-color:#93c5fd"  data-estado="CITADA"    onclick="setEstado('CITADA')">↗ Citada</button>
+      <button class="estado-chip inactive" style="background:#f0fdf4;color:#166534;border-color:#86efac"  data-estado="CELEBRADA" onclick="setEstado('CELEBRADA')">✓ Celebrada</button>
+      <button class="estado-chip inactive" style="background:#fffbeb;color:#92400e;border-color:#fcd34d"  data-estado="SUSPENDIDA" onclick="setEstado('SUSPENDIDA')">⏸ Suspendida</button>
+      <button class="estado-chip inactive" style="background:#fef2f2;color:#991b1b;border-color:#fca5a5"  data-estado="FRACASADA" onclick="setEstado('FRACASADA')">✗ Fracasada</button>
+    </div>
+
+    <!-- Búsqueda + días -->
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-5">
+      <input id="q" class="px-4 py-2.5 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none"
+        placeholder="🔍 Buscar comisión…" oninput="debounceLoad()" />
+
+      <select id="days" class="px-4 py-2.5 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none"
+        onchange="loadFeed()">
+        <option value="30">Últimos 30 días</option>
+        <option value="90">Últimos 90 días</option>
+        <option value="180" selected>Últimos 180 días</option>
+        <option value="365">Último año</option>
+        <option value="9999">Todo el historial</option>
+      </select>
+
+      <button class="px-4 py-2.5 rounded-xl gradient-bg text-white font-bold text-sm hover:opacity-90 transition"
+        onclick="loadFeed()">Filtrar</button>
+    </div>
+
+    <!-- Contador -->
+    <div class="text-sm text-gray-500 mb-4" id="count">Cargando…</div>
+
+    <!-- Lista -->
+    <div class="space-y-2" id="list"></div>
+
+    <!-- Paginación / ver más -->
+    <div id="verMas" class="hidden mt-4 text-center">
+      <button onclick="mostrarMas()" class="px-6 py-2.5 rounded-xl border border-gray-300 hover:border-purple-400 text-sm font-semibold text-gray-600 hover:text-purple-700 transition">
+        ↓ Ver más sesiones
+      </button>
+    </div>
+
+  </div>
+</div>
+
 <script>
-  async function loadFeed(){
-    const q = document.getElementById("q").value.trim();
-    const status = document.getElementById("status").value;
-    const data = await apiGet(`/api/activity?chamber=camara&status=${encodeURIComponent(status)}&q=${encodeURIComponent(q)}`);
+// ───────── Estado global ─────────
+const $ = id => document.getElementById(id);
+let camaraActual = "";
+let estadoActual = "";
+let todosItems   = [];
+let mostrados    = 0;
+const PAGE       = 50;
+let _deb;
 
-    document.getElementById("count").textContent = `Total: ${data.total || 0}`;
-    const list = document.getElementById("list");
-    list.innerHTML = "";
+// ───────── Helpers API ─────────
+async function apiGet(url) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error("HTTP " + r.status);
+  return r.json();
+}
+function esc(s) {
+  return String(s||"")
+    .replace(/&/g,"&amp;").replace(/"/g,"&quot;")
+    .replace(/</g,"&lt;").replace(/>/g,"&gt;");
+}
 
-    (data.items || []).slice(0,150).forEach(it=>{
-      const link = it.citacion ? `<a class="text-purple-700 underline" target="_blank" href="${it.citacion}">ver citación</a>` : "";
-      list.innerHTML += `
-        <div class="bg-white rounded-2xl border border-gray-100 p-4 card-hover">
-          <div class="flex items-center justify-between gap-3">
-            <div class="font-extrabold">${it.commission}</div>
-            <div class="text-sm">${badge(it.estado || "-")}</div>
-          </div>
-          <div class="text-sm text-gray-500 mt-1">${it.fecha || ""} • sesión ID ${it.session_id || "-"}</div>
-          <div class="text-sm mt-2">${link}</div>
-        </div>
-      `;
-    });
+// ───────── Badge estados ─────────
+function badge(estado) {
+  const e = (estado || "").toUpperCase();
+  const map = {
+    CITADA:     ["bg-blue-100 text-blue-700",  "↗ Citada"],
+    CELEBRADA:  ["bg-green-100 text-green-700","✓ Celebrada"],
+    SUSPENDIDA: ["bg-amber-100 text-amber-700","⏸ Suspendida"],
+    FRACASADA:  ["bg-red-100 text-red-700",    "✗ Fracasada"],
+  };
+  for (const [k,[cls,label]] of Object.entries(map)) {
+    if (e.includes(k)) {
+      return `<span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-bold ${cls}">${label}</span>`;
+    }
   }
+  return `<span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-bold bg-gray-100 text-gray-500">${esc(estado||"-")}</span>`;
+}
+
+function chamberBadge(ch) {
+  if (!ch) return "";
+  if (ch === "senado") return `<span class="text-xs px-1.5 py-0.5 rounded-full bg-red-50 text-red-600 font-semibold">Senado</span>`;
+  return `<span class="text-xs px-1.5 py-0.5 rounded-full bg-purple-50 text-purple-600 font-semibold">Diputados</span>`;
+}
+
+// ───────── Cámara ─────────
+function setCamara(c) {
+  camaraActual = c;
+  $("btn-all").className       = "cam-btn " + (!c ? "cam-all" : "cam-off");
+  $("btn-diputados").className = "cam-btn " + (c === "camara" ? "cam-diputados" : "cam-off");
+  $("btn-senado").className    = "cam-btn " + (c === "senado" ? "cam-senado"    : "cam-off");
   loadFeed();
+}
+
+// ───────── Estado ─────────
+function setEstado(e) {
+  estadoActual = e;
+  document.querySelectorAll(".estado-chip").forEach(el => {
+    const isActive = (el.dataset.estado || "") === e;
+    el.classList.toggle("active",   isActive);
+    el.classList.toggle("inactive", !isActive);
+  });
+  loadFeed();
+}
+
+// ───────── Debounce búsqueda ─────────
+function debounceLoad() {
+  clearTimeout(_deb);
+  _deb = setTimeout(loadFeed, 320);
+}
+
+// ───────── Carga principal ─────────
+async function loadFeed() {
+  const q    = ($("q").value || "").trim();
+  const days = $("days").value || "180";
+
+  $("count").textContent = "Cargando…";
+  $("list").innerHTML    = skeletonList(6);
+  $("verMas").classList.add("hidden");
+
+  try {
+    const params = new URLSearchParams({
+      status: estadoActual,
+      q:      q,
+      days:   days,
+    });
+    if (camaraActual) params.set("camara", camaraActual);
+
+    const data = await apiGet(`/api/activity?${params}`);
+    todosItems = data.items || [];
+    mostrados  = 0;
+    renderPage(true);
+  } catch(e) {
+    $("count").textContent = "Error cargando datos";
+    $("list").innerHTML = `<div class="text-red-500 text-sm py-6 text-center">❌ ${esc(e.message)}</div>`;
+  }
+}
+
+// ───────── Render paginado ─────────
+function renderPage(reset = false) {
+  if (reset) {
+    $("list").innerHTML = "";
+    mostrados = 0;
+  }
+
+  if (!todosItems.length) {
+    $("count").textContent = "Sin resultados para los filtros seleccionados";
+    $("list").innerHTML = `
+      <div class="flex flex-col items-center py-14 text-gray-300">
+        <div class="text-5xl mb-3">📭</div>
+        <div class="text-base font-semibold text-gray-400">Sin sesiones encontradas</div>
+        <div class="text-sm text-gray-400 mt-1">Prueba ampliar el rango de días o cambiar los filtros</div>
+      </div>`;
+    $("verMas").classList.add("hidden");
+    return;
+  }
+
+  const slice = todosItems.slice(mostrados, mostrados + PAGE);
+  mostrados += slice.length;
+
+  $("count").textContent = `Mostrando ${mostrados} de ${todosItems.length} sesión${todosItems.length !== 1 ? "es" : ""}`;
+
+  const frag = document.createDocumentFragment();
+  slice.forEach(it => {
+    const div = document.createElement("div");
+    div.className = "card-hover bg-white rounded-2xl border border-gray-100 p-4";
+
+    const citLink = (it.citacion && it.citacion.startsWith("http"))
+      ? `<a class="inline-flex items-center gap-1 text-xs text-purple-700 hover:underline font-semibold" target="_blank" href="${esc(it.citacion)}">📎 Ver citación ↗</a>`
+      : "";
+
+    const grpLabel = it.group ? `<span class="text-xs text-gray-400">${esc(it.group)}</span>` : "";
+
+    div.innerHTML = `
+      <div class="flex items-start justify-between gap-3 flex-wrap">
+        <div class="font-extrabold text-gray-900 leading-tight flex-1">${esc(it.commission || it.Comision || "-")}</div>
+        <div class="flex items-center gap-1.5 shrink-0 flex-wrap">
+          ${chamberBadge(it.chamber)}
+          ${badge(it.estado || it.Estado || "-")}
+        </div>
+      </div>
+      <div class="flex flex-wrap items-center gap-2 mt-1.5">
+        ${grpLabel}
+        <span class="text-xs text-gray-500">📅 ${esc(it.fecha || it.Fecha || "—")}</span>
+        ${it.session_id ? `<span class="text-xs text-gray-400">· ID ${esc(it.session_id)}</span>` : ""}
+      </div>
+      ${citLink ? `<div class="mt-2">${citLink}</div>` : ""}
+    `;
+    frag.appendChild(div);
+  });
+  $("list").appendChild(frag);
+
+  // Botón "ver más"
+  if (mostrados < todosItems.length) {
+    $("verMas").classList.remove("hidden");
+  } else {
+    $("verMas").classList.add("hidden");
+  }
+}
+
+function mostrarMas() {
+  renderPage(false);
+}
+
+// ───────── Skeleton ─────────
+function skeletonList(n) {
+  return Array.from({length:n}).map(()=>`
+    <div class="bg-white rounded-2xl border border-gray-100 p-4 space-y-2">
+      <div class="flex justify-between gap-3">
+        <div class="skel w-2/3" style="height:14px"></div>
+        <div class="skel w-20" style="height:20px;border-radius:999px"></div>
+      </div>
+      <div class="skel w-1/3 h-3"></div>
+    </div>`).join("");
+}
+
+// ───────── Arranque ─────────
+loadFeed();
 </script>
 </body>
 </html>

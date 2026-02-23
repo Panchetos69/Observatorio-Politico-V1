@@ -386,5 +386,22 @@
     "status": "OK",
     "ediciones": 1,
     "items": 12
+  },
+  {
+    "fecha": "21-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 6
+  },
+  {
+    "fecha": "22-02-2026",
+    "status": "SIN_EDICIONES_URL",
+    "url_day": "https://www.diariooficial.interior.gob.cl/edicionelectronica/index.php?date=22-02-2026"
+  },
+  {
+    "fecha": "23-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 13
   }
 ]
