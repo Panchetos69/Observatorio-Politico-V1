@@ -610,21 +610,18 @@ async function loadDocsCountForYear(year) {
   const el = $(`docsCount-${year}`);
   if (!el) return;
   try {
-    const data = await apiGet(docsUrl(currentCommission.group, currentCommission.name)
-      + `?scope=comision&sesion_fecha=`);
-    // Solo para el year block: contar todos los docs de sesiones de ese año
-    // Hacemos una petición más específica por año no existe, así que cargamos todos
-    // y filtramos localmente
     const allDocs = await apiGet(docsUrl(currentCommission.group, currentCommission.name));
     const yearDocs = (allDocs.docs||[]).filter(d => {
-      const f = d.sesion_fecha||"";
-      // Fecha formato DD-MM-YYYY → extraer año
-      const parts = f.split("-");
-      const docYear = parts.length===3 ? parts[2] : "";
+      const f      = d.sesion_fecha || "";
+      const parts  = f.split("-");
+      // Soporta DD-MM-YYYY y YYYY-MM-DD
+      const docYear = parts.length === 3
+        ? (parts[0].length === 4 ? parts[0] : parts[2])
+        : "";
       return docYear === String(year) || d.scope === "comision";
     });
-    if (el) el.textContent = yearDocs.length || "0";
-  } catch { if (el) el.textContent = "0"; }
+    el.textContent = yearDocs.length || "0";
+  } catch { el.textContent = "0"; }
 }
 
 function docsUrl(group, name) {

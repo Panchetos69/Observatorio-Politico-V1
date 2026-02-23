@@ -32,6 +32,7 @@
     /* ── Avatar ── */
     .av-dip { background:linear-gradient(135deg,#7c3aed,#a855f7); }
     .av-sen { background:linear-gradient(135deg,#b91c1c,#ef4444); }
+    .av-all { background:linear-gradient(135deg,#374151,#6b7280); }
 
     /* ── Selector comisión ── */
     .com-select-wrap { position:relative; }
@@ -48,8 +49,8 @@
       background:#fff; cursor:pointer; transition:border-color .15s;
       outline:none;
     }
-    #comisionSelect:focus  { border-color:#7c3aed; }
-    #comisionSelect.active { border-color:#7c3aed; background:#faf5ff; color:#5b21b6; }
+    #comisionSelect:focus   { border-color:#7c3aed; }
+    #comisionSelect.active  { border-color:#7c3aed; background:#faf5ff; color:#5b21b6; }
 
     /* ── Chip filtro activo ── */
     .filter-chip {
@@ -59,14 +60,6 @@
     }
     .chip-x { cursor:pointer; opacity:.55; transition:opacity .15s; font-size:.85rem; line-height:1; }
     .chip-x:hover { opacity:1; color:#7c3aed; }
-
-    /* ── Badge período ── */
-    .periodo-badge {
-      display:inline-flex; align-items:center; gap:.25rem;
-      padding:2px 8px; border-radius:999px; font-size:.65rem; font-weight:700;
-      background:#f0fdf4; color:#166534; border:1px solid #bbf7d0;
-    }
-    .periodo-badge.reciente { background:#eff6ff; color:#1d4ed8; border-color:#bfdbfe; }
 
     /* ── Skeleton ── */
     @keyframes shimmer { 0%{background-position:200%}100%{background-position:-200%} }
@@ -136,7 +129,7 @@
         <div class="w-9 h-9 rounded-xl bg-purple-100 flex items-center justify-center text-lg">👥</div>
         <div>
           <h2 class="text-lg font-extrabold text-gray-900">Búsqueda de Congresistas</h2>
-          <p class="text-xs text-gray-400">Diputados y Senadores · filtros por comisión y período legislativo</p>
+          <p class="text-xs text-gray-400">Diputados y Senadores · filtro por comisión en tiempo real</p>
         </div>
       </div>
       <div id="count" class="text-sm font-semibold text-gray-500 shrink-0 bg-gray-50 px-3 py-1.5 rounded-xl border border-gray-100">
@@ -164,7 +157,7 @@
           oninput="debounceFilter()" />
       </div>
 
-      <!-- Selector comisión -->
+      <!-- Selector comisión agrupado -->
       <div class="com-select-wrap">
         <select id="comisionSelect" onchange="applyFilters()" title="Filtrar por comisión">
           <option value="">📋 Todas las comisiones</option>
@@ -172,15 +165,11 @@
       </div>
 
       <!-- Selector período -->
-      <div class="relative">
-        <span class="absolute left-3 top-1/2 -translate-y-1/2 text-gray-300 text-sm select-none">📅</span>
-        <select id="periodoSelect"
-          class="w-full pl-9 pr-4 py-2.5 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none transition appearance-none"
-          onchange="applyFilters()">
-          <option value="">Todos los períodos</option>
-          <!-- Se puebla dinámicamente -->
-        </select>
-      </div>
+      <select id="periodoSelect"
+        class="w-full px-4 py-2.5 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none transition appearance-none"
+        onchange="applyFilters()">
+        <option value="">📅 Todos los períodos</option>
+      </select>
 
       <!-- Orden -->
       <div class="relative">
@@ -188,7 +177,6 @@
         <select id="ordenSelect"
           class="w-full pl-9 pr-4 py-2.5 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none transition appearance-none"
           onchange="applyFilters()">
-          <option value="recientes">Más recientes primero</option>
           <option value="az">Nombre A → Z</option>
           <option value="za">Nombre Z → A</option>
           <option value="coms_desc">Más comisiones primero</option>
@@ -199,25 +187,23 @@
       </div>
     </div>
 
-    <!-- Chips de filtros activos -->
+    <!-- Chip de filtro activo -->
     <div id="activeFilters" class="mt-2.5 flex flex-wrap gap-2 hidden"></div>
-
-    <!-- Info período activo -->
-    <div id="periodoInfo" class="hidden mt-3 p-3 rounded-xl bg-blue-50 border border-blue-100 text-xs text-blue-700 font-semibold"></div>
 
   </div>
 
-  <!-- Grid resultados -->
+  <!-- Grid -->
   <div id="grid" class="mt-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
 
 </div>
 
-<!-- ════════════════════════════════════
+<!-- ══════════════════════════════════════════
      MODAL KOM
-════════════════════════════════════ -->
+══════════════════════════════════════════ -->
 <div id="komModal" class="fixed inset-0 z-50 hidden items-center justify-center modal-bg p-4">
   <div class="bg-white rounded-2xl w-full max-w-2xl max-h-[92vh] flex flex-col shadow-2xl">
 
+    <!-- Header -->
     <div class="flex items-start gap-4 p-5 border-b border-gray-100 shrink-0">
       <div id="komAvatar"
         class="w-14 h-14 shrink-0 rounded-2xl flex items-center justify-center text-white font-extrabold text-lg shadow-sm">
@@ -231,17 +217,26 @@
         class="w-8 h-8 rounded-full bg-gray-100 hover:bg-gray-200 text-gray-500 font-bold text-sm flex items-center justify-center shrink-0 transition">×</button>
     </div>
 
+    <!-- Cuerpo -->
     <div class="flex-1 overflow-y-auto p-5 space-y-4">
+
+      <!-- Comisiones -->
       <div id="komComisiones"></div>
+
+      <!-- Notas -->
       <div>
         <label class="text-xs font-bold text-gray-600 block mb-1.5">📝 Notas internas</label>
         <textarea id="komNotas" rows="4"
           class="w-full px-3 py-2.5 text-sm border border-gray-200 rounded-xl resize-none focus:border-purple-400 focus:outline-none transition"
           placeholder="Estrategia, reuniones, observaciones…"></textarea>
       </div>
+
+      <!-- Link oficial -->
       <div id="komLink"></div>
+
     </div>
 
+    <!-- Footer -->
     <div class="flex gap-2 p-4 border-t border-gray-100 shrink-0">
       <button onclick="closeKom()"
         class="flex-1 py-2.5 rounded-xl bg-gray-100 hover:bg-gray-200 text-sm font-semibold text-gray-700 transition">
@@ -261,14 +256,9 @@
 // ═══════════════════════════════════════════
 const $ = id => document.getElementById(id);
 let camaraActual  = "all";
-let allPols       = [];   // todos cargados desde API
+let allPols       = [];
 let currentPerson = null;
 let _deb;
-
-// Año actual para detectar "recientes"
-const ANO_ACTUAL = new Date().getFullYear();
-// Un congresista es "reciente" si su max_year >= año actual - 1
-const ES_RECIENTE_DESDE = ANO_ACTUAL - 1;
 
 // ── Toast ──────────────────────────────────
 let _tt;
@@ -300,10 +290,14 @@ async function apiPost(url, body) {
   if (!r.ok) throw new Error("HTTP " + r.status);
   return r.json();
 }
+
+// ── Escape HTML ────────────────────────────
 function esc(s) {
   return String(s||"")
-    .replace(/&/g,"&amp;").replace(/"/g,"&quot;")
-    .replace(/</g,"&lt;").replace(/>/g,"&gt;");
+    .replace(/&/g,"&amp;")
+    .replace(/"/g,"&quot;")
+    .replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;");
 }
 
 // ═══════════════════════════════════════════
@@ -311,13 +305,14 @@ function esc(s) {
 // ═══════════════════════════════════════════
 function setCamara(c) {
   camaraActual = c;
+  // Estilos botones
   const map = { all:"cam-all", camara:"cam-diputado", senado:"cam-senado" };
   ["all","camara","senado"].forEach(k => {
     const btn = k==="all" ? $("btn-all") : k==="camara" ? $("btn-diputados") : $("btn-senado");
     btn.className = "cam-btn " + (k===c ? map[k] : "cam-off");
   });
   $("comisionSelect").value = "";
-  $("periodoSelect").value  = "";
+  if ($("periodoSelect")) $("periodoSelect").value = "";
   loadPeople();
 }
 
@@ -326,22 +321,11 @@ function setCamara(c) {
 // ═══════════════════════════════════════════
 async function loadPeople() {
   $("count").textContent = "Cargando…";
-  $("grid").innerHTML    = skelGrid(6);
+  $("grid").innerHTML = skelGrid(6);
 
   try {
     const data = await apiGet(`/api/politicians?q=&camara=${camaraActual}`);
     allPols = data.politicians || [];
-
-    // Normalizar max_year si no viene del API
-    allPols.forEach(p => {
-      if (!p.max_year) {
-        // Intentar extraer del campo periodo (e.g. "2022-2026" → 2026)
-        const m = (p.periodo || "").match(/(\d{4})/g);
-        if (m) p.max_year = Math.max(...m.map(Number));
-        else   p.max_year = 0;
-      }
-    });
-
     buildComisionSelect(allPols);
     buildPeriodoSelect(allPols);
     applyFilters();
@@ -352,182 +336,187 @@ async function loadPeople() {
 }
 
 // ═══════════════════════════════════════════
-// SELECTOR COMISIONES (agrupado por cámara)
+// POBLAR SELECTOR COMISIONES (agrupado por cámara)
 // ═══════════════════════════════════════════
 function buildComisionSelect(pols) {
+  // Recopilar comisiones únicas por cámara
   const dipMap = new Map();
   const senMap = new Map();
 
   pols.forEach(p => {
     (p.comisiones||[]).forEach(c => {
       if (!c.commission_name) return;
-      if (p.chamber === "camara") dipMap.set(c.commission_name, true);
-      if (p.chamber === "senado") senMap.set(c.commission_name, true);
+      // Acepta "camara", "diputado", "diputados" como diputados
+      const ch = (p.chamber||"").toLowerCase();
+      if (ch === "camara" || ch === "diputado" || ch === "diputados")
+        dipMap.set(c.commission_name, true);
+      else if (ch === "senado" || ch === "senador" || ch === "senadores")
+        senMap.set(c.commission_name, true);
+      else
+        dipMap.set(c.commission_name, true); // fallback
     });
   });
 
   const dipList = [...dipMap.keys()].sort((a,b)=>a.localeCompare(b,"es"));
   const senList = [...senMap.keys()].sort((a,b)=>a.localeCompare(b,"es"));
-  const abbr    = n => n.replace(/^Comisi[oó]n\s+(de\s+|del\s+|de\s+la\s+|de\s+los\s+|de\s+las\s+)?/i,"").trim().slice(0,50);
+
+  // Abreviar nombre: quitar "Comisión de/del/…"
+  const abbr = n => n.replace(/^Comisi[oó]n\s+(de\s+|del\s+|de\s+la\s+|de\s+los\s+|de\s+las\s+)?/i,"").trim().slice(0,50);
 
   const prev = $("comisionSelect").value;
   let html = `<option value="">📋 Todas las comisiones</option>`;
 
   if (dipList.length) {
     html += `<optgroup label="🟣 Cámara de Diputados (${dipList.length} comisiones)">`;
-    dipList.forEach(n => { html += `<option value="${esc(n)}">${esc(abbr(n))}</option>`; });
+    dipList.forEach(n => {
+      html += `<option value="${esc(n)}">${esc(abbr(n))}</option>`;
+    });
     html += `</optgroup>`;
   }
+
   if (senList.length) {
     html += `<optgroup label="🔴 Senado (${senList.length} comisiones)">`;
-    senList.forEach(n => { html += `<option value="${esc(n)}">${esc(abbr(n))}</option>`; });
+    senList.forEach(n => {
+      html += `<option value="${esc(n)}">${esc(abbr(n))}</option>`;
+    });
     html += `</optgroup>`;
   }
 
   $("comisionSelect").innerHTML = html;
+  // Restaurar selección previa si sigue siendo válida
   if (prev) $("comisionSelect").value = prev;
 }
 
 // ═══════════════════════════════════════════
-// SELECTOR PERÍODO (basado en años de actividad)
+// POBLAR SELECTOR PERÍODO
 // ═══════════════════════════════════════════
 function buildPeriodoSelect(pols) {
-  // Recopilar todos los años únicos presentes en los datos
+  // Recopilar todos los años mencionados en el campo "periodo" de cada congresista
+  // El campo viene como "2022-2026" o "2018-2022" desde el backend
   const yearsSet = new Set();
   pols.forEach(p => {
     const m = (p.periodo || "").match(/\d{4}/g);
     if (m) m.forEach(y => yearsSet.add(parseInt(y)));
-    if (p.max_year) yearsSet.add(p.max_year);
   });
 
-  const years = [...yearsSet].sort((a,b) => b - a); // desc
+  const years = [...yearsSet].sort((a, b) => b - a);  // desc
+  const anoActual = new Date().getFullYear();
 
-  const prev = $("periodoSelect").value;
-  let html = `<option value="">Todos los períodos</option>`;
+  const prev = ($("periodoSelect")||{}).value || "";
+  let html = `<option value="">📅 Todos los períodos</option>`;
 
-  // Opción especial: legislatura actual (más reciente)
-  if (years.length) {
-    const maxY = years[0];
-    html += `<option value="actual">⭐ Legislatura actual (${maxY - 3}–${maxY})</option>`;
-  }
+  // Opción "legislatura actual": parlamentarios cuyo período cubre el año actual
+  html += `<option value="actual">⭐ Legislatura actual (${anoActual})</option>`;
 
-  // Opciones por año
+  // Un año por línea — útil para filtrar ex-parlamentarios de periodos pasados
   years.forEach(y => {
-    const label = y >= ES_RECIENTE_DESDE ? `📅 Activos en ${y} (reciente)` : `📅 Activos en ${y}`;
-    html += `<option value="${y}">${label}</option>`;
+    const label = y >= anoActual - 1 ? `${y} (reciente)` : String(y);
+    html += `<option value="${y}">📅 Activos en ${label}</option>`;
   });
 
-  $("periodoSelect").innerHTML = html;
-  if (prev) $("periodoSelect").value = prev;
+  const el = $("periodoSelect");
+  if (!el) return;
+  el.innerHTML = html;
+  if (prev) el.value = prev;
 }
 
-// ═══════════════════════════════════════════
-// FILTROS (en el array local)
-// ═══════════════════════════════════════════
+
 function debounceFilter() {
   clearTimeout(_deb);
   _deb = setTimeout(applyFilters, 280);
 }
 
 function applyFilters() {
-  const q        = ($("q").value||"").trim().toLowerCase();
-  const comFil   = ($("comisionSelect").value||"").trim();
-  const periodo  = ($("periodoSelect").value||"").trim();
-  const orden    = $("ordenSelect").value;
+  const q      = ($("q").value||"").trim().toLowerCase();
+  const comFil = ($("comisionSelect").value||"").trim();
+  const periodo = ($("periodoSelect") ? $("periodoSelect").value : "") || "";
+  const orden  = $("ordenSelect").value;
 
   let list = [...allPols];
 
-  // Filtro nombre
+  // Nombre
   if (q) list = list.filter(p => p.nombre.toLowerCase().includes(q));
 
-  // Filtro comisión
+  // Comisión
   if (comFil) {
     list = list.filter(p =>
       (p.comisiones||[]).some(c => c.commission_name === comFil)
     );
   }
 
-  // Filtro período
+  // Período
   if (periodo) {
-    if (periodo === "actual") {
-      // Máximo año del dataset → legislatura "actual"
-      const maxY = Math.max(...allPols.map(p => p.max_year || 0));
-      const desde = maxY - 3;
-      list = list.filter(p => p.max_year >= desde);
-    } else {
-      const y = parseInt(periodo);
-      list = list.filter(p => {
-        // Comprobar si alguna comisión tiene actividad en ese año
-        const m = (p.periodo || "").match(/(\d{4})/g);
-        if (!m) return false;
-        const years = m.map(Number);
-        if (years.length === 1) return years[0] === y;
-        if (years.length >= 2) return y >= Math.min(...years) && y <= Math.max(...years);
-        return false;
-      });
-    }
+    const anoActual = new Date().getFullYear();
+    list = list.filter(p => {
+      const per = (p.periodo || "").trim();
+      if (!per) return periodo === "actual"; // sin período: solo aparece en "actual"
+      if (periodo === "actual") {
+        // Cubre el año actual si el rango incluye anoActual
+        const anos = per.match(/\d{4}/g);
+        if (!anos) return false;
+        const min = Math.min(...anos.map(Number));
+        const max = Math.max(...anos.map(Number));
+        return anoActual >= min && anoActual <= max;
+      } else {
+        const y = parseInt(periodo);
+        const anos = per.match(/\d{4}/g);
+        if (!anos) return false;
+        const min = Math.min(...anos.map(Number));
+        const max = Math.max(...anos.map(Number));
+        return y >= min && y <= max;
+      }
+    });
   }
 
-  // Ordenar
-  list.sort((a,b) => {
+  // Orden
+  list.sort((a,b)=>{
     switch(orden) {
-      case "recientes":  return -(a.max_year||0) + (b.max_year||0) || a.nombre.localeCompare(b.nombre,"es");
-      case "az":         return a.nombre.localeCompare(b.nombre,"es");
-      case "za":         return b.nombre.localeCompare(a.nombre,"es");
-      case "coms_desc":  return (b.comisiones||[]).length - (a.comisiones||[]).length;
-      case "coms_asc":   return (a.comisiones||[]).length - (b.comisiones||[]).length;
+      case "az":        return a.nombre.localeCompare(b.nombre,"es");
+      case "za":        return b.nombre.localeCompare(a.nombre,"es");
+      case "coms_desc": return (b.comisiones||[]).length - (a.comisiones||[]).length;
+      case "coms_asc":  return (a.comisiones||[]).length - (b.comisiones||[]).length;
       case "diputados": {
-        const ad=a.chamber==="camara"?0:1, bd=b.chamber==="camara"?0:1;
+        const ad = a.chamber==="camara"||a.chamber==="diputado"||a.chamber==="diputados"?0:1;
+        const bd = b.chamber==="camara"||b.chamber==="diputado"||b.chamber==="diputados"?0:1;
         return ad-bd || a.nombre.localeCompare(b.nombre,"es");
       }
       case "senadores": {
-        const as=a.chamber==="senado"?0:1, bs=b.chamber==="senado"?0:1;
+        const as = a.chamber==="senado"||a.chamber==="senador"?0:1;
+        const bs = b.chamber==="senado"||b.chamber==="senador"?0:1;
         return as-bs || a.nombre.localeCompare(b.nombre,"es");
       }
-      default: return 0;
     }
   });
 
-  renderChips(comFil, periodo);
-  renderPeriodoInfo(periodo);
+  renderChip(comFil, periodo);
   renderGrid(list, comFil);
 }
 
-function renderChips(comFil, periodo) {
+function renderChip(comFil, periodo) {
   const wrap = $("activeFilters");
-  let html = "";
+  let chips = "";
 
   if (comFil) {
-    const abbr = comFil.replace(/^Comisi[oó]n\s+(de\s+)?/i,"").trim().slice(0,45);
-    let camLabel = "";
-    const opt = [...$("comisionSelect").options].find(o=>o.value===comFil);
-    if (opt) {
-      const grp = opt.parentElement?.label || "";
-      if (grp.includes("Diputados")) camLabel = "🟣 ";
-      if (grp.includes("Senado"))    camLabel = "🔴 ";
+    const abbr = comFil.replace(/^Comisi[oó]n\s+(de\s+|del\s+|de\s+la\s+|de\s+los\s+|de\s+las\s+)?/i,"").trim().slice(0,45);
+    let camaraLabel = "";
+    if ($("comisionSelect")) {
+      const opt = [...$("comisionSelect").options].find(o=>o.value===comFil);
+      if (opt) {
+        const grp = opt.parentElement?.label || "";
+        if (grp.includes("Diputados")) camaraLabel = "🟣 ";
+        if (grp.includes("Senado"))    camaraLabel = "🔴 ";
+      }
     }
-    html += `<span class="filter-chip">${camLabel}📋 ${esc(abbr)}<span class="chip-x" onclick="clearComFil()">×</span></span>`;
+    chips += `<span class="filter-chip">${camaraLabel}📋 ${esc(abbr)}<span class="chip-x" onclick="clearComFil()">×</span></span>`;
   }
 
   if (periodo) {
     const label = periodo === "actual" ? "Legislatura actual" : `Año ${periodo}`;
-    html += `<span class="filter-chip" style="background:#eff6ff;color:#1d4ed8;border-color:#bfdbfe">📅 ${esc(label)}<span class="chip-x" onclick="clearPeriodo()">×</span></span>`;
+    chips += `<span class="filter-chip" style="background:#eff6ff;color:#1d4ed8;border-color:#bfdbfe">📅 ${esc(label)}<span class="chip-x" onclick="clearPeriodo()">×</span></span>`;
   }
 
-  wrap.innerHTML = html;
-  wrap.classList.toggle("hidden", !html);
-}
-
-function renderPeriodoInfo(periodo) {
-  const el = $("periodoInfo");
-  if (!periodo) { el.classList.add("hidden"); return; }
-  if (periodo === "actual") {
-    const maxY = Math.max(...allPols.map(p => p.max_year || 0));
-    el.textContent = `📋 Mostrando congresistas activos en la legislatura ${maxY-3}–${maxY} (los más recientes del dataset).`;
-  } else {
-    el.textContent = `📋 Mostrando congresistas con actividad registrada en ${periodo}.`;
-  }
-  el.classList.remove("hidden");
+  wrap.innerHTML = chips;
+  wrap.classList.toggle("hidden", !chips);
 }
 
 function clearComFil() {
@@ -537,7 +526,7 @@ function clearComFil() {
 }
 
 function clearPeriodo() {
-  $("periodoSelect").value = "";
+  if ($("periodoSelect")) $("periodoSelect").value = "";
   applyFilters();
 }
 
@@ -557,12 +546,12 @@ function renderGrid(pols, comFil) {
           <div class="text-sm text-gray-400 text-center max-w-xs">
             ${comFil
               ? `Ningún parlamentario figura en <strong class="text-gray-500">${esc(comFil.replace(/^Comisi[oó]n\s+(de\s+)?/i,""))}</strong> con los filtros actuales.`
-              : "Prueba con otro nombre, cámara o período."}
+              : "Prueba con otro nombre o cámara."}
           </div>
-          <div class="flex gap-2 mt-4 flex-wrap justify-center">
-            ${comFil   ? `<button onclick="clearComFil()"  class="px-4 py-2 rounded-xl gradient-bg text-white text-xs font-bold hover:opacity-90 transition">Limpiar comisión</button>` : ""}
-            ${$("periodoSelect").value ? `<button onclick="clearPeriodo()" class="px-4 py-2 rounded-xl bg-blue-600 text-white text-xs font-bold hover:opacity-90 transition">Limpiar período</button>` : ""}
-          </div>
+          ${comFil ? `<button onclick="clearComFil()"
+            class="mt-4 px-5 py-2 rounded-xl gradient-bg text-white text-xs font-bold hover:opacity-90 transition">
+            Limpiar filtro de comisión
+          </button>` : ""}
         </div>
       </div>`;
     return;
@@ -575,11 +564,10 @@ function renderGrid(pols, comFil) {
   grid.innerHTML = "";
 
   pols.forEach(p => {
-    const initials  = p.nombre.split(" ").slice(0,2).map(x=>x[0]||"").join("").toUpperCase();
-    const isSen     = p.chamber === "senado";
-    const isDip     = p.chamber === "camara";
-    const avCls     = isSen ? "av-sen" : "av-dip";
-    const esReciente = (p.max_year || 0) >= ES_RECIENTE_DESDE;
+    const initials = p.nombre.split(" ").slice(0,2).map(x=>x[0]||"").join("").toUpperCase();
+    const isSen    = p.chamber === "senado";
+    const isDip    = p.chamber === "camara";
+    const avCls    = isSen ? "av-sen" : isDip ? "av-dip" : "av-all";
 
     const chamberBadge = isSen
       ? `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-red-100 text-red-700">Senador/a</span>`
@@ -587,30 +575,12 @@ function renderGrid(pols, comFil) {
       ? `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-purple-100 text-purple-700">Diputado/a</span>`
       : `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-gray-100 text-gray-500">${esc(p.chamber)}</span>`;
 
-    // Badge período
-    let periodoBadge = "";
-    if (p.periodo) {
-      const cls = esReciente ? "periodo-badge reciente" : "periodo-badge";
-      periodoBadge = `<span class="${cls}">📅 ${esc(p.periodo)}</span>`;
-    } else if (p.max_year) {
-      const cls = esReciente ? "periodo-badge reciente" : "periodo-badge";
-      periodoBadge = `<span class="${cls}">📅 hasta ${p.max_year}</span>`;
-    }
-
     const coms = p.comisiones || [];
 
-    // Comisiones: resaltar la filtrada
+    // Comisiones: resaltar la filtrada si aplica
     let comsHtml = "";
     if (coms.length) {
-      // Si hay filtro de comisión, poner esa primera
-      const sorted = comFil
-        ? [...coms].sort((a,b) => {
-            if (a.commission_name === comFil) return -1;
-            if (b.commission_name === comFil) return  1;
-            return 0;
-          })
-        : coms;
-      const shown = sorted.slice(0, 3);
+      const shown = coms.slice(0, 3);
       const rest  = coms.length - 3;
       comsHtml = `<div class="flex flex-wrap gap-1 mt-2">
         ${shown.map(c => {
@@ -630,7 +600,9 @@ function renderGrid(pols, comFil) {
     if (comFil) {
       const m = coms.find(c => c.commission_name === comFil);
       if (m?.cargo_en_comision) {
-        cargoComHtml = `<div class="text-xs text-purple-600 font-semibold mt-1.5">📋 ${esc(m.cargo_en_comision)}</div>`;
+        cargoComHtml = `<div class="text-xs text-purple-600 font-semibold mt-1.5">
+          📋 ${esc(m.cargo_en_comision)}
+        </div>`;
       }
     }
 
@@ -646,7 +618,6 @@ function renderGrid(pols, comFil) {
             <div class="font-extrabold text-gray-900 leading-tight">${esc(p.nombre)}</div>
             <div class="flex items-center gap-2 mt-1 flex-wrap">
               ${chamberBadge}
-              ${periodoBadge}
               ${p.cargo ? `<span class="text-xs text-gray-400">${esc(p.cargo)}</span>` : ""}
             </div>
             ${cargoComHtml}
@@ -713,6 +684,7 @@ async function openKom(chamber, id, nombre, urlFicha, comisiones) {
   const initials = nombre.split(" ").slice(0,2).map(x=>x[0]||"").join("").toUpperCase();
   const isSen    = chamber === "senado";
 
+  // Avatar
   const av = $("komAvatar");
   av.className = `w-14 h-14 shrink-0 rounded-2xl flex items-center justify-center text-white font-extrabold text-lg shadow-sm ${isSen?"av-sen":"av-dip"}`;
   av.textContent = initials;
@@ -724,14 +696,17 @@ async function openKom(chamber, id, nombre, urlFicha, comisiones) {
     ? `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-red-100 text-red-700">🔴 Senado</span>`
     : `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-purple-100 text-purple-700">🟣 Diputados</span>`;
 
+  // Comisiones en modal — resaltar la filtrada activa
   const activeCom = $("comisionSelect").value;
-  const comDiv    = $("komComisiones");
+  const comDiv = $("komComisiones");
 
   if (comisiones.length) {
+    // Ordenar: la comisión filtrada activa primero
     const sorted = [...comisiones].sort((a,b) => {
       if (activeCom) {
-        if (a.commission_name === activeCom) return -1;
-        if (b.commission_name === activeCom) return  1;
+        const aH = a.commission_name === activeCom ? -1 : 0;
+        const bH = b.commission_name === activeCom ? -1 : 0;
+        if (aH !== bH) return aH - bH;
       }
       return a.commission_name.localeCompare(b.commission_name,"es");
     });
@@ -752,9 +727,6 @@ async function openKom(chamber, id, nombre, urlFicha, comisiones) {
               ${c.cargo_en_comision
                 ? `<span class="text-xs font-medium ${isH?"text-purple-700":"text-gray-500"} shrink-0">${esc(c.cargo_en_comision)}</span>`
                 : ""}
-              ${c.periodo
-                ? `<span class="text-xs text-gray-400 shrink-0 ml-1">📅 ${esc(c.periodo)}</span>`
-                : ""}
             </div>`;
           }).join("")}
         </div>
@@ -763,6 +735,7 @@ async function openKom(chamber, id, nombre, urlFicha, comisiones) {
     comDiv.innerHTML = `<div class="text-xs text-gray-400 italic py-1">Sin comisiones registradas</div>`;
   }
 
+  // Link oficial
   $("komLink").innerHTML = urlFicha
     ? `<a href="${esc(urlFicha)}" target="_blank" rel="noopener"
          class="inline-flex items-center gap-1.5 text-xs text-purple-600 hover:underline font-semibold">
@@ -770,6 +743,7 @@ async function openKom(chamber, id, nombre, urlFicha, comisiones) {
        </a>`
     : "";
 
+  // Cargar notas
   $("komNotas").value = "";
   try {
     const data = await apiGet(`/api/kom/${chamber}/${id}`);
@@ -790,9 +764,10 @@ $("komModal").addEventListener("click", e => { if (e.target===$("komModal")) clo
 
 async function saveKom() {
   if (!currentPerson) return;
-  const btn  = $("komSaveBtn");
+  const btn = $("komSaveBtn");
   const orig = btn.textContent;
-  btn.textContent = "Guardando…"; btn.disabled = true;
+  btn.textContent = "Guardando…";
+  btn.disabled = true;
 
   try {
     await apiPost(`/api/kom/${currentPerson.chamber}/${currentPerson.id}`, {
@@ -802,9 +777,11 @@ async function saveKom() {
       comisiones: currentPerson.comisiones,
       updated_at: new Date().toISOString(),
     });
+
     btn.textContent = "✓ Guardado";
     btn.classList.replace("gradient-bg","bg-green-500");
     toast(`Perfil de ${currentPerson.nombre} guardado`);
+
     setTimeout(() => {
       btn.textContent = orig;
       btn.classList.replace("bg-green-500","gradient-bg");
@@ -812,7 +789,8 @@ async function saveKom() {
     }, 2200);
   } catch(e) {
     toast("Error: " + e.message, "err");
-    btn.textContent = orig; btn.disabled = false;
+    btn.textContent = orig;
+    btn.disabled = false;
   }
 }
 

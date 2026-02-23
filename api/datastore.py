@@ -53,44 +53,14 @@ def _score(query: str, text: str) -> int:
     return sum(t.count(w) for w in q if len(w) >= 3)
 
 
-def _parse_fecha(fecha: str) -> Optional[datetime]:
-    """
-    Parsea una fecha soportando:
-    - DD-MM-YYYY  (Diputados)
-    - YYYY-MM-DD  (Senado / ISO)
-    - cualquier año 20XX embebido
-    Retorna datetime o None.
-    """
-    fecha = (fecha or "").strip()
-    if not fecha:
-        return None
-
-    # Formato DD-MM-YYYY
-    m = re.match(r'^(\d{1,2})-(\d{1,2})-(\d{4})$', fecha)
-    if m:
-        try:
-            return datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)))
-        except ValueError:
-            pass
-
-    # Formato YYYY-MM-DD (y variantes con hora)
-    m = re.match(r'^(\d{4})-(\d{1,2})-(\d{1,2})', fecha)
-    if m:
-        try:
-            return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)))
-        except ValueError:
-            pass
-
-    # Año embebido como fallback
-    m = re.search(r'\b(20\d{2})\b', fecha)
-    if m:
-        return datetime(int(m.group(1)), 1, 1)
-
-    return None
-
-
 class DataStore:
     def __init__(self, data_repo_dir: str, kom_dir: str, default_chamber: str = "camara"):
+        """
+        default_chamber: cámara que se asume cuando un integrante.json
+                         no tiene el campo 'chamber' o 'camara'.
+                         - "camara"  → para store_camara (REPO_V40...)
+                         - "senado"  → para store_senado (REPO_SENADO)
+        """
         self.data_repo_dir   = os.path.abspath(data_repo_dir)
         self.kom_dir         = os.path.abspath(kom_dir)
         self.default_chamber = default_chamber.strip().lower()
@@ -100,18 +70,18 @@ class DataStore:
         print(f"  kom_dir:         {self.kom_dir}")
         print(f"  default_chamber: {self.default_chamber}")
 
-    # ─────────────────────────────────────────
+    # -----------------------------
     # Paths helpers
-    # ─────────────────────────────────────────
+    # -----------------------------
     def integrantes_path(self, group: str, commission_name: str) -> str:
         return os.path.join(self.data_repo_dir, group, commission_name, "integrantes.json")
 
     def historial_path(self, group: str, commission_name: str) -> str:
         return os.path.join(self.data_repo_dir, group, commission_name, "historial.csv")
 
-    # ─────────────────────────────────────────
+    # -----------------------------
     # KOM Profile
-    # ─────────────────────────────────────────
+    # -----------------------------
     def get_kom_profile(self, slug: str) -> Optional[dict]:
         base = self.kom_dir
         if not os.path.isdir(base):
@@ -121,9 +91,9 @@ class DataStore:
                 return _safe_read_json(path)
         return None
 
-    # ─────────────────────────────────────────
+    # -----------------------------
     # Comisiones
-    # ─────────────────────────────────────────
+    # -----------------------------
     def list_commissions(self, group: str = "Permanentes", q: str = "") -> List[dict]:
         qn = (q or "").strip().lower()
         group_dir = os.path.join(self.data_repo_dir, group)
@@ -146,22 +116,18 @@ class DataStore:
             })
         return out
 
-    def list_commission_names(self) -> List[str]:
-        """Retorna lista plana de nombres de comisiones para filtros del frontend."""
-        names: set = set()
-        for group in ["Permanentes", "Otras", "Unidas"]:
-            gdir = os.path.join(self.data_repo_dir, group)
-            if not os.path.isdir(gdir):
-                continue
-            for name in os.listdir(gdir):
-                if os.path.isdir(os.path.join(gdir, name)):
-                    names.add(name)
-        return sorted(names)
-
     def get_commission_sessions(self, group: str, commission_name: str) -> dict:
         """
         Lee historial.csv y agrupa sesiones por año.
-        Soporta DD-MM-YYYY (Diputados) y YYYY-MM-DD (Senado).
+
+        FIX "Sin año":
+        - Extrae el año desde múltiples campos y formatos de fecha:
+            · Campo "Año" explícito
+            · Fecha "YYYY-MM-DD" (formato Senado)
+            · Fecha "DD-MM-YYYY" (formato Diputados)
+            · Cualquier año 20XX embebido en la cadena
+        - Sesiones sin año parseable van a bucket "Sin año" (al final),
+          en vez de perderse silenciosamente.
         """
         hist_path = self.historial_path(group, commission_name)
         if not os.path.exists(hist_path):
@@ -175,15 +141,18 @@ class DataStore:
             }}
 
         # Detectar transcripts disponibles
+        transcripts_dir = os.path.join(self.data_repo_dir, group, commission_name, "transcripts")
+        txt_dir         = os.path.join(self.data_repo_dir, group, commission_name, "txt")
         transcript_ids: set = set()
-        for sub in ["transcripts", "txt"]:
-            td = os.path.join(self.data_repo_dir, group, commission_name, sub)
-            if os.path.isdir(td):
-                for f in os.listdir(td):
+        for d in [transcripts_dir, txt_dir]:
+            if os.path.isdir(d):
+                for f in os.listdir(d):
                     if f.endswith(".txt"):
                         transcript_ids.add(os.path.splitext(f)[0])
 
         def _extract_year(row: dict) -> Optional[int]:
+            """Extrae el año de una fila del CSV probando múltiples fuentes."""
+            # 1) Campo Año explícito
             año_raw = (
                 row.get("Año") or row.get("año") or
                 row.get("Ano") or row.get("ano") or ""
@@ -191,9 +160,27 @@ class DataStore:
             if año_raw.isdigit() and len(año_raw) == 4:
                 return int(año_raw)
 
+            # 2) Parsear desde el campo Fecha
             fecha = (row.get("Fecha") or row.get("fecha") or "").strip()
-            dt = _parse_fecha(fecha)
-            return dt.year if dt else None
+            if not fecha:
+                return None
+
+            # Formato YYYY-MM-DD  (Senado)
+            m = re.match(r'^(\d{4})-\d{2}-\d{2}', fecha)
+            if m:
+                return int(m.group(1))
+
+            # Formato DD-MM-YYYY  (Diputados)
+            m = re.match(r'^\d{2}-\d{2}-(\d{4})', fecha)
+            if m:
+                return int(m.group(1))
+
+            # Cualquier año 20XX embebido en la cadena
+            m = re.search(r'\b(20\d{2})\b', fecha)
+            if m:
+                return int(m.group(1))
+
+            return None
 
         by_year: Dict[str, list] = {}
         years_seen: set = set()
@@ -203,12 +190,16 @@ class DataStore:
             row["transcript"] = bool(sid and sid in transcript_ids)
 
             year = _extract_year(row)
-            yk = str(year) if year is not None else "Sin año"
+
             if year is not None:
+                yk = str(year)
                 years_seen.add(year)
+            else:
+                yk = "Sin año"
 
             by_year.setdefault(yk, []).append(row)
 
+        # Años numéricos en orden descendente, "Sin año" siempre al final
         sorted_numeric = sorted(years_seen, reverse=True)
         years_list = [str(y) for y in sorted_numeric]
         if "Sin año" in by_year:
@@ -231,17 +222,22 @@ class DataStore:
                 return p
         return None
 
-    # ─────────────────────────────────────────
+    # -----------------------------
     # Políticos
-    # ─────────────────────────────────────────
+    # -----------------------------
     def list_politicians(self, q: str = "", chamber: str = "all") -> List[dict]:
         """
-        Devuelve congresistas únicos con comisiones y período.
-        El período se infiere del historial de sesiones de cada comisión.
+        Devuelve congresistas únicos con sus comisiones.
+
+        FIX: cuando un integrante NO tiene el campo 'chamber'/'camara',
+             se usa self.default_chamber como valor por defecto.
+             - store_camara tiene default_chamber="camara"  → diputados sin campo aparecen como diputados ✓
+             - store_senado  tiene default_chamber="senado" → senadores sin campo aparecen como senadores ✓
         """
         qn = (q or "").strip().lower()
         chamber_filter = (chamber or "all").strip().lower()
 
+        # Normalizar aliases
         if chamber_filter in ("camara", "diputado", "diputados"):
             chamber_filter = "camara"
         elif chamber_filter in ("senate",):
@@ -252,9 +248,6 @@ class DataStore:
         if not os.path.isdir(self.data_repo_dir):
             print(f"[list_politicians] ⚠ data_repo_dir no existe: {self.data_repo_dir}")
             return []
-
-        # Pre-construir índice de años por comisión (para período)
-        commission_years: Dict[str, set] = {}
 
         total_leidos = 0
         total_pasaron_filtro = 0
@@ -281,29 +274,6 @@ class DataStore:
                 if not isinstance(members, list):
                     continue
 
-                # Obtener años disponibles en el historial de esta comisión (lazy)
-                com_key = f"{group}::{commission_name}"
-                if com_key not in commission_years:
-                    hist = self.historial_path(group, commission_name)
-                    years_set: set = set()
-                    if os.path.exists(hist):
-                        for hr in _safe_read_csv_dicts(hist):
-                            fecha = (hr.get("Fecha") or hr.get("fecha") or "").strip()
-                            dt = _parse_fecha(fecha)
-                            if dt:
-                                years_set.add(dt.year)
-                    commission_years[com_key] = years_set
-
-                hist_years = commission_years[com_key]
-                if hist_years:
-                    min_y, max_y = min(hist_years), max(hist_years)
-                    com_periodo = f"{min_y}-{max_y}" if min_y != max_y else str(min_y)
-                    # Año más reciente para ordenar por período
-                    com_max_year = max_y
-                else:
-                    com_periodo  = ""
-                    com_max_year = 0
-
                 for m in members:
                     if not isinstance(m, dict):
                         continue
@@ -314,17 +284,24 @@ class DataStore:
 
                     total_leidos += 1
 
+                    # ── CAMPO CHAMBER CON FALLBACK ──────────────────────────
                     raw = (m.get("chamber") or m.get("camara") or "").strip().lower()
+
+                    # Normalizar alias comunes
                     if raw in ("diputado", "diputados"):
                         raw = "camara"
                     elif raw in ("senador", "senadores", "senate"):
                         raw = "senado"
 
+                    # Si está vacío, usar el default de este DataStore
                     member_chamber = raw if raw else self.default_chamber
+                    # ────────────────────────────────────────────────────────
 
+                    # Filtrar por cámara
                     if chamber_filter != "all" and member_chamber != chamber_filter:
                         continue
 
+                    # Filtrar por nombre
                     if qn and qn not in nombre.lower():
                         continue
 
@@ -333,68 +310,62 @@ class DataStore:
                     pid = str(m.get("id") or m.get("pid") or nombre)
                     key = f"{member_chamber}::{pid}"
 
-                    # Período: preferir campo explícito, si no usar historial
-                    periodo_m = (
-                        m.get("periodo") or m.get("period") or
-                        m.get("legislatura") or m.get("mandato") or ""
-                    ).strip() or com_periodo
-
                     comision_entry = {
                         "group":             group,
                         "commission_name":   commission_name,
                         "cargo_en_comision": (m.get("cargo") or "").strip(),
-                        "periodo":           com_periodo,
                     }
 
                     if key not in out:
                         out[key] = {
-                            "id":          pid,
-                            "nombre":      nombre,
-                            "cargo":       (m.get("cargo") or m.get("role") or "").strip(),
-                            "chamber":     member_chamber,
-                            "url_ficha":   m.get("url_ficha") or m.get("url") or "",
-                            "periodo":     periodo_m,
-                            "max_year":    com_max_year,   # para ordenar más recientes primero
-                            "comisiones":  [comision_entry],
+                            "id":        pid,
+                            "nombre":    nombre,
+                            "cargo":     (m.get("cargo") or m.get("role") or "").strip(),
+                            "chamber":   member_chamber,
+                            "url_ficha": m.get("url_ficha") or m.get("url") or "",
+                            "comisiones": [comision_entry],
                         }
                     else:
                         existing = out[key]["comisiones"]
-                        already  = any(c["commission_name"] == commission_name for c in existing)
+                        already  = any(
+                            c["commission_name"] == commission_name
+                            for c in existing
+                        )
                         if not already:
                             existing.append(comision_entry)
-                        # Actualizar max_year y período si es más reciente
-                        if com_max_year > out[key].get("max_year", 0):
-                            out[key]["max_year"] = com_max_year
-                            if com_periodo and not out[key]["periodo"]:
-                                out[key]["periodo"] = com_periodo
 
         print(f"[list_politicians] store={self.default_chamber} filter={chamber_filter} "
               f"leidos={total_leidos} pasaron={total_pasaron_filtro} únicos={len(out)}")
 
-        # Ordenar: más activos recientemente primero (max_year desc), luego nombre
-        return sorted(
-            out.values(),
-            key=lambda x: (-x.get("max_year", 0), x["nombre"])
-        )
+        return sorted(out.values(), key=lambda x: x["nombre"])
 
-    # ─────────────────────────────────────────
+    # -----------------------------
     # Actividad
-    # ─────────────────────────────────────────
+    # -----------------------------
     def activity_feed(self, group: str = "", status: str = "", q: str = "",
                       chamber: str = "", days_back: int = 180) -> List[dict]:
-        """
-        FIX CRÍTICO: usa _parse_fecha() que soporta YYYY-MM-DD (Senado)
-        además de DD-MM-YYYY (Diputados).
-        Sesiones CITADAS siempre se incluyen aunque sean futuras.
-        """
         groups   = [group] if group else ["Permanentes", "Otras", "Unidas"]
         status_n = (status or "").strip().lower()
         qn       = (q or "").strip().lower()
         items: List[dict] = []
 
         fecha_limite = datetime.now() - timedelta(days=days_back)
-        print(f"[activity_feed] chamber={self.default_chamber} status='{status_n}' "
-              f"days_back={days_back} límite={fecha_limite.strftime('%Y-%m-%d')}")
+        print(f"[activity_feed] chamber={self.default_chamber} límite={fecha_limite.strftime('%Y-%m-%d')}")
+
+        def _parse_fecha(fecha: str) -> Optional[datetime]:
+            """Soporta DD-MM-YYYY (Diputados) y YYYY-MM-DD (Senado)."""
+            if not fecha:
+                return None
+            parts = fecha.strip().split("-")
+            if len(parts) != 3:
+                return None
+            try:
+                if len(parts[0]) == 4:          # YYYY-MM-DD
+                    return datetime(int(parts[0]), int(parts[1]), int(parts[2]))
+                else:                            # DD-MM-YYYY
+                    return datetime(int(parts[2]), int(parts[1]), int(parts[0]))
+            except (ValueError, IndexError):
+                return None
 
         for g in groups:
             gdir = os.path.join(self.data_repo_dir, g)
@@ -407,32 +378,17 @@ class DataStore:
                 rows = _safe_read_csv_dicts(hist)
                 for row in rows:
                     estado = (row.get("Estado") or row.get("estado") or "").strip().upper()
-
-                    # Filtro estado
                     if status_n and status_n not in estado.lower():
                         continue
-
-                    # Filtro fecha — robusto con _parse_fecha
                     fecha_str = (row.get("Fecha") or row.get("fecha") or "").strip()
                     if fecha_str:
                         fecha_dt = _parse_fecha(fecha_str)
-                        if fecha_dt:
-                            es_citada = "CITADA" in estado
-                            # Citadas futuras siempre se muestran
-                            # El resto: respetar ventana de días
-                            if not es_citada and fecha_dt < fecha_limite:
-                                continue
-                            elif es_citada and fecha_dt < fecha_limite:
-                                continue  # Citadas muy antiguas también se ocultan
-
-                    # Filtro búsqueda
-                    titulo = (
-                        row.get("Nombre") or row.get("nombre") or
-                        row.get("Comision") or commission_name or ""
-                    ).strip()
+                        if fecha_dt and fecha_dt < fecha_limite:
+                            continue
+                    titulo = (row.get("Nombre") or row.get("nombre")
+                              or row.get("Comision") or commission_name or "").strip()
                     if qn and qn not in titulo.lower() and qn not in commission_name.lower():
                         continue
-
                     items.append({
                         **row,
                         "commission": commission_name,
@@ -440,28 +396,33 @@ class DataStore:
                         "chamber":    self.default_chamber,
                         "estado":     estado,
                         "fecha":      fecha_str,
-                        "citacion":   (
-                            row.get("Citacion") or row.get("citacion") or
-                            row.get("URL_Citacion") or row.get("url_citacion") or ""
-                        ).strip(),
-                        "session_id": (
-                            row.get("ID") or row.get("id") or row.get("Id") or ""
-                        ).strip(),
+                        "citacion":   (row.get("Citacion") or row.get("citacion") or
+                                       row.get("URL_Citacion") or "").strip(),
+                        "session_id": (row.get("ID") or row.get("id") or "").strip(),
                     })
 
-        def _sort_key(x: dict):
-            dt = _parse_fecha(x.get("fecha", ""))
+        def _sort_key(x: dict) -> datetime:
+            dt = None
+            parts = x.get("fecha", "").split("-")
+            if len(parts) == 3:
+                try:
+                    if len(parts[0]) == 4:
+                        dt = datetime(int(parts[0]), int(parts[1]), int(parts[2]))
+                    else:
+                        dt = datetime(int(parts[2]), int(parts[1]), int(parts[0]))
+                except (ValueError, IndexError):
+                    pass
             return dt or datetime.min
 
         items.sort(key=_sort_key, reverse=True)
         print(f"[activity_feed] → {len(items)} items")
         return items
 
-    # ─────────────────────────────────────────
+    # -----------------------------
     # Noticias
-    # ─────────────────────────────────────────
+    # -----------------------------
     def news_feed(self, source: str, q: str = "", limit: int = 200) -> List[Dict]:
-        print(f"\n[news_feed] source={source}, q='{q}', limit={limit}")
+        print(f"\n[news_feed] === INICIO === source={source}, q='{q}', limit={limit}")
         qn = (q or "").strip().lower()
 
         if source != "diario_oficial":
@@ -469,6 +430,9 @@ class DataStore:
 
         project_dir = os.path.abspath(os.path.join(self.kom_dir, ".."))
         diario_dir  = os.path.join(project_dir, "DIARIO_OFICIAL_EXPORT")
+
+        print(f"[news_feed] diario_dir: {diario_dir}")
+        print(f"[news_feed] existe: {os.path.isdir(diario_dir)}")
 
         if not os.path.isdir(diario_dir):
             return []
@@ -482,46 +446,69 @@ class DataStore:
             return []
 
         latest = max(candidates, key=os.path.getmtime)
-        out: List[dict] = []
+        print(f"[news_feed] leyendo: {os.path.basename(latest)}")
 
-        def _row_to_item(r: dict) -> dict:
-            return {
-                "titulo":      (r.get("titulo") or r.get("title") or "").strip(),
-                "title":       (r.get("titulo") or r.get("title") or "").strip(),
-                "fecha":       (r.get("fecha") or r.get("date") or "").strip(),
-                "date":        (r.get("fecha") or r.get("date") or "").strip(),
-                "url":         (r.get("pdf_url") or r.get("url") or "").strip(),
-                "pdf_url":     (r.get("pdf_url") or r.get("url") or "").strip(),
-                "edicion_url": (r.get("edicion_url") or "").strip(),
-                "cve":         (r.get("cve") or "").strip(),
-                "edition":     (r.get("edition") or r.get("edicion") or "").strip(),
-                "tab":         (r.get("tab") or r.get("Tab") or "").strip(),
-                "source":      "diario_oficial",
-            }
+        out: List[dict] = []
 
         if latest.endswith(".json"):
             raw = _safe_read_json(latest)
             items = raw if isinstance(raw, list) else (raw or {}).get("items", [])
             for it in (items or []):
-                item = _row_to_item(it)
-                hay = f"{item['titulo']} {item['tab']} {item['cve']}".lower()
+                titulo      = (it.get("titulo") or it.get("title") or "").strip()
+                fecha       = (it.get("fecha") or it.get("date") or "").strip()
+                pdf_url     = (it.get("pdf_url") or it.get("url") or "").strip()
+                edicion_url = (it.get("edicion_url") or "").strip()
+                cve         = (it.get("cve") or "").strip()
+                edition     = (it.get("edition") or it.get("edicion") or "").strip()
+                tab         = (it.get("tab") or it.get("Tab") or "").strip()
+                hay = f"{titulo} {tab} {cve}".lower()
                 if qn and qn not in hay:
                     continue
-                out.append(item)
+                out.append({
+                    "titulo": titulo, "title": titulo,
+                    "fecha": fecha,   "date": fecha,
+                    "url": pdf_url,   "pdf_url": pdf_url,
+                    "edicion_url": edicion_url,
+                    "cve": cve, "edition": edition, "tab": tab,
+                    "source": "diario_oficial",
+                })
         else:
-            for row in _safe_read_csv_dicts(latest):
-                item = _row_to_item(row)
-                hay = f"{item['titulo']} {item['tab']} {item['cve']}".lower()
+            rows = _safe_read_csv_dicts(latest)
+            for row in rows:
+                titulo      = (row.get("titulo") or row.get("title") or "").strip()
+                fecha       = (row.get("fecha") or row.get("date") or "").strip()
+                pdf_url     = (row.get("pdf_url") or row.get("url") or "").strip()
+                edicion_url = (row.get("edicion_url") or "").strip()
+                cve         = (row.get("cve") or "").strip()
+                edition     = (row.get("edition") or "").strip()
+                tab         = (row.get("tab") or "").strip()
+                hay = f"{titulo} {tab} {cve}".lower()
                 if qn and qn not in hay:
                     continue
-                out.append(item)
+                out.append({
+                    "titulo": titulo, "title": titulo,
+                    "fecha": fecha,   "date": fecha,
+                    "url": pdf_url,   "pdf_url": pdf_url,
+                    "edicion_url": edicion_url,
+                    "cve": cve, "edition": edition, "tab": tab,
+                    "source": "diario_oficial",
+                })
 
-        out.sort(key=lambda x: _parse_fecha(x.get("fecha", "")) or datetime.min, reverse=True)
+        def key_dt(x: Dict) -> tuple:
+            f = (x.get("fecha") or "").strip()
+            try:
+                d, m_n, y = f.split("-")
+                return (int(y), int(m_n), int(d))
+            except Exception:
+                return (0, 0, 0)
+
+        out.sort(key=key_dt, reverse=True)
+        print(f"[news_feed] retornando {min(len(out), limit)} items")
         return out[:limit]
 
-    # ─────────────────────────────────────────
+    # -----------------------------
     # Búsqueda de texto
-    # ─────────────────────────────────────────
+    # -----------------------------
     def search_texts(self, query: str, top_k: int = 6) -> List[dict]:
         out: List[dict] = []
         if not os.path.isdir(self.data_repo_dir):
@@ -532,6 +519,7 @@ class DataStore:
             if not os.path.isdir(gdir):
                 continue
             for commission_name in sorted(os.listdir(gdir)):
+                # transcripts
                 for sub in ["transcripts", "txt"]:
                     td = os.path.join(gdir, commission_name, sub)
                     if not os.path.isdir(td):
@@ -542,6 +530,7 @@ class DataStore:
                         if s > 0:
                             out.append({"file": p, "score": s, "snippet": text[:1400]})
 
+                # integrantes.json
                 pj = self.integrantes_path(group, commission_name)
                 if os.path.exists(pj):
                     obj = _safe_read_json(pj)
@@ -551,6 +540,7 @@ class DataStore:
                         if s > 0:
                             out.append({"file": pj, "score": s, "snippet": text[:1400]})
 
+                # historial.csv
                 pc = self.historial_path(group, commission_name)
                 if os.path.exists(pc):
                     rows = _safe_read_csv_dicts(pc)
@@ -560,6 +550,7 @@ class DataStore:
                         if s > 0:
                             out.append({"file": pc, "score": s, "snippet": text[:1400]})
 
+        # KOM profiles
         if os.path.isdir(self.kom_dir):
             for p in glob.glob(os.path.join(self.kom_dir, "*.json")):
                 obj = _safe_read_json(p)
@@ -578,17 +569,3 @@ class DataStore:
 
         out.sort(key=lambda x: x["score"], reverse=True)
         return out[:top_k]
-
-    # ─────────────────────────────────────────
-    # Upload
-    # ─────────────────────────────────────────
-    def save_upload(self, filename: str, raw: bytes) -> str:
-        import uuid
-        uploads_dir = os.path.join(os.path.dirname(self.data_repo_dir), "uploads")
-        os.makedirs(uploads_dir, exist_ok=True)
-        ext  = os.path.splitext(filename or "file")[-1].lower() or ".bin"
-        name = f"{uuid.uuid4().hex[:8]}{ext}"
-        dest = os.path.join(uploads_dir, name)
-        with open(dest, "wb") as f:
-            f.write(raw)
-        return dest
