@@ -191,23 +191,17 @@
     <!-- ===== Parlamentarios ===== -->
     <div id="tabPoliticians" class="tabPanel hidden fade-in">
       <div class="bg-white rounded-2xl border border-gray-200 p-5 mb-6">
-        <div class="flex items-center justify-between gap-3 flex-wrap">
+        <div class="flex items-center justify-between gap-3">
           <h2 class="text-lg font-bold">Parlamentarios</h2>
-          <div class="flex gap-2 flex-wrap">
-            <input id="politicianSearch" class="border border-gray-200 rounded-lg px-3 py-2 text-sm w-44" placeholder="Buscar por nombre..." />
-            <select id="polComisionSelect" class="border border-gray-200 rounded-lg px-3 py-2 text-sm w-52">
-              <option value="">📋 Todas las comisiones</option>
-            </select>
-            <select id="polPeriodoSelect" class="border border-gray-200 rounded-lg px-3 py-2 text-sm">
-              <option value="">📅 Todos los períodos</option>
-            </select>
+          <div class="flex gap-2">
+            <input id="politicianSearch" class="border border-gray-200 rounded-lg px-3 py-2 text-sm" placeholder="Buscar por nombre..." />
             <button id="politicianSearchBtn" class="gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold hover:opacity-90">
               Buscar
             </button>
           </div>
         </div>
         <!-- Toggle Cámara/Senado -->
-        <div class="flex gap-2 mt-3 flex-wrap">
+        <div class="flex gap-2 mt-3">
           <button id="polBtn-all" onclick="window.setPolCamara('all')"
             class="text-xs px-3 py-1.5 rounded-lg font-bold bg-gray-700 text-white border-2 border-gray-700">
             🏛️ Todas
@@ -231,33 +225,21 @@
     <!-- ===== Actividad ===== -->
     <div id="tabActivity" class="tabPanel hidden fade-in">
       <div class="bg-white rounded-2xl border border-gray-200 p-5 mb-6">
-        <div class="flex items-center justify-between gap-3 flex-wrap">
+        <div class="flex items-center justify-between gap-3">
           <div>
             <h2 class="text-lg font-bold">Actividad Legislativa</h2>
             <div class="text-sm text-gray-500">Feed de sesiones (CITADA/CELEBRADA/SUSPENDIDA...)</div>
           </div>
 
           <div class="flex flex-wrap gap-2">
-            <select id="activityCamara" class="text-sm border border-gray-200 rounded-lg px-3 py-2">
-              <option value="">🏛️ Ambas cámaras</option>
-              <option value="diputados">🟣 Diputados</option>
-              <option value="senado">🔴 Senado</option>
-            </select>
             <select id="activityGroup" class="text-sm border border-gray-200 rounded-lg px-3 py-2">
               <option value="">Todos</option>
               <option value="Permanentes">Permanentes</option>
               <option value="Otras">Otras</option>
               <option value="Unidas">Unidas</option>
             </select>
-            <select id="activityDays" class="text-sm border border-gray-200 rounded-lg px-3 py-2">
-              <option value="30">30 días</option>
-              <option value="90">90 días</option>
-              <option value="180" selected>180 días</option>
-              <option value="365">1 año</option>
-              <option value="9999">Todo</option>
-            </select>
-            <input id="activityStatus" class="border border-gray-200 rounded-lg px-3 py-2 text-sm w-32" placeholder="Estado..." />
-            <input id="activityQ" class="border border-gray-200 rounded-lg px-3 py-2 text-sm w-36" placeholder="Comisión..." />
+            <input id="activityStatus" class="border border-gray-200 rounded-lg px-3 py-2 text-sm" placeholder="Filtrar estado..." />
+            <input id="activityQ" class="border border-gray-200 rounded-lg px-3 py-2 text-sm" placeholder="Buscar comisión..." />
             <button id="activityBtn" class="gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold hover:opacity-90">Cargar</button>
           </div>
         </div>
@@ -891,7 +873,7 @@
     $("commissionTitle").innerHTML = name + camaraBadge;
     $("commissionSubtitle").textContent = "Cargando sesiones...";
     $("commissionMeta").textContent = group;
-    $("commissionDetail").innerHTML = `<div class="text-sm text-gray-500">Cargando...</div>`;
+    $("commissionDetail").innerHTML = `<div class="text-sm text-gray-500 py-8 text-center">⏳ Cargando sesiones…</div>`;
 
     try {
       const data = await apiGet(`/api/commissions/${encodeURIComponent(group)}/${encodeURIComponent(name)}/sessions?camara=${currentComCamara}`);
@@ -901,6 +883,7 @@
       }
 
       const c = data.commission;
+      // Guardar referencia global (necesario para accordion toggles y docs)
       window._currentCommissionData = c;
       $("commissionSubtitle").textContent = `${c.years.length} año(s) · ${Object.values(c.sessions_by_year).flat().length} sesiones`;
 
@@ -916,116 +899,145 @@
   }
 
   function renderCommissionYears(c) {
-    return c.years.map(year => {
+    // Guardar referencia global para el toggle de acordeón
+    window._currentCommissionData = c;
+
+    // Botón "Docs de la comisión" (scope general, no de sesión específica)
+    const comDocsBtn = `
+      <div class="mb-3 flex justify-end">
+        <button
+          onclick="window._openDocs({ camara: currentComCamara, group: window._currentCommissionData.group, commission: window._currentCommissionData.commission_name, sesionFecha: '', scope:'comision', label:'📂 Documentos de la comisión' })"
+          class="inline-flex items-center gap-2 px-4 py-2 rounded-xl border-2 border-indigo-200 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 text-sm font-bold transition">
+          📂 Documentos de la comisión
+        </button>
+      </div>`;
+
+    const blocks = c.years.map((year, idx) => {
       const sessions = c.sessions_by_year[year] || [];
-
-      if (!sessions.length) {
-        return `
-          <div class="bg-white rounded-xl border border-gray-200 p-4">
-            <div class="flex items-center justify-between mb-3">
-              <div class="text-lg font-bold text-gray-900">${year}</div>
-              <div class="text-xs text-gray-500">0 sesiones</div>
-            </div>
-            <div class="text-sm text-gray-400">Sin sesiones registradas.</div>
-          </div>`;
-      }
-
-      return renderYearBlock(year, sessions, 40);
+      return renderYearAccordion(year, sessions, idx === 0, c);
     }).join("");
+
+    return comDocsBtn + blocks;
   }
 
-  // Renderiza el bloque de un año con paginación.
-  // pageSize=null → muestra todo; pageSize=N → muestra N con botón "Ver más"
-  function renderYearBlock(year, sessions, pageSize) {
-    const total   = sessions.length;
-    const showing = pageSize === null ? sessions : sessions.slice(0, pageSize);
-    const hasMore = pageSize !== null && total > pageSize;
-    const rest    = total - showing.length;
+  // ── Acordeón por año ──────────────────────────────────────────
+  window._toggleYear = function(year) {
+    const body    = document.getElementById(`year-body-${year}`);
+    const chevron = document.getElementById(`year-chev-${year}`);
+    if (!body) return;
+    const isOpen = !body.classList.contains("hidden");
+    body.classList.toggle("hidden", isOpen);
+    if (chevron) chevron.textContent = isOpen ? "▶" : "▼";
+  };
 
-    const rows = showing.map(s => renderSessionRow(s)).join("");
+  function renderYearAccordion(year, sessions, startOpen, c) {
+    const total = sessions.length;
 
-    const verMasBtn = hasMore ? `
-      <div class="mt-3 text-center">
-        <button
-          onclick="showAllYearSessions('${year}')"
-          class="inline-flex items-center gap-2 px-5 py-2 rounded-xl border border-gray-300 bg-white
-                 hover:border-purple-400 hover:text-purple-700 text-sm font-semibold text-gray-600
-                 transition shadow-sm">
-          ↓ Ver ${rest} sesión${rest !== 1 ? 'es' : ''} más
-          <span class="text-xs bg-gray-100 px-2 py-0.5 rounded-full">${total} total</span>
-        </button>
-      </div>` : ``;
+    // Conteo por estado para las pills del header
+    const cnt = { CELEBRADA: 0, CITADA: 0, SUSPENDIDA: 0, FRACASADA: 0 };
+    sessions.forEach(s => {
+      const e = (s.Estado || s.estado || "").toUpperCase();
+      if (cnt[e] !== undefined) cnt[e]++;
+    });
+
+    const pills = Object.entries(cnt)
+      .filter(([, n]) => n > 0)
+      .map(([e, n]) => `<span class="text-xs px-2 py-0.5 rounded-full font-semibold ${getEstadoColor(e)}">${n} ${e.charAt(0)+e.slice(1).toLowerCase()}</span>`)
+      .join("");
+
+    const rows    = sessions.map(s => renderSessionRow(s, c)).join("");
+    const chevron = startOpen ? "▼" : "▶";
+    const hidden  = startOpen ? "" : "hidden";
 
     return `
-      <div class="bg-white rounded-xl border border-gray-200 p-4" id="year-block-${year}">
-        <div class="flex items-center justify-between mb-3">
-          <div class="text-lg font-bold text-gray-900">${year}</div>
-          <div class="text-xs text-gray-500">${total} sesiones</div>
+      <div class="rounded-xl border border-gray-200 overflow-hidden mb-2">
+        <!-- Header toggle -->
+        <div class="flex items-center bg-white hover:bg-gray-50 transition">
+          <button onclick="window._toggleYear('${year}')"
+            class="flex-1 flex items-center gap-3 px-4 py-3 text-left flex-wrap min-w-0">
+            <span class="text-base font-bold text-gray-900 shrink-0">${year}</span>
+            <span class="text-xs text-gray-400 shrink-0">${total} sesión${total !== 1 ? "es" : ""}</span>
+            <div class="flex gap-1 flex-wrap">${pills}</div>
+          </button>
+          <div class="flex items-center gap-2 px-3 shrink-0">
+            <span id="year-chev-${year}" class="text-gray-400 text-xs">${chevron}</span>
+          </div>
         </div>
-        <div class="overflow-x-auto" id="year-table-${year}">
-          <table class="w-full text-sm">
-            <thead class="text-gray-500 border-b border-gray-200">
-              <tr>
-                <th class="text-left py-2 px-2">Fecha</th>
-                <th class="text-left py-2 px-2">Estado</th>
-                <th class="text-left py-2 px-2">Documentos</th>
-                <th class="text-center py-2 px-2">Transcripción</th>
-                ${currentComCamara === "senado" ? '<th class="text-center py-2 px-2">Video</th>' : ""}
-              </tr>
-            </thead>
-            <tbody id="year-tbody-${year}">${rows}</tbody>
-          </table>
+
+        <!-- Cuerpo -->
+        <div id="year-body-${year}" class="${hidden} border-t border-gray-100">
+          <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+              <thead class="text-gray-500 bg-gray-50 text-xs">
+                <tr>
+                  <th class="text-left py-2 px-3">Fecha</th>
+                  <th class="text-left py-2 px-3">Estado</th>
+                  <th class="text-left py-2 px-3">Docs oficiales</th>
+                  <th class="text-center py-2 px-3">Transcript</th>
+                  <th class="text-center py-2 px-3">📎 Mis docs</th>
+                  ${currentComCamara === "senado" ? '<th class="text-center py-2 px-3">Video</th>' : ""}
+                </tr>
+              </thead>
+              <tbody>${rows}</tbody>
+            </table>
+          </div>
         </div>
-        <div id="year-more-${year}">${verMasBtn}</div>
       </div>`;
   }
 
-  // Expande un año mostrando TODAS las sesiones (sin fetch adicional)
-  function showAllYearSessions(year) {
-    if (!window._currentCommissionData) return;
-    const sessions = window._currentCommissionData.sessions_by_year[year] || [];
-    if (!sessions.length) return;
-
-    // Reemplazar solo tbody + botón, manteniendo el header intacto
-    const tbody = document.getElementById(`year-tbody-${year}`);
-    const more  = document.getElementById(`year-more-${year}`);
-    if (tbody) tbody.innerHTML = sessions.map(s => renderSessionRow(s)).join("");
-    if (more)  more.innerHTML  = `<div class="mt-2 text-xs text-gray-400 text-right">${sessions.length} sesiones · todas visibles</div>`;
+  // Alias para compatibilidad (ya no se usa "Ver más")
+  function renderYearBlock(year, sessions) {
+    return renderYearAccordion(year, sessions, false, window._currentCommissionData);
   }
 
-  function renderSessionRow(s) {
-    const estado = s.Estado || "-";
-    const estadoBadge = `<span class="inline-flex items-center px-2 py-1 rounded-full text-xs font-semibold ${getEstadoColor(estado)}">${estado}</span>`;
-    const transcript = s.transcript ? "📄" : "—";
+  function renderSessionRow(s, c) {
+    const estado      = s.Estado || s.estado || "-";
+    const estadoBadge = `<span class="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-semibold ${getEstadoColor(estado)}">${estado}</span>`;
+    const transcript  = s.transcript ? "📄" : "—";
 
-    // Botones de documentos
+    // Docs oficiales del scraper (Citación, Cuenta, Acta)
     const docs = [];
-    if (s.Citacion && s.Citacion !== "No") {
-      docs.push(`<a href="${s.Citacion}" target="_blank" class="inline-flex items-center px-2 py-1 rounded text-xs font-semibold bg-blue-100 text-blue-700 hover:bg-blue-200">Citación ↗</a>`);
-    }
-    if (s.Cuenta && s.Cuenta !== "No") {
-      docs.push(`<a href="${s.Cuenta}" target="_blank" class="inline-flex items-center px-2 py-1 rounded text-xs font-semibold bg-green-100 text-green-700 hover:bg-green-200">Cuenta ↗</a>`);
-    }
-    if (s.Acta && s.Acta !== "No") {
-      docs.push(`<a href="${s.Acta}" target="_blank" class="inline-flex items-center px-2 py-1 rounded text-xs font-semibold bg-purple-100 text-purple-700 hover:bg-purple-200">Acta ↗</a>`);
-    }
+    if (s.Citacion && s.Citacion !== "No")
+      docs.push(`<a href="${s.Citacion}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-blue-100 text-blue-700 hover:bg-blue-200">Citación ↗</a>`);
+    if (s.Cuenta && s.Cuenta !== "No")
+      docs.push(`<a href="${s.Cuenta}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-green-100 text-green-700 hover:bg-green-200">Cuenta ↗</a>`);
+    if (s.Acta && s.Acta !== "No")
+      docs.push(`<a href="${s.Acta}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-purple-100 text-purple-700 hover:bg-purple-200">Acta ↗</a>`);
+    const docsHTML = docs.length ? docs.join(" ") : `<span class="text-xs text-gray-300">—</span>`;
 
-    const docsHTML = docs.length ? docs.join(" ") : `<span class="text-xs text-gray-400">Sin docs</span>`;
-
-    const videoURL = s.URL_Video || s.url_video || "";
+    const videoURL  = s.URL_Video || s.url_video || "";
     const videoCell = videoURL
-      ? `<a href="${videoURL}" target="_blank" class="inline-flex items-center px-2 py-1 rounded text-xs font-semibold bg-red-100 text-red-700 hover:bg-red-200">🎥 Ver ↗</a>`
-      : `<span class="text-xs text-gray-400">—</span>`;
+      ? `<a href="${videoURL}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-red-100 text-red-700 hover:bg-red-200">🎥 Ver ↗</a>`
+      : `<span class="text-xs text-gray-300">—</span>`;
+
+    // Botón mis docs — pasa contexto de la comisión + fecha de sesión
+    const fecha     = s.Fecha || s.fecha || "";
+    const comm      = c ? c.commission_name : (window._currentCommissionData?.commission_name || "");
+    const grp       = c ? c.group           : (window._currentCommissionData?.group           || "");
+    const docsCtx   = JSON.stringify({
+      camara:      currentComCamara,
+      group:       grp,
+      commission:  comm,
+      sesionFecha: fecha,
+      scope:       "sesion",
+      label:       `📎 Docs sesión ${fecha}`,
+    }).replace(/'/g, "&#39;");
+
+    const misDocsBtn = `
+      <button onclick='window._openDocs(${docsCtx})'
+        class="inline-flex items-center gap-1 px-2 py-1 rounded-lg bg-amber-50 hover:bg-amber-100 border border-amber-200 text-amber-700 text-xs font-bold transition">
+        📎 Docs
+      </button>`;
 
     return `
       <tr class="border-t border-gray-100 hover:bg-gray-50">
-        <td class="py-2 px-2">${s.Fecha || ""}</td>
-        <td class="py-2 px-2">${estadoBadge}</td>
-        <td class="py-2 px-2"><div class="flex flex-wrap gap-1">${docsHTML}</div></td>
-        <td class="py-2 px-2 text-center">${transcript}</td>
-        ${currentComCamara === "senado" ? `<td class="py-2 px-2 text-center">${videoCell}</td>` : ""}
-      </tr>
-    `;
+        <td class="py-2 px-3 text-xs text-gray-700 whitespace-nowrap">${fecha}</td>
+        <td class="py-2 px-3">${estadoBadge}</td>
+        <td class="py-2 px-3"><div class="flex flex-wrap gap-1">${docsHTML}</div></td>
+        <td class="py-2 px-3 text-center text-sm">${transcript}</td>
+        <td class="py-2 px-3 text-center">${misDocsBtn}</td>
+        ${currentComCamara === "senado" ? `<td class="py-2 px-3 text-center">${videoCell}</td>` : ""}
+      </tr>`;
   }
 
   function getEstadoColor(estado) {
@@ -1040,7 +1052,6 @@
 
   // ===== Politicians =====
   let currentPolCamara = "all";
-  let _allPols = [];   // cache de todos los parlamentarios cargados
 
   function setPolCamara(c) {
     currentPolCamara = c;
@@ -1050,113 +1061,36 @@
       senado: { id: "polBtn-senado",    cls: "bg-red-600 text-white border-red-600",        label: "🔴 Senado" },
     };
 
+    // Reset todos los botones
     ["polBtn-all","polBtn-diputados","polBtn-senado"].forEach(function(id) {
       var el = $(id);
       if (el) el.className = "text-xs px-3 py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200";
     });
 
+    // Activar el seleccionado
     var cfg = configs[c] || configs.all;
     var btn = $(cfg.id);
     if (btn) btn.className = "text-xs px-3 py-1.5 rounded-lg font-bold border-2 " + cfg.cls;
     var lbl = $("polCamaraLabel");
     if (lbl) lbl.textContent = cfg.label;
 
-    // Resetear filtros de comisión y período al cambiar cámara
-    if ($("polComisionSelect")) $("polComisionSelect").value = "";
-    if ($("polPeriodoSelect"))  $("polPeriodoSelect").value  = "";
+    // Limpiar grid para dar feedback inmediato
+    var grid = $("politiciansGrid");
+    if (grid) grid.innerHTML = "<div class='col-span-3 text-xs text-gray-400 py-4'>Cambiando a " + cfg.label + "…</div>";
 
     loadPoliticians(($("politicianSearch").value || "").trim());
   }
 
   async function loadPoliticians(q = "") {
     const el = $("politiciansGrid");
-    if (el) el.innerHTML = '<div class="col-span-3 text-xs text-gray-400 py-4 text-center">Cargando…</div>';
+    if (el) el.innerHTML = '<div class="col-span-3 text-xs text-gray-400 py-4">Cargando…</div>';
     try {
       const data = await apiGet(`/api/politicians?q=${encodeURIComponent(q)}&camara=${currentPolCamara}`);
-      _allPols = data.politicians || [];
-      _buildPolComisionSelect(_allPols);
-      _buildPolPeriodoSelect(_allPols);
-      applyPolFilters();
+      const items = data.politicians || [];
+      renderPoliticians(items);
     } catch(e) {
       if (el) el.innerHTML = `<div class="col-span-3 text-sm text-red-500">${e.message}</div>`;
     }
-  }
-
-  function _buildPolComisionSelect(pols) {
-    const el = $("polComisionSelect");
-    if (!el) return;
-    const dipMap = new Map(), senMap = new Map();
-    pols.forEach(p => {
-      const ch = (p.chamber||"").toLowerCase();
-      const isSen = ch === "senado" || ch === "senador";
-      (p.comisiones||[]).forEach(c => {
-        if (!c.commission_name) return;
-        if (isSen) senMap.set(c.commission_name, true);
-        else       dipMap.set(c.commission_name, true);
-      });
-    });
-    const abbr = n => n.replace(/^Comisi[oó]n\s+(de\s+|del\s+|de\s+la\s+|de\s+los\s+|de\s+las\s+)?/i,"").trim().slice(0,45);
-    let html = `<option value="">📋 Todas las comisiones</option>`;
-    if (dipMap.size) {
-      html += `<optgroup label="🟣 Diputados">`;
-      [...dipMap.keys()].sort().forEach(n => { html += `<option value="${n}">${abbr(n)}</option>`; });
-      html += `</optgroup>`;
-    }
-    if (senMap.size) {
-      html += `<optgroup label="🔴 Senado">`;
-      [...senMap.keys()].sort().forEach(n => { html += `<option value="${n}">${abbr(n)}</option>`; });
-      html += `</optgroup>`;
-    }
-    el.innerHTML = html;
-  }
-
-  function _buildPolPeriodoSelect(pols) {
-    const el = $("polPeriodoSelect");
-    if (!el) return;
-    const yearsSet = new Set();
-    pols.forEach(p => {
-      const m = (p.periodo||"").match(/\d{4}/g);
-      if (m) m.forEach(y => yearsSet.add(parseInt(y)));
-    });
-    const years = [...yearsSet].sort((a,b) => b-a);
-    const anoActual = new Date().getFullYear();
-    let html = `<option value="">📅 Todos los períodos</option>`;
-    if (years.length) {
-      html += `<option value="actual">⭐ Legislatura actual (${anoActual})</option>`;
-      years.forEach(y => {
-        html += `<option value="${y}">📅 Activos en ${y}</option>`;
-      });
-    }
-    el.innerHTML = html;
-  }
-
-  function applyPolFilters() {
-    const q       = ($("politicianSearch").value||"").trim().toLowerCase();
-    const comFil  = ($("polComisionSelect")||{}).value || "";
-    const periodo = ($("polPeriodoSelect")||{}).value  || "";
-    const anoActual = new Date().getFullYear();
-
-    let list = [..._allPols];
-
-    if (q) list = list.filter(p => p.nombre.toLowerCase().includes(q));
-
-    if (comFil) {
-      list = list.filter(p => (p.comisiones||[]).some(c => c.commission_name === comFil));
-    }
-
-    if (periodo) {
-      list = list.filter(p => {
-        const per  = (p.periodo||"").trim();
-        const anos = (per.match(/\d{4}/g)||[]).map(Number);
-        if (!anos.length) return false;
-        const min  = Math.min(...anos), max = Math.max(...anos);
-        if (periodo === "actual") return anoActual >= min && anoActual <= max;
-        const y = parseInt(periodo);
-        return y >= min && y <= max;
-      });
-    }
-
-    renderPoliticians(list);
   }
 
   function renderPoliticians(items) {
@@ -1169,15 +1103,14 @@
           + "<div class='font-semibold text-red-700 mb-1'>🔴 Sin senadores indexados</div>"
           + "<div>Ejecuta <code>scraper_senado.py</code> para generar el <code>REPO_SENADO/</code>.</div>"
           + "</div>"
-        : "<div class='col-span-3 text-sm text-gray-500 py-6 text-center'>No hay resultados para esos filtros.</div>";
+        : "<div class='col-span-3 text-sm text-gray-500'>No hay resultados.</div>";
       el.innerHTML = msg;
       return;
     }
 
     var html = "";
     items.forEach(function(p) {
-      var ch        = (p.chamber||"").toLowerCase();
-      var isSenado  = ch === "senado" || ch === "senador";
+      var isSenado  = (p.chamber || "").toLowerCase() === "senado";
       var avatarCls = isSenado ? "bg-red-600" : "bg-purple-600";
       var badgeCls  = isSenado ? "bg-red-100 text-red-700" : "bg-purple-100 text-purple-700";
       var badgeTxt  = isSenado ? "Senador/a" : "Diputado/a";
@@ -1206,7 +1139,7 @@
         ? "<a class='flex-1 text-center text-xs px-3 py-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white font-semibold' href='" + p.url_ficha + "' target='_blank'>Ver ficha →</a>"
         : "<div class='text-xs text-gray-400 flex-1'>Sin ficha</div>";
 
-      // KOM button
+      // KOM button usando data-attributes para evitar problemas con comillas
       var komBtn = "<button class='flex-1 text-xs px-3 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 font-semibold kom-btn'"
         + " data-chamber='" + (p.chamber||"camara") + "'"
         + " data-id='" + (p.id||"") + "'"
@@ -1231,10 +1164,14 @@
 
     el.innerHTML = html;
 
-    // Bind KOM buttons
+    // Bind KOM buttons via event delegation (evita problemas de comillas en onclick)
     el.querySelectorAll(".kom-btn").forEach(function(btn) {
       btn.addEventListener("click", function() {
-        openKomModal(btn.dataset.chamber, btn.dataset.id, btn.dataset.nombre);
+        openKomModal(
+          btn.dataset.chamber,
+          btn.dataset.id,
+          btn.dataset.nombre
+        );
       });
     });
   }
@@ -1373,22 +1310,13 @@
 
   // ===== Activity =====
   async function loadActivity() {
-    const group  = $("activityGroup").value  || "";
+    const group = $("activityGroup").value || "";
     const status = $("activityStatus").value || "";
-    const q      = $("activityQ").value      || "";
-    const camara = $("activityCamara").value || "";
-    const days   = $("activityDays").value   || "180";
+    const q = $("activityQ").value || "";
 
-    const el = $("activityList");
-    if (el) el.innerHTML = `<div class="text-sm text-gray-400 py-4 text-center">Cargando actividad…</div>`;
-
-    try {
-      const url = `/api/activity?group=${encodeURIComponent(group)}&status=${encodeURIComponent(status)}&q=${encodeURIComponent(q)}&camara=${encodeURIComponent(camara)}&days=${days}`;
-      const data = await apiGet(url);
-      renderActivity(data.items || []);
-    } catch(e) {
-      if (el) el.innerHTML = `<div class="text-sm text-red-500">Error: ${e.message}</div>`;
-    }
+    const data = await apiGet(`/api/activity?group=${encodeURIComponent(group)}&status=${encodeURIComponent(status)}&q=${encodeURIComponent(q)}`);
+    const items = data.items || [];
+    renderActivity(items);
   }
 
   function renderActivity(items) {
@@ -1396,38 +1324,22 @@
     if (!el) return;
 
     if (!items.length) {
-      el.innerHTML = `<div class="text-sm text-gray-500 py-8 text-center">No hay actividad para esos filtros.<br><span class="text-xs text-gray-400">Prueba ampliando el rango de días o cambiando la cámara.</span></div>`;
+      el.innerHTML = `<div class="text-sm text-gray-500">No hay actividad para esos filtros.</div>`;
       return;
     }
 
-    el.innerHTML = items.slice(0, 150).map(x => {
-      const chamber   = (x.chamber || "").toLowerCase();
-      const isSenado  = chamber === "senado";
-      const camBadge  = isSenado
-        ? `<span class="text-xs px-2 py-0.5 rounded-full bg-red-100 text-red-700 font-semibold">🔴 Senado</span>`
-        : `<span class="text-xs px-2 py-0.5 rounded-full bg-purple-100 text-purple-700 font-semibold">🟣 Diputados</span>`;
-
-      // compatibilidad con campos del backend (mayúsc. y minúsc.)
-      const estado    = x.estado    || x.Estado    || "—";
-      const fecha     = x.fecha     || x.Fecha     || "—";
-      const sessionId = x.session_id || x.ID || x.id || "—";
-      const citacion  = x.citacion  || x.Citacion  || x.URL_Citacion || "";
-
-      return `
-        <div class="bg-white border border-gray-200 rounded-2xl p-4">
-          <div class="flex items-start justify-between gap-3 flex-wrap">
-            <div class="min-w-0">
-              <div class="flex items-center gap-2 flex-wrap mb-1">
-                ${camBadge}
-                <span class="font-bold text-gray-900 text-sm">${x.commission || "—"}</span>
-              </div>
-              <div class="text-xs text-gray-500">${x.group || ""} · ${fecha} · sesión ${sessionId}</div>
-            </div>
-            <span class="text-xs px-2 py-1 rounded-full shrink-0 ${getEstadoColor(estado)}">${estado}</span>
+    el.innerHTML = items.slice(0, 120).map(x => `
+      <div class="bg-white border border-gray-200 rounded-2xl p-4">
+        <div class="flex items-start justify-between gap-3">
+          <div>
+            <div class="font-bold text-gray-900">${x.commission}</div>
+            <div class="text-xs text-gray-500">${x.group} · ${x.fecha || "—"} · sesión ${x.session_id || "—"}</div>
           </div>
-          ${citacion ? `<div class="mt-2"><a href="${citacion}" target="_blank" class="text-sm text-purple-700 hover:underline">Ver citación ↗</a></div>` : ""}
-        </div>`;
-    }).join("");
+          <span class="text-xs px-2 py-1 rounded-full ${getEstadoColor(x.estado || "—")}">${x.estado || "—"}</span>
+        </div>
+        ${x.citacion ? `<div class="mt-2"><a href="${x.citacion}" target="_blank" class="text-sm text-purple-700 hover:underline">Ver citación ↗</a></div>` : ``}
+      </div>
+    `).join("");
   }
 
   // ===== News =====
@@ -1559,9 +1471,6 @@
     if (e.key === "Enter") await loadPoliticians(($("politicianSearch").value || "").trim());
   });
 
-  $("polComisionSelect")?.addEventListener("change", applyPolFilters);
-  $("polPeriodoSelect")?.addEventListener("change",  applyPolFilters);
-
   $("activityBtn")?.addEventListener("click", loadActivity);
   $("newsBtn")?.addEventListener("click", loadNews);
 
@@ -1586,6 +1495,336 @@
 
   // First health ping on landing
   pingHealth();
+})();
+</script>
+
+<!-- ===== Modal Documentos ===== -->
+<div id="docsModal" class="fixed inset-0 z-50 hidden items-center justify-center modal-overlay">
+  <div class="bg-white rounded-2xl w-full max-w-2xl max-h-[90vh] flex flex-col m-4 shadow-2xl">
+
+    <!-- Header -->
+    <div class="sticky top-0 bg-white border-b border-gray-200 px-6 py-4 rounded-t-2xl">
+      <div class="flex items-start justify-between gap-4">
+        <div class="min-w-0">
+          <h2 class="text-lg font-bold text-gray-900" id="docsModalTitle">Documentos</h2>
+          <div class="text-xs text-gray-500 mt-0.5" id="docsModalSub"></div>
+        </div>
+        <button onclick="window._closeDocs()" class="shrink-0 px-3 py-1.5 rounded-lg bg-gray-100 hover:bg-gray-200 text-sm font-semibold">✕ Cerrar</button>
+      </div>
+      <!-- Tabs -->
+      <div class="flex gap-1 mt-3">
+        <button id="docsTabList" onclick="window._docsTab('list')"
+          class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-purple-600 text-white">
+          📋 Documentos
+        </button>
+        <button id="docsTabAdd" onclick="window._docsTab('add')"
+          class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-gray-100 text-gray-600 hover:bg-gray-200">
+          ➕ Agregar
+        </button>
+      </div>
+    </div>
+
+    <!-- Panel Lista -->
+    <div id="docsPanelList" class="flex-1 overflow-auto p-5">
+      <div id="docsListContent" class="space-y-2">
+        <div class="text-sm text-gray-400 text-center py-8">Cargando…</div>
+      </div>
+    </div>
+
+    <!-- Panel Agregar -->
+    <div id="docsPanelAdd" class="hidden flex-1 overflow-auto p-5 space-y-5">
+
+      <!-- Subir archivo -->
+      <div class="bg-gray-50 rounded-xl border border-gray-200 p-4">
+        <h3 class="text-sm font-bold text-gray-700 mb-3">📁 Subir archivo</h3>
+        <div class="space-y-3">
+          <div>
+            <label class="text-xs text-gray-500 block mb-1">Título (opcional)</label>
+            <input id="docsUpTitle" type="text" placeholder="Ej: Presentación Proyecto de Ley"
+              class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm focus:border-purple-400 focus:outline-none" />
+          </div>
+          <div>
+            <label class="text-xs text-gray-500 block mb-1">Tipo</label>
+            <select id="docsUpTipo" class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm">
+              <option value="presentacion">📊 Presentación</option>
+              <option value="informe">📄 Informe</option>
+              <option value="proyecto">📝 Proyecto de Ley</option>
+              <option value="acta">📋 Acta</option>
+              <option value="otro" selected>📎 Otro</option>
+            </select>
+          </div>
+          <div>
+            <label class="text-xs text-gray-500 block mb-1">Notas</label>
+            <input id="docsUpNotas" type="text" placeholder="Descripción breve…"
+              class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm focus:border-purple-400 focus:outline-none" />
+          </div>
+          <div>
+            <label class="text-xs text-gray-500 block mb-1">Archivo (PDF, DOCX, PPTX, XLS…)</label>
+            <input id="docsUpFile" type="file" accept=".pdf,.doc,.docx,.ppt,.pptx,.xls,.xlsx,.txt,.md,.jpg,.png,.zip"
+              class="w-full text-sm text-gray-600 file:mr-3 file:px-4 file:py-2 file:rounded-lg file:border-0 file:text-sm file:font-semibold file:bg-purple-50 file:text-purple-700 hover:file:bg-purple-100" />
+          </div>
+          <button onclick="window._docsUpload()"
+            class="w-full py-2.5 rounded-xl gradient-bg text-white font-semibold text-sm hover:opacity-90 transition">
+            ⬆ Subir archivo
+          </button>
+          <div id="docsUpStatus" class="text-xs text-center"></div>
+        </div>
+      </div>
+
+      <!-- Agregar link externo -->
+      <div class="bg-gray-50 rounded-xl border border-gray-200 p-4">
+        <h3 class="text-sm font-bold text-gray-700 mb-3">🔗 Agregar link externo</h3>
+        <div class="space-y-3">
+          <div>
+            <label class="text-xs text-gray-500 block mb-1">Título</label>
+            <input id="docsLinkTitle" type="text" placeholder="Ej: Informe Ministerio en sitio web"
+              class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm focus:border-purple-400 focus:outline-none" />
+          </div>
+          <div>
+            <label class="text-xs text-gray-500 block mb-1">URL</label>
+            <input id="docsLinkUrl" type="url" placeholder="https://…"
+              class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm focus:border-purple-400 focus:outline-none" />
+          </div>
+          <div>
+            <label class="text-xs text-gray-500 block mb-1">Tipo</label>
+            <select id="docsLinkTipo" class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm">
+              <option value="presentacion">📊 Presentación</option>
+              <option value="informe">📄 Informe</option>
+              <option value="proyecto">📝 Proyecto de Ley</option>
+              <option value="otro" selected>🔗 Enlace externo</option>
+            </select>
+          </div>
+          <div>
+            <label class="text-xs text-gray-500 block mb-1">Notas</label>
+            <input id="docsLinkNotas" type="text" placeholder="Descripción breve…"
+              class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm focus:border-purple-400 focus:outline-none" />
+          </div>
+          <button onclick="window._docsAddLink()"
+            class="w-full py-2.5 rounded-xl bg-indigo-600 text-white font-semibold text-sm hover:opacity-90 transition">
+            ➕ Agregar link
+          </button>
+          <div id="docsLinkStatus" class="text-xs text-center"></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script>
+// ════════════════════════════════════════════════════════
+// MÓDULO DOCUMENTOS — completamente autónomo
+// Contexto activo: { camara, group, commission, sesionFecha, scope }
+// ════════════════════════════════════════════════════════
+(() => {
+  "use strict";
+
+  // Estado
+  let _ctx = null;   // { camara, group, commission, sesionFecha, scope, label }
+
+  const $ = id => document.getElementById(id);
+
+  const TIPO_ICONS = {
+    presentacion: "📊", informe: "📄", proyecto: "📝",
+    acta: "📋", otro: "📎", "": "📎"
+  };
+
+  function _docsUrl(ctx) {
+    return `/api/docs/${ctx.camara}/${encodeURIComponent(ctx.group)}/${encodeURIComponent(ctx.commission)}`;
+  }
+
+  // ── Abrir modal ──────────────────────────────────────
+  window._openDocs = async function(ctx) {
+    _ctx = ctx;
+    $("docsModalTitle").textContent = ctx.label || "Documentos";
+    $("docsModalSub").textContent   = ctx.sesionFecha
+      ? `Sesión del ${ctx.sesionFecha} · ${ctx.commission}`
+      : `Documentos generales · ${ctx.commission}`;
+
+    $("docsModal").classList.remove("hidden");
+    $("docsModal").classList.add("flex");
+
+    _docsTab("list");
+    _loadDocsList();
+  };
+
+  window._closeDocs = function() {
+    $("docsModal").classList.add("hidden");
+    $("docsModal").classList.remove("flex");
+    _ctx = null;
+  };
+
+  // Cerrar al hacer click fuera
+  $("docsModal").addEventListener("click", e => {
+    if (e.target === $("docsModal")) window._closeDocs();
+  });
+
+  // ── Tabs ─────────────────────────────────────────────
+  window._docsTab = function(tab) {
+    const isList = tab === "list";
+    $("docsPanelList").classList.toggle("hidden", !isList);
+    $("docsPanelAdd").classList.toggle("hidden",  isList);
+    $("docsTabList").className = "px-4 py-1.5 rounded-lg text-sm font-semibold "
+      + (isList ? "bg-purple-600 text-white" : "bg-gray-100 text-gray-600 hover:bg-gray-200");
+    $("docsTabAdd").className  = "px-4 py-1.5 rounded-lg text-sm font-semibold "
+      + (!isList ? "bg-purple-600 text-white" : "bg-gray-100 text-gray-600 hover:bg-gray-200");
+  };
+
+  // ── Cargar lista ─────────────────────────────────────
+  async function _loadDocsList() {
+    if (!_ctx) return;
+    $("docsListContent").innerHTML = `<div class="text-sm text-gray-400 text-center py-8">Cargando…</div>`;
+
+    let url = _docsUrl(_ctx);
+    if (_ctx.sesionFecha) url += `?sesion_fecha=${encodeURIComponent(_ctx.sesionFecha)}`;
+    else                   url += `?scope=comision`;
+
+    try {
+      const data = await fetch(url).then(r => r.json());
+      _renderDocsList(data.docs || []);
+    } catch(e) {
+      $("docsListContent").innerHTML = `<div class="text-sm text-red-500">Error: ${e.message}</div>`;
+    }
+  }
+
+  function _renderDocsList(docs) {
+    if (!docs.length) {
+      $("docsListContent").innerHTML = `
+        <div class="text-center py-10">
+          <div class="text-4xl mb-3">📂</div>
+          <div class="text-sm text-gray-500 mb-1">No hay documentos aún</div>
+          <div class="text-xs text-gray-400">Usa la pestaña <strong>Agregar</strong> para subir archivos o links</div>
+        </div>`;
+      return;
+    }
+
+    $("docsListContent").innerHTML = docs.map(d => {
+      const icon  = TIPO_ICONS[d.tipo] || "📎";
+      const fecha = d.uploaded_at ? new Date(d.uploaded_at).toLocaleDateString("es-CL") : "";
+      const size  = d.size_bytes > 0 ? ` · ${(d.size_bytes/1024).toFixed(0)} KB` : "";
+
+      const linkBtn = d.filename
+        ? `<a href="${_docsUrl(_ctx)}/file/${encodeURIComponent(d.filename)}" target="_blank"
+             class="text-xs px-3 py-1.5 rounded-lg bg-purple-50 text-purple-700 hover:bg-purple-100 font-semibold transition">
+             ↓ Descargar
+           </a>`
+        : d.url
+          ? `<a href="${d.url}" target="_blank"
+               class="text-xs px-3 py-1.5 rounded-lg bg-indigo-50 text-indigo-700 hover:bg-indigo-100 font-semibold transition">
+               ↗ Abrir link
+             </a>`
+          : "";
+
+      return `
+        <div class="flex items-start gap-3 p-3 bg-gray-50 rounded-xl border border-gray-100 hover:border-gray-200 transition">
+          <span class="text-2xl mt-0.5 shrink-0">${icon}</span>
+          <div class="min-w-0 flex-1">
+            <div class="font-semibold text-sm text-gray-900 leading-tight">${_esc(d.title || d.original_name || "Sin título")}</div>
+            ${d.notas ? `<div class="text-xs text-gray-500 mt-0.5">${_esc(d.notas)}</div>` : ""}
+            <div class="text-xs text-gray-400 mt-0.5">${fecha}${size}</div>
+          </div>
+          <div class="flex items-center gap-2 shrink-0">
+            ${linkBtn}
+            <button onclick="window._docsDelete('${d.id}')"
+              class="text-xs px-2 py-1.5 rounded-lg text-red-400 hover:bg-red-50 hover:text-red-600 transition font-semibold">
+              🗑
+            </button>
+          </div>
+        </div>`;
+    }).join("");
+  }
+
+  // ── Eliminar ─────────────────────────────────────────
+  window._docsDelete = async function(docId) {
+    if (!_ctx || !confirm("¿Eliminar este documento?")) return;
+    try {
+      const url = `${_docsUrl(_ctx)}/${docId}`;
+      await fetch(url, { method: "DELETE" });
+      _loadDocsList();
+    } catch(e) { alert("Error al eliminar: " + e.message); }
+  };
+
+  // ── Subir archivo ─────────────────────────────────────
+  window._docsUpload = async function() {
+    if (!_ctx) return;
+    const file  = $("docsUpFile").files?.[0];
+    if (!file) { $("docsUpStatus").textContent = "⚠ Selecciona un archivo"; return; }
+
+    const title = $("docsUpTitle").value.trim();
+    const tipo  = $("docsUpTipo").value;
+    const notas = $("docsUpNotas").value.trim();
+
+    $("docsUpStatus").textContent = "Subiendo…";
+
+    const fd = new FormData();
+    fd.append("file",        file);
+    fd.append("title",       title || file.name);
+    fd.append("tipo",        tipo);
+    fd.append("notas",       notas);
+    fd.append("scope",       _ctx.sesionFecha ? "sesion" : "comision");
+    fd.append("sesion_fecha", _ctx.sesionFecha || "");
+
+    const url = `${_docsUrl(_ctx)}/upload`;
+
+    try {
+      const r = await fetch(url, { method: "POST", body: fd });
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      $("docsUpStatus").innerHTML = `<span class="text-green-600">✓ Subido correctamente</span>`;
+      $("docsUpFile").value  = "";
+      $("docsUpTitle").value = "";
+      $("docsUpNotas").value = "";
+      setTimeout(() => {
+        _docsTab("list");
+        _loadDocsList();
+        $("docsUpStatus").textContent = "";
+      }, 900);
+    } catch(e) {
+      $("docsUpStatus").innerHTML = `<span class="text-red-500">✗ Error: ${e.message}</span>`;
+    }
+  };
+
+  // ── Agregar link externo ──────────────────────────────
+  window._docsAddLink = async function() {
+    if (!_ctx) return;
+    const title = $("docsLinkTitle").value.trim();
+    const url   = $("docsLinkUrl").value.trim();
+    if (!title || !url) { $("docsLinkStatus").textContent = "⚠ Completa título y URL"; return; }
+
+    const tipo  = $("docsLinkTipo").value;
+    const notas = $("docsLinkNotas").value.trim();
+
+    $("docsLinkStatus").textContent = "Guardando…";
+
+    try {
+      const endpoint = `${_docsUrl(_ctx)}/link`;
+      const r = await fetch(endpoint, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          title, url, tipo, notas,
+          scope:       _ctx.sesionFecha ? "sesion" : "comision",
+          sesion_fecha: _ctx.sesionFecha || "",
+          source:      "manual",
+        }),
+      });
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      $("docsLinkStatus").innerHTML = `<span class="text-green-600">✓ Link agregado</span>`;
+      $("docsLinkTitle").value = "";
+      $("docsLinkUrl").value   = "";
+      $("docsLinkNotas").value = "";
+      setTimeout(() => {
+        _docsTab("list");
+        _loadDocsList();
+        $("docsLinkStatus").textContent = "";
+      }, 900);
+    } catch(e) {
+      $("docsLinkStatus").innerHTML = `<span class="text-red-500">✗ ${e.message}</span>`;
+    }
+  };
+
+  function _esc(s) {
+    return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+  }
 })();
 </script>
 
