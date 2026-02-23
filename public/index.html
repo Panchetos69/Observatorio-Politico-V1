@@ -191,17 +191,37 @@
     <!-- ===== Parlamentarios ===== -->
     <div id="tabPoliticians" class="tabPanel hidden fade-in">
       <div class="bg-white rounded-2xl border border-gray-200 p-5 mb-6">
-        <div class="flex items-center justify-between gap-3">
+        <!-- Fila 1: título + búsqueda nombre -->
+        <div class="flex items-center justify-between gap-3 flex-wrap">
           <h2 class="text-lg font-bold">Parlamentarios</h2>
-          <div class="flex gap-2">
-            <input id="politicianSearch" class="border border-gray-200 rounded-lg px-3 py-2 text-sm" placeholder="Buscar por nombre..." />
-            <button id="politicianSearchBtn" class="gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold hover:opacity-90">
+          <div class="flex gap-2 flex-wrap">
+            <input id="politicianSearch"
+              class="border border-gray-200 rounded-lg px-3 py-2 text-sm w-48"
+              placeholder="Buscar por nombre..."
+              oninput="window._polDebounce()" />
+            <button id="politicianSearchBtn"
+              class="gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold hover:opacity-90">
               Buscar
             </button>
           </div>
         </div>
-        <!-- Toggle Cámara/Senado -->
-        <div class="flex gap-2 mt-3">
+
+        <!-- Fila 2: filtros comisión + período -->
+        <div class="flex gap-2 mt-3 flex-wrap">
+          <select id="polComisionSelect"
+            class="border border-gray-200 rounded-lg px-3 py-2 text-sm flex-1 min-w-[200px] focus:border-purple-400 focus:outline-none"
+            onchange="window._applyPolFilters()">
+            <option value="">📋 Todas las comisiones</option>
+          </select>
+          <select id="polPeriodoSelect"
+            class="border border-gray-200 rounded-lg px-3 py-2 text-sm focus:border-purple-400 focus:outline-none"
+            onchange="window._applyPolFilters()">
+            <option value="">📅 Todos los períodos</option>
+          </select>
+        </div>
+
+        <!-- Fila 3: toggle cámara -->
+        <div class="flex gap-2 mt-3 flex-wrap items-center">
           <button id="polBtn-all" onclick="window.setPolCamara('all')"
             class="text-xs px-3 py-1.5 rounded-lg font-bold bg-gray-700 text-white border-2 border-gray-700">
             🏛️ Todas
@@ -1052,6 +1072,14 @@
 
   // ===== Politicians =====
   let currentPolCamara = "all";
+  let _allPols = [];          // cache local para filtros sin refetch
+  let _polDebTimer = null;
+
+  // Debounce para el input de nombre
+  window._polDebounce = function() {
+    clearTimeout(_polDebTimer);
+    _polDebTimer = setTimeout(() => window._applyPolFilters(), 280);
+  };
 
   function setPolCamara(c) {
     currentPolCamara = c;
@@ -1061,74 +1089,180 @@
       senado: { id: "polBtn-senado",    cls: "bg-red-600 text-white border-red-600",        label: "🔴 Senado" },
     };
 
-    // Reset todos los botones
     ["polBtn-all","polBtn-diputados","polBtn-senado"].forEach(function(id) {
       var el = $(id);
       if (el) el.className = "text-xs px-3 py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200";
     });
 
-    // Activar el seleccionado
     var cfg = configs[c] || configs.all;
     var btn = $(cfg.id);
     if (btn) btn.className = "text-xs px-3 py-1.5 rounded-lg font-bold border-2 " + cfg.cls;
     var lbl = $("polCamaraLabel");
     if (lbl) lbl.textContent = cfg.label;
 
-    // Limpiar grid para dar feedback inmediato
+    // Resetear filtros secundarios al cambiar cámara
+    if ($("polComisionSelect")) $("polComisionSelect").value = "";
+    if ($("polPeriodoSelect"))  $("polPeriodoSelect").value  = "";
+
     var grid = $("politiciansGrid");
-    if (grid) grid.innerHTML = "<div class='col-span-3 text-xs text-gray-400 py-4'>Cambiando a " + cfg.label + "…</div>";
+    if (grid) grid.innerHTML = "<div class='col-span-3 text-xs text-gray-400 py-4 text-center'>Cargando " + cfg.label + "…</div>";
 
     loadPoliticians(($("politicianSearch").value || "").trim());
   }
 
   async function loadPoliticians(q = "") {
     const el = $("politiciansGrid");
-    if (el) el.innerHTML = '<div class="col-span-3 text-xs text-gray-400 py-4">Cargando…</div>';
+    if (el) el.innerHTML = '<div class="col-span-3 text-xs text-gray-400 py-6 text-center">⏳ Cargando parlamentarios…</div>';
     try {
-      const data = await apiGet(`/api/politicians?q=${encodeURIComponent(q)}&camara=${currentPolCamara}`);
-      const items = data.politicians || [];
-      renderPoliticians(items);
+      const data = await apiGet(`/api/politicians?q=&camara=${currentPolCamara}`);
+      _allPols = data.politicians || [];
+      _buildPolComisionSelect(_allPols);
+      _buildPolPeriodoSelect(_allPols);
+      window._applyPolFilters();
     } catch(e) {
-      if (el) el.innerHTML = `<div class="col-span-3 text-sm text-red-500">${e.message}</div>`;
+      if (el) el.innerHTML = `<div class="col-span-3 text-sm text-red-500 py-4 text-center">Error: ${e.message}</div>`;
     }
   }
+
+  // Poblar selector de comisiones agrupado por cámara
+  function _buildPolComisionSelect(pols) {
+    const el = $("polComisionSelect");
+    if (!el) return;
+    const dipMap = new Map(), senMap = new Map();
+    pols.forEach(function(p) {
+      var ch = (p.chamber || "").toLowerCase();
+      var isSen = ch === "senado" || ch === "senador" || ch === "senadores";
+      (p.comisiones || []).forEach(function(c) {
+        if (!c.commission_name) return;
+        if (isSen) senMap.set(c.commission_name, true);
+        else       dipMap.set(c.commission_name, true);
+      });
+    });
+    var abbr = function(n) {
+      return n.replace(/^Comisi[oó]n\s+(de\s+|del\s+|de\s+la\s+|de\s+los\s+|de\s+las\s+)?/i, "").trim().slice(0, 45);
+    };
+    var prev = el.value;
+    var html = '<option value="">📋 Todas las comisiones</option>';
+    if (dipMap.size) {
+      html += '<optgroup label="🟣 Cámara de Diputados (' + dipMap.size + ')">';
+      [...dipMap.keys()].sort(function(a,b){ return a.localeCompare(b,"es"); }).forEach(function(n) {
+        html += '<option value="' + n.replace(/"/g,'&quot;') + '">' + abbr(n) + '</option>';
+      });
+      html += '</optgroup>';
+    }
+    if (senMap.size) {
+      html += '<optgroup label="🔴 Senado (' + senMap.size + ')">';
+      [...senMap.keys()].sort(function(a,b){ return a.localeCompare(b,"es"); }).forEach(function(n) {
+        html += '<option value="' + n.replace(/"/g,'&quot;') + '">' + abbr(n) + '</option>';
+      });
+      html += '</optgroup>';
+    }
+    el.innerHTML = html;
+    if (prev) el.value = prev;
+  }
+
+  // Poblar selector de períodos desde campo "periodo" de cada parlamentario
+  function _buildPolPeriodoSelect(pols) {
+    const el = $("polPeriodoSelect");
+    if (!el) return;
+    var yearsSet = new Set();
+    pols.forEach(function(p) {
+      var m = (p.periodo || "").match(/\d{4}/g);
+      if (m) m.forEach(function(y) { yearsSet.add(parseInt(y)); });
+    });
+    var years = [...yearsSet].sort(function(a,b){ return b - a; });
+    var anoActual = new Date().getFullYear();
+    var prev = el.value;
+    var html = '<option value="">📅 Todos los períodos</option>';
+    if (years.length) {
+      html += '<option value="actual">⭐ Legislatura actual (' + anoActual + ')</option>';
+      years.forEach(function(y) {
+        var lbl = y >= anoActual - 1 ? y + ' (reciente)' : String(y);
+        html += '<option value="' + y + '">📅 Activos en ' + lbl + '</option>';
+      });
+    }
+    el.innerHTML = html;
+    if (prev) el.value = prev;
+  }
+
+  // Filtrar localmente sin nuevo fetch
+  window._applyPolFilters = function() {
+    var q       = ($("politicianSearch").value || "").trim().toLowerCase();
+    var comFil  = ($("polComisionSelect") || {}).value || "";
+    var periodo = ($("polPeriodoSelect")  || {}).value || "";
+    var anoActual = new Date().getFullYear();
+
+    var list = _allPols.slice();
+
+    if (q) list = list.filter(function(p) { return p.nombre.toLowerCase().includes(q); });
+
+    if (comFil) {
+      list = list.filter(function(p) {
+        return (p.comisiones || []).some(function(c) { return c.commission_name === comFil; });
+      });
+    }
+
+    if (periodo) {
+      list = list.filter(function(p) {
+        var per  = (p.periodo || "").trim();
+        var anos = (per.match(/\d{4}/g) || []).map(Number);
+        if (!anos.length) return false;
+        var min = Math.min.apply(null, anos), max = Math.max.apply(null, anos);
+        if (periodo === "actual") return anoActual >= min && anoActual <= max;
+        var y = parseInt(periodo);
+        return y >= min && y <= max;
+      });
+    }
+
+    renderPoliticians(list);
+  };
 
   function renderPoliticians(items) {
     var el = $("politiciansGrid");
     if (!el) return;
 
     if (!items.length) {
-      var msg = currentPolCamara === "senado"
+      var comFil  = ($("polComisionSelect") || {}).value || "";
+      var periodo = ($("polPeriodoSelect")  || {}).value || "";
+      var hayFiltros = comFil || periodo || ($("politicianSearch").value || "").trim();
+
+      var msg = currentPolCamara === "senado" && !hayFiltros
         ? "<div class='col-span-3 text-sm text-gray-400 p-4 bg-red-50 rounded-xl border border-red-100'>"
           + "<div class='font-semibold text-red-700 mb-1'>🔴 Sin senadores indexados</div>"
           + "<div>Ejecuta <code>scraper_senado.py</code> para generar el <code>REPO_SENADO/</code>.</div>"
           + "</div>"
-        : "<div class='col-span-3 text-sm text-gray-500'>No hay resultados.</div>";
+        : "<div class='col-span-3 text-sm text-gray-500 py-8 text-center'>Sin resultados para esos filtros.</div>";
       el.innerHTML = msg;
       return;
     }
 
     var html = "";
     items.forEach(function(p) {
-      var isSenado  = (p.chamber || "").toLowerCase() === "senado";
+      var ch        = (p.chamber || "").toLowerCase();
+      var isSenado  = ch === "senado" || ch === "senador";
       var avatarCls = isSenado ? "bg-red-600" : "bg-purple-600";
       var badgeCls  = isSenado ? "bg-red-100 text-red-700" : "bg-purple-100 text-purple-700";
       var badgeTxt  = isSenado ? "Senador/a" : "Diputado/a";
-      var nameParts = p.nombre.split(" ").slice(0,2);
-      var initials  = nameParts.map(function(x){ return x[0]||""; }).join("").toUpperCase();
+      var nameParts = p.nombre.split(" ").slice(0, 2);
+      var initials  = nameParts.map(function(x){ return x[0] || ""; }).join("").toUpperCase();
 
-      // Comisiones (hasta 2 badges)
+      // Comisiones: hasta 2 badges
       var coms = p.comisiones || [];
       var comBadgesHtml = "";
-      coms.slice(0,2).forEach(function(c) {
-        var short = c.commission_name.replace(/^Comisi[oó]n de /i,"").slice(0,22);
+      coms.slice(0, 2).forEach(function(c) {
+        var short = c.commission_name.replace(/^Comisi[oó]n de /i, "").slice(0, 22);
         comBadgesHtml += "<span class='inline-block text-xs px-2 py-0.5 rounded-full bg-gray-100 text-gray-600' title='" + short + "'>" + short + "</span> ";
       });
-      if (coms.length > 2) comBadgesHtml += "<span class='text-xs text-gray-400'>+" + (coms.length-2) + " más</span>";
+      if (coms.length > 2) comBadgesHtml += "<span class='text-xs text-gray-400'>+" + (coms.length - 2) + " más</span>";
 
       var comsSection = coms.length
         ? "<div class='flex flex-wrap gap-1 mb-1'>" + comBadgesHtml + "</div>"
           + "<div class='text-xs text-gray-400 mb-2'>" + coms.length + " comisión(es)</div>"
+        : "";
+
+      // Badge período si existe
+      var periodoHtml = p.periodo
+        ? "<span class='text-xs px-2 py-0.5 rounded-full bg-blue-50 text-blue-600 font-medium'>" + p.periodo + "</span>"
         : "";
 
       var cargoHtml = p.cargo
@@ -1139,21 +1273,21 @@
         ? "<a class='flex-1 text-center text-xs px-3 py-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white font-semibold' href='" + p.url_ficha + "' target='_blank'>Ver ficha →</a>"
         : "<div class='text-xs text-gray-400 flex-1'>Sin ficha</div>";
 
-      // KOM button usando data-attributes para evitar problemas con comillas
       var komBtn = "<button class='flex-1 text-xs px-3 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 font-semibold kom-btn'"
-        + " data-chamber='" + (p.chamber||"camara") + "'"
-        + " data-id='" + (p.id||"") + "'"
+        + " data-chamber='" + (p.chamber || "camara") + "'"
+        + " data-id='" + (p.id || "") + "'"
         + " data-nombre='" + encodeURIComponent(p.nombre) + "'"
         + ">📋 Perfil KOM</button>";
 
       html += "<div class='card-hover bg-white rounded-2xl border border-gray-200 p-4'>"
         + "<div class='flex items-start gap-3 mb-2'>"
           + "<div class='w-10 h-10 shrink-0 rounded-full " + avatarCls + " text-white flex items-center justify-center font-bold text-xs'>" + initials + "</div>"
-          + "<div class='min-w-0'>"
+          + "<div class='min-w-0 flex-1'>"
             + "<div class='font-bold text-gray-900 text-sm leading-tight'>" + p.nombre + "</div>"
             + "<div class='flex items-center gap-1 mt-0.5 flex-wrap'>"
               + "<span class='text-xs px-2 py-0.5 rounded-full font-semibold " + badgeCls + "'>" + badgeTxt + "</span>"
               + cargoHtml
+              + periodoHtml
             + "</div>"
           + "</div>"
         + "</div>"
@@ -1164,14 +1298,9 @@
 
     el.innerHTML = html;
 
-    // Bind KOM buttons via event delegation (evita problemas de comillas en onclick)
     el.querySelectorAll(".kom-btn").forEach(function(btn) {
       btn.addEventListener("click", function() {
-        openKomModal(
-          btn.dataset.chamber,
-          btn.dataset.id,
-          btn.dataset.nombre
-        );
+        openKomModal(btn.dataset.chamber, btn.dataset.id, btn.dataset.nombre);
       });
     });
   }
@@ -1463,12 +1592,10 @@
     if (e.key === "Enter") await loadCommissions(($("commissionSearch").value || "").trim());
   });
 
-  $("politicianSearchBtn")?.addEventListener("click", async () => {
-    await loadPoliticians(($("politicianSearch").value || "").trim());
-  });
+  $("politicianSearchBtn")?.addEventListener("click", () => window._applyPolFilters());
 
-  $("politicianSearch")?.addEventListener("keydown", async (e) => {
-    if (e.key === "Enter") await loadPoliticians(($("politicianSearch").value || "").trim());
+  $("politicianSearch")?.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") window._applyPolFilters();
   });
 
   $("activityBtn")?.addEventListener("click", loadActivity);
