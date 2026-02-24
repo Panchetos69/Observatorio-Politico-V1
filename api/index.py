@@ -1,5 +1,5 @@
 from __future__ import annotations
-from vercel_blob import put
+
 import json
 import os
 import uuid
@@ -44,58 +44,50 @@ def get_store(camara: str = "diputados") -> DataStore:
 
 
 # ─────────────────────────────────────────
-# Vercel Blob helpers
+# Vercel Blob — SDK
 # ─────────────────────────────────────────
 try:
     import vercel_blob
     BLOB_AVAILABLE = True
 except ImportError:
+    vercel_blob    = None  # type: ignore
     BLOB_AVAILABLE = False
-    print("[WARN] vercel-blob not installed — docs will fall back to local disk")
+    print("[WARN] vercel-blob no instalado — usando disco local como fallback")
 
 
+# ─────────────────────────────────────────
+# Blob helpers — Documentos
+# ─────────────────────────────────────────
 def _blob_meta_key(camara: str, group: str, commission_name: str) -> str:
-    """Clave del JSON de metadata en Blob."""
     return f"docs/{camara}/{group}/{commission_name}/meta.json"
 
-
-def _blob_file_key(camara: str, group: str, commission_name: str,
-                   doc_id: str, ext: str) -> str:
-    """Clave del archivo binario en Blob."""
+def _blob_file_key(camara: str, group: str, commission_name: str, doc_id: str, ext: str) -> str:
     return f"docs/{camara}/{group}/{commission_name}/files/{doc_id}{ext}"
 
-
 def load_docs_meta(camara: str, group: str, commission_name: str) -> list:
-    """Lee la metadata de documentos desde Vercel Blob (o disco si Blob no está disponible)."""
     if BLOB_AVAILABLE and BLOB_TOKEN:
-        key = _blob_meta_key(camara, group, commission_name)
         try:
-            resp = vercel_blob.get(key, token=BLOB_TOKEN)
+            resp = vercel_blob.get(_blob_meta_key(camara, group, commission_name), token=BLOB_TOKEN)
             return json.loads(resp.content)
         except Exception:
-            return []   # todavía no existe → lista vacía
-    else:
-        # Fallback a disco local (desarrollo sin Blob)
-        store = get_store(camara)
-        p = os.path.join(store.data_repo_dir, group, commission_name, "docs", "docs_meta.json")
-        if not os.path.exists(p):
             return []
-        try:
-            with open(p, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception:
-            return []
-
+    # fallback disco
+    store = get_store(camara)
+    p = os.path.join(store.data_repo_dir, group, commission_name, "docs", "docs_meta.json")
+    if not os.path.exists(p):
+        return []
+    try:
+        with open(p, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return []
 
 def save_docs_meta(camara: str, group: str, commission_name: str, meta: list) -> None:
-    """Guarda la metadata en Vercel Blob (o disco como fallback)."""
-    raw_json = json.dumps(meta, ensure_ascii=False, indent=2).encode("utf-8")
-
+    raw = json.dumps(meta, ensure_ascii=False, indent=2).encode("utf-8")
     if BLOB_AVAILABLE and BLOB_TOKEN:
-        key = _blob_meta_key(camara, group, commission_name)
         vercel_blob.put(
-            key,
-            raw_json,
+            _blob_meta_key(camara, group, commission_name),
+            raw,
             options={"contentType": "application/json", "access": "public"},
             token=BLOB_TOKEN,
         )
@@ -104,13 +96,52 @@ def save_docs_meta(camara: str, group: str, commission_name: str, meta: list) ->
         d = os.path.join(store.data_repo_dir, group, commission_name, "docs")
         os.makedirs(d, exist_ok=True)
         with open(os.path.join(d, "docs_meta.json"), "w", encoding="utf-8") as f:
-            f.write(raw_json.decode("utf-8"))
+            f.write(raw.decode("utf-8"))
+
+
+# ─────────────────────────────────────────
+# Blob helpers — KOM Profiles
+# ─────────────────────────────────────────
+def _kom_blob_key(chamber: str, pid: str) -> str:
+    return f"kom/profiles/{chamber.lower()}/{str(pid).strip()}.json"
+
+def _load_kom(chamber: str, pid: str) -> dict | None:
+    if BLOB_AVAILABLE and BLOB_TOKEN:
+        try:
+            resp = vercel_blob.get(_kom_blob_key(chamber, pid), token=BLOB_TOKEN)
+            return json.loads(resp.content)
+        except Exception:
+            return None
+    # fallback disco
+    path = os.path.join(store_camara.kom_dir, "profiles", chamber.lower(), f"{str(pid).strip()}.json")
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+def _save_kom(chamber: str, pid: str, data: dict) -> None:
+    raw = json.dumps(data, ensure_ascii=False, indent=2).encode("utf-8")
+    if BLOB_AVAILABLE and BLOB_TOKEN:
+        vercel_blob.put(
+            _kom_blob_key(chamber, pid),
+            raw,
+            options={"contentType": "application/json", "access": "public"},
+            token=BLOB_TOKEN,
+        )
+    else:
+        base = os.path.join(store_camara.kom_dir, "profiles", chamber.lower())
+        os.makedirs(base, exist_ok=True)
+        with open(os.path.join(base, f"{str(pid).strip()}.json"), "w", encoding="utf-8") as f:
+            f.write(raw.decode("utf-8"))
 
 
 # ─────────────────────────────────────────
 # FastAPI app
 # ─────────────────────────────────────────
-app = FastAPI(title="Observatorio Político API", version="0.4")
+app = FastAPI(title="Observatorio Político API", version="0.5")
 
 app.add_middleware(
     CORSMiddleware,
@@ -125,31 +156,18 @@ if os.path.isdir(PUBLIC_DIR):
 
 
 # ─────────────────────────────────────────
-# KOM helper
+# Health
 # ─────────────────────────────────────────
-def kom_profile_path(chamber: str, pid: str) -> str:
-    chamber = (chamber or "camara").lower()
-    base = os.path.join(store_camara.kom_dir, "profiles", chamber)
-    os.makedirs(base, exist_ok=True)
-    return os.path.join(base, f"{str(pid).strip()}.json")
-
-
-# ─────────────────────────────────────────
-# Endpoints
-# ─────────────────────────────────────────
-
 @app.get("/health")
 def health_simple():
     return {"ok": True}
-
 
 @app.get("/")
 def root():
     index_path = os.path.join(PUBLIC_DIR, "index.html")
     if os.path.exists(index_path):
         return FileResponse(index_path)
-    return {"message": "Observatorio Político API", "version": "0.4"}
-
+    return {"message": "Observatorio Político API", "version": "0.5"}
 
 @app.get("/api/health")
 def health():
@@ -165,6 +183,9 @@ def health():
     }
 
 
+# ─────────────────────────────────────────
+# Comisiones
+# ─────────────────────────────────────────
 @app.get("/api/commissions")
 def commissions(group: str = "Permanentes", q: str = "", camara: str = "diputados"):
     store = get_store(camara)
@@ -178,12 +199,10 @@ def commissions(group: str = "Permanentes", q: str = "", camara: str = "diputado
         "camara":      camara,
     }
 
-
 @app.get("/api/commissions/{group}/{commission_name}/sessions")
 def commission_sessions(group: str, commission_name: str, camara: str = "diputados"):
     store = get_store(camara)
     return store.get_commission_sessions(group, commission_name)
-
 
 @app.get("/api/commissions/{group}/{commission_name}/sessions/{sid}/transcript")
 def get_transcript(group: str, commission_name: str, sid: str, camara: str = "diputados"):
@@ -198,6 +217,9 @@ def get_transcript(group: str, commission_name: str, sid: str, camara: str = "di
         return {"success": False, "error": str(e)}
 
 
+# ─────────────────────────────────────────
+# Parlamentarios
+# ─────────────────────────────────────────
 @app.get("/api/politicians")
 def politicians(q: str = "", camara: str = "all"):
     c = (camara or "all").lower()
@@ -218,6 +240,9 @@ def politicians(q: str = "", camara: str = "all"):
     return {"success": True, "politicians": pols, "total": len(pols)}
 
 
+# ─────────────────────────────────────────
+# Actividad
+# ─────────────────────────────────────────
 @app.get("/api/activity")
 def activity(group: str = "", status: str = "", q: str = "",
              days: int = 180, camara: str = ""):
@@ -235,7 +260,8 @@ def activity(group: str = "", status: str = "", q: str = "",
                     return _dt(int(parts[2]), int(parts[1]), int(parts[0]))
             except Exception:
                 pass
-        return _dt.min
+        from datetime import datetime as _dt2
+        return _dt2.min
 
     if c == "senado":
         items = store_senado.activity_feed(group=group, status=status, q=q, days_back=days)
@@ -252,11 +278,9 @@ def activity(group: str = "", status: str = "", q: str = "",
 # ─────────────────────────────────────────
 # Documentos — Vercel Blob
 # ─────────────────────────────────────────
-
 @app.get("/api/docs/{camara}/{group}/{commission_name}")
 def list_docs(camara: str, group: str, commission_name: str,
               sesion_fecha: str = "", scope: str = ""):
-    """Lista documentos de una comisión. Filtra por sesión o scope si se indica."""
     meta = load_docs_meta(camara, group, commission_name)
     if sesion_fecha:
         meta = [d for d in meta if d.get("sesion_fecha") == sesion_fecha]
@@ -276,25 +300,21 @@ async def upload_doc(
     title: str = "",
     notas: str = "",
 ):
-    """Sube un archivo a Vercel Blob y registra la metadata."""
     raw    = await file.read()
     ext    = os.path.splitext(file.filename or "doc")[-1].lower() or ".bin"
     doc_id = str(uuid.uuid4())[:8]
     mime   = mimetypes.guess_type(file.filename or "doc")[0] or "application/octet-stream"
-
     blob_url = ""
 
     if BLOB_AVAILABLE and BLOB_TOKEN:
-        key    = _blob_file_key(camara, group, commission_name, doc_id, ext)
-        result = vercel_blob.put(
-            key,
+        result   = vercel_blob.put(
+            _blob_file_key(camara, group, commission_name, doc_id, ext),
             raw,
             options={"contentType": mime, "access": "public"},
             token=BLOB_TOKEN,
         )
-        blob_url = result.url   # URL pública permanente
+        blob_url = result.url
     else:
-        # Fallback: guardar en disco local
         store = get_store(camara)
         d = os.path.join(store.data_repo_dir, group, commission_name, "docs")
         os.makedirs(d, exist_ok=True)
@@ -313,7 +333,7 @@ async def upload_doc(
         "sesion_fecha":  sesion_fecha,
         "scope":         scope,
         "source":        "manual",
-        "url":           blob_url,      # siempre disponible (Blob o disco)
+        "url":           blob_url,
         "notas":         notas,
         "size_bytes":    len(raw),
         "uploaded_at":   datetime.utcnow().isoformat() + "Z",
@@ -324,11 +344,7 @@ async def upload_doc(
 
 
 @app.post("/api/docs/{camara}/{group}/{commission_name}/link")
-def add_doc_link(
-    camara: str, group: str, commission_name: str,
-    payload: dict = Body(...),
-):
-    """Registra un documento externo por URL (sin subir archivo)."""
+def add_doc_link(camara: str, group: str, commission_name: str, payload: dict = Body(...)):
     meta   = load_docs_meta(camara, group, commission_name)
     doc_id = str(uuid.uuid4())[:8]
     entry  = {
@@ -351,20 +367,15 @@ def add_doc_link(
 
 @app.delete("/api/docs/{camara}/{group}/{commission_name}/{doc_id}")
 def delete_doc(camara: str, group: str, commission_name: str, doc_id: str):
-    """Elimina un documento de Blob y de la metadata."""
     meta  = load_docs_meta(camara, group, commission_name)
     entry = next((d for d in meta if d["id"] == doc_id), None)
     if not entry:
         return {"success": False, "error": "Documento no encontrado"}
-
-    # Eliminar de Vercel Blob si tiene URL de Blob
     if BLOB_AVAILABLE and BLOB_TOKEN and entry.get("url", "").startswith("https://"):
         try:
             vercel_blob.delete(entry["url"], token=BLOB_TOKEN)
         except Exception as e:
-            print(f"[WARN] No se pudo eliminar de Blob: {e}")
-
-    # Guardar metadata sin el documento eliminado
+            print(f"[WARN] No se pudo borrar de Blob: {e}")
     meta = [d for d in meta if d["id"] != doc_id]
     save_docs_meta(camara, group, commission_name, meta)
     return {"success": True}
@@ -372,14 +383,9 @@ def delete_doc(camara: str, group: str, commission_name: str, doc_id: str):
 
 @app.get("/api/docs/{camara}/{group}/{commission_name}/file/{filename}")
 def serve_doc_file(camara: str, group: str, commission_name: str, filename: str):
-    """
-    Sirve archivos desde disco local (solo usado en modo fallback sin Blob).
-    Con Blob activo, el frontend usa la URL pública directa y este endpoint
-    no se invoca.
-    """
+    """Solo usado en fallback local sin Blob."""
     store = get_store(camara)
-    d     = os.path.join(store.data_repo_dir, group, commission_name, "docs")
-    path  = os.path.join(d, filename)
+    path  = os.path.join(store.data_repo_dir, group, commission_name, "docs", filename)
     if not os.path.isfile(path):
         return {"error": "Archivo no encontrado"}
     mime = mimetypes.guess_type(path)[0] or "application/octet-stream"
@@ -389,7 +395,6 @@ def serve_doc_file(camara: str, group: str, commission_name: str, filename: str)
 # ─────────────────────────────────────────
 # Noticias
 # ─────────────────────────────────────────
-
 @app.get("/api/news")
 def news(source: str = "diario_oficial", q: str = ""):
     items = store_camara.news_feed(source=source, q=q)
@@ -397,36 +402,30 @@ def news(source: str = "diario_oficial", q: str = ""):
 
 
 # ─────────────────────────────────────────
-# KOM Profiles
+# KOM Profiles — Vercel Blob
+# (UN SOLO GET y UN SOLO POST — sin duplicados)
 # ─────────────────────────────────────────
-
 @app.get("/api/kom/{chamber}/{pid}")
 def get_kom_profile(chamber: str, pid: str):
-    path = kom_profile_path(chamber, pid)
-    if os.path.exists(path):
-        try:
-            with open(path, "r", encoding="utf-8") as f:
-                return {"success": True, "exists": True, "profile": json.load(f)}
-        except Exception as e:
-            return {"success": False, "error": str(e)}
+    profile = _load_kom(chamber, pid)
+    if profile:
+        return {"success": True, "exists": True, "profile": profile}
     return {
         "success": True, "exists": False,
         "profile": {
-            "id": pid, "chamber": chamber, "tags": [],
-            "notes": "", "notas": "", "links": [], "updated_at": None,
+            "id": pid, "chamber": chamber,
+            "tags": [], "notes": "", "notas": "", "links": [],
+            "updated_at": None,
         },
     }
-
 
 @app.post("/api/kom/{chamber}/{pid}")
 def save_kom_profile(chamber: str, pid: str, payload: dict = Body(...)):
     payload["id"]         = pid
     payload["chamber"]    = chamber
     payload["updated_at"] = datetime.utcnow().isoformat() + "Z"
-    path = kom_profile_path(chamber, pid)
     try:
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(payload, f, ensure_ascii=False, indent=2)
+        _save_kom(chamber, pid, payload)
         return {"success": True, "saved": True}
     except Exception as e:
         return {"success": False, "error": str(e)}
@@ -435,7 +434,6 @@ def save_kom_profile(chamber: str, pid: str, payload: dict = Body(...)):
 # ─────────────────────────────────────────
 # Upload (Chat RAG)
 # ─────────────────────────────────────────
-
 @app.post("/api/upload")
 async def upload(file: UploadFile = File(...)):
     try:
@@ -445,37 +443,10 @@ async def upload(file: UploadFile = File(...)):
     except Exception as e:
         return {"success": False, "error": str(e)}
 
-# Agrega esta nueva ruta en api/index.py
-@app.post("/api/upload-doc")
-async def upload_document(file: UploadFile = File(...)):
-    try:
-        # Leer el contenido del archivo
-        file_content = await file.read()
-        
-        # Subir a la carpeta 'sesiones' en Vercel Blob
-        blob = put(
-            f"sesiones/{uuid.uuid4()}_{file.filename}", 
-            file_content, 
-            {"access": "public"}
-        )
-        
-        return {"success": True, "url": blob['url']}
-    except Exception as e:
-        return {"success": False, "error": str(e)}
 
-# Actualiza tu ruta actual de guardado de perfil KOM
-@app.post("/api/kom/{chamber}/{pol_id}")
-async def save_kom(chamber: str, pol_id: str, data: dict = Body(...)):
-    try:
-        # Llamamos a la nueva función que usa Blob
-        url = store_camara.save_kom_profile(chamber, pol_id, data) 
-        return {"success": True, "url": url}
-    except Exception as e:
-        return {"success": False, "error": str(e)}
 # ─────────────────────────────────────────
 # Chat
 # ─────────────────────────────────────────
-
 @app.post("/api/chat")
 def chat(payload: dict = Body(...)):
     msg = (payload or {}).get("message") or ""
@@ -491,7 +462,6 @@ def chat(payload: dict = Body(...)):
 # ─────────────────────────────────────────
 # Debug
 # ─────────────────────────────────────────
-
 @app.get("/api/test-debug")
 def test_debug():
     result = {
