@@ -266,144 +266,36 @@ body {
 }
 
 /* ══════════════════════════════════════════
-   PRINT / PDF — replica informe KOM
+   PRINT / PDF — informe KOM limpio
+   ESTRATEGIA: ocultar TODO el body web,
+   mostrar SOLO #printDoc generado por JS
 ══════════════════════════════════════════ */
 @media print {
-  /* Reset todo */
-  *, *::before, *::after { box-sizing: border-box; }
-  body { background: white; margin: 0; padding: 0; font-size: 10pt; color: #0f172a; font-family: 'DM Sans', sans-serif; }
-
-  /* Ocultar UI web */
-  .topbar, .no-print, .photo-edit-btn, .inp-row, .tag-x, .lnk-del,
-  .doc-del, .drop-zone, .tabs, #panelAdd, #stateLoading, #stateError,
-  #toast, .modal-bg, .save-indicator,
-  #sectionDocs .tabs, #panelAdd { display: none !important; }
-
-  .print-only { display: block !important; }
-
-  /* Página */
-  .page-wrap { max-width: 100%; padding: 0; margin: 0; }
-
-  /* ── CABECERA PDF ── */
-  .pdf-header {
-    display: flex !important;
-    align-items: flex-start;
-    justify-content: space-between;
-    padding: 20pt 24pt 16pt;
-    border-bottom: 2.5pt solid #0f172a;
-    margin-bottom: 16pt;
+  @page { size: A4; margin: 0; }
+  * { box-sizing: border-box; }
+  body {
+    background: white; margin: 0; padding: 0;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10pt; color: #0f172a;
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
   }
-  .pdf-header-left { flex: 1; }
-  .pdf-logo-text {
-    font-family: 'Lora', serif;
-    font-size: 22pt; font-weight: 700;
-    letter-spacing: -1pt; color: #0f172a;
-    line-height: 1;
-  }
-  .pdf-logo-text span { color: #0d9488; }
-  .pdf-tagline { font-size: 7.5pt; color: #64748b; margin-top: 3pt; letter-spacing: .04em; text-transform: uppercase; }
-
-  .pdf-name-block { text-align: right; }
-  .pdf-print-name {
-    font-family: 'Lora', serif;
-    font-size: 17pt; font-weight: 700; color: #0f172a; line-height: 1.2;
-  }
-  .pdf-print-role { font-size: 9pt; color: #475569; margin-top: 3pt; }
-
-  .pdf-photo-print {
-    width: 72pt; height: 72pt; border-radius: 50%;
-    overflow: hidden; border: 1.5pt solid #e2e8f0;
-    background: #f1f5f9; flex-shrink: 0;
-    margin-left: 14pt;
-    display: flex !important; align-items: center; justify-content: center;
-    -webkit-print-color-adjust: exact; print-color-adjust: exact;
-  }
-  .pdf-photo-print img { width: 100%; height: 100%; object-fit: cover; }
-  .pdf-photo-initials-print {
-    font-family: 'Lora', serif; font-size: 22pt; font-weight: 700; color: #94a3b8;
-  }
-
-  /* Ocultar el header web y la foto web */
-  .profile-header { display: none !important; }
-  #sectionStats   { display: none !important; }
-
-  /* ── BODY CONTENT ── */
-  .pdf-body { padding: 0 24pt; }
-
-  /* Bio section */
-  .pdf-bio-section {
+  /* Ocultar ABSOLUTAMENTE TODO excepto #printDoc */
+  body > *:not(#printDoc) { display: none !important; }
+  /* Mostrar el doc de impresión */
+  #printDoc {
     display: block !important;
-    margin-bottom: 14pt;
-    padding-bottom: 12pt;
-    border-bottom: 1pt solid #e2e8f0;
+    width: 100%; padding: 0;
   }
-  .pdf-section-title {
-    font-size: 7pt; font-weight: 700; text-transform: uppercase;
-    letter-spacing: .1em; color: #64748b;
-    margin-bottom: 5pt;
-  }
-  .pdf-bio-text { font-size: 9.5pt; line-height: 1.65; color: #1e293b; }
-
-  /* Notas como tópicos */
-  .card { border: none; box-shadow: none; padding: 0; margin-bottom: 12pt; }
-  .card-title { display: none; }
-  .notas-area {
-    border: none; resize: none; padding: 0;
-    font-size: 9.5pt; line-height: 1.65; color: #1e293b;
-    width: 100%; min-height: auto; background: transparent;
-  }
-
-  /* Tags como badges */
-  .tag-wrap { gap: 4pt; margin-bottom: 8pt; }
-  .tag {
-    font-size: 7pt; padding: 1.5pt 6pt;
-    background: #eff6ff; color: #1d4ed8; border: .5pt solid #bfdbfe;
-    border-radius: 10pt;
-  }
-
-  /* Links */
-  .link-row { background: transparent; border: none; border-bottom: .5pt solid #f1f5f9; padding: 3pt 0; margin: 0; }
-  .link-row a { font-size: 8.5pt; color: #1d4ed8; }
-
-  /* Comisiones */
-  .com-row { background: transparent; padding: 2pt 0 2pt 8pt; margin: 0; }
-
-  /* Docs lista */
-  .doc-item { padding: 5pt 6pt; border: .5pt solid #e2e8f0; border-radius: 4pt; margin-bottom: 4pt; }
-  .doc-item .doc-del { display: none !important; }
-
-  /* PDF sections wrapper */
-  .pdf-sections { padding: 0 24pt; }
-  .pdf-section-wrap { margin-bottom: 12pt; break-inside: avoid; }
-  .pdf-section-wrap .pdf-section-title { margin-bottom: 6pt; }
-
-  /* Footer PDF */
-  .pdf-footer {
-    display: block !important;
-    position: fixed; bottom: 0; left: 0; right: 0;
-    padding: 8pt 24pt;
-    border-top: 1pt solid #e2e8f0;
-    display: flex; align-items: center; justify-content: space-between;
-    font-size: 7pt; color: #94a3b8;
-    background: white;
-    -webkit-print-color-adjust: exact; print-color-adjust: exact;
-  }
-
   a[href]::after { content: none !important; }
-
-  @page {
-    margin: 0;
-    size: A4;
-  }
 }
-
+/* En web, #printDoc está oculto */
+#printDoc { display: none; }
+.print-only { display: none; }
 .pdf-header  { display: none; }
 .pdf-footer  { display: none; }
 .pdf-bio-section { display: none; }
 .pdf-sections    { display: none; }
-.print-only { display: none; }
 </style>
 </head>
 <body>
@@ -1083,76 +975,148 @@ function switchTab(tab) {
 }
 
 // ════════════════════════════════════════════════════════
-// PDF EXPORT
+// PDF EXPORT — genera #printDoc completamente autónomo
 // ════════════════════════════════════════════════════════
-function buildPdfSections() {
-  const sections = [];
-  const nombre = $("profileName").textContent;
-  const notas  = ($("fieldNotas").value || "").trim();
+function buildPrintDoc() {
+  const nombre  = $("profileName").textContent;
+  const rol     = $("profileRole").textContent;
+  const notas   = ($("fieldNotas").value || "").trim();
+  const fecha   = new Date().toLocaleDateString("es-CL", { year:"numeric", month:"long", day:"numeric" });
 
-  // Notas / bio como sección principal
+  // ── Foto ──────────────────────────────────────────────
+  let photoHtml = "";
+  if (photoDataUrl) {
+    photoHtml = `<img src="${esc(photoDataUrl)}" style="width:72pt;height:72pt;border-radius:50%;object-fit:cover;border:1.5pt solid #e2e8f0;display:block" />`;
+  } else {
+    const initials = nombre.split(" ").slice(0,2).map(x=>x[0]||"").join("").toUpperCase();
+    photoHtml = `<div style="width:72pt;height:72pt;border-radius:50%;background:#f1f5f9;border:1.5pt solid #e2e8f0;display:flex;align-items:center;justify-content:center;font-family:'Lora',serif;font-size:22pt;font-weight:700;color:#94a3b8">${esc(initials)}</div>`;
+  }
+
+  // ── Header ────────────────────────────────────────────
+  const header = `
+    <div style="display:flex;align-items:flex-start;justify-content:space-between;padding:22pt 32pt 18pt;border-bottom:2.5pt solid #0f172a;margin-bottom:0">
+      <div style="flex:1">
+        <div style="font-family:'Lora',serif;font-size:24pt;font-weight:700;letter-spacing:-1pt;color:#0f172a;line-height:1">KOM</div>
+        <div style="font-size:7pt;color:#64748b;margin-top:4pt;letter-spacing:.08em;text-transform:uppercase">Observatorio Político · Perfil Legislativo</div>
+      </div>
+      <div style="text-align:right;flex:1;padding:0 16pt 0 0">
+        <div style="font-family:'Lora',serif;font-size:16pt;font-weight:700;color:#0f172a;line-height:1.2">${esc(nombre)}</div>
+        <div style="font-size:8.5pt;color:#475569;margin-top:4pt">${esc(rol)}</div>
+      </div>
+      <div style="flex-shrink:0">${photoHtml}</div>
+    </div>`;
+
+  // ── Secciones ─────────────────────────────────────────
+  const sections = [];
+  const SEP = `<div style="border-top:1pt solid #e2e8f0;margin:14pt 0 12pt"></div>`;
+
+  // 1. BIOGRAFÍA
   if (notas) {
-    // Dividir en párrafos — cada línea doble es un subtópico
     const paras = notas.split(/\n\n+/).filter(Boolean);
     const parasHtml = paras.map(p => {
       const lines = p.split(/\n/).filter(Boolean);
       if (lines.length > 1) {
-        // Primer línea como título de tópico, resto como descripción
-        return `<div style="margin-bottom:8pt">
+        return `<div style="margin-bottom:9pt">
           <div style="font-weight:700;font-size:9.5pt;color:#0f172a;margin-bottom:2pt">${esc(lines[0])}</div>
-          <div style="font-size:9pt;color:#334155;line-height:1.6">${lines.slice(1).map(esc).join("<br>")}</div>
+          <div style="font-size:9.5pt;color:#334155;line-height:1.7">${lines.slice(1).map(esc).join("<br>")}</div>
         </div>`;
       }
-      return `<div style="font-size:9.5pt;color:#334155;line-height:1.6;margin-bottom:6pt">${esc(p)}</div>`;
+      return `<div style="font-size:9.5pt;color:#334155;line-height:1.7;margin-bottom:8pt">${esc(p)}</div>`;
     }).join("");
-
     sections.push(`
-      <div class="pdf-section-wrap">
-        <div class="pdf-section-title">Tópicos relevantes</div>
-        <div>${parasHtml}</div>
+      <div style="break-inside:avoid">
+        <div style="font-size:6.5pt;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#94a3b8;margin-bottom:10pt;padding-bottom:4pt;border-bottom:1pt solid #0f172a">Biografía</div>
+        ${parasHtml}
       </div>`);
   }
 
-  // Etiquetas
+  // 2. TEMAS (etiquetas)
   if (profile.tags.length) {
+    const tagsHtml = profile.tags.map(t =>
+      `<span style="display:inline-flex;align-items:center;padding:3pt 9pt;border-radius:20pt;background:#eff6ff;color:#1d4ed8;border:.5pt solid #bfdbfe;font-size:7.5pt;font-weight:600;margin:2pt">${esc(t)}</span>`
+    ).join(" ");
     sections.push(`
-      <div class="pdf-section-wrap">
-        <div class="pdf-section-title">Etiquetas</div>
-        <div class="tag-wrap">${profile.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join("")}</div>
+      <div style="break-inside:avoid">
+        <div style="font-size:6.5pt;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#94a3b8;margin-bottom:10pt;padding-bottom:4pt;border-bottom:1pt solid #0f172a">Temas</div>
+        <div style="display:flex;flex-wrap:wrap;gap:4pt">${tagsHtml}</div>
       </div>`);
   }
 
-  // Comisiones
+  // 3. COMISIONES
   const comListEl = $("comList");
-  if ($("sectionComisiones").style.display !== "none" && comListEl.innerHTML.trim()) {
+  if ($("sectionComisiones").style.display !== "none" && comListEl.children.length) {
+    const rows = Array.from(comListEl.querySelectorAll(".com-row")).map(r => {
+      const name  = r.querySelector("[style*='font-weight:600']")?.textContent?.trim() || "";
+      const cargo = r.querySelectorAll("div")[1]?.textContent?.trim() || "";
+      const grp   = r.querySelector("[style*='color:#94a3b8']")?.textContent?.trim() || "";
+      return `<div style="display:flex;align-items:baseline;gap:8pt;padding:3pt 0 3pt 10pt;border-bottom:.5pt solid #f1f5f9">
+        <span style="width:5pt;height:5pt;border-radius:50%;background:#93c5fd;border:1.5pt solid #3b82f6;flex-shrink:0;margin-top:4pt;display:inline-block"></span>
+        <span style="flex:1;font-size:9pt;font-weight:600;color:#0f172a">${esc(name)}${cargo?`<span style="font-size:7.5pt;color:#0d9488;font-weight:500;margin-left:5pt">${esc(cargo)}</span>`:""}</span>
+        <span style="font-size:7.5pt;color:#94a3b8;flex-shrink:0">${esc(grp)}</span>
+      </div>`;
+    }).join("");
     sections.push(`
-      <div class="pdf-section-wrap">
-        <div class="pdf-section-title">Comisiones</div>
-        ${comListEl.innerHTML}
+      <div style="break-inside:avoid">
+        <div style="font-size:6.5pt;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#94a3b8;margin-bottom:10pt;padding-bottom:4pt;border-bottom:1pt solid #0f172a">Comisiones</div>
+        ${rows}
       </div>`);
   }
 
-  // Links
+  // 4. DOCUMENTOS ADJUNTOS
+  const docItems = document.querySelectorAll("#docsList .doc-item");
+  if (docItems.length) {
+    const docsHtml = Array.from(docItems).map(item => {
+      const title = item.querySelector("[style*='font-weight:600']")?.textContent?.trim() || "";
+      const meta  = item.querySelectorAll("div")[1]?.textContent?.trim() || "";
+      const ico   = item.querySelector("[style*='font-size:1.3rem']")?.textContent?.trim() || "📄";
+      return `<div style="display:flex;gap:8pt;align-items:flex-start;padding:4pt 0;border-bottom:.5pt solid #f1f5f9">
+        <span style="font-size:10pt;flex-shrink:0">${ico}</span>
+        <div>
+          <div style="font-size:8.5pt;font-weight:600;color:#0f172a">${esc(title)}</div>
+          ${meta?`<div style="font-size:7.5pt;color:#64748b;margin-top:1pt">${esc(meta)}</div>`:""}
+        </div>
+      </div>`;
+    }).join("");
+    sections.push(`
+      <div style="break-inside:avoid">
+        <div style="font-size:6.5pt;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#94a3b8;margin-bottom:10pt;padding-bottom:4pt;border-bottom:1pt solid #0f172a">Documentos adjuntos</div>
+        ${docsHtml}
+      </div>`);
+  }
+
+  // 5. REFERENCIAS (links)
   if (profile.links.length) {
+    const linksHtml = profile.links.map(l =>
+      `<div style="font-size:8.5pt;margin-bottom:4pt">
+        <span style="font-weight:600;color:#0f172a">${esc(l.title||l.url)}</span>
+        ${l.url?`<span style="color:#64748b"> — </span><span style="color:#1d4ed8">${esc(l.url)}</span>`:""}
+      </div>`
+    ).join("");
     sections.push(`
-      <div class="pdf-section-wrap">
-        <div class="pdf-section-title">Referencias</div>
-        ${profile.links.map(l =>
-          `<div style="font-size:8.5pt;margin-bottom:3pt">
-            <span style="font-weight:600;color:#0f172a">${esc(l.title||l.url)}</span>
-            ${l.url ? `<span style="color:#64748b"> — </span><span style="color:#1d4ed8">${esc(l.url)}</span>` : ""}
-          </div>`
-        ).join("")}
+      <div style="break-inside:avoid">
+        <div style="font-size:6.5pt;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#94a3b8;margin-bottom:10pt;padding-bottom:4pt;border-bottom:1pt solid #0f172a">Referencias</div>
+        ${linksHtml}
       </div>`);
   }
 
-  $("pdfSections").innerHTML = sections.join(`<div style="border-top:1pt solid #e2e8f0;margin:0 0 10pt"></div>`);
+  const body = `<div style="padding:20pt 32pt 60pt">${sections.join(SEP)}</div>`;
+
+  const footer = `
+    <div style="position:fixed;bottom:0;left:0;right:0;padding:7pt 32pt;border-top:.8pt solid #e2e8f0;display:flex;align-items:center;justify-content:space-between;font-size:6.5pt;color:#94a3b8;background:white">
+      <span>Observatorio Político · kom.cl</span>
+      <span>${fecha}</span>
+      <span>Documento de uso interno</span>
+    </div>`;
+
+  return header + body + footer;
 }
 
 function exportPDF() {
   profile.notas = $("fieldNotas").value || "";
-  $("pdfDate").textContent = new Date().toLocaleDateString("es-CL", { year:"numeric", month:"long", day:"numeric" });
-  buildPdfSections();
+  // Crear / limpiar #printDoc
+  let doc = $("printDoc");
+  if (!doc) { doc = document.createElement("div"); doc.id = "printDoc"; document.body.appendChild(doc); }
+  doc.innerHTML = buildPrintDoc();
   document.title = `Perfil KOM — ${$("profileName").textContent}`;
   setTimeout(() => window.print(), 80);
 }
