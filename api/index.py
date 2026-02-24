@@ -1,5 +1,5 @@
 from __future__ import annotations
-
+from vercel_blob import put
 import json
 import os
 import uuid
@@ -445,7 +445,33 @@ async def upload(file: UploadFile = File(...)):
     except Exception as e:
         return {"success": False, "error": str(e)}
 
+# Agrega esta nueva ruta en api/index.py
+@app.post("/api/upload-doc")
+async def upload_document(file: UploadFile = File(...)):
+    try:
+        # Leer el contenido del archivo
+        file_content = await file.read()
+        
+        # Subir a la carpeta 'sesiones' en Vercel Blob
+        blob = put(
+            f"sesiones/{uuid.uuid4()}_{file.filename}", 
+            file_content, 
+            {"access": "public"}
+        )
+        
+        return {"success": True, "url": blob['url']}
+    except Exception as e:
+        return {"success": False, "error": str(e)}
 
+# Actualiza tu ruta actual de guardado de perfil KOM
+@app.post("/api/kom/{chamber}/{pol_id}")
+async def save_kom(chamber: str, pol_id: str, data: dict = Body(...)):
+    try:
+        # Llamamos a la nueva función que usa Blob
+        url = store_camara.save_kom_profile(chamber, pol_id, data) 
+        return {"success": True, "url": url}
+    except Exception as e:
+        return {"success": False, "error": str(e)}
 # ─────────────────────────────────────────
 # Chat
 # ─────────────────────────────────────────

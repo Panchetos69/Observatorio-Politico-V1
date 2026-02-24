@@ -1,6 +1,6 @@
 # api/datastore.py
 from __future__ import annotations
-
+from vercel_blob import put
 import csv
 import glob
 import json
@@ -341,6 +341,23 @@ class DataStore:
 
     # -----------------------------
     # Actividad
+    def save_kom_profile(self, chamber: str, pol_id: str, data: dict):
+        
+        blob_path = f"kom/profiles/{chamber}/{pol_id}.json"
+        try:
+            # Convertimos el diccionario a string JSON
+            json_data = json.dumps(data, indent=2, ensure_ascii=False)
+            
+            # Subimos a Vercel Blob usando el token de entorno
+            # El token se lee automáticamente de BLOB_READ_WRITE_TOKEN
+            resp = put(blob_path, json_data, {"access": "public"})
+            
+            print(f"✓ Perfil guardado en Blob: {resp['url']}")
+            return resp['url']
+        except Exception as e:
+            print(f"✗ Error al guardar en Vercel Blob: {e}")
+            raise e
+    
     # -----------------------------
     def activity_feed(self, group: str = "", status: str = "", q: str = "",
                       chamber: str = "", days_back: int = 180) -> List[dict]:
