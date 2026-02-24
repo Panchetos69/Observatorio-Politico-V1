@@ -403,5 +403,11 @@
     "status": "OK",
     "ediciones": 1,
     "items": 13
+  },
+  {
+    "fecha": "24-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 13
   }
 ]

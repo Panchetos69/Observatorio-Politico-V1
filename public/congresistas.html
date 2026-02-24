@@ -637,13 +637,8 @@ function renderGrid(pols, comFil) {
           : ""}
         <button
           class="flex-1 px-3 py-2 rounded-xl gradient-bg text-white text-xs font-bold hover:opacity-90 transition"
-          data-ch="${esc(p.chamber)}"
-          data-id="${esc(String(p.id))}"
-          data-nb="${encodeURIComponent(p.nombre)}"
-          data-ur="${encodeURIComponent(p.url_ficha||"")}"
-          data-cm="${encodeURIComponent(JSON.stringify(p.comisiones||[]))}"
-          onclick="openFromBtn(this)">
-          📋 Perfil KOM
+          onclick="openPerfil('${esc(p.chamber)}','${esc(String(p.id))}','${encodeURIComponent(p.nombre)}')">
+          📋 Ver Perfil
         </button>
       </div>`;
     grid.appendChild(card);
@@ -668,6 +663,11 @@ function skelGrid(n) {
 // ═══════════════════════════════════════════
 // MODAL KOM
 // ═══════════════════════════════════════════
+function openPerfil(chamber, id, nombre) {
+  const url = `/perfil.html?type=pol&chamber=${encodeURIComponent(chamber)}&id=${encodeURIComponent(id)}&nombre=${encodeURIComponent(nombre)}`;
+  window.open(url, '_blank');
+}
+
 function openFromBtn(btn) {
   const chamber  = btn.dataset.ch;
   const id       = btn.dataset.id;

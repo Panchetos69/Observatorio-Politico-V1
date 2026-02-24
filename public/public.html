@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Perfil — Observatorio Político</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,900;1,700&family=DM+Sans:wght@300;400;500;600;700&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; }
+
+:root {
+  --purple:    #5b21b6;
+  --purple-md: #7c3aed;
+  --purple-lt: #ede9fe;
+  --red:       #b91c1c;
+  --red-lt:    #fee2e2;
+  --green:     #065f46;
+  --green-lt:  #d1fae5;
+  --ink:       #111827;
+  --ink2:      #374151;
+  --ink3:      #6b7280;
+  --border:    #e5e7eb;
+  --bg:        #f9fafb;
+  --surface:   #ffffff;
+  --radius:    16px;
+  --shadow:    0 1px 12px rgba(0,0,0,.06);
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+  min-height: 100vh;
+}
+
+/* ─── PRINT ─────────────────────────────────────────── */
+@media print {
+  .no-print   { display: none !important; }
+  .print-only { display: block !important; }
+  body        { background: white; font-size: 11pt; }
+  .page       { max-width: 100%; padding: 0; }
+  .hero       { border-radius: 0; margin: 0 0 16pt; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .card       { break-inside: avoid; box-shadow: none; border: 1px solid #ddd; margin-bottom: 10pt; }
+  .notas-area { border: 1px solid #ccc; resize: none; }
+}
+.print-only { display: none; }
+
+/* ─── TOPBAR ─────────────────────────────────────────── */
+.topbar {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(255,255,255,.93); backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--border);
+  padding: 10px 20px;
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+}
+.brand {
+  display: flex; align-items: center; gap: 9px;
+  text-decoration: none; font-weight: 700; font-size: .9rem; color: var(--ink);
+}
+.brand-dot {
+  width: 30px; height: 30px; border-radius: 8px;
+  background: linear-gradient(135deg, #5b21b6, #7c3aed);
+  display: flex; align-items: center; justify-content: center;
+  color: white; font-size: .7rem; font-weight: 900;
+}
+.topbar-right { display: flex; gap: 8px; align-items: center; }
+
+/* ─── BUTTONS ────────────────────────────────────────── */
+.btn {
+  display: inline-flex; align-items: center; gap: 5px;
+  padding: 7px 14px; border-radius: 10px;
+  font-size: .78rem; font-weight: 600; cursor: pointer;
+  border: none; transition: all .15s; text-decoration: none; white-space: nowrap;
+}
+.btn-ghost  { background: transparent; color: var(--ink2); border: 1.5px solid var(--border); }
+.btn-ghost:hover { background: white; border-color: #c4b5fd; color: var(--purple); }
+.btn-purple { background: var(--purple-md); color: white; }
+.btn-purple:hover { background: var(--purple); }
+.btn-dark   { background: #1e1b4b; color: white; }
+.btn-dark:hover { background: #312e81; }
+.btn-sm { padding: 5px 11px; font-size: .73rem; }
+
+/* ─── LOADING / ERROR ────────────────────────────────── */
+#stateLoading, #stateError {
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  min-height: 70vh; gap: 12px; color: var(--ink3);
+}
+.spinner {
+  width: 34px; height: 34px; border-radius: 50%;
+  border: 3px solid var(--border);
+  border-top-color: var(--purple-md);
+  animation: spin .65s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ─── PAGE LAYOUT ─────────────────────────────────────── */
+.page { max-width: 900px; margin: 0 auto; padding: 24px 18px 64px; }
+
+/* ─── HERO ───────────────────────────────────────────── */
+.hero {
+  border-radius: var(--radius); padding: 36px 32px 28px;
+  margin-bottom: 20px; color: white;
+  position: relative; overflow: hidden;
+}
+.hero-pol { background: linear-gradient(135deg, #1e1b4b 0%, #3730a3 55%, #6d28d9 100%); }
+.hero-sen { background: linear-gradient(135deg, #450a0a 0%, #991b1b 55%, #b91c1c 100%); }
+.hero-com { background: linear-gradient(135deg, #052e16 0%, #065f46 55%, #047857 100%); }
+.hero::before {
+  content: ''; position: absolute; inset: 0;
+  background: radial-gradient(ellipse 70% 90% at 85% 15%, rgba(255,255,255,.1), transparent);
+  pointer-events: none;
+}
+.hero-inner { position: relative; z-index: 1; }
+.hero-top   { display: flex; align-items: flex-start; gap: 18px; flex-wrap: wrap; }
+.hero-avatar {
+  width: 68px; height: 68px; border-radius: 18px;
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 900;
+  background: rgba(255,255,255,.18); border: 2px solid rgba(255,255,255,.3);
+  flex-shrink: 0; letter-spacing: -1px;
+}
+.hero-meta  { flex: 1; min-width: 0; }
+.hero-name  {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(1.3rem, 4vw, 1.85rem); font-weight: 900;
+  line-height: 1.15; margin-bottom: 8px;
+}
+.hero-badges { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 8px; }
+.hbadge {
+  display: inline-flex; align-items: center; gap: 3px;
+  padding: 3px 9px; border-radius: 20px; font-size: .7rem; font-weight: 700;
+  background: rgba(255,255,255,.2); color: white;
+}
+.hero-sub    { font-size: .82rem; opacity: .7; }
+.hero-footer {
+  display: flex; align-items: center; gap: 8px;
+  margin-top: 20px; flex-wrap: wrap;
+}
+.save-indicator {
+  font-size: .72rem; padding: 3px 10px; border-radius: 20px;
+  background: rgba(255,255,255,.15); color: rgba(255,255,255,.85);
+  font-weight: 600; transition: background .3s;
+}
+.save-indicator.saved  { background: rgba(16,185,129,.4); }
+.save-indicator.saving { background: rgba(245,158,11,.4); }
+.save-indicator.dirty  { background: rgba(239,68,68,.35); }
+
+/* ─── GRID ───────────────────────────────────────────── */
+.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.col-all { grid-column: 1 / -1; }
+@media (max-width: 600px) { .grid-2 { grid-template-columns: 1fr; } }
+
+/* ─── CARDS ──────────────────────────────────────────── */
+.card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 20px 22px;
+  box-shadow: var(--shadow);
+}
+.card-title {
+  font-size: .68rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--ink3); margin-bottom: 12px;
+  display: flex; align-items: center; gap: 5px;
+}
+
+/* ─── STAT GRID ──────────────────────────────────────── */
+.stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(85px, 1fr)); gap: 10px; }
+.stat-box  {
+  background: var(--bg); border: 1px solid var(--border);
+  border-radius: 12px; padding: 12px 8px; text-align: center;
+}
+.stat-n { font-family: 'Playfair Display', serif; font-size: 1.7rem; font-weight: 900; color: var(--ink); line-height: 1; }
+.stat-l { font-size: .65rem; color: var(--ink3); font-weight: 600; margin-top: 3px; text-transform: uppercase; letter-spacing: .04em; }
+
+/* ─── TAGS ───────────────────────────────────────────── */
+.tag-wrap { display: flex; flex-wrap: wrap; gap: 6px; min-height: 26px; }
+.tag {
+  display: inline-flex; align-items: center; gap: 4px;
+  padding: 3px 9px; border-radius: 20px;
+  background: var(--purple-lt); color: var(--purple);
+  font-size: .72rem; font-weight: 700;
+}
+.tag-x {
+  background: none; border: none; cursor: pointer; color: #a78bfa;
+  font-size: .85rem; line-height: 1; padding: 0;
+  display: flex; align-items: center;
+}
+.tag-x:hover { color: var(--red); }
+
+/* ─── INPUTS ─────────────────────────────────────────── */
+.inp {
+  width: 100%; padding: 8px 11px; border: 1.5px solid var(--border); border-radius: 9px;
+  font-family: 'DM Sans', sans-serif; font-size: .82rem; color: var(--ink);
+  transition: border-color .15s; background: white;
+}
+.inp:focus { outline: none; border-color: #a78bfa; }
+.inp-row   { display: flex; gap: 7px; margin-bottom: 8px; }
+.inp-row .inp { flex: 1; }
+
+.notas-area {
+  width: 100%; min-height: 120px; resize: vertical;
+  border: 1.5px solid var(--border); border-radius: 10px;
+  padding: 10px 13px; font-family: 'DM Sans', sans-serif;
+  font-size: .84rem; color: var(--ink); line-height: 1.65;
+  transition: border-color .15s;
+}
+.notas-area:focus { outline: none; border-color: #a78bfa; }
+
+/* ─── LINK ROWS ──────────────────────────────────────── */
+.link-row {
+  display: flex; align-items: center; gap: 7px;
+  padding: 7px 10px; border-radius: 9px;
+  background: var(--bg); border: 1px solid var(--border); margin-bottom: 5px;
+}
+.link-row a {
+  flex: 1; font-size: .8rem; color: var(--purple-md); text-decoration: none;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.link-row a:hover { text-decoration: underline; }
+.lnk-del { background: none; border: none; cursor: pointer; color: #d1d5db; font-size: .9rem; padding: 0; transition: color .12s; flex-shrink: 0; }
+.lnk-del:hover { color: #ef4444; }
+
+/* ─── COMMISSION ROWS ────────────────────────────────── */
+.com-row {
+  display: flex; align-items: center; gap: 8px;
+  padding: 6px 10px; border-radius: 9px; background: var(--bg); margin-bottom: 4px;
+  font-size: .8rem; font-weight: 500;
+}
+.com-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; background: #ddd6fe; border: 1.5px solid #c4b5fd; }
+.com-row.cargo .com-dot { background: #c4b5fd; border-color: var(--purple-md); }
+
+/* ─── DOC ITEMS ──────────────────────────────────────── */
+.doc-item {
+  display: flex; align-items: flex-start; gap: 10px;
+  padding: 10px 12px; border-radius: 11px;
+  border: 1px solid var(--border); margin-bottom: 7px; transition: border-color .15s;
+}
+.doc-item:hover { border-color: #c4b5fd; }
+.doc-ico  { font-size: 1.4rem; flex-shrink: 0; margin-top: 1px; }
+.doc-body { flex: 1; min-width: 0; }
+.doc-name { font-size: .82rem; font-weight: 600; color: var(--ink); }
+.doc-sub  { font-size: .72rem; color: var(--ink3); margin-top: 2px; }
+.doc-del  { background: none; border: none; cursor: pointer; color: #d1d5db; font-size: 1rem; flex-shrink: 0; padding: 0; transition: color .15s; }
+.doc-del:hover { color: #ef4444; }
+
+/* ─── DROP ZONE ──────────────────────────────────────── */
+.drop-zone {
+  border: 2px dashed var(--border); border-radius: 11px;
+  padding: 18px; text-align: center; cursor: pointer;
+  transition: all .2s; background: var(--bg); margin-top: 8px;
+}
+.drop-zone:hover, .drop-zone.drag { border-color: #a78bfa; background: #faf5ff; }
+.drop-zone input[type=file] { display: none; }
+
+/* ─── TABS ───────────────────────────────────────────── */
+.tabs {
+  display: flex; gap: 2px; background: var(--bg);
+  border-radius: 10px; padding: 3px; margin-bottom: 14px;
+  border: 1px solid var(--border);
+}
+.tab-btn {
+  flex: 1; padding: 6px 10px; border-radius: 8px; border: none; cursor: pointer;
+  font-size: .75rem; font-weight: 700; transition: all .15s;
+  background: transparent; color: var(--ink3);
+}
+.tab-btn.active { background: white; color: var(--purple); box-shadow: 0 1px 4px rgba(0,0,0,.08); }
+
+/* ─── TOAST ──────────────────────────────────────────── */
+#toast {
+  position: fixed; bottom: 22px; right: 22px; z-index: 9999;
+  padding: 9px 16px; border-radius: 11px; font-size: .8rem; font-weight: 600;
+  box-shadow: 0 6px 24px rgba(0,0,0,.12);
+  transform: translateY(60px); opacity: 0;
+  transition: all .22s cubic-bezier(.34,1.56,.64,1); pointer-events: none;
+}
+#toast.show { transform: none; opacity: 1; }
+#toast.ok   { background: #ecfdf5; color: #065f46; border: 1px solid #6ee7b7; }
+#toast.err  { background: #fef2f2; color: #991b1b; border: 1px solid #fca5a5; }
+
+/* ─── PDF FOOTER ──────────────────────────────────────── */
+.pdf-footer { display: none; margin-top: 24pt; font-size: 8pt; color: #999; text-align: center; border-top: 1px solid #ddd; padding-top: 8pt; }
+@media print {
+  .pdf-footer { display: block; }
+  .hero { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
+</style>
+</head>
+<body>
+<div id="toast"></div>
+
+<!-- ══════ TOPBAR ═════════════════════════════════════════ -->
+<nav class="topbar no-print">
+  <a href="/" class="brand">
+    <div class="brand-dot">OP</div>
+    Observatorio Político
+  </a>
+  <div class="topbar-right">
+    <button class="btn btn-ghost btn-sm" onclick="history.back()">← Volver</button>
+    <button class="btn btn-purple btn-sm" onclick="saveAll()">💾 Guardar</button>
+    <button class="btn btn-dark btn-sm" onclick="exportPDF()">⬇ Exportar PDF</button>
+  </div>
+</nav>
+
+<!-- ══════ LOADING ════════════════════════════════════════ -->
+<div id="stateLoading">
+  <div class="spinner"></div>
+  <span style="font-size:.9rem">Cargando perfil…</span>
+</div>
+
+<!-- ══════ ERROR ══════════════════════════════════════════ -->
+<div id="stateError" style="display:none">
+  <div style="font-size:2.5rem">⚠️</div>
+  <div id="errorMsg" style="font-size:.9rem;color:#6b7280">No se pudo cargar el perfil</div>
+  <a href="/" class="btn btn-ghost" style="margin-top:10px">← Inicio</a>
+</div>
+
+<!-- ══════ MAIN ═══════════════════════════════════════════ -->
+<div id="mainContent" style="display:none">
+<div class="page">
+
+  <!-- HERO -->
+  <div class="hero" id="hero">
+    <div class="hero-inner">
+      <div class="hero-top">
+        <div class="hero-avatar" id="heroAvatar"></div>
+        <div class="hero-meta">
+          <div class="hero-name"   id="heroName"></div>
+          <div class="hero-badges" id="heroBadges"></div>
+          <div class="hero-sub"    id="heroSub"></div>
+        </div>
+      </div>
+      <div class="hero-footer no-print">
+        <span class="save-indicator" id="saveIndicator">Sin cambios</span>
+        <button class="btn btn-sm" onclick="saveAll()"
+          style="background:rgba(255,255,255,.22);color:white;border:1.5px solid rgba(255,255,255,.3)">
+          💾 Guardar
+        </button>
+        <button class="btn btn-sm" onclick="exportPDF()"
+          style="background:rgba(255,255,255,.14);color:white;border:1.5px solid rgba(255,255,255,.22)">
+          ⬇ PDF
+        </button>
+        <a id="heroLinkOficial" href="#" target="_blank" rel="noopener" class="btn btn-sm"
+          style="background:rgba(255,255,255,.12);color:white;border:1.5px solid rgba(255,255,255,.2);display:none">
+          🔗 Perfil oficial ↗
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- STATS -->
+  <div id="sectionStats" style="display:none;margin-bottom:14px">
+    <div class="card">
+      <div class="card-title">📊 Resumen</div>
+      <div class="stat-grid" id="statsGrid"></div>
+    </div>
+  </div>
+
+  <!-- GRID: notas + tags + links -->
+  <div class="grid-2" style="margin-bottom:14px">
+
+    <div class="card col-all">
+      <div class="card-title">📝 Notas internas</div>
+      <textarea id="fieldNotas" class="notas-area"
+        placeholder="Estrategia, reuniones, observaciones personalizadas…"
+        oninput="markDirty()"></textarea>
+    </div>
+
+    <div class="card">
+      <div class="card-title">🏷️ Etiquetas</div>
+      <div class="inp-row">
+        <input id="inpTag" class="inp" placeholder="Nueva etiqueta…"
+          onkeydown="if(event.key==='Enter')addTag()" />
+        <button class="btn btn-purple btn-sm" onclick="addTag()">+ Add</button>
+      </div>
+      <div class="tag-wrap" id="tagWrap"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">🔗 Enlaces</div>
+      <div class="inp-row">
+        <input id="inpLinkTitle" class="inp" placeholder="Título…" style="flex:.8" />
+        <input id="inpLinkUrl"   class="inp" placeholder="https://…"
+          onkeydown="if(event.key==='Enter')addLink()" />
+        <button class="btn btn-purple btn-sm" onclick="addLink()">+ Add</button>
+      </div>
+      <div id="linkList"></div>
+    </div>
+  </div>
+
+  <!-- COMISIONES (solo parlamentario) -->
+  <div id="sectionComisiones" style="display:none;margin-bottom:14px">
+    <div class="card">
+      <div class="card-title">📚 Comisiones</div>
+      <div id="comList"></div>
+    </div>
+  </div>
+
+  <!-- DOCUMENTOS -->
+  <div class="card" style="margin-bottom:14px">
+    <div class="card-title">
+      📂 Documentos
+      <span id="docsCount" style="font-weight:400;color:#9ca3af;text-transform:none;letter-spacing:0">(0)</span>
+    </div>
+
+    <div class="tabs no-print">
+      <button class="tab-btn active" id="tabList" onclick="switchTab('list')">Ver documentos</button>
+      <button class="tab-btn"        id="tabAdd"  onclick="switchTab('add')">+ Agregar</button>
+    </div>
+
+    <!-- Lista -->
+    <div id="panelList">
+      <div id="docsList">
+        <div style="text-align:center;padding:28px 0;color:#9ca3af;font-size:.85rem">📭 Sin documentos aún</div>
+      </div>
+    </div>
+
+    <!-- Formulario agregar -->
+    <div id="panelAdd" style="display:none">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:10px">
+        <div>
+          <label style="font-size:.71rem;font-weight:700;color:#6b7280;display:block;margin-bottom:4px">Título *</label>
+          <input id="docTitle" class="inp" placeholder="Nombre del documento…" />
+        </div>
+        <div>
+          <label style="font-size:.71rem;font-weight:700;color:#6b7280;display:block;margin-bottom:4px">Tipo</label>
+          <select id="docTipo" class="inp">
+            <option value="otro">📄 Otro</option>
+            <option value="informe">📋 Informe</option>
+            <option value="presentacion">📊 Presentación</option>
+            <option value="citacion">📅 Citación</option>
+            <option value="acta">📝 Acta</option>
+            <option value="minuta">🗒️ Minuta</option>
+            <option value="proyecto_ley">⚖️ Proyecto de ley</option>
+          </select>
+        </div>
+        <div>
+          <label style="font-size:.71rem;font-weight:700;color:#6b7280;display:block;margin-bottom:4px">Fecha</label>
+          <input id="docFecha" class="inp" type="date" />
+        </div>
+        <div>
+          <label style="font-size:.71rem;font-weight:700;color:#6b7280;display:block;margin-bottom:4px">Notas</label>
+          <input id="docNotas" class="inp" placeholder="Opcional…" />
+        </div>
+      </div>
+
+      <div style="margin-bottom:10px">
+        <label style="font-size:.71rem;font-weight:700;color:#6b7280;display:block;margin-bottom:4px">URL externa (si no subes archivo)</label>
+        <input id="docUrl" class="inp" placeholder="https://…" />
+      </div>
+
+      <div class="drop-zone" id="dropZone"
+        onclick="document.getElementById('docFileInput').click()"
+        ondragover="event.preventDefault();this.classList.add('drag')"
+        ondragleave="this.classList.remove('drag')"
+        ondrop="handleDrop(event)">
+        <input type="file" id="docFileInput" onchange="handleFileSelect(this)" />
+        <div style="font-size:1.8rem;margin-bottom:4px">📎</div>
+        <div style="font-size:.82rem;font-weight:600;color:#6b7280">Arrastra o haz clic para subir</div>
+        <div style="font-size:.72rem;color:#9ca3af;margin-top:2px">PDF, Word, Excel, imágenes…</div>
+        <div id="filePreview" style="margin-top:8px;font-size:.78rem;color:#5b21b6;font-weight:600"></div>
+      </div>
+
+      <div style="display:flex;gap:8px;margin-top:12px;justify-content:flex-end">
+        <button class="btn btn-ghost btn-sm" onclick="switchTab('list')">Cancelar</button>
+        <button class="btn btn-purple btn-sm" onclick="uploadDoc()">💾 Guardar documento</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- PDF Footer -->
+  <div class="pdf-footer">
+    Observatorio Político · Generado el <span id="pdfDate"></span>
+  </div>
+
+</div><!-- /page -->
+</div><!-- /mainContent -->
+
+<script>
+// ════════════════════════════════════════════════════════
+// PARAMS & STATE
+// ════════════════════════════════════════════════════════
+const params  = new URLSearchParams(location.search);
+const TYPE    = params.get("type")    || "pol";
+const CHAMBER = params.get("chamber") || "camara";
+const ID      = params.get("id")      || "";
+const GROUP   = params.get("group")   || "Permanentes";
+const NAME    = params.get("name")    || "";
+const NOMBRE  = decodeURIComponent(params.get("nombre") || "");
+
+let profile = { tags:[], links:[], notas:"" };
+let polData = null;
+let comData = null;
+let isDirty = false;
+let selFile = null;
+
+const $ = id => document.getElementById(id);
+
+// ════════════════════════════════════════════════════════
+// API
+// ════════════════════════════════════════════════════════
+async function apiGet(url) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.json();
+}
+async function apiPost(url, body) {
+  const r = await fetch(url, {
+    method:"POST", headers:{"Content-Type":"application/json"},
+    body: JSON.stringify(body)
+  });
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.json();
+}
+async function apiDelete(url) {
+  const r = await fetch(url, { method:"DELETE" });
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.json();
+}
+async function apiPostForm(url, fd) {
+  const r = await fetch(url, { method:"POST", body: fd });
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.json();
+}
+
+// ════════════════════════════════════════════════════════
+// TOAST
+// ════════════════════════════════════════════════════════
+let _toastT;
+function toast(msg, type="ok") {
+  const el = $("toast");
+  el.textContent = msg;
+  el.className = `show ${type}`;
+  clearTimeout(_toastT);
+  _toastT = setTimeout(() => el.className = "", 2800);
+}
+
+// ════════════════════════════════════════════════════════
+// DIRTY / SAVE INDICATOR
+// ════════════════════════════════════════════════════════
+function markDirty() {
+  isDirty = true;
+  const ind = $("saveIndicator");
+  ind.textContent = "Cambios sin guardar";
+  ind.className   = "save-indicator dirty";
+}
+function markSaved() {
+  isDirty = false;
+  const ind = $("saveIndicator");
+  ind.textContent = "Guardado ✓";
+  ind.className   = "save-indicator saved";
+  setTimeout(() => { ind.textContent = "Sin cambios"; ind.className = "save-indicator"; }, 3000);
+}
+
+// ════════════════════════════════════════════════════════
+// INIT
+// ════════════════════════════════════════════════════════
+window.addEventListener("DOMContentLoaded", () => {
+  $("pdfDate").textContent = new Date().toLocaleDateString("es-CL",
+    { year:"numeric", month:"long", day:"numeric" });
+  if (TYPE === "pol" && ID)        loadPolitician();
+  else if (TYPE === "com" && NAME) loadCommission();
+  else                             showError("Parámetros faltantes en la URL");
+});
+
+// ════════════════════════════════════════════════════════
+// PARLAMENTARIO
+// ════════════════════════════════════════════════════════
+async function loadPolitician() {
+  try {
+    // KOM profile
+    const komResp  = await apiGet(`/api/kom/${CHAMBER}/${encodeURIComponent(ID)}`);
+    const p        = komResp.profile || {};
+    profile.tags   = p.tags  || [];
+    profile.links  = p.links || [];
+    profile.notas  = p.notas || p.notes || "";
+
+    // Datos del parlamentario (best-effort)
+    try {
+      const pols = await apiGet(`/api/politicians?camara=${CHAMBER}`);
+      polData = (pols.politicians || []).find(x => String(x.id) === String(ID)) || null;
+    } catch {}
+
+    renderPolitician();
+    renderCommon();
+    await loadDocsSection();
+    show();
+  } catch(e) { showError("No se pudo cargar: " + e.message); }
+}
+
+function renderPolitician() {
+  const nombre = polData?.nombre || NOMBRE || ID;
+  $("heroName").textContent = nombre;
+  $("heroSub").textContent  = polData?.cargo || (CHAMBER === "senado" ? "Senador/a" : "Diputado/a");
+
+  $("hero").className = "hero " + (CHAMBER === "senado" ? "hero-sen" : "hero-pol");
+
+  const initials = nombre.split(" ").slice(0,2).map(x=>x[0]||"").join("").toUpperCase();
+  $("heroAvatar").textContent = initials;
+
+  $("heroBadges").innerHTML = CHAMBER === "senado"
+    ? `<span class="hbadge" style="background:rgba(185,28,28,.45)">🔴 Senado</span>`
+    : `<span class="hbadge" style="background:rgba(109,40,217,.45)">🟣 Diputados</span>`;
+
+  if (polData?.url_ficha) {
+    const lk = $("heroLinkOficial");
+    lk.href = polData.url_ficha;
+    lk.style.display = "inline-flex";
+  }
+
+  // Comisiones
+  const coms = polData?.comisiones || [];
+  if (coms.length) {
+    const sorted = [...coms].sort((a,b) => a.commission_name.localeCompare(b.commission_name,"es"));
+    $("comList").innerHTML = sorted.map(c => `
+      <div class="com-row ${c.cargo_en_comision?"cargo":""}">
+        <div class="com-dot"></div>
+        <div style="flex:1;min-width:0">
+          <div style="font-size:.8rem;font-weight:600;color:#1f2937;line-height:1.3">${esc(c.commission_name)}</div>
+          ${c.cargo_en_comision ? `<div style="font-size:.7rem;color:#7c3aed;font-weight:600">${esc(c.cargo_en_comision)}</div>` : ""}
+        </div>
+        <span style="font-size:.68rem;color:#9ca3af;flex-shrink:0">${esc(c.group||"")}</span>
+      </div>`).join("");
+    $("sectionComisiones").style.display = "block";
+  }
+
+  renderStats([
+    { n: coms.length,         l: "Comisiones" },
+    { n: 0,                   l: "Docs KOM",  id: "statDocs" },
+    { n: profile.tags.length, l: "Etiquetas", id: "statTags" },
+    { n: profile.links.length,l: "Enlaces",   id: "statLinks" },
+  ]);
+}
+
+// ════════════════════════════════════════════════════════
+// COMISIÓN
+// ════════════════════════════════════════════════════════
+async function loadCommission() {
+  try {
+    const slug    = `${CHAMBER}__${GROUP}__${NAME}`.replace(/\s+/g,"_");
+    const komResp = await apiGet(`/api/kom/${CHAMBER}/${encodeURIComponent(slug)}`).catch(() => ({profile:{}}));
+    const p       = komResp.profile || {};
+    profile.tags  = p.tags  || [];
+    profile.links = p.links || [];
+    profile.notas = p.notas || p.notes || "";
+
+    try {
+      const sd = await apiGet(`/api/commissions/${encodeURIComponent(GROUP)}/${encodeURIComponent(NAME)}/sessions?camara=${CHAMBER}`);
+      comData = sd.commission || {};
+    } catch {}
+
+    renderCommission();
+    renderCommon();
+    await loadDocsSection();
+    show();
+  } catch(e) { showError("No se pudo cargar la comisión: " + e.message); }
+}
+
+function renderCommission() {
+  $("hero").className     = "hero hero-com";
+  $("heroAvatar").textContent = "📋";
+  $("heroAvatar").style.fontSize = "1.8rem";
+  $("heroName").textContent = NAME;
+  $("heroSub").textContent  = `${GROUP} · ${CHAMBER === "senado" ? "Senado" : "Cámara de Diputadas y Diputados"}`;
+
+  $("heroBadges").innerHTML =
+    (CHAMBER === "senado"
+      ? `<span class="hbadge" style="background:rgba(185,28,28,.45)">🔴 Senado</span>`
+      : `<span class="hbadge" style="background:rgba(4,120,87,.45)">🟢 Cámara</span>`) +
+    `<span class="hbadge">${esc(GROUP)}</span>`;
+
+  if (comData) {
+    const years    = (comData.years || []).length;
+    const totalSes = Object.values(comData.sessions_by_year || {}).flat().length;
+    renderStats([
+      { n: years,               l: "Años" },
+      { n: totalSes,            l: "Sesiones" },
+      { n: 0,                   l: "Docs KOM",  id: "statDocs" },
+      { n: profile.tags.length, l: "Etiquetas", id: "statTags" },
+    ]);
+  }
+}
+
+// ════════════════════════════════════════════════════════
+// STATS
+// ════════════════════════════════════════════════════════
+function renderStats(items) {
+  $("statsGrid").innerHTML = items.map(s =>
+    `<div class="stat-box">
+       <div class="stat-n" ${s.id?`id="${s.id}"`:""}>${s.n}</div>
+       <div class="stat-l">${s.l}</div>
+     </div>`).join("");
+  $("sectionStats").style.display = "block";
+}
+function updateStat(id, val) { const el = $(id); if (el) el.textContent = val; }
+
+// ════════════════════════════════════════════════════════
+// RENDER COMMON
+// ════════════════════════════════════════════════════════
+function renderCommon() {
+  $("fieldNotas").value = profile.notas;
+  renderTags();
+  renderLinks();
+}
+
+// ── Tags ──────────────────────────────────────────────
+function renderTags() {
+  $("tagWrap").innerHTML = profile.tags.length
+    ? profile.tags.map((t,i) =>
+        `<span class="tag">${esc(t)}<button class="tag-x" onclick="removeTag(${i})">×</button></span>`
+      ).join("")
+    : `<div style="font-size:.78rem;color:#d1d5db">Sin etiquetas</div>`;
+}
+function addTag() {
+  const inp = $("inpTag"); const v = inp.value.trim();
+  if (!v || profile.tags.includes(v)) return;
+  profile.tags.push(v); inp.value = "";
+  renderTags(); markDirty(); updateStat("statTags", profile.tags.length);
+}
+function removeTag(i) {
+  profile.tags.splice(i,1); renderTags(); markDirty(); updateStat("statTags", profile.tags.length);
+}
+
+// ── Links ─────────────────────────────────────────────
+function renderLinks() {
+  const el = $("linkList");
+  if (!profile.links.length) { el.innerHTML = `<div style="font-size:.78rem;color:#d1d5db;padding:4px 0">Sin enlaces</div>`; return; }
+  el.innerHTML = profile.links.map((l,i) => `
+    <div class="link-row">
+      <a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.title||l.url)}</a>
+      <button class="lnk-del" onclick="removeLink(${i})">✕</button>
+    </div>`).join("");
+}
+function addLink() {
+  const t = $("inpLinkTitle").value.trim(), u = $("inpLinkUrl").value.trim();
+  if (!u) return;
+  profile.links.push({ title: t||u, url: u });
+  $("inpLinkTitle").value = ""; $("inpLinkUrl").value = "";
+  renderLinks(); markDirty();
+}
+function removeLink(i) { profile.links.splice(i,1); renderLinks(); markDirty(); }
+
+// ════════════════════════════════════════════════════════
+// SAVE
+// ════════════════════════════════════════════════════════
+async function saveAll() {
+  $("saveIndicator").textContent = "Guardando…";
+  $("saveIndicator").className   = "save-indicator saving";
+  profile.notas = $("fieldNotas").value || "";
+
+  const komId = TYPE === "pol"
+    ? encodeURIComponent(ID)
+    : encodeURIComponent(`${CHAMBER}__${GROUP}__${NAME}`.replace(/\s+/g,"_"));
+
+  try {
+    await apiPost(`/api/kom/${CHAMBER}/${komId}`, {
+      notas:  profile.notas,
+      tags:   profile.tags,
+      links:  profile.links,
+      nombre: TYPE === "pol" ? ($("heroName").textContent) : NAME,
+    });
+    markSaved();
+    toast("Perfil guardado ✓");
+  } catch(e) {
+    toast("Error al guardar: " + e.message, "err");
+    $("saveIndicator").textContent = "Error";
+    $("saveIndicator").className   = "save-indicator dirty";
+  }
+}
+
+// ════════════════════════════════════════════════════════
+// DOCUMENTOS
+// ════════════════════════════════════════════════════════
+function docsPath() {
+  return TYPE === "pol"
+    ? `/api/docs/${CHAMBER}/parlamentarios/${encodeURIComponent(ID)}`
+    : `/api/docs/${CHAMBER}/${encodeURIComponent(GROUP)}/${encodeURIComponent(NAME)}`;
+}
+
+async function loadDocsSection() {
+  let docs = [];
+  try { const d = await apiGet(docsPath()); docs = d.docs || []; } catch {}
+  renderDocs(docs);
+  updateStat("statDocs", docs.length);
+  $("docsCount").textContent = `(${docs.length})`;
+}
+
+const tipoIco = { informe:"📋", presentacion:"📊", citacion:"📅", acta:"📝", minuta:"🗒️", proyecto_ley:"⚖️", otro:"📄" };
+
+function renderDocs(docs) {
+  const el = $("docsList");
+  if (!docs.length) {
+    el.innerHTML = `
+      <div style="text-align:center;padding:28px 0;color:#9ca3af">
+        <div style="font-size:2rem;margin-bottom:6px">📭</div>
+        <div style="font-size:.82rem;font-weight:600">Sin documentos aún</div>
+        <button class="btn btn-purple btn-sm no-print" onclick="switchTab('add')" style="margin-top:10px">+ Agregar primero</button>
+      </div>`;
+    return;
+  }
+  el.innerHTML = docs.map(d => {
+    const ico  = tipoIco[d.tipo] || "📄";
+    const link = d.url
+      ? `<a href="${esc(d.url)}" target="_blank" rel="noopener"
+           style="font-size:.72rem;color:#7c3aed;font-weight:600;text-decoration:none"
+           onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+           Abrir ↗</a>`
+      : "";
+    return `
+      <div class="doc-item">
+        <div class="doc-ico">${ico}</div>
+        <div class="doc-body">
+          <div class="doc-name">${esc(d.title || d.original_name || "Documento")}</div>
+          <div class="doc-sub">
+            ${d.tipo ? esc(d.tipo) : ""}
+            ${d.sesion_fecha ? ` · 📅 ${esc(d.sesion_fecha)}` : ""}
+            ${d.notas ? ` · ${esc(d.notas)}` : ""}
+            ${link ? ` · ${link}` : ""}
+          </div>
+        </div>
+        <button class="doc-del no-print" onclick="deleteDoc('${esc(d.id)}')" title="Eliminar">✕</button>
+      </div>`;
+  }).join("");
+}
+
+async function deleteDoc(docId) {
+  if (!confirm("¿Eliminar este documento?")) return;
+  try {
+    await apiDelete(`${docsPath()}/${docId}`);
+    toast("Documento eliminado");
+    await loadDocsSection();
+  } catch(e) { toast("Error: " + e.message, "err"); }
+}
+
+// ── File ──────────────────────────────────────────────
+function handleFileSelect(inp) {
+  selFile = inp.files[0] || null;
+  $("filePreview").textContent = selFile ? `📎 ${selFile.name} (${(selFile.size/1024).toFixed(1)} KB)` : "";
+}
+function handleDrop(e) {
+  e.preventDefault(); $("dropZone").classList.remove("drag");
+  selFile = e.dataTransfer.files[0] || null;
+  $("filePreview").textContent = selFile ? `📎 ${selFile.name} (${(selFile.size/1024).toFixed(1)} KB)` : "";
+}
+
+async function uploadDoc() {
+  const title = ($("docTitle").value||"").trim();
+  const tipo  = $("docTipo").value||"otro";
+  const fecha = $("docFecha").value||"";
+  const notas = ($("docNotas").value||"").trim();
+  const url   = ($("docUrl").value||"").trim();
+
+  if (!title) { toast("Ingresa un título", "err"); return; }
+  if (!selFile && !url) { toast("Adjunta un archivo o ingresa una URL", "err"); return; }
+
+  try {
+    if (selFile) {
+      const fd = new FormData(); fd.append("file", selFile);
+      const qp = new URLSearchParams({ sesion_fecha:fecha, scope:"sesion", tipo, title, notas });
+      await apiPostForm(`${docsPath()}/upload?${qp}`, fd);
+      toast("Archivo subido ✓");
+    } else {
+      await apiPost(`${docsPath()}/link`, { url, title, tipo, sesion_fecha:fecha, notas, source:"manual" });
+      toast("Enlace guardado ✓");
+    }
+    // Reset
+    ["docTitle","docUrl","docNotas"].forEach(id => $(id).value = "");
+    $("docFecha").value = ""; $("filePreview").textContent = "";
+    $("docFileInput").value = ""; selFile = null;
+    switchTab("list");
+    await loadDocsSection();
+  } catch(e) { toast("Error: " + e.message, "err"); }
+}
+
+function switchTab(tab) {
+  const isList = tab === "list";
+  $("panelList").style.display = isList ? "block" : "none";
+  $("panelAdd").style.display  = isList ? "none"  : "block";
+  $("tabList").className = "tab-btn" + (isList  ? " active" : "");
+  $("tabAdd").className  = "tab-btn" + (!isList ? " active" : "");
+}
+
+// ════════════════════════════════════════════════════════
+// PDF
+// ════════════════════════════════════════════════════════
+function exportPDF() {
+  $("pdfDate").textContent = new Date().toLocaleDateString("es-CL",
+    { year:"numeric", month:"long", day:"numeric" });
+  profile.notas = $("fieldNotas").value || "";
+  document.title = `Perfil — ${$("heroName").textContent}`;
+  window.print();
+}
+
+// ════════════════════════════════════════════════════════
+// SHOW / ERROR
+// ════════════════════════════════════════════════════════
+function show() {
+  $("stateLoading").style.display = "none";
+  $("mainContent").style.display  = "block";
+  document.title = `Perfil — ${$("heroName").textContent} · OP`;
+}
+function showError(msg) {
+  $("stateLoading").style.display = "none";
+  $("stateError").style.display   = "flex";
+  $("errorMsg").textContent        = msg;
+}
+function esc(s) {
+  return String(s||"")
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
+// Exponer globales
+Object.assign(window, {
+  addTag, removeTag, addLink, removeLink, saveAll, exportPDF,
+  switchTab, uploadDoc, deleteDoc, handleDrop, handleFileSelect,
+  markDirty
+});
+</script>
+</body>
+</html>
