@@ -1,23 +1,7 @@
-# api/index.py  — solo cambia la inicialización de los DataStores
-# Busca estas 2 líneas en tu index.py:
-#
-#   store_camara = DataStore(DATA_REPO_DIR,   KOM_DIR)
-#   store_senado = DataStore(SENADO_REPO_DIR, KOM_DIR)
-#
-# Y reemplázalas con:
-#
-#   store_camara = DataStore(DATA_REPO_DIR,   KOM_DIR, default_chamber="camara")
-#   store_senado = DataStore(SENADO_REPO_DIR, KOM_DIR, default_chamber="senado")
-#
-# El resto del archivo queda IGUAL.
-# ──────────────────────────────────────────────────────────────
-# A continuación el archivo completo por si prefieres reemplazarlo:
-
 from __future__ import annotations
 
 import json
 import os
-import shutil
 import uuid
 import mimetypes
 from datetime import datetime
@@ -25,13 +9,15 @@ from typing import Any, Dict
 
 from fastapi import Body, FastAPI, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import HTMLResponse, FileResponse
+from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
 from .datastore import DataStore
 from .agent import LegislativeAgent
 
-# ---------------- config ----------------
+# ─────────────────────────────────────────
+# Config
+# ─────────────────────────────────────────
 BASE_DIR    = os.path.dirname(os.path.abspath(__file__))
 PROJECT_DIR = os.path.abspath(os.path.join(BASE_DIR, ".."))
 
@@ -41,25 +27,90 @@ try:
 except ImportError:
     pass
 
-DATA_REPO_DIR    = os.getenv("DATA_REPO_DIR")    or os.path.join(PROJECT_DIR, "REPO_V40_HISTORIAL_COMPLETO_V2")
-SENADO_REPO_DIR  = os.getenv("SENADO_REPO_DIR")  or os.path.join(PROJECT_DIR, "REPO_SENADO")
-KOM_DIR          = os.getenv("KOM_DIR")          or os.path.join(PROJECT_DIR, "KOM")
-PUBLIC_DIR       = os.path.join(PROJECT_DIR, "public")
-GEMINI_API_KEY   = os.getenv("GEMINI_API_KEY", "")
+DATA_REPO_DIR   = os.getenv("DATA_REPO_DIR")   or os.path.join(PROJECT_DIR, "REPO_V40_HISTORIAL_COMPLETO_V2")
+SENADO_REPO_DIR = os.getenv("SENADO_REPO_DIR") or os.path.join(PROJECT_DIR, "REPO_SENADO")
+KOM_DIR         = os.getenv("KOM_DIR")         or os.path.join(PROJECT_DIR, "KOM")
+PUBLIC_DIR      = os.path.join(PROJECT_DIR, "public")
+GEMINI_API_KEY  = os.getenv("GEMINI_API_KEY", "")
+BLOB_TOKEN      = os.getenv("BLOB_READ_WRITE_TOKEN", "")
 
-# ★★★ FIX: pasar default_chamber a cada DataStore ★★★
-# Cuando un integrante.json no tiene campo "chamber", se asume
-# la cámara correspondiente al repo que se está leyendo.
 store_camara = DataStore(DATA_REPO_DIR,   KOM_DIR, default_chamber="camara")
 store_senado = DataStore(SENADO_REPO_DIR, KOM_DIR, default_chamber="senado")
 
 agent = LegislativeAgent(store_camara, GEMINI_API_KEY)
 
 def get_store(camara: str = "diputados") -> DataStore:
-    return store_senado if camara.lower() in ("senado", "senate") else store_camara
+    return store_senado if (camara or "").lower() in ("senado", "senate") else store_camara
 
 
-app = FastAPI(title="Observatorio Politico API", version="0.3")
+# ─────────────────────────────────────────
+# Vercel Blob helpers
+# ─────────────────────────────────────────
+try:
+    import vercel_blob
+    BLOB_AVAILABLE = True
+except ImportError:
+    BLOB_AVAILABLE = False
+    print("[WARN] vercel-blob not installed — docs will fall back to local disk")
+
+
+def _blob_meta_key(camara: str, group: str, commission_name: str) -> str:
+    """Clave del JSON de metadata en Blob."""
+    return f"docs/{camara}/{group}/{commission_name}/meta.json"
+
+
+def _blob_file_key(camara: str, group: str, commission_name: str,
+                   doc_id: str, ext: str) -> str:
+    """Clave del archivo binario en Blob."""
+    return f"docs/{camara}/{group}/{commission_name}/files/{doc_id}{ext}"
+
+
+def load_docs_meta(camara: str, group: str, commission_name: str) -> list:
+    """Lee la metadata de documentos desde Vercel Blob (o disco si Blob no está disponible)."""
+    if BLOB_AVAILABLE and BLOB_TOKEN:
+        key = _blob_meta_key(camara, group, commission_name)
+        try:
+            resp = vercel_blob.get(key, token=BLOB_TOKEN)
+            return json.loads(resp.content)
+        except Exception:
+            return []   # todavía no existe → lista vacía
+    else:
+        # Fallback a disco local (desarrollo sin Blob)
+        store = get_store(camara)
+        p = os.path.join(store.data_repo_dir, group, commission_name, "docs", "docs_meta.json")
+        if not os.path.exists(p):
+            return []
+        try:
+            with open(p, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return []
+
+
+def save_docs_meta(camara: str, group: str, commission_name: str, meta: list) -> None:
+    """Guarda la metadata en Vercel Blob (o disco como fallback)."""
+    raw_json = json.dumps(meta, ensure_ascii=False, indent=2).encode("utf-8")
+
+    if BLOB_AVAILABLE and BLOB_TOKEN:
+        key = _blob_meta_key(camara, group, commission_name)
+        vercel_blob.put(
+            key,
+            raw_json,
+            options={"contentType": "application/json", "access": "public"},
+            token=BLOB_TOKEN,
+        )
+    else:
+        store = get_store(camara)
+        d = os.path.join(store.data_repo_dir, group, commission_name, "docs")
+        os.makedirs(d, exist_ok=True)
+        with open(os.path.join(d, "docs_meta.json"), "w", encoding="utf-8") as f:
+            f.write(raw_json.decode("utf-8"))
+
+
+# ─────────────────────────────────────────
+# FastAPI app
+# ─────────────────────────────────────────
+app = FastAPI(title="Observatorio Político API", version="0.4")
 
 app.add_middleware(
     CORSMiddleware,
@@ -73,7 +124,9 @@ if os.path.isdir(PUBLIC_DIR):
     app.mount("/public", StaticFiles(directory=PUBLIC_DIR, html=True), name="public")
 
 
-# ---------------- helpers ----------------
+# ─────────────────────────────────────────
+# KOM helper
+# ─────────────────────────────────────────
 def kom_profile_path(chamber: str, pid: str) -> str:
     chamber = (chamber or "camara").lower()
     base = os.path.join(store_camara.kom_dir, "profiles", chamber)
@@ -81,30 +134,34 @@ def kom_profile_path(chamber: str, pid: str) -> str:
     return os.path.join(base, f"{str(pid).strip()}.json")
 
 
-# ---------------- endpoints ----------------
+# ─────────────────────────────────────────
+# Endpoints
+# ─────────────────────────────────────────
 
 @app.get("/health")
 def health_simple():
     return {"ok": True}
+
 
 @app.get("/")
 def root():
     index_path = os.path.join(PUBLIC_DIR, "index.html")
     if os.path.exists(index_path):
         return FileResponse(index_path)
-    return {"message": "Observatorio Político API", "version": "0.3"}
+    return {"message": "Observatorio Político API", "version": "0.4"}
 
 
 @app.get("/api/health")
 def health():
-    senado_ok = os.path.isdir(SENADO_REPO_DIR)
     return {
         "success":           True,
         "data_repo_dir":     store_camara.data_repo_dir,
         "senado_repo_dir":   SENADO_REPO_DIR,
-        "senado_disponible": senado_ok,
+        "senado_disponible": os.path.isdir(SENADO_REPO_DIR),
         "kom_dir":           store_camara.kom_dir,
         "gemini_configured": bool(GEMINI_API_KEY),
+        "blob_configured":   bool(BLOB_TOKEN),
+        "blob_sdk":          BLOB_AVAILABLE,
     }
 
 
@@ -143,33 +200,21 @@ def get_transcript(group: str, commission_name: str, sid: str, camara: str = "di
 
 @app.get("/api/politicians")
 def politicians(q: str = "", camara: str = "all"):
-    """
-    camara = "all"       -> combina Diputados + Senado
-    camara = "camara"    -> solo Diputados
-    camara = "diputados" -> solo Diputados
-    camara = "senado"    -> solo Senado
-    """
     c = (camara or "all").lower()
-
     if c in ("senado", "senate"):
         pols = store_senado.list_politicians(q=q, chamber="senado")
-
     elif c in ("camara", "diputados", "diputado"):
         pols = store_camara.list_politicians(q=q, chamber="camara")
-
     else:
-        # Combinar ambas cámaras
         pols_c = store_camara.list_politicians(q=q, chamber="camara")
         pols_s = store_senado.list_politicians(q=q, chamber="senado")
-        seen = set()
-        pols = []
+        seen, pols = set(), []
         for p in pols_c + pols_s:
             key = f"{p.get('chamber','')}::{p.get('nombre','')}"
             if key not in seen:
                 seen.add(key)
                 pols.append(p)
         pols.sort(key=lambda x: x.get("nombre", ""))
-
     return {"success": True, "politicians": pols, "total": len(pols)}
 
 
@@ -177,6 +222,21 @@ def politicians(q: str = "", camara: str = "all"):
 def activity(group: str = "", status: str = "", q: str = "",
              days: int = 180, camara: str = ""):
     c = (camara or "").lower()
+
+    def _fecha_key(x: dict):
+        from datetime import datetime as _dt
+        f = x.get("fecha", "") or x.get("Fecha", "")
+        parts = f.split("-")
+        if len(parts) == 3:
+            try:
+                if len(parts[0]) == 4:
+                    return _dt(int(parts[0]), int(parts[1]), int(parts[2]))
+                else:
+                    return _dt(int(parts[2]), int(parts[1]), int(parts[0]))
+            except Exception:
+                pass
+        return _dt.min
+
     if c == "senado":
         items = store_senado.activity_feed(group=group, status=status, q=q, days_back=days)
     elif c in ("diputados", "camara"):
@@ -184,70 +244,28 @@ def activity(group: str = "", status: str = "", q: str = "",
     else:
         items_c = store_camara.activity_feed(group=group, status=status, q=q, days_back=days)
         items_s = store_senado.activity_feed(group=group, status=status, q=q, days_back=days)
-        # Ordenar combinado por fecha parseada (soporta ambos formatos)
-        def _fecha_key(x):
-            f = x.get("fecha", "") or x.get("Fecha", "")
-            parts = f.split("-")
-            if len(parts) == 3:
-                try:
-                    if len(parts[0]) == 4:
-                        return datetime(int(parts[0]), int(parts[1]), int(parts[2]))
-                    else:
-                        return datetime(int(parts[2]), int(parts[1]), int(parts[0]))
-                except Exception:
-                    pass
-            return datetime.min
-        from datetime import datetime
-        items = sorted(items_c + items_s, key=_fecha_key, reverse=True)
+        items   = sorted(items_c + items_s, key=_fecha_key, reverse=True)
 
     return {"success": True, "items": items, "total": len(items), "days_back": days}
-DOCS_SUBDIR = "docs"
-
-def docs_dir(camara: str, group: str, commission_name: str) -> str:
-    store = get_store(camara)
-    d = os.path.join(store.data_repo_dir, group, commission_name, DOCS_SUBDIR)
-    os.makedirs(d, exist_ok=True)
-    return d
-
-def docs_meta_path(camara: str, group: str, commission_name: str) -> str:
-    return os.path.join(docs_dir(camara, group, commission_name), "docs_meta.json")
-
-def load_docs_meta(camara: str, group: str, commission_name: str) -> list:
-    p = docs_meta_path(camara, group, commission_name)
-    if not os.path.exists(p):
-        return []
-    try:
-        with open(p, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
-        return []
-
-def save_docs_meta(camara: str, group: str, commission_name: str, meta: list):
-    p = docs_meta_path(camara, group, commission_name)
-    with open(p, "w", encoding="utf-8") as f:
-        json.dump(meta, f, ensure_ascii=False, indent=2)
 
 
-# ── GET: listar documentos de una comisión ──────────────────
+# ─────────────────────────────────────────
+# Documentos — Vercel Blob
+# ─────────────────────────────────────────
+
 @app.get("/api/docs/{camara}/{group}/{commission_name}")
-def list_docs(camara: str, group: str, commission_name: str, sesion_fecha: str = "", scope: str = ""):
-    """
-    Lista documentos de una comisión.
-    Filtros opcionales:
-      sesion_fecha = "12-11-2024"  → solo docs de esa sesión
-      scope        = "sesion" | "comision"
-    """
+def list_docs(camara: str, group: str, commission_name: str,
+              sesion_fecha: str = "", scope: str = ""):
+    """Lista documentos de una comisión. Filtra por sesión o scope si se indica."""
     meta = load_docs_meta(camara, group, commission_name)
     if sesion_fecha:
         meta = [d for d in meta if d.get("sesion_fecha") == sesion_fecha]
     if scope:
         meta = [d for d in meta if d.get("scope") == scope]
-    # Ordenar: más recientes primero
     meta.sort(key=lambda x: x.get("uploaded_at", ""), reverse=True)
     return {"success": True, "docs": meta, "total": len(meta)}
 
 
-# ── POST: subir documento ───────────────────────────────────
 @app.post("/api/docs/{camara}/{group}/{commission_name}/upload")
 async def upload_doc(
     camara: str, group: str, commission_name: str,
@@ -258,100 +276,119 @@ async def upload_doc(
     title: str = "",
     notas: str = "",
 ):
-    """Sube un archivo y lo registra en docs_meta.json."""
-    d = docs_dir(camara, group, commission_name)
-
-    # Nombre único en disco
-    ext = os.path.splitext(file.filename or "doc")[-1].lower() or ".bin"
+    """Sube un archivo a Vercel Blob y registra la metadata."""
+    raw    = await file.read()
+    ext    = os.path.splitext(file.filename or "doc")[-1].lower() or ".bin"
     doc_id = str(uuid.uuid4())[:8]
-    safe_date = sesion_fecha.replace("/", "-").replace(" ", "_")
-    stored_name = f"{safe_date}_{doc_id}{ext}" if safe_date else f"{doc_id}{ext}"
-    dest = os.path.join(d, stored_name)
+    mime   = mimetypes.guess_type(file.filename or "doc")[0] or "application/octet-stream"
 
-    raw = await file.read()
-    with open(dest, "wb") as f_out:
-        f_out.write(raw)
+    blob_url = ""
 
-    meta = load_docs_meta(camara, group, commission_name)
+    if BLOB_AVAILABLE and BLOB_TOKEN:
+        key    = _blob_file_key(camara, group, commission_name, doc_id, ext)
+        result = vercel_blob.put(
+            key,
+            raw,
+            options={"contentType": mime, "access": "public"},
+            token=BLOB_TOKEN,
+        )
+        blob_url = result.url   # URL pública permanente
+    else:
+        # Fallback: guardar en disco local
+        store = get_store(camara)
+        d = os.path.join(store.data_repo_dir, group, commission_name, "docs")
+        os.makedirs(d, exist_ok=True)
+        safe_date   = sesion_fecha.replace("/", "-").replace(" ", "_")
+        stored_name = f"{safe_date}_{doc_id}{ext}" if safe_date else f"{doc_id}{ext}"
+        with open(os.path.join(d, stored_name), "wb") as fout:
+            fout.write(raw)
+        blob_url = f"/api/docs/{camara}/{group}/{commission_name}/file/{stored_name}"
+
+    meta  = load_docs_meta(camara, group, commission_name)
     entry = {
-        "id":           doc_id,
-        "filename":     stored_name,
-        "original_name": file.filename or stored_name,
-        "title":        title or file.filename or stored_name,
-        "tipo":         tipo,
-        "sesion_fecha": sesion_fecha,
-        "scope":        scope,
-        "source":       "manual",
-        "url":          "",
-        "notas":        notas,
-        "size_bytes":   len(raw),
-        "uploaded_at":  datetime.utcnow().isoformat() + "Z",
+        "id":            doc_id,
+        "original_name": file.filename or f"{doc_id}{ext}",
+        "title":         title or file.filename or f"{doc_id}{ext}",
+        "tipo":          tipo,
+        "sesion_fecha":  sesion_fecha,
+        "scope":         scope,
+        "source":        "manual",
+        "url":           blob_url,      # siempre disponible (Blob o disco)
+        "notas":         notas,
+        "size_bytes":    len(raw),
+        "uploaded_at":   datetime.utcnow().isoformat() + "Z",
     }
     meta.append(entry)
     save_docs_meta(camara, group, commission_name, meta)
-
     return {"success": True, "doc": entry}
 
 
-# ── POST: registrar URL externa (scraping / link) ──────────
 @app.post("/api/docs/{camara}/{group}/{commission_name}/link")
 def add_doc_link(
     camara: str, group: str, commission_name: str,
     payload: dict = Body(...),
 ):
-    """
-    Registra un documento externo por URL (sin subir archivo).
-    payload: { url, title, tipo, sesion_fecha, scope, notas, source }
-    """
-    meta = load_docs_meta(camara, group, commission_name)
+    """Registra un documento externo por URL (sin subir archivo)."""
+    meta   = load_docs_meta(camara, group, commission_name)
     doc_id = str(uuid.uuid4())[:8]
-    entry = {
-        "id":           doc_id,
-        "filename":     "",
+    entry  = {
+        "id":            doc_id,
         "original_name": payload.get("title", ""),
-        "title":        payload.get("title", "Documento externo"),
-        "tipo":         payload.get("tipo", "otro"),
-        "sesion_fecha": payload.get("sesion_fecha", ""),
-        "scope":        payload.get("scope", "sesion"),
-        "source":       payload.get("source", "manual"),
-        "url":          payload.get("url", ""),
-        "notas":        payload.get("notas", ""),
-        "size_bytes":   0,
-        "uploaded_at":  datetime.utcnow().isoformat() + "Z",
+        "title":         payload.get("title", "Documento externo"),
+        "tipo":          payload.get("tipo", "otro"),
+        "sesion_fecha":  payload.get("sesion_fecha", ""),
+        "scope":         payload.get("scope", "sesion"),
+        "source":        payload.get("source", "manual"),
+        "url":           payload.get("url", ""),
+        "notas":         payload.get("notas", ""),
+        "size_bytes":    0,
+        "uploaded_at":   datetime.utcnow().isoformat() + "Z",
     }
     meta.append(entry)
     save_docs_meta(camara, group, commission_name, meta)
     return {"success": True, "doc": entry}
 
 
-# ── DELETE: eliminar documento ──────────────────────────────
 @app.delete("/api/docs/{camara}/{group}/{commission_name}/{doc_id}")
 def delete_doc(camara: str, group: str, commission_name: str, doc_id: str):
-    meta = load_docs_meta(camara, group, commission_name)
+    """Elimina un documento de Blob y de la metadata."""
+    meta  = load_docs_meta(camara, group, commission_name)
     entry = next((d for d in meta if d["id"] == doc_id), None)
     if not entry:
         return {"success": False, "error": "Documento no encontrado"}
 
-    # Eliminar archivo físico si existe
-    if entry.get("filename"):
-        fpath = os.path.join(docs_dir(camara, group, commission_name), entry["filename"])
-        if os.path.exists(fpath):
-            os.remove(fpath)
+    # Eliminar de Vercel Blob si tiene URL de Blob
+    if BLOB_AVAILABLE and BLOB_TOKEN and entry.get("url", "").startswith("https://"):
+        try:
+            vercel_blob.delete(entry["url"], token=BLOB_TOKEN)
+        except Exception as e:
+            print(f"[WARN] No se pudo eliminar de Blob: {e}")
 
+    # Guardar metadata sin el documento eliminado
     meta = [d for d in meta if d["id"] != doc_id]
     save_docs_meta(camara, group, commission_name, meta)
     return {"success": True}
 
 
-# ── GET: servir archivo subido ──────────────────────────────
 @app.get("/api/docs/{camara}/{group}/{commission_name}/file/{filename}")
 def serve_doc_file(camara: str, group: str, commission_name: str, filename: str):
-    d    = docs_dir(camara, group, commission_name)
-    path = os.path.join(d, filename)
+    """
+    Sirve archivos desde disco local (solo usado en modo fallback sin Blob).
+    Con Blob activo, el frontend usa la URL pública directa y este endpoint
+    no se invoca.
+    """
+    store = get_store(camara)
+    d     = os.path.join(store.data_repo_dir, group, commission_name, "docs")
+    path  = os.path.join(d, filename)
     if not os.path.isfile(path):
         return {"error": "Archivo no encontrado"}
     mime = mimetypes.guess_type(path)[0] or "application/octet-stream"
     return FileResponse(path, media_type=mime, filename=filename)
+
+
+# ─────────────────────────────────────────
+# Noticias
+# ─────────────────────────────────────────
 
 @app.get("/api/news")
 def news(source: str = "diario_oficial", q: str = ""):
@@ -359,7 +396,10 @@ def news(source: str = "diario_oficial", q: str = ""):
     return {"success": True, "items": items, "total": len(items)}
 
 
-# ---- KOM profiles ----
+# ─────────────────────────────────────────
+# KOM Profiles
+# ─────────────────────────────────────────
+
 @app.get("/api/kom/{chamber}/{pid}")
 def get_kom_profile(chamber: str, pid: str):
     path = kom_profile_path(chamber, pid)
@@ -392,7 +432,10 @@ def save_kom_profile(chamber: str, pid: str, payload: dict = Body(...)):
         return {"success": False, "error": str(e)}
 
 
-# ---- Upload ----
+# ─────────────────────────────────────────
+# Upload (Chat RAG)
+# ─────────────────────────────────────────
+
 @app.post("/api/upload")
 async def upload(file: UploadFile = File(...)):
     try:
@@ -403,7 +446,10 @@ async def upload(file: UploadFile = File(...)):
         return {"success": False, "error": str(e)}
 
 
-# ---- Chat ----
+# ─────────────────────────────────────────
+# Chat
+# ─────────────────────────────────────────
+
 @app.post("/api/chat")
 def chat(payload: dict = Body(...)):
     msg = (payload or {}).get("message") or ""
@@ -416,7 +462,10 @@ def chat(payload: dict = Body(...)):
         return {"success": False, "error": str(e), "response": f"Error: {str(e)}"}
 
 
-# ---- Debug ----
+# ─────────────────────────────────────────
+# Debug
+# ─────────────────────────────────────────
+
 @app.get("/api/test-debug")
 def test_debug():
     result = {
@@ -424,6 +473,8 @@ def test_debug():
             "DATA_REPO_DIR":   DATA_REPO_DIR,   "exists_camara": os.path.isdir(DATA_REPO_DIR),
             "SENADO_REPO_DIR": SENADO_REPO_DIR, "exists_senado": os.path.isdir(SENADO_REPO_DIR),
             "KOM_DIR":         KOM_DIR,
+            "blob_token_set":  bool(BLOB_TOKEN),
+            "blob_sdk":        BLOB_AVAILABLE,
         }
     }
     try:
