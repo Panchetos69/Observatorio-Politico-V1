@@ -1,5 +1,4 @@
 from __future__ import annotations
-from vercel_blob import put
 import json
 import os
 import uuid
@@ -125,13 +124,57 @@ if os.path.isdir(PUBLIC_DIR):
 
 
 # ─────────────────────────────────────────
-# KOM helper
+# KOM Blob helpers
 # ─────────────────────────────────────────
-def kom_profile_path(chamber: str, pid: str) -> str:
-    chamber = (chamber or "camara").lower()
-    base = os.path.join(store_camara.kom_dir, "profiles", chamber)
-    os.makedirs(base, exist_ok=True)
-    return os.path.join(base, f"{str(pid).strip()}.json")
+def _kom_blob_key(chamber: str, pid: str) -> str:
+    """Clave del perfil KOM en Vercel Blob."""
+    chamber = (chamber or "camara").lower().strip("/")
+    pid     = str(pid).strip("/")
+    return f"kom/profiles/{chamber}/{pid}.json"
+
+
+def _load_kom(chamber: str, pid: str) -> dict:
+    """Lee perfil KOM desde Blob (o disco local como fallback)."""
+    empty = {"id": pid, "chamber": chamber, "tags": [], "notas": "", "links": [], "updated_at": None}
+
+    if BLOB_AVAILABLE and BLOB_TOKEN:
+        try:
+            resp = vercel_blob.get(_kom_blob_key(chamber, pid), token=BLOB_TOKEN)
+            return json.loads(resp.content)
+        except Exception:
+            return empty
+    else:
+        # Fallback disco local (desarrollo)
+        path = os.path.join(store_camara.kom_dir, "profiles", chamber.lower(), f"{pid.strip()}.json")
+        if os.path.exists(path):
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    return json.load(f)
+            except Exception:
+                pass
+        return empty
+
+
+def _save_kom(chamber: str, pid: str, payload: dict) -> str:
+    """Guarda perfil KOM en Blob (o disco local como fallback)."""
+    raw = json.dumps(payload, ensure_ascii=False, indent=2).encode("utf-8")
+
+    if BLOB_AVAILABLE and BLOB_TOKEN:
+        result = vercel_blob.put(
+            _kom_blob_key(chamber, pid),
+            raw,
+            options={"contentType": "application/json", "access": "public"},
+            token=BLOB_TOKEN,
+        )
+        return result.get("url", "")
+    else:
+        # Fallback disco local
+        base = os.path.join(store_camara.kom_dir, "profiles", chamber.lower())
+        os.makedirs(base, exist_ok=True)
+        path = os.path.join(base, f"{pid.strip()}.json")
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(raw.decode("utf-8"))
+        return path
 
 
 # ─────────────────────────────────────────
@@ -412,25 +455,16 @@ def news(source: str = "diario_oficial", q: str = ""):
 
 
 # ─────────────────────────────────────────
-# KOM Profiles
+# KOM Profiles  (Vercel Blob — sin disco)
 # ─────────────────────────────────────────
 
 @app.get("/api/kom/{chamber}/{pid}")
 def get_kom_profile(chamber: str, pid: str):
-    path = kom_profile_path(chamber, pid)
-    if os.path.exists(path):
-        try:
-            with open(path, "r", encoding="utf-8") as f:
-                return {"success": True, "exists": True, "profile": json.load(f)}
-        except Exception as e:
-            return {"success": False, "error": str(e)}
-    return {
-        "success": True, "exists": False,
-        "profile": {
-            "id": pid, "chamber": chamber, "tags": [],
-            "notes": "", "notas": "", "links": [], "updated_at": None,
-        },
-    }
+    try:
+        profile = _load_kom(chamber, pid)
+        return {"success": True, "exists": bool(profile.get("updated_at")), "profile": profile}
+    except Exception as e:
+        return {"success": False, "error": str(e)}
 
 
 @app.post("/api/kom/{chamber}/{pid}")
@@ -438,11 +472,9 @@ def save_kom_profile(chamber: str, pid: str, payload: dict = Body(...)):
     payload["id"]         = pid
     payload["chamber"]    = chamber
     payload["updated_at"] = datetime.utcnow().isoformat() + "Z"
-    path = kom_profile_path(chamber, pid)
     try:
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(payload, f, ensure_ascii=False, indent=2)
-        return {"success": True, "saved": True}
+        url = _save_kom(chamber, pid, payload)
+        return {"success": True, "saved": True, "url": url}
     except Exception as e:
         return {"success": False, "error": str(e)}
 
@@ -457,34 +489,6 @@ async def upload(file: UploadFile = File(...)):
         raw      = await file.read()
         saved_as = store_camara.save_upload(file.filename, raw)
         return {"success": True, "saved_as": saved_as}
-    except Exception as e:
-        return {"success": False, "error": str(e)}
-
-# Agrega esta nueva ruta en api/index.py
-@app.post("/api/upload-doc")
-async def upload_document(file: UploadFile = File(...)):
-    try:
-        # Leer el contenido del archivo
-        file_content = await file.read()
-        
-        # Subir a la carpeta 'sesiones' en Vercel Blob
-        blob = put(
-            f"sesiones/{uuid.uuid4()}_{file.filename}", 
-            file_content, 
-            {"access": "public"}
-        )
-        
-        return {"success": True, "url": blob['url']}
-    except Exception as e:
-        return {"success": False, "error": str(e)}
-
-# Actualiza tu ruta actual de guardado de perfil KOM
-@app.post("/api/kom/{chamber}/{pol_id}")
-async def save_kom(chamber: str, pol_id: str, data: dict = Body(...)):
-    try:
-        # Llamamos a la nueva función que usa Blob
-        url = store_camara.save_kom_profile(chamber, pol_id, data) 
-        return {"success": True, "url": url}
     except Exception as e:
         return {"success": False, "error": str(e)}
 # ─────────────────────────────────────────
