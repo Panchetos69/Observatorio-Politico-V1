@@ -1,6 +1,46 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+<script>
+// ── KOM Auth Guard ──────────────────────────────────────────
+(function(){
+  var user = null;
+  try { user = JSON.parse(sessionStorage.getItem('kom_user')||'null'); } catch(e){}
+  if (!user) {
+    // No logueado → redirigir a login con redirect param
+    var dest = encodeURIComponent(location.pathname + location.search);
+    window.location.replace('/login.html?redirect=' + dest);
+  } else {
+    // Inyectar nombre de usuario en topbar si existe
+    document.addEventListener('DOMContentLoaded', function(){
+      var el = document.getElementById('komUserName');
+      if (el) el.textContent = user.name;
+    });
+  }
+})();
+
+function komLogout(){
+  sessionStorage.removeItem('kom_user');
+  window.location.href = '/login.html';
+}
+
+// ── Búsqueda tolerante a tildes/mayúsculas/ortografía ────────
+function normalize(s){
+  return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+}
+function fuzzyMatch(text, query){
+  if (!query) return true;
+  var t = normalize(text), q = normalize(query);
+  // Exact substring
+  if (t.includes(q)) return true;
+  // Word-by-word: all query words must appear
+  var words = q.split(/\s+/).filter(Boolean);
+  return words.every(function(w){ return t.includes(w); });
+}
+window.komNormalize   = normalize;
+window.komFuzzyMatch  = fuzzyMatch;
+// ── End KOM Auth Guard ───────────────────────────────────────
+</script>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Perfil — Observatorio Político</title>
@@ -708,7 +748,7 @@ window.addEventListener("DOMContentLoaded", () => {
 });
 
 // ════════════════════════════════════════════════════════
-// PARLAMENTARIO
+// CONGRESISTA
 // ════════════════════════════════════════════════════════
 async function loadPolitician() {
   try {
@@ -970,7 +1010,7 @@ async function saveAll() {
 // ════════════════════════════════════════════════════════
 function docsPath() {
   return TYPE === "pol"
-    ? `/api/docs/${CHAMBER}/parlamentarios/${encodeURIComponent(ID)}`
+    ? `/api/docs/${CHAMBER}/congresistas/${encodeURIComponent(ID)}`
     : `/api/docs/${CHAMBER}/${encodeURIComponent(GROUP)}/${encodeURIComponent(NAME)}`;
 }
 

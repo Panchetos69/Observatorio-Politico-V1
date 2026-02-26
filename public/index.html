@@ -1,9 +1,49 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+<script>
+// ── KOM Auth Guard ──────────────────────────────────────────
+(function(){
+  var user = null;
+  try { user = JSON.parse(sessionStorage.getItem('kom_user')||'null'); } catch(e){}
+  if (!user) {
+    // No logueado → redirigir a login con redirect param
+    var dest = encodeURIComponent(location.pathname + location.search);
+    window.location.replace('/login.html?redirect=' + dest);
+  } else {
+    // Inyectar nombre de usuario en topbar si existe
+    document.addEventListener('DOMContentLoaded', function(){
+      var el = document.getElementById('komUserName');
+      if (el) el.textContent = user.name;
+    });
+  }
+})();
+
+function komLogout(){
+  sessionStorage.removeItem('kom_user');
+  window.location.href = '/login.html';
+}
+
+// ── Búsqueda tolerante a tildes/mayúsculas/ortografía ────────
+function normalize(s){
+  return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+}
+function fuzzyMatch(text, query){
+  if (!query) return true;
+  var t = normalize(text), q = normalize(query);
+  // Exact substring
+  if (t.includes(q)) return true;
+  // Word-by-word: all query words must appear
+  var words = q.split(/\s+/).filter(Boolean);
+  return words.every(function(w){ return t.includes(w); });
+}
+window.komNormalize   = normalize;
+window.komFuzzyMatch  = fuzzyMatch;
+// ── End KOM Auth Guard ───────────────────────────────────────
+</script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Observatorio Político Chile</title>
+  <title>KOM · Observatorio Político Chile</title>
   <script src="https://cdn.tailwindcss.com"></script>
 
   <style>
@@ -108,11 +148,7 @@
     <div class="kom-divider"></div>
     <span class="kom-page-title">Inicio</span>
   </a>
-  <div class="kom-topbar-nav" id="komNav">
-    <a href="/" data-page="/">🏠 Inicio</a>
-    <a href="/comisiones.html" data-page="/comisiones.html">📋 Comisiones</a>
-    <a href="/congresistas.html" data-page="/congresistas.html">👤 Congresistas</a>
-  </div>
+  <!-- no nav links on landing -->
   <div class="kom-topbar-right">
     <button id="goDashboardBtn" style="background:#0d9488;color:white;padding:6px 16px;border-radius:8px;border:none;font-size:.78rem;font-weight:700;cursor:pointer;transition:background .15s" onmouseover="this.style.background='#0f766e'" onmouseout="this.style.background='#0d9488'">Entrar →</button>
   </div>
@@ -132,66 +168,64 @@
   <section class="pt-32 pb-20 px-4">
     <div class="max-w-7xl mx-auto text-center">
       <h1 class="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
-        Inteligencia Política al <span class="gradient-text">Alcance de Todos</span>
+        Observatorio <span class="gradient-text">Político</span>
       </h1>
       <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-        Comisiones, parlamentarios, perfiles exportables a PDF y chat (RAG) con tus archivos.
+        Inteligencia legislativa para tomar mejores decisiones.
       </p>
       <div class="flex gap-4 justify-center flex-wrap">
         <button id="goDashboardBtn2" class="gradient-bg text-white px-8 py-4 rounded-lg font-semibold text-lg hover:opacity-90 transition">
-          Abrir Dashboard
+          Explorar Ahora
         </button>
         <a href="#features" class="bg-white text-gray-900 px-8 py-4 rounded-lg font-semibold text-lg border-2 border-gray-200 hover:border-gray-300 transition">
-          Conocer Más
+          Ver Funciones
         </a>
       </div>
-      <div class="mt-6 text-sm text-gray-500">
-        Backend: <span class="mono" id="backendOrigin"></span> · Health: <span class="mono" id="healthBadge">—</span>
-      </div>
+      <div class="mt-6 text-sm text-gray-400" id="backendOrigin" style="display:none"></div>
     </div>
   </section>
 
   <section id="features" class="py-20 bg-white">
     <div class="max-w-7xl mx-auto px-4">
-      <h2 class="text-4xl font-bold text-center mb-4">¿Qué Ofrecemos?</h2>
-      <p class="text-gray-600 text-center mb-16 text-lg">Herramientas para análisis legislativo</p>
+      <h2 class="text-4xl font-bold text-center mb-4">Una herramienta, <span class="gradient-text">todo el Congreso</span></h2>
+      <p class="text-gray-600 text-center mb-16 text-lg">Información legislativa organizada, actualizada y lista para usar.</p>
 
       <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         <div class="card-hover bg-gray-50 p-8 rounded-xl">
           <div class="w-14 h-14 gradient-bg rounded-lg flex items-center justify-center mb-4">
-            <span class="text-white font-bold text-xl">IA</span>
+            <span style="font-size:1.6rem">💬</span>
           </div>
-          <h3 class="text-xl font-bold mb-3">Chat (RAG)</h3>
-          <p class="text-gray-600 mb-4">Pregunta y el sistema busca contexto en tus textos/transcripciones.</p>
+          <h3 class="text-xl font-bold mb-3">Chat con Documentos</h3>
+          <p class="text-gray-600 mb-4">Consulta documentos del Congreso en segundos. Pregunta y obtén respuestas.</p>
           <button onclick="document.getElementById('goDashboardBtn').click();setTimeout(()=>document.querySelector('[data-tab=tabChat]').click(),400)"
-            class="text-sm font-semibold text-purple-700 hover:underline">Abrir Chat →</button>
+            class="text-sm font-semibold text-purple-700 hover:underline">Ir al Chat →</button>
         </div>
 
         <div class="card-hover bg-gray-50 p-8 rounded-xl">
           <div class="w-14 h-14 gradient-bg rounded-lg flex items-center justify-center mb-4">
-            <span class="text-white font-bold text-xl">C</span>
+            <span style="font-size:1.6rem">📋</span>
           </div>
           <h3 class="text-xl font-bold mb-3">Comisiones</h3>
-          <p class="text-gray-600 mb-4">Explora comisiones, sesiones y documentos. Perfiles exportables a PDF.</p>
+          <p class="text-gray-600 mb-4">Sigue en tiempo real lo que se debate en cada comisión del Congreso.</p>
           <div class="flex gap-3 flex-wrap">
             <button onclick="document.getElementById('goDashboardBtn').click()"
-              class="text-sm font-semibold text-purple-700 hover:underline">Dashboard →</button>
+              class="text-sm font-semibold text-purple-700 hover:underline">Abrir →</button>
             <a href="/comisiones.html" target="_blank"
-              class="text-sm font-semibold text-indigo-600 hover:underline">Vista completa ↗</a>
+              class="text-sm font-semibold text-indigo-600 hover:underline">Ver todo ↗</a>
           </div>
         </div>
 
         <div class="card-hover bg-gray-50 p-8 rounded-xl">
           <div class="w-14 h-14 gradient-bg rounded-lg flex items-center justify-center mb-4">
-            <span class="text-white font-bold text-xl">P</span>
+            <span style="font-size:1.6rem">👤</span>
           </div>
-          <h3 class="text-xl font-bold mb-3">Parlamentarios</h3>
-          <p class="text-gray-600 mb-4">Perfiles KOM con notas, etiquetas, documentos y exportación a PDF.</p>
+          <h3 class="text-xl font-bold mb-3">Perfiles de Congresistas</h3>
+          <p class="text-gray-600 mb-4">Perfil completo de cada congresista con notas, etiquetas y exportación a PDF.</p>
           <div class="flex gap-3 flex-wrap">
             <button onclick="document.getElementById('goDashboardBtn').click();setTimeout(()=>document.querySelector('[data-tab=tabPoliticians]').click(),400)"
-              class="text-sm font-semibold text-purple-700 hover:underline">Dashboard →</button>
+              class="text-sm font-semibold text-purple-700 hover:underline">Abrir →</button>
             <a href="/congresistas.html" target="_blank"
-              class="text-sm font-semibold text-indigo-600 hover:underline">Vista completa ↗</a>
+              class="text-sm font-semibold text-indigo-600 hover:underline">Ver todo ↗</a>
           </div>
         </div>
       </div>
@@ -202,32 +236,34 @@
 
 <!-- ===== Dashboard ===== -->
 <div id="dashboardPage" class="hidden">
-  <nav class="bg-white shadow-sm sticky top-0 z-50">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="flex items-center justify-between h-16">
-        <div class="flex items-center gap-3">
-          <div class="w-10 h-10 gradient-bg rounded-lg flex items-center justify-center">
-            <span class="text-white font-bold text-xl">OP</span>
-          </div>
-          <div>
-            <div class="text-lg font-bold text-gray-900">Dashboard</div>
-            <div class="text-xs text-gray-500 mono" id="apiStatus">—</div>
-          </div>
-        </div>
-
-
-      </div>
+  <!-- KOM Dashboard Topbar -->
+  <nav class="kom-topbar no-print" style="position:sticky;top:0;z-index:1000">
+    <a href="/" class="kom-brand" aria-label="KOM">
+      <img src="data:image/png;base64,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" alt="KOM" style="height:40px;width:auto;display:block;">
+      <div class="kom-divider"></div>
+      <span class="kom-page-title">Dashboard</span>
+    </a>
+    <div class="kom-topbar-nav">
+      <a href="#" onclick="switchTab('tabCommissions');return false;" data-dash="tabCommissions">📋 Comisiones</a>
+      <a href="#" onclick="switchTab('tabPoliticians');return false;" data-dash="tabPoliticians">👤 Congresistas</a>
+      <a href="#" onclick="switchTab('tabActivity');return false;" data-dash="tabActivity">📅 Calendario Legislativo</a>
+      <a href="#" onclick="switchTab('tabNews');return false;" data-dash="tabNews">📰 Diario Oficial</a>
+      <a href="#" onclick="switchTab('tabChat');return false;" data-dash="tabChat">💬 Chat IA</a>
+    </div>
+    <div class="kom-topbar-right">
+      <span class="text-xs mono" id="apiStatus" style="color:#94a3b8;font-size:.65rem"></span>
+      <button onclick="showLanding()" style="background:transparent;border:1.5px solid #e2e8f0;color:#64748b;padding:5px 12px;border-radius:7px;font-size:.72rem;font-weight:600;cursor:pointer">← Volver al inicio</button>
     </div>
   </nav>
 
   <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
     <!-- Tabs -->
     <div class="flex flex-wrap gap-2 mb-6 items-center">
-      <button class="tabBtn gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabCommissions">Comisiones</button>
-      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabPoliticians">Parlamentarios</button>
-      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabActivity">Actividad</button>
-      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabNews">Diario Oficial</button>
-      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabChat">Chat IA</button>
+      <button class="tabBtn gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabCommissions">📋 Comisiones</button>
+      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabPoliticians">👤 Congresistas</button>
+      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabActivity">📅 Calendario Legislativo</button>
+      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabNews">📰 Diario Oficial</button>
+      <button class="tabBtn bg-white border border-gray-200 px-4 py-2 rounded-lg text-sm font-semibold" data-tab="tabChat">💬 Chat con Documentos</button>
 
     </div>
 
@@ -280,12 +316,12 @@
       </div>
     </div>
 
-    <!-- ===== Parlamentarios ===== -->
+    <!-- ===== Congresistas ===== -->
     <div id="tabPoliticians" class="tabPanel hidden fade-in">
       <div class="bg-white rounded-2xl border border-gray-200 p-5 mb-6">
         <!-- Fila 1: título + búsqueda nombre -->
         <div class="flex items-center justify-between gap-3 flex-wrap">
-          <h2 class="text-lg font-bold">Parlamentarios</h2>
+          <h2 class="text-lg font-bold">Congresistas</h2>
           <div class="flex gap-2 flex-wrap">
             <input id="politicianSearch"
               class="border border-gray-200 rounded-lg px-3 py-2 text-sm w-48"
@@ -339,8 +375,8 @@
       <div class="bg-white rounded-2xl border border-gray-200 p-5 mb-6">
         <div class="flex items-center justify-between gap-3">
           <div>
-            <h2 class="text-lg font-bold">Actividad Legislativa</h2>
-            <div class="text-sm text-gray-500">Feed de sesiones (CITADA/CELEBRADA/SUSPENDIDA...)</div>
+            <h2 class="text-lg font-bold">📅 Calendario Legislativo</h2>
+            <div class="text-sm text-gray-500">Sesiones citadas, celebradas y suspendidas del Congreso</div>
           </div>
 
           <div class="flex flex-wrap gap-2">
@@ -352,7 +388,9 @@
             </select>
             <input id="activityStatus" class="border border-gray-200 rounded-lg px-3 py-2 text-sm" placeholder="Filtrar estado..." />
             <input id="activityQ" class="border border-gray-200 rounded-lg px-3 py-2 text-sm" placeholder="Buscar comisión..." />
-            <button id="activityBtn" class="gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold hover:opacity-90">Cargar</button>
+            <button id="activityBtn" class="gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold hover:opacity-90 flex items-center gap-2">
+              <span id="activityBtnIcon" style="display:inline-block;transition:transform .4s">⟳</span> Actualizar
+            </button>
           </div>
         </div>
       </div>
@@ -365,8 +403,8 @@
       <div class="bg-white rounded-2xl border border-gray-200 p-5 mb-6">
         <div class="flex flex-wrap gap-3 items-end justify-between">
           <div>
-            <h2 class="text-lg font-bold">Diario Oficial (placeholder)</h2>
-            <div class="text-sm text-gray-500">Lee <span class="mono">/api/news</span> desde JSONL si existe.</div>
+            <h2 class="text-lg font-bold">📰 Diario Oficial</h2>
+            <div class="text-sm text-gray-500">Publicaciones oficiales del Estado de Chile</div>
           </div>
 
           <div class="flex flex-wrap gap-2">
@@ -374,7 +412,9 @@
               <option value="diario_oficial">diario_oficial</option>
             </select>
             <input id="newsQ" class="border border-gray-200 rounded-lg px-3 py-2 text-sm" placeholder="Buscar..." />
-            <button id="newsBtn" class="gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold hover:opacity-90">Cargar</button>
+            <button id="newsBtn" class="gradient-bg text-white px-4 py-2 rounded-lg text-sm font-semibold hover:opacity-90 flex items-center gap-2">
+              <span id="newsBtnIcon" style="display:inline-block;transition:transform .4s">⟳</span> Actualizar
+            </button>
           </div>
         </div>
       </div>
@@ -420,7 +460,7 @@
             💬
           </div>
           <h3 class="text-xl font-bold text-gray-900 mb-2">¿En qué puedo ayudarte?</h3>
-          <p class="text-gray-500 mb-6 max-w-md">Pregunta sobre comisiones, sesiones, documentos o parlamentarios.</p>
+          <p class="text-gray-500 mb-6 max-w-md">Pregunta sobre comisiones, sesiones, documentos o congresistas.</p>
 
           <div class="grid grid-cols-1 md:grid-cols-2 gap-3 max-w-2xl w-full">
             <button onclick="useSuggestion('¿Qué comisiones están disponibles?')" class="text-left p-4 bg-white rounded-xl border border-gray-200 hover:border-purple-400 hover:shadow-md transition">
@@ -443,7 +483,7 @@
 
             <button onclick="useSuggestion('¿Quiénes participaron en la Comisión de Hacienda?')" class="text-left p-4 bg-white rounded-xl border border-gray-200 hover:border-purple-400 hover:shadow-md transition">
               <div class="text-2xl mb-2">👥</div>
-              <div class="font-semibold text-sm text-gray-900">Parlamentarios</div>
+              <div class="font-semibold text-sm text-gray-900">Congresistas</div>
               <div class="text-xs text-gray-500">Info sobre integrantes</div>
             </button>
           </div>
@@ -775,7 +815,7 @@
       <div class="flex items-start justify-between gap-4">
         <div>
           <h2 class="text-2xl font-bold gradient-text" id="komName">Perfil KOM</h2>
-          <div class="text-sm text-gray-500 mt-1" id="komMeta">Información personalizada del parlamentario</div>
+          <div class="text-sm text-gray-500 mt-1" id="komMeta">Información personalizada del congresista</div>
         </div>
         <button onclick="closeKomModal()" class="px-4 py-2 rounded-lg bg-gray-100 hover:bg-gray-200 text-sm font-semibold">
           Cerrar
@@ -787,7 +827,7 @@
       <!-- Notas -->
       <div>
         <label class="block text-sm font-bold text-gray-700 mb-2">📝 Notas Internas</label>
-        <textarea id="komNotas" class="w-full h-40 px-4 py-3 rounded-lg border border-gray-200 focus:border-purple-500 focus:ring-2 focus:ring-purple-200 transition" placeholder="Escribe notas personalizadas sobre este parlamentario..."></textarea>
+        <textarea id="komNotas" class="w-full h-40 px-4 py-3 rounded-lg border border-gray-200 focus:border-purple-500 focus:ring-2 focus:ring-purple-200 transition" placeholder="Escribe notas personalizadas sobre este congresista..."></textarea>
       </div>
 
       <!-- Tags -->
@@ -871,6 +911,19 @@
     initDashboard();
   }
 
+
+  // Spin animation for load buttons
+  function spinBtn(iconId) {
+    var el = document.getElementById(iconId);
+    if (!el) return;
+    var deg = 0;
+    var iv = setInterval(function(){ deg += 45; el.style.transform = 'rotate('+deg+'deg)'; }, 80);
+    setTimeout(function(){ clearInterval(iv); el.style.transform = 'rotate(0deg)'; }, 1200);
+  }
+  var _origActBtn = document.getElementById('activityBtn');
+  var _origNewsBtn = document.getElementById('newsBtn');
+  if (_origActBtn) _origActBtn.addEventListener('click', function(){ spinBtn('activityBtnIcon'); });
+  if (_origNewsBtn) _origNewsBtn.addEventListener('click', function(){ spinBtn('newsBtnIcon'); });
   $("goDashboardBtn")?.addEventListener("click", showDashboard);
   $("goDashboardBtn2")?.addEventListener("click", showDashboard);
   $("backLandingBtn")?.addEventListener("click", showLanding);
@@ -889,8 +942,19 @@
       $(target)?.classList.remove("hidden");
       btn.classList.add("gradient-bg", "text-white");
       btn.classList.remove("bg-white", "border", "border-gray-200");
+      // Sync KOM topbar nav active state
+      const tabId = btn.getAttribute("data-tab");
+      document.querySelectorAll("[data-dash]").forEach(a => {
+        a.classList.toggle("active", a.getAttribute("data-dash") === tabId);
+      });
     });
   });
+
+  // Called by KOM topbar nav links
+  function switchTab(tabId) {
+    const btn = document.querySelector(`.tabBtn[data-tab="${tabId}"]`);
+    if (btn) btn.click();
+  }
 
   // ===== Health Check =====
   async function pingHealth() {
@@ -1209,7 +1273,7 @@
 
   async function loadPoliticians(q = "") {
     const el = $("politiciansGrid");
-    if (el) el.innerHTML = '<div class="col-span-3 text-xs text-gray-400 py-6 text-center">⏳ Cargando parlamentarios…</div>';
+    if (el) el.innerHTML = '<div class="col-span-3 text-xs text-gray-400 py-6 text-center">⏳ Cargando congresistas…</div>';
     try {
       const data = await apiGet(`/api/politicians?q=&camara=${currentPolCamara}`);
       _allPols = data.politicians || [];
@@ -1258,7 +1322,7 @@
     if (prev) el.value = prev;
   }
 
-  // Poblar selector de períodos desde campo "periodo" de cada parlamentario
+  // Poblar selector de períodos desde campo "periodo" de cada congresista
   function _buildPolPeriodoSelect(pols) {
     const el = $("polPeriodoSelect");
     if (!el) return;
@@ -1291,7 +1355,7 @@
 
     var list = _allPols.slice();
 
-    if (q) list = list.filter(function(p) { return p.nombre.toLowerCase().includes(q); });
+    if (q) list = list.filter(function(p) { return (typeof komFuzzyMatch==="function"?komFuzzyMatch(p.nombre,q):p.nombre.toLowerCase().includes(q)); });
 
     if (comFil) {
       list = list.filter(function(p) {
