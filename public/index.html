@@ -2,13 +2,12 @@
 <html lang="es">
 <head>
 <script>
-// ── KOM Auth — landing pública, dashboard requiere login ─────
+// ── KOM Auth ─────────────────────────────────────────────────
 function _getKomUser() {
   try { return JSON.parse(sessionStorage.getItem('kom_user') || 'null'); } catch(e) { return null; }
 }
-
 function komLogout() {
-  sessionStorage.removeItem('kom_user');
+  sessionStorage.clear();
   window.location.href = '/login.html';
 }
 
@@ -890,20 +889,20 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
   function showLanding() {
     $("landingPage").classList.remove("hidden");
     $("dashboardPage").classList.add("hidden");
+    sessionStorage.removeItem('kom_after_login');
   }
 
   function showDashboard() {
-    // Verificar sesión en el momento del click (no cacheada)
     var user = _getKomUser();
     if (!user) {
-      // No logueado → ir a login, volver aquí después
+      // Sin sesión → siempre a login, sin excepciones
+      sessionStorage.removeItem('kom_after_login'); // limpiar flags viejos
       sessionStorage.setItem('kom_after_login', '1');
       window.location.href = '/login.html';
       return;
     }
     $("landingPage").classList.add("hidden");
     $("dashboardPage").classList.remove("hidden");
-    // Mostrar nombre en topbar
     var nameEl = document.getElementById('komUserName');
     if (nameEl) nameEl.textContent = user.name;
     initDashboard();
@@ -923,13 +922,17 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
   if (_origActBtn) _origActBtn.addEventListener('click', function(){ spinBtn('activityBtnIcon'); });
   if (_origNewsBtn) _origNewsBtn.addEventListener('click', function(){ spinBtn('newsBtnIcon'); });
 
-  // ── Si viene de login, entrar directo al dashboard ──────────
+  // ── Al cargar: si viene de login entrar al dashboard, sino mostrar landing ──
   (function() {
-    if (sessionStorage.getItem('kom_after_login') === '1' && _getKomUser()) {
+    var flag = sessionStorage.getItem('kom_after_login');
+    var user = _getKomUser();
+    if (flag === '1' && user) {
+      // Viene de hacer login exitoso → entrar al dashboard
       sessionStorage.removeItem('kom_after_login');
-      // Pequeño delay para que el DOM esté listo
-      setTimeout(showDashboard, 50);
+      setTimeout(function(){ showDashboard(); }, 30);
     }
+    // En cualquier otro caso (primera visita, sesión expirada, etc.) → mostrar landing
+    // NO auto-entrar aunque haya sesión guardada
   })();
   $("goDashboardBtn")?.addEventListener("click", showDashboard);
   $("goDashboardBtn2")?.addEventListener("click", showDashboard);
