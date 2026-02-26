@@ -2,38 +2,12 @@
 <html lang="es">
 <head>
 <script>
-// ── KOM Auth Guard — landing es pública, dashboard requiere login ────
-var _komUser = null;
-try { _komUser = JSON.parse(sessionStorage.getItem('kom_user')||'null'); } catch(e){}
-
-function komRequireAuth() {
-  // Llamar antes de entrar al dashboard
-  if (!_komUser) {
-    sessionStorage.setItem('kom_after_login', 'dashboard');
-    window.location.href = '/login.html';
-    return false;
-  }
-  return true;
+// ── KOM Auth — landing pública, dashboard requiere login ─────
+function _getKomUser() {
+  try { return JSON.parse(sessionStorage.getItem('kom_user') || 'null'); } catch(e) { return null; }
 }
 
-function komLogout(){
-  sessionStorage.removeItem('kom_user');
-  window.location.href = '/login.html';
-}
-
-document.addEventListener('DOMContentLoaded', function(){
-  // Mostrar nombre si ya está logueado
-  var el = document.getElementById('komUserName');
-  if (el && _komUser) el.textContent = _komUser.name;
-  
-  // Si viene de login, ir directo al dashboard
-  if (_komUser && sessionStorage.getItem('kom_after_login') === 'dashboard') {
-    sessionStorage.removeItem('kom_after_login');
-    showDashboard && showDashboard();
-  }
-});
-
-function komLogout(){
+function komLogout() {
   sessionStorage.removeItem('kom_user');
   window.location.href = '/login.html';
 }
@@ -919,17 +893,19 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
   }
 
   function showDashboard() {
-    // Requiere autenticación
-    if (!_komUser) {
-      sessionStorage.setItem('kom_after_login', 'dashboard');
+    // Verificar sesión en el momento del click (no cacheada)
+    var user = _getKomUser();
+    if (!user) {
+      // No logueado → ir a login, volver aquí después
+      sessionStorage.setItem('kom_after_login', '1');
       window.location.href = '/login.html';
       return;
     }
     $("landingPage").classList.add("hidden");
     $("dashboardPage").classList.remove("hidden");
-    // Mostrar nombre en topbar del dashboard
+    // Mostrar nombre en topbar
     var nameEl = document.getElementById('komUserName');
-    if (nameEl && _komUser) nameEl.textContent = _komUser.name;
+    if (nameEl) nameEl.textContent = user.name;
     initDashboard();
   }
 
@@ -946,6 +922,15 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
   var _origNewsBtn = document.getElementById('newsBtn');
   if (_origActBtn) _origActBtn.addEventListener('click', function(){ spinBtn('activityBtnIcon'); });
   if (_origNewsBtn) _origNewsBtn.addEventListener('click', function(){ spinBtn('newsBtnIcon'); });
+
+  // ── Si viene de login, entrar directo al dashboard ──────────
+  (function() {
+    if (sessionStorage.getItem('kom_after_login') === '1' && _getKomUser()) {
+      sessionStorage.removeItem('kom_after_login');
+      // Pequeño delay para que el DOM esté listo
+      setTimeout(showDashboard, 50);
+    }
+  })();
   $("goDashboardBtn")?.addEventListener("click", showDashboard);
   $("goDashboardBtn2")?.addEventListener("click", showDashboard);
   $("backLandingBtn")?.addEventListener("click", showLanding);

@@ -48,10 +48,11 @@ function tryLogin() {
       email: user.email, name: user.name, role: user.role,
       loginAt: new Date().toISOString()
     }));
+    // Marcar que debe entrar al dashboard al llegar al index
+    sessionStorage.setItem('kom_after_login', '1');
     errEl.textContent = '';
-    // Redirigir a la página pedida o al inicio
-    const redirect = new URLSearchParams(location.search).get('redirect') || '/';
-    window.location.href = redirect;
+    // Siempre ir al index (landing), que luego auto-redirige al dashboard
+    window.location.href = '/';
   } else {
     errEl.textContent = 'Correo o contraseña incorrectos.';
     document.getElementById('loginPass').value = '';
