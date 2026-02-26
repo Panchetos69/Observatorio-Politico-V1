@@ -2,22 +2,36 @@
 <html lang="es">
 <head>
 <script>
-// ── KOM Auth Guard ──────────────────────────────────────────
-(function(){
-  var user = null;
-  try { user = JSON.parse(sessionStorage.getItem('kom_user')||'null'); } catch(e){}
-  if (!user) {
-    // No logueado → redirigir a login con redirect param
-    var dest = encodeURIComponent(location.pathname + location.search);
-    window.location.replace('/login.html?redirect=' + dest);
-  } else {
-    // Inyectar nombre de usuario en topbar si existe
-    document.addEventListener('DOMContentLoaded', function(){
-      var el = document.getElementById('komUserName');
-      if (el) el.textContent = user.name;
-    });
+// ── KOM Auth Guard — landing es pública, dashboard requiere login ────
+var _komUser = null;
+try { _komUser = JSON.parse(sessionStorage.getItem('kom_user')||'null'); } catch(e){}
+
+function komRequireAuth() {
+  // Llamar antes de entrar al dashboard
+  if (!_komUser) {
+    sessionStorage.setItem('kom_after_login', 'dashboard');
+    window.location.href = '/login.html';
+    return false;
   }
-})();
+  return true;
+}
+
+function komLogout(){
+  sessionStorage.removeItem('kom_user');
+  window.location.href = '/login.html';
+}
+
+document.addEventListener('DOMContentLoaded', function(){
+  // Mostrar nombre si ya está logueado
+  var el = document.getElementById('komUserName');
+  if (el && _komUser) el.textContent = _komUser.name;
+  
+  // Si viene de login, ir directo al dashboard
+  if (_komUser && sessionStorage.getItem('kom_after_login') === 'dashboard') {
+    sessionStorage.removeItem('kom_after_login');
+    showDashboard && showDashboard();
+  }
+});
 
 function komLogout(){
   sessionStorage.removeItem('kom_user');
@@ -103,13 +117,16 @@ window.komFuzzyMatch  = fuzzyMatch;
 }
 /* Footer sigue oscuro */
 .kom-footer {
-  margin-top: 48px;
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  z-index: 900;
   border-top: 3px solid #2d2167;
   background: #1a1040;
-  padding: 20px 28px;
+  padding: 12px 28px;
   display: flex; align-items: center; justify-content: space-between;
   gap: 16px; flex-wrap: wrap;
 }
+body { padding-bottom: 64px; } /* espacio para el footer fijo */
 .kom-footer-brand {
   display: flex; align-items: center; gap: 14px;
 }
@@ -350,10 +367,6 @@ window.komFuzzyMatch  = fuzzyMatch;
 
         <!-- Fila 3: toggle cámara -->
         <div class="flex gap-2 mt-3 flex-wrap items-center">
-          <button id="polBtn-all" onclick="window.setPolCamara('all')"
-            class="text-xs px-3 py-1.5 rounded-lg font-bold bg-gray-700 text-white border-2 border-gray-700">
-            🏛️ Todas
-          </button>
           <button id="polBtn-diputados" onclick="window.setPolCamara('camara')"
             class="text-xs px-3 py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200">
             🟣 Diputados
@@ -362,7 +375,7 @@ window.komFuzzyMatch  = fuzzyMatch;
             class="text-xs px-3 py-1.5 rounded-lg font-bold bg-white text-gray-500 border-2 border-gray-200">
             🔴 Senado
           </button>
-          <span id="polCamaraLabel" class="ml-auto self-center text-xs text-gray-400">Todas las cámaras</span>
+          <span id="polCamaraLabel" class="ml-auto self-center text-xs text-gray-400"></span>
         </div>
         <div class="text-xs text-gray-500 mt-2">Fuente: integrantes.json de comisiones (indexado por el backend).</div>
       </div>
@@ -906,8 +919,17 @@ window.komFuzzyMatch  = fuzzyMatch;
   }
 
   function showDashboard() {
+    // Requiere autenticación
+    if (!_komUser) {
+      sessionStorage.setItem('kom_after_login', 'dashboard');
+      window.location.href = '/login.html';
+      return;
+    }
     $("landingPage").classList.add("hidden");
     $("dashboardPage").classList.remove("hidden");
+    // Mostrar nombre en topbar del dashboard
+    var nameEl = document.getElementById('komUserName');
+    if (nameEl && _komUser) nameEl.textContent = _komUser.name;
     initDashboard();
   }
 
@@ -1245,7 +1267,7 @@ window.komFuzzyMatch  = fuzzyMatch;
   function setPolCamara(c) {
     currentPolCamara = c;
     const configs = {
-      all:    { id: "polBtn-all",       cls: "bg-gray-700 text-white border-gray-700",     label: "Todas las cámaras" },
+      all:    { id: "polBtn-all",       cls: "bg-gray-700 text-white border-gray-700",     label: "" },
       camara: { id: "polBtn-diputados", cls: "bg-purple-600 text-white border-purple-600", label: "🟣 Diputados" },
       senado: { id: "polBtn-senado",    cls: "bg-red-600 text-white border-red-600",        label: "🔴 Senado" },
     };

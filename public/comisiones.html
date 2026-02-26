@@ -172,13 +172,16 @@ window.komFuzzyMatch  = fuzzyMatch;
 }
 /* Footer sigue oscuro */
 .kom-footer {
-  margin-top: 48px;
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  z-index: 900;
   border-top: 3px solid #2d2167;
   background: #1a1040;
-  padding: 20px 28px;
+  padding: 12px 28px;
   display: flex; align-items: center; justify-content: space-between;
   gap: 16px; flex-wrap: wrap;
 }
+body { padding-bottom: 64px; } /* espacio para el footer fijo */
 .kom-footer-brand {
   display: flex; align-items: center; gap: 14px;
 }
