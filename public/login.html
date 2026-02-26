@@ -52,7 +52,7 @@ function tryLogin() {
     sessionStorage.setItem('kom_after_login', '1');
     errEl.textContent = '';
     // Siempre ir al index (landing), que luego auto-redirige al dashboard
-    window.location.href = '/';
+    window.location.href = '/index.html';
   } else {
     errEl.textContent = 'Correo o contraseña incorrectos.';
     document.getElementById('loginPass').value = '';
@@ -69,11 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (e.key === 'Enter') document.getElementById('loginPass').focus();
   });
   
-  // Si ya está logueado, redirigir
-  if (sessionStorage.getItem('kom_user')) {
-    const redirect = new URLSearchParams(location.search).get('redirect') || '/';
-    window.location.href = redirect;
-  }
+  // NO auto-redirigir al llegar a login — el usuario debe poder ver el formulario
 });
 </script>
 
