@@ -43,13 +43,13 @@ function tryLogin() {
   );
   
   if (user) {
-    // Guardar sesión en sessionStorage
-    sessionStorage.setItem('kom_user', JSON.stringify({
+    // Guardar sesión en localStorage
+    localStorage.setItem('kom_user', JSON.stringify({
       email: user.email, name: user.name, role: user.role,
       loginAt: new Date().toISOString()
     }));
     // Marcar que debe entrar al dashboard al llegar al index
-    sessionStorage.setItem('kom_after_login', '1');
+    localStorage.setItem('kom_after_login', '1');
     errEl.textContent = '';
     // Siempre ir al index (landing), que luego auto-redirige al dashboard
     window.location.href = '/index.html';

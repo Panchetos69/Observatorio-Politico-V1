@@ -5,7 +5,7 @@
 // ── KOM Auth Guard ──────────────────────────────────────────
 (function(){
   var user = null;
-  try { user = JSON.parse(sessionStorage.getItem('kom_user')||'null'); } catch(e){}
+  try { user = JSON.parse(localStorage.getItem('kom_user')||'null'); } catch(e){}
   if (!user) {
     // No logueado → redirigir a login con redirect param
     var dest = encodeURIComponent(location.pathname + location.search);
@@ -20,7 +20,7 @@
 })();
 
 function komLogout(){
-  sessionStorage.removeItem('kom_user');
+  localStorage.removeItem('kom_user');
   window.location.href = '/login.html';
 }
 

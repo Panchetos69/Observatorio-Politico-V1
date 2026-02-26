@@ -4,10 +4,10 @@
 <script>
 // ── KOM Auth ─────────────────────────────────────────────────
 function _getKomUser() {
-  try { return JSON.parse(sessionStorage.getItem('kom_user') || 'null'); } catch(e) { return null; }
+  try { return JSON.parse(localStorage.getItem('kom_user') || 'null'); } catch(e) { return null; }
 }
 function komLogout() {
-  sessionStorage.clear();
+  localStorage.clear();
   window.location.href = '/login.html';
 }
 
@@ -886,15 +886,15 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
   function showLanding() {
     $("landingPage").classList.remove("hidden");
     $("dashboardPage").classList.add("hidden");
-    sessionStorage.removeItem('kom_after_login');
+    localStorage.removeItem('kom_after_login');
   }
 
   function showDashboard() {
     var user = _getKomUser();
     if (!user) {
       // Sin sesión → siempre a login, sin excepciones
-      sessionStorage.removeItem('kom_after_login'); // limpiar flags viejos
-      sessionStorage.setItem('kom_after_login', '1');
+      localStorage.removeItem('kom_after_login'); // limpiar flags viejos
+      localStorage.setItem('kom_after_login', '1');
       window.location.href = '/login.html';
       return;
     }
@@ -921,11 +921,11 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
 
   // ── Al cargar: si viene de login entrar al dashboard, sino mostrar landing ──
   (function() {
-    var flag = sessionStorage.getItem('kom_after_login');
+    var flag = localStorage.getItem('kom_after_login');
     var user = _getKomUser();
     if (flag === '1' && user) {
       // Viene de hacer login exitoso → entrar al dashboard
-      sessionStorage.removeItem('kom_after_login');
+      localStorage.removeItem('kom_after_login');
       setTimeout(function(){ showDashboard(); }, 30);
     }
     // En cualquier otro caso (primera visita, sesión expirada, etc.) → mostrar landing
