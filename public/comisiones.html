@@ -82,6 +82,9 @@ window.komFuzzyMatch  = fuzzyMatch;
     }
 
     /* ── Lista comisiones con acento dinámico ── */
+    .commission-item-wrap {
+      position:relative; border-radius:.75rem;
+    }
     .commission-item {
       width:100%; text-align:left; padding:.75rem; border-radius:.75rem;
       border:1px solid #f3f4f6; cursor:pointer; transition:all .15s;
@@ -602,11 +605,22 @@ function renderCommissionsList(items, group) {
     return;
   }
   $("commissionsList").innerHTML = items.map(c => `
-    <button class="commission-item"
-      onclick="openCommission('${group}','${c.commission_name.replace(/'/g,"\\'")}')">
-      <div class="commission-name font-semibold text-sm text-gray-800 leading-tight">${c.nombre||c.commission_name}</div>
-      <div class="text-xs text-gray-400 mt-0.5">${c.total_sessions} sesiones</div>
-    </button>`).join("");
+    <div class="commission-item-wrap" style="position:relative">
+      <button class="commission-item" style="padding-right:2.5rem"
+        onclick="openCommission('${group}','${c.commission_name.replace(/'/g,"\\'")}')">
+        <div class="commission-name font-semibold text-sm text-gray-800 leading-tight">${c.nombre||c.commission_name}</div>
+        <div class="text-xs text-gray-400 mt-0.5">${c.total_sessions} sesiones</div>
+      </button>
+      <a href="/perfil.html?type=com&chamber=${encodeURIComponent(camaraActual)}&group=${encodeURIComponent(group)}&name=${encodeURIComponent(c.commission_name)}"
+         target="_blank"
+         title="Ver perfil KOM de esta comisión"
+         onclick="event.stopPropagation()"
+         style="position:absolute;right:8px;top:50%;transform:translateY(-50%);
+                width:26px;height:26px;border-radius:8px;display:flex;align-items:center;justify-content:center;
+                background:var(--accent-light);border:1px solid var(--accent-mid);color:var(--accent-text);
+                font-size:.7rem;font-weight:800;text-decoration:none;transition:opacity .15s"
+         onmouseover="this.style.opacity='.7'" onmouseout="this.style.opacity='1'">↗</a>
+    </div>`).join("");
 }
 
 // ══════════════════════════════════════════════════════════════
@@ -617,8 +631,7 @@ async function openCommission(group, name) {
   estadoFiltro = "TODAS";
   // Resaltar item seleccionado
   document.querySelectorAll(".commission-item").forEach(el => el.classList.remove("selected"));
-  const allBtns = document.querySelectorAll(".commission-item");
-  allBtns.forEach(el => {
+  document.querySelectorAll(".commission-item").forEach(el => {
     if (el.querySelector(".commission-name")?.textContent?.trim() === (name || "")) {
       el.classList.add("selected");
     }
