@@ -469,7 +469,7 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
     <a href="/congresistas.html" data-page="/congresistas.html">👤 Congresistas</a>
   </div>
   <div class="kom-topbar-right">
-    <button class="btn btn-ghost btn-sm" onclick="history.back()" style="color:#475569;border-color:#e2e8f0">← Volver</button> <button class="btn btn-navy btn-sm" onclick="saveAll()" style="background:#1d4ed8">💾 Guardar</button> <button class="btn btn-teal btn-sm" onclick="exportPDF()">⬇ PDF</button>
+    <button class="btn btn-ghost btn-sm" onclick="volverAtras()" style="color:#475569;border-color:#e2e8f0">← Volver</button> <button class="btn btn-navy btn-sm" onclick="saveAll()" style="background:#1d4ed8">💾 Guardar</button> <button class="btn btn-teal btn-sm" onclick="exportPDF()">⬇ PDF</button>
   </div>
 </nav>
 <script>
@@ -749,6 +749,17 @@ function markSaved() {
 // ════════════════════════════════════════════════════════
 // INIT
 // ════════════════════════════════════════════════════════
+// Volver a la página correcta según el tipo de perfil
+function volverAtras() {
+  if (history.length > 1 && document.referrer) {
+    history.back();
+  } else if (TYPE === "com") {
+    window.location.href = "/comisiones.html";
+  } else {
+    window.location.href = "/congresistas.html";
+  }
+}
+
 window.addEventListener("DOMContentLoaded", () => {
   $("pdfDate").textContent = new Date().toLocaleDateString("es-CL", { year:"numeric", month:"long", day:"numeric" });
   if (TYPE === "pol" && ID)        loadPolitician();
