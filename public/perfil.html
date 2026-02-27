@@ -728,10 +728,16 @@ function toast(msg, type="ok") {
 // ════════════════════════════════════════════════════════
 // DIRTY FLAG
 // ════════════════════════════════════════════════════════
+let _autoSaveTimer = null;
 function markDirty() {
   isDirty = true;
   const ind = $("saveIndicator");
   ind.textContent = "Cambios sin guardar"; ind.className = "save-indicator dirty";
+  // Auto-guardar 3s después del último cambio
+  clearTimeout(_autoSaveTimer);
+  _autoSaveTimer = setTimeout(() => {
+    if (isDirty) saveAll(true); // true = silencioso (sin toast)
+  }, 3000);
 }
 function markSaved() {
   isDirty = false;
@@ -748,6 +754,14 @@ window.addEventListener("DOMContentLoaded", () => {
   if (TYPE === "pol" && ID)        loadPolitician();
   else if (TYPE === "com" && NAME) loadCommission();
   else                             showError("Parámetros faltantes en la URL");
+});
+
+// Advertir al usuario si intenta salir con cambios sin guardar
+window.addEventListener("beforeunload", (e) => {
+  if (isDirty) {
+    e.preventDefault();
+    e.returnValue = ""; // Chrome requiere esto
+  }
 });
 
 // ════════════════════════════════════════════════════════
@@ -985,26 +999,37 @@ function removeLink(i) { profile.links.splice(i,1); renderLinks(); markDirty(); 
 // ════════════════════════════════════════════════════════
 // SAVE
 // ════════════════════════════════════════════════════════
-async function saveAll() {
+async function saveAll(silent = false) {
+  clearTimeout(_autoSaveTimer); // cancelar cualquier auto-save pendiente
   $("saveIndicator").textContent = "Guardando…"; $("saveIndicator").className = "save-indicator saving";
   profile.notas = $("fieldNotas").value || "";
 
-  const komId = TYPE === "pol"
-    ? encodeURIComponent(ID)
-    : encodeURIComponent(`${CHAMBER}__${GROUP}__${NAME}`.replace(/\s+/g,"_"));
+  // komId: para pol usar ID directo (sin double-encode), para comisión usar slug
+  const rawId = TYPE === "pol"
+    ? ID
+    : `${CHAMBER}__${GROUP}__${NAME}`.replace(/\s+/g,"_");
 
   try {
-    await apiPost(`/api/kom/${CHAMBER}/${komId}`, {
+    const result = await apiPost(`/api/kom/${CHAMBER}/${encodeURIComponent(rawId)}`, {
       notas:  profile.notas,
       tags:   profile.tags,
       links:  profile.links,
       photo:  profile.photo,
       nombre: $("profileName").textContent,
     });
-    markSaved(); toast("Perfil guardado ✓");
+    if (!result.success) throw new Error(result.error || "Error del servidor");
+    markSaved();
+    if (!silent) toast("Perfil guardado ✓");
+    else {
+      // Auto-save: mostrar indicador sutil sin toast
+      const ind = $("saveIndicator");
+      ind.textContent = "Auto-guardado ✓"; ind.className = "save-indicator saved";
+      setTimeout(() => { ind.textContent = "Sin cambios"; ind.className = "save-indicator"; }, 2000);
+    }
   } catch(e) {
-    toast("Error: " + e.message, "err");
-    $("saveIndicator").textContent = "Error"; $("saveIndicator").className = "save-indicator dirty";
+    if (!silent) toast("Error al guardar: " + e.message, "err");
+    $("saveIndicator").textContent = "Error al guardar"; $("saveIndicator").className = "save-indicator dirty";
+    isDirty = true; // mantener dirty para reintentar
   }
 }
 
