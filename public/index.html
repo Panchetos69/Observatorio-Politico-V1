@@ -1446,9 +1446,11 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
         + "&id=" + encodeURIComponent(p.id || "") + "&nombre=" + encodeURIComponent(p.nombre) + "'"
         + " target='_blank'>📋 Ver Perfil</a>";
 
-      html += "<div class='card-hover bg-white rounded-2xl border border-gray-200 p-4'>"
+      var polId  = String(p.id || "");
+      var polCh  = String(p.chamber || "camara");
+      html += "<div class='card-hover bg-white rounded-2xl border border-gray-200 p-4' data-pol-id='" + polId + "' data-chamber='" + polCh + "'>"
         + "<div class='flex items-start gap-3 mb-2'>"
-          + "<div class='w-10 h-10 shrink-0 rounded-full " + avatarCls + " text-white flex items-center justify-center font-bold text-xs'>" + initials + "</div>"
+          + "<div class='pol-avatar-idx w-10 h-10 shrink-0 rounded-full " + avatarCls + " text-white flex items-center justify-center font-bold text-xs' style='overflow:hidden' data-initials='" + initials + "'>" + initials + "</div>"
           + "<div class='min-w-0 flex-1'>"
             + "<div class='font-bold text-gray-900 text-sm leading-tight'>" + p.nombre + "</div>"
             + "<div class='flex items-center gap-1 mt-0.5 flex-wrap'>"
@@ -1464,8 +1466,38 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
     });
 
     el.innerHTML = html;
-
+    // Cargar fotos KOM en segundo plano
+    loadKomPhotosIdx(items);
     // KOM buttons ahora son <a> links directos a perfil.html
+  }
+
+  function loadKomPhotosIdx(pols) {
+    var batch = 10;
+    var i = 0;
+    function nextBatch() {
+      if (i >= pols.length) return;
+      var slice = pols.slice(i, i + batch);
+      i += batch;
+      var promises = slice.map(function(p) {
+        return apiGet("/api/kom/" + (p.chamber||"camara") + "/" + encodeURIComponent(p.id||p.nombre))
+          .then(function(data) {
+            var photo = data && data.profile && data.profile.photo;
+            if (!photo) return;
+            var card = document.querySelector(
+              "[data-pol-id='" + p.id + "'][data-chamber='" + p.chamber + "']"
+            );
+            if (!card) return;
+            var av = card.querySelector('.pol-avatar-idx');
+            if (!av) return;
+            var ini = av.dataset.initials || "";
+            av.innerHTML = "<img src='" + photo + "' alt='foto' "
+              + "style='width:100%;height:100%;object-fit:cover;border-radius:50%' "
+              + "onerror=\"this.parentElement.textContent='" + ini + "'\" />";
+          }).catch(function() {});
+      });
+      Promise.all(promises).then(nextBatch);
+    }
+    nextBatch();
   }
 
 // ===== KOM Modal =====
