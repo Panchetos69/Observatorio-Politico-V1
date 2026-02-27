@@ -62,7 +62,8 @@ def _blob_put(path: str, data: bytes, content_type: str = "application/json") ->
     return vercel_blob.put(
         path, data,
         options={"token": BLOB_TOKEN, "contentType": content_type,
-                 "access": "public", "addRandomSuffix": "false"},
+                 "access": "public", "addRandomSuffix": "false",
+                 "allowOverwrite": "true"},
     )
 
 
