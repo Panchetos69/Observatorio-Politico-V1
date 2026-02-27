@@ -737,7 +737,7 @@ function renderGrid(pols, comFil) {
     card.innerHTML = `
       <div>
         <div class="flex items-start gap-3">
-          <div class="w-12 h-12 shrink-0 rounded-2xl ${avCls} text-white flex items-center justify-center font-extrabold text-sm shadow-sm">
+          <div class="pol-avatar w-12 h-12 shrink-0 rounded-2xl ${avCls} text-white flex items-center justify-center font-extrabold text-sm shadow-sm" style="overflow:hidden">
             ${initials}
           </div>
           <div class="min-w-0 flex-1">
@@ -767,8 +767,35 @@ function renderGrid(pols, comFil) {
           📋 Perfil KOM
         </button>
       </div>`;
+    // Agregar data-id y data-chamber para poder actualizar el avatar después
+    card.dataset.polId = p.id;
+    card.dataset.chamber = p.chamber;
     grid.appendChild(card);
   });
+
+  // Cargar fotos KOM de forma async sin bloquear el render
+  loadKomPhotos(pols);
+}
+
+async function loadKomPhotos(pols) {
+  // Cargar en paralelo (máx 10 a la vez para no saturar)
+  const batch = 10;
+  for (let i = 0; i < pols.length; i += batch) {
+    const slice = pols.slice(i, i + batch);
+    await Promise.all(slice.map(async p => {
+      try {
+        const data = await apiGet(`/api/kom/${p.chamber}/${p.id}`);
+        const photo = data?.profile?.photo;
+        if (!photo) return;
+        // Buscar la tarjeta por data attributes
+        const card = document.querySelector(`[data-pol-id="${p.id}"][data-chamber="${p.chamber}"]`);
+        if (!card) return;
+        const avatar = card.querySelector('.pol-avatar');
+        if (!avatar) return;
+        avatar.innerHTML = `<img src="${photo}" alt="Foto" style="width:100%;height:100%;object-fit:cover;border-radius:10px;" onerror="this.parentElement.innerHTML='${p.nombre.split(' ').slice(0,2).map(x=>x[0]||'').join('').toUpperCase()}'" />`;
+      } catch {}
+    }));
+  }
 }
 
 function skelGrid(n) {

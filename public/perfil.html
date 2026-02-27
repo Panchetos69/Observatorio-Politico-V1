@@ -749,15 +749,9 @@ function markSaved() {
 // ════════════════════════════════════════════════════════
 // INIT
 // ════════════════════════════════════════════════════════
-// Volver a la página correcta según el tipo de perfil
+// Volver: siempre al dashboard principal
 function volverAtras() {
-  if (history.length > 1 && document.referrer) {
-    history.back();
-  } else if (TYPE === "com") {
-    window.location.href = "/comisiones.html";
-  } else {
-    window.location.href = "/congresistas.html";
-  }
+  window.location.href = "/index.html";
 }
 
 window.addEventListener("DOMContentLoaded", () => {
