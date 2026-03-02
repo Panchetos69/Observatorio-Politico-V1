@@ -409,5 +409,40 @@
     "status": "OK",
     "ediciones": 1,
     "items": 13
+  },
+  {
+    "fecha": "25-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 23
+  },
+  {
+    "fecha": "26-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 16
+  },
+  {
+    "fecha": "27-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 17
+  },
+  {
+    "fecha": "28-02-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 10
+  },
+  {
+    "fecha": "01-03-2026",
+    "status": "SIN_EDICIONES_URL",
+    "url_day": "https://www.diariooficial.interior.gob.cl/edicionelectronica/index.php?date=01-03-2026"
+  },
+  {
+    "fecha": "02-03-2026",
+    "status": "OK",
+    "ediciones": 1,
+    "items": 6
   }
 ]
