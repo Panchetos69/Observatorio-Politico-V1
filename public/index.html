@@ -1160,7 +1160,7 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
                 <tr>
                   <th class="text-left py-2 px-3">Fecha</th>
                   <th class="text-left py-2 px-3">Estado</th>
-                  <th class="text-left py-2 px-3">Docs oficiales</th>
+                  ${currentComCamara === "senado" ? '<th class="text-left py-2 px-3">Cuenta</th>' : '<th class="text-left py-2 px-3">Docs oficiales</th>'}
                   <th class="text-center py-2 px-3">Transcript</th>
                   <th class="text-center py-2 px-3">📎 Mis docs</th>
                   ${currentComCamara === "senado" ? '<th class="text-center py-2 px-3">Video</th>' : ""}
@@ -1184,13 +1184,27 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
     const transcript  = s.transcript ? "📄" : "—";
 
     // Docs oficiales del scraper (Citación, Cuenta, Acta)
+    // Para Senado: la columna "Cuenta" muestra el archivo transcript (.txt) de la carpeta transcripts/
+    // identificado por el ID de sesión (s.ID). Para Cámara: links normales del scraper.
     const docs = [];
-    if (s.Citacion && s.Citacion !== "No")
-      docs.push(`<a href="${s.Citacion}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-blue-100 text-blue-700 hover:bg-blue-200">Citación ↗</a>`);
-    if (s.Cuenta && s.Cuenta !== "No")
-      docs.push(`<a href="${s.Cuenta}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-green-100 text-green-700 hover:bg-green-200">Cuenta ↗</a>`);
-    if (s.Acta && s.Acta !== "No")
-      docs.push(`<a href="${s.Acta}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-purple-100 text-purple-700 hover:bg-purple-200">Acta ↗</a>`);
+    if (currentComCamara === "senado") {
+      // Senado: mostrar el .txt de transcripts/ como "Cuenta" si existe (s.transcript === true)
+      const sid = s.ID || s.id || "";
+      const grpEnc  = encodeURIComponent(c ? c.group : (window._currentCommissionData?.group || ""));
+      const commEnc = encodeURIComponent(c ? c.commission_name : (window._currentCommissionData?.commission_name || ""));
+      if (sid && s.transcript) {
+        const txtUrl = `/api/commissions/${grpEnc}/${commEnc}/sessions/${encodeURIComponent(sid)}/transcript?camara=senado`;
+        docs.push(`<button onclick="window._openTranscriptModal('${sid}', '${txtUrl}')"
+          class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-green-100 text-green-700 hover:bg-green-200 cursor-pointer border-0">📄 Cuenta</button>`);
+      }
+    } else {
+      if (s.Citacion && s.Citacion !== "No")
+        docs.push(`<a href="${s.Citacion}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-blue-100 text-blue-700 hover:bg-blue-200">Citación ↗</a>`);
+      if (s.Cuenta && s.Cuenta !== "No")
+        docs.push(`<a href="${s.Cuenta}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-green-100 text-green-700 hover:bg-green-200">Cuenta ↗</a>`);
+      if (s.Acta && s.Acta !== "No")
+        docs.push(`<a href="${s.Acta}" target="_blank" class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-purple-100 text-purple-700 hover:bg-purple-200">Acta ↗</a>`);
+    }
     const docsHTML = docs.length ? docs.join(" ") : `<span class="text-xs text-gray-300">—</span>`;
 
     const videoURL  = s.URL_Video || s.url_video || "";
@@ -1237,6 +1251,54 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
     };
     return colors[estado] || 'bg-gray-100 text-gray-700';
   }
+
+  // ===== Transcript Modal (Senado - Cuenta) =====
+  window._openTranscriptModal = async function(sid, apiUrl) {
+    let modal = document.getElementById("transcriptModal");
+    if (!modal) {
+      modal = document.createElement("div");
+      modal.id = "transcriptModal";
+      modal.innerHTML = `
+        <div class="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4" onclick="if(event.target===this)document.getElementById('transcriptModal').classList.add('hidden')">
+          <div class="bg-white rounded-2xl shadow-2xl w-full max-w-3xl max-h-[80vh] flex flex-col">
+            <div class="flex items-center justify-between px-6 py-4 border-b border-gray-100">
+              <h3 class="font-bold text-gray-800 text-base" id="transcriptModalTitle">Cuenta - Sesion</h3>
+              <div class="flex gap-2">
+                <button id="transcriptDownloadBtn" class="text-xs px-3 py-1 rounded-lg bg-green-100 text-green-700 hover:bg-green-200 font-semibold">Descargar</button>
+                <button onclick="document.getElementById('transcriptModal').classList.add('hidden')" class="text-gray-400 hover:text-gray-700 text-xl font-bold leading-none">x</button>
+              </div>
+            </div>
+            <div class="overflow-y-auto flex-1 px-6 py-4">
+              <pre id="transcriptModalContent" class="text-xs text-gray-700 whitespace-pre-wrap font-mono leading-relaxed">Cargando...</pre>
+            </div>
+          </div>
+        </div>`;
+      document.body.appendChild(modal);
+    }
+    modal.classList.remove("hidden");
+    document.getElementById("transcriptModalTitle").textContent = "Cuenta - Sesion " + sid;
+    document.getElementById("transcriptModalContent").textContent = "Cargando...";
+    try {
+      const res  = await fetch(apiUrl);
+      const data = await res.json();
+      if (data.success && data.text) {
+        document.getElementById("transcriptModalContent").textContent = data.text;
+        const dlBtn = document.getElementById("transcriptDownloadBtn");
+        dlBtn.onclick = function() {
+          const blob = new Blob([data.text], { type: "text/plain;charset=utf-8" });
+          const a = document.createElement("a");
+          a.href = URL.createObjectURL(blob);
+          a.download = "cuenta_" + sid + ".txt";
+          a.click();
+        };
+      } else {
+        document.getElementById("transcriptModalContent").textContent = data.error || "No se encontro el documento.";
+      }
+    } catch(e) {
+      document.getElementById("transcriptModalContent").textContent = "Error al cargar: " + e.message;
+    }
+  };
+
 
   // ===== Politicians =====
   let currentPolCamara = "all";
