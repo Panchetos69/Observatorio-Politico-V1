@@ -924,7 +924,7 @@ function renderSessionsTable(sessions, year, pageSize = 40) {
         <th class="text-left py-2 px-3 w-32">Estado</th>
         <th class="text-left py-2 px-3">Documentos oficiales</th>
         <th class="text-center py-2 px-3 w-20">Docs KOM</th>
-        <th class="text-center py-2 px-3 w-12">TXT</th>
+        <th class="text-center py-2 px-3 w-20">Transcript</th>
         ${isSenado ? '<th class="text-center py-2 px-3 w-12">Video</th>' : ""}
       </tr>
     </thead>`;
@@ -997,7 +997,10 @@ function renderSessionRow(s, isSenado) {
   const docsHTML = docs.length ? docs.join(" ") : `<span class="text-xs text-gray-300">—</span>`;
 
   const transcript = s.transcript
-    ? `<button onclick="openTranscript('${s.ID||s.id||""}')" class="text-base" style="color:var(--accent-text)" title="Ver transcripción">📄</button>`
+    ? `<button onclick="openTranscript('${s.ID||s.id||""}')"
+         class="inline-flex items-center gap-1 px-2 py-0.5 rounded text-xs font-semibold transition"
+         style="background:var(--accent-light);border:1px solid var(--accent-mid);color:var(--accent-text)"
+         title="Ver transcripción">📄 Ver</button>`
     : `<span class="text-gray-300 text-xs">—</span>`;
 
   const videoURL = s.URL_Video || s.url_video || "";
