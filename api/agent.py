@@ -41,7 +41,7 @@ except ImportError:
 logger = logging.getLogger(__name__)
 
 # ─── Constantes ───────────────────────────────────────────────
-DEFAULT_MODEL      = os.getenv("GEMINI_MODEL", "gemini-3-flash")
+DEFAULT_MODEL      = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 DEFAULT_TOP_K      = int(os.getenv("RAG_TOP_K", "8"))        # subido (antes 5)
 DEFAULT_TOP_K_WIDE = int(os.getenv("RAG_TOP_K_WIDE", "30"))  # para preguntas amplias por comisión
 MAX_SNIPPET_LEN    = 1_200
