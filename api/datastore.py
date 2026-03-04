@@ -47,10 +47,22 @@ def _read_text(path: str) -> str:
         return ""
 
 
+def _normalize(s: str) -> str:
+    """Minúsculas + quita tildes para búsqueda tolerante."""
+    import unicodedata
+    return unicodedata.normalize('NFD', s.lower()).encode('ascii', 'ignore').decode('ascii')
+
 def _score(query: str, text: str) -> int:
-    q = query.lower().split()
-    t = text.lower()
-    return sum(t.count(w) for w in q if len(w) >= 3)
+    """Score tolerante a tildes, mayúsculas y palabras cortas (>= 2 chars)."""
+    q_words = [_normalize(w) for w in query.split() if len(w) >= 2]
+    t_norm  = _normalize(text)
+    if not q_words:
+        return 0
+    score = sum(t_norm.count(w) for w in q_words)
+    # Bonus si aparece la frase completa
+    if len(q_words) > 1 and _normalize(query) in t_norm:
+        score += 10
+    return score
 
 
 class DataStore:
@@ -141,18 +153,10 @@ class DataStore:
             }}
 
         # Detectar transcripts disponibles
-        # Busca en todas las rutas posibles (incluyendo estructura del Senado)
-        _base = os.path.join(self.data_repo_dir, group, commission_name)
-        _transcript_dirs = [
-            os.path.join(_base, "transcripts"),
-            os.path.join(_base, "txt"),
-            os.path.join(_base, "sesiones_detail", "Trancripciones"),   # Senado (typo intencional)
-            os.path.join(_base, "sesiones_detail", "Transcripciones"),  # Senado (correcto)
-            os.path.join(_base, "sesiones_detail", "transcripciones"),  # Senado (minúsculas)
-            os.path.join(_base, "sesiones_detail", "transcripts"),      # Senado alternativo
-        ]
+        transcripts_dir = os.path.join(self.data_repo_dir, group, commission_name, "transcripts")
+        txt_dir         = os.path.join(self.data_repo_dir, group, commission_name, "txt")
         transcript_ids: set = set()
-        for d in _transcript_dirs:
+        for d in [transcripts_dir, txt_dir]:
             if os.path.isdir(d):
                 for f in os.listdir(d):
                     if f.endswith(".txt"):
@@ -224,16 +228,8 @@ class DataStore:
         }
 
     def find_transcript_path(self, group: str, commission_name: str, sid: str) -> Optional[str]:
-        base = os.path.join(self.data_repo_dir, group, commission_name)
-        candidates = [
-            os.path.join(base, "transcripts",                         f"{sid}.txt"),
-            os.path.join(base, "txt",                                  f"{sid}.txt"),
-            os.path.join(base, "sesiones_detail", "Trancripciones",   f"{sid}.txt"),
-            os.path.join(base, "sesiones_detail", "Transcripciones",  f"{sid}.txt"),
-            os.path.join(base, "sesiones_detail", "transcripciones",  f"{sid}.txt"),
-            os.path.join(base, "sesiones_detail", "transcripts",      f"{sid}.txt"),
-        ]
-        for p in candidates:
+        for sub in ["transcripts", "txt"]:
+            p = os.path.join(self.data_repo_dir, group, commission_name, sub, f"{sid}.txt")
             if os.path.exists(p):
                 return p
         return None
@@ -552,15 +548,16 @@ class DataStore:
             if not os.path.isdir(gdir):
                 continue
             for commission_name in sorted(os.listdir(gdir)):
-                # transcripts — busca en todas las rutas posibles
-                _base_comm = os.path.join(gdir, commission_name)
+                base_comm = os.path.join(gdir, commission_name)
+
+                # ── Transcripciones (todas las rutas posibles) ──
                 _txt_dirs = [
-                    os.path.join(_base_comm, "transcripts"),
-                    os.path.join(_base_comm, "txt"),
-                    os.path.join(_base_comm, "sesiones_detail", "Trancripciones"),
-                    os.path.join(_base_comm, "sesiones_detail", "Transcripciones"),
-                    os.path.join(_base_comm, "sesiones_detail", "transcripciones"),
-                    os.path.join(_base_comm, "sesiones_detail", "transcripts"),
+                    os.path.join(base_comm, "transcripts"),
+                    os.path.join(base_comm, "txt"),
+                    os.path.join(base_comm, "sesiones_detail", "Trancripciones"),
+                    os.path.join(base_comm, "sesiones_detail", "Transcripciones"),
+                    os.path.join(base_comm, "sesiones_detail", "transcripciones"),
+                    os.path.join(base_comm, "sesiones_detail", "transcripts"),
                 ]
                 for td in _txt_dirs:
                     if not os.path.isdir(td):
@@ -571,7 +568,18 @@ class DataStore:
                         if s > 0:
                             out.append({"file": p, "score": s, "snippet": text[:1400]})
 
-                # integrantes.json
+                # ── JSONs de sesiones_detail (Senado) ──
+                sd_dir = os.path.join(base_comm, "sesiones_detail")
+                if os.path.isdir(sd_dir):
+                    for p in glob.glob(os.path.join(sd_dir, "*.json")):
+                        obj = _safe_read_json(p)
+                        if obj:
+                            text = json.dumps(obj, ensure_ascii=False)
+                            s = _score(query, text)
+                            if s > 0:
+                                out.append({"file": p, "score": s, "snippet": text[:1400]})
+
+                # ── integrantes.json ──
                 pj = self.integrantes_path(group, commission_name)
                 if os.path.exists(pj):
                     obj = _safe_read_json(pj)
@@ -581,7 +589,7 @@ class DataStore:
                         if s > 0:
                             out.append({"file": pj, "score": s, "snippet": text[:1400]})
 
-                # historial.csv
+                # ── historial.csv ──
                 pc = self.historial_path(group, commission_name)
                 if os.path.exists(pc):
                     rows = _safe_read_csv_dicts(pc)
