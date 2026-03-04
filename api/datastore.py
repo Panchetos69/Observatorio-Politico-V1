@@ -550,80 +550,151 @@ class DataStore:
     # -----------------------------
     # Búsqueda de texto
     # -----------------------------
-    def search_texts(self, query: str, top_k: int = 6) -> List[dict]:
-        out: List[dict] = []
-        if not os.path.isdir(self.data_repo_dir):
-            return out
-
+    def _commission_folders(self) -> List[tuple]:
+        """Retorna lista de (group, commission_name, base_path) para todas las comisiones."""
+        result = []
         for group in ["Permanentes", "Otras", "Unidas"]:
             gdir = os.path.join(self.data_repo_dir, group)
             if not os.path.isdir(gdir):
                 continue
-            for commission_name in sorted(os.listdir(gdir)):
-                # transcripts (todas las rutas posibles)
-                _base_comm = os.path.join(gdir, commission_name)
-                for _td in [
-                    os.path.join(_base_comm, "transcripts"),
-                    os.path.join(_base_comm, "txt"),
-                    os.path.join(_base_comm, "sesiones_detail", "Trancripciones"),
-                    os.path.join(_base_comm, "sesiones_detail", "Transcripciones"),
-                    os.path.join(_base_comm, "sesiones_detail", "transcripciones"),
-                ]:
-                    if not os.path.isdir(_td):
-                        continue
-                    for p in glob.glob(os.path.join(_td, "*.txt")):
-                        text = _read_text(p)
-                        s = _score(query, text)
-                        if s > 0:
-                            out.append({"file": p, "score": s, "snippet": text[:1400]})
+            for name in sorted(os.listdir(gdir)):
+                base = os.path.join(gdir, name)
+                if os.path.isdir(base):
+                    result.append((group, name, base))
+        return result
 
-                # sesiones_detail JSONs (Senado)
-                _sd = os.path.join(gdir, commission_name, "sesiones_detail")
-                if os.path.isdir(_sd):
-                    for p in glob.glob(os.path.join(_sd, "*.json")):
-                        obj = _safe_read_json(p)
-                        if obj:
-                            text = json.dumps(obj, ensure_ascii=False)
-                            s = _score(query, text)
-                            if s > 0:
-                                out.append({"file": p, "score": s, "snippet": text[:1400]})
+    def _read_commission_docs(self, base_path: str, max_per_type: int = 5) -> List[dict]:
+        """Lee documentos de una carpeta de comisión y devuelve hits."""
+        hits = []
 
-                # integrantes.json
-                pj = self.integrantes_path(group, commission_name)
-                if os.path.exists(pj):
-                    obj = _safe_read_json(pj)
-                    if obj:
-                        text = json.dumps(obj, ensure_ascii=False)
-                        s = _score(query, text)
-                        if s > 0:
-                            out.append({"file": pj, "score": s, "snippet": text[:1400]})
+        # 1. Transcripciones
+        for td_name in ["Trancripciones", "Transcripciones", "transcripciones", "transcripts", "txt"]:
+            td = os.path.join(base_path, td_name)
+            if not os.path.isdir(td):
+                td = os.path.join(base_path, "sesiones_detail", td_name)
+            if os.path.isdir(td):
+                for p in sorted(glob.glob(os.path.join(td, "*.txt")), reverse=True)[:max_per_type]:
+                    text = _read_text(p)
+                    if text.strip():
+                        hits.append({"file": p, "score": 100, "snippet": text[:2000]})
 
-                # historial.csv
-                pc = self.historial_path(group, commission_name)
-                if os.path.exists(pc):
-                    rows = _safe_read_csv_dicts(pc)
-                    if rows:
-                        text = json.dumps(rows[:200], ensure_ascii=False)
-                        s = _score(query, text)
-                        if s > 0:
-                            out.append({"file": pc, "score": s, "snippet": text[:1400]})
-
-        # KOM profiles
-        if os.path.isdir(self.kom_dir):
-            for p in glob.glob(os.path.join(self.kom_dir, "*.json")):
+        # 2. sesiones_detail JSONs (más recientes primero)
+        sd = os.path.join(base_path, "sesiones_detail")
+        if os.path.isdir(sd):
+            jsons = sorted(glob.glob(os.path.join(sd, "*.json")), reverse=True)[:max_per_type]
+            for p in jsons:
                 obj = _safe_read_json(p)
                 if obj:
                     text = json.dumps(obj, ensure_ascii=False)
-                    s = _score(query, text)
-                    if s > 0:
-                        out.append({"file": p, "score": s, "snippet": text[:1400]})
+                    hits.append({"file": p, "score": 90, "snippet": text[:2000]})
+
+        # 3. historial.csv — todas las filas
+        hist = os.path.join(base_path, "historial.csv")
+        if os.path.exists(hist):
+            rows = _safe_read_csv_dicts(hist)
+            if rows:
+                text = json.dumps(rows, ensure_ascii=False)
+                hits.append({"file": hist, "score": 80, "snippet": text[:2000]})
+
+        # 4. integrantes.json
+        integ = os.path.join(base_path, "integrantes.json")
+        if os.path.exists(integ):
+            obj = _safe_read_json(integ)
+            if obj:
+                text = json.dumps(obj, ensure_ascii=False)
+                hits.append({"file": integ, "score": 70, "snippet": text[:2000]})
+
+        return hits
+
+    def search_texts(self, query: str, top_k: int = 6) -> List[dict]:
+        """
+        Búsqueda inteligente:
+        1. Si la query menciona una comisión específica → lee directamente esa carpeta
+        2. Si es query general → busca por score en todos los documentos
+        """
+        import unicodedata as _ud
+
+        def _n(s):
+            s = (s or "").lower().strip()
+            return "".join(c for c in _ud.normalize("NFD", s) if _ud.category(c) != "Mn")
+
+        query_n = _n(query)
+        out: List[dict] = []
+
+        # ── Estrategia 1: detectar comisión específica en la query ──
+        matched_commission = None
+        best_score = 0
+        for group, name, base in self._commission_folders():
+            name_n = _n(name)
+            # Score de similitud: palabras del nombre que aparecen en la query
+            words = [w for w in name_n.split() if len(w) >= 4]
+            if not words:
+                continue
+            match_count = sum(1 for w in words if w in query_n)
+            ratio = match_count / len(words)
+            if ratio > 0.5 and match_count > best_score:
+                best_score = match_count
+                matched_commission = (group, name, base)
+
+        if matched_commission:
+            group, name, base = matched_commission
+            hits = self._read_commission_docs(base, max_per_type=top_k)
+            # Aplica score adicional por keywords de la query
+            for h in hits:
+                kw_score = _score(query, h.get("snippet", ""))
+                h["score"] = h["score"] + kw_score
+            hits.sort(key=lambda x: x["score"], reverse=True)
+            return hits[:top_k]
+
+        # ── Estrategia 2: búsqueda general por score ──
+        for group, name, base in self._commission_folders():
+            all_files = []
+
+            # Transcripciones
+            for td_name in ["Trancripciones", "Transcripciones", "transcripciones", "transcripts", "txt"]:
+                for td in [os.path.join(base, td_name),
+                           os.path.join(base, "sesiones_detail", td_name)]:
+                    if os.path.isdir(td):
+                        for p in glob.glob(os.path.join(td, "*.txt")):
+                            all_files.append(p)
+
+            # sesiones_detail JSONs
+            sd = os.path.join(base, "sesiones_detail")
+            if os.path.isdir(sd):
+                all_files.extend(glob.glob(os.path.join(sd, "*.json")))
+
+            # historial + integrantes
+            for fname in ["historial.csv", "integrantes.json"]:
+                fp = os.path.join(base, fname)
+                if os.path.exists(fp):
+                    all_files.append(fp)
+
+            for p in all_files:
+                ext = os.path.splitext(p)[1].lower()
+                if ext in (".txt",):
+                    text = _read_text(p)
+                elif ext in (".json",):
+                    obj = _safe_read_json(p)
+                    text = json.dumps(obj, ensure_ascii=False) if obj else ""
+                elif ext in (".csv",):
+                    rows = _safe_read_csv_dicts(p)
+                    text = json.dumps(rows[:200], ensure_ascii=False) if rows else ""
+                else:
+                    continue
+
+                s = _score(query, text)
+                if s > 0:
+                    out.append({"file": p, "score": s, "snippet": text[:2000]})
+
+        # KOM profiles
+        if os.path.isdir(self.kom_dir):
             for p in glob.glob(os.path.join(self.kom_dir, "profiles", "**", "*.json"), recursive=True):
                 obj = _safe_read_json(p)
                 if obj:
                     text = json.dumps(obj, ensure_ascii=False)
                     s = _score(query, text)
                     if s > 0:
-                        out.append({"file": p, "score": s, "snippet": text[:1400]})
+                        out.append({"file": p, "score": s, "snippet": text[:2000]})
 
         out.sort(key=lambda x: x["score"], reverse=True)
         return out[:top_k]
