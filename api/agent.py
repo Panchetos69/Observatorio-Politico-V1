@@ -333,18 +333,24 @@ class LegislativeAgent:
         gemini_api_key: str,
         model: str = DEFAULT_MODEL,
         top_k: int = DEFAULT_TOP_K,
-        store_alt=None,          # store secundario (ej: si store es senado, store_alt es camara)
     ) -> None:
-        self.store     = store
-        self.store_alt = store_alt   # puede ser None
-        self.model     = model
-        self.top_k     = top_k
-        self.ready     = bool(gemini_api_key and gemini_api_key.strip())
-        self.client    = genai.Client(api_key=gemini_api_key.strip()) if self.ready else None
-        self.camara    = getattr(store, "default_chamber", "camara")
+        # .env local opcional
+        if _DOTENV_AVAILABLE and os.getenv("LOAD_DOTENV", "").strip() == "1":
+            try:
+                # busca .env en raíz del proyecto (estilo tu agente viejo)
+                base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+                load_dotenv(os.path.join(base_dir, ".env"))
+            except Exception:
+                pass
 
-        logger.info("LegislativeAgent v4 — cámara: %s | modelo: %s | top_k=%s | dual_store=%s",
-                    self.camara, self.model, self.top_k, store_alt is not None)
+        self.store = store
+        self.model = model
+        self.top_k = top_k
+        self.ready = bool(gemini_api_key and gemini_api_key.strip())
+        self.client = genai.Client(api_key=gemini_api_key.strip()) if self.ready else None
+        self.camara = getattr(store, "default_chamber", "camara")
+
+        logger.info("LegislativeAgent v4 — cámara: %s | modelo: %s | top_k=%s", self.camara, self.model, self.top_k)
 
     # ── Interfaz pública ──────────────────────────────────────
     def ask(self, question: str) -> str:
@@ -426,52 +432,133 @@ class LegislativeAgent:
             error=error,
         )
 
-    def _detect_chamber_from_query(self, question: str) -> Optional[str]:
-        """Detecta si la pregunta menciona explícitamente una cámara."""
+    def _detect_chamber_from_query(self, question: str):
         q = _norm(question)
         if any(w in q for w in ["senado", "senador", "senadora"]):
             return "senado"
         if any(w in q for w in ["diputado", "diputados", "diputada", "camara de diputados"]):
             return "camara"
-        return None  # no especifica → usa el store principal
+        return None
+
+    def _best_store(self, question: str):
+        detected = self._detect_chamber_from_query(question)
+        if detected == "senado":
+            return self.store if self.camara == "senado" else (self.store_alt or self.store)
+        if detected == "camara":
+            return self.store if self.camara == "camara" else (self.store_alt or self.store)
+        return self.store
+
+    def _find_commission(self, store, question: str):
+        import unicodedata as _ud
+        def _n(s):
+            s = (s or "").lower().strip()
+            return "".join(c for c in _ud.normalize("NFD", s) if _ud.category(c) != "Mn")
+        qn = _n(question)
+        best, best_score = None, 0
+        for group in ["Permanentes", "Otras", "Unidas"]:
+            gdir = os.path.join(store.data_repo_dir, group)
+            if not os.path.isdir(gdir):
+                continue
+            for name in os.listdir(gdir):
+                words = [w for w in _n(name).split() if len(w) >= 4]
+                if not words:
+                    continue
+                matched = sum(1 for w in words if w in qn)
+                if matched / len(words) >= 0.4 and matched > best_score:
+                    best_score = matched
+                    best = (group, name)
+        return best
+
+    def _load_commission_context(self, store, group: str, name: str) -> list[dict]:
+        import glob as _g, json as _j, csv as _c
+        base = os.path.join(store.data_repo_dir, group, name)
+        if not os.path.isdir(base):
+            return []
+        hits = []
+
+        def read_txt(p):
+            try:
+                with open(p, "r", encoding="utf-8", errors="ignore") as f: return f.read()
+            except: return ""
+
+        def read_json(p):
+            try:
+                with open(p, "r", encoding="utf-8", errors="ignore") as f: return _j.load(f)
+            except: return None
+
+        def read_csv(p):
+            try:
+                with open(p, "r", encoding="utf-8-sig", errors="ignore", newline="") as f:
+                    return [{str(k).strip(): (v.strip() if isinstance(v,str) else v)
+                             for k,v in row.items() if k} for row in _c.DictReader(f)]
+            except: return []
+
+        # 1. Transcripts (más recientes primero, max 8)
+        for td_name in ["transcripts","Trancripciones","Transcripciones","transcripciones"]:
+            for td in [os.path.join(base, td_name),
+                       os.path.join(base, "sesiones_detail", td_name)]:
+                if os.path.isdir(td):
+                    for p in sorted(_g.glob(os.path.join(td, "*.txt")), reverse=True)[:8]:
+                        t = read_txt(p)
+                        if t.strip():
+                            hits.append({"file": p, "score": 200, "snippet": t[:2500]})
+
+        # 2. sesiones_detail JSONs (más recientes primero, max 8)
+        sd = os.path.join(base, "sesiones_detail")
+        if os.path.isdir(sd):
+            for p in sorted(_g.glob(os.path.join(sd, "*.json")), reverse=True)[:8]:
+                obj = read_json(p)
+                if obj:
+                    hits.append({"file": p, "score": 150,
+                                 "snippet": _j.dumps(obj, ensure_ascii=False)[:2500]})
+
+        # 3. historial.csv completo
+        hist = os.path.join(base, "historial.csv")
+        if os.path.exists(hist):
+            rows = read_csv(hist)
+            if rows:
+                hits.append({"file": hist, "score": 100,
+                             "snippet": _j.dumps(rows, ensure_ascii=False)[:3000]})
+
+        # 4. integrantes.json
+        integ = os.path.join(base, "integrantes.json")
+        if os.path.exists(integ):
+            obj = read_json(integ)
+            if obj:
+                hits.append({"file": integ, "score": 90,
+                             "snippet": _j.dumps(obj, ensure_ascii=False)[:1500]})
+
+        # 5. comision.json
+        cj = os.path.join(base, "comision.json")
+        if os.path.exists(cj):
+            obj = read_json(cj)
+            if obj:
+                hits.append({"file": cj, "score": 80,
+                             "snippet": _j.dumps(obj, ensure_ascii=False)[:500]})
+
+        return hits
 
     def _retrieve(self, question: str) -> list[dict]:
-        """
-        Búsqueda dual:
-        - Detecta si la pregunta menciona Senado o Cámara explícitamente
-        - Si menciona la cámara del store principal → busca en store principal
-        - Si menciona la cámara alternativa → busca en store_alt
-        - Si no menciona ninguna → busca en ambos y combina
-        """
         try:
-            qn = _norm(question)
-            dyn_top_k = DEFAULT_TOP_K_WIDE if "comision" in qn else self.top_k
-            detected = self._detect_chamber_from_query(question)
+            store = self._best_store(question)
+            qn    = _norm(question)
 
-            def _search_store(s, tk) -> list[dict]:
-                if s is None:
-                    return []
-                try:
-                    return s.search_texts(question, top_k=tk) or []
-                except Exception:
-                    return []
+            # Estrategia 1: comisión específica → carga todo su contenido
+            commission = self._find_commission(store, question)
+            if commission:
+                group, name = commission
+                hits = self._load_commission_context(store, group, name)
+                if hits:
+                    logger.info("Comisión detectada: %s/%s — %d docs", group, name, len(hits))
+                    return hits[:self.top_k + 5]
 
-            if detected == self.camara or detected is None and self.store_alt is None:
-                # Solo store principal
-                hits = _search_store(self.store, dyn_top_k)
-            elif detected is not None and detected != self.camara and self.store_alt is not None:
-                # Solo store alternativo
-                hits = _search_store(self.store_alt, dyn_top_k)
-            else:
-                # Busca en ambos y combina
-                hits_main = _search_store(self.store,     dyn_top_k)
-                hits_alt  = _search_store(self.store_alt, dyn_top_k)
-                # Intercala: principal primero, luego alternativo
-                hits = hits_main + hits_alt
-
-            # Ordena por score
+            # Estrategia 2: búsqueda general por score en ambos stores
+            dyn_k = DEFAULT_TOP_K_WIDE if "comision" in qn else self.top_k
+            hits  = (self.store.search_texts(question, top_k=dyn_k) or [])
+            if self.store_alt:
+                hits += (self.store_alt.search_texts(question, top_k=dyn_k) or [])
             hits.sort(key=lambda x: x.get("score", 0), reverse=True)
-            return hits[:dyn_top_k]
+            return hits[:dyn_k]
 
         except Exception:
             logger.exception("Error en _retrieve")
