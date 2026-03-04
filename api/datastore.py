@@ -141,10 +141,18 @@ class DataStore:
             }}
 
         # Detectar transcripts disponibles
-        transcripts_dir = os.path.join(self.data_repo_dir, group, commission_name, "transcripts")
-        txt_dir         = os.path.join(self.data_repo_dir, group, commission_name, "txt")
+        # Busca en todas las rutas posibles (incluyendo estructura del Senado)
+        _base = os.path.join(self.data_repo_dir, group, commission_name)
+        _transcript_dirs = [
+            os.path.join(_base, "transcripts"),
+            os.path.join(_base, "txt"),
+            os.path.join(_base, "sesiones_detail", "Trancripciones"),   # Senado (typo intencional)
+            os.path.join(_base, "sesiones_detail", "Transcripciones"),  # Senado (correcto)
+            os.path.join(_base, "sesiones_detail", "transcripciones"),  # Senado (minúsculas)
+            os.path.join(_base, "sesiones_detail", "transcripts"),      # Senado alternativo
+        ]
         transcript_ids: set = set()
-        for d in [transcripts_dir, txt_dir]:
+        for d in _transcript_dirs:
             if os.path.isdir(d):
                 for f in os.listdir(d):
                     if f.endswith(".txt"):
@@ -216,8 +224,16 @@ class DataStore:
         }
 
     def find_transcript_path(self, group: str, commission_name: str, sid: str) -> Optional[str]:
-        for sub in ["transcripts", "txt"]:
-            p = os.path.join(self.data_repo_dir, group, commission_name, sub, f"{sid}.txt")
+        base = os.path.join(self.data_repo_dir, group, commission_name)
+        candidates = [
+            os.path.join(base, "transcripts",                         f"{sid}.txt"),
+            os.path.join(base, "txt",                                  f"{sid}.txt"),
+            os.path.join(base, "sesiones_detail", "Trancripciones",   f"{sid}.txt"),
+            os.path.join(base, "sesiones_detail", "Transcripciones",  f"{sid}.txt"),
+            os.path.join(base, "sesiones_detail", "transcripciones",  f"{sid}.txt"),
+            os.path.join(base, "sesiones_detail", "transcripts",      f"{sid}.txt"),
+        ]
+        for p in candidates:
             if os.path.exists(p):
                 return p
         return None
@@ -536,9 +552,17 @@ class DataStore:
             if not os.path.isdir(gdir):
                 continue
             for commission_name in sorted(os.listdir(gdir)):
-                # transcripts
-                for sub in ["transcripts", "txt"]:
-                    td = os.path.join(gdir, commission_name, sub)
+                # transcripts — busca en todas las rutas posibles
+                _base_comm = os.path.join(gdir, commission_name)
+                _txt_dirs = [
+                    os.path.join(_base_comm, "transcripts"),
+                    os.path.join(_base_comm, "txt"),
+                    os.path.join(_base_comm, "sesiones_detail", "Trancripciones"),
+                    os.path.join(_base_comm, "sesiones_detail", "Transcripciones"),
+                    os.path.join(_base_comm, "sesiones_detail", "transcripciones"),
+                    os.path.join(_base_comm, "sesiones_detail", "transcripts"),
+                ]
+                for td in _txt_dirs:
                     if not os.path.isdir(td):
                         continue
                     for p in glob.glob(os.path.join(td, "*.txt")):
