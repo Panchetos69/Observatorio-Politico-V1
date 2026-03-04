@@ -30,10 +30,10 @@ except ImportError:
 logger = logging.getLogger(__name__)
 
 # ─── Constantes ───────────────────────────────────────────────
-DEFAULT_MODEL      = "gemini-2.5-flash"
-DEFAULT_TOP_K      = 8
-MAX_SNIPPET_LEN    = 2_500
-MAX_PDF_CHARS      = 6_000
+DEFAULT_MODEL      = "gemini-1.5-flash"
+DEFAULT_TOP_K      = 5
+MAX_SNIPPET_LEN    = 1_200
+MAX_PDF_CHARS      = 3_000
 MAX_RETRIES        = 3
 RETRY_DELAY_SEC    = 2.0
 PDF_FETCH_TIMEOUT  = 20
