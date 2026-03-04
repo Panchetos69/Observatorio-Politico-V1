@@ -408,89 +408,95 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
     <!-- ===== Chat IA ===== -->
     <!-- ===== Chat IA Moderno ===== -->
 <div id="tabChat" class="tabPanel hidden fade-in">
+  <div class="bg-white rounded-2xl border border-gray-200 overflow-hidden" style="height: calc(100vh - 280px);">
 
-  <!-- Contenedor principal -->
-  <div class="rounded-2xl overflow-hidden border border-gray-200 shadow-sm" style="height: calc(100vh - 280px); display:flex; flex-direction:column; background:#ffffff;">
+    <div class="flex flex-col h-full">
 
-    <!-- Header mejorado -->
-    <div style="background:linear-gradient(135deg,#667eea 0%,#764ba2 100%); padding:16px 24px; flex-shrink:0;">
-      <div style="display:flex; align-items:center; justify-content:space-between;">
-        <div style="display:flex; align-items:center; gap:14px;">
-          <!-- Avatar IA -->
-          <div style="width:44px;height:44px;border-radius:12px;background:rgba(255,255,255,0.2);border:1.5px solid rgba(255,255,255,0.35);display:flex;align-items:center;justify-content:center;font-weight:800;font-size:14px;color:white;letter-spacing:0.02em;flex-shrink:0;">IA</div>
-          <div>
-            <div style="font-weight:800;font-size:16px;color:white;letter-spacing:0.01em;">Chat IA Legislativo</div>
-            <div style="display:flex;align-items:center;gap:6px;margin-top:3px;">
-              <div style="width:6px;height:6px;border-radius:50%;background:#4ade80;animation:blink-dot 2s infinite;"></div>
-              <span style="font-size:12px;color:rgba(255,255,255,0.8);">Gemini · RAG sobre documentos</span>
+      <!-- Header -->
+      <div class="px-6 py-4 border-b border-gray-200 bg-gradient-to-r from-purple-50 to-blue-50">
+        <div class="flex items-center justify-between">
+          <div class="flex items-center gap-3">
+            <div class="w-10 h-10 rounded-full bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center text-white font-bold">
+              IA
+            </div>
+            <div>
+              <h2 class="text-lg font-bold text-gray-900">Chat IA Legislativo</h2>
+              <p class="text-sm text-gray-500">Respuestas basadas en evidencia</p>
             </div>
           </div>
-        </div>
-        <div style="display:flex;gap:8px;">
-          <button id="clearChatBtn" style="padding:8px 14px;border-radius:9px;background:rgba(255,255,255,0.15);border:1px solid rgba(255,255,255,0.25);color:white;font-size:12.5px;font-weight:600;cursor:pointer;transition:all .15s;" onmouseover="this.style.background='rgba(255,255,255,0.25)'" onmouseout="this.style.background='rgba(255,255,255,0.15)'">
-            🗑 Limpiar
-          </button>
-          <button id="uploadToggleBtn" style="padding:8px 14px;border-radius:9px;background:rgba(255,255,255,0.95);border:none;color:#4c3aad;font-size:12.5px;font-weight:700;cursor:pointer;transition:all .15s;box-shadow:0 2px 8px rgba(0,0,0,0.15);" onmouseover="this.style.background='white'" onmouseout="this.style.background='rgba(255,255,255,0.95)'">
-            📎 Subir Archivo
-          </button>
-        </div>
-      </div>
-    </div>
 
-    <!-- Messages area -->
-    <div id="chatMessagesArea" style="flex:1;overflow-y:auto;padding:24px 28px;background:#f8f9fc;">
-      <div id="chatEmptyState" style="height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;">
-        <!-- Icono central -->
-        <div style="width:72px;height:72px;border-radius:20px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);display:flex;align-items:center;justify-content:center;font-size:30px;margin-bottom:16px;box-shadow:0 8px 32px rgba(102,126,234,0.35);">💬</div>
-        <h3 style="font-size:20px;font-weight:800;color:#1e293b;margin-bottom:8px;">¿En qué puedo ayudarte?</h3>
-        <p style="color:#64748b;margin-bottom:24px;max-width:400px;font-size:14px;line-height:1.6;">Pregunta sobre comisiones, sesiones, documentos o congresistas. Accedo a CSV, JSON, TXT y PDFs del repositorio.</p>
-
-        <!-- Suggestion cards -->
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;max-width:560px;width:100%;">
-          <button onclick="useSuggestion('¿Qué comisiones están disponibles?')" style="text-align:left;padding:14px 16px;background:white;border:1.5px solid #e2e8f0;border-radius:14px;cursor:pointer;transition:all .2s;font-family:inherit;" onmouseover="this.style.borderColor='#667eea';this.style.boxShadow='0 4px 16px rgba(102,126,234,0.18)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
-            <div style="font-size:20px;margin-bottom:6px;">📂</div>
-            <div style="font-weight:700;font-size:13px;color:#1e293b;">Ver Comisiones</div>
-            <div style="font-size:12px;color:#64748b;margin-top:2px;">Lista de comisiones disponibles</div>
-          </button>
-          <button onclick="useSuggestion('¿Qué sesiones recientes hay en Educación?')" style="text-align:left;padding:14px 16px;background:white;border:1.5px solid #e2e8f0;border-radius:14px;cursor:pointer;transition:all .2s;font-family:inherit;" onmouseover="this.style.borderColor='#667eea';this.style.boxShadow='0 4px 16px rgba(102,126,234,0.18)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
-            <div style="font-size:20px;margin-bottom:6px;">📅</div>
-            <div style="font-weight:700;font-size:13px;color:#1e293b;">Sesiones Recientes</div>
-            <div style="font-size:12px;color:#64748b;margin-top:2px;">Actividad legislativa reciente</div>
-          </button>
-          <button onclick="useSuggestion('Muéstrame votaciones de la última sesión')" style="text-align:left;padding:14px 16px;background:white;border:1.5px solid #e2e8f0;border-radius:14px;cursor:pointer;transition:all .2s;font-family:inherit;" onmouseover="this.style.borderColor='#667eea';this.style.boxShadow='0 4px 16px rgba(102,126,234,0.18)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
-            <div style="font-size:20px;margin-bottom:6px;">🗳️</div>
-            <div style="font-weight:700;font-size:13px;color:#1e293b;">Ver Votaciones</div>
-            <div style="font-size:12px;color:#64748b;margin-top:2px;">Resultados y estadísticas</div>
-          </button>
-          <button onclick="useSuggestion('¿Quiénes participaron en la Comisión de Hacienda?')" style="text-align:left;padding:14px 16px;background:white;border:1.5px solid #e2e8f0;border-radius:14px;cursor:pointer;transition:all .2s;font-family:inherit;" onmouseover="this.style.borderColor='#667eea';this.style.boxShadow='0 4px 16px rgba(102,126,234,0.18)'" onmouseout="this.style.borderColor='#e2e8f0';this.style.boxShadow='none'">
-            <div style="font-size:20px;margin-bottom:6px;">👥</div>
-            <div style="font-weight:700;font-size:13px;color:#1e293b;">Congresistas</div>
-            <div style="font-size:12px;color:#64748b;margin-top:2px;">Info sobre integrantes</div>
-          </button>
+          <div class="flex gap-2">
+            <button id="clearChatBtn" class="px-3 py-2 text-sm text-gray-600 hover:text-gray-900 hover:bg-white rounded-lg transition">
+              🗑️ Limpiar
+            </button>
+            <button id="uploadToggleBtn" class="px-3 py-2 text-sm bg-white text-gray-700 hover:bg-gray-50 rounded-lg font-medium transition">
+              📎 Subir Archivo
+            </button>
+          </div>
         </div>
       </div>
-    </div>
 
-    <!-- Composer -->
-    <div style="padding:16px 24px 20px;background:white;border-top:1px solid #e2e8f0;flex-shrink:0;">
-      <div id="chatComposerBox" style="display:flex;align-items:flex-end;gap:10px;background:#f4f5f9;border:1.5px solid #e2e8f0;border-radius:16px;padding:10px 14px;transition:border-color .2s,box-shadow .2s;">
-        <textarea
-          id="chatInput"
-          style="flex:1;background:transparent;border:none;outline:none;font-family:inherit;font-size:14px;color:#1e293b;line-height:1.6;resize:none;max-height:150px;overflow-y:auto;"
-          placeholder="Escribe tu pregunta aquí... (Enter para enviar / Shift+Enter salto de línea)"
-          rows="1"
-        ></textarea>
-        <button
-          id="chatBtn"
-          style="width:38px;height:38px;border-radius:10px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:all .15s;box-shadow:0 3px 10px rgba(102,126,234,0.4);"
-          aria-label="Enviar"
-          onmouseover="this.style.transform='scale(1.08)';this.style.boxShadow='0 5px 16px rgba(102,126,234,0.55)';"
-          onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 3px 10px rgba(102,126,234,0.4)';"
-        >
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M22 2L11 13M22 2L15 22l-4-9-9-4 20-7z" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        </button>
+      <!-- Messages -->
+      <div id="chatMessagesArea" class="flex-1 overflow-y-auto px-6 py-4" style="background:#fafafa;">
+        <div id="chatEmptyState" class="h-full flex flex-col items-center justify-center text-center">
+          <div class="w-20 h-20 rounded-full bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center text-white text-3xl mb-4">
+            💬
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">¿En qué puedo ayudarte?</h3>
+          <p class="text-gray-500 mb-6 max-w-md">Pregunta sobre comisiones, sesiones, documentos o congresistas.</p>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-3 max-w-2xl w-full">
+            <button onclick="useSuggestion('¿Qué comisiones están disponibles?')" class="text-left p-4 bg-white rounded-xl border border-gray-200 hover:border-purple-400 hover:shadow-md transition">
+              <div class="text-2xl mb-2">📂</div>
+              <div class="font-semibold text-sm text-gray-900">Ver Comisiones</div>
+              <div class="text-xs text-gray-500">Lista de comisiones disponibles</div>
+            </button>
+
+            <button onclick="useSuggestion('¿Qué sesiones recientes hay en Educación?')" class="text-left p-4 bg-white rounded-xl border border-gray-200 hover:border-purple-400 hover:shadow-md transition">
+              <div class="text-2xl mb-2">📅</div>
+              <div class="font-semibold text-sm text-gray-900">Sesiones Recientes</div>
+              <div class="text-xs text-gray-500">Actividad legislativa reciente</div>
+            </button>
+
+            <button onclick="useSuggestion('Muéstrame votaciones de la última sesión')" class="text-left p-4 bg-white rounded-xl border border-gray-200 hover:border-purple-400 hover:shadow-md transition">
+              <div class="text-2xl mb-2">🗳️</div>
+              <div class="font-semibold text-sm text-gray-900">Ver Votaciones</div>
+              <div class="text-xs text-gray-500">Resultados y estadísticas</div>
+            </button>
+
+            <button onclick="useSuggestion('¿Quiénes participaron en la Comisión de Hacienda?')" class="text-left p-4 bg-white rounded-xl border border-gray-200 hover:border-purple-400 hover:shadow-md transition">
+              <div class="text-2xl mb-2">👥</div>
+              <div class="font-semibold text-sm text-gray-900">Congresistas</div>
+              <div class="text-xs text-gray-500">Info sobre integrantes</div>
+            </button>
+          </div>
+        </div>
       </div>
-      <div id="chatMeta" style="margin-top:8px;font-size:11.5px;color:#94a3b8;text-align:center;min-height:16px;"></div>
+
+      <!-- Input -->
+      <div class="px-6 py-4 border-t border-gray-200 bg-white">
+        <div class="flex gap-3 items-end">
+          <textarea
+            id="chatInput"
+            class="flex-1 px-4 py-3 border-2 border-gray-200 rounded-2xl resize-none focus:border-purple-500 focus:outline-none transition"
+            placeholder="Escribe tu pregunta aquí... (Enter para enviar / Shift+Enter salto de línea)"
+            rows="1"
+            style="max-height:150px;"
+          ></textarea>
+
+          <button
+            id="chatBtn"
+            class="w-12 h-12 flex-shrink-0 rounded-full bg-gradient-to-br from-purple-600 to-blue-600 text-white flex items-center justify-center hover:shadow-lg transition disabled:opacity-50"
+            aria-label="Enviar"
+          >
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+              <path d="M2 10L18 2L10 18L9 11L2 10Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+        </div>
+
+        <div id="chatMeta" class="mt-2 text-xs text-gray-400 text-center"></div>
+      </div>
     </div>
   </div>
 
@@ -500,96 +506,84 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
       <div class="flex items-center justify-between mb-4">
         <h3 class="text-lg font-bold">Subir Documento</h3>
         <button onclick="closeUploadModal()" class="text-gray-400 hover:text-gray-600">
-          <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6L18 18M6 18L18 6"/></svg>
+          <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M6 6L18 18M6 18L18 6"/>
+          </svg>
         </button>
       </div>
+
       <div class="mb-4">
         <label class="block text-sm font-medium text-gray-700 mb-2">Archivo (.txt o .md)</label>
         <input id="uploadFile" type="file" accept=".txt,.md" class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm" />
       </div>
+
       <div class="flex gap-2">
-        <button onclick="closeUploadModal()" class="flex-1 px-4 py-2 border border-gray-200 rounded-lg text-sm font-semibold hover:bg-gray-50">Cancelar</button>
-        <button id="uploadBtn" class="flex-1 px-4 py-2 text-white rounded-lg text-sm font-semibold hover:shadow-lg" style="background:linear-gradient(135deg,#667eea 0%,#764ba2 100%)">Subir</button>
+        <button onclick="closeUploadModal()" class="flex-1 px-4 py-2 border border-gray-200 rounded-lg text-sm font-semibold hover:bg-gray-50">
+          Cancelar
+        </button>
+        <button id="uploadBtn" class="flex-1 px-4 py-2 bg-gradient-to-br from-purple-600 to-blue-600 text-white rounded-lg text-sm font-semibold hover:shadow-lg">
+          Subir
+        </button>
       </div>
+
       <div id="uploadStatus" class="mt-3 text-sm"></div>
     </div>
   </div>
-
 </div>
 
 <style>
-  @keyframes blink-dot { 0%,100%{opacity:1} 50%{opacity:0.3} }
-
-  #chatMessagesArea::-webkit-scrollbar { width: 5px; }
+  #chatMessagesArea::-webkit-scrollbar { width: 6px; }
   #chatMessagesArea::-webkit-scrollbar-track { background: transparent; }
-  #chatMessagesArea::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 99px; }
-  #chatMessagesArea::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+  #chatMessagesArea::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 3px; }
+  #chatMessagesArea::-webkit-scrollbar-thumb:hover { background: #9ca3af; }
 
   .chat-message { margin-bottom: 16px; animation: fadeIn .25s ease; }
   @keyframes fadeIn { from {opacity:0; transform:translateY(8px);} to {opacity:1; transform:translateY(0);} }
 
   .user-message { display:flex; justify-content:flex-end; }
-  .assistant-message { display:flex; justify-content:flex-start; gap: 10px; align-items: flex-start; }
+  .assistant-message { display:flex; justify-content:flex-start; }
 
-  /* Avatar de IA en mensajes */
-  .assistant-message::before {
-    content: "IA";
-    width: 28px; height: 28px; border-radius: 7px;
-    background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
-    color: white; font-size: 10px; font-weight: 800;
-    display: flex; align-items: center; justify-content: center;
-    flex-shrink: 0; margin-top: 2px;
-  }
-
-  .message-bubble { max-width: 78%; padding: 12px 16px; border-radius: 14px; line-height: 1.65; font-size: 14px; }
+  .message-bubble { max-width: 80%; padding: 12px 16px; border-radius: 16px; line-height: 1.55; font-size: 14px; }
 
   .user-message .message-bubble {
     background: linear-gradient(135deg,#667eea 0%,#764ba2 100%);
-    color: white; border-top-right-radius: 4px;
-    box-shadow: 0 4px 14px rgba(102,126,234,0.3);
-    font-weight: 500;
+    color: white;
+    border-bottom-right-radius: 4px;
   }
 
   .assistant-message .message-bubble {
-    background: white; color: #1e293b;
-    border: 1px solid #e2e8f0; border-top-left-radius: 4px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    background: white;
+    color: #111827;
+    border: 1px solid #e5e7eb;
+    border-bottom-left-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.05);
   }
 
-  .assistant-message .message-bubble strong { color: #2d2167; font-weight: 700; }
-  .assistant-message .message-bubble a { color: #667eea; text-decoration: underline; text-underline-offset: 2px; }
-  .assistant-message .message-bubble code { background:#f0f2f8; padding:2px 7px; border-radius:5px; font-size:12.5px; color:#4c3aad; border:1px solid #e2e8f0; }
+  .assistant-message .message-bubble a { text-decoration: underline; }
+  .assistant-message .message-bubble code { background:#f3f4f6; padding:2px 6px; border-radius:6px; font-size: 13px; }
   .assistant-message .message-bubble ul { list-style: disc; margin-left: 18px; }
   .assistant-message .message-bubble ol { list-style: decimal; margin-left: 18px; }
   .assistant-message .message-bubble li { margin: 4px 0; }
 
-  /* Source tag */
-  .source-tag {
-    display: inline-flex; align-items: center; gap: 4px;
-    font-size: 11px; padding: 2px 8px; border-radius: 99px;
-    background: rgba(102,126,234,0.08); border: 1px solid rgba(102,126,234,0.2);
-    color: #4c3aad; margin: 1px; vertical-align: middle; font-weight: 600;
-  }
-
-  .typing-indicator { display:flex; gap:5px; padding: 5px 0; align-items: center; }
-  .typing-dot { width:7px; height:7px; border-radius:50%; background:#667eea; animation: typing 1.2s infinite; opacity: 0.6; }
-  .typing-dot:nth-child(2){ animation-delay:.15s; }
-  .typing-dot:nth-child(3){ animation-delay:.3s; }
-  @keyframes typing { 0%,80%,100% { transform: translateY(0); opacity:.4; } 40% { transform: translateY(-5px); opacity:1; } }
+  .typing-indicator { display:flex; gap:4px; padding: 6px 0; }
+  .typing-dot { width:8px; height:8px; border-radius:50%; background:#667eea; animation: typing 1.4s infinite; }
+  .typing-dot:nth-child(2){ animation-delay:.2s; }
+  .typing-dot:nth-child(3){ animation-delay:.4s; }
+  @keyframes typing { 0%,60%,100% { transform: translateY(0); opacity:.7; } 30% { transform: translateY(-6px); opacity:1; } }
 
   #chatInput { transition: height .2s; }
-  #chatComposerBox:focus-within { border-color: #667eea !important; box-shadow: 0 0 0 3px rgba(102,126,234,0.12) !important; }
-  #chatBtn:disabled { opacity: 0.45; cursor: not-allowed; transform: scale(1) !important; box-shadow: none !important; }
 </style>
 
 <script>
-  // Helpers
+  // Helpers (usa tu $ si existe; si no, fallback)
   function $id(x){ return document.getElementById(x); }
   const $$ = (typeof $ === "function") ? $ : $id;
 
+  // POST JSON helper compatible (apiPostJson / apiPostJSON / fallback fetch)
   async function postJSON(url, payload){
     if (typeof apiPostJson === "function") return await apiPostJson(url, payload);
     if (typeof apiPostJSON === "function") return await apiPostJSON(url, payload);
+
     const r = await fetch(url, {
       method: "POST",
       headers: {"Content-Type":"application/json"},
@@ -601,35 +595,72 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
   }
 
   function escapeHtml(s){
-    return (s || "").replace(/[&<>"']/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':'&quot;',"'":"&#39;"}[m]));
+    return (s || "").replace(/[&<>"']/g, m => ({
+      "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+    }[m]));
   }
 
   function formatResponse(text){
-    let t = escapeHtml(text || "");
+    // 1. Extraer referencias [[REF:label:url]] ANTES de escapar
+    const refs = [];
+    const refRegex = /\[\[REF:([^:]+):([^\]]+)\]\]/g;
+    let cleanText = (text || "").replace(refRegex, (_, label, url) => {
+      refs.push({ label: label.trim(), url: url.trim() });
+      return ""; // elimina del texto principal
+    }).trim();
+
+    // 2. Escapar y formatear el texto principal
+    let t = escapeHtml(cleanText);
     t = t.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
-    t = t.replace(/`(.+?)`/g, "<code>$1</code>");
+    t = t.replace(/`(.+?)`/g, '<code>$1</code>');
     t = t.replace(/\[([^\]]+?)\]\(([^)]+?)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
-    // Source citations → styled badge
-    t = t.replace(/\(Fuente:\s*([^)]+)\)/gi, (_, src) =>
-      `<span class="source-tag">📄 ${escapeHtml(src.trim())}</span>`);
     t = t.replace(/^\s*[-•]\s+(.+)$/gm, "<li>$1</li>");
     if (t.includes("<li>")) t = t.replace(/(<li>[\s\S]*<\/li>)/g, "<ul>$1</ul>");
     t = t.replace(/\n/g, "<br>");
+
+    // 3. Renderizar referencias como badges clickeables al final
+    if (refs.length > 0) {
+      const badges = refs.map(r => {
+        const isExternal = r.url.startsWith("http");
+        const target = isExternal ? 'target="_blank" rel="noopener"' : '';
+        return `<a href="${r.url}" ${target}
+          style="display:inline-flex;align-items:center;gap:5px;padding:4px 10px;
+                 border-radius:99px;font-size:11px;font-weight:600;text-decoration:none;
+                 background:rgba(102,126,234,0.1);border:1px solid rgba(102,126,234,0.25);
+                 color:#4c3aad;margin:2px 3px 0 0;transition:all .15s;"
+          onmouseover="this.style.background='rgba(102,126,234,0.2)'"
+          onmouseout="this.style.background='rgba(102,126,234,0.1)'"
+          title="Ver fuente: ${r.label}">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6zm-1 1.5L18.5 9H13V3.5zM6 20V4h5v7h7v9H6z"/>
+          </svg>
+          ${escapeHtml(r.label.split("/").pop())}
+        </a>`;
+      }).join("");
+
+      t += `<div style="margin-top:12px;padding-top:10px;border-top:1px solid #e2e8f0;">
+              <span style="font-size:10px;font-weight:700;color:#94a3b8;letter-spacing:.06em;text-transform:uppercase;">
+                Fuentes consultadas
+              </span><br>
+              <div style="margin-top:6px;">${badges}</div>
+            </div>`;
+    }
+
     return t;
   }
 
   (function(){
     const messagesArea = $$("chatMessagesArea");
-    const emptyState   = $$("chatEmptyState");
-    const chatInput    = $$("chatInput");
-    const chatBtn      = $$("chatBtn");
-    const chatMeta     = $$("chatMeta");
+    const emptyState = $$("chatEmptyState");
+    const chatInput = $$("chatInput");
+    const chatBtn = $$("chatBtn");
+    const chatMeta = $$("chatMeta");
     const clearChatBtn = $$("clearChatBtn");
     const uploadToggleBtn = $$("uploadToggleBtn");
-    const uploadModal  = $$("uploadModal");
-    const uploadBtn    = $$("uploadBtn");
+    const uploadModal = $$("uploadModal");
+    const uploadBtn = $$("uploadBtn");
     const uploadStatus = $$("uploadStatus");
-    const uploadFile   = $$("uploadFile");
+    const uploadFile = $$("uploadFile");
 
     let hasAnyMessage = false;
 
@@ -642,19 +673,29 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
 
     function addMessage(role, content, isTyping=false){
       hideEmptyState();
+
       const wrap = document.createElement("div");
       wrap.className = `chat-message ${role}-message`;
+
       const bubble = document.createElement("div");
       bubble.className = "message-bubble";
+
       if(isTyping){
-        bubble.innerHTML = `<div class="typing-indicator"><div class="typing-dot"></div><div class="typing-dot"></div><div class="typing-dot"></div></div>`;
+        bubble.innerHTML = `
+          <div class="typing-indicator">
+            <div class="typing-dot"></div>
+            <div class="typing-dot"></div>
+            <div class="typing-dot"></div>
+          </div>
+        `;
       } else {
         if(role === "user"){
-          bubble.innerHTML = `<div style="white-space:pre-wrap;">${escapeHtml(content)}</div>`;
+          bubble.innerHTML = `<div class="whitespace-pre-wrap">${escapeHtml(content)}</div>`;
         } else {
           bubble.innerHTML = formatResponse(content);
         }
       }
+
       wrap.appendChild(bubble);
       messagesArea.appendChild(wrap);
       messagesArea.scrollTop = messagesArea.scrollHeight;
@@ -664,20 +705,20 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
     async function sendChat(){
       const msg = (chatInput.value || "").trim();
       if(!msg) return;
+
       chatInput.value = "";
       chatInput.style.height = "auto";
       chatBtn.disabled = true;
-      chatMeta.textContent = `Consultando repositorio · ${new Date().toLocaleTimeString("es-CL")}`;
+      chatMeta.textContent = `Enviando · ${new Date().toLocaleTimeString("es-CL")}`;
+
       addMessage("user", msg);
       const assistantBubble = addMessage("assistant", "", true);
+
       try{
         const data = await postJSON("/api/chat", {message: msg});
         const answer = data.reply || data.response || "Sin respuesta";
         assistantBubble.innerHTML = formatResponse(answer);
-        const meta = [];
-        if(data.hits_found != null) meta.push(`${data.hits_found} fragmentos`);
-        if(data.pdfs_fetched > 0)   meta.push(`${data.pdfs_fetched} PDF(s) consultados`);
-        chatMeta.textContent = `Respondido · ${new Date().toLocaleTimeString("es-CL")}${meta.length ? " · " + meta.join(" · ") : ""}`;
+        chatMeta.textContent = `Respondido · ${new Date().toLocaleTimeString("es-CL")}`;
       }catch(e){
         assistantBubble.innerHTML = '<span style="color:#ef4444;">❌ Error al conectar con el servidor</span>';
         chatMeta.textContent = "Error en la respuesta";
@@ -686,25 +727,38 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
       }
     }
 
+    // Auto-resize textarea
     chatInput?.addEventListener("input", function(){
       this.style.height = "auto";
       this.style.height = Math.min(this.scrollHeight, 150) + "px";
     });
 
+    // Enter
     chatInput?.addEventListener("keydown", function(e){
-      if(e.key === "Enter" && !e.shiftKey){ e.preventDefault(); sendChat(); }
+      if(e.key === "Enter" && !e.shiftKey){
+        e.preventDefault();
+        sendChat();
+      }
     });
 
     function clearChat(){
       if(!confirm("¿Limpiar el chat?")) return;
       messagesArea.innerHTML = "";
-      if(emptyState){ emptyState.style.display = "flex"; messagesArea.appendChild(emptyState); }
+      if(emptyState){
+        emptyState.style.display = "flex";
+        messagesArea.appendChild(emptyState);
+      }
       hasAnyMessage = false;
       chatMeta.textContent = "";
     }
 
-    window.useSuggestion = function(text){ chatInput.value = text; sendChat(); };
+    // Suggestions
+    window.useSuggestion = function(text){
+      chatInput.value = text;
+      sendChat();
+    };
 
+    // Upload modal
     window.closeUploadModal = function(){
       uploadModal.classList.add("hidden");
       uploadModal.classList.remove("flex");
@@ -717,17 +771,28 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
 
     async function uploadSelectedFile(){
       const file = uploadFile?.files?.[0];
-      if(!file){ uploadStatus.innerHTML = '<span style="color:#ef4444;">Selecciona un archivo</span>'; return; }
+      if(!file){
+        uploadStatus.innerHTML = '<span style="color:#ef4444;">Selecciona un archivo</span>';
+        return;
+      }
+
       uploadBtn.disabled = true;
       uploadStatus.textContent = "Subiendo...";
+
       try{
         const fd = new FormData();
         fd.append("file", file);
+
         const r = await fetch("/api/upload", { method:"POST", body: fd });
         const data = await r.json().catch(()=> ({}));
+
         if(r.ok && (data.success || data.ok)){
           uploadStatus.innerHTML = '<span style="color:#10b981;">✓ Archivo subido correctamente</span>';
-          setTimeout(()=>{ window.closeUploadModal(); uploadStatus.textContent = ""; uploadFile.value = ""; }, 1200);
+          setTimeout(()=> {
+            window.closeUploadModal();
+            uploadStatus.textContent = "";
+            uploadFile.value = "";
+          }, 1200);
         } else {
           uploadStatus.innerHTML = `<span style="color:#ef4444;">✗ ${data.error || data.detail || "Error"}</span>`;
         }
@@ -738,6 +803,7 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
       }
     }
 
+    // Events
     chatBtn?.addEventListener("click", sendChat);
     clearChatBtn?.addEventListener("click", clearChat);
     uploadToggleBtn?.addEventListener("click", openUploadModal);

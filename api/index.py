@@ -532,12 +532,32 @@ async def upload_document(file: UploadFile = File(...)):
 
 @app.post("/api/chat")
 def chat(payload: dict = Body(...)):
-    msg = (payload or {}).get("message") or ""
+    msg    = (payload or {}).get("message") or ""
+    camara = (payload or {}).get("camara")  or ""
     if not msg:
         return {"success": False, "error": "No message provided"}
+
+    # Detectar cámara desde el payload o desde el texto del mensaje
+    _msg_lower = msg.lower()
+    if camara:
+        _is_senado = camara.lower() in ("senado", "senate")
+    else:
+        _senado_words = ["senado", "senadora", "senador", "senate"]
+        _camara_words = ["diputado", "diputados", "diputada", "cámara de diputados", "camara de diputados"]
+        _is_senado = any(w in _msg_lower for w in _senado_words) and not any(w in _msg_lower for w in _camara_words)
+
+    store_sel = store_senado if _is_senado else store_camara
+    agent_sel = LegislativeAgent(store_sel, GEMINI_API_KEY)
+
     try:
-        response = agent.ask(msg)
-        return {"success": True, "response": response}
+        result = agent_sel.ask_structured(msg)
+        return {
+            "success":      True,
+            "response":     result.answer,
+            "camara_usada": "senado" if _is_senado else "camara",
+            "hits_found":   result.hits_found,
+            "pdfs_fetched": getattr(result, "pdfs_fetched", 0),
+        }
     except Exception as e:
         return {"success": False, "error": str(e), "response": f"Error: {str(e)}"}
 
