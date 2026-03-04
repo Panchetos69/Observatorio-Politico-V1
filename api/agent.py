@@ -333,24 +333,18 @@ class LegislativeAgent:
         gemini_api_key: str,
         model: str = DEFAULT_MODEL,
         top_k: int = DEFAULT_TOP_K,
+        store_alt=None,          # store secundario (ej: si store es senado, store_alt es camara)
     ) -> None:
-        # .env local opcional
-        if _DOTENV_AVAILABLE and os.getenv("LOAD_DOTENV", "").strip() == "1":
-            try:
-                # busca .env en raíz del proyecto (estilo tu agente viejo)
-                base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-                load_dotenv(os.path.join(base_dir, ".env"))
-            except Exception:
-                pass
+        self.store     = store
+        self.store_alt = store_alt   # puede ser None
+        self.model     = model
+        self.top_k     = top_k
+        self.ready     = bool(gemini_api_key and gemini_api_key.strip())
+        self.client    = genai.Client(api_key=gemini_api_key.strip()) if self.ready else None
+        self.camara    = getattr(store, "default_chamber", "camara")
 
-        self.store = store
-        self.model = model
-        self.top_k = top_k
-        self.ready = bool(gemini_api_key and gemini_api_key.strip())
-        self.client = genai.Client(api_key=gemini_api_key.strip()) if self.ready else None
-        self.camara = getattr(store, "default_chamber", "camara")
-
-        logger.info("LegislativeAgent v4 — cámara: %s | modelo: %s | top_k=%s", self.camara, self.model, self.top_k)
+        logger.info("LegislativeAgent v4 — cámara: %s | modelo: %s | top_k=%s | dual_store=%s",
+                    self.camara, self.model, self.top_k, store_alt is not None)
 
     # ── Interfaz pública ──────────────────────────────────────
     def ask(self, question: str) -> str:
@@ -432,34 +426,55 @@ class LegislativeAgent:
             error=error,
         )
 
+    def _detect_chamber_from_query(self, question: str) -> Optional[str]:
+        """Detecta si la pregunta menciona explícitamente una cámara."""
+        q = _norm(question)
+        if any(w in q for w in ["senado", "senador", "senadora"]):
+            return "senado"
+        if any(w in q for w in ["diputado", "diputados", "diputada", "camara de diputados"]):
+            return "camara"
+        return None  # no especifica → usa el store principal
+
     def _retrieve(self, question: str) -> list[dict]:
         """
-        Mejora recall:
-        - si pregunta por comisión, sube top_k
-        - intenta filtrar por cámara si el path lo sugiere
+        Búsqueda dual:
+        - Detecta si la pregunta menciona Senado o Cámara explícitamente
+        - Si menciona la cámara del store principal → busca en store principal
+        - Si menciona la cámara alternativa → busca en store_alt
+        - Si no menciona ninguna → busca en ambos y combina
         """
         try:
             qn = _norm(question)
             dyn_top_k = DEFAULT_TOP_K_WIDE if "comision" in qn else self.top_k
+            detected = self._detect_chamber_from_query(question)
 
-            hits = self.store.search_texts(question, top_k=dyn_top_k) or []
+            def _search_store(s, tk) -> list[dict]:
+                if s is None:
+                    return []
+                try:
+                    return s.search_texts(question, top_k=tk) or []
+                except Exception:
+                    return []
 
-            cam = self.camara
-            filtered: list[dict] = []
-            for h in hits:
-                fp = (h.get("file") or "").lower()
-                if cam == "senado":
-                    # si el path sugiere cámara, lo descartamos
-                    if "diput" in fp or "camara" in fp:
-                        continue
-                else:
-                    if "senado" in fp:
-                        continue
-                filtered.append(h)
+            if detected == self.camara or detected is None and self.store_alt is None:
+                # Solo store principal
+                hits = _search_store(self.store, dyn_top_k)
+            elif detected is not None and detected != self.camara and self.store_alt is not None:
+                # Solo store alternativo
+                hits = _search_store(self.store_alt, dyn_top_k)
+            else:
+                # Busca en ambos y combina
+                hits_main = _search_store(self.store,     dyn_top_k)
+                hits_alt  = _search_store(self.store_alt, dyn_top_k)
+                # Intercala: principal primero, luego alternativo
+                hits = hits_main + hits_alt
 
-            return filtered
+            # Ordena por score
+            hits.sort(key=lambda x: x.get("score", 0), reverse=True)
+            return hits[:dyn_top_k]
+
         except Exception:
-            logger.exception("Error en search_texts")
+            logger.exception("Error en _retrieve")
             return []
 
     def _collect_pdf_context(self, hits: list[dict]) -> tuple[list[dict], int]:

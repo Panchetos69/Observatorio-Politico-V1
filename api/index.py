@@ -36,7 +36,7 @@ BLOB_TOKEN      = os.getenv("BLOB_READ_WRITE_TOKEN", "")
 store_camara = DataStore(DATA_REPO_DIR,   KOM_DIR, default_chamber="camara")
 store_senado = DataStore(SENADO_REPO_DIR, KOM_DIR, default_chamber="senado")
 
-agent = LegislativeAgent(store_camara, GEMINI_API_KEY)
+agent = LegislativeAgent(store_camara, GEMINI_API_KEY, store_alt=store_senado)
 
 def get_store(camara: str = "diputados") -> DataStore:
     return store_senado if (camara or "").lower() in ("senado", "senate") else store_camara
@@ -546,8 +546,12 @@ def chat(payload: dict = Body(...)):
         _camara_words = ["diputado", "diputados", "diputada", "cámara de diputados", "camara de diputados"]
         _is_senado = any(w in _msg_lower for w in _senado_words) and not any(w in _msg_lower for w in _camara_words)
 
-    store_sel = store_senado if _is_senado else store_camara
-    agent_sel = LegislativeAgent(store_sel, GEMINI_API_KEY)
+    # Store principal según cámara detectada, store_alt el otro
+    if _is_senado:
+        store_sel, store_alt = store_senado, store_camara
+    else:
+        store_sel, store_alt = store_camara, store_senado
+    agent_sel = LegislativeAgent(store_sel, GEMINI_API_KEY, store_alt=store_alt)
 
     try:
         result = agent_sel.ask_structured(msg)
