@@ -1,584 +1,788 @@
 """
-agent.py — LegislativeAgent v4 (RAG + Inventario)
-- Detecta Senado vs Cámara según store.default_chamber
-- RAG para preguntas de contenido (search_texts + Gemini)
-- Inventario (listar comisiones / contar docs / verificar comisión) SIN Gemini:
-    - usa store.list_commissions() si existe
-    - si no existe, escanea filesystem en store.data_repo_dir / store.kom_dir (fallback tipo "glob")
-- Lee PDFs remotos y agrega snippets
-- Reintentos con backoff exponencial
+agent.py — LEXIA LegislativeAgent v5
+======================================
+Agente RAG legislativo para el Observatorio Político Chile.
+
+Capacidades:
+  · Detecta automáticamente Senado vs Cámara de Diputados
+  · Soporte dual-store (REPO_SENADO + REPO_V40) con selección inteligente
+  · Detección de comisión específica → carga TODO su contenido directamente
+  · Búsqueda general por score normalizado (tolerante a tildes/mayúsculas)
+  · Lectura de PDFs remotos (Citación, Cuenta, Acta)
+  · Respuestas con referencias clickeables [[REF:label:url]]
+  · Router de inventario sin IA (listar comisiones, contar docs)
+  · Reintentos con backoff exponencial
+  · Prompts estructurados para Gemini 2.5 Flash
+
+Estructura de archivos esperada por comisión:
+  REPO/
+    Permanentes/
+      Comisión de Salud/
+        comision.json          ← metadata de la comisión
+        integrantes.json       ← senadores/diputados miembros
+        historial.csv          ← todas las sesiones (ID, Fecha, Estado, URLs)
+        sesiones_detail/
+          22338.json           ← detalle de sesión individual
+          Trancripciones/      ← (typo del senado, también soportado)
+            22338.txt          ← transcripción completa
+        transcripts/           ← alternativa para Diputados
+          12345.txt
 """
 
 from __future__ import annotations
 
+import csv
+import glob
 import io
+import json
 import logging
 import os
 import re
 import time
-import urllib.parse
 import unicodedata
+import urllib.parse
 from dataclasses import dataclass, field
-from typing import Optional, Any, Dict, List, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 
 import httpx
 from google import genai
 from google.genai import errors as genai_errors
 
 try:
-    # opcional: útil en local. En Vercel normalmente NO lo necesitas.
-    from dotenv import load_dotenv  # type: ignore
-    _DOTENV_AVAILABLE = True
-except Exception:
-    _DOTENV_AVAILABLE = False
-
-try:
-    import pypdf  # type: ignore
-    _PDF_AVAILABLE = True
+    import pypdf
+    _PDF_OK = True
 except ImportError:
-    _PDF_AVAILABLE = False
+    _PDF_OK = False
 
 logger = logging.getLogger(__name__)
 
-# ─── Constantes ───────────────────────────────────────────────
-DEFAULT_MODEL      = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
-DEFAULT_TOP_K      = int(os.getenv("RAG_TOP_K", "8"))        # subido (antes 5)
-DEFAULT_TOP_K_WIDE = int(os.getenv("RAG_TOP_K_WIDE", "30"))  # para preguntas amplias por comisión
-MAX_SNIPPET_LEN    = 1_200
-MAX_PDF_CHARS      = 3_000
-MAX_RETRIES        = 3
-RETRY_DELAY_SEC    = 2.0
-PDF_FETCH_TIMEOUT  = 20
-MAX_PDFS_FETCHED   = 4
+# ══════════════════════════════════════════════════════════════
+# CONFIGURACIÓN
+# ══════════════════════════════════════════════════════════════
+MODEL           = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+TOP_K           = int(os.getenv("RAG_TOP_K",      "8"))
+TOP_K_WIDE      = int(os.getenv("RAG_TOP_K_WIDE", "20"))
+MAX_SNIPPET     = 2_500   # chars por documento en el contexto
+MAX_PDF_CHARS   = 4_000   # chars extraídos de un PDF remoto
+MAX_PDFS        = 3       # PDFs remotos máximo por consulta
+MAX_TRANSCRIPTS = 8       # transcripts locales máximo por comisión
+MAX_JSONS       = 6       # JSONs de sesión máximo por comisión
+PDF_TIMEOUT     = 20      # segundos
+MAX_RETRIES     = 3
+RETRY_BASE      = 2.0     # segundos base para backoff
+
+# Carpetas donde pueden estar las transcripciones
+TRANSCRIPT_DIRS = [
+    "transcripts",
+    "Trancripciones",   # typo del scraper del Senado
+    "Transcripciones",
+    "transcripciones",
+]
 
 SYSTEM_PROMPT = """\
-Eres LEXIA, un analista legislativo experto, neutral y riguroso de Chile.
+Eres LEXIA, el asistente de análisis legislativo del Observatorio Político Chile.
+Eres experto, neutral y riguroso. Tu función es ayudar a entender el trabajo
+legislativo del Senado y la Cámara de Diputados de Chile.
 
-REGLAS ESTRICTAS:
-1. Responde ÚNICAMENTE con información presente en el CONTEXTO proporcionado.
-2. LEE y RESUME el contenido de los documentos — NO menciones rutas de archivos ni nombres técnicos de archivos.
-3. Si el contexto no contiene información suficiente, dilo explícitamente.
-4. Cita la fuente como el nombre de la comisión o tipo de documento, NO como ruta de archivo.
-5. Usa lenguaje formal, claro y sin sesgos políticos.
-6. Organiza la respuesta con párrafos claros. Usa listas cuando sea útil.
-7. Nunca inventes datos, fechas, nombres ni cifras.
-8. Si te preguntan por el Senado, responde SOLO con información del Senado.
-   Si te preguntan por Diputados, responde SOLO con información de Diputados.
+REGLAS ABSOLUTAS:
+1. Responde SOLO con información presente en el CONTEXTO proporcionado.
+2. Nunca inventes datos, fechas, nombres, cifras ni votaciones.
+3. NO menciones nombres de archivos, rutas ni extensiones (.csv, .json, .txt).
+4. Cita la fuente como el nombre de la comisión o tipo de documento
+   (ej: "historial de sesiones", "transcripción", "nómina de integrantes").
+5. Sé claro, formal y sin sesgos políticos.
+6. Organiza con párrafos y listas cuando sea útil.
+7. Si el contexto no tiene suficiente información, dilo directamente.
+8. Si la pregunta es sobre el Senado, responde SOLO con datos del Senado.
+   Si es sobre Diputados, responde SOLO con datos de Diputados.
+9. Si hay transcripciones disponibles, úsalas como fuente principal —
+   contienen el debate real y son el documento más valioso.
 """
 
-# ─── Data classes ─────────────────────────────────────────────
+
+# ══════════════════════════════════════════════════════════════
+# DATACLASSES
+# ══════════════════════════════════════════════════════════════
 @dataclass
 class AgentResponse:
-    answer: str
-    sources: list[str] = field(default_factory=list)
-    hits_found: int = 0
+    answer:       str
+    sources:      List[str] = field(default_factory=list)
+    hits_found:   int = 0
     pdfs_fetched: int = 0
-    error: Optional[str] = None
+    chamber_used: str = ""
+    error:        Optional[str] = None
 
     @property
     def ok(self) -> bool:
         return self.error is None
 
 
-# ─── Normalización ────────────────────────────────────────────
+@dataclass
+class DocHit:
+    file:    str
+    score:   int
+    snippet: str
+    label:   str = ""
+
+
+# ══════════════════════════════════════════════════════════════
+# UTILIDADES DE TEXTO
+# ══════════════════════════════════════════════════════════════
 def _norm(s: str) -> str:
+    """Normaliza texto: minúsculas, sin tildes, sin espacios extras."""
     s = (s or "").strip().lower()
-    s = "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
-    s = re.sub(r"\s+", " ", s)
-    return s
-
-def _looks_like_list_commissions(q: str) -> bool:
-    nq = _norm(q)
-    triggers = (
-        "que comisiones estan disponibles",
-        "que comisiones hay",
-        "listar comisiones",
-        "lista comisiones",
-        "lista de comisiones",
-        "comisiones disponibles",
-        "cuantas comisiones",
-        "catalogo de comisiones",
-    )
-    if any(t in nq for t in triggers):
-        return True
-    # fallback: pregunta general + palabra comisiones
-    if "comisiones" in nq and any(k in nq for k in ("dispon", "listar", "catalog", "cuantas", "todas")):
-        return True
-    return False
-
-def _looks_like_commission_inventory(q: str) -> bool:
-    """
-    Preguntas tipo:
-    - "tienes documentos de la comisión de salud?"
-    - "hay actas/cuentas/transcripts de X?"
-    - "qué documentos existen de X?"
-    """
-    nq = _norm(q)
-    if "comision" not in nq:
-        return False
-    if any(k in nq for k in ("tienes", "hay", "existe", "document", "acta", "cuenta", "transcript", "video", "mis docs", "docs")):
-        return True
-    return False
+    s = "".join(c for c in unicodedata.normalize("NFD", s)
+                if unicodedata.category(c) != "Mn")
+    return re.sub(r"\s+", " ", s)
 
 
-# ─── PDF helpers ──────────────────────────────────────────────
-def _extract_pdf_text(pdf_bytes: bytes) -> str:
-    if not _PDF_AVAILABLE:
+def _score_query(query: str, text: str) -> int:
+    """Score de relevancia tolerante a tildes. Bonus si aparece frase completa."""
+    words  = [_norm(w) for w in query.split() if len(w) >= 2]
+    text_n = _norm(text)
+    if not words:
+        return 0
+    score = sum(text_n.count(w) for w in words)
+    if len(words) > 1 and _norm(query) in text_n:
+        score += 15
+    return score
+
+
+# ══════════════════════════════════════════════════════════════
+# LECTORES DE ARCHIVOS
+# ══════════════════════════════════════════════════════════════
+def _read_text(path: str) -> str:
+    try:
+        with open(path, "r", encoding="utf-8", errors="ignore") as f:
+            return f.read()
+    except Exception:
+        return ""
+
+
+def _read_json(path: str) -> Optional[dict]:
+    try:
+        with open(path, "r", encoding="utf-8", errors="ignore") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+
+def _read_csv(path: str) -> List[dict]:
+    try:
+        with open(path, "r", encoding="utf-8-sig", errors="ignore", newline="") as f:
+            reader = csv.DictReader(f)
+            rows = []
+            for row in reader:
+                clean = {
+                    str(k).replace("\ufeff", "").strip():
+                    (v.strip() if isinstance(v, str) else v)
+                    for k, v in (row or {}).items() if k
+                }
+                rows.append(clean)
+            return rows
+    except Exception:
+        return []
+
+
+# ══════════════════════════════════════════════════════════════
+# PDF REMOTO
+# ══════════════════════════════════════════════════════════════
+def _extract_pdf(pdf_bytes: bytes) -> str:
+    if not _PDF_OK:
         return ""
     try:
         reader = pypdf.PdfReader(io.BytesIO(pdf_bytes))
-        parts: list[str] = []
+        parts, total = [], 0
         for page in reader.pages:
-            parts.append(page.extract_text() or "")
-            if sum(len(p) for p in parts) >= MAX_PDF_CHARS:
+            t = page.extract_text() or ""
+            parts.append(t)
+            total += len(t)
+            if total >= MAX_PDF_CHARS:
                 break
         return "\n".join(parts)[:MAX_PDF_CHARS]
     except Exception as e:
-        logger.warning("Error extrayendo PDF: %s", e)
+        logger.warning("PDF extract error: %s", e)
         return ""
 
-def _fetch_pdf_from_url(url: str) -> str:
+
+def _fetch_pdf(url: str) -> str:
     try:
-        with httpx.Client(timeout=PDF_FETCH_TIMEOUT, follow_redirects=True) as client:
-            resp = client.get(url, headers={"User-Agent": "LexiaBot/4.0"})
-            resp.raise_for_status()
-            ct = resp.headers.get("content-type", "")
+        with httpx.Client(timeout=PDF_TIMEOUT, follow_redirects=True) as client:
+            r = client.get(url, headers={"User-Agent": "LEXIA/5.0"})
+            r.raise_for_status()
+            ct = r.headers.get("content-type", "")
             if "pdf" not in ct and not url.lower().endswith(".pdf"):
                 return ""
-            return _extract_pdf_text(resp.content)
+            return _extract_pdf(r.content)
     except Exception as e:
-        logger.warning("No se pudo obtener PDF %s: %s", url, e)
+        logger.warning("PDF fetch failed %s: %s", url, e)
         return ""
 
 
-# ─── Labels / referencias ─────────────────────────────────────
-def _short_label(path: str, store) -> str:
-    """
-    Etiqueta legible: intenta mostrar "Comisión / año / sesión" y NO el filename técnico.
-    Quita extensiones para evitar que el modelo cite "historial.csv".
-    """
-    try:
-        bases = [getattr(store, "data_repo_dir", None), getattr(store, "kom_dir", None)]
-        for base in bases:
-            if base and os.path.abspath(path).startswith(os.path.abspath(base)):
-                rel = os.path.relpath(path, base).replace("\\", "/")
-                parts = rel.split("/")
-                tail = parts[-3:] if len(parts) >= 3 else parts
-                if tail:
-                    tail[-1] = os.path.splitext(tail[-1])[0]
-                return " / ".join(tail)
-    except Exception:
-        pass
-    return os.path.splitext(os.path.basename(path))[0]
+# ══════════════════════════════════════════════════════════════
+# ETIQUETAS LEGIBLES
+# ══════════════════════════════════════════════════════════════
+def _human_label(path: str, repo_dir: str, commission_name: str = "") -> str:
+    """Convierte una ruta en etiqueta legible para el usuario."""
+    base = os.path.basename(path)
+    name, ext = os.path.splitext(base)
+    ext = ext.lower()
+    parent = _norm(os.path.basename(os.path.dirname(path)))
 
-def _ref_link(label: str, url: str) -> str:
-    # Tag amigable para tu frontend
+    if ext == ".txt" or any(_norm(d) in parent for d in TRANSCRIPT_DIRS):
+        doc_type = f"Transcripción sesión {name}"
+    elif ext == ".json" and name.isdigit():
+        doc_type = f"Detalle sesión {name}"
+    elif "historial" in name.lower():
+        doc_type = "Historial de sesiones"
+    elif "integrante" in name.lower():
+        doc_type = "Nómina de integrantes"
+    elif "comision" in name.lower():
+        doc_type = "Información de la comisión"
+    else:
+        doc_type = name.replace("_", " ").title()
+
+    return f"{commission_name} · {doc_type}" if commission_name else doc_type
+
+
+def _ref_tag(label: str, path: str) -> str:
+    url = "/api/file?path=" + urllib.parse.quote(path)
     return f"[[REF:{label}:{url}]]"
 
 
-# ─── Inventario por filesystem (fallback) ──────────────────────
-def _scan_commissions_from_fs(store) -> Dict[str, List[str]]:
-    """
-    Fallback si tu store no tiene list_commissions():
-    Recorre store.data_repo_dir y store.kom_dir buscando carpetas/archivos.
-    Devuelve dict: {"Permanentes":[...], "Especiales":[...], "Mixtas":[...], "Otras":[...]} (best-effort)
-    """
-    bases = []
-    for attr in ("data_repo_dir", "kom_dir"):
-        p = getattr(store, attr, None)
-        if p and os.path.isdir(p):
-            bases.append(p)
-
-    groups: Dict[str, set[str]] = {
-        "Permanentes": set(),
-        "Especiales": set(),
-        "Mixtas": set(),
-        "Presupuesto": set(),
-        "Unidas": set(),
-        "Otras": set(),
-    }
-
-    def classify(path_parts: List[str]) -> str:
-        txt = " ".join(path_parts).lower()
-        if "perman" in txt:
-            return "Permanentes"
-        if "especial" in txt:
-            return "Especiales"
-        if "mixta" in txt:
-            return "Mixtas"
-        if "presup" in txt:
-            return "Presupuesto"
-        if "unid" in txt:
-            return "Unidas"
-        return "Otras"
-
-    for base in bases:
-        for root, dirs, files in os.walk(base):
-            # Heurística: si hay archivos “sesión” dentro, tomamos el nombre de la carpeta como comisión
-            # Comisión suele estar 1 nivel bajo "comisiones/..." o similar.
-            parts = os.path.relpath(root, base).replace("\\", "/").split("/")
-            if parts == ["."]:
-                continue
-
-            has_docs = any(f.lower().endswith((".txt", ".json", ".csv", ".pdf")) for f in files)
-            if not has_docs:
-                continue
-
-            # nombre comisión: el último folder “semántico” (best effort)
-            commission_name = parts[-1].strip()
-            if not commission_name or commission_name.lower() in ("data", "docs", "sessions", "sesiones"):
-                continue
-
-            group = classify(parts)
-            groups[group].add(commission_name)
-
-    # normaliza salida
-    out: Dict[str, List[str]] = {}
-    for k, v in groups.items():
-        if v:
-            out[k] = sorted(v, key=lambda x: _norm(x))
-    return out
-
-def _commission_stats_from_fs(store, commission_query: str) -> Dict[str, Any]:
-    """
-    Cuenta docs por extensión para una comisión.
-    Busca por match parcial del nombre de carpeta.
-    """
-    cq = _norm(commission_query)
-    bases = []
-    for attr in ("data_repo_dir", "kom_dir"):
-        p = getattr(store, attr, None)
-        if p and os.path.isdir(p):
-            bases.append(p)
-
-    counts = {"txt": 0, "json": 0, "csv": 0, "pdf": 0, "other": 0}
-    matched_paths: List[str] = []
-
-    for base in bases:
-        for root, _, files in os.walk(base):
-            rel_parts = os.path.relpath(root, base).replace("\\", "/").split("/")
-            if rel_parts == ["."]:
-                continue
-            # match por carpeta
-            if not any(cq in _norm(p) for p in rel_parts):
-                continue
-
-            for f in files:
-                ext = os.path.splitext(f.lower())[1]
-                if ext == ".txt":
-                    counts["txt"] += 1
-                elif ext == ".json":
-                    counts["json"] += 1
-                elif ext == ".csv":
-                    counts["csv"] += 1
-                elif ext == ".pdf":
-                    counts["pdf"] += 1
-                elif ext:
-                    counts["other"] += 1
-
-            # guardamos algunos ejemplos (máximo 5)
-            if len(matched_paths) < 5 and files:
-                matched_paths.append(root)
-
-    return {"counts": counts, "examples": matched_paths}
-
-
-def _format_commissions_list(data: Any, camara: str) -> str:
-    camara_title = "Senado" if camara == "senado" else "Cámara de Diputados"
-    if isinstance(data, dict):
-        lines = [f"Comisiones disponibles ({camara_title}):"]
-        for group, items in data.items():
-            if not items:
-                continue
-            lines.append(f"\n{group}:")
-            for name in items:
-                lines.append(f"- {name}")
-        return "\n".join(lines).strip()
-    if isinstance(data, list):
-        lines = [f"Comisiones disponibles ({camara_title}):"]
-        for name in data:
-            lines.append(f"- {name}")
-        return "\n".join(lines).strip()
-    return f"No pude listar comisiones ({camara_title}): índice no disponible."
-
-def _format_commission_stats(stats: Dict[str, Any], camara: str, commission_name: str) -> str:
-    camara_title = "Senado" if camara == "senado" else "Cámara de Diputados"
-    c = stats.get("counts", {})
-    total = sum(int(v) for v in c.values()) if isinstance(c, dict) else 0
-    lines = [
-        f"Inventario de documentos — {camara_title}",
-        f"Comisión consultada (búsqueda): {commission_name}",
-        f"- Total aproximado de archivos: {total}",
-        f"- TXT: {c.get('txt',0)} | JSON: {c.get('json',0)} | CSV: {c.get('csv',0)} | PDF: {c.get('pdf',0)} | Otros: {c.get('other',0)}",
+# ══════════════════════════════════════════════════════════════
+# DETECCIÓN DE INTENCIÓN
+# ══════════════════════════════════════════════════════════════
+def _intent_list_commissions(q: str) -> bool:
+    nq = _norm(q)
+    phrases = [
+        "que comisiones hay", "que comisiones estan", "comisiones disponibles",
+        "listar comisiones", "lista de comisiones", "cuantas comisiones",
+        "todas las comisiones", "catalogo de comisiones", "mostrar comisiones",
     ]
-    examples = stats.get("examples") or []
-    if examples:
-        lines.append("\nEjemplos de carpetas donde se encontraron documentos (muestra):")
-        for p in examples[:5]:
-            lines.append(f"- {p}")
-    return "\n".join(lines).strip()
+    if any(p in nq for p in phrases):
+        return True
+    return "comisiones" in nq and any(k in nq for k in ("todas", "cuantas", "listar", "disponib"))
 
 
-# ─── Agent ────────────────────────────────────────────────────
+def _intent_commission_inventory(q: str) -> bool:
+    nq = _norm(q)
+    if "comision" not in nq:
+        return False
+    return any(k in nq for k in (
+        "tienes", "hay", "existe", "cuantos", "documentos",
+        "actas", "transcripciones", "transcripts", "sesiones",
+    ))
+
+
+# ══════════════════════════════════════════════════════════════
+# AGENTE PRINCIPAL
+# ══════════════════════════════════════════════════════════════
 class LegislativeAgent:
     """
-    Agente RAG + Inventario:
-    - inventario de comisiones y documentos (SIN Gemini)
-    - preguntas de contenido: RAG + Gemini
+    LEXIA — Agente RAG legislativo dual-cámara.
+
+    Args:
+        store:          DataStore principal (Senado o Cámara según contexto)
+        gemini_api_key: Clave Gemini desde Vercel env vars
+        store_alt:      DataStore de la otra cámara (opcional)
+        model:          Modelo Gemini a usar
+        top_k:          Número de documentos a recuperar
     """
 
     def __init__(
         self,
         store,
         gemini_api_key: str,
-        model: str = DEFAULT_MODEL,
-        top_k: int = DEFAULT_TOP_K,
-        store_alt=None,          # store secundario (ej: si store es senado, store_alt es camara)
+        store_alt=None,
+        model: str = MODEL,
+        top_k: int  = TOP_K,
     ) -> None:
         self.store     = store
-        self.store_alt = store_alt   # puede ser None
+        self.store_alt = store_alt
         self.model     = model
         self.top_k     = top_k
+        self.camara    = getattr(store, "default_chamber", "camara")
         self.ready     = bool(gemini_api_key and gemini_api_key.strip())
         self.client    = genai.Client(api_key=gemini_api_key.strip()) if self.ready else None
-        self.camara    = getattr(store, "default_chamber", "camara")
 
-        logger.info("LegislativeAgent v4 — cámara: %s | modelo: %s | top_k=%s | dual_store=%s",
-                    self.camara, self.model, self.top_k, store_alt is not None)
+        logger.info(
+            "LEXIA v5 | camara=%s | model=%s | top_k=%d | dual=%s",
+            self.camara, self.model, self.top_k, store_alt is not None,
+        )
 
-    # ── Interfaz pública ──────────────────────────────────────
+    # ─────────────────────────────────────────────────────────
+    # INTERFAZ PÚBLICA
+    # ─────────────────────────────────────────────────────────
     def ask(self, question: str) -> str:
-        return self._ask_structured(question).answer
+        return self.ask_structured(question).answer
 
     def ask_structured(self, question: str) -> AgentResponse:
-        return self._ask_structured(question)
-
-    # ── Implementación ────────────────────────────────────────
-    def _ask_structured(self, question: str) -> AgentResponse:
         question = (question or "").strip()
         if not question:
             return AgentResponse(answer="⚠️ La pregunta está vacía.", error="empty_question")
 
-        # 0) Router de inventario: listar comisiones (NO usa IA)
-        if _looks_like_list_commissions(question):
-            data = None
-            # preferir store si lo expone
-            for fn_name in ("list_commissions", "get_commissions", "commissions_index"):
-                fn = getattr(self.store, fn_name, None)
-                if callable(fn):
-                    try:
-                        data = fn(chamber=self.camara)
-                    except TypeError:
-                        data = fn()
-                    break
-            # fallback filesystem
-            if data is None:
-                data = _scan_commissions_from_fs(self.store)
+        # ── Router sin IA ────────────────────────────────────
+        if _intent_list_commissions(question):
+            return self._handle_list_commissions()
 
-            return AgentResponse(answer=_format_commissions_list(data, self.camara), hits_found=0)
+        if _intent_commission_inventory(question):
+            return self._handle_commission_inventory(question)
 
-        # 1) Router de inventario: “¿tienes docs de la comisión X?”
-        if _looks_like_commission_inventory(question):
-            # extrae algo como "comision de salud"
-            # si no se puede, usa la pregunta completa como query
-            m = re.search(r"comision(?: de)?\s+(.+)$", _norm(question))
-            commission_q = (m.group(1) if m else question).strip()
-            stats = _commission_stats_from_fs(self.store, commission_q)
-            return AgentResponse(answer=_format_commission_stats(stats, self.camara, commission_q), hits_found=0)
-
-        # 2) Para preguntas de contenido, necesitamos IA
+        # ── RAG + Gemini ─────────────────────────────────────
         if not self.ready:
             return AgentResponse(
-                answer="⚠️ Agente no disponible: falta `GEMINI_API_KEY`.",
+                answer="⚠️ Agente no disponible: falta GEMINI_API_KEY en las variables de entorno.",
                 error="no_api_key",
             )
 
-        # 3) Recuperar documentos relevantes (RAG)
-        raw_hits = self._retrieve(question)
+        store, chamber = self._select_store(question)
+        hits           = self._retrieve(question, store)
+        pdf_hits, n_pdfs = self._fetch_remote_pdfs(hits)
 
-        # 4) Extraer texto de PDFs referenciados
-        pdf_snippets, pdfs_fetched = self._collect_pdf_context(raw_hits)
-
-        if not raw_hits and not pdf_snippets:
-            camara_label = "el Senado" if self.camara == "senado" else "la Cámara de Diputados"
+        if not hits and not pdf_hits:
+            cam_label = "el Senado" if chamber == "senado" else "la Cámara de Diputados"
             return AgentResponse(
-                answer=f"No encontré información relevante en los documentos de {camara_label} para esta consulta.",
-                hits_found=0,
+                answer=(
+                    f"No encontré información relevante en los documentos de {cam_label} "
+                    f"para esta consulta. Si buscas una comisión específica, "
+                    f"menciona su nombre completo."
+                ),
+                chamber_used=chamber,
             )
 
-        # 5) Construir contexto legible (contenido, no rutas)
-        context_block, source_paths = self._build_context(raw_hits, pdf_snippets)
+        context, sources, ref_tags = self._build_context(hits, pdf_hits, chamber)
+        prompt = self._build_prompt(question, context, chamber)
+        answer, error = self._generate(prompt)
 
-        # 6) Generar respuesta
-        prompt = self._build_prompt(question, context_block)
-        answer, error = self._generate_with_retry(prompt)
-
-        # Añade referencias clickeables al final de la respuesta
-        refs = getattr(self, "_ref_tags", [])
-        if refs and not error:
-            answer = answer.rstrip() + "\n\n" + " ".join(refs)
+        if ref_tags and not error:
+            answer = answer.rstrip() + "\n\n" + " ".join(ref_tags)
 
         return AgentResponse(
             answer=answer,
-            sources=source_paths,
-            hits_found=len(raw_hits),
-            pdfs_fetched=pdfs_fetched,
+            sources=sources,
+            hits_found=len(hits),
+            pdfs_fetched=n_pdfs,
+            chamber_used=chamber,
             error=error,
         )
 
-    def _detect_chamber_from_query(self, question: str) -> Optional[str]:
-        """Detecta si la pregunta menciona explícitamente una cámara."""
+    # ─────────────────────────────────────────────────────────
+    # SELECCIÓN DE STORE / CÁMARA
+    # ─────────────────────────────────────────────────────────
+    def _detect_chamber(self, question: str) -> Optional[str]:
         q = _norm(question)
-        if any(w in q for w in ["senado", "senador", "senadora"]):
+        if any(w in q for w in ["senado", "senador", "senadora", "senadores"]):
             return "senado"
         if any(w in q for w in ["diputado", "diputados", "diputada", "camara de diputados"]):
             return "camara"
-        return None  # no especifica → usa el store principal
+        return None
 
-    def _retrieve(self, question: str) -> list[dict]:
+    def _select_store(self, question: str) -> Tuple[Any, str]:
+        """Retorna (store, chamber_name) más apropiado para la pregunta."""
+        detected = self._detect_chamber(question)
+        if detected == "senado":
+            s = self.store if self.camara == "senado" else (self.store_alt or self.store)
+            return s, "senado"
+        if detected == "camara":
+            s = self.store if self.camara == "camara" else (self.store_alt or self.store)
+            return s, "camara"
+        return self.store, self.camara
+
+    # ─────────────────────────────────────────────────────────
+    # RECUPERACIÓN DE DOCUMENTOS
+    # ─────────────────────────────────────────────────────────
+    def _retrieve(self, question: str, store) -> List[DocHit]:
         """
-        Búsqueda dual:
-        - Detecta si la pregunta menciona Senado o Cámara explícitamente
-        - Si menciona la cámara del store principal → busca en store principal
-        - Si menciona la cámara alternativa → busca en store_alt
-        - Si no menciona ninguna → busca en ambos y combina
+        Estrategia 1: comisión específica detectada → carga TODO su contenido.
+        Estrategia 2: búsqueda general por score en todo el repositorio.
         """
-        try:
-            qn = _norm(question)
-            dyn_top_k = DEFAULT_TOP_K_WIDE if "comision" in qn else self.top_k
-            detected = self._detect_chamber_from_query(question)
+        commission = self._find_commission(store, question)
+        if commission:
+            group, name = commission
+            hits = self._load_commission_docs(store, group, name)
+            if hits:
+                logger.info("Comisión detectada: %s/%s → %d docs", group, name, len(hits))
+                return hits[:self.top_k + 4]
 
-            def _search_store(s, tk) -> list[dict]:
-                if s is None:
-                    return []
-                try:
-                    return s.search_texts(question, top_k=tk) or []
-                except Exception:
-                    return []
+        # Búsqueda general
+        qn    = _norm(question)
+        dyn_k = TOP_K_WIDE if "comision" in qn else self.top_k
+        hits  = self._keyword_search(store, question, dyn_k)
 
-            if detected == self.camara or detected is None and self.store_alt is None:
-                # Solo store principal
-                hits = _search_store(self.store, dyn_top_k)
-            elif detected is not None and detected != self.camara and self.store_alt is not None:
-                # Solo store alternativo
-                hits = _search_store(self.store_alt, dyn_top_k)
-            else:
-                # Busca en ambos y combina
-                hits_main = _search_store(self.store,     dyn_top_k)
-                hits_alt  = _search_store(self.store_alt, dyn_top_k)
-                # Intercala: principal primero, luego alternativo
-                hits = hits_main + hits_alt
+        # Si no se especificó cámara y hay store_alt, combina
+        if self.store_alt and self._detect_chamber(question) is None:
+            alt = self._keyword_search(self.store_alt, question, dyn_k)
+            hits = sorted(hits + alt, key=lambda h: h.score, reverse=True)
 
-            # Ordena por score
-            hits.sort(key=lambda x: x.get("score", 0), reverse=True)
-            return hits[:dyn_top_k]
+        return hits[:dyn_k]
 
-        except Exception:
-            logger.exception("Error en _retrieve")
+    def _find_commission(self, store, question: str) -> Optional[Tuple[str, str]]:
+        """Encuentra la comisión que mejor matchea la pregunta."""
+        qn   = _norm(question)
+        repo = getattr(store, "data_repo_dir", None)
+        if not repo:
+            return None
+
+        best: Optional[Tuple[str, str]] = None
+        best_score = 0
+
+        for group in ("Permanentes", "Otras", "Unidas"):
+            gdir = os.path.join(repo, group)
+            if not os.path.isdir(gdir):
+                continue
+            for name in os.listdir(gdir):
+                if not os.path.isdir(os.path.join(gdir, name)):
+                    continue
+                words = [w for w in _norm(name).split() if len(w) >= 4]
+                if not words:
+                    continue
+                matched = sum(1 for w in words if w in qn)
+                if matched > 0 and (matched / len(words)) >= 0.4 and matched > best_score:
+                    best_score = matched
+                    best = (group, name)
+
+        return best
+
+    def _load_commission_docs(self, store, group: str, name: str) -> List[DocHit]:
+        """
+        Carga todos los documentos disponibles de una comisión.
+        Prioridad: transcripts > sesiones_detail JSONs > historial > integrantes > comision
+        """
+        repo = getattr(store, "data_repo_dir", "")
+        base = os.path.join(repo, group, name)
+        if not os.path.isdir(base):
             return []
 
-    def _collect_pdf_context(self, hits: list[dict]) -> tuple[list[dict], int]:
-        pdf_snippets: list[dict] = []
+        hits: List[DocHit] = []
+
+        # 1. Transcripciones — fuente más rica
+        for td_name in TRANSCRIPT_DIRS:
+            for td in [os.path.join(base, td_name),
+                       os.path.join(base, "sesiones_detail", td_name)]:
+                if not os.path.isdir(td):
+                    continue
+                txts = sorted(glob.glob(os.path.join(td, "*.txt")), reverse=True)
+                for p in txts[:MAX_TRANSCRIPTS]:
+                    text = _read_text(p)
+                    if text.strip():
+                        hits.append(DocHit(
+                            file=p, score=300,
+                            snippet=text[:MAX_SNIPPET],
+                            label=_human_label(p, repo, name),
+                        ))
+
+        # 2. sesiones_detail JSONs
+        sd = os.path.join(base, "sesiones_detail")
+        if os.path.isdir(sd):
+            jsons = sorted(glob.glob(os.path.join(sd, "*.json")), reverse=True)
+            for p in jsons[:MAX_JSONS]:
+                obj = _read_json(p)
+                if obj:
+                    hits.append(DocHit(
+                        file=p, score=200,
+                        snippet=json.dumps(obj, ensure_ascii=False)[:MAX_SNIPPET],
+                        label=_human_label(p, repo, name),
+                    ))
+
+        # 3. historial.csv completo
+        hist = os.path.join(base, "historial.csv")
+        if os.path.exists(hist):
+            rows = _read_csv(hist)
+            if rows:
+                hits.append(DocHit(
+                    file=hist, score=150,
+                    snippet=json.dumps(rows, ensure_ascii=False)[:MAX_SNIPPET],
+                    label=_human_label(hist, repo, name),
+                ))
+
+        # 4. integrantes.json
+        integ = os.path.join(base, "integrantes.json")
+        if os.path.exists(integ):
+            obj = _read_json(integ)
+            if obj:
+                hits.append(DocHit(
+                    file=integ, score=120,
+                    snippet=json.dumps(obj, ensure_ascii=False)[:MAX_SNIPPET],
+                    label=_human_label(integ, repo, name),
+                ))
+
+        # 5. comision.json
+        cj = os.path.join(base, "comision.json")
+        if os.path.exists(cj):
+            obj = _read_json(cj)
+            if obj:
+                hits.append(DocHit(
+                    file=cj, score=100,
+                    snippet=json.dumps(obj, ensure_ascii=False)[:500],
+                    label=_human_label(cj, repo, name),
+                ))
+
+        return hits
+
+    def _keyword_search(self, store, question: str, top_k: int) -> List[DocHit]:
+        """Búsqueda por score de palabras clave usando el datastore."""
+        try:
+            repo = getattr(store, "data_repo_dir", "")
+            raw  = store.search_texts(question, top_k=top_k) or []
+            hits = []
+            for r in raw:
+                p    = r.get("file", "")
+                comm = self._commission_from_path(p, repo)
+                hits.append(DocHit(
+                    file=p,
+                    score=r.get("score", 0),
+                    snippet=(r.get("snippet") or "")[:MAX_SNIPPET],
+                    label=_human_label(p, repo, comm),
+                ))
+            return hits
+        except Exception:
+            logger.exception("Error en keyword_search")
+            return []
+
+    def _commission_from_path(self, path: str, repo: str) -> str:
+        """Extrae nombre de comisión desde la ruta."""
+        try:
+            rel   = os.path.relpath(path, repo).replace("\\", "/")
+            parts = rel.split("/")
+            return parts[1] if len(parts) >= 2 else ""
+        except Exception:
+            return ""
+
+    # ─────────────────────────────────────────────────────────
+    # PDFs REMOTOS
+    # ─────────────────────────────────────────────────────────
+    def _fetch_remote_pdfs(self, hits: List[DocHit]) -> Tuple[List[dict], int]:
+        """Descarga PDFs referenciados en los hits (Citación, Cuenta, Acta)."""
+        pdf_hits: List[dict] = []
         fetched = 0
-        seen_urls: set[str] = set()
+        seen: set[str] = set()
+        url_keys = ("Citacion", "Cuenta", "Acta", "url", "pdf_url", "citacion")
 
-        url_fields = ("url", "citacion", "pdf_url", "Citacion", "Cuenta", "Acta")
         for h in hits:
-            snippet_text = h.get("snippet", "") or ""
-            candidates: list[str] = []
+            candidates: List[str] = []
+            try:
+                obj = json.loads(h.snippet)
+                items = [obj] if isinstance(obj, dict) else (obj[:50] if isinstance(obj, list) else [])
+                for item in items:
+                    if isinstance(item, dict):
+                        for k in url_keys:
+                            v = item.get(k, "")
+                            if isinstance(v, str) and v.startswith("http"):
+                                candidates.append(v)
+            except Exception:
+                pass
 
-            for f in url_fields:
-                v = h.get(f, "")
-                if v and isinstance(v, str) and v.startswith("http"):
-                    candidates.append(v)
-
-            found_urls = re.findall(r'https?://[^\s"\'<>]+\.pdf[^\s"\'<>]*', snippet_text, re.IGNORECASE)
-            candidates.extend(found_urls)
+            candidates += re.findall(
+                r'https?://[^\s"\'<>]+\.pdf[^\s"\'<>]*',
+                h.snippet, re.IGNORECASE,
+            )
 
             for url in candidates:
-                if url in seen_urls or fetched >= MAX_PDFS_FETCHED:
+                if fetched >= MAX_PDFS or url in seen:
                     continue
-                seen_urls.add(url)
-                text = _fetch_pdf_from_url(url)
+                seen.add(url)
+                text = _fetch_pdf(url)
                 if text.strip():
-                    pdf_snippets.append({"label": url.split("/")[-1][:60], "text": text[:MAX_SNIPPET_LEN], "url": url})
+                    pdf_hits.append({
+                        "label": url.split("/")[-1][:50],
+                        "text":  text[:MAX_SNIPPET],
+                        "url":   url,
+                    })
                     fetched += 1
 
-        return pdf_snippets, fetched
+        return pdf_hits, fetched
 
-    def _build_context(self, hits: list[dict], pdf_snippets: list[dict]) -> tuple[str, list[str]]:
-        sections: list[str] = []
-        source_paths: list[str] = []
-        self._ref_tags: list[str] = []
-
-        camara_label = "Senado" if self.camara == "senado" else "Cámara de Diputados"
+    # ─────────────────────────────────────────────────────────
+    # CONSTRUCCIÓN DE CONTEXTO Y PROMPT
+    # ─────────────────────────────────────────────────────────
+    def _build_context(
+        self,
+        hits: List[DocHit],
+        pdf_hits: List[dict],
+        chamber: str,
+    ) -> Tuple[str, List[str], List[str]]:
+        """Construye el bloque de contexto. Retorna (context, sources, ref_tags)."""
+        sections:  List[str] = []
+        sources:   List[str] = []
+        ref_tags:  List[str] = []
+        cam_label  = "Senado" if chamber == "senado" else "Cámara de Diputados"
 
         for i, h in enumerate(hits, 1):
-            file_path = h.get("file", "")
-            label = _short_label(file_path, self.store)
-            snippet = (h.get("snippet") or "")[:MAX_SNIPPET_LEN].strip()
+            label = h.label or f"Documento {i}"
+            sections.append(f"[{cam_label} · {label}]\n{h.snippet.strip()}")
+            sources.append(h.file)
+            ref_tags.append(_ref_tag(label, h.file))
 
-            sections.append(f"[{camara_label} · Doc {i}: {label}]\n{snippet}")
-            source_paths.append(file_path)
-
-            api_url = "/api/file?path=" + urllib.parse.quote(file_path)
-            self._ref_tags.append(_ref_link(label, api_url))
-
-        for j, p in enumerate(pdf_snippets, 1):
-            sections.append(f"[PDF {j}: {p.get('label','')}]\n{p.get('text','').strip()}")
+        for p in pdf_hits:
+            label = f"PDF · {p.get('label', '')}"
+            sections.append(f"[{cam_label} · {label}]\n{p.get('text','').strip()}")
             url = p.get("url", "")
             if url:
-                source_paths.append(url)
-                self._ref_tags.append(_ref_link(f"PDF · {p.get('label','')}", url))
+                sources.append(url)
+                ref_tags.append(f"[[REF:{label}:{url}]]")
 
-        return "\n\n---\n\n".join(sections), source_paths
+        divider = "\n\n" + "─" * 60 + "\n\n"
+        context = divider.join(sections)
+        return context, sources, ref_tags
 
-    def _build_prompt(self, question: str, context: str) -> str:
-        camara_label = "el Senado de Chile" if self.camara == "senado" else "la Cámara de Diputados de Chile"
+    def _build_prompt(self, question: str, context: str, chamber: str) -> str:
+        cam_label = "el Senado de Chile" if chamber == "senado" else "la Cámara de Diputados de Chile"
+        bar = "═" * 60
         return (
             f"{SYSTEM_PROMPT}\n\n"
-            f"CÁMARA CONSULTADA: {camara_label}\n\n"
-            f"PREGUNTA: {question}\n\n"
-            f"CONTEXTO DOCUMENTAL ({camara_label}):\n{context}\n\n"
-            f"RESPUESTA (resume el contenido con claridad — NO menciones rutas, nombres de archivo ni paths):"
+            f"{bar}\n"
+            f"CÁMARA: {cam_label}\n"
+            f"PREGUNTA: {question}\n"
+            f"{bar}\n\n"
+            f"CONTEXTO DOCUMENTAL:\n{context}\n\n"
+            f"{bar}\n"
+            f"RESPUESTA (basada exclusivamente en el contexto):\n"
         )
 
-    def _generate_with_retry(self, prompt: str) -> tuple[str, Optional[str]]:
-        last_error: Optional[Exception] = None
+    # ─────────────────────────────────────────────────────────
+    # GENERACIÓN CON GEMINI
+    # ─────────────────────────────────────────────────────────
+    def _generate(self, prompt: str) -> Tuple[str, Optional[str]]:
+        last_err = None
         for attempt in range(1, MAX_RETRIES + 1):
             try:
-                resp = self.client.models.generate_content(model=self.model, contents=prompt)
+                resp = self.client.models.generate_content(
+                    model=self.model, contents=prompt
+                )
                 text = (getattr(resp, "text", "") or "").strip()
                 if not text:
                     return "El modelo no generó respuesta. Reformule la pregunta.", "empty_response"
-                logger.info("Respuesta recibida (intento %d, %d chars)", attempt, len(text))
+                logger.info("Respuesta OK — intento %d, %d chars", attempt, len(text))
                 return text, None
 
             except genai_errors.APIError as exc:
                 status = getattr(exc, "code", None) or getattr(exc, "status_code", None)
-                logger.warning("APIError intento %d status=%s detail=%r", attempt, status, str(exc))
-
-                if status in (400, 401, 403):
-                    return self._api_error_message(exc, status), f"api_error_{status}"
+                logger.warning("APIError intento %d — status=%s", attempt, status)
+                if status == 400:
+                    return "Solicitud inválida. Reformule la pregunta.", "api_400"
+                if status in (401, 403):
+                    return (
+                        "Error de autenticación con Gemini. "
+                        "Verifique GEMINI_API_KEY en Vercel.",
+                        "api_auth",
+                    )
                 if status == 429:
-                    return "Límite de cuota/rate limit (429). Intente nuevamente en unos segundos.", "api_error_429"
-
-                last_error = exc
+                    return "Límite de cuota alcanzado (429). Intente en unos segundos.", "api_429"
+                last_err = exc
 
             except Exception as exc:
-                logger.exception("Error inesperado intento %d: %r", attempt, exc)
-                last_error = exc
+                logger.exception("Error inesperado intento %d", attempt)
+                last_err = exc
 
             if attempt < MAX_RETRIES:
-                time.sleep(RETRY_DELAY_SEC * (2 ** (attempt - 1)))
+                time.sleep(RETRY_BASE * (2 ** (attempt - 1)))
 
-        msg = f"El servicio de IA no está disponible. Último error: {type(last_error).__name__}: {last_error}"
-        return msg, "max_retries_exceeded"
+        return (
+            f"El servicio de IA no responde tras {MAX_RETRIES} intentos. "
+            f"Error: {type(last_err).__name__}.",
+            "max_retries",
+        )
 
-    @staticmethod
-    def _api_error_message(exc: Exception, status: Optional[int]) -> str:
-        if status == 400:
-            return "Solicitud inválida. Reformule la pregunta."
-        if status in (401, 403):
-            return "Error de autenticación. Verifique que GEMINI_API_KEY sea válida y esté activa en Vercel."
-        return f"Error del servicio de IA (código {status}). Intente más tarde."
+    # ─────────────────────────────────────────────────────────
+    # HANDLERS DE INVENTARIO (SIN IA)
+    # ─────────────────────────────────────────────────────────
+    def _handle_list_commissions(self) -> AgentResponse:
+        """Lista todas las comisiones sin llamar a Gemini."""
+        cam_label = "Senado" if self.camara == "senado" else "Cámara de Diputados"
+        result: Dict[str, List[str]] = {}
+
+        for group in ("Permanentes", "Otras", "Unidas"):
+            try:
+                rows  = self.store.list_commissions(group)
+                names = sorted(
+                    r.get("commission_name") or r.get("nombre") or str(r)
+                    for r in (rows or [])
+                )
+                if names:
+                    result[group] = names
+            except Exception:
+                repo = getattr(self.store, "data_repo_dir", "")
+                gdir = os.path.join(repo, group)
+                if os.path.isdir(gdir):
+                    names = sorted(
+                        n for n in os.listdir(gdir)
+                        if os.path.isdir(os.path.join(gdir, n))
+                    )
+                    if names:
+                        result[group] = names
+
+        if not result:
+            return AgentResponse(
+                answer=f"No encontré comisiones en el repositorio del {cam_label}.",
+                chamber_used=self.camara,
+            )
+
+        total = sum(len(v) for v in result.values())
+        lines = [f"**Comisiones disponibles — {cam_label}** ({total} en total)\n"]
+        for group, names in result.items():
+            lines.append(f"\n**{group}** ({len(names)})")
+            for n in names:
+                lines.append(f"- {n}")
+
+        return AgentResponse(
+            answer="\n".join(lines),
+            hits_found=total,
+            chamber_used=self.camara,
+        )
+
+    def _handle_commission_inventory(self, question: str) -> AgentResponse:
+        """Cuenta documentos disponibles de una comisión específica."""
+        cam_label  = "Senado" if self.camara == "senado" else "Cámara de Diputados"
+        commission = self._find_commission(self.store, question)
+
+        if not commission:
+            return AgentResponse(
+                answer=(
+                    "No identifiqué una comisión específica en tu pregunta. "
+                    "Menciona su nombre completo, por ejemplo: 'Comisión de Salud'."
+                ),
+                chamber_used=self.camara,
+            )
+
+        group, name = commission
+        repo = getattr(self.store, "data_repo_dir", "")
+        base = os.path.join(repo, group, name)
+
+        n_transcripts = 0
+        for td_name in TRANSCRIPT_DIRS:
+            for td in [os.path.join(base, td_name),
+                       os.path.join(base, "sesiones_detail", td_name)]:
+                if os.path.isdir(td):
+                    n_transcripts += len(glob.glob(os.path.join(td, "*.txt")))
+
+        n_jsons = 0
+        sd = os.path.join(base, "sesiones_detail")
+        if os.path.isdir(sd):
+            n_jsons = len(glob.glob(os.path.join(sd, "*.json")))
+
+        n_sessions = 0
+        hist = os.path.join(base, "historial.csv")
+        if os.path.exists(hist):
+            n_sessions = len(_read_csv(hist))
+
+        total_content = n_transcripts + n_jsons
+        lines = [
+            f"**Inventario — {cam_label}**",
+            f"**Comisión:** {name} ({group})\n",
+            f"- Transcripciones disponibles: **{n_transcripts}**",
+            f"- Registros de sesión (JSON): **{n_jsons}**",
+            f"- Sesiones en historial: **{n_sessions}**",
+            f"\n_Documentos con contenido legible: {total_content}_",
+        ]
+
+        if total_content == 0:
+            lines.append(
+                "\n⚠️ Esta comisión no tiene transcripciones ni detalles de sesión disponibles. "
+                "Solo se puede consultar el historial y la nómina de integrantes."
+            )
+
+        return AgentResponse(
+            answer="\n".join(lines),
+            chamber_used=self.camara,
+        )
