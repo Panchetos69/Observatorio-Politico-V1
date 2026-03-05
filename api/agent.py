@@ -63,16 +63,23 @@ logger = logging.getLogger(__name__)
 MODEL           = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 TOP_K           = int(os.getenv("RAG_TOP_K",      "8"))
 TOP_K_WIDE      = int(os.getenv("RAG_TOP_K_WIDE", "20"))
-MAX_SNIPPET          = 3_500   # chars por documento genérico en el contexto
-MAX_TRANSCRIPT_SNIPPET = 8_000  # chars por transcripción (fuente más rica)
-MAX_HIST_SNIPPET     = 10_000  # chars para historial.csv (necesita más para no perder URLs)
-MAX_PDF_CHARS        = 6_000   # chars extraídos de un documento remoto (PDF o HTML)
-MAX_PDFS             = 5       # documentos remotos máximo por consulta
-MAX_TRANSCRIPTS      = 12      # transcripts locales máximo por comisión (antes: 8)
-MAX_JSONS            = 8       # JSONs de sesión máximo por comisión (antes: 6)
-PDF_TIMEOUT          = 25      # segundos
-MAX_RETRIES          = 3
-RETRY_BASE           = 2.0     # segundos base para backoff
+MAX_SNIPPET            = 3_500    # chars por documento genérico en el contexto
+MAX_TRANSCRIPT_SNIPPET = 8_000    # chars por transcripción en modo normal
+MAX_TRANSCRIPT_LONG    = 60_000   # chars máximos que leemos de una transcripción larga
+MAX_HIST_SNIPPET       = 10_000   # chars para historial.csv
+MAX_PDF_CHARS          = 6_000    # chars extraídos de un documento remoto
+MAX_PDFS               = 5        # documentos remotos máximo por consulta
+MAX_TRANSCRIPTS        = 12       # transcripts locales máximo por comisión
+MAX_JSONS              = 8        # JSONs de sesión máximo por comisión
+PDF_TIMEOUT            = 25       # segundos
+MAX_RETRIES            = 3
+RETRY_BASE             = 2.0      # segundos base para backoff
+
+# Tokens de salida para Gemini
+# gemini-2.5-flash soporta hasta 65.536 output tokens
+MAX_OUTPUT_TOKENS_SUMMARY = 16_000   # para resúmenes / sesiones específicas
+MAX_OUTPUT_TOKENS_DEFAULT =  8_000   # para preguntas generales
+CHUNK_SIZE                = 18_000   # chars por chunk cuando transcripción > MAX_TRANSCRIPT_SNIPPET
 
 # Dominios legislativos conocidos — se descargan aunque no sean .pdf
 LEGISLATIVE_DOMAINS = (
@@ -481,21 +488,86 @@ class LegislativeAgent:
                 chamber_used=chamber,
             )
 
-        context, sources, ref_tags = self._build_context(hits, pdf_hits, chamber)
-        prompt = self._build_prompt(question, context, chamber)
-        answer, error = self._generate(prompt)
+        # ── Chunking inteligente para transcripciones largas ─
+        # Si el hit de mayor prioridad es una transcripción muy larga,
+        # la procesamos en partes en vez de truncarla.
+        answer, error = self._try_chunked_summary(hits, question, chamber)
 
-        if ref_tags and not error:
-            answer = answer.rstrip() + "\n\n" + " ".join(ref_tags)
+        if answer is None:
+            # Flujo normal: contexto compacto → un solo llamado a Gemini
+            context, sources, ref_tags = self._build_context(hits, pdf_hits, chamber)
+            prompt = self._build_prompt(question, context, chamber)
+            answer, error = self._generate(prompt, question)
+            sources_final  = sources
+            ref_tags_final = ref_tags
+        else:
+            sources_final  = [h.file for h in hits]
+            ref_tags_final = [_ref_tag(h.label or h.file, h.file) for h in hits]
+
+        if ref_tags_final and not error:
+            answer = answer.rstrip() + "\n\n" + " ".join(ref_tags_final)
 
         return AgentResponse(
             answer=answer,
-            sources=sources,
+            sources=sources_final,
             hits_found=len(hits),
             pdfs_fetched=n_pdfs,
             chamber_used=chamber,
             error=error,
         )
+
+    def _try_chunked_summary(
+        self,
+        hits: List[DocHit],
+        question: str,
+        chamber: str,
+    ) -> Tuple[Optional[str], Optional[str]]:
+        """
+        Si hay transcripciones largas (> CHUNK_SIZE chars) y la pregunta pide
+        un resumen/análisis, activa el pipeline de chunking.
+        Retorna (answer, error) o (None, None) si no aplica.
+        """
+        q = _norm(question)
+        is_summary_request = any(w in q for w in (
+            "resumen", "resume", "resumir", "que se hablo", "que trato",
+            "que discutio", "que paso", "informe", "detalle", "explica",
+            "ultima", "ultimo", "sesion", "transcripcion", "analiza",
+        ))
+        if not is_summary_request:
+            return None, None
+
+        # Buscar el transcript de mayor score que sea largo
+        for h in hits:
+            if h.score < 200:   # Solo transcripts/JSONs con alta prioridad
+                continue
+            # Leer el archivo completo para ver si es largo
+            if not h.file.endswith(".txt"):
+                continue
+            try:
+                full_text = _read_text(h.file)
+            except Exception:
+                continue
+
+            if len(full_text) <= CHUNK_SIZE:
+                continue  # No es necesario chunkear
+
+            # Extraer nombre de comisión y sesión del path para el prompt
+            parts = h.file.replace("\\", "/").split("/")
+            commission_name = next(
+                (parts[i] for i, p in enumerate(parts) if "comis" in p.lower()),
+                h.label or "comisión"
+            )
+            session_label = h.label or os.path.splitext(os.path.basename(h.file))[0]
+
+            logger.info(
+                "Chunking activado: %s (%d chars)", h.file, len(full_text)
+            )
+            answer = self._summarize_long_transcript(
+                full_text, commission_name, session_label, question
+            )
+            return answer, None
+
+        return None, None
 
     # ─────────────────────────────────────────────────────────
     # SELECCIÓN DE STORE / CÁMARA
@@ -888,17 +960,25 @@ class LegislativeAgent:
     # ─────────────────────────────────────────────────────────
     # GENERACIÓN CON GEMINI
     # ─────────────────────────────────────────────────────────
-    def _generate(self, prompt: str) -> Tuple[str, Optional[str]]:
+    def _call_gemini(self, prompt: str, max_output_tokens: int) -> Tuple[str, Optional[str]]:
+        """Llamada base a Gemini con control de tokens de salida y reintentos."""
+        from google.genai import types as genai_types
         last_err = None
         for attempt in range(1, MAX_RETRIES + 1):
             try:
                 resp = self.client.models.generate_content(
-                    model=self.model, contents=prompt
+                    model=self.model,
+                    contents=prompt,
+                    config=genai_types.GenerateContentConfig(
+                        max_output_tokens=max_output_tokens,
+                        temperature=0.2,       # más determinista para análisis legislativo
+                    ),
                 )
                 text = (getattr(resp, "text", "") or "").strip()
                 if not text:
                     return "El modelo no generó respuesta. Reformule la pregunta.", "empty_response"
-                logger.info("Respuesta OK — intento %d, %d chars", attempt, len(text))
+                logger.info("Respuesta OK — intento %d, %d chars, tokens_out=%d",
+                            attempt, len(text), max_output_tokens)
                 return text, None
 
             except genai_errors.APIError as exc:
@@ -928,6 +1008,93 @@ class LegislativeAgent:
             f"Error: {type(last_err).__name__}.",
             "max_retries",
         )
+
+    def _summarize_long_transcript(
+        self,
+        full_text: str,
+        commission_name: str,
+        session_label: str,
+        question: str,
+    ) -> str:
+        """
+        Cuando una transcripción supera CHUNK_SIZE chars, la divide en chunks,
+        resume cada uno por separado, y combina los resúmenes parciales en uno
+        final exhaustivo.  Esto evita que Gemini comprima por falta de espacio.
+        """
+        chunks = []
+        start  = 0
+        while start < len(full_text):
+            end = start + CHUNK_SIZE
+            # Cortar en salto de línea para no partir intervenciones
+            if end < len(full_text):
+                cut = full_text.rfind("\n", start, end)
+                end = cut if cut > start else end
+            chunks.append(full_text[start:end].strip())
+            start = end
+
+        logger.info("Transcripción larga: %d chars → %d chunks", len(full_text), len(chunks))
+
+        partial_summaries = []
+        for i, chunk in enumerate(chunks, 1):
+            chunk_prompt = (
+                f"Eres LEXIA, analista legislativo del Observatorio Político Chile.\n"
+                f"Estás procesando la PARTE {i} de {len(chunks)} de la transcripción de:\n"
+                f"  Comisión: {commission_name}\n"
+                f"  Sesión:   {session_label}\n\n"
+                f"PREGUNTA ORIGINAL DEL USUARIO: {question}\n\n"
+                f"INSTRUCCIONES:\n"
+                f"- Resume EXHAUSTIVAMENTE esta parte de la transcripción.\n"
+                f"- Incluye: todos los temas tratados, quién habló, qué propuso cada uno,\n"
+                f"  cifras o datos mencionados, acuerdos parciales, votaciones si las hay.\n"
+                f"- NO omitas ningún tema aunque parezca menor.\n"
+                f"- NO menciones que es una parte parcial; escribe en tercera persona.\n\n"
+                f"TRANSCRIPCIÓN (parte {i}/{len(chunks)}):\n{chunk}\n\n"
+                f"RESUMEN EXHAUSTIVO DE ESTA PARTE:\n"
+            )
+            partial, err = self._call_gemini(chunk_prompt, MAX_OUTPUT_TOKENS_SUMMARY)
+            if not err:
+                partial_summaries.append(f"### Bloque {i}\n{partial}")
+            else:
+                logger.warning("Error en chunk %d: %s", i, err)
+                partial_summaries.append(f"### Bloque {i}\n[Error al procesar esta sección]")
+
+        # Síntesis final de todos los parciales
+        synthesis_prompt = (
+            f"Eres LEXIA, analista legislativo del Observatorio Político Chile.\n"
+            f"Tienes {len(chunks)} resúmenes parciales de la transcripción completa de:\n"
+            f"  Comisión: {commission_name}\n"
+            f"  Sesión:   {session_label}\n\n"
+            f"PREGUNTA ORIGINAL DEL USUARIO: {question}\n\n"
+            f"INSTRUCCIONES:\n"
+            f"- Redacta un RESUMEN EJECUTIVO FINAL unificado y exhaustivo.\n"
+            f"- Estructura la respuesta con estas secciones:\n"
+            f"  1. Resumen general de la sesión\n"
+            f"  2. Temas tratados (uno por uno, con detalle)\n"
+            f"  3. Principales intervenciones y posiciones\n"
+            f"  4. Acuerdos, votaciones y conclusiones\n"
+            f"- No repitas información entre secciones.\n"
+            f"- No menciones 'bloque', 'parte' ni 'chunk'.\n"
+            f"- Sé riguroso, formal y sin sesgos políticos.\n\n"
+            f"RESÚMENES PARCIALES:\n\n"
+            + "\n\n".join(partial_summaries)
+            + "\n\nRESUMEN EJECUTIVO FINAL:\n"
+        )
+        final, err = self._call_gemini(synthesis_prompt, MAX_OUTPUT_TOKENS_SUMMARY)
+        return final if not err else "\n\n".join(partial_summaries)
+
+    def _generate(self, prompt: str, question: str = "") -> Tuple[str, Optional[str]]:
+        """
+        Decide cuántos tokens de salida pedir según el tipo de pregunta,
+        y delega en _call_gemini.
+        """
+        q = _norm(question)
+        is_summary = any(w in q for w in (
+            "resumen", "resume", "resumir", "que se hablo", "que trato",
+            "que discutio", "que paso", "informe", "detalle", "explica",
+            "ultima", "ultimo", "sesion", "transcripcion",
+        ))
+        max_tok = MAX_OUTPUT_TOKENS_SUMMARY if is_summary else MAX_OUTPUT_TOKENS_DEFAULT
+        return self._call_gemini(prompt, max_tok)
 
     # ─────────────────────────────────────────────────────────
     # HANDLERS DE INVENTARIO (SIN IA)
