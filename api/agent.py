@@ -42,6 +42,7 @@ import time
 import unicodedata
 import urllib.parse
 from dataclasses import dataclass, field
+from datetime import datetime
 from typing import Any, Dict, List, Optional, Tuple
 
 import httpx
@@ -62,15 +63,16 @@ logger = logging.getLogger(__name__)
 MODEL           = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 TOP_K           = int(os.getenv("RAG_TOP_K",      "8"))
 TOP_K_WIDE      = int(os.getenv("RAG_TOP_K_WIDE", "20"))
-MAX_SNIPPET     = 2_500   # chars por documento en el contexto (transcripts/JSONs)
-MAX_HIST_SNIPPET = 10_000  # chars para historial.csv (necesita más para no perder URLs)
-MAX_PDF_CHARS   = 6_000   # chars extraídos de un documento remoto (PDF o HTML)
-MAX_PDFS        = 5       # documentos remotos máximo por consulta (antes: 3)
-MAX_TRANSCRIPTS = 8       # transcripts locales máximo por comisión
-MAX_JSONS       = 6       # JSONs de sesión máximo por comisión
-PDF_TIMEOUT     = 25      # segundos (subido de 20)
-MAX_RETRIES     = 3
-RETRY_BASE      = 2.0     # segundos base para backoff
+MAX_SNIPPET          = 3_500   # chars por documento genérico en el contexto
+MAX_TRANSCRIPT_SNIPPET = 8_000  # chars por transcripción (fuente más rica)
+MAX_HIST_SNIPPET     = 10_000  # chars para historial.csv (necesita más para no perder URLs)
+MAX_PDF_CHARS        = 6_000   # chars extraídos de un documento remoto (PDF o HTML)
+MAX_PDFS             = 5       # documentos remotos máximo por consulta
+MAX_TRANSCRIPTS      = 12      # transcripts locales máximo por comisión (antes: 8)
+MAX_JSONS            = 8       # JSONs de sesión máximo por comisión (antes: 6)
+PDF_TIMEOUT          = 25      # segundos
+MAX_RETRIES          = 3
+RETRY_BASE           = 2.0     # segundos base para backoff
 
 # Dominios legislativos conocidos — se descargan aunque no sean .pdf
 LEGISLATIVE_DOMAINS = (
@@ -107,6 +109,19 @@ REGLAS ABSOLUTAS:
    Si es sobre Diputados, responde SOLO con datos de Diputados.
 9. Si hay transcripciones disponibles, úsalas como fuente principal —
    contienen el debate real y son el documento más valioso.
+
+INSTRUCCIONES DE CALIDAD:
+- Si la pregunta pide un resumen o información sobre una sesión, debes ser
+  EXHAUSTIVO: incluye todos los temas tratados, los participantes que intervinieron,
+  los acuerdos alcanzados, las votaciones si las hubo, y cualquier detalle relevante.
+  Un buen resumen ejecutivo tiene al menos 300-500 palabras.
+- Si la pregunta menciona una fecha específica (ej: "3 de marzo", "15 de enero"),
+  enfoca tu respuesta EXCLUSIVAMENTE en la sesión o documento de esa fecha.
+  Si no hay información de esa fecha exacta en el contexto, dilo claramente.
+- Si la pregunta pide la "última sesión" o "sesión más reciente", identifica
+  la sesión con la fecha más reciente en el contexto y enfócate en ella.
+- Cuando respondas sobre una sesión específica, siempre indica: fecha, número
+  de sesión si está disponible, temas tratados, y conclusiones o acuerdos.
 """
 
 
@@ -156,6 +171,65 @@ def _score_query(query: str, text: str) -> int:
     if len(words) > 1 and _norm(query) in text_n:
         score += 15
     return score
+
+
+# Meses en español para parseo de fechas en lenguaje natural
+_MESES = {
+    "enero": "01", "febrero": "02", "marzo": "03", "abril": "04",
+    "mayo": "05", "junio": "06", "julio": "07", "agosto": "08",
+    "septiembre": "09", "octubre": "10", "noviembre": "11", "diciembre": "12",
+}
+
+def _extract_date_from_query(question: str) -> Optional[str]:
+    """
+    Intenta extraer una fecha mencionada en la pregunta.
+    Soporta:
+      · "3 de marzo", "15 de enero de 2025"
+      · "2025-03-03", "03-03-2025", "03/03/2025"
+    Retorna string en formato YYYY-MM-DD o None.
+    """
+    q = question.lower().strip()
+
+    # Formato numérico: YYYY-MM-DD
+    m = re.search(r'\b(20\d{2})[/-](\d{1,2})[/-](\d{1,2})\b', q)
+    if m:
+        return f"{m.group(1)}-{int(m.group(2)):02d}-{int(m.group(3)):02d}"
+
+    # Formato numérico: DD-MM-YYYY o DD/MM/YYYY
+    m = re.search(r'\b(\d{1,2})[/-](\d{1,2})[/-](20\d{2})\b', q)
+    if m:
+        return f"{m.group(3)}-{int(m.group(2)):02d}-{int(m.group(1)):02d}"
+
+    # Formato natural: "3 de marzo [de 2025]"
+    pattern = (
+        r'\b(\d{1,2})\s+de\s+('
+        + "|".join(_MESES.keys())
+        + r')(?:\s+de\s+(20\d{2}))?\b'
+    )
+    m = re.search(pattern, q)
+    if m:
+        day   = int(m.group(1))
+        month = _MESES[m.group(2)]
+        year  = m.group(3) or str(datetime.now().year)
+        return f"{year}-{month}-{day:02d}"
+
+    return None
+
+
+def _date_matches_text(date_str: str, text: str) -> bool:
+    """True si la fecha aparece en el texto (varios formatos)."""
+    try:
+        y, mo, d = date_str.split("-")
+        patterns = [
+            date_str,                        # 2025-03-03
+            f"{d}-{mo}-{y}",                 # 03-03-2025
+            f"{d}/{mo}/{y}",                 # 03/03/2025
+            f"{int(d)} de {[k for k,v in _MESES.items() if v == mo][0]}",  # 3 de marzo
+        ]
+        text_l = text.lower()
+        return any(p in text_l for p in patterns)
+    except Exception:
+        return False
 
 
 # ══════════════════════════════════════════════════════════════
@@ -450,16 +524,32 @@ class LegislativeAgent:
     # ─────────────────────────────────────────────────────────
     def _retrieve(self, question: str, store) -> List[DocHit]:
         """
-        Estrategia 1: comisión específica detectada → carga TODO su contenido.
+        Estrategia 1: comisión específica detectada → carga su contenido,
+                      filtrando por fecha si la pregunta la menciona.
         Estrategia 2: búsqueda general por score en todo el repositorio.
         """
+        target_date  = _extract_date_from_query(question)
+        ask_latest   = any(w in _norm(question) for w in (
+            "ultima", "último", "última", "reciente", "mas reciente",
+            "última sesion", "sesion anterior", "anterior",
+        ))
+
         commission = self._find_commission(store, question)
         if commission:
             group, name = commission
-            hits = self._load_commission_docs(store, group, name)
+            hits = self._load_commission_docs(
+                store, group, name,
+                target_date=target_date,
+                ask_latest=ask_latest,
+            )
             if hits:
-                logger.info("Comisión detectada: %s/%s → %d docs", group, name, len(hits))
-                return hits[:self.top_k + 4]
+                logger.info(
+                    "Comisión detectada: %s/%s → %d docs (fecha=%s, latest=%s)",
+                    group, name, len(hits), target_date, ask_latest,
+                )
+                # Devolver MÁS docs cuando hay fecha o piden última sesión
+                limit = self.top_k + 4 if not (target_date or ask_latest) else 20
+                return hits[:limit]
 
         # Búsqueda general
         qn    = _norm(question)
@@ -500,59 +590,96 @@ class LegislativeAgent:
 
         return best
 
-    def _load_commission_docs(self, store, group: str, name: str) -> List[DocHit]:
+    def _load_commission_docs(
+        self,
+        store,
+        group: str,
+        name:  str,
+        target_date: Optional[str] = None,
+        ask_latest:  bool = False,
+    ) -> List[DocHit]:
         """
-        Carga todos los documentos disponibles de una comisión.
-        Prioridad: transcripts > sesiones_detail JSONs > historial > integrantes > comision
+        Carga documentos de una comisión.
+
+        Mejoras respecto a la versión anterior:
+        · Si target_date está presente, prioriza transcripts y JSONs de esa fecha.
+        · Si ask_latest=True, ordena transcripts/JSONs por nombre desc (ID mayor = más reciente).
+        · Snippets de transcripts ampliados a MAX_TRANSCRIPT_SNIPPET (8k chars).
+        · Siempre incluye historial completo para que Gemini tenga la línea temporal.
         """
         repo = getattr(store, "data_repo_dir", "")
         base = os.path.join(repo, group, name)
         if not os.path.isdir(base):
             return []
 
-        hits: List[DocHit] = []
+        hits:          List[DocHit] = []
+        priority_hits: List[DocHit] = []  # Hits que coinciden con la fecha buscada
 
-        # 1. Transcripciones — fuente más rica
+        # ── 1. Recolectar TODOS los transcripts disponibles ────────────────
+        all_txts: List[str] = []
         for td_name in TRANSCRIPT_DIRS:
             for td in [os.path.join(base, td_name),
                        os.path.join(base, "sesiones_detail", td_name)]:
-                if not os.path.isdir(td):
-                    continue
-                txts = sorted(glob.glob(os.path.join(td, "*.txt")), reverse=True)
-                for p in txts[:MAX_TRANSCRIPTS]:
-                    text = _read_text(p)
-                    if text.strip():
-                        hits.append(DocHit(
-                            file=p, score=300,
-                            snippet=text[:MAX_SNIPPET],
-                            label=_human_label(p, repo, name),
-                        ))
+                if os.path.isdir(td):
+                    all_txts.extend(glob.glob(os.path.join(td, "*.txt")))
 
-        # 2. sesiones_detail JSONs
+        # Ordenar: nombre desc (ID mayor = sesión más reciente)
+        all_txts = sorted(set(all_txts), reverse=True)
+
+        for p in all_txts[:MAX_TRANSCRIPTS]:
+            text = _read_text(p)
+            if not text.strip():
+                continue
+            doc = DocHit(
+                file=p, score=300,
+                snippet=text[:MAX_TRANSCRIPT_SNIPPET],
+                label=_human_label(p, repo, name),
+            )
+            # Si hay fecha buscada y este transcript la menciona → prioridad máxima
+            if target_date and _date_matches_text(target_date, text):
+                doc.score = 1000
+                priority_hits.append(doc)
+            else:
+                hits.append(doc)
+
+        # ── 2. sesiones_detail JSONs ───────────────────────────────────────
         sd = os.path.join(base, "sesiones_detail")
         if os.path.isdir(sd):
-            jsons = sorted(glob.glob(os.path.join(sd, "*.json")), reverse=True)
-            for p in jsons[:MAX_JSONS]:
+            all_jsons = sorted(glob.glob(os.path.join(sd, "*.json")), reverse=True)
+            for p in all_jsons[:MAX_JSONS]:
                 obj = _read_json(p)
-                if obj:
-                    hits.append(DocHit(
-                        file=p, score=200,
-                        snippet=json.dumps(obj, ensure_ascii=False)[:MAX_SNIPPET],
-                        label=_human_label(p, repo, name),
-                    ))
+                if not obj:
+                    continue
+                text = json.dumps(obj, ensure_ascii=False)
+                doc = DocHit(
+                    file=p, score=200,
+                    snippet=text[:MAX_SNIPPET],
+                    label=_human_label(p, repo, name),
+                )
+                if target_date and _date_matches_text(target_date, text):
+                    doc.score = 900
+                    priority_hits.append(doc)
+                else:
+                    hits.append(doc)
 
-        # 3. historial.csv completo — snippet ampliado para no perder URLs
+        # ── 3. historial.csv completo (siempre incluido) ───────────────────
         hist = os.path.join(base, "historial.csv")
         if os.path.exists(hist):
             rows = _read_csv(hist)
             if rows:
+                # Si hay fecha buscada, filtrar solo filas de esa fecha para el snippet
+                if target_date:
+                    matching = [r for r in rows if _date_matches_text(target_date, json.dumps(r))]
+                    snippet_rows = matching if matching else rows
+                else:
+                    snippet_rows = rows
                 hits.append(DocHit(
                     file=hist, score=150,
-                    snippet=json.dumps(rows, ensure_ascii=False)[:MAX_HIST_SNIPPET],
+                    snippet=json.dumps(snippet_rows, ensure_ascii=False)[:MAX_HIST_SNIPPET],
                     label=_human_label(hist, repo, name),
                 ))
 
-        # 4. integrantes.json
+        # ── 4. integrantes.json ────────────────────────────────────────────
         integ = os.path.join(base, "integrantes.json")
         if os.path.exists(integ):
             obj = _read_json(integ)
@@ -563,7 +690,7 @@ class LegislativeAgent:
                     label=_human_label(integ, repo, name),
                 ))
 
-        # 5. comision.json
+        # ── 5. comision.json ───────────────────────────────────────────────
         cj = os.path.join(base, "comision.json")
         if os.path.exists(cj):
             obj = _read_json(cj)
@@ -574,7 +701,12 @@ class LegislativeAgent:
                     label=_human_label(cj, repo, name),
                 ))
 
-        return hits
+        # ── Combinar: prioridad primero, luego el resto ────────────────────
+        # Si pedimos "última sesión" y no hay fecha específica, el orden desc
+        # ya garantiza que los primeros hits son los más recientes.
+        all_hits = priority_hits + hits
+        all_hits.sort(key=lambda h: h.score, reverse=True)
+        return all_hits
 
     def _keyword_search(self, store, question: str, top_k: int) -> List[DocHit]:
         """Búsqueda por score de palabras clave usando el datastore."""
@@ -714,17 +846,43 @@ class LegislativeAgent:
         return context, sources, ref_tags
 
     def _build_prompt(self, question: str, context: str, chamber: str) -> str:
-        cam_label = "el Senado de Chile" if chamber == "senado" else "la Cámara de Diputados de Chile"
+        cam_label   = "el Senado de Chile" if chamber == "senado" else "la Cámara de Diputados de Chile"
+        target_date = _extract_date_from_query(question)
         bar = "═" * 60
+
+        # Instrucción extra según el tipo de pregunta
+        extra = ""
+        if target_date:
+            extra = (
+                f"\n⚠️  INSTRUCCIÓN ESPECIAL: La pregunta menciona la fecha {target_date}. "
+                f"Enfoca tu respuesta EXCLUSIVAMENTE en los documentos que correspondan "
+                f"a esa fecha. Si hay transcripción de esa sesión, úsala como fuente "
+                f"principal y extrae todos los detalles posibles: temas, participantes, "
+                f"votaciones y conclusiones.\n"
+            )
+        elif any(w in _norm(question) for w in ("ultima", "ultimo", "reciente", "anterior")):
+            extra = (
+                "\n⚠️  INSTRUCCIÓN ESPECIAL: La pregunta pide información sobre la sesión "
+                "más reciente. Identifica la sesión con la fecha más alta en el contexto "
+                "y elabora un resumen exhaustivo de ella.\n"
+            )
+        else:
+            extra = (
+                "\n⚠️  INSTRUCCIÓN DE CALIDAD: Sé exhaustivo. Si tienes transcripciones, "
+                "extrae todos los temas tratados, quién intervino y qué se acordó. "
+                "Un buen resumen tiene al menos 300 palabras.\n"
+            )
+
         return (
             f"{SYSTEM_PROMPT}\n\n"
             f"{bar}\n"
             f"CÁMARA: {cam_label}\n"
             f"PREGUNTA: {question}\n"
+            f"{extra}"
             f"{bar}\n\n"
             f"CONTEXTO DOCUMENTAL:\n{context}\n\n"
             f"{bar}\n"
-            f"RESPUESTA (basada exclusivamente en el contexto):\n"
+            f"RESPUESTA (basada exclusivamente en el contexto, exhaustiva y detallada):\n"
         )
 
     # ─────────────────────────────────────────────────────────
