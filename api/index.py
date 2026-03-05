@@ -537,14 +537,29 @@ def chat(payload: dict = Body(...)):
     if not msg:
         return {"success": False, "error": "No message provided"}
 
-    # Detectar cámara desde el payload o desde el texto del mensaje
-    _msg_lower = msg.lower()
-    if camara:
-        _is_senado = camara.lower() in ("senado", "senate")
+    # Detectar cámara: el campo "camara" del payload SIEMPRE tiene prioridad.
+    # Solo se analiza el texto del mensaje si no vino el campo explícito.
+    _msg_lower  = msg.lower()
+    _cam_lower  = (camara or "").lower().strip()
+
+    if _cam_lower in ("senado", "senate"):
+        _is_senado = True
+    elif _cam_lower in ("camara", "diputados", "diputado", "cámara"):
+        _is_senado = False
     else:
+        # Fallback: detectar por keywords en el texto (sin campo camara)
         _senado_words = ["senado", "senadora", "senador", "senate"]
-        _camara_words = ["diputado", "diputados", "diputada", "cámara de diputados", "camara de diputados"]
-        _is_senado = any(w in _msg_lower for w in _senado_words) and not any(w in _msg_lower for w in _camara_words)
+        _camara_words = ["diputado", "diputados", "diputada", "cámara de diputados",
+                         "camara de diputados"]
+        _has_senado = any(w in _msg_lower for w in _senado_words)
+        _has_camara = any(w in _msg_lower for w in _camara_words)
+        if _has_senado and not _has_camara:
+            _is_senado = True
+        elif _has_camara and not _has_senado:
+            _is_senado = False
+        else:
+            # Ambiguo o sin pistas: usar el store_alt para ambas cámaras
+            _is_senado = False  # default camara; el agente buscará en ambas
 
     # Store principal según cámara detectada, store_alt el otro
     if _is_senado:

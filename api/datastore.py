@@ -588,13 +588,13 @@ class DataStore:
                     text = json.dumps(obj, ensure_ascii=False)
                     hits.append({"file": p, "score": 90, "snippet": text[:2000]})
 
-        # 3. historial.csv — todas las filas
+        # 3. historial.csv — todas las filas (snippet ampliado para no perder URLs)
         hist = os.path.join(base_path, "historial.csv")
         if os.path.exists(hist):
             rows = _safe_read_csv_dicts(hist)
             if rows:
                 text = json.dumps(rows, ensure_ascii=False)
-                hits.append({"file": hist, "score": 80, "snippet": text[:2000]})
+                hits.append({"file": hist, "score": 80, "snippet": text[:10000]})
 
         # 4. integrantes.json
         integ = os.path.join(base_path, "integrantes.json")
@@ -678,13 +678,15 @@ class DataStore:
                     text = json.dumps(obj, ensure_ascii=False) if obj else ""
                 elif ext in (".csv",):
                     rows = _safe_read_csv_dicts(p)
-                    text = json.dumps(rows[:200], ensure_ascii=False) if rows else ""
+                    text = json.dumps(rows, ensure_ascii=False) if rows else ""
                 else:
                     continue
 
                 s = _score(query, text)
+                # Snippet: más grande para CSV (para no perder URLs del historial)
+                snippet_limit = 10000 if ext == ".csv" else 2000
                 if s > 0:
-                    out.append({"file": p, "score": s, "snippet": text[:2000]})
+                    out.append({"file": p, "score": s, "snippet": text[:snippet_limit]})
 
         # KOM profiles
         if os.path.isdir(self.kom_dir):

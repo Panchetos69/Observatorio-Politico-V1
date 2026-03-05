@@ -62,14 +62,24 @@ logger = logging.getLogger(__name__)
 MODEL           = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
 TOP_K           = int(os.getenv("RAG_TOP_K",      "8"))
 TOP_K_WIDE      = int(os.getenv("RAG_TOP_K_WIDE", "20"))
-MAX_SNIPPET     = 2_500   # chars por documento en el contexto
-MAX_PDF_CHARS   = 4_000   # chars extraídos de un PDF remoto
-MAX_PDFS        = 3       # PDFs remotos máximo por consulta
+MAX_SNIPPET     = 2_500   # chars por documento en el contexto (transcripts/JSONs)
+MAX_HIST_SNIPPET = 10_000  # chars para historial.csv (necesita más para no perder URLs)
+MAX_PDF_CHARS   = 6_000   # chars extraídos de un documento remoto (PDF o HTML)
+MAX_PDFS        = 5       # documentos remotos máximo por consulta (antes: 3)
 MAX_TRANSCRIPTS = 8       # transcripts locales máximo por comisión
 MAX_JSONS       = 6       # JSONs de sesión máximo por comisión
-PDF_TIMEOUT     = 20      # segundos
+PDF_TIMEOUT     = 25      # segundos (subido de 20)
 MAX_RETRIES     = 3
 RETRY_BASE      = 2.0     # segundos base para backoff
+
+# Dominios legislativos conocidos — se descargan aunque no sean .pdf
+LEGISLATIVE_DOMAINS = (
+    "camara.cl",
+    "senado.cl",
+    "bcn.cl",
+    "leychile.cl",
+    "diariooficial.interior.gob.cl",
+)
 
 # Carpetas donde pueden estar las transcripciones
 TRANSCRIPT_DIRS = [
@@ -205,17 +215,63 @@ def _extract_pdf(pdf_bytes: bytes) -> str:
         return ""
 
 
+def _is_legislative_url(url: str) -> bool:
+    """True si la URL pertenece a un dominio legislativo conocido."""
+    try:
+        host = urllib.parse.urlparse(url).netloc.lower()
+        return any(d in host for d in LEGISLATIVE_DOMAINS)
+    except Exception:
+        return False
+
+
+def _html_to_text(html: str) -> str:
+    """Extrae texto limpio de HTML de forma simple (sin dependencias externas)."""
+    # Eliminar scripts y estilos completos
+    html = re.sub(r"<(script|style)[^>]*>.*?</(script|style)>", " ", html,
+                  flags=re.IGNORECASE | re.DOTALL)
+    # Reemplazar tags de bloque con salto de línea
+    html = re.sub(r"<(br|p|div|li|tr|h[1-6])[^>]*>", "\n", html, flags=re.IGNORECASE)
+    # Eliminar el resto de tags
+    html = re.sub(r"<[^>]+>", " ", html)
+    # Decodificar entidades HTML básicas
+    html = html.replace("&nbsp;", " ").replace("&amp;", "&") \
+               .replace("&lt;", "<").replace("&gt;", ">") \
+               .replace("&quot;", '"').replace("&#39;", "'")
+    # Colapsar espacios/saltos
+    html = re.sub(r"[ \t]+", " ", html)
+    html = re.sub(r"\n{3,}", "\n\n", html)
+    return html.strip()
+
+
 def _fetch_pdf(url: str) -> str:
+    """
+    Descarga una URL y extrae su contenido textual.
+    Soporta:
+      · PDFs (por Content-Type o extensión .pdf)
+      · HTML de dominios legislativos conocidos (camara.cl, senado.cl, bcn.cl…)
+    Retorna el texto extraído (vacío si falla o no es procesable).
+    """
     try:
         with httpx.Client(timeout=PDF_TIMEOUT, follow_redirects=True) as client:
             r = client.get(url, headers={"User-Agent": "LEXIA/5.0"})
             r.raise_for_status()
-            ct = r.headers.get("content-type", "")
-            if "pdf" not in ct and not url.lower().endswith(".pdf"):
-                return ""
-            return _extract_pdf(r.content)
+            ct = r.headers.get("content-type", "").lower()
+
+            # ── Caso 1: es un PDF ──────────────────────────────
+            if "pdf" in ct or url.lower().endswith(".pdf"):
+                return _extract_pdf(r.content)
+
+            # ── Caso 2: HTML de dominio legislativo ───────────
+            if ("html" in ct or "text" in ct) and _is_legislative_url(url):
+                text = _html_to_text(r.text)
+                return text[:MAX_PDF_CHARS]
+
+            # ── Caso 3: content-type desconocido pero es .doc/.docx (descartado) ──
+            logger.debug("URL ignorada (no PDF ni HTML legislativo): %s [ct=%s]", url, ct)
+            return ""
+
     except Exception as e:
-        logger.warning("PDF fetch failed %s: %s", url, e)
+        logger.warning("_fetch_pdf failed %s: %s", url, e)
         return ""
 
 
@@ -485,14 +541,14 @@ class LegislativeAgent:
                         label=_human_label(p, repo, name),
                     ))
 
-        # 3. historial.csv completo
+        # 3. historial.csv completo — snippet ampliado para no perder URLs
         hist = os.path.join(base, "historial.csv")
         if os.path.exists(hist):
             rows = _read_csv(hist)
             if rows:
                 hits.append(DocHit(
                     file=hist, score=150,
-                    snippet=json.dumps(rows, ensure_ascii=False)[:MAX_SNIPPET],
+                    snippet=json.dumps(rows, ensure_ascii=False)[:MAX_HIST_SNIPPET],
                     label=_human_label(hist, repo, name),
                 ))
 
@@ -553,26 +609,56 @@ class LegislativeAgent:
     # PDFs REMOTOS
     # ─────────────────────────────────────────────────────────
     def _fetch_remote_pdfs(self, hits: List[DocHit]) -> Tuple[List[dict], int]:
-        """Descarga PDFs referenciados en los hits (Citación, Cuenta, Acta)."""
+        """
+        Descarga documentos referenciados en los hits.
+        Soporta: PDFs + páginas HTML de dominios legislativos.
+        Busca URLs en:
+          · Campos clave del JSON (Citacion, Cuenta, Acta, Votacion, Video…)
+          · Regex sobre el texto completo del snippet
+        """
         pdf_hits: List[dict] = []
         fetched = 0
         seen: set[str] = set()
-        url_keys = ("Citacion", "Cuenta", "Acta", "url", "pdf_url", "citacion")
+
+        # Columnas donde pueden vivir URLs en historial.csv o sesiones_detail JSON
+        url_keys = (
+            # Senado
+            "Citacion", "Cuenta", "Acta", "citacion", "cuenta", "acta",
+            # Camara de Diputados
+            "Votacion", "votacion", "UrlCitacion", "UrlCuenta", "UrlActa",
+            "urlCitacion", "urlCuenta", "urlActa",
+            # Genéricos
+            "url", "pdf_url", "URL", "Link", "link", "Enlace", "enlace",
+            "documento", "Documento",
+        )
 
         for h in hits:
             candidates: List[str] = []
+
+            # ── Extraer URLs de campos JSON ────────────────────
             try:
                 obj = json.loads(h.snippet)
-                items = [obj] if isinstance(obj, dict) else (obj[:50] if isinstance(obj, list) else [])
+                items = (
+                    [obj] if isinstance(obj, dict)
+                    else (obj[:50] if isinstance(obj, list) else [])
+                )
                 for item in items:
-                    if isinstance(item, dict):
-                        for k in url_keys:
-                            v = item.get(k, "")
-                            if isinstance(v, str) and v.startswith("http"):
-                                candidates.append(v)
+                    if not isinstance(item, dict):
+                        continue
+                    for k in url_keys:
+                        v = item.get(k, "")
+                        if isinstance(v, str) and v.startswith("http"):
+                            candidates.append(v)
             except Exception:
                 pass
 
+            # ── Regex: URLs de dominios legislativos (no solo .pdf) ──
+            candidates += re.findall(
+                r'https?://(?:www\.)?(?:camara|senado|bcn|leychile|diariooficial\.interior\.gob)'
+                r'[^\s"\'<>]{3,}',
+                h.snippet, re.IGNORECASE,
+            )
+            # Regex de respaldo: cualquier .pdf en el snippet
             candidates += re.findall(
                 r'https?://[^\s"\'<>]+\.pdf[^\s"\'<>]*',
                 h.snippet, re.IGNORECASE,
@@ -584,8 +670,9 @@ class LegislativeAgent:
                 seen.add(url)
                 text = _fetch_pdf(url)
                 if text.strip():
+                    label = url.split("/")[-1][:60] or url[:60]
                     pdf_hits.append({
-                        "label": url.split("/")[-1][:50],
+                        "label": label,
                         "text":  text[:MAX_SNIPPET],
                         "url":   url,
                     })
