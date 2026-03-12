@@ -27,41 +27,19 @@ except ImportError:
     pass
 
 DATA_REPO_DIR   = os.getenv("DATA_REPO_DIR")   or os.path.join(PROJECT_DIR, "REPO_V40_HISTORIAL_COMPLETO_V2")
-DATA_REPO_V43_DIR = os.getenv("DATA_REPO_V43_DIR") or os.path.join(PROJECT_DIR, "REPO_V43_HISTORIAL_COMPLETO")
 SENADO_REPO_DIR = os.getenv("SENADO_REPO_DIR") or os.path.join(PROJECT_DIR, "REPO_SENADO")
 KOM_DIR         = os.getenv("KOM_DIR")         or os.path.join(PROJECT_DIR, "KOM")
 PUBLIC_DIR      = os.path.join(PROJECT_DIR, "public")
 GEMINI_API_KEY  = os.getenv("GEMINI_API_KEY", "")
 BLOB_TOKEN      = os.getenv("BLOB_READ_WRITE_TOKEN", "")
 
-# ─── Períodos legislativos Cámara de Diputados ───────────────────────────────
-# periodo "2022-2026" → REPO_V40_HISTORIAL_COMPLETO_V2  (store_camara)
-# periodo "2026-2030" → REPO_V43_HISTORIAL_COMPLETO     (store_camara_v43)
-PERIODO_CAMARA_ACTUAL   = "2026-2030"   # período que comienza en marzo 2026
-PERIODO_CAMARA_ANTERIOR = "2022-2026"
-
-store_camara      = DataStore(DATA_REPO_DIR,     KOM_DIR, default_chamber="camara")
-store_camara_v43  = DataStore(DATA_REPO_V43_DIR, KOM_DIR, default_chamber="camara")
-store_senado      = DataStore(SENADO_REPO_DIR,   KOM_DIR, default_chamber="senado")
+store_camara = DataStore(DATA_REPO_DIR,   KOM_DIR, default_chamber="camara")
+store_senado = DataStore(SENADO_REPO_DIR, KOM_DIR, default_chamber="senado")
 
 agent = LegislativeAgent(store_camara, GEMINI_API_KEY, store_alt=store_senado)
 
-
-def get_store(camara: str = "diputados", periodo: str = "") -> DataStore:
-    """
-    Devuelve el DataStore correcto según cámara y período.
-    - senado          → store_senado  (sin períodos por ahora)
-    - diputados/camara + periodo="2026-2030" → store_camara_v43
-    - diputados/camara + cualquier otro       → store_camara (2022-2026)
-    """
-    c = (camara or "").lower()
-    if c in ("senado", "senate"):
-        return store_senado
-    # Cámara de Diputados: elegir por período
-    p = (periodo or "").strip()
-    if p == PERIODO_CAMARA_ACTUAL or p == "v43" or p == "2026":
-        return store_camara_v43
-    return store_camara
+def get_store(camara: str = "diputados") -> DataStore:
+    return store_senado if (camara or "").lower() in ("senado", "senate") else store_camara
 
 
 # ─────────────────────────────────────────
@@ -261,21 +239,6 @@ def serve_html_page(page: str):
     return {"error": f"{page}.html no encontrado en public/"}
 
 
-def _resolve_periodo_label(camara: str, periodo: str) -> str:
-    """Devuelve la etiqueta canónica del período dado camara + hint de período."""
-    c = (camara or "").lower()
-    if c in ("senado", "senate"):
-        return ""   # Senado no tiene períodos diferenciados por ahora
-    p = (periodo or "").strip()
-    if p == PERIODO_CAMARA_ACTUAL or p in ("v43", "2026"):
-        return PERIODO_CAMARA_ACTUAL
-    if p == PERIODO_CAMARA_ANTERIOR or p in ("v40", "2022"):
-        return PERIODO_CAMARA_ANTERIOR
-    # Sin hint: devolver el período anterior (datos históricos por defecto)
-    # cuando el repo V43 exista y esté poblado, cambiar a PERIODO_CAMARA_ACTUAL
-    return PERIODO_CAMARA_ANTERIOR
-
-
 @app.get("/api/health")
 def health():
     return {
@@ -291,13 +254,9 @@ def health():
 
 
 @app.get("/api/commissions")
-def commissions(group: str = "Permanentes", q: str = "", camara: str = "diputados",
-                periodo: str = ""):
-    store = get_store(camara, periodo)
+def commissions(group: str = "Permanentes", q: str = "", camara: str = "diputados"):
+    store = get_store(camara)
     comms = store.list_commissions(group, q=q)
-    periodo_label = _resolve_periodo_label(camara, periodo)
-    for c in comms:
-        c["periodo"] = periodo_label
     return {
         "success":     True,
         "commissions": comms,
@@ -305,24 +264,18 @@ def commissions(group: str = "Permanentes", q: str = "", camara: str = "diputado
         "total":       len(comms),
         "group":       group,
         "camara":      camara,
-        "periodo":     periodo_label,
     }
 
 
 @app.get("/api/commissions/{group}/{commission_name}/sessions")
-def commission_sessions(group: str, commission_name: str, camara: str = "diputados",
-                        periodo: str = ""):
-    store = get_store(camara, periodo)
-    result = store.get_commission_sessions(group, commission_name)
-    if result.get("success") and result.get("commission"):
-        result["commission"]["periodo"] = _resolve_periodo_label(camara, periodo)
-    return result
+def commission_sessions(group: str, commission_name: str, camara: str = "diputados"):
+    store = get_store(camara)
+    return store.get_commission_sessions(group, commission_name)
 
 
 @app.get("/api/commissions/{group}/{commission_name}/sessions/{sid}/transcript")
-def get_transcript(group: str, commission_name: str, sid: str, camara: str = "diputados",
-                   periodo: str = ""):
-    store = get_store(camara, periodo)
+def get_transcript(group: str, commission_name: str, sid: str, camara: str = "diputados"):
+    store = get_store(camara)
     path  = store.find_transcript_path(group, commission_name, sid)
     if not path:
         return {"success": False, "error": "Transcript no encontrado"}
@@ -334,130 +287,23 @@ def get_transcript(group: str, commission_name: str, sid: str, camara: str = "di
 
 
 @app.get("/api/politicians")
-def politicians(q: str = "", camara: str = "all", periodo: str = ""):
-    """
-    Devuelve congresistas.
-    - camara=all → diputados (ambos períodos fusionados) + senado
-    - camara=diputados/camara + periodo=2026-2030 → solo V43
-    - camara=diputados/camara + periodo=2022-2026  → solo V40
-    - camara=diputados/camara (sin periodo)        → AMBOS períodos, cada congresista
-      puede tener subperfiles por período (campo "periodos")
-    """
+def politicians(q: str = "", camara: str = "all"):
     c = (camara or "all").lower()
-    p = (periodo or "").strip()
-
     if c in ("senado", "senate"):
         pols = store_senado.list_politicians(q=q, chamber="senado")
-        for pol in pols:
-            pol["periodo"] = ""
-        return {"success": True, "politicians": pols, "total": len(pols)}
-
-    if c in ("camara", "diputados", "diputado"):
-        if p in (PERIODO_CAMARA_ACTUAL, "v43", "2026"):
-            # Solo período actual
-            pols = store_camara_v43.list_politicians(q=q, chamber="camara")
-            for pol in pols:
-                pol["periodo"] = PERIODO_CAMARA_ACTUAL
-            return {"success": True, "politicians": pols, "total": len(pols),
-                    "periodo": PERIODO_CAMARA_ACTUAL}
-        elif p in (PERIODO_CAMARA_ANTERIOR, "v40", "2022"):
-            # Solo período anterior
-            pols = store_camara.list_politicians(q=q, chamber="camara")
-            for pol in pols:
-                pol["periodo"] = PERIODO_CAMARA_ANTERIOR
-            return {"success": True, "politicians": pols, "total": len(pols),
-                    "periodo": PERIODO_CAMARA_ANTERIOR}
-        else:
-            # Sin filtro de período: combinar ambos con subperfiles
-            pols = _merge_periods_politicians(q)
-            return {"success": True, "politicians": pols, "total": len(pols),
-                    "periodo": "all"}
-
-    # camara=all → diputados (ambos períodos) + senado
-    pols_dip = _merge_periods_politicians(q)
-    pols_sen = store_senado.list_politicians(q=q, chamber="senado")
-    for pol in pols_sen:
-        pol["periodo"] = ""
-    seen, pols = set(), []
-    for p_item in pols_dip + pols_sen:
-        # Para senado usamos nombre::camara; para diputados ya vienen deduplicados
-        key = f"{p_item.get('chamber','')}__{p_item.get('nombre','')}__{p_item.get('periodo','')}"
-        if key not in seen:
-            seen.add(key)
-            pols.append(p_item)
-    pols.sort(key=lambda x: x.get("nombre", ""))
+    elif c in ("camara", "diputados", "diputado"):
+        pols = store_camara.list_politicians(q=q, chamber="camara")
+    else:
+        pols_c = store_camara.list_politicians(q=q, chamber="camara")
+        pols_s = store_senado.list_politicians(q=q, chamber="senado")
+        seen, pols = set(), []
+        for p in pols_c + pols_s:
+            key = f"{p.get('chamber','')}::{p.get('nombre','')}"
+            if key not in seen:
+                seen.add(key)
+                pols.append(p)
+        pols.sort(key=lambda x: x.get("nombre", ""))
     return {"success": True, "politicians": pols, "total": len(pols)}
-
-
-def _merge_periods_politicians(q: str = "") -> list:
-    """
-    Combina diputados de V40 (2022-2026) y V43 (2026-2030).
-    - Si un congresista aparece en AMBOS períodos → un solo registro con
-      campo "periodos": ["2022-2026", "2026-2030"] y subperfiles en "perfil_por_periodo".
-    - Si solo aparece en uno → campo "periodos": ["XXXX-XXXX"] con ese único período.
-    """
-    pols_v40 = store_camara.list_politicians(q=q, chamber="camara")
-    pols_v43 = store_camara_v43.list_politicians(q=q, chamber="camara")
-
-    for p in pols_v40:
-        p["periodo"] = PERIODO_CAMARA_ANTERIOR
-    for p in pols_v43:
-        p["periodo"] = PERIODO_CAMARA_ACTUAL
-
-    # Índice por nombre normalizado para detectar continuidad
-    import unicodedata
-    def _norm_name(n):
-        return unicodedata.normalize("NFD", (n or "").lower().strip()).encode("ascii", "ignore").decode()
-
-    merged: dict = {}  # norm_name → registro final
-
-    for p in pols_v40:
-        key = _norm_name(p["nombre"])
-        merged[key] = {
-            **p,
-            "periodos": [PERIODO_CAMARA_ANTERIOR],
-            "perfil_por_periodo": {
-                PERIODO_CAMARA_ANTERIOR: {
-                    "comisiones": p.get("comisiones", []),
-                    "cargo":      p.get("cargo", ""),
-                    "url_ficha":  p.get("url_ficha", ""),
-                }
-            }
-        }
-
-    for p in pols_v43:
-        key = _norm_name(p["nombre"])
-        if key in merged:
-            # Congresista continúa en el nuevo período: añadir subperfil
-            merged[key]["periodos"].append(PERIODO_CAMARA_ACTUAL)
-            merged[key]["perfil_por_periodo"][PERIODO_CAMARA_ACTUAL] = {
-                "comisiones": p.get("comisiones", []),
-                "cargo":      p.get("cargo", ""),
-                "url_ficha":  p.get("url_ficha", ""),
-            }
-            # Las comisiones activas del período actual son las del V43
-            merged[key]["comisiones_actuales"] = p.get("comisiones", [])
-            merged[key]["periodo"] = PERIODO_CAMARA_ACTUAL  # período más reciente
-        else:
-            # Nuevo en V43 (no estaba en V40)
-            merged[key] = {
-                **p,
-                "periodos": [PERIODO_CAMARA_ACTUAL],
-                "perfil_por_periodo": {
-                    PERIODO_CAMARA_ACTUAL: {
-                        "comisiones": p.get("comisiones", []),
-                        "cargo":      p.get("cargo", ""),
-                        "url_ficha":  p.get("url_ficha", ""),
-                    }
-                }
-            }
-
-    # Para los que solo tienen V40, asignar comisiones_actuales = comisiones V40
-    for key, p in merged.items():
-        if "comisiones_actuales" not in p:
-            p["comisiones_actuales"] = p.get("comisiones", [])
-
-    return sorted(merged.values(), key=lambda x: x.get("nombre", ""))
 
 
 @app.get("/api/activity")
@@ -482,19 +328,11 @@ def activity(group: str = "", status: str = "", q: str = "",
     if c == "senado":
         items = store_senado.activity_feed(group=group, status=status, q=q, days_back=days)
     elif c in ("diputados", "camara"):
-        # Combinar actividad de ambos períodos para diputados
-        items_v40 = store_camara.activity_feed(group=group, status=status, q=q, days_back=days)
-        items_v43 = store_camara_v43.activity_feed(group=group, status=status, q=q, days_back=days)
-        for i in items_v40: i.setdefault("periodo", PERIODO_CAMARA_ANTERIOR)
-        for i in items_v43: i.setdefault("periodo", PERIODO_CAMARA_ACTUAL)
-        items = sorted(items_v40 + items_v43, key=_fecha_key, reverse=True)
+        items = store_camara.activity_feed(group=group, status=status, q=q, days_back=days)
     else:
-        items_v40 = store_camara.activity_feed(group=group, status=status, q=q, days_back=days)
-        items_v43 = store_camara_v43.activity_feed(group=group, status=status, q=q, days_back=days)
-        items_s   = store_senado.activity_feed(group=group, status=status, q=q, days_back=days)
-        for i in items_v40: i.setdefault("periodo", PERIODO_CAMARA_ANTERIOR)
-        for i in items_v43: i.setdefault("periodo", PERIODO_CAMARA_ACTUAL)
-        items = sorted(items_v40 + items_v43 + items_s, key=_fecha_key, reverse=True)
+        items_c = store_camara.activity_feed(group=group, status=status, q=q, days_back=days)
+        items_s = store_senado.activity_feed(group=group, status=status, q=q, days_back=days)
+        items   = sorted(items_c + items_s, key=_fecha_key, reverse=True)
 
     return {"success": True, "items": items, "total": len(items), "days_back": days}
 

@@ -286,13 +286,11 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
         </select>
       </div>
 
-      <!-- Selector período legislativo (Diputados) -->
+      <!-- Selector período -->
       <select id="periodoSelect"
         class="w-full px-4 py-2.5 rounded-xl border border-gray-200 text-sm focus:border-purple-400 focus:outline-none transition appearance-none"
-        onchange="onPeriodoChange()">
+        onchange="applyFilters()">
         <option value="">📅 Todos los períodos</option>
-        <option value="2026-2030">🟢 Período 2026–2030 (actual)</option>
-        <option value="2022-2026">🔵 Período 2022–2026 (anterior)</option>
       </select>
 
       <!-- Orden -->
@@ -384,7 +382,6 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
 // ═══════════════════════════════════════════
 const $ = id => document.getElementById(id);
 let camaraActual  = "all";
-let periodoActual = "";   // "" | "2026-2030" | "2022-2026"
 let allPols       = [];
 let currentPerson = null;
 let _deb;
@@ -432,11 +429,6 @@ function esc(s) {
 // ═══════════════════════════════════════════
 // CÁMARA
 // ═══════════════════════════════════════════
-function onPeriodoChange() {
-  periodoActual = ($("periodoSelect") ? $("periodoSelect").value : "") || "";
-  loadPeople();
-}
-
 function setCamara(c) {
   camaraActual = c;
   // Estilos botones
@@ -446,12 +438,7 @@ function setCamara(c) {
     btn.className = "cam-btn " + (k===c ? map[k] : "cam-off");
   });
   $("comisionSelect").value = "";
-  // Ocultar selector de período para senado
-  const perSel = $("periodoSelect");
-  if (perSel) {
-    perSel.closest("div, select")?.parentElement?.classList?.toggle("hidden", c === "senado");
-    if (c === "senado") { periodoActual = ""; perSel.value = ""; }
-  }
+  if ($("periodoSelect")) $("periodoSelect").value = "";
   loadPeople();
 }
 
@@ -463,10 +450,10 @@ async function loadPeople() {
   $("grid").innerHTML = skelGrid(6);
 
   try {
-    const periodoParam = periodoActual ? `&periodo=${encodeURIComponent(periodoActual)}` : "";
-    const data = await apiGet(`/api/politicians?q=&camara=${camaraActual}${periodoParam}`);
+    const data = await apiGet(`/api/politicians?q=&camara=${camaraActual}`);
     allPols = data.politicians || [];
     buildComisionSelect(allPols);
+    buildPeriodoSelect(allPols);
     applyFilters();
   } catch(e) {
     $("count").textContent = "Error";
@@ -568,6 +555,7 @@ function debounceFilter() {
 function applyFilters() {
   const q      = ($("q").value||"").trim().toLowerCase();
   const comFil = ($("comisionSelect").value||"").trim();
+  const periodo = ($("periodoSelect") ? $("periodoSelect").value : "") || "";
   const orden  = $("ordenSelect").value;
 
   let list = [...allPols];
@@ -575,11 +563,34 @@ function applyFilters() {
   // Nombre
   if (q) list = list.filter(p => (typeof komFuzzyMatch==="function" ? komFuzzyMatch(p.nombre, q) : p.nombre.toLowerCase().includes(q)));
 
-  // Comisión — filtrar por comisiones_actuales si existe, sino comisiones
+  // Comisión
   if (comFil) {
+    list = list.filter(p =>
+      (p.comisiones||[]).some(c => c.commission_name === comFil)
+    );
+  }
+
+  // Período
+  if (periodo) {
+    const anoActual = new Date().getFullYear();
     list = list.filter(p => {
-      const coms = p.comisiones_actuales || p.comisiones || [];
-      return coms.some(c => c.commission_name === comFil);
+      const per = (p.periodo || "").trim();
+      if (!per) return periodo === "actual"; // sin período: solo aparece en "actual"
+      if (periodo === "actual") {
+        // Cubre el año actual si el rango incluye anoActual
+        const anos = per.match(/\d{4}/g);
+        if (!anos) return false;
+        const min = Math.min(...anos.map(Number));
+        const max = Math.max(...anos.map(Number));
+        return anoActual >= min && anoActual <= max;
+      } else {
+        const y = parseInt(periodo);
+        const anos = per.match(/\d{4}/g);
+        if (!anos) return false;
+        const min = Math.min(...anos.map(Number));
+        const max = Math.max(...anos.map(Number));
+        return y >= min && y <= max;
+      }
     });
   }
 
@@ -588,8 +599,8 @@ function applyFilters() {
     switch(orden) {
       case "az":        return a.nombre.localeCompare(b.nombre,"es");
       case "za":        return b.nombre.localeCompare(a.nombre,"es");
-      case "coms_desc": return (b.comisiones_actuales||b.comisiones||[]).length - (a.comisiones_actuales||a.comisiones||[]).length;
-      case "coms_asc":  return (a.comisiones_actuales||a.comisiones||[]).length - (b.comisiones_actuales||b.comisiones||[]).length;
+      case "coms_desc": return (b.comisiones||[]).length - (a.comisiones||[]).length;
+      case "coms_asc":  return (a.comisiones||[]).length - (b.comisiones||[]).length;
       case "diputados": {
         const ad = a.chamber==="camara"||a.chamber==="diputado"||a.chamber==="diputados"?0:1;
         const bd = b.chamber==="camara"||b.chamber==="diputado"||b.chamber==="diputados"?0:1;
@@ -603,7 +614,7 @@ function applyFilters() {
     }
   });
 
-  renderChip(comFil, periodoActual);
+  renderChip(comFil, periodo);
   renderGrid(list, comFil);
 }
 
@@ -625,10 +636,9 @@ function renderChip(comFil, periodo) {
     chips += `<span class="filter-chip">${camaraLabel}📋 ${esc(abbr)}<span class="chip-x" onclick="clearComFil()">×</span></span>`;
   }
 
-  if (periodo === "2026-2030") {
-    chips += `<span class="filter-chip" style="background:#dcfce7;color:#166534;border-color:#86efac">🟢 Período 2026–2030<span class="chip-x" onclick="clearPeriodo()">×</span></span>`;
-  } else if (periodo === "2022-2026") {
-    chips += `<span class="filter-chip" style="background:#dbeafe;color:#1e40af;border-color:#93c5fd">🔵 Período 2022–2026<span class="chip-x" onclick="clearPeriodo()">×</span></span>`;
+  if (periodo) {
+    const label = periodo === "actual" ? "Legislatura actual" : `Año ${periodo}`;
+    chips += `<span class="filter-chip" style="background:#eff6ff;color:#1d4ed8;border-color:#bfdbfe">📅 ${esc(label)}<span class="chip-x" onclick="clearPeriodo()">×</span></span>`;
   }
 
   wrap.innerHTML = chips;
@@ -691,31 +701,13 @@ function renderGrid(pols, comFil) {
       ? `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-purple-100 text-purple-700">Diputado/a</span>`
       : `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-gray-100 text-gray-500">${esc(p.chamber)}</span>`;
 
-    // ── Badges de período legislativo ──
-    const periodos = p.periodos || (p.periodo ? [p.periodo] : []);
-    let periodoBadges = "";
-    if (isDip && periodos.length > 0) {
-      periodoBadges = periodos.map(per => {
-        if (per === "2026-2030")
-          return `<span class="text-xs font-bold px-1.5 py-0.5 rounded-full bg-green-100 text-green-700" title="Período actual">🟢 2026-30</span>`;
-        if (per === "2022-2026")
-          return `<span class="text-xs font-bold px-1.5 py-0.5 rounded-full bg-blue-100 text-blue-700" title="Período anterior">🔵 2022-26</span>`;
-        return `<span class="text-xs font-bold px-1.5 py-0.5 rounded-full bg-gray-100 text-gray-500">${esc(per)}</span>`;
-      }).join("");
-    }
-
-    // ── Si tiene múltiples períodos, mostrar selector de sub-perfil ──
-    const hasMultiPeriod = isDip && periodos.length > 1;
-    const perfilPorPeriodo = p.perfil_por_periodo || {};
-
-    // Comisiones a mostrar: preferir comisiones del período activo o del filtro
-    const comsToShow = p.comisiones_actuales || p.comisiones || [];
+    const coms = p.comisiones || [];
 
     // Comisiones: resaltar la filtrada si aplica
     let comsHtml = "";
-    if (comsToShow.length) {
-      const shown = comsToShow.slice(0, 3);
-      const rest  = comsToShow.length - 3;
+    if (coms.length) {
+      const shown = coms.slice(0, 3);
+      const rest  = coms.length - 3;
       comsHtml = `<div class="flex flex-wrap gap-1 mt-2">
         ${shown.map(c => {
           const short  = c.commission_name.replace(/^Comisi[oó]n\s+(de\s+|del\s+|de\s+la\s+)?/i,"").slice(0,28);
@@ -732,28 +724,13 @@ function renderGrid(pols, comFil) {
     // Cargo en la comisión filtrada
     let cargoComHtml = "";
     if (comFil) {
-      const m = comsToShow.find(c => c.commission_name === comFil);
+      const m = coms.find(c => c.commission_name === comFil);
       if (m?.cargo_en_comision) {
         cargoComHtml = `<div class="text-xs text-purple-600 font-semibold mt-1.5">
           📋 ${esc(m.cargo_en_comision)}
         </div>`;
       }
     }
-
-    // ── Botón multiperiod o link oficial según período activo ──
-    const urlFicha = (hasMultiPeriod && perfilPorPeriodo["2026-2030"])
-      ? (perfilPorPeriodo["2026-2030"].url_ficha || p.url_ficha || "")
-      : (p.url_ficha || "");
-
-    const multiPeriodHint = hasMultiPeriod
-      ? `<div class="mt-2 text-xs text-gray-400 flex items-center gap-1">
-           ↔ Activo en 2 períodos —
-           <button onclick="event.stopPropagation();openKomPeriodo('${esc(p.chamber)}','${esc(String(p.id))}','${esc(p.nombre)}','2022-2026',${JSON.stringify(perfilPorPeriodo['2022-2026']||{})})"
-             class="px-1.5 py-0.5 rounded bg-blue-50 text-blue-600 font-bold hover:bg-blue-100 transition">2022–26</button>
-           <button onclick="event.stopPropagation();openKomPeriodo('${esc(p.chamber)}','${esc(String(p.id))}','${esc(p.nombre)}','2026-2030',${JSON.stringify(perfilPorPeriodo['2026-2030']||{})})"
-             class="px-1.5 py-0.5 rounded bg-green-50 text-green-600 font-bold hover:bg-green-100 transition">2026–30</button>
-         </div>`
-      : "";
 
     const card = document.createElement("div");
     card.className = "card-hover bg-white rounded-2xl border border-gray-100 p-5 flex flex-col justify-between";
@@ -765,30 +742,28 @@ function renderGrid(pols, comFil) {
           </div>
           <div class="min-w-0 flex-1">
             <div class="font-extrabold text-gray-900 leading-tight">${esc(p.nombre)}</div>
-            <div class="flex items-center gap-1.5 mt-1 flex-wrap">
+            <div class="flex items-center gap-2 mt-1 flex-wrap">
               ${chamberBadge}
-              ${periodoBadges}
               ${p.cargo ? `<span class="text-xs text-gray-400">${esc(p.cargo)}</span>` : ""}
             </div>
             ${cargoComHtml}
           </div>
         </div>
         ${comsHtml}
-        ${multiPeriodHint}
-        ${comsToShow.length > 0
-          ? `<div class="text-xs text-gray-400 mt-1">${comsToShow.length} comisión${comsToShow.length!==1?"es":""}</div>`
+        ${coms.length > 0
+          ? `<div class="text-xs text-gray-400 mt-1">${coms.length} comisión${coms.length!==1?"es":""}</div>`
           : ""}
       </div>
       <div class="mt-4 flex gap-2">
-        ${urlFicha
-          ? `<a href="${esc(urlFicha)}" target="_blank" rel="noopener"
+        ${p.url_ficha
+          ? `<a href="${esc(p.url_ficha)}" target="_blank" rel="noopener"
                class="px-3 py-2 rounded-xl bg-gray-100 hover:bg-gray-200 text-gray-700 text-xs font-semibold transition text-center">
                🏛 Oficial ↗
              </a>`
           : ""}
         <button
           class="flex-1 px-3 py-2 rounded-xl gradient-bg text-white text-xs font-bold hover:opacity-90 transition"
-          onclick="openKom('${esc(p.chamber)}','${esc(String(p.id))}','${esc(p.nombre)}','${esc(urlFicha)}',${JSON.stringify(comsToShow)},${JSON.stringify(periodos)},${JSON.stringify(perfilPorPeriodo)})">
+          onclick="openKom('${esc(p.chamber)}','${esc(String(p.id))}','${esc(p.nombre)}','${esc(p.url_ficha||'')}',${JSON.stringify(coms)})">
           📋 Perfil KOM
         </button>
       </div>`;
@@ -856,12 +831,8 @@ function openFromBtn(btn) {
   openKom(chamber, id, nombre, urlFicha, coms);
 }
 
-async function openKom(chamber, id, nombre, urlFicha, comisiones, periodos, perfilPorPeriodo) {
-  // periodos y perfilPorPeriodo son opcionales (backward compat)
-  const _periodos = periodos || [];
-  const _perfiles = perfilPorPeriodo || {};
-  currentPerson = { chamber, id, nombre, url_ficha:urlFicha, comisiones,
-                    periodos:_periodos, perfil_por_periodo:_perfiles };
+async function openKom(chamber, id, nombre, urlFicha, comisiones) {
+  currentPerson = { chamber, id, nombre, url_ficha:urlFicha, comisiones };
 
   const initials = nombre.split(" ").slice(0,2).map(x=>x[0]||"").join("").toUpperCase();
   const isSen    = chamber === "senado";
@@ -872,109 +843,18 @@ async function openKom(chamber, id, nombre, urlFicha, comisiones, periodos, perf
   av.textContent = initials;
 
   $("komName").textContent = nombre;
+  $("komMeta").textContent = `${isSen?"Senador/a":"Diputado/a"} · ID ${id}`;
 
-  // Período en meta
-  let periodoMetaTxt = "";
-  if (_periodos.length > 1) periodoMetaTxt = ` · 📅 ${_periodos.join(" + ")}`;
-  else if (_periodos.length === 1) periodoMetaTxt = ` · 📅 ${_periodos[0]}`;
-  $("komMeta").textContent = `${isSen?"Senador/a":"Diputado/a"} · ID ${id}${periodoMetaTxt}`;
-
-  // Badge cámara + período
-  let badgesHtml = isSen
+  $("komBadge").innerHTML = isSen
     ? `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-red-100 text-red-700">🔴 Senado</span>`
     : `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-purple-100 text-purple-700">🟣 Diputados</span>`;
 
-  if (!isSen && _periodos.length > 0) {
-    _periodos.forEach(per => {
-      if (per === "2026-2030")
-        badgesHtml += `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-green-100 text-green-700">🟢 2026–30</span>`;
-      else if (per === "2022-2026")
-        badgesHtml += `<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-blue-100 text-blue-700">🔵 2022–26</span>`;
-    });
-  }
-
-  // Si tiene 2 períodos → selector de sub-perfil en el modal
-  if (!isSen && _periodos.length > 1) {
-    badgesHtml += `<div class="flex gap-1 mt-1 w-full">
-      ${_periodos.map(per => {
-        const isActual = per === "2026-2030";
-        return `<button onclick="switchKomPeriodo('${per}')"
-          id="komPeriodBtn_${per.replace("-","_")}"
-          class="text-xs font-bold px-2 py-0.5 rounded-lg border transition
-            ${isActual ? "border-green-400 bg-green-50 text-green-700" : "border-blue-400 bg-blue-50 text-blue-700"}
-            hover:opacity-80">
-          Ver ${per}
-        </button>`;
-      }).join("")}
-    </div>`;
-  }
-
-  $("komBadge").innerHTML = badgesHtml;
-
-  // Renderizar comisiones del período activo (2026-2030 si existe, sino 2022-2026)
-  const periodoMostrar = _periodos.includes("2026-2030") ? "2026-2030"
-                       : _periodos[0] || "";
-  _renderKomComisiones(comisiones, periodoMostrar, _perfiles);
-
-  // Link oficial
-  $("komLink").innerHTML = urlFicha
-    ? `<a href="${esc(urlFicha)}" target="_blank" rel="noopener"
-         class="inline-flex items-center gap-1.5 text-xs text-purple-600 hover:underline font-semibold">
-         🔗 Ver perfil oficial ↗
-       </a>`
-    : "";
-
-  // Cargar notas del período actual
-  $("komNotas").value = "";
-  try {
-    const komId = _periodos.includes("2026-2030") ? `${id}_2026` : id;
-    const data = await apiGet(`/api/kom/${chamber}/${komId}`);
-    $("komNotas").value = (data.profile && (data.profile.notas || data.profile.notes)) || "";
-  } catch {}
-
-  $("komModal").classList.remove("hidden");
-  $("komModal").classList.add("flex");
-}
-
-// Cambia el sub-perfil mostrado en el modal al período seleccionado
-function switchKomPeriodo(periodo) {
-  if (!currentPerson) return;
-  const perfiles = currentPerson.perfil_por_periodo || {};
-  const subPerfil = perfiles[periodo] || {};
-  const coms = subPerfil.comisiones || [];
-  _renderKomComisiones(coms, periodo, perfiles);
-
-  // Actualizar botones activos
-  ["2026-2030","2022-2026"].forEach(per => {
-    const btn = document.getElementById(`komPeriodBtn_${per.replace("-","_")}`);
-    if (!btn) return;
-    if (per === periodo) btn.style.opacity = "1";
-    else btn.style.opacity = "0.5";
-  });
-
-  // Actualizar link oficial
-  const urlFicha = subPerfil.url_ficha || currentPerson.url_ficha || "";
-  $("komLink").innerHTML = urlFicha
-    ? `<a href="${esc(urlFicha)}" target="_blank" rel="noopener"
-         class="inline-flex items-center gap-1.5 text-xs text-purple-600 hover:underline font-semibold">
-         🔗 Ver perfil oficial (${periodo}) ↗
-       </a>`
-    : "";
-
-  // Cargar notas del sub-período
-  const komId = periodo === "2026-2030" ? `${currentPerson.id}_2026` : currentPerson.id;
-  apiGet(`/api/kom/${currentPerson.chamber}/${komId}`)
-    .then(data => { $("komNotas").value = (data.profile?.notas || data.profile?.notes) || ""; })
-    .catch(() => {});
-}
-
-function _renderKomComisiones(comisiones, periodo, perfilPorPeriodo) {
+  // Comisiones en modal — resaltar la filtrada activa
   const activeCom = $("comisionSelect").value;
   const comDiv = $("komComisiones");
-  const periodoLabel = periodo === "2026-2030" ? "🟢 2026–2030 (actual)" :
-                       periodo === "2022-2026" ? "🔵 2022–2026 (anterior)" : "";
 
   if (comisiones.length) {
+    // Ordenar: la comisión filtrada activa primero
     const sorted = [...comisiones].sort((a,b) => {
       if (activeCom) {
         const aH = a.commission_name === activeCom ? -1 : 0;
@@ -989,7 +869,6 @@ function _renderKomComisiones(comisiones, periodo, perfilPorPeriodo) {
         <div class="text-xs font-bold text-gray-500 mb-2 flex items-center gap-2">
           📚 Comisiones
           <span class="text-gray-400 font-normal">(${comisiones.length})</span>
-          ${periodoLabel ? `<span class="font-semibold">${periodoLabel}</span>` : ""}
           ${activeCom ? `<span class="text-purple-600 font-semibold">· filtro activo resaltado</span>` : ""}
         </div>
         <div class="space-y-1 max-h-48 overflow-y-auto pr-1">
@@ -1006,15 +885,26 @@ function _renderKomComisiones(comisiones, periodo, perfilPorPeriodo) {
         </div>
       </div>`;
   } else {
-    comDiv.innerHTML = `<div class="text-xs text-gray-400 italic py-1">Sin comisiones registradas para este período</div>`;
+    comDiv.innerHTML = `<div class="text-xs text-gray-400 italic py-1">Sin comisiones registradas</div>`;
   }
-}
 
-// Abre el modal directamente en un subperíodo (desde el hint de la tarjeta)
-function openKomPeriodo(chamber, id, nombre, periodo, subPerfil) {
-  const coms = (subPerfil && subPerfil.comisiones) || [];
-  const urlFicha = (subPerfil && subPerfil.url_ficha) || "";
-  openKom(chamber, id, nombre, urlFicha, coms, [periodo], {[periodo]: subPerfil || {}});
+  // Link oficial
+  $("komLink").innerHTML = urlFicha
+    ? `<a href="${esc(urlFicha)}" target="_blank" rel="noopener"
+         class="inline-flex items-center gap-1.5 text-xs text-purple-600 hover:underline font-semibold">
+         🔗 Ver perfil oficial ↗
+       </a>`
+    : "";
+
+  // Cargar notas
+  $("komNotas").value = "";
+  try {
+    const data = await apiGet(`/api/kom/${chamber}/${id}`);
+    $("komNotas").value = (data.profile && (data.profile.notas || data.profile.notes)) || "";
+  } catch {}
+
+  $("komModal").classList.remove("hidden");
+  $("komModal").classList.add("flex");
 }
 
 function closeKom() {
@@ -1040,27 +930,17 @@ async function saveKom() {
   btn.disabled = true;
 
   try {
-    // Para diputados, guardar en clave específica de período:
-    // período 2026-2030 → id_2026, período 2022-2026 → id (backward compat)
-    const periodos = currentPerson.periodos || [];
-    const savePeriodo = periodos.includes("2026-2030") ? "2026-2030"
-                      : periodos[0] || "";
-    const saveId = (savePeriodo === "2026-2030")
-      ? `${currentPerson.id}_2026`
-      : currentPerson.id;
-
-    await apiPost(`/api/kom/${currentPerson.chamber}/${saveId}`, {
+    await apiPost(`/api/kom/${currentPerson.chamber}/${currentPerson.id}`, {
       notas:      $("komNotas").value || "",
       nombre:     currentPerson.nombre,
       url_ficha:  currentPerson.url_ficha,
       comisiones: currentPerson.comisiones,
-      periodo:    savePeriodo,
       updated_at: new Date().toISOString(),
     });
 
     btn.textContent = "✓ Guardado";
     btn.classList.replace("gradient-bg","bg-green-500");
-    toast(`Perfil ${currentPerson.nombre} (${savePeriodo||"—"}) guardado`);
+    toast(`Perfil de ${currentPerson.nombre} guardado`);
 
     setTimeout(() => {
       btn.textContent = orig;
