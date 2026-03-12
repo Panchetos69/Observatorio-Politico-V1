@@ -1,0 +1,39 @@
+{
+  "comision": "Ética y Transparencia",
+  "tipo": "Otras",
+  "sesiones": [
+    {
+      "ano": "2026",
+      "mes": "Marzo",
+      "sesion_id": "125",
+      "fecha": "03 mar. 2026",
+      "estado": "CELEBRADA",
+      "documentos": {
+        "citacion": {
+          "url": "https://www.camara.cl/legislacion/comisiones/citacion_detalle.aspx?prmId=3323&prmIdSesion=81302",
+          "texto": "TÍTULO: Comisión de Ética y Transparencia\nCitación\nInvitados"
+        },
+        "cuenta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "asistencia": {
+          "url": "https://www.camara.cl/legislacion/comisiones/asistencia.aspx?prmId=3323&prmIdSesion=81302",
+          "texto": "Sr. Héctor Barría Angulo: ASISTE\nSr. Bernardo Berger Fett: ASISTE\nSra. Ana María Bravo Castro: ASISTE\nSra. Pamela Jiles Moreno: NO ASISTE\nSr. Harry Jürgensen Rundshagen: ASISTE\nSra. Helia Molina Milman: ASISTE\nSr. Matías Ramírez Pascal: ASISTE\nSr. Renzo Trisotti Martínez: ASISTE"
+        },
+        "acta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "votaciones": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "resultado": {
+          "url": "https://www.camara.cl/legislacion/comisiones/resultado_detalle.aspx?prmId=3323&prmIdSesion=81302",
+          "texto": "TÍTULO: Comisión de Ética y Transparencia\nCitación\nResultado"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "comision": "Seguridad Ciudadana",
+  "prmID": "3320",
+  "integrantes": [
+    {
+      "nombre": "Sr. Cristián Araya Lerdo de Tejada",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1100"
+    },
+    {
+      "nombre": "Sr. Jorge Alessandri Vergara",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1009"
+    },
+    {
+      "nombre": "Sr. Jaime Araya Guerrero",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1099"
+    },
+    {
+      "nombre": "Sra. Lorena Fries Monleón",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1127"
+    },
+    {
+      "nombre": "Sr. Andrés Jouannet Valderrama",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1134"
+    },
+    {
+      "nombre": "Sr. Henry Leal Bizama",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1138"
+    },
+    {
+      "nombre": "Sr. Raúl Leiva Carvajal",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1044"
+    },
+    {
+      "nombre": "Sr. Andrés Longton Herrera",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1046"
+    },
+    {
+      "nombre": "Sra. Gloria Naveillan Arriagada",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1152"
+    },
+    {
+      "nombre": "Sra. Maite Orsini Pascal",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1058"
+    },
+    {
+      "nombre": "Sra. Alejandra Placencia Cabello",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1160"
+    },
+    {
+      "nombre": "Sr. Hugo Rey Martínez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1067"
+    },
+    {
+      "nombre": "Sr. Diego Schalper Sepúlveda",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1075"
+    }
+  ]
+}

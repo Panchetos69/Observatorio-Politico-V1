@@ -1,0 +1,72 @@
+{
+  "comision": "Minería y Energía",
+  "tipo": "Permanentes",
+  "sesiones": [
+    {
+      "ano": "2026",
+      "mes": "Marzo",
+      "sesion_id": "151",
+      "fecha": "04 mar. 2026",
+      "estado": "SUSPENDIDA",
+      "documentos": {
+        "citacion": {
+          "url": "https://www.camara.cl/legislacion/comisiones/citacion_detalle.aspx?prmId=3309&prmIdSesion=81284",
+          "texto": "TÍTULO: Comisión de Minería y Energía\nCitación\nInvitados"
+        },
+        "cuenta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "asistencia": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "acta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "votaciones": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "resultado": {
+          "url": "No",
+          "texto": "No disponible"
+        }
+      }
+    },
+    {
+      "ano": "2026",
+      "mes": "Marzo",
+      "sesion_id": "150",
+      "fecha": "04 mar. 2026",
+      "estado": "SUSPENDIDA",
+      "documentos": {
+        "citacion": {
+          "url": "https://www.camara.cl/legislacion/comisiones/citacion_detalle.aspx?prmId=3309&prmIdSesion=81283",
+          "texto": "TÍTULO: Comisión de Minería y Energía\nCitación\nInvitados"
+        },
+        "cuenta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "asistencia": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "acta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "votaciones": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "resultado": {
+          "url": "No",
+          "texto": "No disponible"
+        }
+      }
+    }
+  ]
+}

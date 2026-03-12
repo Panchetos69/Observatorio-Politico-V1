@@ -1,0 +1,39 @@
+{
+  "comision": "Control del Sistema de Inteligencia del Estado",
+  "tipo": "Otras",
+  "sesiones": [
+    {
+      "ano": "2026",
+      "mes": "Marzo",
+      "sesion_id": "98",
+      "fecha": "02 mar. 2026",
+      "estado": "CELEBRADA",
+      "documentos": {
+        "citacion": {
+          "url": "https://www.camara.cl/legislacion/comisiones/citacion_detalle.aspx?prmId=3328&prmIdSesion=81221",
+          "texto": "TÍTULO: Comisión de Control del Sistema de Inteligencia del Estado\nCitación\nInvitados"
+        },
+        "cuenta": {
+          "url": "https://www.camara.cl/verDoc.aspx?prmID=381803&prmTipo=DOCUMENTO_COMISION",
+          "texto": "--- Página 1 ---\nCOMISIÓN DE CONTROL DEL SISTEMA DE INTELIGENCIA DEL\nESTADO\nLegislatura Nº 373\nSesión 98ª, especial\nLunes 02 de marzo de 2026\nEl acta de la sesión 96ª se declara aprobada.\nEl acta de la sesión 97ª se encuentra a disposición de las señoras Diputadas y señores\nDiputados.\nSe han recibido los siguientes documentos:\n1.- Correo electrónico de fecha 27 de febrero de 2026 del Gabinete del Ministerio\nde Relaciones Exteriores, por medio del cual se informa que el Ministro de esa cartera,\nseñor Alberto Van Klaveren Stork, no puede asistir por tema de agenda y será\nrepresentado por la Subsecretaria de Relaciones Exteriores, Gloria de la Fuente\nGonzález, acompañada de su jefe de gabinete, Consejero José Juan Hernández.\nAdemás se informa que asiste el Director Nacional de Fronteras y Límites del\nEstado, señor Carlos Dettleff Beros, acompañado del Jefe Administrativo de la\nDirección Nacional de Fronteras y Límites del Estado, Juan Esteban Muñoz.\nCOMISIÓN DE CONTROL DEL SISTEMA DE INTELIGENCIA DEL\nESTADO\nLegislatura Nº 373\nSesión 98ª, especial\nLunes 02 de marzo de 2026\nEl acta de la sesión 96ª se declara aprobada.\nEl acta de la sesión 97ª se encuentra a disposición de las señoras Diputadas y señores\nDiputados.\nSe han recibido los siguientes documentos:\n1.- Correo electrónico de fecha 27 de febrero de 2026 del Gabinete del Ministerio\nde Relaciones Exteriores, por medio del cual se informa que el Ministro de esa cartera,\nseñor Alberto Van Klaveren Stork, no puede asistir por tema de agenda y será\nrepresentado por la Subsecretaria de Relaciones Exteriores, Gloria de la Fuente\nGonzález, acompañada de su jefe de gabinete, Consejero José Juan Hernández.\nAdemás se informa que asiste el Director Nacional de Fronteras y Límites del\nEstado, señor Carlos Dettleff Beros, acompañado del Jefe Administrativo de la\nDirección Nacional de Fronteras y Límites del Estado, Juan Esteban Muñoz. | \n |"
+        },
+        "asistencia": {
+          "url": "https://www.camara.cl/legislacion/comisiones/asistencia.aspx?prmId=3328&prmIdSesion=81221",
+          "texto": "Sr. René Alinco Bustos: ASISTE\nSr. Jorge Brito Hasbún: ASISTE\nSr. Álvaro Carter Fernández: NO ASISTE\nSra. Daniella Cicardini Milla: ASISTE\nSra. Karen Medina Vásquez: NO ASISTE\nSr. Leonidas Romero Sáez: NO ASISTE\nSr. Stephan Schubert Rubio: ASISTE"
+        },
+        "acta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "votaciones": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "resultado": {
+          "url": "https://www.camara.cl/legislacion/comisiones/resultado_detalle.aspx?prmId=3328&prmIdSesion=81221",
+          "texto": "TÍTULO: Comisión de Control del Sistema de Inteligencia del Estado\nCitación\nResultado"
+        }
+      }
+    }
+  ]
+}

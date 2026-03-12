@@ -1,0 +1,39 @@
+{
+  "comision": "Vivienda, Desarrollo Urbano y Bienes Nacionales",
+  "tipo": "Permanentes",
+  "sesiones": [
+    {
+      "ano": "2026",
+      "mes": "Marzo",
+      "sesion_id": "140",
+      "fecha": "04 mar. 2026",
+      "estado": "SUSPENDIDA",
+      "documentos": {
+        "citacion": {
+          "url": "https://www.camara.cl/legislacion/comisiones/citacion_detalle.aspx?prmId=3316&prmIdSesion=81291",
+          "texto": "TÍTULO: Comisión de Vivienda, Desarrollo Urbano y Bienes Nacionales\nCitación\nInvitados"
+        },
+        "cuenta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "asistencia": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "acta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "votaciones": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "resultado": {
+          "url": "No",
+          "texto": "No disponible"
+        }
+      }
+    }
+  ]
+}

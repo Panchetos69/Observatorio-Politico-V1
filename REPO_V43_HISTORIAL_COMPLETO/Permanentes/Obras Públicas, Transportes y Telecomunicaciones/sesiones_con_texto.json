@@ -1,0 +1,72 @@
+{
+  "comision": "Obras Públicas, Transportes y Telecomunicaciones",
+  "tipo": "Permanentes",
+  "sesiones": [
+    {
+      "ano": "2026",
+      "mes": "Marzo",
+      "sesion_id": "151",
+      "fecha": "03 mar. 2026",
+      "estado": "CITADA",
+      "documentos": {
+        "citacion": {
+          "url": "https://www.camara.cl/legislacion/comisiones/citacion_detalle.aspx?prmId=3302&prmIdSesion=81280",
+          "texto": "TÍTULO: Comisión de Obras Públicas, Transportes y Telecomunicaciones\nCitación\nInvitados"
+        },
+        "cuenta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "asistencia": {
+          "url": "https://www.camara.cl/legislacion/comisiones/asistencia.aspx?prmId=3302&prmIdSesion=81280",
+          "texto": "Sr. René Alinco Bustos: ASISTE\nSr. Carlos Bianchi Chelech: ASISTE\nSr. Félix Bugueño Sotelo: NO ASISTE\nSr. Fernando Bórquez Montecinos: ASISTE\nSr. Felipe Camaño Cárdenas: NO ASISTE\nSr. Juan Antonio Coloma Álamos: ASISTE\nSr. Juan Irarrázaval Rossel: ASISTE\nSr. Cosme Mellado Pino: NO ASISTE\nSr. Jaime Mulet Martínez: ASISTE\nSra. Emilia Nuyado Ancapichún: ASISTE\nSr. Mauricio Ojeda Rebolledo: NO ASISTE\nSr. Leonidas Romero Sáez: NO ASISTE\nSr. Jaime Sáez Quiroz: ASISTE"
+        },
+        "acta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "votaciones": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "resultado": {
+          "url": "https://www.camara.cl/legislacion/comisiones/resultado_detalle.aspx?prmId=3302&prmIdSesion=81280",
+          "texto": "TÍTULO: Comisión de Obras Públicas, Transportes y Telecomunicaciones\nCitación\nResultado"
+        }
+      }
+    },
+    {
+      "ano": "2026",
+      "mes": "Marzo",
+      "sesion_id": "150",
+      "fecha": "02 mar. 2026",
+      "estado": "CITADA",
+      "documentos": {
+        "citacion": {
+          "url": "https://www.camara.cl/legislacion/comisiones/citacion_detalle.aspx?prmId=3302&prmIdSesion=81331",
+          "texto": "TÍTULO: Comisión de Obras Públicas, Transportes y Telecomunicaciones\nCitación\nInvitados"
+        },
+        "cuenta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "asistencia": {
+          "url": "https://www.camara.cl/legislacion/comisiones/asistencia.aspx?prmId=3302&prmIdSesion=81331",
+          "texto": "Sr. René Alinco Bustos: ASISTE\nSr. Carlos Bianchi Chelech: ASISTE\nSr. Félix Bugueño Sotelo: ASISTE\nSr. Fernando Bórquez Montecinos: ASISTE\nSr. Felipe Camaño Cárdenas: REEMPLAZADO POR Sr. Héctor Barría Angulo\nSr. Juan Antonio Coloma Álamos: REEMPLAZADO POR Sr. Henry Leal Bizama\nSr. Juan Irarrázaval Rossel: REEMPLAZADO POR Sr. Luis Sánchez Ossa\nSr. Cosme Mellado Pino: NO ASISTE\nSr. Jaime Mulet Martínez: ASISTE\nSra. Emilia Nuyado Ancapichún: REEMPLAZADA POR Sr. Daniel Manouchehri Lobos\nSr. Mauricio Ojeda Rebolledo: NO ASISTE\nSr. Leonidas Romero Sáez: NO ASISTE\nSr. Jaime Sáez Quiroz: ASISTE"
+        },
+        "acta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "votaciones": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "resultado": {
+          "url": "https://www.camara.cl/legislacion/comisiones/resultado_detalle.aspx?prmId=3302&prmIdSesion=81331",
+          "texto": "TÍTULO: Comisión de Obras Públicas, Transportes y Telecomunicaciones\nCitación\nResultado"
+        }
+      }
+    }
+  ]
+}

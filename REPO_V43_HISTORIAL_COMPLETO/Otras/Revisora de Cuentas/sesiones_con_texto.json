@@ -1,0 +1,39 @@
+{
+  "comision": "Revisora de Cuentas",
+  "tipo": "Otras",
+  "sesiones": [
+    {
+      "ano": "2026",
+      "mes": "Marzo",
+      "sesion_id": "34",
+      "fecha": "04 mar. 2026",
+      "estado": "CITADA",
+      "documentos": {
+        "citacion": {
+          "url": "https://www.camara.cl/legislacion/comisiones/citacion_detalle.aspx?prmId=3325&prmIdSesion=81278",
+          "texto": "TÍTULO: Comisión Revisora de Cuentas\nCitación\nInvitados"
+        },
+        "cuenta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "asistencia": {
+          "url": "https://www.camara.cl/legislacion/comisiones/asistencia.aspx?prmId=3325&prmIdSesion=81278",
+          "texto": "Sr. Eric Aedo Jeldres: NO ASISTE\nSr. Félix González Gatica: ASISTE\nSr. Cristian Labbé Martínez: NO ASISTE\nSr. Daniel Manouchehri Lobos: ASISTE\nSra. Karen Medina Vásquez: ASISTE\nSr. José Carlos Meza Pereira: ASISTE\nSr. Hernán Palma Pérez: ASISTE\nSr. Hugo Rey Martínez: NO ASISTE\nSr. Cristián Tapia Ramos: NO ASISTE"
+        },
+        "acta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "votaciones": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "resultado": {
+          "url": "https://www.camara.cl/legislacion/comisiones/resultado_detalle.aspx?prmId=3325&prmIdSesion=81278",
+          "texto": "TÍTULO: Comisión Revisora de Cuentas\nCitación\nResultado"
+        }
+      }
+    }
+  ]
+}

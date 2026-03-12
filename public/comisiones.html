@@ -301,6 +301,19 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
         <button id="btn-senado"    class="camara-btn inactive"         onclick="setCamara('senado')">🔴 Senado</button>
       </div>
 
+      <!-- Selector período legislativo (solo Diputados) -->
+      <div id="periodoComisionWrap">
+        <select id="periodoComisionSelect"
+          class="w-full text-sm border border-gray-200 rounded-xl px-3 py-2 focus:outline-none appearance-none"
+          style="border-color:#e5e7eb" onfocus="this.style.borderColor='var(--accent)'" onblur="this.style.borderColor='#e5e7eb'"
+          onchange="onPeriodoComisionChange()">
+          <option value="">📅 Todos los períodos</option>
+          <option value="2026-2030">🟢 Período 2026–2030 (actual)</option>
+          <option value="2022-2026">🔵 Período 2022–2026 (anterior)</option>
+        </select>
+        <span id="periodoBadgeCom" class="hidden mt-1 inline-block text-xs font-bold px-2 py-0.5 rounded-full bg-green-100 text-green-700"></span>
+      </div>
+
       <!-- Grupo + búsqueda -->
       <div class="flex gap-2">
         <select id="groupSelect" class="flex-1 text-sm border border-gray-200 rounded-xl px-3 py-2 focus:outline-none" style="border-color:#e5e7eb" onfocus="this.style.borderColor='var(--accent)'" onblur="this.style.borderColor='#e5e7eb'">
@@ -332,7 +345,10 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
             <!-- Rellena dinámicamente -->
           </div>
           <h2 id="commissionTitle" class="text-xl font-extrabold text-gray-900">Selecciona una comisión</h2>
-          <div id="commissionSubtitle" class="text-sm text-gray-500 mt-0.5">Elige de la lista para ver las sesiones y documentos.</div>
+          <div id="commissionSubtitle" class="text-sm text-gray-500 mt-0.5 flex items-center gap-2">
+            Elige de la lista para ver las sesiones y documentos.
+            <span id="periodoDetailBadge" class="hidden text-xs font-bold px-2 py-0.5 rounded-full"></span>
+          </div>
         </div>
         <!-- Botones de comisión -->
         <div class="flex gap-2 shrink-0 flex-wrap">
@@ -508,6 +524,7 @@ body { padding-bottom: 64px; } /* espacio para el footer fijo */
 // ══════════════════════════════════════════════════════════════
 const $ = id => document.getElementById(id);
 let camaraActual      = "diputados";
+let periodoActual     = "";      // "" | "2026-2030" | "2022-2026"
 let currentCommission = null;   // { group, name }
 let allSessionsData   = null;   // datos crudos de sesiones
 let estadoFiltro      = "TODAS";
@@ -559,8 +576,19 @@ function setCamara(c) {
   const isSen = c === "senado";
   $("btn-diputados").className = "camara-btn " + (!isSen ? "active-diputados" : "inactive");
   $("btn-senado"   ).className = "camara-btn " + ( isSen ? "active-senado"    : "inactive");
-  // Cambiar acento CSS según cámara
   document.body.classList.toggle("camara-senado", isSen);
+  // Mostrar/ocultar selector de período (solo diputados)
+  const periodoWrap = $("periodoComisionWrap");
+  if (periodoWrap) periodoWrap.classList.toggle("hidden", isSen);
+  if (isSen) { periodoActual = ""; const ps = $("periodoComisionSelect"); if(ps) ps.value=""; }
+  currentCommission = null;
+  allSessionsData = null;
+  resetDetailPanel();
+  loadCommissions();
+}
+
+function onPeriodoComisionChange() {
+  periodoActual = ($("periodoComisionSelect") ? $("periodoComisionSelect").value : "") || "";
   currentCommission = null;
   allSessionsData = null;
   resetDetailPanel();
@@ -582,9 +610,19 @@ async function loadCommissions() {
   $("comCount").textContent = "Cargando…";
   $("commissionsList").innerHTML = skeletonList(5);
   try {
-    const data = await apiGet(`/api/commissions?group=${encodeURIComponent(group)}&q=${encodeURIComponent(q)}&camara=${camaraActual}`);
+    const periodoParam = periodoActual ? `&periodo=${encodeURIComponent(periodoActual)}` : "";
+    const data = await apiGet(`/api/commissions?group=${encodeURIComponent(group)}&q=${encodeURIComponent(q)}&camara=${camaraActual}${periodoParam}`);
     const items = data.commissions || data.items || [];
     $("comCount").textContent = `${items.length} comisión(es)`;
+    // Mostrar badge de período activo si aplica
+    const periodoLabel = data.periodo || periodoActual;
+    if (periodoLabel && $("periodoBadgeCom")) {
+      $("periodoBadgeCom").textContent = periodoLabel === "2026-2030" ? "🟢 2026–2030" :
+                                          periodoLabel === "2022-2026" ? "🔵 2022–2026" : periodoLabel;
+      $("periodoBadgeCom").classList.remove("hidden");
+    } else if ($("periodoBadgeCom")) {
+      $("periodoBadgeCom").classList.add("hidden");
+    }
     renderCommissionsList(items, group);
   } catch(e) {
     $("commissionsList").innerHTML = `<div class="text-sm text-red-500 p-2">Error: ${e.message}</div>`;
@@ -655,12 +693,25 @@ async function openCommission(group, name) {
   $("btnPerfilComision").style.display = "flex";
 
   try {
-    const data = await apiGet(`/api/commissions/${encodeURIComponent(group)}/${encodeURIComponent(name)}/sessions?camara=${camaraActual}`);
+    const periodoParam = periodoActual ? `&periodo=${encodeURIComponent(periodoActual)}` : "";
+    const data = await apiGet(`/api/commissions/${encodeURIComponent(group)}/${encodeURIComponent(name)}/sessions?camara=${camaraActual}${periodoParam}`);
     if (!data.success) throw new Error(data.error||"Error desconocido");
 
     allSessionsData = data.commission;
     const total = Object.values(allSessionsData.sessions_by_year||{}).flat().length;
-    $("commissionSubtitle").textContent = `${allSessionsData.years.length} año(s) · ${total} sesiones`;
+    const periodoInfo = allSessionsData.periodo || periodoActual;
+    let subtitleText = `${allSessionsData.years.length} año(s) · ${total} sesiones`;
+    $("commissionSubtitle").innerHTML = subtitleText;
+    // Badge de período
+    const badge = $("periodoDetailBadge");
+    if (badge && periodoInfo) {
+      badge.textContent = periodoInfo === "2026-2030" ? "🟢 2026–2030" :
+                          periodoInfo === "2022-2026" ? "🔵 2022–2026" : periodoInfo;
+      badge.className = `text-xs font-bold px-2 py-0.5 rounded-full ${periodoInfo === "2026-2030" ? "bg-green-100 text-green-700" : "bg-blue-100 text-blue-700"}`;
+      badge.classList.remove("hidden");
+    } else if (badge) {
+      badge.classList.add("hidden");
+    }
 
     if (!allSessionsData.years.length) {
       $("commissionDetail").innerHTML = `<div class="text-sm text-gray-400 py-10 text-center">Sin sesiones registradas.</div>`;

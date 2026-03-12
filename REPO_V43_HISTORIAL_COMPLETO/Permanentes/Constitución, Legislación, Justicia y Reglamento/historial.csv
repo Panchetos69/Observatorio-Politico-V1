@@ -1,0 +1,3 @@
+﻿Año,Mes,ID,Fecha,Estado,URL_Citacion,URL_Cuenta,URL_Asistencia,URL_Acta,URL_Votacion,URL_Resultado
+2026,Marzo,311,04 mar. 2026,SUSPENDIDA,https://www.camara.cl/legislacion/comisiones/citacion_detalle.aspx?prmId=3301&prmIdSesion=81300,No,No,No,No,No
+2026,Marzo,310,03 mar. 2026,CELEBRADA,https://www.camara.cl/legislacion/comisiones/citacion_detalle.aspx?prmId=3301&prmIdSesion=81299,No,https://www.camara.cl/legislacion/comisiones/asistencia.aspx?prmId=3301&prmIdSesion=81299,https://www.camara.cl/verDoc.aspx?prmID=382708&prmTipo=DOCUMENTO_COMISION,No,https://www.camara.cl/legislacion/comisiones/resultado_detalle.aspx?prmId=3301&prmIdSesion=81299

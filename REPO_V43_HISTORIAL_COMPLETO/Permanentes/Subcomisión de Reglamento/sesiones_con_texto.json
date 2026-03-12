@@ -1,0 +1,39 @@
+{
+  "comision": "Subcomisión de Reglamento",
+  "tipo": "Permanentes",
+  "sesiones": [
+    {
+      "ano": "2026",
+      "mes": "Marzo",
+      "sesion_id": "20",
+      "fecha": "02 mar. 2026",
+      "estado": "CELEBRADA",
+      "documentos": {
+        "citacion": {
+          "url": "https://www.camara.cl/legislacion/comisiones/citacion_detalle.aspx?prmId=4761&prmIdSesion=81298",
+          "texto": "TÍTULO: Comisión de Subcomisión de Reglamento\nCitación\nInvitados"
+        },
+        "cuenta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "asistencia": {
+          "url": "https://www.camara.cl/legislacion/comisiones/asistencia.aspx?prmId=4761&prmIdSesion=81298",
+          "texto": "Sr. Jorge Alessandri Vergara: NO ASISTE\nSr. Marcos Ilabaca Cerda: ASISTE\nSr. Andrés Longton Herrera: NO ASISTE\nSra. Javiera Morales Alvarado: NO ASISTE\nSr. Luis Sánchez Ossa: ASISTE"
+        },
+        "acta": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "votaciones": {
+          "url": "No",
+          "texto": "No disponible"
+        },
+        "resultado": {
+          "url": "https://www.camara.cl/legislacion/comisiones/resultado_detalle.aspx?prmId=4761&prmIdSesion=81298",
+          "texto": "TÍTULO: Comisión de Subcomisión de Reglamento\nCitación\nResultado"
+        }
+      }
+    }
+  ]
+}
