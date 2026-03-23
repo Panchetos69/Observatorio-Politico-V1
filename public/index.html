@@ -2,6 +2,17 @@
 <html lang="es">
 <head>
 <script>
+
+  window.__ENV__ = {
+
+    SUPABASE_URL: "https://gakjhlkxfkndpzauxixx.supabase.co",
+
+    SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdha2pobGt4ZmtuZHB6YXV4aXh4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQyODEwMjUsImV4cCI6MjA4OTg1NzAyNX0.HUsbyc1jjxFBP3lWGvg182zwQchbXn2xLcM7akcyljg"
+
+  };
+
+</script> 
+<script>
 // ── KOM Auth ─────────────────────────────────────────────────
 function _getKomUser() {
   try { return JSON.parse(localStorage.getItem('kom_user') || 'null'); } catch(e) { return null; }
