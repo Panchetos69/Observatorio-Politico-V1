@@ -16,45 +16,38 @@
 <body class="bg-gray-50 min-h-screen">
 
 <script>
-// ══════════════════════════════════════════════════════════════
-// USUARIOS — editar aquí para agregar/quitar accesos
-// ══════════════════════════════════════════════════════════════
 const KOM_USERS = [
-  { email: "admin@kom.cl",           password: "kom2025",      name: "Administrador",  role: "admin" },
-  { email: "sergio@kom.cl",        password: "SegioKOM21",  name: "Sergio",   role: "user"  },
-  { email: "paula@kom.cl",   password: "PaulaKOM13",  name: "Paula",      role: "user"  }
-  { email: "javiera.paz@kom.cl",   password: "JavierKOM19",  name: "Javiera",      role: "user"  }
-  { email: "david@kom.cl",   password: "DavidKOM12",  name: "David",      role: "user"  }
-  { email: "catalina@kom.cl",   password: "CatalinaKOM11",  name: "Camila",      role: "user"  }
-  // Agregar más usuarios aquí con el mismo formato
+  { email: "admin@kom.cl",        password: "kom2025",      name: "Administrador", role: "admin" },
+  { email: "sergio@kom.cl",       password: "SegioKOM21",   name: "Sergio",        role: "user" },
+  { email: "paula@kom.cl",        password: "PaulaKOM13",   name: "Paula",         role: "user" },
+  { email: "javiera.paz@kom.cl",  password: "JavierKOM19",  name: "Javiera",       role: "user" },
+  { email: "david@kom.cl",        password: "DavidKOM12",   name: "David",         role: "user" },
+  { email: "catalina@kom.cl",     password: "CatalinaKOM11",name: "Camila",        role: "user" }
 ];
-// ══════════════════════════════════════════════════════════════
 
-// Normaliza texto para búsqueda tolerante a tildes/mayúsculas
 function normalize(s){ 
-  return (s||'').toLowerCase()
-    .normalize('NFD').replace(/[\u0300-\u036f]/g,''); 
+  return (s || '').toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, ''); 
 }
 
 function tryLogin() {
-  const email    = document.getElementById('loginEmail').value.trim().toLowerCase();
+  const email = document.getElementById('loginEmail').value.trim().toLowerCase();
   const password = document.getElementById('loginPass').value;
-  const errEl    = document.getElementById('loginErr');
-  
-  const user = KOM_USERS.find(u => 
+  const errEl = document.getElementById('loginErr');
+
+  const user = KOM_USERS.find(u =>
     normalize(u.email) === normalize(email) && u.password === password
   );
-  
+
   if (user) {
-    // Guardar sesión en localStorage
     localStorage.setItem('kom_user', JSON.stringify({
-      email: user.email, name: user.name, role: user.role,
+      email: user.email,
+      name: user.name,
+      role: user.role,
       loginAt: new Date().toISOString()
     }));
-    // Marcar que debe entrar al dashboard al llegar al index
     localStorage.setItem('kom_after_login', '1');
     errEl.textContent = '';
-    // Siempre ir al index (landing), que luego auto-redirige al dashboard
     window.location.href = '/index.html';
   } else {
     errEl.textContent = 'Correo o contraseña incorrectos.';
@@ -63,7 +56,6 @@ function tryLogin() {
   }
 }
 
-// Enter key support
 document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('loginPass').addEventListener('keydown', e => {
     if (e.key === 'Enter') tryLogin();
@@ -71,8 +63,6 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('loginEmail').addEventListener('keydown', e => {
     if (e.key === 'Enter') document.getElementById('loginPass').focus();
   });
-  
-  // NO auto-redirigir al llegar a login — el usuario debe poder ver el formulario
 });
 </script>
 
