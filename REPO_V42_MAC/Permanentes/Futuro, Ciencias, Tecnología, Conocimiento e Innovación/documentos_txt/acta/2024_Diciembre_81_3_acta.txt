@@ -1,0 +1,782 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=275&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:34:14
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 81ª, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, TECNOLOGÍA, 
+CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 372ª LEGISLATURA, 
+CELEBRADA EL DÍA MIÉRCOLES 04 DE DICIEMBRE 2024, DE 17:35 A 19:05 HORAS.
+SUMARIO: Se continuó con la votación en particular del proyecto de
+ley, originado en mensaje, que regula los sistemas de 
+inteligencia artificial (boletín Nº 16821-19), y una moción 
+que regula los sistemas de inteligencia artificial, la 
+robótica y las tecnologías conexas, en sus distintos 
+ámbitos de aplicación (boletín Nº 15869-19), refundidos, 
+en primer trámite constitucional, con urgencia calificada 
+de “simple”.
+I.- PRESIDENCIA
+Presidió la sesión, la diputada Érika Olivera (Presidente Accidental), actuó como 
+Abogada Secretaria de la Comisión, la señora María Soledad Fredes Ruiz, como Abogada 
+Ayudante, la señora María Jesús Serey Sardá y como secretaria ejecutiva, la señora 
+Teresita Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Paula Labra, Erika 
+Olivera, Marcela Riquelme y Gael Yeomans, y los diputados integrantes de la Comisión, 
+señores Tomás Lagomarsino, Rubén Oyarzo y Hernán Palma. La diputada Helia Molina fue 
+reemplazada por la diputada Camila Musante. Participó además la diputada Marta 
+González.
+Concurrió, para la orden del día, la Ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, señora Aisén Etcheverry Escudero, acompañada de las asesoras legislativas 
+Paloma Herrera y Camila Aguayo.
+Participaron, en calidad de expertos, la Investigadora Principal del Centro Nacional 
+de Inteligencia Artificial (CENIA) y miembro del Grupo de Trabajo en Ética de CENIA, señora 
+Claudia López Moncada; la Coordinadora Ejecutiva de la Iniciativa de Datos e Inteligencia 
+Artificial (IDIA) de la Universidad de Chile, señora Dominique Varela Hermosilla; la Directora 
+de Empresas Coca Cola, Andina, Novofarma, Orion, especialista en Inteligencia Artificial, 
+señora María Francisca Yañez Castillo; y el Gerente y Director Ejecutivo del Centro 
+Nacional de Inteligencia Artificial (CENIA), señor Rodrigo Durán.
+III.- ACTAS
+El acta de la sesión 79ª se declaró reglamentariamente aprobada.
+El acta de la sesión 80ª se puso a disposición de las señoras diputadas y señores 
+diputados.
+IV.- CUENTA
+Se recibieron los siguientes documentos:
+1.- Comunicación del Jefe de la Bancada de Diputados UDI, por la que informa que 
+el diputado Daniel Lilayu será reemplazado, en esta sesión, por el diputado Henry Leal.
+Se tomó conocimiento
+2.- Comunicación de la Jefa de la Bancada de Diputados PPD, por la que informa 
+que la diputada Helia Molina será reemplazada, en esta sesión, por la diputada Camila 
+Musante.
+Se tomó conocimiento
+3.- Comunicación suscrita por el diputado Johannes Kaiser y la diputada Gael 
+Yeomans, a través de la cual informan que han acordado pareo para la presente sesión.
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 19/03/2025 11:30:25 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 8FE74E4A33B25217
+--- PÁGINA 2 ---
+Se tomó conocimiento
+4.- Correo electrónico del profesor titular de la Academia Nacional de Estudios 
+Políticos y Estratégicos (ANEPE), señor Jorge Gatica Bórquez, por medio del cual señala 
+que no participará de este proceso legislativo por conflictos de agenda.
+Se tomó conocimiento
+5.- Correo electrónico del Doctor en Políticas Públicas por la Universidad de 
+Maryland at College Park, Estados Unidos, y Director del Departamento de Estudios 
+Políticos de la Universidad de Santiago de Chile, señor Mauricio Olavarría Gambi, quien 
+excusa su inasistencia a esta sesión por dificultades de agenda.
+Se tomó conocimiento
+V.- VARIOS
+El diputado Hernán Palma planteó la necesidad de legislar para proteger los 
+meteoritos encontrados en Chile, considerados patrimonio nacional y de la humanidad. 
+Subrayó que solo el 23 por ciento de los meteoritos recolectados en el país permanece 
+dentro de sus fronteras y que, de ese porcentaje, apenas el 7 por ciento se utiliza para 
+investigación científica o exhibiciones en museos; la mayoría son extraídos ilegalmente y 
+llevados a países como Rusia, Francia y Polonia, donde se destinan a usos científicos o de 
+exhibición.
+Asimismo, destacó que el desierto del norte de Chile, por sus condiciones 
+climatológicas, es un lugar privilegiado para la preservación de estos cuerpos celestes, que 
+son fuentes valiosas de información sobre la historia del sistema solar y el cosmos. Por ello, 
+preguntó si el proyecto de ley relacionado con la protección de meteoritos está contemplado 
+en la tabla legislativa, instando a tomar medidas para evitar su extracción ilegal y asegurar 
+su conservación.
+De manera anecdótica, mostró un meteorito regalado por una agrupación de jóvenes 
+geólogos y geólogas e informó que la ministra también había recibido uno, más grande, en 
+reconocimiento a su cargo.
+En segundo lugar, recalcó la importancia de retomar el debate sobre el proyecto de 
+ley de neuroderechos, impulsado por el exsenador Guido Girardi y por el senador Francisco 
+Chahuán. Mencionó, además, que este tema ya había sido discutido previamente con el 
+Ejecutivo y destacó su relevancia para la protección de la integridad de las personas.
+La diputada Érika Olivera, Presidenta accidental, aclaró que prefería dejar la 
+respuesta sobre el proyecto de neuroderechos al Presidente titular de la Comisión, quien 
+podría abordarlo en otra instancia. Explicó que la tabla del día está organizada para 
+continuar con la votación del proyecto sobre inteligencia artificial, dadas su extensión y 
+complejidad. Finalmente, se comprometió a transmitir la solicitud al diputado Eric Aedo, a 
+fin de que tomara nota y considerara el tratamiento de la iniciativa sobre neuroderechos en 
+el futuro.
+La señora María Soledad Fredes, Secretaria, respondió que el proyecto sobre 
+protección de meteoritos, que corresponde al boletín N° 17174-19, se encuentra en la 
+Comisión, pero que hasta ahora no se ha puesto en tabla.
+VI.- ORDEN DEL DÍA
+Proyecto de ley que regula sistemas de inteligencia artificial, en primer trámite 
+constitucional y reglamentario (boletín N° 16821-19).
+La diputada Érika Olivera, Presidenta accidental, explicó que la sesión tenía por 
+objeto continuar la votación en particular del proyecto de ley que regula los sistemas de 
+inteligencia artificial (boletín Nº 16821-19) en su primer trámite constitucional, con urgencia 
+calificada de “simple”.
+Luego de dar la bienvenida a la ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, Aisén Etcheverry, a su equipo legislativo y a varios expertos invitados, quienes
+2
+--- PÁGINA 3 ---
+participaron presencial o telemáticamente, informó que la ministra debía retirarse a las 
+19:10 horas para asistir a una actividad en Santiago, por lo cual se votaría solo hasta agotar 
+el tiempo disponible, propuesta que fue refrendada por los integrantes de la Comisión que 
+se encontraban presentes.
+Enseguida, solicitó a la Secretaria de la Comisión que informara a la Comisión sobre 
+el estado de las votaciones.
+Artículo 3, numeral 20
+La señora María Soledad Fredes, Secretaria, informó que en la sesión anterior se 
+había votado hasta el número 19 del artículo 3 y que habían quedado pendientes la 
+discusión y la votación del número 20. Además, señaló que en la presente sesión había 
+ingresado una indicación de la diputada Labra.
+Nueva indicación de la diputada Labra, para reemplazar el numeral 20 (espacio 
+controlado de pruebas) del artículo 3º del proyecto por lo siguiente:
+“Espacio controlado de pruebas: un entorno controlado habilitado por el Ministerio 
+de Ciencia, Tecnología, Conocimiento e Innovación, en coordinación con el Ministerio de 
+Economía, Fomento y Turismo, que facilita el desarrollo, la prueba y la validación de 
+sistemas de IA.”.
+La diputada Paula Labra recordó que uno de los temas pendientes de la sesión 
+anterior era la definición del concepto “espacio controlado de pruebas”, asunto que calificó 
+como amplio y complejo. Explicó que su indicación busca enfocar este concepto en un 
+entorno tipo sandbox, en lugar de algo completamente controlado por un órgano del Estado, 
+como se plantea en el proyecto original, pero ajustado a un plan específico diseñado por 
+este., Por tanto, propuso que el entorno fuera controlado y habilitado por el Ministerio de 
+Ciencia, en lugar de ser creado este, ya que consideraba que el concepto de “habilitación” 
+era un término más concreto. Señaló que esta habilitación debería realizarse en 
+coordinación con el Ministerio de Economía, que aportaría recursos y asesoramiento 
+tecnológico, además de involucrar a entidades como la Corfo.
+Agregó que se ha discutido la participación de distintos órganos del Estado, según 
+sus áreas de los sistemas de inteligencia artificial (IA). Así, por ejemplo, el Ministerio de 
+Salud debería revisar sistemas de IA relacionados con salud y el Ministerio del Medio 
+Ambiente debía hacer lo propio en los relacionados con su ámbito. Sin embargo, expresó 
+que considera innecesario crear espacios controlados independientes para cada ministerio, 
+ya que eso implicaría duplicar esfuerzos tecnológicos.
+Por ello, propuso que el Ministerio de Ciencia habilitara un espacio centralizado y, 
+cuando fuera necesario, convocara expertos de los ministerios correspondientes, según la 
+temática, ya que así no se requerirían recursos adicionales. Además, aclaró que su 
+indicación mantenía la parte final del número y que estaba enfocada en facilitar el desarrollo, 
+prueba y validación de sistemas de IA.
+La señora Aisén Etcheverry, ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, comentando lo planteado por la diputada Labra, explicó que el uso del verbo 
+“habilitar” había sido ampliamente discutido en el grupo de asesores, ya que permitía que 
+el espacio pudiera ser desarrollado directamente por la administración o tercerizado, lo que 
+consideró una mejora respecto de la redacción original.
+Reconoció que persistían dudas sobre qué organismo debía encargarse de crearlo 
+y señaló que ese era un tema que podía ser discutido. Asimismo, indicó que la función del 
+"espacio controlado de pruebas" era evaluar, de manera controlada y en el mundo real, el 
+impacto de la IA en relación con las regulaciones existentes, y mencionó que la discusión 
+entre los asesores había girado en torno a qué organismos eran responsables de supervisar 
+esos efectos, destacando que generalmente eran entidades fiscalizadoras.
+Aclaró que el Ministerio de Ciencia no tenía funciones de fiscalización, ya que su rol 
+se centraba en crear y fomentar políticas públicas, mientras que organismos como la 
+Superintendencia de Casinos de Juego sí realizaban fiscalizaciones.
+3
+--- PÁGINA 4 ---
+Además, explicó que también analizaron el significado del concepto "espacio 
+controlado de pruebas" y, para explicarlo, puso como ejemplo hipotético el caso de la 
+Superintendencia de Casinos de Juego, que podría evaluar un algoritmo de IA diseñado 
+por una empresa o start-up para aumentar la seguridad de las máquinas tragamonedas en 
+un casino. Al respecto, señaló que la responsabilidad de la Superintendencia sería 
+asegurarse de que dicho algoritmo no favoreciera a algunas personas sobre otras y que 
+mantuviera el carácter aleatorio de la actividad.
+En tal sentido, advirtió que la Superintendencia no necesita conocimientos técnicos 
+sobre IA, sino experiencia en la materia específica para identificar en qué debe centrarse, 
+cómo evaluar el algoritmo, quién debe observarlo y cuáles podrían ser sus efectos no 
+deseados. De igual modo, agregó que, en casos como el de la Fiscalía Nacional Económica, 
+cuya labor es garantizar la libre competencia, la experiencia técnica para evaluar cómo 
+opera una IA en la realidad reside en el mismo organismo.
+Por ello, planteó dudas sobre cuál sería el organismo más idóneo para gestionar los 
+espacios controlados, pues, según explicó, aunque el Ministerio de Ciencia u otro 
+organismo podrían disponer de la plataforma tecnológica, las reglas del entorno controlado 
+de pruebas deben ser establecidas por quien tenga un conocimiento profundo en la materia 
+respectiva.
+En consecuencia, sostuvo que, según las sugerencias del grupo de asesores, 
+parecía razonable implementar un doble control: que el espacio controlado de pruebas fuera 
+habilitado por el organismo fiscalizador correspondiente, pero siguiendo lineamientos 
+establecidos por un ente como el Consejo de Inteligencia Artificial. Según su parecer, este 
+enfoque combinaría el conocimiento técnico específico de la tecnología con la experiencia 
+del organismo fiscalizador.
+La diputada Paula Labra señaló que, a pesar de que no se presentó la indicación 
+consensuada, el Ejecutivo podría haberla presentado para evitar la situación actual, cual es 
+que se discute una indicación que no está sobre la mesa. Sin embargo, aclaró que conocía 
+la indicación consensuada porque la había revisado con su asesora, pero que no estaba 
+disponible en ese momento para su discusión. Por lo tanto, lo que estaban discutiendo era 
+el texto comparado versus la indicación que ella había presentado.
+Por otra parte, destacó que las entidades fiscalizadoras no tienen todas las 
+competencias necesarias para fiscalizar en el contexto del proyecto de ley. Además, 
+mencionó que solo algunas entidades del Estado, como el Servicio de Impuestos Internos 
+(SII), la Superintendencia de Salud y la seremi de Salud tienen esas facultades. La diputada 
+sostuvo que el enfoque del proyecto no debía ser fiscalizador, sino facilitador, ya que el 
+entorno de prueba controlado (sandbox) no está pensado para la fiscalización, sino para 
+permitir el desarrollo y la prueba de sistemas de inteligencia artificial (IA).
+Además, advirtió que los 23 ministerios del Estado no necesariamente tienen la 
+experticia necesaria en áreas tecnológicas, como IA y algoritmos. En particular, cuestionó 
+la capacidad del Ministerio de Salud para abordar estos temas. Por lo mismo, propuso que 
+el liderazgo del proyecto recayera en el Ministerio de Ciencia, Tecnología, Conocimiento e 
+Innovación, dado que cuenta con el conocimiento técnico adecuado, aunque no descartó 
+que trabajara con el apoyo de otros órganos, según corresponda.
+La señora Aisén Etcheverry comenzó su intervención abordando el procedimiento 
+que se había seguido hasta el momento en la discusión. Además, indicó que, aunque se 
+habían tenido conversaciones sobre las alternativas de redacción de las indicaciones, los 
+equipos llegaron al final de la comisión sin tener las indicaciones definitivas listas.
+Asimismo, señaló que, para que el Ejecutivo pudiera presentar las indicaciones, 
+sería necesario primero discutirlas y llegar a acuerdos previos, para luego redactarlas y 
+obtener las firmas necesarias para su presentación. Sin embargo, debido a los tiempos 
+ajustados y el ritmo de las discusiones con los asesores, consideró que no sería posible 
+llegar con las indicaciones ya presentadas para esa sesión.
+La ministra continuó su intervención explicando que, a pesar del esfuerzo 
+significativo de los equipos, los cuales se reunieron repetidamente durante la semana y 
+demostraron una excelente disposición, el trabajo no había avanzado lo suficientemente
+4
+--- PÁGINA 5 ---
+rápido como para cumplir con los plazos previstos. Por lo mismo, reconoció que se estaba 
+resolviendo todo a última hora, de hecho, justo antes de la sesión.
+Frente a ese escenario, la ministra propuso dos alternativas para poder avanzar en 
+la discusión de las indicaciones. La primera de ellas consiste en darles dos semanas a los 
+asesores para que pudieran trabajar en un conjunto de artículos y así lograr llegar con las 
+indicaciones listas a tiempo.
+La segunda alternativa es aprovechar la sesión en la discusión e identificar los 
+puntos en los que no se había llegado a acuerdo y discutirlos directamente en la sesión, tal 
+como se hizo en una reunión anterior, en la que se trataron y redactaron las propuestas en 
+conjunto.
+La diputada Érika Olivera, Presidenta accidental, indicó que la única indicación 
+que se encontraba disponible para ser votada era la de la diputada Paula Labra, 
+correspondiente al número 20, que se encuentra en la página 6 del documento en discusión.
+El diputado Tomás Lagomarsino expresó estar de acuerdo en términos generales 
+con la propuesta de la diputada Labra, pero cuestionó la necesidad de incluir al Ministerio 
+de Economía en la coordinación. Por ello, propuso que, en lugar de especificar a dicho 
+ministerio, el texto podría ser más amplio, mencionando "la Secretaría de Estado 
+correspondiente", según se requiera en cada caso.
+La diputada Paula Labra respondió al diputado Lagomarsino destacando la 
+importancia del Ministerio de Economía, señalando que este ministerio, a través de la 
+Corporación de Fomento de la Producción (Corfo), juega un papel clave en temas de 
+tecnología. La diputada explicó que por esta razón consideraban necesario que el Ministerio 
+de Economía se coordinara con el Ministerio de Ciencia en la habilitación de los espacios 
+controlados de prueba.
+No obstante, aclaró que esto no implicaba que los ministerios pudieran intervenir en 
+los detalles específicos del funcionamiento de los espacios, los cuales estarían definidos 
+en el artículo 25 del proyecto de ley. Asimismo, destacó que esta indicación solo ofrecía 
+una definición amplia y que los aspectos operativos serían tratados en la siguiente parte del 
+proyecto de ley.
+Por otra parte, la diputada mencionó que, aunque se requerirían recomendaciones 
+y regulaciones de otras carteras, estos detalles ya estaban contemplados en los artículos 
+posteriores del proyecto, por lo que la discusión actual solo debía centrarse en la definición 
+del concepto.
+La señora Aisén Etcheverry sugirió leer los artículos 20 y 21, que regulan los 
+espacios controlados de prueba, para aclarar la definición y el rol de los ministerios en la 
+habilitación de estos entornos.
+Posteriormente, la ministra recomendó que la discusión se centrara en la 
+responsabilidad de habilitar los espacios controlados, ya que el objetivo de habilitarlos 
+estaba claro, pero la duda recaía en la asignación de responsabilidades.
+El diputado Tomás Lagomarsino propuso que la definición del espacio controlado 
+de prueba se mantuviera amplia y general en esta parte del proyecto de ley y que la 
+especificación de los ministerios responsables se dejara para los artículos posteriores que 
+traten sobre la implementación. Esto, con el fin de avanzar en la votación de la indicación 
+sin cerrar detalles que podrían discutirse más adelante.
+La diputada Paula Labra estuvo de acuerdo con la sugerencia del diputado 
+Lagomarsino en cuanto a que es adecuado mantener la definición amplia en esta parte del 
+proyecto y que los detalles específicos sobre la implementación de los espacios controlados 
+podrían resolverse más adelante, en los artículos correspondientes. Por lo mismo, se 
+mostró dispuesta a suscribir la indicación con esa modificación.
+La señora Érika Olivera, Presidenta accidental, informó que existía una indicación 
+presentada por el diputado Hernán Palma para reemplazar el número 20 y una presentada 
+por ella.
+5
+--- PÁGINA 6 ---
+La señora María Soledad Fredes, Secretaria, dio lectura a la indicación del 
+diputado Hernán Palma, que propone reemplazar el número 20 por una nueva definición, 
+que señala que este sería un entorno supervisado y regulado por órganos de la 
+Administración del Estado con competencias fiscalizadoras, y que su objetivo sería facilitar 
+el desarrollo y la validación de sistemas innovadores de inteligencia artificial (IA).
+A continuación, leyó la indicación de la diputada Olivera, la cual propone permitir a 
+órganos estatales con competencias fiscalizadoras habilitar espacios para desarrollar, 
+probar y validar sistemas de inteligencia artificial bajo planes específicos.
+La indicación señala que los órganos supervisarían estos espacios para identificar 
+y mitigar riesgos significativos a los derechos fundamentales, así como suspender pruebas 
+si los riesgos no se mitigan y la obligación de dictar un reglamento para regular la creación 
+y funcionamiento de dichos espacios.
+Nueva indicación del diputado Palma, para modificar el artículo 3 numeral 16 en 
+el siguiente tenor:
+“16. Espacio controlado de pruebas: un entorno controlado habilitado por un órgano 
+u organismo de la administración del Estado con competencias fiscalizadoras, que facilita 
+el desarrollo, la prueba y la validación de sistemas de lA innovadores.”.
+Terminada la lectura, informó que el diputado Palma retiró su indicación.
+Nueva indicación de la diputada Olivera, para reemplazar el numeral 20, por el 
+siguiente:
+“20. Espacios controlados de pruebas para la IA. Los órganos de la administración 
+del Estado con funciones o competencias fiscalizadoras podrán habilitar un espacio 
+controlado que fomente la innovación y facilite el desarrollo, la prueba y la validación de 
+sistemas innovadores de IA en la esfera de sus competencias, con arreglo a un plan 
+específico acordado entre los proveedores potenciales y las autoridades creadoras de tales 
+espacios.
+Los órganos de la administración del Estado con funciones o competencias 
+fiscalizadoras que habiliten espacios controlados de pruebas proporcionarán orientación y 
+supervisión con miras a detectar riesgos significativos sobre los derechos fundamentales 
+de las personas asegurados por la Constitución Política de la República, así como también 
+para probar y demostrar la eficacia de las medidas de mitigación propuestas.
+Todo riesgo significativo para los derechos fundamentales que sea detectado 
+durante el proceso de desarrollo y prueba de estos sistemas de lA, implicará un deber de 
+mitigación inmediato y apropiado por parte del operador que participe en el espacio 
+controlado de prueba. Los órganos de la administración del Estado con funciones o 
+competencias fiscalizadoras involucrados estarán facultados para suspender temporal o 
+permanentemente el proceso de prueba si no se logra mitigar el riesgo significativo 
+detectado.
+Los órganos de la administración del Estado con funciones o competencias 
+fiscalizadoras que habiliten un espacio controlado de prueba deberán dictar un reglamento 
+que regule su creación, funcionamiento y supervisión. Este reglamento deberá establecer 
+los criterios, condiciones, duración y mecanismos de evaluación aplicables a los sistemas 
+desarrollados en dicho espacio.”.
+Nueva indicación del diputado Lagomarsino y la diputada Labra, para 
+reemplazar el numeral 20 por el siguiente:
+“20. Espacio controlado de pruebas: un entorno controlado habilitado que facilita el 
+desarrollo, la prueba y la validación de sistemas de IA.”.
+La señora Érika Olivera, Presidenta accidental, explicó que esta indicación había 
+sido trabajada previamente en conjunto con distintos asesores y el Ejecutivo. Por su parte, 
+la Presidenta reconoció que no había informado de manera oportuna este proceso a los 
+parlamentarios presentes, pero aseguró que el texto propuesto representaba un consenso 
+entre las partes.
+6
+--- PÁGINA 7 ---
+La señora Aisén Etcheverry destacó que la indicación presentada cumplía con la 
+sugerencia del diputado Tomás Lagomarsino, pues incorporaba la regulación del espacio 
+de prueba, específicamente el artículo 20, al definir el organismo encargado de su 
+supervisión.
+En ese sentido, señaló que la propuesta reflejaba lo discutido en el entorno de 
+asesores, enfocándose en las competencias fiscalizadoras. Además, añadió que, al no 
+definir el organismo responsable en la definición inicial y posponer la discusión para el 
+artículo 20, se ganaba tiempo para analizar experiencias comparadas y ajustar la normativa.
+La diputada Paula Labra anunció el retiro de su indicación inicial, señalando que 
+apoyaría la propuesta presentada por el diputado Tomás Lagomarsino. Asimismo, resaltó 
+que este enfoque permitiría un mayor consenso y que los detalles específicos sobre la 
+regulación de los espacios de prueba podrían discutirse en etapas posteriores del proyecto 
+de ley.
+Puesta en votación la nueva indicación de la diputada Labra y del diputado 
+Lagomarsino, fue aprobada por unanimidad, con los votos a favor de las diputadas Paula 
+Labra, Camila Musante, Érika Olivera y Marcela Riquelme, y de los diputados Tomás 
+Lagomarsino, Rubén Oyarzo y Hernán Palma (7-0-0).
+La indicación de la diputada Olivera no se puso en votación por considerarse 
+contradictoria con las ideas ya aprobadas del proyecto.
+Numeral 21
+21. Espacio de acceso público: cualquier lugar físico de propiedad pública o privada que 
+sea accesible para el público, con independencia de que deban cumplirse determinadas 
+condiciones para acceder a él y con independencia de posibles restricciones de aforo.
+El diputado Tomás Lagomarsino destacó la importancia de la definición contenida 
+en el número 21 del artículo 3, particularmente para la identificación biométrica en espacios 
+de acceso público.
+La señora Érika Olivera, Presidenta accidental, luego de las palabras del diputado 
+Lagomarsino, puso en votación el número 21 del artículo 3, que fue aprobado por 
+unanimidad, con los votos a favor de las diputadas Paula Labra, Camila Musante, Érika 
+Olivera y Marcela Riquelme, y de los diputados Tomás Lagomarsino, Rubén Oyarzo y 
+Hernán Palma (7-0-0).
+Numeral 22
+22. Categorización biométrica: clasificación de personas según categorías concretas, o 
+inferencia de sus características y atributos, en función de sus datos biométricos y sus datos 
+de base biométrica, o que puedan inferirse a partir de dichos datos.
+Puesto en votación el número 22 del artículo 3, fue aprobado por unanimidad, con 
+los votos a favor de las diputadas Paula Labra, Camila Musante, Érika Olivera y Marcela 
+Riquelme, y de los diputados Tomás Lagomarsino, Rubén Oyarzo y Hernán Palma (7-0-0).
+Numeral 23
+23. Componente de seguridad de un producto o sistema: un componente de un producto o 
+un sistema de IA que cumple una función de seguridad para dicho producto o sistema, o 
+cuya falla o defecto de funcionamiento pone en peligro la salud y la seguridad de las 
+personas.
+Nueva indicación del diputado Lagomarsino, para sustituir en el número 23 del 
+artículo 3, la expresión “pone en peligro la salud y la seguridad de las personas” por “podría 
+generar un incidente”.
+El diputado Tomás Lagomarsino preguntó al Ejecutivo si existe la posibilidad de 
+que el concepto del número en discusión también incluya situaciones en que la falla o 
+defecto de funcionamiento provoque un incidente grave.
+7
+--- PÁGINA 8 ---
+La señora Aisén Etcheverry explicó que en las definiciones del proyecto se 
+consideraron dos aspectos: la clasificación de riesgo de los sistemas y las 
+responsabilidades asociadas a dicha clasificación.
+Después, agregó que la definición del número 23 del artículo 3 está vinculada a la 
+categoría de alto riesgo, lo que implica mayores obligaciones en términos de seguridad y 
+ciberseguridad.
+Para finalizar, indicó que la definición en comento complementa el artículo 7 del 
+proyecto, en el sentido de que un componente de seguridad puede formar parte de un 
+sistema de inteligencia artificial de alto riesgo. Ello, para saber quién es el responsable de 
+cada parte del sistema y qué reglas le son aplicables.
+El diputado Tomás Lagomarsino, luego de reflexionar sobre la categoría de 
+sistemas de alto riesgo, preguntó al Ejecutivo si estaría de acuerdo en sustituir, en el 
+número 23 del artículo 3, la expresión “pone en peligro la salud y la seguridad de las 
+personas” por “podría generar un incidente grave”.
+La señora Aisén Etcheverry expresó que entendía lo planteado; sin embargo, 
+manifestó sus dudas sobre si el verbo más apropiado es “podría” o “genera”, ya que, según 
+explicó, al momento de crear la definición de incidente grave no se incluyeron las 
+referencias a la responsabilidad objetiva, motivo por el cual la falla o defecto de 
+funcionamiento de un componente de seguridad no “podría”, sino que debería generar un 
+incidente grave.
+La diputada Paula Labra, sobre la definición de incidente, resaltó el hecho de que 
+se decidió eliminar la palabra “grave” de dicha definición, con el fin de no limitarla solo a los 
+eventos más serios.
+La diputada Érika Olivera, Presidenta accidental, solicitó a la Secretaria que 
+leyera la nueva indicación del diputado Lagomarsino.
+La señora María Soledad Fredes, Secretaria, señaló que la nueva indicación del 
+diputado Lagomarsino es para sustituir, en el número 23 del artículo 3, la expresión “pone 
+en peligro la salud y la seguridad de las personas” por “podría generar un incidente”.
+Puesta en votación la nueva indicación del diputado Lagomarsino, fue aprobada 
+por unanimidad, con los votos a favor de las diputadas Paula Labra, Camila Musante, 
+Érika Olivera y Marcela Riquelme, y de los diputados Tomás Lagomarsino, Rubén Oyarzo 
+y Hernán Palma (7-0-0).
+Numeral 24
+24. Uso indebido razonablemente previsible: la utilización de un sistema de IA de un modo 
+que no corresponde a su finalidad prevista indicada en las instrucciones de uso establecidas 
+por el proveedor, pero que puede derivarse de un comportamiento humano o una 
+interacción con otros sistemas (incluidos otros sistemas de IA) razonablemente previsible.
+La diputada Paula Labra expresó que, a pesar de haber leído el texto en varias 
+ocasiones, le resultaba difícil de entender. Por ello, solicitó a la ministra que ofreciera una 
+explicación adicional para aclarar el contenido. Además, comentó que quizás el texto 
+necesitaba un mayor refinamiento y cuestionó si realmente era necesario incluir esa 
+definición en el proyecto de ley.
+La señora Aisén Etcheverry explicó que, a propósito de los sistemas de alto riesgo, 
+la letra f) del artículo 8 establece que deben existir mecanismos de supervisión humana, lo 
+que incluye que personas capacitadas puedan revisar los sistemas. Esto con el objetivo de 
+prevenir y minimizar los riesgos para la salud, los derechos fundamentales, la democracia 
+y otros aspectos cuando un sistema de IA de alto riesgo se use conforme a su finalidad o 
+se utilice de manera indebida, aunque este uso indebido sea razonablemente previsible.
+Luego, detalló que la definición no se limita solo a los usos previstos del producto, 
+sino que obliga a los proveedores a anticiparse a posibles usos indebidos de la IA, 
+incluyendo escenarios en los que los sistemas puedan ser utilizados más allá de lo descrito 
+en las instrucciones iniciales.
+8
+--- PÁGINA 9 ---
+Mencionó que los sistemas de IA generativos, al alimentarse de una variedad de 
+fuentes de información, pueden generar usos imprevistos que están fuera del control del 
+proveedor, incluso si las instrucciones de uso son claras.
+Ilustró la explicación con un ejemplo específico: si un proveedor diseña un sistema 
+de IA que puede alimentarse de toda la información disponible en internet, este sistema 
+podría utilizar datos no solo creados por humanos, sino también generados por otras IA, 
+siendo el proveedor quien debe definir la finalidad del sistema en función de las fuentes de 
+datos utilizadas y debe anticipar que el sistema pueda generar resultados inesperados, 
+fuera de su control directo.
+Si bien ofreció disculpas por la complejidad de la explicación, dejó en claro que la 
+lógica detrás de la definición buscaba anticiparse a los posibles usos imprevistos de la IA, 
+especialmente en contextos donde los sistemas interactúan y se influencian mutuamente.
+El diputado Hernán Palma planteó una pregunta al Ejecutivo, basada en su 
+recuerdo de la estimulación subliminal. Mencionó cómo en el pasado, al asistir al cine, se 
+solían mostrar destellos rápidos de imágenes -como, por ejemplo, de una botella de Coca-
+Cola-, que influían en el comportamiento de las personas, llevándolas a comprar el 
+producto, y que, a pesar de estar prohibida en todo el mundo, esta práctica se siguió 
+utilizando durante décadas.
+Relató que, recientemente, había visitado una tienda de tecnología con su hijo, y 
+que mientras observaba una imagen en un televisor, el vendedor le comentó que el aparato 
+podía saber lo que él estaba mirando, incluso detectar dónde estaba focalizando su 
+atención, y que luego vinculaba esta información para sugerir productos que él podría 
+comprar.
+Ante esta experiencia, se mostró preocupado y cuestionó si este tipo de prácticas, 
+relacionadas con la estimulación subliminal, estaban de alguna manera reguladas o 
+consideradas en la propuesta.
+El diputado Tomás Lagomarsino expresó dudas sobre la explicabilidad de la 
+definición, ya que consideraba que esta tenía dos aristas principales. La primera se refería 
+a situaciones no deseadas por el desarrollador, donde un sistema de inteligencia artificial 
+interactúa con seres humanos y otros sistemas de IA, generando resultados imprevistos.
+La segunda arista se refería a los usos indebidos de un sistema de inteligencia 
+artificial, los cuales podrían haber sido previstos por el desarrollador, pero con fines ilegales 
+o inapropiados.
+Para ilustrar la diferencia, dio ejemplos: el primero consistía en un sistema de IA 
+que, al interactuar con personas, provocaba resultados inesperados. El segundo era un 
+sistema generativo que podía emular la voz o el rostro de una persona, y que podía ser 
+utilizado con fines indebidos, como en un caso ocurrido en la Región Metropolitana, el cual 
+pudo haber sido razonablemente previsto por el desarrollador.
+A continuación, sugirió que en la redacción se debe evitar el término 
+“comportamiento humano” al describir estas interacciones. Esto al no tratarse solo de un 
+comportamiento, sino también de una acción humana concreta: la utilización de un sistema 
+de inteligencia artificial de forma indebida.
+Luego, propuso que la definición fuera más precisa, señalando que el uso indebido 
+debe estar relacionado con hechos ilícitos, tal como se establece en el Código Penal, ya 
+que la vaguedad de la redacción actual, en su opinión, genera confusión.
+La diputada Paula Labra explicó que su duda se relacionaba con lo señalado por el 
+diputado Lagomarsino, porque la definición era, de cierto modo, ambigua y, como no se 
+explicitó si todo uso de la inteligencia artificial diferente al descrito era indebido, se podía 
+interpretar en ese sentido.
+Por ello, compartió con el diputado Lagomarsino que se debía precisar el concepto, 
+por ejemplo, agregando que se refiere a un uso que cause algún perjuicio o incidente.
+La señora Aisén Etcheverry sostuvo que no todo uso no previsto era indebido y 
+que dicha calificación dependía de reglas específicas de sanciones, porque el uso debía
+9
+--- PÁGINA 10 ---
+generar daño para ser considerado indebido. Agregó que los proveedores deben prever los 
+posibles usos al definir sus sistemas como de alto o bajo riesgo, ya que, por ejemplo, un 
+sistema diseñado para traducir idiomas podría ser utilizado para crear deepfakes políticos 
+y el proveedor debe anticipar tal riesgo.
+Asimismo, dijo que se incorporaron las definiciones de finalidad prevista y uso 
+previsible, a fin de dar mayor claridad respecto de qué se entiende por sistemas de alto 
+riesgo, pero que si se estima que son confusas, la interpretación quedará a cargo del 
+Consejo Asesor Técnico de Inteligencia Artificial o de la Agencia encargada de la Protección 
+de Datos Personales.
+Además, hizo presente que finalidad prevista y uso previsible son términos de uso 
+común y, por tanto, las definiciones debían ser analizadas con base en si aportaban certeza 
+a la regulación.
+La diputada Paula Labra dijo que, tras la discusión, habían surgido algunas dudas 
+en torno a las palabras indebido, debido y razonablemente, porque son subjetivas, pero que 
+había comprendido el punto gracias a la ministra.
+Asimismo, planteó que estaba a favor de que la interpretación quedara a cargo del 
+consejo y la agencia, y que, en ese escenario, podría ser conveniente eliminar estas 
+definiciones del proyecto para evitar restricciones innecesarias.
+La señora Aisén Etcheverry hizo presente que no había respondido la pregunta del 
+diputado Lagomarsino respecto de los sistemas subliminales o que buscan incidir en el 
+proceso de decisión. Explicó que la materia se aborda en el proyecto, a propósito del 
+artículo 7, sobre sistemas de IA de alto riesgo, y que consideraba que de generaría una 
+interesante discusión sobre qué se consideraba incidir subliminalmente en las decisiones 
+de las personas y cuál es el límite.
+Agregó que la incidencia puede ser el resultado de un uso previsto o no previsto y 
+que un desarrollador chileno trabaja con un sistema similar para el diseño de páginas web.
+El diputado Tomás Lagomarsino preguntó a la ministra su opinión sobre una nueva 
+propuesta de definición de uso indebido razonablemente previsible que consignara las 
+mismas consecuencias contenidas en la definición de incidente grave, como fallecimiento 
+de una persona o daños graves para su salud, y alteración grave de la gestión y el 
+funcionamiento de infraestructura crítica, entre otras.
+La señora Aisén Etcheverry respondió que comprendía el objetivo de la propuesta, 
+pero que el concepto estaba diseñado para que quienes desarrollan y ponen a disposición 
+una inteligencia artificial consideren un amplio rango de posibles riesgos y, por tanto, si las 
+consecuencias se limitan a determinados incidentes, se podrían excluir acciones que hoy 
+no se configuran, pero que requerirían precauciones en el futuro.
+La diputada Paula Labra sugirió, dado que la definición se utilizaba solo una vez y 
+en relación con un artículo que se encontraba más adelante en el proyecto, detallar el 
+particular en ese artículo para lograr mayor claridad, en lugar de hacerlo en la definición 
+inicial.
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que procediera a tomar la votación del número 24 del artículo 3.
+Puesta en votación la disposición, fue rechazada por mayoría de votos. Votaron en 
+contra de la diputada Érika Olivera y de los diputados Tomás Lagomarsino, Rubén Oyarzo 
+y Hernán Palma. Se abstuvieron las diputadas Paula Labra, Camila Musante y Marcela 
+Riquelme (0-4-3).
+Numeral 25
+25. Finalidad prevista: el uso para el que un proveedor concibe un sistema de IA, incluido 
+el contexto y las condiciones de uso concretas, según la información facilitada por el 
+proveedor en las instrucciones de uso, los materiales y las declaraciones de promoción y 
+venta, y la documentación técnica.
+7) Del Ejecutivo al artículo 3 para modificarlo en el siguiente sentido:
+10
+--- PÁGINA 11 ---
+e) Modifícase el numeral 25, que ha pasado a ser 22, en el siguiente sentido:
+i) Reemplázase la expresión “proveedor” por “operador”.
+ii) Elimínase la expresión “por el proveedor”.
+La señora María Soledad Fredes, Secretaria, tras leer el número 25, dio cuenta de 
+una indicación del Ejecutivo para reemplazar la expresión “proveedor” por “operador” y 
+eliminar la expresión “por el proveedor”, en el texto.
+La señora Aisén Etcheverry explicó que el propósito de la indicación era armonizar 
+el número con la definición de operador, como se había discutido en la sesión pasada, y 
+que operador abarcaba diferentes actores, como proveedores e importadores, entre otros.
+Además, señaló que el número perseguía el mismo objetivo que el que lo antecedía 
+y, por tanto, estaban vinculados y la discusión era la misma.
+Aclaró que el Ejecutivo entendía que la opinión de la Comisión no era que su 
+propuesta era insensata, sino que no contribuía a avanzar en la dirección que se persigue 
+para la ley en proyecto y estaba de acuerdo.
+La diputada Paula Labra, a fin de reforzar las palabras de la ministra Etcheverry, 
+recordó que anteriormente se rechazó y excluyó de las definiciones “finalidad prevista”, y 
+sostuvo que, en pos de la coherencia, en este caso también debía ser eliminada para, 
+quizás, ser desarrollada en una etapa posterior del proyecto. Según la parlamenta, había 
+que mantener la misma lógica de la votación previa.
+El diputado Tomás Lagomarsino se pronunció a favor de mantener la definición de 
+finalidad prevista en la normativa. Explicó que la definición de uso indebido razonablemente 
+previsible era menos relevante, porque se podía precisar posteriormente en el proyecto. En 
+cambio, en “finalidad prevista” se reflejaba la intención del desarrollador, proveedor o 
+distribuidor, entre otros, en cuanto al uso del producto o servicio y, por tanto, era crucial.
+El diputado dijo que, además, si no se contaba con la definición de uso indebido 
+razonablemente previsible, se podía recurrir a la definición de finalidad prevista para 
+abordar su opuesto, es decir, el uso indebido y, por ello, era importante, más aún en vista 
+de futuras discusiones.
+Finalmente, hizo presente que había que considerar, en el contexto de esta 
+definición, las indicaciones presentadas por las diputadas Marta González y Nathalie 
+Castillo, y el diputado Ramírez.
+La diputada Érika Olivera, Presidenta accidental, solicitó a la Secretaria que 
+procediera a tomar la votación del número 25 del artículo 3.
+Puesto en votación el número, junto con la indicación del Ejecutivo, fueron 
+aprobados por mayoría de votos. Votaron a favor las diputadas Camila Musante, Érika 
+Olivera y Marcela Riquelme, y los diputados Tomás Lagomarsino, Rubén Oyarzo y Hernán 
+Palma. No hubo votos en contra. Se abstuvo la diputada Paula Labra (6-0-1).
+Numeral nuevo
+La señora María Soledad Fredes, Secretaria, informó que correspondía votar la 
+letra f) de la indicación número 7 del Ejecutivo, mediante la que se agrega, a continuación 
+del número 25 -que pasó a ser 22-, un número 23 nuevo que define Sistema de IA de uso 
+general.
+7) Del Ejecutivo al artículo 3 para modificarlo en el siguiente sentido:
+f) Agrégase, a continuación del numeral 25, que ha pasado a ser 22, el siguiente 
+numeral 23, nuevo:
+“23. Sistema de IA de uso general: un sistema de IA capaz de realizar funciones de 
+aplicación general y tener múltiples usos, tanto previsibles como no previsibles, como el 
+reconocimiento de imágenes, reconocimiento de voz, procesamiento de audio, generación 
+de video, detección de patrones, respuesta a preguntas, traducción, entre otros.”.
+11
+--- PÁGINA 12 ---
+La señora Aisén Etcheverry explicó que el Ejecutivo presentó la indicación luego 
+de escuchar las exposiciones de numerosos expertos que concurrieron a la Comisión y, 
+sobre todo, en consideración a que los sistemas de inteligencia artificial de uso general no 
+tienen una finalidad única, sino múltiples o infinitas. Además, señaló que los sistemas de 
+esa categoría han sido parte del debate legislativo en muchos países, especialmente de 
+Europa, lo cual también motivó la indicación.
+La ministra precisó que la definición de sistemas de inteligencia artificial incluía 
+varios elementos de la propuesta inicial del diputado Oyarzo y que se establecía como 
+concepto para luego homologar dichos sistemas, en cuanto a obligaciones, a una categoría 
+de riesgo específico en la normativa.
+Por último, reiteró que estos sistemas no tienen un solo fin, sino múltiples objetivos 
+y, por eso, requieren una categorización especial, lo que justificaba la inclusión de la 
+definición en el texto.
+El diputado Tomás Lagomarsino propuso, por una cuestión de forma, que si se 
+aprobaba la definición de sistema de inteligencia artificial de uso general, se consignara en 
+el segundo número del artículo 3, porque, en su opinión, era más coherente que la 
+antecediera la definición de sistema de IA.
+La señora María Soledad Fredes, Secretaria, señaló que si se recababa el acuerdo 
+de la Comisión, no habría inconveniente en implementar la sugerencia del diputado Tomás 
+Lagomarsino.
+El diputado Rubén Oyarzo propuso facultar a la Secretaría para que consignara la 
+indicación de manera adecuada en el texto, si había acuerdo.
+La diputada Érika Olivera, Presidenta accidental, consultó si había acuerdo para 
+encomendar la tarea a la Secretaría y los integrantes de la Comisión apoyaron la iniciativa.
+Posteriormente, solicitó a la Secretaria de la Comisión que procediera a tomar la 
+votación de indicación contenida en la letra f).
+Puesta en votación la indicación, fue aprobada por unanimidad. Votaron a favor las 
+diputadas Paula Labra, Camila Musante, Érika Olivera y Marcela Riquelme, y los diputados 
+Tomás Lagomarsino, Rubén Oyarzo y Hernán Palma (7-0-0).
+Numerales nuevos
+La señora María Soledad Fredes, Secretaria, dio lectura a la indicación 9 bis), de 
+las diputadas Marta González, Nathalie Castillo y del diputado Ramírez, para agregar en el 
+artículo 3 cuatro nuevos números, del 26 al 29.
+9 bis) De las diputadas Marta González y Natalie Castillo y del diputado 
+Ramírez para incorporar en el artículo 3 los numerales 26 al 29 nuevos, del siguiente tenor:
+“26. Datos de entrada: los datos proporcionados a un sistema de IA u obtenidos 
+directamente por él a partir de los cuales produce un resultado de salida;
+27. Datos de entrenamiento: los datos usados para entrenar un sistema de IA 
+mediante el ajuste de sus parámetros entrenables;
+28. Datos de prueba: los datos usados para proporcionar una evaluación 
+independiente del sistema de IA, con el fin de confirmar el funcionamiento previsto de dicho 
+sistema antes de su introducción en el mercado o su puesta en servicio;
+29. Datos de validación: los datos usados para proporcionar una evaluación del 
+sistema de IA entrenado y adaptar sus parámetros no entrenables y su proceso de 
+aprendizaje para, entre otras cosas, evitar el subajuste o el sobreajuste.”.
+El diputado Tomás Lagomarsino propuso votar los números 26 y 27 juntos, y los 
+números 28 y 29 por separado, en razón de que, como se había planteado, los espacios 
+controlados deben estar más claramente definidos en el artículo correspondiente y, 
+segundo, las definiciones de datos de prueba y datos de validación pueden generar 
+inconsistencias con los requisitos establecidos para implementar los artículos 20 y 21.
+12
+--- PÁGINA 13 ---
+Por ese motivo, el parlamentario anunció que respaldaría los números 26 y 27, pero 
+no los 28 y 29.
+La señora Aisén Etcheverry precisó que no tienen objeciones sobre el contenido 
+técnico de las definiciones incluidas en el proyecto de ley, ya que esas categorías existen; 
+sin embargo, planteó su preocupación sobre cómo se conectan con los principios y 
+obligaciones establecidos posteriormente en el proyecto. En particular, destacó que la 
+discusión sobre los datos utilizados para entrenar algoritmos es técnicamente compleja y 
+que es importante revisar la indicación para ver si hace sentido.
+Agregó que el Ejecutivo no incorporó definiciones de datos en el proyecto debido a 
+que es un concepto muy discutido técnicamente. Como ejemplo, citó la discusión en la 
+Unión Europea sobre la posibilidad de identificar los datos con los que se entrenan 
+algoritmos y si este es el mejor mecanismo de control. Señaló que, si tales definiciones 
+quedaran, se pueden trabajar.
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que tomara la votación separada de la indicación 9 bis, propuesta por el diputado 
+Lagomarsino, que busca incorporar, en el artículo 3, los números 26 y 27, nuevos.
+Puesta en votación, la indicación fue rechazada por no alcanzar el quorum de 
+aprobación. Votaron a favor la diputada Marcela Riquelme y los diputados Tomás 
+Lagomarsino y Hernán Palma. Votó en contra la diputada Paula Labra. Se abstuvieron las 
+diputadas Camila Musante y Érika Olivera y el diputado Rubén Oyarzo (3-1-3).
+A continuación, la diputada Érika Olivera, Presidenta accidental, solicitó a la 
+señora Secretaria que tomara la votación separada de la indicación 9 bis, propuesta por el 
+diputado Lagomarsino, para incorporar en el artículo 3, los números 28 y 29, nuevos.
+Puesta en votación, la indicación fue rechazada por no alcanzar el quorum de 
+aprobación. Votaron a favor la diputada Marcela Riquelme y el diputado Hernán Palma. 
+Votaron en contra la diputada Paula Labra y el diputado Rubén Oyarzo. Se abstuvieron las 
+diputadas Camila Musante y Érika Olivera y el diputado Tomás Lagomarsino (2-2-3).
+Artículo 4
+Artículo 4.- Principios aplicables a los sistemas de IA. Todos los operadores que entren en 
+el ámbito de aplicación de la presente ley deberán observar los siguientes principios 
+generales:
+a) Intervención y supervisión humana: los sistemas de IA se desarrollarán y utilizarán como 
+una herramienta al servicio del ser humano, que respete la dignidad humana y la autonomía 
+personal, y que funcione de manera que pueda ser controlada y vigilada adecuadamente 
+por seres humanos.
+b) Solidez y seguridad técnica: los sistemas de IA se desarrollarán y utilizarán de manera 
+que se minimicen los daños previsibles, siendo resistentes técnicamente frente a fallas 
+imprevistas como frente a intentos de modificación del uso o rendimiento del sistema de IA 
+con fines ilícitos por parte de terceros.
+c) Privacidad y gobernanza de datos los sistemas de IA se desarrollarán y utilizarán de 
+conformidad con las normas vigentes en materia de privacidad y protección de datos, y sólo 
+tratarán datos que cumplan con la normativa en términos de calidad e integridad. Del mismo 
+modo, se procurará que los datos que utilicen sean interoperables.
+d) Transparencia y explicabilidad: los sistemas de IA se desarrollarán y utilizarán facilitando 
+una trazabilidad y explicabilidad adecuadas, de modo tal que los seres humanos puedan 
+conocer de forma clara y precisa y sean conscientes de que se comunican o interactúan 
+con un sistema de IA, en aquellos casos en los que dicho conocimiento les ayudaría a tomar 
+decisiones sobre sus derechos, seguridad o privacidad, informando a sus destinatarios, 
+cuando corresponda, cómo el sistema ha obtenido sus predicciones o resultados, así como 
+también sobre las capacidades y limitaciones de dicho sistema de IA.
+e) Diversidad, no discriminación y equidad: los sistemas de IA se desarrollarán y utilizarán 
+durante todo su ciclo de vida, promoviendo la igualdad de acceso, la igualdad de género y
+13
+--- PÁGINA 14 ---
+la diversidad cultural, evitando al mismo tiempo los efectos discriminatorios y sesgos de 
+selección o de información que pudieran generar un efecto discriminatorio.
+f) Bienestar social y medioambiental: los sistemas de IA se desarrollarán y utilizarán de 
+manera sostenible y respetuosa con el medio ambiente y los seres humanos. Por lo anterior, 
+los responsables de la introducción en el mercado, la puesta en servicio o la utilización de 
+los sistemas de IA deberán revisar los efectos a largo plazo que su aplicación genera en la 
+sociedad, la democracia y el medio ambiente.
+g) Rendición de cuentas y responsabilidad: los sistemas de IA deberán proporcionar un 
+correcto funcionamiento a lo largo de su ciclo de vida por parte de quienes los diseñan, 
+desarrollan, operan o despliegan, en relación con sus funciones propias.
+h) Protección de los derechos de los consumidores: los sistemas de IA se desarrollarán y 
+utilizarán de conformidad con las normas vigentes en materia de protección de los derechos 
+de los consumidores, debiendo asegurar el trato justo, entrega de información veraz, 
+oportuna y transparente y el resguardo a la libertad de elección y la seguridad en el 
+consumo.
+El Ministerio de Ciencia, Tecnología, Conocimiento e Innovación y la Agencia encargada 
+de la Protección de Datos Personales, en adelante “la Agencia”, incorporarán estos 
+principios en las distintas orientaciones destinadas a prestar asistencia al operador en 
+cuanto al modo de desarrollar y utilizar sistemas de IA, así como al momento de regular y 
+fiscalizar dentro de sus esferas de competencia.  Lo anterior, se entenderá sin perjuicio de 
+las directrices y lineamientos sobre esta materia que la Secretaría de Gobierno Digital del 
+Ministerio de Hacienda pueda dictar en el ámbito de sus potestades legales.
+La señora María Soledad Fredes, Secretaria, dio lectura a la indicación nueva del 
+diputado Palma, mediante la cual propone reemplazar el artículo 4 del proyecto.
+El diputado Hernán Palma propuso cambiar, en la letra i) de la indicación, la 
+expresión "igualdad de género" por "equidad de género". Argumentó que equidad implica 
+un enfoque de justicia y que no es equidad mencionar la "reproducción de la desigualdad 
+de género existente" y agregó que se tiende a confundir equidad con igualdad, aunque no 
+son lo mismo.
+La diputada Paula Labra apoyó la propuesta del diputado Palma, señalando que el 
+concepto de equidad está relacionado con la justicia y la entrega de igualdad de 
+oportunidades. Agregó que, sin embargo, está en desacuerdo con separar la equidad de 
+género en un número independiente.
+La diputada argumentó que en la indicación presentada anteriormente, que modifica 
+la letra e), ya se establecía que los sistemas de inteligencia artificial deben promover la 
+diversidad, no la discriminación y la equidad, evitando efectos discriminatorios o sesgos. 
+Señaló que, por lo tanto, la equidad de género ya estaría incluida dentro de este principio, 
+que también abarca otros aspectos, como no discriminar a personas discapacitadas, razas, 
+etnias, etcétera. Agregó que esto es mucho más amplio y que, dentro de esto, ya estaría 
+incluida la equidad de género.
+Concluyó que no es necesario un número separado, ya que la equidad de género 
+está contemplada en el principio de diversidad, no discriminación y equidad.
+La señora Aisén Etcheverry expresó que entienden la postura del diputado Hernán 
+Palma con respecto a la equidad, reconociendo que ha sido una discusión relevante.
+Al respecto, destacó que el principal espacio de discriminación en inteligencia 
+artificial está vinculado al género, debido a la naturaleza de la industria tecnológica y su 
+desarrollo, lo cual les parece relevante a la hora de plantear los principios por los cuales se 
+rige.
+Agregó que al Ejecutivo le parece relevante la equidad de género como un principio 
+fundamental para guiar el trabajo de la agencia y del ministerio en el futuro.
+El diputado Tomás Lagomarsino señaló que el artículo en discusión es extenso y 
+complejo y comentó que es probable que se genere una larga discusión al abordar los 
+principios con más indicaciones o dudas, por lo cual propuso tratarlos uno por uno.
+14
+--- PÁGINA 15 ---
+La diputada Érika Olivera, Presidenta accidental, coincidió con la opinión del 
+diputado Tomás Lagomarsino y comentó que imaginaba que el procedimiento sería similar 
+al utilizado en las definiciones, tratando cada punto uno por uno para alcanzar consensos. 
+Mencionó que quedaban cinco minutos de sesión y recordó que la ministra debía retirarse 
+a las 19:10 horas, lo que hacía improbable llegar a un acuerdo para votar siquiera la primera 
+letra del artículo.
+A continuación, solicitó el acuerdo de la Comisión para votar cada letra por 
+separado, a lo que se respondió afirmativamente.
+Por otra parte, solicitó el acuerdo para votar el encabezado del artículo en los 
+términos propuestos por el diputado Tomás Lagomarsino.
+Posteriormente, solicitó a la Secretaria de la Comisión que procediera a tomar la 
+votación del encabezado del artículo 4.
+Puesto en votación, el encabezado del artículo, fue aprobado por unanimidad. 
+Votaron a favor las diputadas Paula Labra, Camila Musante, Érika Olivera y Marcela 
+Riquelme y los diputados Tomás Lagomarsino, Rubén Oyarzo y Hernán Palma (7-0-0).
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 19:05 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+15

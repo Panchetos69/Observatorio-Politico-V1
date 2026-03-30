@@ -1,0 +1,289 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=15044&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : Soporte Camara de Diputados Chile
+EXTRAIDO : 2026-03-29 05:10:25
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN ORDINARIA 150ª DE LA COMISIÓN DE HACIENDA, CORRESPONDIENTE 
+AL PERIODO LEGISLATIVO 2022-2026, CELEBRADA EL MIÉRCOLES 29 DE 
+NOVIEMBRE DE 2023, DE 15.00 A 17.00 HORAS.
+SUMARIO
+Esta sesión tiene por objeto tratar las 
+siguientes materias: 
+ 
+1) Iniciar el estudio del proyecto de 
+ley, originado en mensaje de S. E., el 
+Presidente de la República, que 
+Establece una Ley Marco sobre 
+Ciberseguridad 
+e 
+Infraestructura 
+Crítica de la Información, Boletín 
+N°14847-06(S), 
+con 
+urgencia 
+calificada de Suma. 
+ 
+2) Tratar el Proyecto de ley, iniciado 
+en Mensaje de S. E., el Presidente 
+de la República, que Crea el Servicio 
+de Auditoría Interna de Gobierno, 
+Boletín N° 16316-05, con urgencia 
+calificada de Suma. 
+ 
+Se inició la sesión a las 15:12 horas.
+1. ASISTENCIA
+Diputados asistentes: Aedo, Eric; Barrera, Boris; Cid, Sofía; Mellado, 
+Miguel; Naranjo, Jaime; Ramírez, Guillermo; Rojas, Camila; Romero, Agustín; Sáez, 
+Jaime; Sepúlveda, Alexis; Von Mühlenbrock, Gastón; Yeomans, Gael. Reemplazos: El 
+Diputado Bianchi, Carlos fue reemplazado por el Diputado Soto, Raúl.
+Asistió en representación del Ejecutivo, el Subsecretario del Interior, 
+señor Manuel Monsalve Benavides.
+Actuó como Secretario Abogado de la Comisión la señora María 
+Eugenia Silva Ferrer, y como abogado ayudante el señor Sebastián Flores Cuneo.
+2. CUENTA
+1
+--- PÁGINA 2 ---
+Se han recibido los siguientes documentos:
+1.- Correo excusa del Ministro Secretario General de la Presidencia, señor Alvaro 
+Elizalde Soto a esta sesión por razones de agenda, pero confirma la participación 
+de la Subsecretaria, señora Macarena Lobos Palacios.
+2.- Carta excusa del Ministro de Hacienda, señor Mario Marcel Cullell, ante la 
+imposibilidad de asistir, lo anterior, sin perjuicio de la presencia de otras 
+autoridades del Ejecutivo, que lideran la tramitación del proyecto de ley que Crea 
+el Servicio de Auditoría Interna de Gobierno, Boletín N°16316-05.
+3.- Carta excusa de la Ministra del Interior y Seguridad Pública, señora Carolina 
+Tohá Morales, atendiendo el cumplimiento de compromisos previamente 
+agendados, En su reemplazo asiste el Subsecretario del Interior, señor Manuel 
+Monsalve Benavides.
+4.- El diputado Raúl Soto Mardones reemplaza al diputado Carlos Bianchi 
+Chelech.
+5.- Oficios de S.E. el Presidente de la República por los cuales retira y hace 
+presente la urgencia calificada de Suma, para el despacho de los siguientes 
+proyectos:
+"Dicta normas sobre financiamiento regional, descentralización fiscal y 
+responsabilidad fiscal regional". Boletín N° 15921-05. (1574-371).
+"Establece una Ley Marco sobre Ciberseguridad e Infraestructura Crítica de 
+la Información". Boletín N° 14847-06(S). (1572-371).
+6.- Of. N°68956 Instituto de Previsión Social – IPS (con fecha de 24 de noviembre 
+2023) remite Informe de Cobro Efectivo correspondientes a Bonos IFE COVID año 
+2023.
+7.- En cumplimiento de la Ley de Presupuestos del Sector público se han recibido:
+Of. N°3604 Dirección de Presupuestos (con fecha de 30 de octubre 2023) 
+remite CD con los Artículos 3, 15, 16 y 21; copia de decreto totalmente tramitado 
+en el mes de septiembre, respecto a traspasos de calidad Juridica de honorario a 
+suma alzada a contrata; informe de ejecución presupuestaria mensual de ingresos 
+y gastos del Gobierno Central, a nivel de Subtítulos; informe de ejecución 
+trimestral del presupuesto de ingresos y de gastos de las partidas de la Ley de 
+Presupuestos, al nivel de partidas, capítulos y programas aprobados respecto de 
+cada una de ellas.
+2
+--- PÁGINA 3 ---
+3. ORDEN DEL DÍA 
+ 
+1) Iniciar el estudio del proyecto de ley, originado en mensaje de S. 
+E., el Presidente de la República, que Establece una Ley Marco sobre 
+Ciberseguridad e Infraestructura Crítica de la Información, Boletín N°14847-06(S), 
+con urgencia calificada de Suma.
+La Comisión recibió previo a la votación de la iniciativa al 
+subsecretario del Interior, señor Manuel Monsalve.
+Señaló que el país progresivamente es víctima de ataques cibernéticos, 
+que afectan diversas entidades del Estado. Es por esto que se vuelve esencial contar con 
+organismos rectores y prácticas que prevengan estos ataques.
+Precisó que el proyecto de ley marco sobre Ciberseguridad (LMC) fue 
+presentado por el presidente Sebastián Piñera, en cumplimiento de la Política Nacional de 
+Ciberseguridad (PNCS) y forma parte de la agenda de seguridad pública suscrita por el 
+Ejecutivo y el Congreso Nacional. El proyecto establece un modelo de gobernanza de la 
+ciberseguridad basado en la gestión de riesgos y la implementación de estándares de 
+seguridad digital para el sector público, los servicios esenciales y los operadores de 
+importancia vital del sector privado.
+El proyecto propone la creación de una Agencia Nacional de 
+Ciberseguridad, como el organismo rector de la ciberseguridad del país, dotada de las 
+funciones y atribuciones necesarias para cumplir su cometido, tales como la gestión de 
+incidentes de ciberseguridad, la coordinación interinstitucional, la función normativa 
+técnica, la función fiscalizadora y, eventualmente, la sancionatoria, entre otras. El proyecto 
+de ley, en segundo trámite constitucional, fue despachado por la Comisión de Seguridad 
+Ciudadana de la Cámara de Diputados, el pasado miércoles 22 de octubre. En su primer 
+trámite constitucional, fue aprobado unánimemente por el Senado en abril de 2023.
+Detalló el contenido de los artículos sometidos a la competencia de la 
+Comisión de Hacienda:
+Artículo 8, inciso primero, en sus letras a), b) c), d), g), h) e i), que 
+establecen las obligaciones que deberán implementar las organizaciones públicas y 
+privadas que sean consideradas operadores de importancia vital para la ciberseguridad 
+del país.
+Artículo 10, inciso primero, que crea la Agencia Nacional de 
+Ciberseguridad 
+como 
+un 
+servicio 
+público 
+funcionalmente 
+descentralizado, 
+con 
+personalidad jurídica y patrimonio propio, de carácter técnico y especializado, que se 
+relaciona con el Presidente de la República a través del ministerio encargado de la 
+seguridad pública.
+Artículo 11, letras f) e i), que establecen las atribuciones de crear un 
+Registro Nacional de Incidentes de Ciberseguridad y de diseñar e implementar planes y
+3
+--- PÁGINA 4 ---
+acciones de formación ciudadana, capacitación, fortalecimiento, difusión y promoción en 
+materia de ciberseguridad, respectivamente.
+Artículo 12, que fija la dirección de la Agencia que estará a cargo de un o 
+una Directora Nacional, quien será la jefa superior del servicio y será designada por el 
+sistema de Alta Dirección Pública.
+Artículo 13, que crea la figura de Subdirector o Subdirectora de la 
+Agencia, que también será designado por el sistema de Alta Dirección Pública.
+Artículo 14, letra e), que entrega al Director o Directora la facultad de 
+ejecutar actos y celebrar contratos.
+Artículo 15, que determina el patrimonio de la Agencia. 
+ 
+Artículo 17, incisos cuarto, quinto, sexto, séptimo, octavo y final, que 
+fijan las reglas sobre el personal de la Agencia, a quienes se le aplicarán las disposiciones 
+del Código del Trabajo y las normas pertinentes del Estatuto Administrativo y de la ley 
+sobre Probidad en la Función Pública, entre otras.
+Artículo 23, inciso primero, que reconoce legalmente la Red de 
+Conectividad Segura del Estado, que ya provee servicios de interconexión y conectividad 
+a los OAE
+Artículo 24, que crea el Equipo Nacional de Respuesta a Incidentes de 
+Seguridad Informática, CSIRT Nacional.
+Artículo 29, que crea el Equipo Nacional de Respuesta a Incidentes de 
+Seguridad Informática de la Defensa Nacional, CSIRT de la Defensa Nacional.
+Artículo 36, que dispone el régimen de sanciones aplicables a quienes 
+infrinjan el deber de reserva que la ley establece respecto de cierta información que 
+mantenga la Agencia.
+Artículo 40, incisos primero y segundo, que fija el régimen de sanciones 
+aplicables a quienes incumplan las obligaciones establecidas en la ley, determinando los 
+hechos y las sanciones a aplicar.
+Artículo 51, inciso segundo, que dispone el régimen de sanciones 
+aplicables a los miembros del Comité Interministerial sobre Ciberseguridad que infrinjan el 
+deber de reserva que la ley establece respecto de cierta información que mantenga la 
+Agencia.
+Artículo primero transitorio, que delega en el Presidente de la República 
+la facultad de dictar uno o más DFLs, para determinar la entrada en vigencia de la ley y 
+las reglas sobre la dotación de personal de la Agencia y el traspaso de funcionarios desde 
+la Subsecretaría del Interior a la Agencia.
+4
+--- PÁGINA 5 ---
+Artículo segundo transitorio, que autoriza al Presidente para nombrar al 
+primer director o directora de la Agencia, que durará un año en su cargo, estableciendo 
+algunas restricciones a ese primer nombramiento.
+Artículo cuarto transitorio, determina la regla sobre mayor gasto fiscal 
+que represente la aplicación de la ley durante su primer año presupuestario.
+VOTACIÓN 
+ 
+Puestos en votación todos los artículos, con excepción del artículo 
+segundo transitorio, respecto del cual el diputado señor Sáez solicitó votación separada, 
+resultaron aprobados por la unanimidad de los doce diputadas y diputados presentes 
+señores Aedo, Barrera, señora Cid, señores Mellado, Naranjo, Ramírez, Romero, Sáez, 
+Sepúlveda, Soto (en reemplazo del diputado Bianchi), Von Mühlenbrock y Yeomans 
+(Presidenta).
+Respecto a la votación del inciso segundo del artículo segundo 
+transitorio, el subsecretario Monsalve reconoció que el punto es cuestión es si el actual 
+Coordinador de Ciberseguridad puede o no puede ser nombrado en el cargo de director 
+de la Agencia Nacional de Ciberseguridad. La norma hace que quien haya ocupado el 
+cargo de coordinador en los últimos 3 años no pueda nunca ser director de la Agencia. 
+Consideró que es una norma muy específica y dirigida que no parece sana como 
+precedente. Llamó a la Comisión a rechazar esta disposición.
+El texto del artículo segundo transitorio es el siguiente:  
+ 
+“Artículo segundo. El Presidente de la República, sin sujetarse a lo 
+dispuesto en el título VI de la ley Nº 19.882, podrá nombrar, a partir de la publicación de la 
+presente ley, al primer Director o Directora de la Agencia Nacional de Ciberseguridad, 
+quien asumirá de inmediato, por el plazo máximo de un año y en tanto se efectúa el 
+proceso de selección pertinente que establece la señalada ley para los cargos del 
+Sistema de Alta Dirección Pública. En el acto de nombramiento, el Presidente de la 
+República fijará el grado de la escala única de sueldos y la asignación de alta dirección 
+pública que le corresponderá al Director o Directora, siempre que no se encuentre vigente 
+la respectiva planta de personal. La remuneración del primer Director o Directora se 
+financiará con cargo al presupuesto de la Subsecretaría del Interior, incrementándose 
+para ese sólo efecto en un cargo su dotación máxima de personal, siempre que no se 
+encuentre vigente la respectiva planta de personal. El primer Director de la Agencia 
+Nacional de Ciberseguridad no podrá participar del primer proceso de selección por Alta 
+Dirección Pública para la provisión de su cargo.
+Con todo, conforme a este artículo no podrá ser nombrado en el cargo 
+de Director o Directora de la Agencia, quien hubiere ejercido el cargo de Coordinador 
+Nacional de Ciberseguridad, dependiente del. Ministerio del Interior y Seguridad Pública, 
+los tres años previos a la publicación de esta ley en el Diario Oficial”.
+5
+--- PÁGINA 6 ---
+La Secretaría explicó que este inciso fue agregado en la comisión 
+técnica mediante la aprobación de una indicación presentada por los diputados señores 
+Cristián Araya y Henry Leal. 
+ 
+ 
+El señor Subsecretario del Interior, don Manuel Monsalve, expresó en esa 
+oportunidad que la indicación le pareció perseguir un objetivo personal y discriminatorio, ya 
+que todo funcionario que ingresó a trabajar al Ministerio del Interior y Seguridad Pública 
+nunca se imaginó, ni le informaron, que no podría en un futuro participar para ser parte de 
+un proceso de alta dirección pública.
+El diputado Romero, don Agustín preguntó por qué se incorporó esta 
+norma.
+El diputado Sáez estimó que una discusión tan sustantiva para el país 
+no puede ser infectada por una vendetta personal.
+El diputado Von Mühlenbrock consultó de qué se trata esta venganza.  
+ 
+El subsecretario Monsalve señaló que el coordinador actual envuelto 
+en la polémica ha sido cuestionado por una publicación realizada en una red social en la 
+que denostó la institución de Carabineros de Chile. Ha manifestado personal y 
+públicamente sus disculpas con el General Director de Carabineros.
+La diputada Cid consideró que esta persona difícilmente podrá tener 
+una buena relación con Carabineros, la que resulta necesaria para el cargo en cuestión.
+El diputado Ramírez manifestó que en virtud de la confianza que tienen 
+que tener las instituciones de parte de la ciudadanía es necesario hacerse cargo de las 
+expresiones que se profieren.
+El diputado Mellado, don Miguel estimó que difícilmente esta persona 
+ha cambiado de pensamiento, sólo ha moderado su discurso por ocupar hoy una posición 
+de poder. Así las cosas, él no puede asumir este cargo.
+El diputado Romero expresó que resulta incomprensible que no exista 
+en el gobierno otra persona que pueda asumir este cargo.
+El diputado Aedo indicó que es legítimo cambiar de opinión de un 
+momento a otro de la vida. Llamó a quienes traen consigo la doctrina cristiana a recordar 
+el concepto de la transformación positiva de mente y corazón que es la metanoia.
+El diputado Naranjo señaló que existe en la vida un derecho sagrado a 
+la equivocación e instó a sus colegas a no discutir con liviandad esta importante materia. 
+Agregó que lo único relevante es la evaluación profesional que de esta persona se tiene 
+entre quienes están en condiciones de nominarlo al cargo.
+El subsecretario Monsalve expresó que la persona en cuestión es un 
+profesional y académico con vasta experiencia en ciberseguridad. En este sentido, la
+6
+--- PÁGINA 7 ---
+evaluación del Ejecutivo es positiva, sin perjuicio de reconocer que cometió un error en el 
+pasado por el cual presentó las debidas excusas.
+Votación 
+ 
+Puesto en votación el inciso segundo del artículo segundo transitorio, 
+resultó rechazado por no alcanzar el quórum de aprobación. Votaron en contra los 
+diputados Aedo, Barrera, Naranjo, diputada Rojas, diputados Sáez, Sepúlveda, Soto, don 
+Raúl (en reemplazo del diputado Bianchi) y diputada Yeomans (Presidente). Votaron a 
+favor los diputados Cid, Mellado, Ramírez, Romero y Von Mühlenbrock.
+Puesto en votación el inciso primero del artículo segundo transitorio, 
+resultó aprobado por la unanimidad de los trece diputados presentes señores Aedo, 
+Barrera, Cid, Mellado, Naranjo, Ramírez, Rojas, Romero, Sáez, Sepúlveda, Soto (en 
+reemplazo del diputado Bianchi), Von Mühlenbrock y Yeomans.
+Se despachó la iniciativa, siendo designado diputado Informante el señor 
+Miguel Mellado.
+2) Tratar el Proyecto de ley, iniciado en Mensaje de S. E., el 
+Presidente de la República, que Crea el Servicio de Auditoría Interna de Gobierno, 
+Boletín N° 16316-05, con urgencia calificada de Suma.
+Este punto de la tabla quedó pendiente hasta una próxima sesión. 
+ 
+ 
+ 
+ 
+4. ACUERDOS
+No se adoptaron acuerdos.
+Las presentaciones de los expositores se encuentran disponibles en 
+formato digital en:
+http://www.camara.cl/legislacion/comisiones/documentos.aspx?prmID=3
+307
+Por haberse cumplido el objeto de esta sesión, se levantó a las 16:53 
+horas.
+7
+--- PÁGINA 8 ---
+MARÍA EUGENCIA SILVA FERRER 
+Secretaria Abogado de la Comisión
+8

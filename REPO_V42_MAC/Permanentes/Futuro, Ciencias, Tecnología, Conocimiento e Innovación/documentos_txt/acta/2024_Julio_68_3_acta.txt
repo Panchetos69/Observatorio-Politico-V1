@@ -1,0 +1,1820 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=18123&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:34:47
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 68°, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+372ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 10 DE JULIO 2024, DE 
+17:39 A 19:17 HORAS.
+SUMARIO: 
+Se continuó con el trámite de audiencias respecto del 
+proyecto de ley, de origen en un mensaje, que regula los 
+sistemas de inteligencia artificial (boletín Nº 16821-19) y 
+una moción, que regula los sistemas de inteligencia 
+artificial, la robótica y las tecnologías conexas, en sus 
+distintos ámbitos de aplicación (boletín Nº 15869-19), 
+refundidos, en primer trámite constitucional, con 
+urgencia calificada de “simple”.
+I.- PRESIDENCIA
+Presidió la sesión, el diputado Eric Aedo (Presidenta Titular), actuó como Abogada 
+Secretaria de la Comisión la señora María Soledad Fredes Ruiz, como Abogada Ayudante 
+la señorita María Jesús Serey Sardá y como secretaria ejecutiva la señora Teresita 
+Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Marta Bravo, Helia 
+Molina, Erika Olivera y Gael Yeomans, y los diputados integrantes de la Comisión, señores 
+Eric Aedo, Johannes Kaiser, Tomás Lagomarsino, Rubén Oyarzo y Matías Ramírez.
+Concurrieron para la orden del día, la asesora legislativa del el Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación, señora Macarena Galaz; en representación del 
+Programa de Doctorado en Inteligencia Artificial en las Universidades Católica de la 
+Santísima Concepción, del Bio-Bio, de Concepción, y Federico Santa María, el académico 
+Jorge Portilla; y el co-director ejecutivo de la ONG Derechos Digitales, señor Juan Carlos 
+Lara.
+III.- ACTAS
+El acta de la sesión 66ª se declaró reglamentariamente aprobada.
+El acta de la sesión 67ª se puso a disposición de las señoras diputadas y señores 
+diputados.
+IV.- CUENTA
+Se recibieron los siguientes documentos:
+1.- Oficio de S.E. el Presidente de la República mediante el cual retira y hace 
+presente la urgencia calificada de "simple", para el despacho del proyecto de ley que regula 
+los sistemas de inteligencia artificial (boletín N° 16821-19). (Refundido con moción boletín 
+N° 15869-19).
+A sus antecedentes
+2.- Correo electrónico de la secretaría de gabinete de la Ministra de Ciencia, 
+Tecnología, Conocimiento e Innovación, por el que se excusa la inasistencia de la Ministra 
+a esta sesión, y se anuncia la participación de las asesoras legislativas Macarena Galaz y 
+Paloma Herrera.
+Se tomó conocimiento
+3.- Correo electrónico de la Subdirectora de GobLab de la Universidad Adolfo 
+Ibáñez, señora Romina Garrido, a través del cual excusa su inasistencia a esta sesión por 
+estar de vacaciones. Solicita, si fuera posible, trasladarla a una próxima sesión.
+Se tomó conocimiento
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 31/07/2024 12:45:40 CLT
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 3336200B7FD0E4EB
+--- PÁGINA 2 ---
+4.- Correo electrónico del Director del Doctorado en Inteligencia Artificial en las 
+Universidades Católica de la Santísima Concepción, del Bio-Bio, de Concepción y de la 
+Federico Santa María, señor Javier Maldonado Carmona, quien informa que por temas 
+logísticos no podrá asistir a esta sesión; sin embargo, asistirá el Dr. Jorge Portilla Gómez, 
+académico del doctorado, quien participará como integrante del programa y experto en 
+temas de inteligencia artificial en aplicaciones de análisis de datos.
+Se tomó conocimiento
+5.- Correo electrónico del Rector de la Universidad de Antofagasta, señor Marcos 
+Cikutovic Salas, por medio del cual excusa su inasistencia a esta sesión, por compromisos 
+contraídos con anterioridad.
+Se tomó conocimiento
+6.- A través del Sistema de la Ley del Lobby, solicitud de audiencia con esta 
+Comisión, derivada por la diputada Marta Bravo, requerida por el señor Felipe del Solar, 
+para dar a conocer la opinión de la Sociedad de Productores Fonográficos y Videográficos 
+de Chile (PROFOVI) sobre la protección de la propiedad intelectual en el proyecto de ley 
+de Inteligencia Artificial (boletines N° 16821-19 y N° 15869-19, refundidos).
+Se tomó conocimiento
+7.- Correo electrónico del abogado representante de la Federación Internacional de 
+la Industria Fonográfica (IFPI-Chile) y de la Asociación de Productores Fonográficos y 
+Videográficos de Chile (PROVOFI), quien solicita audiencia para el abogado Fernando Silva 
+Cunich, quien también representa a ambas instituciones, a fin de que exponga la opinión 
+en relación con el proyecto de ley de Inteligencia Artificial (boletín N° 16821-19), 
+específicamente en el tema vinculado a derecho de autor y propiedad intelectual, discusión 
+que ha sido diferida para más adelante en la tramitación del proyecto.
+Se tomó conocimiento
+8.- Solicitudes de audiencia de las organizaciones civiles que se enumeran a 
+continuación, para entregar su opinión sobre los proyectos de ley boletines N° 16821-19 y 
+N° 15869-19, refundidos, en tabla:
+• Alianza Chilena de Ciberseguridad, señor Diego Lisoni.
+• Del Diplomado Nueva Protección de Datos Personales en Chile: Ejercicio y 
+Compliance Corporativo, de la Universidad Central, señores Pablo Contreras y Pablo 
+Violler.
+• Asesora Legal de la Federación Gremial Sociedad de Fomento Fabril, señora 
+Camila Madariaga Norambuena.
+Se tomó conocimiento
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 19:17 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+2
+--- PÁGINA 3 ---
+REDACCIÓN DE SESIONES
+COMISIÓN DE FUTURO, CIENCIAS, TECNOLOGÍA, CONOCIMIENTO E
+INNOVACIÓN
+SESIÓN 68ª
+Celebrada en miércoles 10 de julio de 2024, de 17:39 a
+19:16 horas.
+I. APERTURA DE LA SESIÓN
+-Se abrió la sesión a las 17:39 horas.
+La señora OLIVERA, doña Érika (Presidenta accidental).- En 
+el nombre de Dios y de la Patria, se abre la sesión.
+II. ACTAS
+La señora OLIVERA, doña Érika (Presidenta accidental).- El 
+acta de la sesión 66ª queda reglamentariamente aprobada.
+El acta de la sesión 67ª se pone a disposición de las señoras 
+diputados y los señores diputados.
+III. CUENTA
+La señora OLIVERA, doña Érika (Presidenta accidental).- La 
+señora Secretaria dará lectura a la Cuenta.
+-La señora FREDES, doña María Soledad (Secretaria), da 
+lectura a la Cuenta.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Muchas gracias, señora Secretaria.
+Ofrezco la palabra sobre la cuenta.
+No sé si les parece tomar acuerdo o si esperamos a que esté 
+el Presidente titular de la Comisión, el diputado Eric Aedo, 
+para tomar acuerdos sobre los invitados, porque no sé si ya 
+contamos con un listado de personas para la próxima sesión.
+Prefiero que lo revisen y lo ordenen después.
+Ofrezco la palabra sobre puntos varios.
+Tiene la palabra la diputada Yeomans.
+3
+--- PÁGINA 4 ---
+La señora YEOMANS (doña Gael).- Gracias, Presidenta. Solicito 
+que nos envíen al chat de la Comisión el listado de invitados 
+que ya tenemos, para ver si hay que complementarlo.
+Gracias.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Muchas gracias.
+La señora FREDES, doña María Soledad (Secretaria).- Lo vamos 
+a actualizar con las propuestas que acaban de llegar y lo 
+compartiremos.
+La señora OLIVERA, doña Érika (Presidenta accidental).- Tiene 
+la palabra la diputada Molina.
+La señora MOLINA (doña Helia).- Gracias, Presidenta.
+Había solicitado, por petición de una agrupación relativa al 
+derecho de autor, invitar a sus representantes en materia de 
+artes, porque tienen mucho interés en compartirnos sus 
+comentarios respecto de cómo se normará la inteligencia 
+artificial en materia de registro de autor.
+Entonces, quiero saber si están dentro del listado de 
+organizaciones invitadas. Esta es una organización social que 
+tiene que ver con las diversas expresiones del arte, como la 
+música y otras.
+Gracias.
+La señora OLIVERA, doña Érika (Presidenta accidental).- Vamos 
+a pedirle a la Secretaria que revise y dé una respuesta.
+Muchas gracias, diputada Molina.
+IV. ORDEN DEL DÍA
+REGULACIÓN PARA SISTEMAS DE INTELIGENCIA ARTIFICIAL, 
+ROBÓTICA Y TECNOLOGÍAS CONEXAS (Primer trámite constitucional
+y primero reglamentario. Boletines Nos 16821-19 y 15869,
+refundidos) (Continuación)
+La señora OLIVERA, doña Érika (Presidenta accidental).- Esta 
+sesión ordinaria ha sido citada con el objeto de continuar con 
+el trámite de audiencias respecto del proyecto de ley de origen 
+en un mensaje que regula los sistemas de inteligencia 
+artificial y en una moción que regula los sistemas de 
+inteligencia artificial, la robótica y las tecnologías conexas 
+en sus distintos ámbitos de aplicación, refundidos, proyecto
+4
+--- PÁGINA 5 ---
+que se encuentra en primer trámite constitucional, con urgencia 
+calificada de simple.
+Para tales efectos, escucharemos a los siguientes invitados: 
+en representación del programa de doctorado en inteligencia 
+artificial de la Universidad Católica de la Santísima 
+Concepción, Universidad del Bío-Bío, Universidad de Concepción 
+y Universidad Técnica Federico Santa María, el académico Jorge 
+Portilla Gómez; al codirector ejecutivo de la ONG Derechos 
+Digitales, señor Juan Carlos Lara, y a la asesora del 
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, 
+señorita Macarena Galaz. Bienvenidos todos, los invitamos a 
+incorporarse a la mesa.
+Tiene la palabra el señor Jorge Portilla Gómez.
+El señor GÓMEZ (expositor).- Buenas tardes para todos.
+Soy Jorge Portilla, académico. Formo parte del cuerpo 
+académico del doctorado en inteligencia artificial del CRUCh 
+Biobío-Ñuble, conformado por la Universidad de la Santísima 
+Concepción, la Universidad de Concepción, la Universidad del 
+Bío-Bío y la Universidad Técnica Federico Santa María, de la 
+cual soy académico.
+Desde un punto de vista de educación y ciencia, estamos 
+interesados en este proyecto de ley que regula los sistemas de 
+inteligencia artificial y su implementación en distintas áreas 
+de la ciencia y de la vida cotidiana.
+Dentro del doctorado existen dos líneas estratégicas 
+principales. La primera está relacionada con la sociedad y la 
+inteligencia artificial, y la segunda es la ciencia y la 
+inteligencia artificial.
+Desde este punto de vista, el científico, vemos que el 
+proyecto de ley está de acuerdo con lo que esperamos como 
+institución 
+encargada 
+de 
+brindar 
+educación 
+y 
+hacer 
+investigación científica, de generar compromiso con la sociedad 
+y de vincularse con el medio, con la educación, y no solo con 
+los profesionales, sino también con de los niños y jóvenes que 
+hacen uso de estas herramientas.
+Parto por mencionar las ventajas que vemos en este proyecto 
+de ley.
+Primero, me parece adecuada la categorización de estos 
+sistemas de inteligencia artificial según su nivel de riesgo. 
+Nos parece que es una fortaleza de esta iniciativa.
+Desde lo académico, mis investigaciones han estado centradas 
+en sistemas que potencialmente pueden llegar a ser productos 
+comerciales, por lo cual tener pautas claras y criterios a 
+seguir es algo que nos beneficia y también beneficia nuestro 
+trabajo interdisciplinar cuando trabajamos no solamente con 
+profesionales nacionales, sino también con colaboradores en el 
+exterior. Eso nos va a ayudar mucho, sobre todo con países que 
+ya tienen regulaciones, como la Unión Europea.
+5
+--- PÁGINA 6 ---
+En el proyecto de ley nos causó mucha curiosidad -y es algo 
+agradable- que está basado en la regulación que inició recién 
+en marzo la Unión Europea. Es algo muy positivo.
+Entre las debilidades y limitaciones que vemos en este 
+proyecto de ley menciona que la Comisión Nacional de 
+Inteligencia Artificial estará encargada de validar y regular 
+mucha de la implementación de los sistemas de inteligencia 
+artificial. Por eso es importante que las personas que 
+conformen esta comisión estén en formación continua en sus 
+estudios y en actualización, debido a que la inteligencia 
+artificial, como todos sabemos, crece exponencialmente; en los 
+últimos 
+diez 
+años 
+ha 
+tenido 
+avances 
+tan 
+rápidos 
+y 
+significativos que requiere que no solamente los cuerpos 
+académicos, sino también las normas se adapten a estos 
+requerimientos tan demandantes.
+En segundo lugar, si bien es importante tener una 
+regularización para la innovación, sería importante también 
+tener un equilibrio entre esa regulación de la implementación 
+de estos sistemas de inteligencia artificial y la innovación, 
+de forma que no frene los avances y las investigaciones que se 
+hagan en un ámbito académico.
+Finalmente, en conclusión, creo que este proyecto es un paso 
+necesario para Chile como nación, que va a ayudar a avanzar en 
+todos los ámbitos, no solamente en la educación, sino también 
+como país en cada una de las áreas de desarrollo.
+Muchas gracias.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Muchas gracias.
+De inmediato le damos la palabra al codirector ejecutivo de 
+la ONG Derechos Digitales, señor Juan Carlos Lara.
+¡Bienvenido!
+El señor LARA (expositor).- Muy buenas tardes, señora 
+Presidenta. Muchísimas gracias por recibir en esta Comisión la 
+presencia de Derechos Digitales. Por su intermedio, también 
+saludo al resto de las personas participantes en esta sesión.
+Mi nombre es Juan Carlos Lara, soy codirector ejecutivo en 
+la organización no gubernamental Derechos Digitales.
+Esta presentación voy a hacerla de forma bastante breve, 
+concentrada en tres puntos en relación con la materia que nos 
+convoca y en seguimiento a buena parte de las consideraciones 
+ya hechas por el expositor anterior.
+En primer lugar, voy a hacer una breve referencia a la 
+organización que represento. En segundo lugar, expresar y 
+mostrar parte de nuestros propios hallazgos en materia de 
+inteligencia artificial e inclusión y cómo esto informa nuestro 
+posicionamiento en torno a la regulación de estas materias. 
+Finalmente, algunas consideraciones de carácter más bien
+6
+--- PÁGINA 7 ---
+general en torno a los proyectos de ley, con especial atención 
+a aquel presentado por el Ejecutivo.
+Derechos Digitales es una organización independiente de la 
+sociedad civil, que lleva 19 años trabajando por la defensa y 
+la promoción de los derechos humanos en el uso y en la 
+regulación de las tecnologías digitales, entendiendo el 
+potencial de abuso que existe no solamente de parte de Estados, 
+sino, en algunos casos, de grandes empresas. Se trata de una 
+organización que trabaja en toda América Latina, cuyo personal 
+es proveniente de nueve países distintos y está repartido a lo 
+largo de la Región.
+Nuestra acción está principalmente centrada en acciones de 
+incidencia, lo que significa incidencia legislativa y en 
+políticas públicas, pero también capacitación, sensibilización 
+pública, campañas en apoyo a nuestras iniciativas y más.
+Somos parte de una cantidad bastante importante de redes, 
+tanto de otras organizaciones activistas como también de 
+organizaciones de carácter académico y de investigación, además 
+de redes de carácter multisectorial. Es decir, más allá de 
+nuestras críticas que puedan existir a ciertas empresas o a 
+ciertos grupos, igualmente parte de nuestra acción depende de 
+sentarnos a la mesa, conversar con las empresas y discutir 
+cuestiones que a menudo son sensibles respecto de la forma en 
+que su acción en el ámbito de la tecnología pueda afectar 
+derechos fundamentales.
+En el trabajo de Derechos Digitales una parte importante de 
+nuestra acción está relacionada con la investigación. En ese 
+sentido, hemos llevado adelante el proyecto conocido como 
+Inteligencia Artificial e Inclusión. Lo que está referido en 
+la lámina que pueden ver quienes están presentes en la sala, 
+ia.derechosdigitales.org es una base de datos bastante grande 
+de investigación sobre derechos digitales en distintos ámbitos, 
+como también de algunos hallazgos fundamentales en la forma en 
+que se ha enfrentado desde el ámbito público la implementación 
+de inteligencia artificial en América Latina. A partir de casos 
+de estudio específicos de aplicación, además de alguna 
+comparación, hemos llegado a algunas conclusiones importantes.
+El 
+enfoque 
+de 
+esta 
+forma 
+de 
+análisis 
+ha 
+sido 
+en 
+implementación de soluciones de inteligencia artificial o 
+llamadas 
+de 
+inteligencia 
+artificial 
+por 
+ser 
+sistemas 
+automatizados o semiautomatizados por parte de algunos Estados 
+en América Latina y su posible impacto en derechos humanos, 
+comprendiendo todo el rango de derechos humanos -no solo 
+derechos civiles y políticos, sino también aquellos que se 
+refieren a derechos económicos, sociales y culturales- y cuáles 
+son las aristas de inclusión de grupos afectados y de la 
+sociedad completa en distintos ámbitos en relación con esa 
+implementación.
+Estos estudios de casos de implementación, en particular, 
+han hecho énfasis en política pública, es decir, cuando el 
+Estado es el que despliega soluciones de inteligencia 
+artificial.
+7
+--- PÁGINA 8 ---
+Los casos de los que se trata este cúmulo de investigaciones, 
+en una primera instancia, han sido sobre algunas iniciativas 
+en Brasil, también con participación de la empresa privada; 
+implementaciones en Chile a propósito, por ejemplo, del Sistema 
+Alerta Niñez, aun sabiendo que hay más de un centenar de 
+utilizaciones de algoritmos en el ámbito público; en Colombia, 
+para análisis estadístico en el ámbito judicial, de la Corte 
+Constitucional colombiana, a través de la implementación 
+específica de un software desarrollado en Argentina; y en 
+Uruguay, en gestión de la información de salud.
+Hay algunos casos adicionales que vamos a agregar a este 
+listado en el año 2024, sin embargo, esto da cuenta de algunas 
+de estas aplicaciones.
+Las dimensiones de análisis a las que hemos llegado apuntan 
+a cuál es la estructura institucional preexistente al modelo 
+de despliegue de una inteligencia artificial. Es decir, en 
+ausencia de la regulación que hoy estamos intentando en Chile, 
+o bien, en la existencia de modelos institucionales que, por 
+ejemplo, puedan tener alguna institucionalidad en materia de 
+datos personales o alguna institucionalidad fuerte en materia 
+de salud o en otras formas de implementación de la tecnología.
+Lo que hemos encontrado, a modo de tendencia, es que hay 
+bastantes carencias en términos de escrutinio público y 
+transparencia. En varios de los casos que analizamos hubo una 
+aceleración en la adopción de medidas de política pública en 
+razón de la pandemia de la Covid-19 de hace algunos años, que 
+no solamente generó algunas necesidades de gestión de 
+información para la adopción de medidas de salud, sino también 
+para la respuesta posterior a la crisis económica que le 
+siguió; la necesidad de salir en ayuda económica de las 
+personas que habían sufrido por la pandemia significa una mayor 
+gestión de información personal.
+Esto nos lleva a pensar necesariamente en cómo llegamos a 
+una regulación que pueda prevenir los riesgos que se asocian a 
+esas 
+implementaciones, 
+cómo 
+enfrentamos 
+también 
+los 
+despliegues que nacen del sector privado y, finalmente, cómo 
+establecemos un esquema institucional que permita una mejor 
+defensa de los derechos de las personas.
+Así es que nos toca opinar sobre los proyectos que tenemos 
+al frente hoy y, en particular, sobre cómo la discusión que ha 
+existido en Chile durante los últimos años ha derivado en la 
+presentación del proyecto del Ejecutivo y su carácter refundado 
+con el proyecto que llegó por moción el año pasado.
+El proyecto está enmarcado en el contexto de múltiples 
+iniciativas en la Región. Hay varios estudios, análisis y 
+mapeos; al menos, hay siete mapeos de carácter global que dan 
+cuenta de más de una treintena de iniciativas de carácter legal 
+en América Latina. Las que tenemos aquí en Chile son bastante 
+llamativas por su nivel más avanzado y, en particular, el del 
+Ejecutivo es bastante elaborado en tal sentido.
+En todos estos casos se da cuenta de una necesidad 
+regulatoria relacionada con el uso de la tecnología,
+8
+--- PÁGINA 9 ---
+especialmente reconociendo aquello que ya fue parte de 
+discusiones anteriores, tanto en el seno de esta Comisión como 
+también en el grupo de trabajo de la Comisión Desafíos del 
+Futuro, del Senado, pero lo peculiar es que se adopta un modelo 
+de regulación con una aspiración de aplicación práctica.
+El año pasado Perú ya pasó una ley sobre inteligencia 
+artificial que fundamentalmente es de principios, no de un 
+esquema tan elaborado y eso da cuenta también de dónde se está 
+avanzando. También Brasil lleva bastante tiempo discutiendo 
+una regulación muy integral, pero ha encontrado sus propios 
+problemas de discusión, marcados también por sus debates más 
+politizados y ha sido una discusión demasiado compleja.
+Además, en el proyecto del Ejecutivo hay un enfoque favorable 
+a pequeñas y medianas empresas, lo que es bastante positivo 
+desde la perspectiva nacional, considerando que cuando hablamos 
+de estas tecnologías es usual mencionar a grandes empresas 
+tecnológicas o a los grandes imperios de la inteligencia 
+artificial, especialmente de esos grandes países que entregan 
+la mayor cantidad de los servicios potentes o famosos sobre 
+inteligencia artificial.
+Quiero hacer una observación respecto de cómo esta regulación 
+se centra en la tecnología, en sus proveedores y más, aun 
+cuando buena parte de nuestros hallazgos apuntan al énfasis en 
+la inteligencia artificial como herramienta y, por tanto, a 
+los sistemas de inteligencia artificial como sistemas o 
+fenómenos sociotécnicos, que no solamente son cuestiones 
+relacionadas con la herramienta. Es decir, cuando hablamos de 
+sistemas basados en máquinas, en rigor, hay personas utilizando 
+esas máquinas y esas decisiones que pueden afectar a otras 
+personas son decisiones humanas. Y, en tal sentido, hablar en 
+este ámbito de sistemas debiera apuntar en una dirección en 
+que no se trata solamente de los aparatos o de las herramientas, 
+porque son los usos los que terminan afectando de forma 
+desmedida a algunos derechos o a algunas personas.
+Por lo demás, resulta llamativo que la definición de 
+inteligencia artificial que hace la propuesta del Ejecutivo 
+hable de máquinas sin hacer referencia a tecnologías digitales, 
+abriéndose a futuras formas de tecnologías de inteligencia 
+artificial que no sean necesariamente digitales.
+El modelo se basa en riesgos que adopta la regulación 
+propuesta por el Ejecutivo, es uno del que asumo ya se ha 
+hablado bastante al interior de esta Comisión, que parece estar 
+ignorando lo que se refiere a riesgos de carácter colectivo, y 
+me parece que esto es uno de los mayores hallazgos que tuvimos 
+en nuestros procesos de investigación. El hecho de que ciertas 
+formas de despliegue no van a afectar solo a personas de manera 
+individual, sino que van a influirlas de manera colectiva o 
+como grupo y lo hemos visto desde hace una década, a propósito 
+de 
+formas 
+de 
+despliegue 
+de 
+algoritmos 
+que 
+afectan 
+desproporcionadamente a ciertas poblaciones, en particular a 
+poblaciones negras en los Estados Unidos de América, por lo 
+que es importante que los análisis de riesgos consideren eso; 
+entiendo que esto lo complejiza y muchas de las cosas que voy
+9
+--- PÁGINA 10 ---
+a mencionar parecen complejizarlo, pero el propósito de esto 
+es enriquecer la discusión para que su eventual operatividad 
+también reconozca esos elementos.
+A la vez, la idea de riesgo tiene sus propios peligros, para 
+no ser tan reiterativo con la palabra.
+Una de las cuestiones que el equipo de políticas públicas de 
+Derechos Digitales ha discutido internamente es esta idea del 
+riesgo estático, de la naturaleza del riesgo como algo que se 
+califica al momento de la evaluación para saber si está dentro 
+de las categorías de riesgo que establece la propuesta 
+regulatoria, sin perjuicio de la capacidad de ese riesgo de 
+cambiar o alterar su posible impacto en razón de su uso o de 
+la persona que lo usa más que de la tecnología propiamente tal.
+Eso vuelve a la idea del sistema sociotécnico como uno en 
+que las decisiones de quién usa la herramienta son las que 
+terminan afectando finalmente a otras personas o grupos.
+Al mismo tiempo, una preocupación que existe todavía en la 
+Unión Europea, a propósito de la dictación de la ley de 
+inteligencia artificial, es que una aplicación que logre eludir 
+la clasificación de alto riesgo pueda igualmente tener un 
+impacto idéntico o significativo o peor que una que sí haya 
+sido calificada como de alto riesgo. Por este motivo es 
+necesario poseer también mecanismos de revisión apropiados.
+Entiendo que hay discusiones con gente de la Academia que 
+hay preocupación por la privatización en la clasificación del 
+riesgo. Yo lo entiendo como una consecuencia de un intento por 
+integrar un esquema regulatorio más liviano y que no sea 
+restrictivo de la innovación. Sin embargo, esto tiene algunos 
+riesgos en relación con hasta dónde llega este nivel de que 
+sean las clasificadoras o los desarrolladores quienes digan 
+cuánto de lo que están produciendo va a afectar a los derechos. 
+Y, a la vez, el carácter excluyente de las posibles personas o 
+grupos potencialmente afectados, que es lo que ha llevado en 
+otras 
+latitudes 
+a 
+la 
+recomendación 
+constante 
+de 
+las 
+evaluaciones de impacto en derechos humanos.
+Al mismo tiempo, existe esta noción un poquito más profunda 
+de la idea del riesgo como un asunto que va a variar, en razón 
+de valores y normas sociales, pero que también no está 
+necesariamente asociado a errores o a fallas del sistema; a 
+veces, los riesgos se dan simplemente porque el sistema 
+funciona como debería funcionar, que es lo que ocurre, en 
+general, 
+con 
+estos 
+problemas 
+de 
+un 
+sistema 
+que 
+desproporcionadamente perjudica a ciertas poblaciones.
+Dentro del listado de riesgos de la propuesta del Ejecutivo 
+está un registro legalmente definido que tiene varios ejemplos. 
+Eso está en línea con recomendaciones de la sociedad civil a 
+nivel internacional y que, principalmente, apuntan a la 
+explotación de características o de información de carácter 
+sensible, 
+en 
+hipótesis 
+-bastante 
+bien 
+definidas 
+y 
+distinguidas-, a pesar de que hay algunas excepciones que van 
+a merecer alguna discusión más detenida.
+10
+--- PÁGINA 11 ---
+Dentro de esos usos inaceptables, porque son incompatibles 
+con los derechos humanos que menciona la sociedad civil a nivel 
+global, hay un par que no están mencionados en el listado de 
+regulación del Ejecutivo, como es la gestión totalmente 
+automatizada de trabajadores -incluida su contratación, 
+despido o asignación de tareas- y que incluye, además, para la 
+sociedad civil extranjera el uso de aplicaciones para estos 
+trabajadores “independientes” y, por tanto, tienen como jefe a 
+una app. También está ausente de este listado la policía 
+“predictiva”; hay aplicaciones sobre esto ya en Chile, es parte 
+de los estudios que también hemos llevado adelante, y 
+entendemos que esto puede significar una fuente adicional de 
+riesgo que, por lo tanto, para poder ser llevada a cabo necesita 
+una evaluación de cuál será su verdadero impacto en lugar de 
+seguir adelante sin una correcta observación de sus posibles 
+efectos.
+Finalmente, 
+no 
+hay 
+una 
+capacidad 
+de 
+determinar 
+reglamentariamente otras fuentes de riesgo inaceptables, 
+considerando que esto queda como materia de ley. Si eso es una 
+decisión de política pública o finalmente es algo que va a 
+seguir apoyando el Ejecutivo, eso va a depender de esta 
+discusión. No obstante, quitar flexibilidad a este listado, 
+por estricto que sea, por exigente que puedan ser los 
+criterios, significa también quitarnos una oportunidad de 
+excluir usos futuros que hoy no conocemos.
+De igual modo, es muy importante considerar dentro de este 
+riesgo inaceptable que mucho de lo que está aquí apunta a 
+biometría, y uno de los usos considerados inaceptables es la 
+prohibición del análisis que permite la identificación de 
+personas a distancia y en tiempo real; básicamente, la 
+biometría. Sin embargo, a pesar de que esto ha sido también 
+considerado como inaceptable, y cuya aplicación por antonomasia 
+es el reconocimiento facial automatizado en la vía pública, 
+porque es una forma de vigilancia estatal muy poco liberal y 
+que es bastante negativa de la idea de caminar por la calle 
+sin ser seguido, en el proyecto del Ejecutivo tiene una 
+excepción en el uso por la autoridad de seguridad pública y 
+los órganos de persecución penal, que es un uso que la sola 
+videovigilancia pública desde hace décadas es objeto de crítica 
+por parte de la doctrina como algo que requiere regulación, y 
+no tenemos esa regulación.
+Exceptuar desde ya una tecnología más intrusiva en el mismo 
+sentido de esas tecnologías, hoy no suficientemente reguladas, 
+es un problema. Me parece que eso es algo que, independiente 
+de la intención de tener una excepción a favor de la seguridad 
+pública, requiere un debate legislativo aparte y no una 
+integración dentro de la ley de inteligencia artificial.
+Por último, y casi al cierre de mis palabras, se ha mencionado 
+antes de comenzar con esta presentación la intención de recibir 
+a personas en relación con los intereses de propiedad 
+intelectual. Ese es un debate necesario, es muy importante 
+tenerlo; esa regulación es necesaria sea o no en el marco de 
+la discusión de este proyecto específico, porque se trata de
+11
+--- PÁGINA 12 ---
+una reforma a la ley de propiedad intelectual, a la regulación 
+de derechos de autor. En este sentido, la propuesta de reforma 
+es mayormente positiva en cuanto a la integración de un nuevo 
+artículo 71 T en la Ley de Propiedad Intelectual, sin embargo, 
+con algunos posibles puntos de mejora que van a merecer alguna 
+consideración adicional.
+En la siguiente lámina se aprecia la portada de un informe 
+realizado por una coalición de acceso al conocimiento, que 
+muestra una especial preocupación de la capacidad de países de 
+América Latina de desarrollar sus propios sistemas de 
+inteligencia 
+artificial 
+en 
+condiciones 
+favorables, 
+considerando que la investigación y el desarrollo de 
+inteligencia artificial también han sido favorecidos en el 
+ámbito de la propiedad intelectual por reglas como las del fair 
+use, que se creó en los Estados Unidos.
+No contar con excepciones para text and data mining o al 
+menos para un desarrollo que permita la investigación de 
+material lícitamente publicado sin afectar la explotación 
+normal de una obra, puede significar una desventaja competitiva 
+relevante.
+Por eso es importante que ese debate exista.
+Finalmente, el futuro Consejo Asesor Técnico de inteligencia 
+artificial 
+reconoce 
+la 
+importancia 
+de 
+la 
+gobernanza 
+multisectorial, pero consideramos que su composición tiene 
+algunos problemas que merecen alguna consideración para sus 
+mejoras.
+Algunos de esos problemas son que no hay una mayoría de 
+funcionarios públicos, de ocho contra siete de otros cuerpos y 
+representantes de cuerpos intermedios y de ciertos estamentos; 
+hay ciertas funciones están más bien fijadas como de carácter 
+técnico, las cuales están relacionadas con estándares y 
+parámetros de riesgo que podrían ser relevantes para ese 
+órgano, pero que no necesariamente coincidirían con el perfil 
+de las personas que van a integrarlo, lo que obliga a considerar 
+cuáles serán los mecanismos de apoyo o cuál es la definición 
+específica de sus funciones, y, finalmente, hay que establecer 
+reglas mínimas de funcionamiento, dado que no están presentes 
+en la reglamentación legal.
+Por otra parte, los criterios de diversidad, inclusión, 
+equidad o de alguna representatividad de grupos potencialmente 
+afectados también deberían estar dentro de ese establecimiento 
+legal.
+Para cerrar, no puedo dejar de mencionar la necesidad de un 
+abordaje sistémico a propósito de la inteligencia artificial.
+El proyecto de ley del Ejecutivo hace mención explícita a 
+una autoridad de control en materia de datos personales, pero 
+todavía no existe. De hecho, en una petición formal para hacer 
+avanzar el proyecto hubo una leve insinuación de que los 
+derechos digitales representan los intereses de la industria. 
+En absoluto es el caso, de hecho, no recibimos fondos de la 
+industria.
+12
+--- PÁGINA 13 ---
+Es muy importante que el proyecto de ley de protección de 
+datos personales avance para que efectivamente haya un 
+resguardo ante los riesgos de la inteligencia artificial, sean 
+considerados en el proyecto o no.
+A la vez, es relevante no quedarnos con la inteligencia 
+artificial como objeto especial de atención sin considerar el 
+desarrollo tecnológico en un sentido más amplio. Por eso es 
+importante considerar el resto de la regulación en materia 
+tecnológica, como el proyecto de ley sobre transferencia de 
+tecnología, recientemente aprobado, pero lo más importante es 
+no descuidar los marcos de otras formas de responsabilidad.
+Puede ser que podamos prevenir ciertas formas de tecnología 
+a través de la regulación de la inteligencia artificial, aunque 
+algunas otras tecnologías sean intrínsecamente dañinas, dado 
+que podrían ser utilizadas de forma dañina.
+Por lo mismo, consideramos que buena parte de la respuesta 
+institucional va a pasar a menudo por un carácter más 
+represivo, por ejemplo, por el hecho de que hay adolescentes 
+sujetos a escarnio público porque alguien utilizó inteligencia 
+artificial para generar material de ultrasuplantación o 
+deepfakes.
+Entonces, sin esos marcos adicionales, esto podría quedar 
+simplemente en una discusión limitada sobre el uso de 
+herramientas y merece otras formas de respuesta institucional. 
+Parte importante para que aquello suceda es el proyecto de ley 
+de protección de datos personales y el proyecto de ley marco 
+de ciberseguridad, que fue aprobado hace unos meses.
+Todo esto hay que pensarlo sistémicamente, de hecho, es 
+relevante que desde el Ministerio de Ciencia se aborde de esa 
+manera.
+Como conclusión, es relevante mantener una discusión amplia, 
+abierta, transparente, basada en la evidencia, en la 
+experiencia nacional y comparada.
+Quizás se podrían involucrar distintas partes interesadas, 
+pero con un mecanismo que no necesariamente obligue a realizar 
+una cantidad infinita de audiencias, sino más bien una cantidad 
+concreta y con resultados. Complementariamente, se podrían 
+impulsar reformas legales que estén dirigidas a la complejidad 
+de la problemática, como avanzar en el proyecto de ley de datos 
+personales, reglas sobre consumo, sobre derechos económicos, 
+sociales, culturales, contra la discriminación, y mucho más.
+Con esto cierro mi presentación.
+Agradezco esta oportunidad.
+El señor AEDO (Presidente).- Muchas gracias, señor Lara, por 
+su exposición. Lamentablemente no pude escucharla completa 
+porque estaba en la Comisión de Recursos Hídricos reemplazando 
+a uno de los diputados.
+Ofrezco la palabra.
+13
+--- PÁGINA 14 ---
+Tiene la palabra el diputado Kaiser.
+El señor KAISER.- Señor Presidente, podría realizar muchas 
+consultas, pero hay un punto que me viene preocupando desde 
+hace rato.
+Estamos creando la base de datos biométrica en el Registro 
+Civil e Identificación. Hemos aprobado dos proyectos de ley en 
+esta legislatura, uno sobre el deporte y otro para los 
+aeropuertos, que no solo crean una base de datos, sino que 
+también permiten el control de los ciudadanos a través de la 
+identificación biométrica.
+El ministro del Interior y Seguridad Pública ha propuesto 
+aplicar o utilizar este sistema de identificación en el metro. 
+Esto lo planteó hace un año y medio o dos años, si no me 
+equivoco, al principio de esta legislatura. No se avanzó en 
+eso, pero está el tema.
+Señor Presidente, por su intermedio, mi pregunta al expositor 
+es la siguiente.
+La base de datos que se está creando, asociada a una 
+inteligencia artificial con una programación determinada, ¿qué 
+riesgo estima que podría significar para la libertad y los 
+derechos de los ciudadanos?
+Muchísimas gracias.
+El señor AEDO (Presidente).- Tiene la palabra el señor Juan 
+Carlos Lara.
+El señor LARA (Codirector ejecutivo de la ONG Derechos 
+Digitales).- Señor Presidente, es importante que comprendamos 
+algunas cuestiones básicas sobre la biometría.
+En primer lugar, su carácter profundamente intrusivo como 
+forma de identificación.
+La 
+biometría 
+puede 
+servir 
+para 
+muchos 
+usos, 
+pero, 
+principalmente, hay dos formas en que es útil.
+Una es la verificación, el uno a uno, el hecho de que yo abra 
+el teléfono con la huella o la cara, es decir, que tiene 
+registrado una cara o una huella y se compara con la que se 
+tiene al frente. Esto puede llevarse adelante con otras formas 
+de verificación, en que se lleva a una base de datos la 
+información de una persona y se compara con la que tiene al 
+frente. Pasa por un proceso de detección y reconocimiento, de 
+datificación de la información que recibe.
+Eso es la biometría, la medición de lo que tiene al frente 
+físicamente.
+La segunda es la verificación, el hecho de que, en un universo 
+amplio de personas, por ejemplo, todas las personas que están 
+con un rostro registrado en el Registro Civil puedan ser 
+identificadas en el espacio público.
+14
+--- PÁGINA 15 ---
+Entonces, verificación e identificación: uno es a uno, uno 
+es a ene.
+Esto es altamente intrusivo, porque significa la exposición 
+a que una máquina recoja información de una persona. Por lo 
+mismo, tradicionalmente la entendemos como una forma de captura 
+de información sensible.
+En general, esa información requiere un consentimiento 
+informado, expreso, a menudo por escrito. Está muy relacionado, 
+por ejemplo, con la información que se recoge en el ámbito 
+médico, pero también en la identificación en procesos de 
+identificación junto al Estado. Por lo mismo, su aplicación 
+necesita ser bastante restringida en sus usos, porque es 
+altamente intrusivo y va a requerir un montón de información y 
+más.
+Cuando hablamos de la regulación de base de datos biométricos 
+es precisamente por la importancia de conservar esa información 
+con restricciones de acceso, de quién puede tenerla, a quién 
+se le puede comunicar, con restricciones de seguridad y 
+exigencias de calidad, para que no sea información obsoleta, 
+porque va a perder su utilidad frente a cambios físicos de una 
+persona o ante el hecho de que una persona sospechosa cambie 
+de apariencia.
+En los usos en que es considerablemente más utilizada la 
+biometría, como en los aeropuertos a nivel global, hay un 
+carácter que es bastante peculiar relacionado con ese ámbito 
+específico de seguridad. Es decir, no es a propósito de la 
+calle, sino de las personas que usualmente cruzan la frontera, 
+con ciertas restricciones también, ni siquiera dentro de todos 
+los aeropuertos de viaje nacional con ese nivel de intrusión, 
+pero sí, definitivamente, en relación con el cruce de la 
+frontera y la protección de nuestras fronteras. En otras 
+palabras, es un ámbito restringido y reducido.
+Desde organizaciones de libertades civiles también ha habido 
+importante oposición. Sin embargo, en la práctica internacional 
+ha habido consenso en la aceptación de esa forma de control. 
+De hecho, en Chile también ha sido utilizado por las líneas 
+aéreas, para no presentar una tarjeta de embarque. Es un hecho 
+que su uso ha aumentado en vez de reducirse, pero sigue siendo 
+un ámbito relativamente restringido.
+En 
+el 
+ámbito 
+de 
+los 
+eventos 
+deportivos, 
+tenemos 
+características especiales en los encuentros deportivos en 
+América Latina que se han convertido en escenarios de violencia 
+significativa, alejando a las familias de los estadios y de 
+los eventos deportivos.
+Es paradójico, pero hemos llegado a acostumbrarnos a la 
+presencia de violencia en los estadios. Sin embargo, a pesar 
+de que decenas de miles de personas asisten a esos eventos, 
+sigue siendo un ámbito de aplicación relativamente restringido.
+Podemos estar en oposición y considerar desproporcionada la 
+participación en un evento deportivo o lamentar el devenir de 
+la sociedad que nos ha llevado a ver esto como una solución
+15
+--- PÁGINA 16 ---
+necesaria. Sin embargo, es diferente si lo pensamos en el 
+ámbito público, las personas que caminan por la calle, porque 
+todos tenemos la posibilidad de deambular libremente por la 
+calle, independientemente de nuestra forma de movimiento, 
+porque en este caso no se trata de alguien que voluntariamente 
+intenta cruzar una frontera o participar en un evento 
+deportivo, sino de alguien que simplemente ejerce su libertad 
+ambulatoria.
+Si las medidas de recolección de información van a ser así 
+de intrusivas, para que realmente sean legítimas dentro de un 
+marco 
+de 
+derechos 
+fundamentales 
+como 
+el 
+que 
+rige 
+constitucionalmente en Chile y no se afecte la garantía de 
+garantías de la Constitución chilena, es importante cumplir 
+con ciertos requisitos y estándares.
+Esos requisitos y estándares incluyen legitimidad, que haya 
+un fin legítimo; legalidad, que la autorización sea el 
+resultado de un proceso de discusión democrática y no solo un 
+capricho de una autoridad local –es decir, una autorización 
+producto de un debate como el que se realiza en esta Comisión-, 
+y proporcionalidad, que se determine cuánto se afecta en 
+relación con lo que se va a lograr.
+Este debate se ha producido, por ejemplo, en torno al control 
+preventivo de identidad, el cual ha llevado a cientos de miles 
+de arrestos en millones de controles de identidad, a pesar de 
+la oposición de buena parte de la sociedad civil.
+Eso es desproporcionado, porque podrían existir otras medidas 
+menos lesivas o intrusivas para llegar al mismo fin. Por lo 
+tanto, determinar que no sea necesariamente el método idóneo 
+ni más adecuado ni menos lesivo es parte del examen de 
+proporcionalidad.
+En tal sentido, aunque en otros ámbitos sea comprensible que 
+se haya llegado a una solución de esa naturaleza, en el ámbito 
+de las libertades públicas, como el derecho de las personas a 
+deambular 
+libremente, 
+reconocido 
+por 
+el 
+Tribunal 
+Constitucional como el derecho a caminar anónimamente por la 
+calle, o el derecho de cualquier persona a caminar sin ser 
+seguida por otros, mucho menos por un agente estatal que 
+observe a una persona simplemente por su aspecto o el lugar 
+donde se encuentra, sin una causa probable de comisión de 
+delito que sí lo justificaría, es profundamente problemático.
+Eso 
+requiere 
+una 
+regulación 
+específica 
+que 
+no 
+sea 
+exclusivamente una excepción a una prohibición general en el 
+contexto de esta futura ley.
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Kaiser.
+El señor KAISER.- Señor Presidente, hice la pregunta porque 
+indirectamente se podría llegar al mismo resultado.
+16
+--- PÁGINA 17 ---
+Si genero una base de datos biométrica en el Registro Civil, 
+ya tengo la herramienta esencial para controlar a todos los 
+ciudadanos. Luego, lo aplico en los vuelos internos, en los 
+microbuses interprovinciales, en los estadios y en el metro. 
+¿Cuánto se necesita para conectar, por ejemplo, el sistema de 
+cámaras que ya existe en Las Condes?
+Lo que he tratado de advertir es el avance de esta tecnología, 
+asociado además a un sistema de inteligencia artificial que 
+puede ser programado según el interés del usuario. No nos 
+equivoquemos. Para aquellos que ven esto con mayor relajo 
+porque piensan que el Estado nunca es un problema, imaginen 
+que Manuel Contreras hubiese tenido esto a su disposición.
+Digo esto porque en ocasiones parece que tanto mi sector 
+político como el otro están olvidando nuestra historia 
+reciente, la historia del país y del mundo, en cuanto al peligro 
+que puede significar un Estado para su propia ciudadanía.
+Personalmente, tengo una posición muy específica respecto 
+del gobierno militar, pero también reconozco una cosa: ni 
+siquiera el Ministerio para la Seguridad del Estado (Stasi) en 
+la Alemania Oriental alcanzó un nivel de vigilancia tan alto 
+como el que estamos considerando ahora. Actualmente, el único 
+país que tiene esos niveles de vigilancia al cual nos estamos 
+acercando es China.
+No olvidemos que China tiene un Estado totalitario, sin 
+democracia ni libertad de expresión, donde la vida de cada 
+ciudadano depende prácticamente de la voluntad de los políticos 
+de turno.
+Mi consulta es con relación a que estamos creando una 
+infraestructura que, en mi opinión, por su sola existencia, se 
+podría convertir en un riesgo para la libertad. Cualquier 
+persona 
+podría, 
+en 
+algún 
+momento, 
+hacer 
+una 
+pequeña 
+modificación. 
+Solo 
+necesitaríamos 
+un 
+atentado 
+lo 
+suficientemente grande para que todo el mundo pida seguridad y 
+cámaras en las calles, y terminaría la libertad de la gente. 
+Es lo mismo que ocurrió en la Alemania nazi con el atentado 
+contra el Reichstag, en que se entregaron poderes excepcionales 
+a Hitler. En otros casos ha sucedido lo mismo.
+Cuando se genera una amenaza o una impresión de amenaza lo 
+suficientemente grande, la gente está dispuesta a entregar su 
+libertad. Incluso durante la pandemia estuvimos dispuestos a 
+dejarnos encerrar y a pedir permiso para pasear al perro.
+Mi inquietud es que estos sistemas, cuando están acoplados 
+al Estado, a nuevas tecnologías y a la red, pueden 
+transformarse en un adversario político formidable -no importa 
+de qué sector seamos- que logre que sea absolutamente imposible 
+toda resistencia a un gobierno tiránico, independientemente de 
+su color político.
+Eso es lo que quiero dejar planteado, ya que esta 
+preocupación me viene rebotando hace tiempo.
+Muchísimas gracias.
+17
+--- PÁGINA 18 ---
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Lagomarsino.
+El señor LAGOMARSINO.- Señor Presidente, empiezan a aflorar 
+algunas diferencias entre el proyecto de ley original -que es 
+de mi autoría- y el proyecto de ley del Ejecutivo, debido a 
+que presentan algunos elementos diferentes.
+El proyecto de ley de mi autoría plantea que es de riesgo 
+inaceptable la identificación biométrica remota, ya sea en 
+tiempo real o diferido, en espacios de acceso público, salvo 
+que dicho uso sea estrictamente necesario para alcanzar uno o 
+varios objetivos, como la búsqueda selectiva de posibles 
+víctimas 
+concretas 
+de 
+un 
+delito, 
+incluidos 
+menores 
+desaparecidos; la prevención de una amenaza específica, 
+importante e inminente para la vida o la seguridad física de 
+las personas o de un atentado terrorista, y la detección, 
+localización, identificación o enjuiciamiento de la persona 
+que ha cometido o se sospecha que ha cometido alguno de los 
+delitos incluidos en el Código Penal.
+Las excepciones consideradas en este numeral estarán 
+supeditadas a una orden emanada de un tribunal de justicia y 
+solo podrán ser aplicadas por Carabineros de Chile y la Policía 
+de Investigaciones.
+Eso le da un marco, pero, obviamente, el proyecto de ley del 
+Ejecutivo avanza bastante.
+Sistema de identificación biométrica remota en espacios de 
+acceso público en tiempo real. Estamos hablando de lo mismo en 
+términos prácticos. De hecho, el proyecto del Ejecutivo solo 
+se refiere a la identificación remota en tiempo real, mientras 
+que mi proyecto también incluye la identificación diferida, lo 
+cual es una diferencia significativa.
+El proyecto del Ejecutivo propone un sistema de inteligencia 
+artificial destinado al análisis de imágenes de video en 
+espacios de acceso público que emplea el sistema de 
+identificación biométrica, y señala:
+“Esta prohibición no será aplicable, en caso de que el 
+sistema de IA sea utilizado estrictamente por las autoridades 
+y órganos encargados de la seguridad pública y organismos de 
+persecución penal, con el objetivo de prevenir, investigar, 
+detectar y, eventualmente, sancionar la comisión de crímenes o 
+simples delitos o la ejecución de sanciones penales, incluidas 
+la protección y prevención frente a amenazas para la seguridad 
+pública, de conformidad con la ley.”.
+Tampoco plantea ningún filtro respecto de su uso. La mía, al 
+menos, plantea ciertas excepciones. De hecho, tiene que ser un 
+tribunal de garantía el que dé la orden para decir: “¡ya, lo 
+ocupamos ahora!”. Pero aquí está planteado como una excepción, 
+siempre que sea en materia de seguridad pública.
+Entonces, creo que ese es un elemento diferenciador.
+18
+--- PÁGINA 19 ---
+Ahora, esto generó harta polémica en la Unión Europea. Y, 
+apropósito de lo que sé de la Subsecretaria de Prevención del 
+Delito, la Cenco (fonético) de la Región Metropolitana, 
+justamente está estudiando la posibilidad de implementar un 
+sistema biométrico -no sé si en tiempo real o diferido- con la 
+unificación de las cámaras.
+Es evidente que esta es una cuestión que implica una 
+discusión bien profunda sobre las libertades, pero creo que, 
+independiente de cuál sea el resultado final, todos formaremos 
+nuestras propias convicciones, pues implica una discusión de 
+por medio relevante.
+Muchas gracias, Presidente.
+El señor AEDO (Presidente).- Muchas gracias, diputado 
+Lagomarsino.
+Tiene la palabra el diputado Ramírez.
+El señor RAMÍREZ (don Matías).- Es interesante este debate, 
+más si se considera que estamos en un edificio donde nuestros 
+datos biométricos -al menos los de los parlamentarios- son 
+utilizados permanentemente.
+El Secretario General tiene toda nuestra información. Sabe 
+dónde estamos, cuándo estamos, y cada día instalan más 
+pantallas para saber a dónde vamos. Es complejo acostumbrarse 
+a eso.
+(Una persona interviene sin micrófono. Inaudible)
+No, está bien. Esto se utiliza dentro de cierto ámbito, pero 
+igual lo ocupamos. Nuestros datos biométricos son usados para 
+cuando ingresamos, para marcar en Sala, pero ahora -insisto- 
+hasta en los pasillos se ven pantallas que incluso registran 
+nuestros pasos.
+Sí, es cierto, es uno el que está dentro de este espacio. 
+Quizás la discusión debe centrarse en si los 155 estamos de 
+acuerdo en perder hasta nuestra libertad de desplazamiento 
+interno, que igual es algo complejo, porque mientras no estemos 
+en nuestras oficinas no tenemos privacidad.
+No obstante, este tema también es relevante cuando se ve 
+desde el punto de vista de la discusión que se da en materia 
+de seguridad pública, porque creo que ese es el temor o la 
+situación que debe darse en el marco de otros derechos y 
+libertades, ya que, claro, ponemos un ojo en la utilización de 
+los datos biométricos, pero es lo mismo que ocurre, por 
+ejemplo, cuando entregamos amplias facultades a las policías 
+para que nos registren.
+(Una persona interviene sin micrófono. Inaudible)
+19
+--- PÁGINA 20 ---
+Claro, eso no está en el ámbito de la tecnología, pero también 
+es una expresión sobre cómo se cercenan libertades. Es más, 
+hasta en un control preventivo de identidad se podría generar 
+una cuestión bastante compleja.
+Es evidente que, dentro del marco de la discusión de 
+seguridad pública, en nuestro país cada día más hemos ido 
+perdiendo esas libertades, precisamente por ese temor que 
+muchas veces nos autofundamos. Y, sí, comparto que hoy todos 
+los municipios estén luchando por contar con centros de 
+cámaras, pero ¿quién maneja esa información? ¿Qué hacemos con 
+ella? ¿Cómo decido a dónde apuntar una cámara? Claro, aquí 
+estamos hablando de algo que va más allá, hablamos de la 
+aplicación de inteligencia artificial, pero hoy dependemos de 
+quien está de turno en la central. Es él quien dice: “el de 
+gorro rojo. Me parece que puede ir por ahí”, y la cámara se va 
+hacia ese sector.
+Entonces, es evidente que dentro del ámbito de la discusión 
+de la seguridad pública hemos limitado totalmente nuestra 
+libertad de desplazamiento.
+En cuanto a la exposición, más que una consulta, comparto 
+que esto requiere de una discusión mucho más precisa. No 
+podemos dejarla como una discusión más dentro de este marco 
+general regulatorio de la inteligencia artificial, porque hay 
+otras definiciones de por medio.
+Tratándose de la excepción, ahí tengo mi convencimiento, de 
+que efectivamente en la dictadura civil-militar una herramienta 
+de estas características habría sido más que compleja. Digamos 
+que el número de detenidos desaparecidos hubiese aumentado 
+drásticamente.
+Ahora, eso también puede suceder con el gobierno que venga 
+en el futuro. Eso es una realidad. Porque mientras se levantan 
+discursos o discusiones sobre seguridad pública -que nosotros 
+mismos complejizamos en estos espacios-, al final no faltará 
+el creativo que diga: “bueno, ocupemos esta herramienta para 
+algo”, y no sabemos en qué puede terminar ese algo.
+Insisto, no es una consulta para el expositor, sino más bien 
+una reflexión, en el sentido de no tomar esto tan a la ligera, 
+porque, claro, uno puede entender lo de los datos biométricos 
+en el Registro Civil, que también es complicado, porque igual 
+se genera una base de datos, y hay todo un tema. Es más, se 
+hablaba de medidas intrusivas. Bueno, en el ámbito penal las 
+medidas intrusivas están reguladas en el Código Procesal Penal, 
+y eso requiere de una autorización específica.
+Entonces, es muy complejo dar el debate respecto de esta 
+materia. Hay muchos elementos en juego, no solo por los 
+derechos y garantías que se limitarían, sino incluso por lo 
+que significaría en materia procesal penal. Lo planteo, porque 
+evidentemente genera una discusión inmediata.
+Gracias, Presidente.
+20
+--- PÁGINA 21 ---
+El señor AEDO (Presidente).- Hemos puesto de acuerdo al 
+diputado Ramírez y al diputado Kaiser, lo que me parece 
+interesante en la discusión.
+El señor KAISER.- Lo que pasa, señor Presidente, es que el 
+diputado Ramírez no quiere que yo tenga un instrumento de este 
+tipo a mi disposición, pero yo tampoco quiero que él tenga un 
+instrumento de este tipo a su disposición, en caso que alguno 
+de los dos llegue a ser gobierno.
+Los ciudadanos no tienen por qué ser transparentes con el 
+Estado. Si uno piensa y conecta un sistema de inteligencia 
+artificial a los sistemas de cámaras -que estarían en todos 
+lados chequeando la biometría y el movimiento de los 
+ciudadanos-, pero si además se conecta a las redes sociales, 
+al movimiento de cuentas bancarias y a las compras y ventas 
+que se hagan por internet, y si a eso le sumamos que hoy gracias 
+al wifi uno puede ver lo que la gente hace dentro de sus casas, 
+porque por las sombras de las personas, por las ondas 
+electromagnéticas, permiten determinar, por detrás de las 
+paredes, quién está haciendo qué en la casa de alguien, si yo 
+sumo todo eso, y si a eso también le sumamos una base de datos 
+unificada de salud, etcétera, no solo no tendremos privacidad, 
+sino que ni siquiera tendremos pensamientos propios, señor 
+Presidente.
+Ese es el mundo más distópico al cual nos podríamos acercar. 
+En la novela 1984, de Orwell, el tipo por lo menos tenía una 
+esquina en su pieza para esconderse. ¡Nosotros no tendremos 
+ninguna!
+En Alemania, respecto del nazismo, dicen impidan el comienzo, 
+o los comienzos. Nosotros estamos avanzando en esa dirección, 
+y yo prefiero, en vez de regular algo y crear una 
+infraestructura que en cualquier momento podría ser activada 
+para aplastar la libertad y los derechos de los ciudadanos, 
+prefiero colocar de inmediato un límite a la construcción e 
+instalación de esa infraestructura.
+Veámoslo desde el punto de vista de la excusa que se utiliza, 
+la seguridad. ¡Cuando no había cámaras teníamos mucha más 
+seguridad que ahora!
+No han sido las cámaras las que nos han solucionado el 
+problema. No, de ninguna manera. Incluso, si en un solo día 
+detuviésemos a todas las personas que están con orden de 
+detención en este país, no tendríamos donde encerrarlos, porque 
+no hemos construido tantas cárceles. Hay gente que ha sido 
+detenida muchas veces, hay gente con cien detenciones.
+Entonces, ¿para qué sirve este sistema si no es para 
+controlar a los honestos, si no es para controlar a los 
+ciudadanos, señor Presidente? Somos nosotros los que debemos 
+ser transparentes, no los ciudadanos. Y los ciudadanos tienen 
+derecho a estar en contra del gobierno, y tienen derecho a 
+gritarnos cosas cuando no les simpatizamos, y tienen derecho a
+21
+--- PÁGINA 22 ---
+su libertad de expresión, y tienen derecho a su privacidad. Es 
+más, incluso tienen derecho a que el Estado -me refiero a 
+nosotros, porque también somos parte del Estado- no sepamos o 
+no tengamos por qué saber qué hace la señora juanita entre las 
+16:00 y 16:30 horas de un día viernes. No tenemos por qué 
+saberlo, ni tampoco tiene que estar en una base de datos.
+Ese es el punto que quiero plantear para la reflexión, que 
+muchas veces creemos que esto no pasará, hasta que pasa, y de 
+esto sería extremadamente difícil zafar.
+Es más, a lo ya dicho, Presidente, súmele la moneda 
+electrónica, que reemplazará al dinero en efectivo. O sea, con 
+un botón yo lo podría eliminar completamente de la vida social, 
+porque usted ya no podrá comprar, no podrá vender, no podrá 
+trabajar, no se podrá desplazar, no podrá subirse a un bus, no 
+podrá ni siquiera abandonar el país, y no necesitaré de un 
+agente del Estado que lo persiga. Solo necesitaré apretar un 
+botón y borrarlo de la red.
+Muchas gracias, señor Presidente.
+El señor AEDO (Presidente).- Antes de ofrecer la palabra a 
+la señora Galaz, haré dos alcances.
+Efectivamente, hay ciertos temores que usted ha expresado 
+muy bien, diputado Kaiser, porque en el mundo libertario, en 
+que el Estado no tiene que estar presente en la sociedad, en 
+una de las cosas en que sí tiene que estarlo, según los 
+libertarios, es en los temas de seguridad.
+En ese sentido, una conversación con usted, diputado, siempre 
+será muy rica, por eso le quiero plantear que lo conversemos 
+después.
+Ahora, ante las aprensiones que tenemos, y aprovecho de 
+preguntar, porque todos hemos vivido la experiencia de que 
+hablamos sobre salir, de que vamos a hacer tal cosa, y luego 
+nos comienza a llegar a través de distintas aplicaciones 
+información de aquello que conversamos, que hablamos, etcétera.
+Entonces, lo que quiero plantear es que ese sistema de 
+algoritmo, de seguimiento, hoy está presente sin ninguna 
+regulación.
+Lo que quiero decir es que en la vía de los hechos puedo 
+intentar regular todo en mi frontera, y desde el hiperespacio, 
+ciberespacio -lo voy a llamar de esta forma-, el acceso del 
+resto del mundo a lo que pienso, creo, quiero hacer o quiero 
+comprar está igual de abierto. O sea, más allá de los límites 
+que yo le quiera poner, y eso pasa hoy con legislación, sin 
+legislación y aunque lo haga restrictivo.
+Planteo esto porque lo dijo muy bien el diputado Ramírez, 
+por eso permítanme solo dar algunas opiniones.
+Efectivamente, hoy la renuncia a nuestra libertad como 
+parlamentarios es infinita. ¡Hay de aquel que se pase o se 
+salga un centímetro de su distrito en cuanto al uso de la 
+bencina! No importa que te hayas tenido que desviar por causa
+22
+--- PÁGINA 23 ---
+de un taco. No, no importa, eso igual da paso a un escarnio 
+público.
+No estoy hablando de situaciones indebidas, como haber 
+utilizado la tarjeta de un familiar. No, estoy hablando de 
+cosas de orden práctico. ¡Hay de aquel que no quiso una Coca-
+Cola para acompañar la carne y quiso un vino! Eso aquí es 
+quedar expuesto al escarnio público.
+(Una persona interviene sin micrófono)
+No, lo que quiero decir es que hoy suceden cosas, por eso 
+recojo lo que dijo el diputado Ramírez, porque hoy el nivel de 
+control, por ejemplo, que hay sobre nosotros es infinitamente 
+mayor que el que hay sobre el resto de los ciudadanos, aunque 
+a los ciudadanos que me están escuchando les parezca raro o 
+una exageración.
+Eso pasa hoy en esta Cámara, en este Parlamento.
+(Una persona interviene sin micrófono)
+Usualmente los parlamentarios nos comunicamos por WhatsApp, 
+porque tenemos la sospecha permanente de que nuestras 
+comunicaciones están intervenidas sin que estemos sometidos a 
+investigación. 
+Usualmente 
+todos 
+hablamos 
+por 
+WhatsApp. 
+Asumimos que nuestras comunicaciones por WhatsApp no pueden 
+ser seguidas. Bueno, les quiero decir que sí pueden serlo, 
+porque quienes crean esos programas, crean también la forma de 
+hacerlo.
+Ahora, claro, uno podría seguir en esta progresión hasta el 
+infinito, pero la inteligencia artificial ya llegó, y es acá 
+donde ponemos ciertos marcos.
+Quizás esto sea una pregunta para usted, señor Portilla. A 
+pesar de que se supone que los algoritmos son matemática, 
+entiendo que no son neutros, y tal vez doy un mal ejemplo, pero 
+por eso le pregunto a usted. ¿Puedo entregar estos datos, crear 
+las bases de datos y tener un sistema “de control”, por ejemplo, 
+en mi país en que el algoritmo esté asociado a los derechos 
+constitucionales que tengo?
+Esto, porque entiendo que no es lo mismo un sistema que crea, 
+por ejemplo, en la libertad de opinión, de elección, de prensa, 
+que son valores, a si creo un algoritmo bajo la lógica cultural 
+del control de una dinastía.
+También está el ejemplo que di la otra vez, sobre lo que 
+sucede en la India, que está generando su propio lenguaje y en 
+que el sistema de castas es uno culturalmente aceptado. Así 
+funciona en ese país. Los brahmanes tienen acceso a la 
+educación, al desarrollo económico, a la información, y los 
+últimos en la escala, los parias, tienen otra información.
+23
+--- PÁGINA 24 ---
+Entonces, lo que quiero preguntarle es si es posible 
+incorporar, en esta inteligencia artificial que el propio país 
+pudiese desarrollar, este tipo de parámetros culturales, 
+legales, en donde la libertad es mucho mayor.
+¿Es posible hacer eso o por defecto un sistema de 
+inteligencia artificial es totalitario?
+No sé si me logré explicar.
+El señor PORTILLA (expositor).- Gracias, Presidente.
+En 
+ese 
+sentido, 
+desde 
+un 
+punto 
+de 
+vista 
+técnico, 
+prácticamente los modelos y su desempeño dependerá altamente 
+de los datos. Por eso quizás las problemáticas que se mencionan 
+se encuentran precisamente en ese mismo camino: el afán de 
+muchos por tener un modelo lo más “exacto posible”.
+Quieren obtener información por cualquier vía, aunque por 
+desconocimiento no sea la apropiada, o la más ética, pero esos 
+sesgos, en estos modelos, dependerán de los datos y del modo 
+de entrenamiento.
+La inteligencia artificial ya no es solo un campo 
+independiente, sino que depende también del trabajo en conjunto 
+con otras áreas científicas.
+Hace poco escuchaba un caso de derecho, que me causó 
+curiosidad, porque querían hacer contratos inteligentes usando 
+blockchain e inteligencia artificial. En ese caso se veían 
+muchos de estos aspectos, porque tenían que hacer un contrato, 
+debían tener muchas restricciones, y esas son unas de las 
+primeras necesidades.
+Entonces, en el futuro, e incluso ya hoy en la literatura, 
+debe haber algunos modelos que estudien esto, pero dependerá 
+principalmente de los datos y de cómo se interprete el 
+problema.
+Esto, ya que, a propósito de la interpretación, este es otro 
+de los problemas de estos modelos, pues toman decisiones en 
+base a su entrenamiento, un entrenamiento iterativo, que 
+depende del tipo de modelo.
+No obstante, la implementación en algún sistema que ya esté 
+funcionando y que forme parte de él dependerá de que nosotros 
+como seres humanos podamos entender su funcionamiento interno 
+y podamos interpretar su funcionamiento o su toma de 
+decisiones.
+En ese sentido, ese es todo un campo de investigación y no 
+solo una opinión, sino que es algo verdaderamente extenso y 
+que es un problema abierto dentro de la comunidad.
+Gracias, Presidente.
+El señor AEDO (Presidente).- Gracias, señor Portilla.
+Tiene la palabra el diputado Kaiser.
+24
+--- PÁGINA 25 ---
+El señor KAISER.- Presidente, lo que pasa es que quien 
+programa evidentemente tiene sus propias vías, o ways, ya sean 
+culturales, políticos, filosóficos o religiosos.
+Ahora, quien programa es uno; en el mejor de los casos, diez 
+o veinte personas, dependiendo de la cantidad de programadores 
+que tenga una empresa. La sociedad es mucho más amplia que eso 
+en sus criterios, en su diversidad de pensamiento, de 
+creencias, de opinión política, etcétera.
+Entonces, señor Presidente, con respecto a su consulta de si 
+se podía impedir que se generase una inteligencia artificial 
+totalitaria, no creo que sea un tema de totalitarismo, porque 
+la programación o la inteligencia artificial necesariamente 
+van a reflejar a sus programadores, incluso si usted quiere 
+poner ciertos parámetros éticos.
+Le voy a dar un ejemplo de un asunto que fue bien discutido 
+a propósito de ChatGPT.
+Se le consultó al ChatGPT por el caso de un tranvía -creo 
+que era un tranvía- que iba a chocar y causar la muerte de 
+cuarenta u ochenta personas y la única forma de detener eso 
+era decir una palabra insultante contra personas de raza negra, 
+si él lo haría. ChatGPT respondió que no. O sea, prefería dejar 
+morir a las cuarenta u ochenta personas antes que decir esa 
+palabra.
+Naturalmente, eso refleja un problema de criterio, porque 
+los seres humanos tenemos criterio; la inteligencia artificial 
+tiene, única y exclusivamente, su programación. En este 
+sentido, eso se hace bien complejo.
+Si usted plantea lo del totalitarismo, debo decirle que lo 
+que mata al totalitarismo en sí es la tolerancia al que es 
+distinto. Un modelo matemático no conoce eso. Un modelo 
+matemático va a hacer aquello para lo cual está programado, ni 
+más ni menos. Somos nosotros los que podemos desviarnos muchas 
+veces y evolucionar en nuestra propia forma de tomar 
+decisiones, 
+incluso 
+podemos 
+actuar 
+contra 
+nuestras 
+convicciones en razón de un sentimiento, que es algo que una 
+máquina no tiene. De hecho, probablemente a lo que más se 
+parece una máquina es a un sociópata. Una inteligencia 
+artificial es probablemente lo que más se parece a un sociópata 
+o a un sicópata, a una persona que no tiene empatía. No puede 
+tenerla, porque no tiene esa capacidad.
+La pregunta es si vamos a entregar sistemas críticos a un 
+aparato que, en la práctica, tiene las mismas deficiencias 
+cognitivas que un sicópata.
+Muchísimas gracias, señor Presidente.
+El señor AEDO (Presidente).- Muchas gracias, diputado Kaiser.
+Tiene la palabra la señora Macarena Galaz.
+25
+--- PÁGINA 26 ---
+La señora GALAZ, doña Macarena (asesora legislativa del 
+Ministerio de Ciencia).- Primero que todo, agradezco las 
+exposiciones de Jorge y de Juan Carlos. Creo que ponen sobre 
+la mesa una discusión que no es menor y que merece la 
+legitimidad de un Congreso.
+En ese sentido, como ha dicho la ministra Aisén Etcheverry 
+ante esta Comisión, este proyecto de ley viene a intencionar 
+debates, no necesariamente a entregar una verdad única respecto 
+a una disposición u otra.
+Al respecto, quisiéramos transmitir que el Ministerio de 
+Ciencias está trabajando para que podamos llegar a la 
+legislación más óptima para las condiciones, los requerimientos 
+y la concepción de los chilenos y chilenas, para lo cual 
+necesitamos una discusión democrática amplia, y el proyecto de 
+ley es un detonante de esa discusión.
+Queríamos que esto ocurriera, que se diera esta discusión, y 
+estamos muy pendientes de lo que ocurre en estas sesiones de 
+audiencia, a fin de que se forme una opinión colectiva ante 
+una decisión tan importante en materia ética, como es la 
+identificación biométrica, considerando sus riesgos y también 
+sus oportunidades.
+Muchas gracias.
+El señor AEDO (Presidente).- Gracias, señora Macarena.
+Tiene la palabra el diputado Lagomarsino.
+El señor LAGOMARSINO.- Creo que no es el sistema en sí, y 
+eso quiero reforzarlo, porque es una convicción a la cual 
+llegué con posterioridad a la redacción del primer proyecto.
+Los sistemas de inteligencia artificial no son el riesgo en 
+sí mismos, sino que es la aplicación que se les da, la cual, 
+obviamente, depende de decisiones humanas. También depende de 
+otro elemento que no tiene que ver con la programación, porque 
+si hay algo diferente -en esto discrepo del diputado Kaiser, 
+más en lo técnico que lo de fondo-, es que los programadores 
+de inteligencia artificial llegan a resultados que a veces ni 
+siquiera ellos entienden. No entienden cómo estos sistemas 
+toman las decisiones.
+Una de las características y complejidades que tienen estos 
+sistemas es el principio de explicabilidad. Es decir, nosotros 
+creamos un sistema de inteligencia artificial, lo entrenamos 
+con ciertos datos, después le hacemos tomar una decisión con 
+datos, pero toma una que no esperábamos. Deja de ser una 
+calculadora, porque se entrena con datos.
+Entonces, podríamos decir que es como una calculadora 
+millones de veces más compleja que una calculadora simple, por 
+el entrenamiento que recibe, por la cantidad de datos con los 
+cuales puede ser entrenado, lo que hace que, en mi modo de ver, 
+deje de ser una simple calculadora y que a los programadores 
+se les escape de las manos, ya que no pueden explicarse por
+26
+--- PÁGINA 27 ---
+qué estos sistemas toman una u otra decisión, por ponerlo en 
+simple, ya que es mucho más complejo.
+En ese sentido, creo que es bueno el debate que se ha abierto, 
+sobre todo con miras a la aplicación biométrica.
+Quiero volver al ejemplo tradicional de la máquina que 
+selecciona nueces. Hace algunos meses tuvimos un emprendedor 
+acá que diseñó un sistema de inteligencia artificial -me parece 
+que se llamaba Sandbox- que clasificaba las nueces según su 
+calidad. Claramente, ese sistema de inteligencia artificial no 
+es un peligro en ningún sentido, salvo que alguien se atore en 
+algún momento con una nuez y termine asfixiándose.
+Creo que la discusión que estamos replicando en estos 
+momentos es muy similar a la que tuvo la Unión Europea, que 
+dijo que debe haber una utilización de los sistemas de 
+inteligencia artificial en materia de aplicación biométrica 
+que pase por tribunales, que tenga procesos de garantía de 
+acuerdo al Estado de derecho.
+En eso quiero valorar lo que ha planteado el diputado Matías 
+Ramírez, porque una cosa es tener a una persona que está frente 
+a un sistema de cámaras y que en algún momento sospecha de 
+alguien que quizás tiene un gorro, que quizás tiene cierta 
+actitud o que anda mirando autos, y lo ve caminando por la 
+calle y mirando a cada rato adentro de los autos, por si hay 
+algún bolso que se le haya quedado a alguien, y otra cosa es 
+tener un sistema de inteligencia artificial que identifique 
+automáticamente a todas las personas que van caminando por la 
+calle, a través de sus datos biométricos, y vaya registrando 
+esa información. Son dos cosas bastante diferentes.
+Por ello, una cosa son medidas intrusivas que le damos a 
+personas que tienen un criterio, que en muchos casos lo han 
+formado por medio de su experiencia y lo pueden aplicar en 
+ciertas circunstancias, y otra cosa es una máquina que está 
+recogiendo información acerca de dónde estamos todos nosotros 
+en tiempo real y a la vez la está almacenando. ¿Para qué? No 
+sabemos.
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Kaiser.
+El señor KAISER.- Solo quiero mencionar que esa misma 
+máquina, esas mismas cámaras, insertándoles un pequeño 
+pendrive, pueden cambiar toda su operación, porque se cambió 
+la programación.
+Lo que es realmente complicado, desde el punto de vista de 
+instalar un sistema como el distópico que había planteado, no 
+es el software, sino el hardware. Tú tienes que construir, 
+tienes que tener la infraestructura instalada.
+Entonces, yo lo puedo usar como una herramienta siempre; 
+puedo usar un martillo para construir una casa o para 
+utilizarlo como arma. Esto es un instrumento. Si yo tengo ese
+27
+--- PÁGINA 28 ---
+instrumento, se puede utilizar en ambos sentidos, y eso es lo 
+complejo de tener el instrumento, porque la tentación para el 
+Estado, para quienes tienen poder de utilizar este instrumento 
+va a estar permanentemente ahí.
+Y la pregunta que se plantea siempre es hasta qué punto se 
+cumple con la ley. Porque la restricción va a ser legal; sin 
+embargo, en Chile tenemos tantas leyes que no son cumplidas 
+que, la verdad, es que a mí eso no me da ninguna garantía de 
+nada. Cumplo la ley mientras exista voluntad de cumplirla, 
+tanto del Estado como de los ciudadanos.
+Si no existe una forma de controlar al que supuestamente está 
+controlando, entonces la cosa se nos pone un poco cuesta 
+arriba.
+Por lo tanto, en esencia, es generar la demanda por el uso, 
+y por un uso cada vez más intrusivo, sobre todo -lo planteo 
+con todo el respeto del mundo- porque, en la medida en que 
+vayamos avanzando con la infraestructura y no mejore la 
+situación de seguridad -porque no nos estamos haciendo cargo 
+del problema esencial, como yo lo veo, al menos-, seguirán 
+aumentando las demandas de potenciar el sistema cada vez más. 
+Con algo de suerte no llegamos al Minority Report. Se acordarán 
+de la película.
+Es eso lo que yo encuentro complejo. Y también lo encuentro 
+complejo porque -tampoco nos equivoquemos en esto- en este 
+Congreso somos muy dados a empezar con iniciativas populistas 
+y después sorprendernos por los resultados. Se puede empezar 
+con una lógica y después no poder recoger la caña.
+Para mí este tema es como vivir siendo la última generación 
+que realmente va a poder decir que vivió en libertad sin que 
+la estuviesen controlando permanentemente.
+Usted plantea, colega, por su intermedio, señor Presidente, 
+que sí, a nosotros nos controlan a través de todos esos 
+teléfonos y cosas, pero conozco gente que no usa teléfono. 
+Conozco gente que todavía paga en efectivo y gente que deja 
+esto en la oficina (el diputado Kaiser muestra un teléfono 
+móvil). No es nuestro caso, porque estamos permanentemente 
+conectados, lo cual también es enfermante. Pero conozco gente 
+que se toma la libertad de ser libre.
+Con el sistema que estamos planificando o que se puede llegar 
+a instalar, esas personas tampoco serán libres. No vamos a 
+poder tomar la decisión de simplemente bajarnos del mundo. 
+¿Cómo era? “Paren el mundo, porque me quiero bajar”. No vamos 
+a tener esa opción, porque simplemente vamos a estar dentro de 
+esa red.
+Por lo tanto, la pregunta no es cómo lo controlamos, sino si 
+vamos a permitir que se instale una infraestructura que, tarde 
+o temprano, va a ser utilizada de la peor forma posible, porque 
+somos seres humanos, y la verdad es que normalmente tendemos a 
+eso.
+Gracias, Presidente.
+28
+--- PÁGINA 29 ---
+El señor AEDO (Presidente).- No es una broma lo que voy a 
+decir, y por eso lo quiero advertir, porque puede salir como 
+broma.
+A esta Comisión, le cambiaría el nombre a Comisión de 
+Ciencia, Tecnología y Epistemología, porque estos temas 
+tecnológicos -y por eso existe la filosofía de la ciencia- van 
+aparejados de una reflexión muy honda, muy profunda. Mario 
+Bunge, por algo existe; Luke…
+O sea, esto genera una reflexión muy profunda. Por eso creo, 
+y tal vez debería hacer la propuesta de agregarle un “y 
+Epistemología” o, al menos, filosofía de la ciencia.
+Lo digo porque, en la lógica de las exposiciones y dadas las 
+aprensiones que uno tiene con esto, uno empieza a tomar 
+posiciones filosóficas. Creo que hay una cuestión que es clave, 
+y es el contrato social que nos rige -ahí uno vuelve a Rousseau, 
+vuelve a la Ilustración, y vuelve quinientos años atrás, más o 
+menos. Pero es el contrato social.
+¿Y por qué lo digo? Porque uno conoce la experiencia de 
+democracias en países con situaciones políticas muy tensas, en 
+que esta tecnología está claramente hoy día disponible, y los 
+franceses acaban de resolver su problema político por la vía 
+democrática.
+Cuando las reglas del contrato social están claras, entonces, 
+permanecen. ¿Qué es lo clave? Tener la adhesión al contrato 
+social y no romper el juego de la democracia. Esa es la base 
+para que el sistema funcione.
+Cuando alguien quiere romper las reglas del sistema 
+democrático, 
+sea 
+a 
+través 
+de 
+un 
+golpe, 
+autogolpe, 
+autoritarismo, no hay nada que lo sostenga.
+(Un diputado interviene sin micrófono. Inaudible)
+Por eso digo. Si esto da para opiniones distintas.
+Entonces, uno tiene el hecho -bien lo decía el diputado 
+Kaiser- de que el martillo va a seguir siendo perfeccionado, 
+quiera o no lo quiera. El mazo de piedra hoy día ya es 
+hidráulico, ya es mil cosas. Eso no lo detuve y no lo voy a 
+detener.
+El marco de cómo ese instrumento lo voy a utilizar, es el 
+marco que siempre puedo poner. Podría asesinar con un martillo 
+hidráulico, como antes podía asesinar con un mazo de piedra. 
+Pero hay un principio que hemos establecido: no puedo asesinar, 
+sea el martillo de piedra o sea hidráulico, hipermoderno, 
+incluso automático, llevado por un dron.
+Lo digo porque el uso de las herramientas va a seguir 
+cambiando, más allá de que yo quiera o no. Entonces, ¿cuál es 
+el marco que ponemos en el uso de la herramienta? Creo que eso 
+sigue siendo lo esencial.
+29
+--- PÁGINA 30 ---
+Quería hacer esta divagación desde la filosofía de la 
+ciencia.
+Tiene la palabra el diputado Lagomarsino.
+El señor LAGOMARSINO.- Muchas gracias, Presidente.
+Creo que usted ha dado en el clavo en cuanto a los aspectos 
+democráticos.
+No obstante, en esto, un pueblo al norte de Chile -por no 
+decir que nosotros somos el pueblo al sur de este- también tomó 
+una decisión recientemente en función de lo mismo, producto de 
+que los sistemas de inteligencia artificial se vuelven una 
+especie de bypass a las democracias.
+Esto se explica en que, a través del uso de celulares, 
+aplicaciones y redes sociales, los sistemas de inteligencia 
+artificial son tan masivos, que los algoritmos, muchos de ellos 
+con inteligencia artificial, pueden incluso modelar los 
+resultados electorales.
+Es por ello que recientemente Estados Unidos sacó una ley 
+que prohibía la red social TikTok -no directamente TikTok, pero 
+daba las características de esa red social- producto de quién 
+es poseedor de su algoritmo.
+Por lo tanto, creo que independientemente de que haya un 
+principio fundante de nuestras sociedades liberales, que es 
+nuestro contrato social, no deja de estar afecto a riesgos esa 
+base fundante producto de estas nuevas tecnologías que estamos 
+viendo y sus eventuales aplicaciones.
+Gracias, Presidente.
+El señor AEDO (Presidente).- Gracias, diputado.
+Tiene la palabra el diputado Kaiser.
+El señor KAISER.- Gracias, Presidente.
+Solo quería reflexionar que nosotros, junto con la teoría 
+del ser humano y junto con la teoría de la relatividad, 
+efectivamente desarrollamos la bomba nuclear, lo que es 
+probablemente una de las invenciones que más lamentamos que se 
+hayan instalado en este planeta.
+Posteriormente a eso, después de las bombas de Hiroshima y 
+Nagasaki, se acuerda el Tratado de no Proliferación Nuclear, 
+del cual Chile es uno de los primeros signatarios, por lo 
+demás. Lamentablemente, no ha funcionado tal como nosotros lo 
+habíamos esperado, porque siempre hay algunas naciones que 
+quieren, de alguna manera, salirse de este marco y, además, 
+los signatarios originales tampoco cumplieron con su parte, 
+que era desarmar sus propias bombas nucleares.
+Ahora, planteado por gente que realmente sabe del tema -Elon 
+Musk, pongámoslo como un ejemplo-, la inteligencia artificial
+30
+--- PÁGINA 31 ---
+es el equivalente, desde el punto de vista del software de la 
+tecnología, de lo que podría ser un arma nuclear, si es empleada 
+de manera incorrecta.
+La energía nuclear se puede utilizar para una central que 
+genera energía -no olvidemos a Chernobyl, pero, bueno- o para 
+un arma nuclear.
+La pregunta es si en algún momento, si no somos cuidadosos, 
+podemos terminar con experiencias muy muy desagradables. El 
+ser humano tiende a aprender de los desastres, pero por un rato 
+nomás, porque de historia no sabe mucho. Creo que podríamos 
+hacer un poquitito (inaudible) a eso y no esperar que nos toque 
+el desastre antes de tomar las prevenciones que correspondan 
+para impedir que, por lo menos, sistemas críticos -el sistema 
+democrático, el de libertad de opinión y, evidentemente, los 
+espacios 
+públicos- 
+sean 
+controlados 
+por 
+inteligencia 
+artificial. Si nos reservamos ciertos espacios y cierta 
+capacidad como seres humanos para ser human in the loop, como 
+le dicen, quizá, vamos a poder controlar también las 
+consecuencias negativas que puede tener esto.
+Las consecuencias positivas las describió el diputado 
+Lagomarsino muy bien con el sistema que sirve para identificar 
+nueces. El problema no son esos sistemas pequeños de aplicación 
+acotada; el problema son los sistemas amplios, de aplicación 
+general, con acceso a información general de todas las fuentes. 
+Esa cuestión es como que recorre un escalofrío por la espalda.
+Muchísimas gracias, señor Presidente.
+El señor AEDO (Presidente).- Antes de levantar esta sesión 
+quiero dar la oportunidad a nuestros invitados para hacer un 
+cierre o una reflexión final respecto de lo que fueron sus 
+exposiciones, pero también recogiendo lo que ha surgido de acá.
+Tiene la palabra el señor Portilla.
+El señor PORTILLA (expositor).- Señor Presidente, como cierre 
+queda la reflexión de cómo va a ser esta regulación en el tema 
+de inteligencia artificial, cómo va a ser ese desafío que es 
+adaptarnos a los cambios constantes de la tecnología y cómo 
+integrarla en cada escala, no solo a nivel de formación 
+profesional, sino también en el uso de los jóvenes, de los 
+niños y de todo el público en general, sobre todo de esas 
+personas que la usan sin saber, porque usar inteligencia 
+artificial en este momento tiene cierto nivel de abstracción 
+que permite que alguien la utilice sin siquiera saber cómo 
+funciona por dentro, debido a que se omiten muchos detalles de 
+bajo nivel. Solamente es (inaudible) un modelo y usarlo, como 
+mencionaba mi compañero en la anterior presentación, de esos 
+modelos que utilizan para sacar información que no es adecuada, 
+ética o moral.
+Es un desafío que debemos abordar todos, no solamente como 
+instituciones educativas, sino también ustedes con esta
+31
+--- PÁGINA 32 ---
+responsabilidad tan grande de tener una ley que regula estos 
+sistemas de inteligencia artificial que son amplios, diversos 
+y no tan acotados. No es un problema trivial que se pueda 
+resolver de una manera sencilla. Prueba de esto son todas las 
+opiniones de los diputados y de los expositores en esta sesión. 
+Así que gracias por esta oportunidad, por ser parte de este 
+evento y por traer nuestra opinión.
+Muchas gracias, señor Presidente
+El señor AEDO (presidente).- Tiene la palabra el señor Lara.
+El señor LARA (expositor).- Señor Presidente, por su 
+intermedio agradezco a las diputadas y a los diputados por su 
+presencia y valiosas intervenciones.
+Quiero volver sobre algunos puntos, porque me parece muy 
+significativo 
+acentuar 
+algunos 
+de 
+los 
+riesgos 
+de 
+la 
+inteligencia artificial, pero, por cierto, también pensar en 
+su potencial positivo, además de la necesidad de estimular 
+aspectos educacionales. Lo que menciona el profesor Maldonado 
+es muy pertinente en tal sentido.
+Primero, quiero agradecer la mención del Ministerio de 
+Ciencia, 
+Tecnología, 
+Conocimiento 
+e 
+Innovación 
+sobre 
+intencionar una discusión, porque buena parte de aquello que 
+he expuesto en relación con la aplicación de inteligencia 
+artificial con fines de biometría efectivamente refleja ciertas 
+carencias legislativas importantes, y el hecho de que lo 
+volvamos a discutir hoy es por sí solo un avance respecto de 
+la situación actual.
+Ese reenvío a una discusión parlamentaria, que puede no ser 
+en el seno de este debate, es importante y en esa discusión 
+Derechos Digitales se instala firmemente contra la vigilancia 
+indiscriminada por medio de la tecnología.
+Al mismo tiempo, es importante rescatar aquellos elementos 
+positivos. Por ejemplo, el diputado Lagomarsino mencionaba la 
+autorización de un tribunal para la utilización de cierta 
+tecnología; eso nos da cuenta de que para ciertos usos de 
+carácter represivo e investigativo tiene sentido volver al 
+Código Procesal Penal respecto de técnicas de investigación 
+que hoy no están suficientemente reguladas.
+Lo mismo, en general, en relación con la videovigilancia. Ni 
+siquiera pensando en el uso de biometría, pero hay carencias 
+legislativas allí; en algún momento, a propósito de globos de 
+vigilancia, la Corte Suprema generó un estatuto para una 
+municipalidad a falta de una regulación democrática que se haga 
+cargo de la seguridad de datos, de la comunicación de datos, 
+de la eliminación de información y más.
+En segundo lugar, el profesor Maldonado mencionaba los datos 
+como aspecto fundante para la precisión de los sistemas y su 
+funcionamiento. Lo cierto es que, habiéndose mencionado tantas 
+veces los riesgos del procesamiento de datos, de la
+32
+--- PÁGINA 33 ---
+comunicación, de la reunión de datos de distintas fuentes en 
+algunos órganos del Estado, buena parte de eso nos retrotrae a 
+la idea de que debemos aprobar una ley de datos personales que 
+tenga suficiente aplicación para prevenir ciertos usos abusivos 
+de la información personal -esté en manos del Estado o de 
+privados- que pueda ser recogida por agentes maliciosos o, en 
+principio, no maliciosos, pero que puedan crear bases de datos 
+que puedan ser utilizadas maliciosamente.
+A pesar de estar fuera de esta Comisión, igualmente es un 
+punto importante para Derechos Digitales y para decenas de 
+académicos y profesionales volver a la tramitación de aquella 
+ley.
+En tercer lugar, hay una importante discusión aquí sobre 
+cuestiones que las propuestas consideran de riesgo inaceptable. 
+En parte, porque hay tecnologías cuyos usos naturales para los 
+que han sido programadas es difícil desviarlos de usos que son 
+incompatibles con los derechos humanos, y buena parte de la 
+discusión hoy ha apuntado en tal sentido.
+El punto es que esa tecnología igualmente va a existir y que, 
+sin una suficiente regulación o prohibición, que puede no estar 
+relacionada con esta ley, pero en parte sí, por el desarrollo, 
+la adquisición, la existencia de proveedores de ciertas 
+tecnologías, pueda impedirse que algunos de esos usos 
+inaceptables lleguen a ser parte de utilizaciones privadas o 
+públicas en nuestro país.
+Por lo mismo, es importante que esa cuestión de la 
+inaceptabilidad de ciertos riesgos se mantenga de una forma 
+que sea lo más protectora posible de derechos, de modo que 
+cualquier eventual excepción que se pueda formular de forma 
+democrática, dentro de los límites constitucionales y más, 
+tenga a la vista la mayor cantidad de antecedentes posibles 
+para que efectivamente se trate de una regulación completa.
+Finalmente, entiendo el propósito de los proyectos que 
+tenemos sobre la mesa: ser proyectos con aplicación práctica, 
+porque el desarrollo mayoritario de las grandes tecnologías de 
+inteligencia artificial no está siendo en Chile. El punto es 
+cómo dentro de nuestras fronteras podemos seguir incentivando 
+la innovación de una forma que nos permita competir a nivel 
+global, tenemos buenos antecedentes en Chile sobre esas 
+capacidades, pero que no se vean restringidas por reglas 
+rígidas.
+Sin perjuicio de eso, para que efectivamente pueda ser en 
+beneficio de la ciudadanía, representando el potencial de la 
+inteligencia artificial para generar un mejor desempeño 
+económico o para mejorar ciertos procesos productivos o 
+sociales, igualmente requiere una guía muy vinculada a la 
+existencia de políticas públicas complementarias, en términos 
+de educación, de financiamiento y más. Además, que, idealmente, 
+cualquier restricción que pueda significar esta regulación 
+apunte al desarrollo y a la adquisición de sistemas de 
+inteligencia artificial en sentidos que sean favorables a los 
+derechos humanos y no lo contrario.
+33
+--- PÁGINA 34 ---
+Por eso es importante tener esta discusión. Por lo mismo, 
+señor Presidente, vuelvo a agradecer esta oportunidad.
+EL señor AEDO (Presidente).- Muchas gracias a todos los 
+presentes por habernos acompañado.
+Por haber cumplido su objeto, se levanta la sesión.
+-Se levantó la sesión a las 19:16 horas.
+MAURICIO CÉSPED MORA, 
+Redacción de Sesiones.
+34

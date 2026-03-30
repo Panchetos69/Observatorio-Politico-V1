@@ -1,0 +1,504 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=15830&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:33:35
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 96ª, ESPECIAL, DE LA COMISIÓN DE FUTURO, CIENCIAS, TECNOLOGÍA, 
+CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 373ª LEGISLATURA, 
+CELEBRADA EL DÍA MIÉRCOLES 23 DE ABRIL 2025, DE 08.38 A 09:46 HORAS.
+SUMARIO: 
+Se continuó la votación en particular del proyecto de ley 
+que regula los sistemas de inteligencia artificial (boletín 
+Nº 16821-19 y Nº 15869-19, refundidos), en primer trámite 
+constitucional, con urgencia calificada de “suma”.
+I.- PRESIDENCIA
+Presidió la sesión, la diputada Érika Olivera (Presidenta Accidental), actuó como 
+Abogada Secretaria de la Comisión, la señora María Soledad Fredes Ruiz, como Abogada 
+Ayudante, la señora María Jesús Serey Sardá y como secretaria ejecutiva, la señora 
+Teresita Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Marta Bravo, Paula 
+Labra, Erika Olivera y Marcela Riquelme, y los diputados integrantes de la Comisión, 
+señores Johannes Kaiser, Tomás Lagomarsino, Daniel Lilayu, Rubén Oyarzo y Hernán 
+Palma. La diputada Gael Yeomans fue reemplazada por el diputado Andrés Giordano
+Concurrieron para la orden del día, en representación del Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación, las asesoras legislativas señoras Camila Aguayo 
+y Paloma Herrera.
+III.- ACTAS
+El acta de la sesión 94ª se puso a disposición de las señoras diputadas y señores 
+diputados.
+IV.- CUENTA
+Se recibieron los siguientes documentos:
+1.- Oficio de S.E. el Presidente de la República mediante el cual retira y hace 
+presente la urgencia calificada de "suma" para el despacho del proyecto de ley que regula 
+los sistemas de inteligencia artificial, la robótica y las tecnologías conexas, en sus distintos 
+ámbitos de aplicación (boletín N° 15869-19 refundido con boletín N° 16821-19).
+A sus antecedentes
+2.- Comunicación del Jefe de la Bancada de Diputados Frente Amplio e 
+Independientes, por la que informa que la diputada Gael Yeomans será reemplazada, en 
+esta sesión, por el diputado Andrés Giordano.
+Se tuvo presente
+V.- ORDEN DEL DÍA
+Se continuó con la votación en particular del proyecto de ley que regula los sistemas 
+de inteligencia artificial (boletín Nº 16821-19 y Nº 15869-19, refundidos).
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 05/05/2025 16:11:14 CLT
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 5F7CC0FF6AC50B90
+--- PÁGINA 2 ---
+Artículo 15, que ha pasado a ser 14
+Artículo 15.- Funciones del Consejo Asesor de IA: Serán funciones del Consejo Asesor de 
+IA, las siguientes: 
+a) Presentar a la Ministra o Ministro de Ciencia, Tecnología, Conocimiento e Innovación una 
+propuesta de listado de sistemas de IA de alto riesgo y de riesgo limitado, para la 
+elaboración del reglamento al que se refiere el artículo 30 de la presente ley. En todo caso, 
+dicho listado será elaborado sobre la base de los criterios establecidos en la presente ley y 
+será actualizado, al menos, cada dos años. 
+b) Asesorar a la Ministra o Ministro de Ciencia, Tecnología, Conocimiento e Innovación 
+respecto del alcance y modo de cumplimiento de las reglas a las que deberán sujetarse los 
+operadores de sistemas de IA de alto riesgo y de riesgo limitado. 
+ c) Presentar a la Ministra o Ministro de Ciencia, Tecnología, Conocimiento e Innovación 
+una propuesta relativa al establecimiento de los lineamientos para el desarrollo de espacios 
+controlados de prueba para los sistemas de IA, así como para la fijación de estándares 
+mínimos de cumplimiento y rendición de cuentas para su desarrollo. 
+Los miembros del Consejo Asesor de IA no percibirán dieta por el desempeño de sus 
+funciones. 
+La Subsecretaría de Ciencia, Tecnología, Conocimiento e Innovación proporcionará al 
+Consejo Asesor de IA el apoyo administrativo y los recursos necesarios para el 
+cumplimiento de sus funciones.
+Indicaciones:
+51 A) Del Ejecutivo al artículo 15, que ha pasado a ser 14, para modificarlo en el 
+siguiente sentido:
+a) Agrégase, en el literal a), a continuación de la expresión “una propuesta de listado 
+de sistemas de IA de alto riesgo y de riesgo limitado”, la frase “cuyo uso, conforme a los 
+criterios establecidos en la presente ley, y considerando especialmente aquellos que, por 
+su naturaleza o impacto evidente, impliquen riesgos significativos”.
+b) Intercálase, en el literal b, entre la frase “los operadores de sistemas de IA” y “de 
+alto riesgo y de riesgo limitado”, la expresión “cuyo uso sea”.
+51) Del Ejecutivo al artículo 15 para reemplazar el literal b) por el siguiente:
+“b. Asesorar a la Ministra o Ministro de Ciencia, Tecnología, Conocimiento e 
+Innovación respecto del alcance y modo de cumplimiento de las reglas a las que deberán 
+sujetarse los operadores de sistemas de IA de alto riesgo y de riesgo limitado, así como las 
+obligaciones y responsabilidades de los proveedores, implementadores, el representante 
+autorizado, el importador y/o el distribuidor definidos en el artículo 3 de esta ley.”.
+52) Del Ejecutivo al artículo 15 para agregar, en el literal b) del artículo 15, el 
+siguiente inciso segundo, nuevo:
+“Sin perjuicio de lo anterior, los sistemas de IA de uso general deberán dar siempre 
+cumplimiento a las obligaciones establecidas en el artículo 8 de la presente ley.”.
+53) De la diputada Labra al artículo 15, inciso primero:
+i. Letra b), para agregar, antes del punto final, lo siguiente “, y en otras materias 
+asociadas al uso e implementación de sistemas de IA”.
+ii. Para eliminar la letra c).
+iii. Para agregar una letra nueva, del siguiente tenor:
+2
+--- PÁGINA 3 ---
+“…) Presentar, al menos cada un año, iniciativas de fomento para la innovación y 
+desarrollo de IA en áreas de interés y beneficio comunitario, como salud, seguridad, 
+agricultura, entre otras, especialmente enfocado en empresas de menor tamaño.”.
+54) Del diputado Oyarzo al artículo 15 para incorporar una letra d) nueva, del 
+siguiente tenor:
+“d) Elaborar recomendaciones para el sector público y privado en torno al buen uso 
+de la inteligencia artificial y sus límites éticos.”.
+La señora Camila Aguayo, tras hacer presente que la inasistencia de la ministra 
+Aisén Etcheverry se debía a que estaba en Brasil con el Presidente de la República, informó 
+que el 22 de abril recién pasado se firmó un acuerdo entre el Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación y su equivalente brasileño, que se enmarca en la 
+Política Nacional de Inteligencia Artificial.
+Para ampliar lo anterior, dijo que el acuerdo contempla cooperación académico-
+científica mediante el desarrollo de proyectos conjuntos, intercambio de investigadores y 
+realización de eventos bilaterales, además de computación de alto desempeño y uso 
+compartido de infraestructura tecnológica entre ambos países. Calificó esto último de 
+relevante, dado que Brasil ocupa una posición avanzada en la materia a nivel 
+latinoamericano.
+Asimismo, informó también que está en marcha un proyecto para el desarrollo del 
+primer modelo de lenguaje latinoamericano, liderado por el Centro Nacional de Inteligencia 
+Artificial (Cenia), en colaboración con el Ministerio de Ciencia, Tecnología, Conocimiento e 
+Innovación. Señaló que la idea es integrar el español, una amplia variedad de lenguas 
+indígenas representativas del continente y, tras el acuerdo con Brasil, el portugués.
+Además, sostuvo que otro beneficio del acuerdo es que establece una gobernanza 
+operativa entre ambos países, al objeto de facilitar el intercambio en materia regulatoria y 
+de políticas públicas relacionadas con el uso ético de la inteligencia artificial, así como la 
+interoperabilidad entre las legislaciones que se discuten en Brasil y en Chile.
+La asesora planteó que la alianza de colaboración entre ambos países tiene un 
+impacto estratégico para Chile, pues consolida su liderazgo en materia de inteligencia 
+artificial en el Cono Sur y representa un avance en la integración científica regional, gracias 
+a la construcción y el uso compartido de infraestructura, conocimiento y datos, a fin de 
+desarrollar un modelo de lenguaje representativo de América Latina.
+La señora Paloma Herrera explicó que las indicaciones 51 A), 51 y 52, del Ejecutivo, 
+son complementarias, pues modifican y reemplazan parcialmente el artículo 15 contenido 
+en el mensaje.
+Recordó que dicho artículo establece las funciones del Consejo Asesor de 
+Inteligencia Artificial, que será una entidad de carácter técnico y consultivo compuesta por 
+personas expertas y representantes de instituciones públicas, académicas, sociales y del 
+sector productivo. Indicó que el propósito del consejo será asesorar al ministerio en la 
+implementación de una regulación responsable y moderna sobre el uso de sistemas de 
+inteligencia artificial.
+Adicionalmente, señaló que el consejo tendrá tres funciones principales, que pasó a 
+reseñar.
+La primera será proponer los sistemas de inteligencia artificial que requieran una 
+regulación especial, en atención a sus diferentes niveles de riesgo, según el área en que 
+incidan, y elaborar un listado de sistemas de alto riesgo y de riesgo limitado, de conformidad 
+con los criterios definidos en la ley, como base para que el Ministerio dicte un reglamento
+3
+--- PÁGINA 4 ---
+que se actualice al menos cada dos años. Agregó que, de esta forma, la normativa se 
+mantendrá vigente de acuerdo al avance tecnológico y se evitará su obsolescencia.
+La segunda función principal será recomendar la manera de aplicar las reglas a los 
+desarrolladores y operadores de sistemas de inteligencia artificial, en particular cuando 
+exista el riesgo de afectar derechos fundamentales.
+En cuanto a la tercera función principal, la señora Herrera sostuvo que será proponer 
+lineamientos para los espacios controlados de prueba de los sistemas de IA, lo cual 
+orientará la elaboración de un reglamento que defina criterios para su delimitación, 
+resguardando los derechos de las personas y de acuerdo a los estándares de cumplimiento 
+y transparencia establecidos por la ley.
+La diputada Paula Labra pidió discutir y votar por separado cada literal del artículo 
+15, ya que las indicaciones eran específicas.
+Posteriormente, se refirió al literal a) manifestando su desacuerdo con la 
+conformación del Consejo Asesor de IA aprobada, ya que quedó compuesto por ocho 
+representantes del gobierno, tres expertos académicos y solo dos miembros de la industria, 
+lo que, a su juicio, genera un desequilibrio en términos de experticia técnica. Argumentó 
+que los representantes de los ministerios de Seguridad Pública, Relaciones Exteriores y 
+Defensa Nacional, si bien son necesarios para comprender el uso de la inteligencia artificial 
+en el Estado, no cuentan con el conocimiento ni la especialización necesarios para 
+determinar qué sistemas deben clasificarse como de alto riesgo o de riesgo limitado. 
+Enfatizó, además, que estas distinciones conllevan sanciones significativas, por lo cual las 
+personas designadas no son las más adecuadas para definirlas.
+El diputado Johannes Kaiser expresó su inquietud respecto de la calificación de los 
+sistemas de inteligencia artificial como de alto riesgo o de riesgo limitado, la cual será 
+realizada por el Consejo Asesor. Advirtió que la distinción podría tener consecuencias 
+patrimoniales para quienes introduzcan sistemas al mercado y cuestionó la ausencia de 
+una instancia clara de apelación frente a las decisiones de dicho consejo. En consecuencia, 
+concluyó que debería existir un mecanismo que permita recurrir esas resoluciones, ya que 
+en la normativa propuesta no se observa ninguna posibilidad concreta de apelación.
+La señora Camila Aguayo respondió al diputado Kaiser que sí existe la posibilidad 
+de apelar o consultar respecto de las decisiones del mencionado consejo, ya que se 
+establece que el Ministerio de Ciencia, como organismo ejecutor de la ley, podrá emitir una 
+respuesta sobre su fundamentación. Además, indicó que las decisiones del Consejo Asesor 
+estarán sujetas a una revisión periódica que se hará cada dos años.
+El diputado Johannes Kaiser insistió en su preocupación, dado que, según recordó, 
+en ocasiones anteriores, a través de otras iniciativas, se han delegado al Ejecutivo 
+facultades que generan impactos patrimoniales significativos, sin establecer, al mismo 
+tiempo, mecanismos adecuados de apelación. A modo de ejemplo, mencionó la normativa 
+sobre material de uso dual en defensa, que inicialmente solo permitía un recurso de 
+reposición ante la misma instancia encargada de tomar la decisión, sin exigirse una 
+resolución fundada, situación que fue ampliamente debatida y, en último término, corregida. 
+El parlamentario hizo presente que el proyecto en debate presenta el mismo problema, pues 
+no establece un procedimiento claro de apelación ante el Consejo Asesor o ante el 
+Ministerio.
+La señora Paloma Herrera explicó que el proyecto debe interpretarse en el marco 
+del resto del ordenamiento jurídico y que el derecho administrativo establece recursos, 
+como el de reposición y el recurso jerárquico, que opera en subsidio, a través de los cuales 
+es posible revisar las decisiones adoptadas por una autoridad superior. Además, mencionó
+4
+--- PÁGINA 5 ---
+que la Contraloría General de la República ejerce un control de fiscalización sobre los actos 
+administrativos, lo que constituye otra vía de revisión institucional.
+Puesto en votación el literal a) en conjunto con la indicación 51 A, letra a), fue 
+aprobado por mayoría, con los votos a favor de las diputadas Érika Olivera y Marcela 
+Riquelme y de los diputados Giordano Salazar, Rubén Oyarzo y Hernán Palma. Votó en 
+contra la diputada Paula Labra. Se abstuvo el diputado Johannes Kaiser (5-1-1).
+El diputado Hernán Palma planteó una duda respecto de la redacción de la 
+indicación presentada por el Ejecutivo, pues el texto dice que se intercale una frase, pero 
+luego indica reemplazar el literal b) por el siguiente, lo cual implica una sustitución completa. 
+Por ello, cuestionó el sentido de votar una modificación que parece anular lo previamente 
+agregado.
+La señora Paloma Herrera explicó que el Ejecutivo presentó tres indicaciones. 
+Según detalló, la indicación 51 incorpora nuevas obligaciones al consejo asesor, en 
+particular la de asistir al Ministerio cuando este deba dictar actos administrativos que 
+establezcan obligaciones y responsabilidades para los operadores de sistemas de 
+inteligencia artificial. Agregó que, posteriormente, se presentó la indicación 51 A, que en su 
+letra b), complementa el literal b) del artículo 15, que ha pasado a ser 14, al insertar la 
+expresión “cuyo uso sea” entre las frases “los operadores de sistemas de IA” y “de alto 
+riesgo y riesgo limitado”.
+Precisó que ambas indicaciones son distintas, pero complementarias: la primera 
+aborda las obligaciones de los operadores conforme a la normativa y la segunda armoniza 
+la redacción para precisar que lo regulado son los usos de los sistemas.
+La diputada Paula Labra reiteró sus reparos a la conformación del Consejo Asesor 
+de IA por no considerarla idónea. Aun así, reconoció el sentido de que una de sus funciones 
+sea apoyar a la ministra, pero criticó que esta asesoría se enfoque exclusivamente en 
+aspectos punitivos y restrictivos referidos al cumplimiento de reglas impuestas a los usos 
+de sistemas de alto riesgo y de riesgo limitado. En su opinión, el proyecto resulta 
+completamente restrictivo y defendió la necesidad de incluir elementos vinculados a la 
+innovación, el desarrollo y el fomento.
+En ese contexto, hizo presente que una indicación de su autoría establece que una 
+de las obligaciones del Consejo será asesorar en materias asociadas al uso e 
+implementación de los sistemas desde una perspectiva más constructiva y no 
+exclusivamente sancionatoria.
+El diputado Tomás Lagomarsino indicó que la discusión sobre los usos de 
+inteligencia artificial de alto riesgo fue abordada intensamente durante la elaboración de las 
+indicaciones y el debate en general, debido a que en la versión original del proyecto de ley 
+estos usos estaban definidos de manera taxativa, al igual que su cumplimiento y los 
+alcances asociados a esto.
+Señaló que, a partir de planteamientos transversales recogidos durante las 
+audiencias, se concluyó que era preferible que estas definiciones quedaran sujetas a 
+decisiones administrativas, dada la naturaleza dinámica del tema. Agregó que esta 
+flexibilidad permitirá adaptar la normativa a los avances tecnológicos, lo cual no sería 
+posible si las disposiciones quedarán establecidas de manera rígida en la ley. Afirmó que 
+ese fue precisamente el objetivo buscado durante el debate y que se logró.
+La señora Camila Aguayo comentó que el Ejecutivo considera que la indicación 
+planteada por la diputada Paula Labra complementa adecuadamente el espíritu de su 
+propia indicación, por lo que están abiertos a que se discuta en esa línea.
+5
+--- PÁGINA 6 ---
+Puestas en votación conjunta la letra b) de la indicación 51 A y las indicaciones 51) 
+y 52), fueron aprobadas por mayoría, con los votos a favor las diputadas Érika Olivera y 
+Marcela Riquelme y de los diputados Andrés Giordano, Tomás Lagomarsino, Rubén Oyarzo 
+y Hernán Palma. No hubo votos en contra. Se abstuvieron las diputadas Marta Bravo y 
+Paula Labra y los diputados Johannes Kaiser y Daniel Lilayu (6-0-4).
+Puesto en votación, el literal i) de la indicación 53 fue aprobado por unanimidad, 
+con los votos de las diputadas Marta Bravo, Paula Labra, Érika Olivera y Marcela Riquelme 
+y de los diputados Andrés Giordano, Johannes Kaiser, Tomás Lagomarsino, Daniel Lilayu, 
+Rubén Oyarzo y Hernán Palma (10-0-0).
+La diputada Paula Labra señaló que su indicación busca eliminar el literal c) del 
+artículo 15, dado que se trata de una materia que corresponde al título siguiente del 
+proyecto de ley. Además, manifestó su desacuerdo con los sandbox o espacios controlados 
+de prueba tal como están planteados en el proyecto, por lo que no consideró adecuado 
+tratar el tema en ese momento y solicitó su eliminación.
+La señora Camila Aguayo reiteró que para el Ejecutivo el proyecto no solo debe 
+regular el uso de la inteligencia artificial, sino también fomentar el desarrollo y la innovación. 
+En ese contexto, defendió la importancia de los sandbox o espacios controlados de prueba, 
+ya que permiten que tanto grandes empresas como desarrolladores independientes puedan 
+probar sus sistemas con apoyo estatal y en colaboración con privados.
+Según aseveró, este aspecto será discutido más profundamente en el transcurso 
+del debate del resto del proyecto.
+El diputado Johannes Kaiser planteó su escepticismo con respecto al rol del Estado 
+en materia de innovación, señalando que, en su experiencia, cuando el Estado regula algo 
+suele ser para impedir su realización más que para facilitarla.
+El diputado Tomás Lagomarsino manifestó su desacuerdo con el planteamiento 
+del diputado Johannes Kaiser con respecto al rol del Estado en la regulación, pues, en su 
+opinión, el Estado también tiene la capacidad de facilitar procesos, como ocurre en salud, 
+mediante el financiamiento de proyectos innovadores.
+Asimismo, valoró que más adelante se pueda tener una discusión enriquecedora 
+sobre los sandbox, los que consideró fundamentales en materia de inteligencia artificial.
+Argumentó que estos permiten evaluar el funcionamiento de los sistemas de IA en 
+contextos locales específicos. Como ejemplo, relató un caso en que un sistema de 
+inteligencia artificial para detectar restos arqueológicos, desarrollado en Grecia, no pudo 
+ser aplicado en Chile debido a las diferencias entre los datos de entrenamiento y la realidad 
+nacional.
+Sostuvo que este caso, aunque no implicaba riesgos, evidencia la importancia de 
+contar con espacios de prueba que permitan verificar si un sistema es seguro y útil para su 
+implementación en Chile, especialmente cuando se trata de aplicaciones de alto riesgo.
+El diputado Andrés Giordano consultó a la diputada Labra sobre su aprensión 
+respecto de los sandbox.
+Al mismo tiempo, manifestó que su duda se relaciona con los riesgos vinculados a 
+la administración de datos sensibles. A modo de ejemplo, señaló que el uso de inteligencia 
+artificial en decisiones sobre salud requiere un entorno controlado para su entrenamiento y 
+simulaciones que no involucren pacientes reales.
+Según señaló, no le quedó clara cuál es la objeción a los espacios controlados de 
+prueba que justifica la eliminación del literal c) del artículo 15, por lo cual solicitó una 
+aclaración que le ayude a entender mejor el objetivo de la indicación.
+6
+--- PÁGINA 7 ---
+La diputada Paula Labra explicó que el concepto de sandbox está circunscrito 
+únicamente a órganos del Estado con funciones fiscalizadoras y regulatorias. Entonces, si 
+bien se plantea como una medida de apoyo a la innovación, a su juicio no lo es bajo esas 
+condiciones, ya que la lógica detrás de su implementación será más bien sancionatoria.
+Mencionó que existe un análisis del Fondo Monetario Internacional (FMI) que 
+cuestiona la eficiencia de los sandbox. Según este análisis, el crecimiento de los espacios 
+controlados no ha estado acompañado de una evaluación proporcional respecto de su 
+rendimiento. Sostuvo que, hasta la fecha, no se han comprobado la eficacia ni las lecciones 
+aprendidas de estos sistemas, por lo que, en su opinión, se estarían adelantando a 
+implementar algo que podría ser más perjudicial que beneficioso.
+Asimismo, expresó su inquietud sobre el costo que conllevará implementar un 
+sandbox en Chile, pues demandará recursos importantes: funcionarios, infraestructura 
+especializada y personal capacitado. Por ello, solicitó que el Ejecutivo informe si se ha 
+hecho un estudio de costo-beneficio sobre esta medida y cuánto costaría impulsar dicha 
+innovación.
+La diputada Érika Olivera, Presidenta accidental, solicitó al Ejecutivo un informe 
+financiero sobre la materia.
+La señora Paloma Herrera explicó que el artículo que habilita los espacios 
+controlados de prueba aún no se ha debatido en la Comisión.
+Aclaró que el artículo 15, literal c), no impide que el consejo asesor técnico otorgue 
+lineamientos para el desarrollo de estos espacios. Además, señaló que ya existen espacios 
+controlados de prueba en implementación y que la aprobación del literal c) permitiría al 
+consejo asesor emitir lineamientos útiles para estos sistemas.
+El diputado Tomás Lagomarsino planteó una duda sobre el rol del Consejo Asesor 
+en esta materia. Si bien el artículo establece que se permitirá la emisión de lineamientos 
+para el desarrollo de espacios controlados de prueba, esto no significa que dicho consejo 
+o el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación los vayan a desarrollar.
+Recordó que todas las facultades estaban en el proyecto de ley original, pero que 
+fueron traspasadas a la Agencia Nacional de Protección de Datos Personales. En este 
+contexto, preguntó cuál institución será la responsable de implementar los sandbox.
+El diputado Johannes Kaiser expresó una inquietud respecto de la redacción del 
+literal c), el cual señala: “… Los miembros del Consejo Asesor de IA no percibirán dieta por 
+el desempeño de sus funciones.”. Observó que el texto no menciona la palabra 
+remuneración y preguntó si se descartó incluir ambos términos.
+La señora Paloma Herrera explicó que la lógica del funcionamiento consiste en que 
+el Consejo asesore al Ministerio en los temas contemplados en el artículo, para que luego 
+el propio Ministerio dicte los actos administrativos pertinentes, incluyendo los lineamientos 
+que deberán cumplir los espacios controlados de prueba.
+También señaló que, en un artículo posterior sobre los sandbox, el Ejecutivo 
+presentó una indicación en que se especifican las funciones de cada institución y se 
+propone la creación de un reglamento que establezca las obligaciones de los órganos del 
+Estado. Finalmente, aclaró que el cargo no contempla una remuneración.
+El diputado Johannes Kaiser consultó si el Ejecutivo estaría dispuesto a incluir las 
+palabras “remuneración o dieta” en el literal c).
+La diputada Paula Labra manifestó que no resulta lógico que la función asignada al 
+consejo asesor se incluya únicamente en el literal de ese artículo. Por lo mismo, solicitó al 
+Ejecutivo una aclaración sobre el fundamento de dicha disposición.
+7
+--- PÁGINA 8 ---
+Luego, dirigiéndose al diputado Tomás Lagomarsino, explicó que el artículo 20 del 
+proyecto de ley establece lo siguiente: “Los órganos de la administración del Estado podrán 
+proporcionar un espacio controlado…”. De este modo, tales espacios no quedarían a cargo 
+de la agencia, sino de otros órganos públicos.
+Sostuvo que resulta imprescindible un análisis de costo-beneficio, pues la 
+implementación 
+implicará 
+costos 
+elevados. 
+Añadió 
+que, 
+según 
+experiencias 
+internacionales, estos espacios requieren una infraestructura especialmente costosa.
+Por último, solicitó una aclaración respecto del uso del término “dieta”, el cual 
+aparece mencionado en el mismo literal.
+La diputada Érika Olivera, Presidenta accidental, preguntó si el Ejecutivo estaría 
+dispuesto a modificar la redacción y armonizar los términos “dieta” y “remuneración”.
+La señora Paloma Herrera respondió que no existe obstáculo alguno para ello.
+La diputada Paula Labra aclaró que, a su juicio, la redacción podría prestarse a 
+interpretaciones erróneas, dado que no queda claro si la restricción de no percibir dieta 
+aplica solo al literal c) o a la totalidad del artículo.
+La señora Paloma Herrera aclaró que la intención del gobierno es que la prohibición 
+de percibir dieta o remuneración aplique a todo el artículo.
+El diputado Johannes Kaiser propuso convertir la última frase del literal c) en un 
+nuevo literal d), con el objeto de evitar ambigüedades.
+La diputada Érika Olivera, Presidenta, respondió que, antes de evaluar esa 
+propuesta, es preciso votar la eliminación completa del literal c).
+La señora María Soledad Fredes, Secretaria, aclaró que, según la versión 
+comparada del proyecto, la frase sobre la prohibición de dieta no pertenece al literal c), sino 
+al inciso segundo del artículo 15. Explicó que la inclusión al final del literal c) se debió a un 
+error de formato.
+La diputada Marcela Riquelme solicitó una aclaración sobre la naturaleza jurídica 
+de los miembros del Consejo Asesor. Observó que “dieta” y “remuneración” no son términos 
+equivalentes, pues dependen del régimen de contratación. En consecuencia, si los 
+consejeros no son funcionarios, lo percibido será una dieta o una compensación de gastos, 
+lo cual es equivalente a un viático.
+La señora Paloma Herrera reiteró que la intención es que los miembros del consejo 
+cumplan funciones sin recibir compensación de ningún tipo, es decir, ad honorem.
+Puesto en votación el literal c), fue aprobado por mayoría, con los votos a favor de 
+las diputadas Érika Olivera y Marcela Riquelme y de los diputados Andrés Giordano, 
+Johannes Kaiser, Tomás Lagomarsino, Rubén Oyarzo y Hernán Palma. Votaron en contra 
+el diputado Daniel Lilayu y las diputadas Marta Bravo y Paula Labra. No hubo abstenciones 
+(7-3-0).
+La diputada Érika Olivera, Presidenta, solicitó a la señora Secretaria que 
+procediera a leer la propuesta del diputado Kaiser para regular lo referido a la dieta o 
+remuneración de los miembros del Consejo Asesor.
+La señora María Soledad Fredes, Secretaria, señaló que la propuesta del diputado 
+Kaiser añade la expresión “ni remuneración” en el inciso segundo del artículo, quedando 
+del siguiente tenor: “Los miembros del Consejo Asesor de IA no percibirán dieta ni 
+remuneración por el desempeño de sus funciones.”.
+8
+--- PÁGINA 9 ---
+El diputado Johannes Kaiser manifestó que debería quedar establecido en el texto 
+que no recibirán dieta ni remuneración para evitar interpretaciones que permitan 
+asignaciones de cualquier otro tipo.
+Se acordó por unanimidad agrega la frase propuesta en el inciso segundo.
+Puesto en votación el inciso, con la modificación propuesta fue aprobado por 
+unanimidad, con los votos a favor las diputadas Paula Labra, Érika Olivera y Marcela 
+Riquelme y de los diputados Andrés Giordano, Johannes Kaiser, Tomás Lagomarsino, 
+Daniel Lilayu, Rubén Oyarzo y Hernán Palma (10-0-0).
+La diputada Paula Labra expresó que el fin de la 3ª parte de su indicación es agregar 
+una nueva función, que consista en presentar, al menos cada un año, iniciativas de fomento 
+para la innovación y desarrollo de IA en áreas de interés y beneficio comunitario, como 
+salud, seguridad, agricultura, entre otras, especialmente enfocado en empresas de menor 
+tamaño.
+En efecto, sostuvo que el Consejo debe fomentar iniciativas relacionadas con la 
+innovación y el desarrollo de los sistemas de inteligencia artificial en campos como el de la 
+salud, la seguridad y la agricultura. Agregó que un uso adecuado de los sistemas de 
+inteligencia artificial podría beneficiar sobre todo a las empresas de menor tamaño.
+El diputado Rubén Oyarzo explicó que el objeto de su indicación para agregar una 
+nueva función, que tenga por objeto elaborar recomendaciones para el sector público y 
+privado en torno al buen uso de la inteligencia artificial y sus límites éticos, de manera que 
+el Consejo Asesor proponga criterios éticos para el buen uso de los sistemas de inteligencia 
+artificial, criterios que, a su juicio, no serían rígidos, ya que, debido a su naturaleza, podrían 
+ir adaptándose a las nuevas realidades con el paso del tiempo.
+El diputado Daniel Lilayu preguntó a la diputada Labra cómo se calificaría o que 
+parámetros se utilizarían para tildar a una empresa de “menor tamaño”.
+La diputada Paula Labra aclaró que ya existen definiciones y parámetros legales 
+que permiten calificar a una empresa como “de menor tamaño”. Agregó que el fin de su 
+indicación es fomentar el uso de sistemas de inteligencia artificial al anterior de ese tipo de 
+empresas, ya que, de lo contrario, podrían quedar fuera de sus respectivos mercados.
+Por otra parte, valoró positivamente la indicación del diputado Oyarzo, pero hizo ver 
+que el proyecto ya contempla ciertos principios que tratan sobre el buen uso de los sistemas 
+de inteligencia artificial.
+El diputado Rubén Oyarzo aclaró que, si bien es cierto lo dicho por la diputada 
+Labra, el fin último de su indicación es que el Consejo Asesor pueda actualizar la aplicación 
+de tales principios para hacer recomendaciones sobre el buen uso de los sistemas de 
+inteligencia artificial, dado el acelerado crecimiento de estos sistemas.
+El diputado Daniel Lilayu pidió al diputado Oyarzo, respecto de la expresión “y sus 
+límites éticos”, contenida en su indicación, que explicara cuáles eran esos límites.
+La diputada Paula Labra reconoció el dinamismo de los sistemas de inteligencia 
+artificial. Por lo mismo, expresó su preocupación por la rigidez del proyecto de ley. Advirtió 
+que sus disposiciones podrían dificultar la adaptación de sus normas ante futuros 
+desarrollos tecnológicos.
+El diputado Rubén Oyarzo señaló que el objeto de su indicación es que los límites 
+éticos se vayan actualizando según los cambios que se produzcan en materia de 
+inteligencia artificial. Agregó que, para ello, el Consejo Asesor debería tener la capacidad 
+de reaccionar ágilmente ante tales cambios y no quedarse en un marco legal rígido.
+9
+--- PÁGINA 10 ---
+El diputado Tomás Lagomarsino señaló que las propuestas de los diputados Labra 
+y Oyarzo abordaban aspectos distintos. Respaldó la iniciativa de la diputada Labra, 
+orientada al fomento de la innovación y el desarrollo, destacando que el Estado no solo 
+debería actuarse en el futuro como regulador, sino también como un actor relevante en la 
+adquisición de soluciones basadas en inteligencia artificial.
+Respecto de la indicación del diputado Oyarzo, reconoció que las buenas prácticas, 
+al tener un menor carácter regulatorio que la legislación formal, podrían generar 
+duplicidades.
+Por último, valoró la posibilidad de que la industria desarrolle sus propios códigos 
+éticos, tal como ocurre en otros sectores, y consideró acertado que la propuesta del 
+diputado Oyarzo también asigne responsabilidad a los privados.
+El diputado Johannes Kaiser expresó su desacuerdo con la idea de que los límites 
+éticos estén en constante cambio. Enfatizó que lo bueno y lo malo son conceptos ya 
+definidos, no sujetos a modificaciones arbitrarias. Dijo que los códigos éticos que podría 
+desarrollar una industria deberían basarse en una ética preexistente, que ya ha 
+evolucionado y se encuentra estructurada.
+Advirtió que el problema surge cuando se empieza a redefinir lo que se considera 
+bueno o malo, ya que eso elimina la necesidad de un marco ético real y convierte la ética 
+en una simple formalidad sin sustancia. Señaló que si se crean códigos éticos es porque se 
+parte de un marco normativo claro y sólido, lo suficientemente firme como para orientar el 
+comportamiento de una industria o actividad en función de principios morales ya 
+establecidos.
+Solicitó que su reflexión quedara registrada en la historia de la ley, con el fin de dejar 
+constancia de que, en su opinión, los parlamentarios no tienen la facultad de decirle a la 
+industria ni a la Comisión qué es bueno o malo, qué es moral o inmoral, pues tales 
+conceptos ya se encontrarían definidos según el daño que se ocasione a la persona 
+humana.
+El diputado Daniel Lilayu sostuvo que lo bueno y lo malo no son conceptos fijos, 
+sino que cambian con el tiempo y el contexto histórico. A modo de ejemplo, habló del Código 
+de Ética del Colegio Médico de Chile (A.G.), con el fin de sostener que este reglamento, 
+aunque sólido y vigente desde hace años, está sujeto a modificaciones, reflejando 
+justamente esa naturaleza cambiante de la ética.
+Aclaró que su pregunta sobre los límites éticos no buscaba relativizar el concepto, 
+sino señalar que, aunque existen marcos normativos claros en ciertas profesiones, estos 
+pueden y deben adaptarse con el tiempo.
+Puesta en votación la indicación 53), literal iii), fue aprobada por mayoría de votos. 
+Votaron a favor las diputadas Marta Bravo, Paula Labra y Marcela Riquelme y de los 
+diputados Andrés Giordano, Johannes Kaiser, Tomás Lagomarsino, Daniel Lilayu, Rubén 
+Oyarzo y Hernán Palma. Se abstuvo la diputada Érika Olivera (9-0-1).
+Puesta en votación, la indicación 54), fue aprobada por mayoría de votos. Votaron 
+a favor las diputadas Érika Olivera y Marcela Riquelme y de los diputados Andrés Giordano, 
+Tomás Lagomarsino, Rubén Oyarzo y Hernán Palma. Se abstuvieron las diputadas Marta 
+Bravo y Paula Labra, y los diputados Johannes Kaiser y Daniel Lilayu (6-0-4).
+Puesto en votación el inciso final, fue aprobado por mayoría de votos. Votaron a 
+favor las diputadas Érika Olivera y Marcela Riquelme y de los diputados Andrés Giordano, 
+Tomás Lagomarsino, Rubén Oyarzo y Hernán Palma. Votó en contra el diputado Johannes
+10
+--- PÁGINA 11 ---
+Kaiser. Se abstuvieron las diputadas Marta Bravo y Paula Labra y el diputado Daniel Lilayu 
+(6-1-3).
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 09:46 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+11

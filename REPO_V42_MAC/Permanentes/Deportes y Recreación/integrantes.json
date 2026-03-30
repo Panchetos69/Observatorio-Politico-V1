@@ -1,0 +1,58 @@
+{
+  "comision": "Deportes y Recreación",
+  "prmID": "4910",
+  "integrantes": [
+    {
+      "nombre": "Sr. Marco Antonio Sulantay Olivares",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1174"
+    },
+    {
+      "nombre": "Sr. Roberto Arroyo Muñoz",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1102"
+    },
+    {
+      "nombre": "Sr. Patricio Briones Moller",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1193"
+    },
+    {
+      "nombre": "Sr. Carlos Carvajal Gallardo",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1195"
+    },
+    {
+      "nombre": "Sr. Carlos Chandía Alarcón",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1197"
+    },
+    {
+      "nombre": "Sr. Matías Fernández Hartwig",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1209"
+    },
+    {
+      "nombre": "Sr. Cristian Mella Andaur",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1224"
+    },
+    {
+      "nombre": "Sra. Javiera Morales Alvarado",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1148"
+    },
+    {
+      "nombre": "Sr. Benjamín Moreno Bascur",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1150"
+    },
+    {
+      "nombre": "Sra. Marisela Santibáñez Novoa",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1074"
+    },
+    {
+      "nombre": "Sr. Cristián Tapia Ramos",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1175"
+    },
+    {
+      "nombre": "Sr. Hotuiti Teao Drago",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1176"
+    },
+    {
+      "nombre": "Sr. Sebastián Zamora Soto",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1263"
+    }
+  ]
+}

@@ -1,0 +1,833 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=15064&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:34:05
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 84°, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+372ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 15 DE ENERO 2025, DE 
+17:37 A 19:27 HORAS.
+SUMARIO: 
+Se continuó con la votación en particular del proyecto de 
+ley que regula los sistemas de inteligencia artificial 
+(boletines Nos 16821-19 y 15869-19, refundidos), en primer 
+trámite constitucional, con urgencia “suma”.
+I.- PRESIDENCIA
+Presidió la sesión, el diputado Eric Aedo (Presidente Titular), actuó como Abogada 
+Secretaria de la Comisión, la señora María Soledad Fredes Ruiz, como Abogada Ayudante, 
+la señora María Jesús Serey Sardá y como secretaria ejecutiva, la señora Teresita Sandoval 
+Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Paula Labra, Marcela 
+Riquelme y Gael Yeomans, y los diputados integrantes de la Comisión, señores Eric Aedo, 
+Johannes Kaiser, Tomás Lagomarsino y Hernán Palma. El diputado Daniel Lilayu fue 
+reemplazado, en esta sesión, por el diputado Sergio Bobadilla. El diputado Rubén Oyarzo 
+fue reemplazado, en esta sesión, por la diputada Karen Medina.
+Concurrió, para la orden del día, la Ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, señora Aisén Etcheverry Escudero, acompañada de las asesoras legislativas 
+Paloma Herrera y Camila Aguayo.
+Participó, en calidad de experta, la Investigadora Principal del Centro Nacional de 
+Inteligencia Artificial (CENIA) y miembro del Grupo de Trabajo en Ética de CENIA, señora 
+Claudia López Moncada.
+III.- ACTAS
+El acta de la sesión 82ª se declaró reglamentariamente aprobada.
+IV.- CUENTA
+Se recibieron los siguientes documentos:
+1.- Comunicación del Jefe de la Bancada de Diputados UDI, por la que informa que 
+el diputado Daniel Lilayu será reemplazado, en esta sesión, por el diputado Sergio 
+Bobadilla.
+Se tuvo presente
+2.- Comunicación de la Jefa del Comité de Diputados Demócratas, Amarillos e 
+Independientes, a través de la cual informa que el diputado Rubén Oyarzo será 
+reemplazado, en esta sesión, por la diputada Karen Medina.
+Se tuvo presente
+3.- Comunicación suscrita por las diputadas Marta Bravo y Helia Molina, por la que 
+informan que han acordado pareo para la presente sesión.
+Se tomó conocimiento
+V.- ORDEN DEL DÍA
+Se continuó con la votación en particular del proyecto de ley que regula los sistemas 
+de inteligencia artificial (boletines Nos 16821-19 y 15869-19, refundidos), en primer 
+trámite constitucional, con urgencia “suma”.
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 25/03/2025 11:13:06 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: D4A189E525FDDA68
+--- PÁGINA 2 ---
+Artículo 4, letra e)
+Artículo 4.- Principios aplicables a los sistemas de IA. Todos los operadores que entren en 
+el ámbito de aplicación de la presente ley deberán observar los siguientes principios 
+generales:
+e) Diversidad, no discriminación y equidad: los sistemas de IA se desarrollarán y utilizarán 
+durante todo su ciclo de vida, promoviendo la igualdad de acceso, la igualdad de género y 
+la diversidad cultural, evitando al mismo tiempo los efectos discriminatorios y sesgos de 
+selección o de información que pudieran generar un efecto discriminatorio.
+Indicaciones
+9 ter) Del diputado Palma para reemplazar la letra e) del artículo 4° del proyecto 
+por el siguiente:
+“e) Diversidad, no discriminación y equidad: los sistemas de IA se desarrollarán y 
+utilizarán durante todo su ciclo de vida, promoviendo la diversidad, no discriminación y 
+equidad, evitando al mismo tiempo los efectos discriminatorios y sesgos de selección o de 
+información ilegal o arbitraria.”.
+11) De la diputada Labra al artículo 4º:
+iii. Letra e), para reemplazarla por lo siguiente:
+“e) Diversidad, no discriminación y equidad: los sistemas de IA se desarrollarán y 
+utilizarán durante todo su ciclo de vida, promoviendo la diversidad, no discriminación y 
+equidad, evitando al mismo tiempo los efectos discriminatorios y sesgos de selección o de 
+información.”.
+Retirada por su autora.
+12) Del Ejecutivo al artículo 4 para modificarlo en el siguiente sentido:
+a) Agrégase en el literal e), a continuación de la frase “generar un efecto 
+discriminatorio” la expresión “ilegal o arbitraria”.
+La señora Aisén Etcheverry, ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, explicó que la indicación del Ejecutivo incorpora las expresiones “ilegal” y 
+“arbitrario”. Justificó esta adición señalando que existen instrumentos estatales, como el 
+Registro Social de Hogares, que generan discriminaciones, aunque sean legales. Luego, 
+destacó que, por ello, incluir esas precisiones permite prevenir que dichos sistemas sigan 
+operando sin correcciones necesarias.
+El diputado Johannes Kaiser destacó que la inteligencia artificial funciona con los 
+datos que se le proporcionan, por lo que los resultados dependen de estos. Por ello, expresó 
+sus dudas sobre cómo estos principios podrían aplicarse técnicamente en sistemas de 
+inteligencia artificial.
+Argumentó que conceptos como diversidad y equidad, de naturaleza sociológica e 
+incluso política, son difíciles de integrar en un sistema diseñado para analizar datos. Puso 
+como ejemplo un sistema de inteligencia artificial utilizado en una industria agrícola, como 
+el de clasificación de manzanas, en que la no discriminación parecería irrelevante en un 
+contexto tan específico.
+Además, señaló que exigir a un sistema que evite sesgos de selección o información 
+ilegal o arbitraria abre muchas interpretaciones. Consideró que este enfoque implica 
+imponer a los sistemas de inteligencia artificial una manera específica de pensar y obtener 
+resultados, algo complejo, dado que muchos de estos sistemas trabajan con datos 
+extremadamente diversos.
+Por último, cuestionó cómo definir y excluir ciertos datos para cumplir con estas 
+normas, destacando la dificultad técnica de implementar regulaciones que involucran 
+principios abstractos en herramientas diseñadas para análisis de datos.
+El diputado Tomás Lagomarsino hizo presente que la discusión sobre inteligencia 
+artificial no solo se está dando en Chile, sino también en otras partes del mundo. En ese
+2
+--- PÁGINA 3 ---
+contexto, señaló que, tras analizar la ley de inteligencia artificial de la Unión Europea, 
+concluyó que no aborda principios más allá de las capacidades tecnológicas.
+Asimismo, planteó que, por sí sola, la inteligencia artificial no puede promover la 
+equidad, sino que es el Estado el que puede utilizar sistemas o crear aplicaciones de IA 
+para ese propósito, pero el impacto siempre dependerá del uso.
+Sostuvo que la discusión sobre inteligencia artificial se da en torno a la 
+discriminación arbitraria, que en este caso se denomina discriminación algorítmica. A modo 
+de ejemplo, señaló que en Estados Unidos de América tienen un proyecto de ley sobre la 
+materia desde 2019, el cual se presentó incluso antes del debate europeo sobre inteligencia 
+artificial. Por tanto, a su juicio, la discusión actual está perdiendo el rumbo al intentar incluir 
+principios poco relevantes en este contexto.
+Por ello, sugirió que, en lugar de asignar a la inteligencia artificial principios como la 
+promoción de la diversidad, el debate se centre en evitar el sesgo algorítmico, porque puede 
+originar discriminaciones que afecten a las mujeres, a las diversidades y a los pueblos 
+originarios.
+Por último, dijo que no cambiará el mundo por incorporar como un principio la 
+promoción de la diversidad en el proyecto de ley, y que es esencial enfocarse en lo 
+verdaderamente relevante en la materia.
+La diputada Paula Labra señaló que, de cierta manera, su indicación busca excluir 
+conceptos que tienen un sesgo ideológico y que, efectivamente, se hace referencia a 
+promover la diversidad, la no discriminación y la equidad, a fin de no discriminar por género, 
+a personas con discapacidad o a habitantes de zonas rurales, y sostuvo que, sin embargo, 
+en el transcurso de esta discusión, el diputado Johannes Kaiser planteó un argumento que 
+considera relevante en cuanto a la existencia de sesgos de selección, como la clasificación, 
+según su calidad, de arándanos para exportación mediante el uso de maquinaria agrícola 
+con inteligencia artificial. Ante ello, consider que sería necesario replantear el principio en 
+discusión.
+El diputado Johannes Kaiser señaló que se debe comprender que la inteligencia 
+artificial es una herramienta tecnológica que puede usarse para distintos fines y que puede 
+compararse con automóviles, aviones o martillos, a cuyas industrias no se les puede 
+imponer criterios de no discriminación. Por lo tanto, dijo que, en su opinión, no se debe 
+introducir criterios de esa naturaleza en los sistemas de inteligencia artificial, a no ser que 
+una empresa decida voluntariamente hacerlo.
+Como ejemplo, mencionó el caso de ChatGPT, que inicialmente fue programado 
+con principios no discriminatorios, pero hizo hincapié en que la máquina no tiene criterio. 
+Según relató, se preguntó a ChatGPT qué haría si la única forma de evitar la muerte de 30 
+personas en un tranvía descontrolado fuera pronunciar una palabra ofensiva contra una 
+minoría y, dado que está limitado por su programación, respondió que no diría la palabra. 
+Dijo que aquello demostraba que las máquinas no tienen criterios morales, culturales ni 
+éticos, sino que, simplemente, operan según su programación.
+La ministra Aisén Etcheverry destacó la importancia de distinguir dos aspectos 
+presentes tanto en la versión original del Ejecutivo, con su indicación, como en la indicación 
+de la diputada Labra. Señaló que uno de ellos se relacionaba con principios generales de 
+no discriminación, en el entendido de que promover que los sistemas de inteligencia artificial 
+incluyan diversidad y equidad aborda un problema ampliamente reconocido a nivel global, 
+relativo al desarrollo de esta tecnología y que, por tanto, pertenece al ámbito de los 
+principios.
+En segundo lugar, se refirió a garantizar que no se produzcan efectos 
+discriminatorios ni sesgos de selección, ambos principios fundamentados en la 
+Constitución.
+Por otra parte, reconoció la validez de la preocupación de la diputada Labra sobre 
+el sesgo de selección y explicó que el Ejecutivo propuso, mediante una indicación, agregar, 
+en la letra e) del artículo 4, a continuación de la frase “generar un efecto discriminatorio” la
+3
+--- PÁGINA 4 ---
+frase “ilegal o arbitraria”, porque para que los sistemas de inteligencia artificial cumplan su 
+función, deben realizar discriminaciones necesarias.
+Sostuvo que la propuesta del Ejecutivo garantiza la realización de discriminaciones 
+legales y necesarias, mientras las discriminaciones ilegales o arbitrarias, como limitar el 
+acceso a crédito basado en la raza, quedan expresamente prohibidas. Además, mencionó 
+que este tipo de prácticas ha sido ampliamente estudiado en otros países, como Estados 
+Unidos, y ha motivado la creación de normativas similares.
+En síntesis, indicó que el Ejecutivo considera fundamental el concepto de no 
+discriminación vinculado a lo ilegal y arbitrario, pero estima legítimo realizar 
+diferenciaciones entre cosas, situaciones o personas cuando se está en el marco de la 
+legalidad.
+El diputado Johannes Kaiser hizo presente que lo preocupante era que en la letra 
+e) se establece que “los sistemas de IA se desarrollarán y utilizarán durante todo su ciclo 
+de vida”, de conformidad con ciertos principios y advirtió que obligar a integrar estos 
+principios en el desarrollo de los sistemas podría ser problemático, ya que son 
+fundamentales, pero también relativos.
+Para ilustrar el punto, el legislador mencionó que matar a un ser humano está 
+prohibido y penado por ley, salvo en excepciones, como la legítima defensa, y la 
+determinación de si se trata de legítima defensa no recae en quien comete el acto, sino en 
+un juez, lo que involucra la interacción de distintos actores para evaluar las circunstancias 
+y aplicar el principio.
+Dicho aquello, señaló que es inviable integrar una capacidad de juicio similar a la de 
+un juez en los sistemas de IA para cumplir con los requisitos establecidos sin causar 
+desorden. Sin embargo, a su juicio, esta exigencia tecnológica es impracticable y complica 
+el desarrollo y aplicación de la inteligencia artificial.
+La diputada Paula Labra dijo que consideraba la discusión en torno al principio de 
+no discriminación más compleja de lo que parecía inicialmente.
+Recordó que en el artículo 1, sobre el objeto de la ley en proyecto, se establece: “El 
+Estado de Chile, por medio de sus instituciones, promoverá el uso y desarrollo de la IA 
+velando por el cumplimiento del marco institucional y normativo bajo el cual se organiza la 
+República de Chile, respetando los derechos fundamentales de las personas…”, y la 
+discriminación, la falta de diversidad y la ausencia de equidad cultural o racial afectan 
+directamente los derechos fundamentales.
+Por ello, sugirió no incorporar el principio de no discriminación, porque el artículo 1 
+lo abarca implícitamente y no debe ser transgredido. En su opinión, incluirlo podría generar 
+confusiones o dejar fuera elementos importantes y difíciles de explicar, como dijo el 
+diputado Kaiser.
+La diputada Gael Yeomans respondió al planteamiento del diputado Kaiser 
+señalando que todos los principios contenidos en las letras del artículo 4 están 
+desarrollados de manera similar. A modo de ejemplo, mencionó que en la letra b) se 
+consagra el principio de “Solidez y seguridad técnica: los sistemas de IA se desarrollarán y 
+utilizarán de manera que se minimicen los daños previsibles,”.
+A pesar de que cuestionó quién calificaría esos daños basándose en dicho principio, 
+señaló que la interpretación de esos términos no debiera ser compleja, debido a su carácter 
+general. Recordó que el artículo 4 comienza con una definición que establece que los 
+principios aplicables a los sistemas de inteligencia artificial son generales, lo que debe guiar 
+su comprensión.
+Por ello, planteó que considera que acoger un principio como el de promoción de la 
+diversidad y la no discriminación no es problemático.
+Agregó que este principio va más allá de simplemente evitar la vulneración de 
+derechos, ya que incluye una dimensión adicional relevante, particularmente en relación 
+con las consecuencias observadas en el desarrollo de ciertos sistemas de inteligencia 
+artificial.
+4
+--- PÁGINA 5 ---
+El diputado Tomás Lagomarsino manifestó que los principios, en un campo 
+transversal como el de la inteligencia artificial, son aplicables a diversos usos, desde la 
+selección de productos en una empresa, chatbots en el retail y aplicaciones de delivery, 
+hasta la evaluación crediticia en un banco. Sin embargo, dijo tener dudas sobre cómo se 
+podrían promover, en todos los ámbitos en que se utiliza IA, principios como la igualdad de 
+acceso, la igualdad de género y la diversidad cultural.
+Dijo que la discusión en torno a la inteligencia artificial debe centrarse en prevenir y 
+evitar la discriminación algorítmica o arbitraria, lo que incluye abordar posibles sesgos en 
+los datos utilizados para entrenar a los sistemas de IA, los cuales podrían perpetuar 
+discriminaciones de género, etnia, diversidad y por situación socioeconómica, entre otras. 
+Por ello, dijo que era importante evitar que estos sesgos, ya presentes en los datos, se 
+reproduzcan en las aplicaciones de la inteligencia artificial.
+Asimismo, expresó su preocupación por la amplitud del principio en comento, dado 
+que excede tanto las capacidades como los usos de los sistemas de inteligencia artificial. 
+Finalmente, sostuvo que la discusión sobre el particular parece alejarse, incluso, de las 
+deliberaciones internacionales que tienen lugar en la Unión Europea y en países como 
+Brasil, Estados Unidos y Argentina, entre otros.
+La diputada Gael Yeomans dijo que algunos de los elementos mencionados por el 
+diputado Lagomarsino están incluidos en la indicación del Ejecutivo, mientras que la 
+indicación del diputado Palma es más reducida y específica. A su parecer, la propuesta del 
+diputado Palma ofrece una buena alternativa de cambio al abordar los problemas señalados 
+de manera más concisa.
+Expresó que, desde su perspectiva, la indicación del diputado Palma podría 
+despejar las inquietudes planteadas, pues resuelve mejor la situación, y solicitó claridad 
+sobre cuál de las indicaciones se estaba considerando, si la original del Ejecutivo o la del 
+diputado Palma.
+El diputado Tomás Lagomarsino respondió a la consulta planteada por la diputada 
+Gael Yeomans, diciendo que se había referido tanto al texto original como a las 
+indicaciones.
+Señaló que el verbo promover, presente en el mensaje del Ejecutivo, en la moción 
+y en la indicación del diputado Palma, podía ser reemplazado por la frase “evitando la 
+discriminación arbitraria”. Argumentó que esto permitiría prevenir desigualdades de acceso 
+y discriminación de género hacia diversidades u otros grupos, sin extenderse a temas 
+ajenos a la discusión principal.
+La diputada Marcela Riquelme explicó que los principios legales establecen 
+criterios generales y que algunos de ellos, como la prohibición de la discriminación 
+arbitraria, ya están consagrados en la Constitución. Argumentó que, aunque pueda parecer 
+redundante, es importante reiterarlos para enfatizar su relevancia, comparando esta 
+práctica con los pleonasmos usados por Andrés Bello en el Código Civil.
+Además, subrayó la importancia de no solo prohibir, sino también promover políticas 
+inclusivas y de respeto, especialmente en el contexto de la inteligencia artificial, para evitar 
+que estas tecnologías perpetúen discursos de odio o discriminación.
+El diputado Johannes Kaiser agradeció la introducción histórica de la diputada 
+Riquelme y planteó que no es tarea del Estado imponer una forma de ver las cosas a través 
+de la tecnología ni restringir la libertad de expresión de manera anticipada. Afirmó que el 
+desarrollo de sistemas automatizados con una agenda política específica es inviable, ya 
+que podría dificultar el desarrollo de la inteligencia artificial en Chile e incluso llevar a la 
+creación de un mercado negro.
+Por último, destacó la importancia de distinguir entre las redes sociales y la 
+inteligencia artificial, argumentando que las restricciones excesivas también podrían 
+impedir el desarrollo de estas tecnologías en el país.
+La diputada Paula Labra agradeció al diputado Palma por recoger su propuesta, 
+pero anunció que retiraría la indicación, debido a los problemas potenciales relacionados 
+con el sesgo de selección. Recalcó que los sistemas de inteligencia artificial deben ser
+5
+--- PÁGINA 6 ---
+accesibles y justos para todos los grupos de la sociedad, evitando prácticas que refuercen 
+desigualdades.
+En consecuencia, sugirió buscar una redacción que complemente los principios de 
+diversidad y equidad, mencionando también la supervisión humana como un elemento 
+clave para garantizar que la inteligencia artificial respete la dignidad y la autonomía 
+personal.
+El diputado Tomás Lagomarsino coincidió en que se estaban tratando como 
+sinónimos las redes sociales y la inteligencia artificial, además de confundir sus usos con 
+el contenido generado. Explicó que las redes sociales utilizan inteligencia artificial para 
+entrenar algoritmos que muestran información, pero aclaró que esta tecnología no 
+desarrolla el contenido discriminatorio, pues es responsabilidad de las personas que lo 
+comparten; además, los algoritmos se basan en las conductas de los usuarios, 
+mostrándoles lo que es más probable que consuman.
+En esa línea, mencionó que se podría exigir a las plataformas la implementación de 
+políticas sobre publicaciones discriminatorias, pero recalcó que la discusión actual debería 
+centrarse en los usos de la inteligencia artificial y no en el contenido mismo.
+Por otra parte, apoyó la perspectiva de la diputada Labra, destacando la necesidad 
+de promover la accesibilidad a la inteligencia artificial, la no discriminación algorítmica y la 
+alfabetización en esta tecnología. Argumentó que estos elementos podrían incorporarse en 
+los principios y consideró que sería inadecuado atribuir a la inteligencia artificial funciones 
+que no puede desempeñar.
+Finalmente, propuso avanzar en la regulación de estos aspectos, pero expresó 
+escepticismo sobre la aplicación práctica de ciertos principios contenidos en preceptos 
+legales, como la igualdad de acceso o la diversidad cultural. En cambio, consideró más 
+factible promover la alfabetización y el acceso equitativo a la inteligencia artificial.
+El diputado Eric Aedo, Presidente, pidió a ministra Etcheverry que expusiera la 
+postura del Ejecutivo con respecto al literal e) del artículo 4 del proyecto de ley.
+La ministra Aisén Etcheverry destacó varios puntos importantes. En primer lugar, 
+explicó que la redacción de la indicación, basada en una propuesta de la diputada Labra, 
+establece que los sistemas de inteligencia artificial se desarrollarán y utilizarán promoviendo 
+la diversidad, la no discriminación y la equidad. Para ilustrarlo, mencionó el ejemplo de un 
+sistema como ChatGPT, diseñado para apoyar a niños en clases de Literatura, el cual 
+debería alimentarse con obras de diversos autores, épocas y perspectivas, asegurando 
+pluralidad en la educación.
+Además, señaló que la promoción de estos principios durante el desarrollo y la 
+utilización de la inteligencia artificial depende de la calidad y amplitud de los datos utilizados. 
+Por ejemplo, una inteligencia artificial sobre cambio climático debe considerar información 
+variada de ecosistemas diversos, como manglares, desiertos y la Antártica, incluyendo 
+perspectivas escépticas. Este enfoque, según la ministra, mejora la calidad de la 
+inteligencia artificial y es respaldado por muchas empresas.
+Sobre la segunda parte del literal e), que establece evitar efectos discriminatorios y 
+sesgos de selección o información, la secretaria de Estado mencionó que el Ejecutivo 
+agregó el componente “ilegal y arbitrario” para distinguir que no todo sesgo o efecto 
+discriminatorio es indebido. Como ejemplo, habló de la selección entre peras y manzanas, 
+que genera un sesgo sin ser ilegal o arbitrario. También subrayó que los verbos rectores 
+“promover” y “evitar” guían hacia un objetivo sin ser restrictivos.
+Finalmente, defendió la importancia de estos principios para garantizar que los 
+sistemas de inteligencia artificial sean de calidad, con supervisión humana, seguridad 
+técnica y respeto a la privacidad, con el objetivo de que aporten positivamente en lugar de 
+generar resultados inadecuados. Por ello, reafirmó la postura del Ejecutivo en defensa del 
+literal e) del artículo 4.
+La diputada Marcela Riquelme cuestionó los tiempos asignados para el debate en 
+la Comisión, recordando que la norma permitía solo dos intervenciones de cinco minutos 
+por indicación para agilizar el avance.
+6
+--- PÁGINA 7 ---
+El diputado Eric Aedo, Presidente, reconoció la validez del reclamo de la diputada 
+Riquelme, pero explicó que en ese momento se estaban debatiendo principios 
+fundamentales del proyecto, más allá de cuestiones técnicas. Señaló que era importante 
+permitir que cada diputado expresara su visión, dada la diversidad ideológica presente. A 
+modo de ejemplo, mencionó las posturas opuestas del diputado Kaiser y la suya con 
+respecto al rol del Estado, así como la evolución del diputado Lagomarsino, desde una 
+perspectiva cercana a la de la Unión Europea hasta una más alineada con Elon Musk.
+Finalmente, el Presidente reafirmó su decisión de escuchar las opiniones de los 
+diputados Lagomarsino, Palma y Labra antes de proceder a las votaciones, enfatizando la 
+necesidad de considerar la diversidad de puntos de vista en el debate.
+El diputado Tomás Lagomarsino utilizó ejemplos para expresar su postura sobre 
+el literal e) en discusión. Explicó que abrió ChatGPT y realizó dos solicitudes: primero, que 
+escribiera una frase homofóbica, a lo que ChatGPT respondió que no podía cumplir la 
+solicitud, porque era importante promover el respeto y la empatía hacia todas las personas, 
+independientemente de su orientación sexual. Luego, le solicitó que escribiera una frase 
+que discriminara a las mujeres, y ChatGPT contestó que no podía hacerlo, destacando que 
+la discriminación no contribuye a un entorno positivo y ofreció discutir temas relacionados 
+con igualdad o feminismo de manera respetuosa.
+Señaló que este comportamiento de la inteligencia artificial generativa demuestra 
+cómo se aplican principios en sistemas transversales. Sin embargo, afirmó que la indicación 
+planteada por el Ejecutivo, en los términos actuales, no sería aplicable, porque no 
+comprende cómo opera realmente la inteligencia artificial. Sugirió que, si se busca regular 
+explícitamente que los sistemas de inteligencia artificial generativa no puedan desarrollar 
+contenido discriminatorio, esto podría ser viable, pero solo con una formulación adecuada.
+El diputado Hernán Palma hizo una breve intervención comentando varios puntos 
+relacionados con la inteligencia artificial y su interacción con las redes sociales.
+En primer lugar, compartió una experiencia reciente en la que, mientras explicaba 
+temas delicados, como el consumo de drogas y el suicidio en contextos académicos, fue 
+bloqueado por un sistema de inteligencia artificial. Señaló que estas tecnologías no 
+contextualizan adecuadamente y, al malinterpretar su mensaje, asumieron que estaba 
+promoviendo conductas inapropiadas, cuando en realidad estaba informando sobre los 
+riesgos para educar a los jóvenes.
+Luego, destacó la preocupación por el acceso descontrolado de los niños a 
+dispositivos electrónicos, pantallas y redes sociales, algo que se había discutido 
+previamente esa misma mañana con otros diputados, como la señora Ximena Ossandón y 
+el señor Rubén Oyarzo. En ese sentido, criticó que muchos padres, madres o cuidadores 
+les entregan celulares a los niños para mantenerlos entretenidos o evitar molestias, lo que 
+consideró un descuido alarmante.
+Reflexionó sobre el problema de la inteligencia artificial y su incapacidad para 
+comprender el contexto. Explicó que estas tecnologías, al operar en redes sociales y otros 
+entornos, pueden malinterpretar el contenido de una conferencia o webinar sobre temas de 
+connotación compleja, como los discutidos en la sesión.
+Lo anterior podría llevar a interrupciones injustificadas, ya que la inteligencia artificial 
+no es capaz de distinguir entre una discusión informativa y un contenido inapropiado. Por 
+lo tanto, expresó su preocupación sobre cómo educar estas tecnologías para evitar 
+malentendidos que afecten la comunicación en escenarios relevantes.
+La diputada Paula Labra presentó una propuesta que se enfoca en la necesidad de 
+regular ciertos aspectos relacionados con la inteligencia artificial.
+Para ello, destacó que estos temas, además de ser relevantes, ya se consideran en 
+la legislación internacional, pero que es fundamental abordarlos desde una perspectiva 
+consensuada que apunte al fondo de los problemas que se quieren resolver, más allá de 
+ideologías.
+Como ejemplo, mencionó las ilegalidades en las contrataciones laborales en Chile, 
+explicando que es ilegal que un humano rechace a un postulante por motivos de raza o
+7
+--- PÁGINA 8 ---
+etnia. Sin embargo, advirtió que un sistema de inteligencia artificial programado para 
+discriminar podría filtrar automáticamente a ciertos candidatos sin que siquiera lleguen a 
+ser revisados por recursos humanos. Este tipo de situaciones demuestra la urgencia de 
+establecer regulaciones adecuadas.
+Propuso que la regulación contemple dos aspectos clave: evitar discriminaciones o 
+desigualdades arbitrarias y garantizar la equidad social en el acceso a las herramientas de 
+inteligencia artificial. Agregó que, por ejemplo, en regiones rurales, como la del Maule, es 
+crucial que las personas tengan el mismo acceso a estas tecnologías que quienes viven en 
+zonas urbanas.
+El diputado Eric Aedo, Presidente, propuso que se tomaran cinco minutos para 
+considerar la propuesta presentada por la diputada Paula Labra. Asimismo, solicitó al 
+Ejecutivo concordar la iniciativa con la diputada para, posteriormente, someterla a votación. 
+La Comisión aceptó sin objeciones, dando paso a un consenso para avanzar en la 
+discusión.
+Después de reanudar la sesión el Presidente solicitó a la señora Secretaria que diera 
+lectura a la indicación y la sometiera a votación.
+11 bis) De la diputada Labra y de los diputados Kaiser y Lagomarsino, para 
+reemplazar el literal e) del artículo 4 por el siguiente:
+“e) Diversidad y equidad social: Los usos de los sistemas de inteligencia artificial 
+deben ser accesibles y justos para todos los grupos de la sociedad, resguardando los 
+derechos fundamentales de las personas para evitar prácticas que refuercen desigualdades 
+y/o discriminaciones arbitrarias y/o ilegales.”.
+El diputado Eric Aedo, Presidente, solicitó a la Secretaria de la Comisión que 
+procediera a tomar la votación de la indicación.
+Puesta en votación la indicación, fue aprobada por unanimidad. Votaron a favor 
+las diputadas Paula Labra, Marcela Riquelme y Gael Yeomans y los diputados Eric Aedo, 
+Johannes Kaiser, Tomás Lagomarsino y Hernán Palma (7-0-0).
+Letra f)
+f) Bienestar social y medioambiental: los sistemas de IA se desarrollarán y utilizarán de 
+manera sostenible y respetuosa con el medio ambiente y los seres humanos. Por lo anterior, 
+los responsables de la introducción en el mercado, la puesta en servicio o la utilización de 
+los sistemas de IA deberán revisar los efectos a largo plazo que su aplicación genera en la 
+sociedad, la democracia y el medio ambiente.
+Indicaciones
+9 ter) Del diputado Palma para reemplazar la letra f) del artículo 4° del proyecto 
+por la siguiente:
+“f) Bienestar social y medioambiental: los sistemas de IA se desarrollarán y utilizarán 
+de manera sostenible y respetuosa con el medio ambiente y los seres humanos. Por lo 
+anterior, los responsables de la introducción en el mercado, la puesta en servicio o la 
+utilización de los sistemas de IA deberán revisar los efectos a largo plazo que su aplicación 
+genera en la sociedad, la democracia y el medio ambiente.”.
+12 bis) De la diputada Yeomans para reemplazar el literal f) del artículo 4 con el 
+siguiente:
+“f) Bienestar social y medioambiental: los sistemas de IA se desarrollarán y utilizarán 
+de manera sostenible y respetuosa con el medio ambiente y los seres humanos. Por lo 
+anterior, los responsables de la introducción en el mercado, la puesta en servicio o la 
+utilización de los sistemas de IA deberán revisar los efectos a largo plazo que su aplicación 
+genera en la sociedad, la democracia y el medio ambiente. Para esto, los operadores de 
+sistemas de IA deberán entregar informes anuales sobre al impacto medioambiental de los 
+sistemas que operan al Consejo Asesor Técnico, además de publicarlo en los canales de 
+difusión que dispongan, incluyendo redes sociales y páginas web.”.
+8
+--- PÁGINA 9 ---
+13) De la diputada Yeomans para reemplazar el literal f) del artículo 4 con el 
+siguiente
+“f) Bienestar social y medioambiental: los sistemas de IA se desarrollarán y utilizarán 
+de manera sostenible y respetuosa con el medio ambiente y los seres humanos. Por lo 
+anterior, los responsables de la introducción en el mercado, la puesta en servicio o la 
+utilización de los sistemas de IA deberán revisar los efectos a largo plazo que su aplicación 
+genera en la sociedad, la democracia y el medio ambiente. Para esto, los operadores de 
+los sistemas de IA deberán velar por que la fuente de energía que permita su 
+funcionamiento tenga la menor emisión de gases de efecto invernadero posible.”.
+Esta indicación fue retirada por su autora.
+El diputado Johannes Kaiser expresó su desacuerdo con la indicación propuesta, 
+pues, en su opinión, presenta serias limitaciones y dificultades prácticas. Según señaló, la 
+expresión “los sistemas de IA se desarrollarán y utilizarán de manera sostenible y 
+respetuosa con el medio ambiente” carece de claridad, debido a la falta de una definición 
+precisa del concepto de “sostenible”.
+Después, respecto de la frase “los responsables de la introducción en el mercado, 
+la puesta en servicio o la utilización de los sistemas de IA deberán revisar los efectos a 
+largo plazo que su aplicación genera en la sociedad”, señaló que aquello solo será posible 
+después de la realización de una prueba de campo prolongada que evalúe los impactos del 
+sistema en periodos de cinco, diez y quince años, por lo que solo después de eso sería 
+posible considerar la introducción de la tecnología al mercado.
+Asimismo, criticó la exigencia de que los operadores de sistemas de inteligencia 
+artificial entreguen informes anuales sobre el impacto medioambiental al consejo asesor 
+técnico y los publiquen en redes sociales y páginas web. Planteó que, si el uso de la 
+inteligencia artificial llegara a masificarse, se generaría una carga burocrática excesiva, con 
+millones de operadores obligados a presentar informes.
+Por último, sostuvo que la indicación no considera adecuadamente cómo funciona 
+el sistema en la práctica y que introducir tales requisitos burocráticos sería inviable y 
+contraproducente. Por ello, recomendó no incluir esta indicación en el proyecto de ley.
+La diputada Paula Labra expresó diversas inquietudes sobre la indicación 
+propuesta, ya que, a su juicio, genera confusiones, pues mezcla los conceptos de bienestar 
+social y medioambiente. Argumentó que el bienestar social ya está considerado en las 
+indicaciones previas, específicamente en los principios y objetivos del proyecto. En cuanto 
+al concepto de medioambiente, manifestó dudas sobre cómo se implementaría este 
+principio en la práctica.
+En ese sentido, mencionó que hay drones equipados con inteligencia artificial que 
+se utilizan en la agricultura, y agregó que estos drones, por ejemplo, podrían impactar 
+negativamente a las abejas en sus áreas de operación, lo que podría interpretarse como 
+una falta de respeto hacia el medioambiente.
+En ese contexto, concluyó que la implementación de dicho principio sería compleja 
+y expresó su desacuerdo con la indicación.
+La diputada Gael Yeomans aclaró que la definición de “operador”, utilizada en su 
+indicación, está basada en lo establecido en el artículo 3, número 10, del proyecto de ley. 
+Según esta definición, el operador incluye al proveedor, al implementador, al representante 
+autorizado, al importador y al distribuidor, descartando que se refiera a cualquier persona 
+de manera indiscriminada.
+Finalmente, expresó que este principio no busca restringir el desarrollo de la 
+inteligencia artificial, sino establecer parámetros que garanticen la sostenibilidad de la vida 
+humana y del medioambiente.
+La 
+ministra 
+Aisén 
+Etcheverry 
+destacó 
+la 
+relevancia 
+del 
+componente 
+medioambiental en el desarrollo de la inteligencia artificial, señalando que uno de los 
+principales desafíos del modelo de negocio de la inteligencia artificial es su alto consumo 
+energético. En ese sentido, planteó dos líneas de trabajo estratégicas para Chile.
+9
+--- PÁGINA 10 ---
+En primer lugar, dijo que el país cuenta con una producción de energías renovables 
+superior a la de muchos otros países, además de una cartera de inversiones en este ámbito 
+altamente atractiva para las industrias relacionadas con la inteligencia artificial.
+Luego, sugirió que elevar los estándares medioambientales no solo contribuiría al 
+cuidado del medioambiente, sino que también sería una oportunidad estratégica para el 
+desarrollo económico del país, permitiendo que Chile se convierta en un centro para 
+infraestructuras vinculadas con la inteligencia artificial.
+En segundo lugar, destacó los esfuerzos del país en descarbonización y su 
+compromiso internacional al 2050, mencionando la existencia de una industria incipiente en 
+refrigeración de data centers para inteligencia artificial.
+Por último, resaltó que estos avances, junto con las iniciativas estatales en energías 
+renovables, como la energía solar en el norte y el hidrógeno verde en el sur, posicionan a 
+Chile como un actor estratégico en el desarrollo de una industria sustentable.
+El diputado Tomás Lagomarsino planteó la importancia de diferenciar entre 
+hardware y software en el contexto de la regulación de la inteligencia artificial. Explicó que 
+el hardware corresponde a los componentes físicos, mientras que el software se refiere a 
+los sistemas informáticos compuestos por algoritmos y códigos.
+Por otro lado, destacó ciertos elementos de la propuesta del Ejecutivo como 
+relevantes y susceptibles de ser aplicados. En ese sentido, presentó una indicación propia, 
+proponiendo que el consejo asesor técnico revise periódicamente que los sistemas de 
+inteligencia artificial se desarrollen y utilicen de manera sostenible y respetuosa con los 
+seres humanos y la sociedad. Además, sugirió que dicho organismo evalúe los efectos a 
+largo plazo y consideró que su propuesta incorporaba los aspectos más aplicables del 
+Ejecutivo, en consonancia con los principios del proyecto de ley.
+El diputado Johannes Kaiser manifestó que coincidía en gran medida con los 
+planteamientos realizados por el diputado Lagomarsino y destacó que la legislación 
+ambiental vigente aborda adecuadamente los impactos asociados a la aplicación de 
+tecnologías. En este contexto, señaló que la norma en cuestión complicaba más de lo que 
+facilitaba la implementación del resto de la normativa legal relacionada.
+Asimismo, recordó que el objeto de la discusión era un software, lo que hacía 
+parecer desproporcionadas las restricciones específicas contempladas en esta norma. 
+Planteó que esas restricciones se sumaban innecesariamente a las ya existentes dentro 
+del marco de la legislación medioambiental actual.
+El diputado Hernán Palma realizó una observación de carácter semántico. Según 
+señaló, los términos “sostenible” y “sustentable” no son exactamente equivalentes, aunque 
+a menudo se utilizan como sinónimos. Explicó que “sostenible” se refiere al no agotamiento 
+de los recursos a lo largo del tiempo, mientras que “sustentable” está relacionado con la 
+justificación o fundamentación de algo.
+Finalmente, indicó que esta distinción podría influir en la interpretación de la 
+intención del texto en discusión.
+El diputado Eric Aedo, Presidente, estableció que había claridad sobre cambiar el 
+concepto a “sustentable”. Dicho eso, puso en votación la indicación de la diputada 
+Yeomans, con esa modificación.
+Puesta en votación la indicación, fue aprobada por mayoría, con los votos a favor 
+de las diputadas Marcela Riquelme y Gael Yeomans y de los diputados Eric Aedo y Hernán 
+Palma. Votaron en contra la diputada Paula Labra y el diputado Johannes Kaiser. Se 
+abstuvo el diputado Tomás Lagomarsino (4-2-1).
+Letra g)
+g) Rendición de cuentas y responsabilidad: los sistemas de IA deberán proporcionar un 
+correcto funcionamiento a lo largo de su ciclo de vida por parte de quienes los diseñan, 
+desarrollan, operan o despliegan, en relación con sus funciones propias.
+Indicaciones
+10
+--- PÁGINA 11 ---
+9 ter) Del diputado Palma para reemplazar la letra g) del artículo 4° del proyecto 
+por el siguiente:
+“g) Rendición de cuentas y responsabilidad: los sistemas de IA deberán proporcionar 
+un correcto funcionamiento a lo largo de su ciclo de vida por parte de quienes los diseñan, 
+desarrollan, operan o despliegan, en relación con sus funciones propias y/o utilización.”.
+Retirada por su autor.
+12) Del Ejecutivo al artículo 4 para modificarlo en el siguiente sentido:
+b) Agrégase, en el literal g), antes del punto final, la expresión “y/o utilización”.
+13 bis) De las diputadas Marta González y Natalie Castillo y del diputado 
+Ramírez para reemplazar el literal g) del artículo 4 por el siguiente:
+“g) Rendición de cuentas y responsabilidad: los sistemas de IA deberán proporcionar 
+un correcto funcionamiento y trazabilidad a lo largo de su ciclo de vida por parte de quienes 
+los diseñan, desarrollan, operan o despliegan, en relación con sus funciones propias, como 
+medio de rendición de cuentas y atribución de responsabilidades a una persona física o 
+jurídica para la reparación integral de los daños.”.
+14) Del diputado Lagomarsino para realizar las siguientes modificaciones al 
+artículo 4:
+a. Agréguese a continuación del punto final de la letra g) la siguiente frase: 
+“Igualmente deberán ser capaces de proporcionar los datos con los que fueron entrenados 
+en función de la letra e) del Artículo 8 de esta Ley.”.
+El diputado Tomás Lagomarsino expresó que la propuesta de la diputada Marta 
+González aborda adecuadamente su preocupación, por lo que manifestó su disposición a 
+retirar su indicación en caso de que se aprobara la de la diputada González.
+La ministra Aisén Etcheverry manifestó la preocupación del Ejecutivo respecto de 
+la viabilidad técnica de implementar la propuesta relativa a señalar los datos utilizados. 
+Según explicó, generalmente los volúmenes de datos son grandes, en muchos casos 
+indefinidos y, en ocasiones, carecen de fuente. Si bien reconoció que la idea parecía 
+positiva en la teoría, manifestó dudas significativas sobre su aplicación práctica, debido a 
+estas limitaciones.
+El diputado Eric Aedo, Presidente, expresó que, a su juicio, la única manera de 
+abordar la situación sería someter a votación las indicaciones y rechazarlas, dejando así 
+vigente el texto propuesto por el Ejecutivo.
+Indicó que esta acción respondería a la preocupación manifestada por la ministra, 
+quien solicitó que se rechazaran las indicaciones y se aprobara la propuesta 
+gubernamental.
+El diputado Eric Aedo, Presidente, puso en votación la propuesta de las diputadas 
+Marta González y Natalie Castillo y del diputado Matías Ramírez.
+Puesta en votación, la indicación fue rechazada por mayoría de votos. Votaron a 
+favor la diputada Marcela Riquelme y los diputados Tomás Lagomarsino y Hernán Palma; 
+votaron en contra las diputadas Paula Labra y Gael Yeomans y los diputados Eric Aedo y 
+Johannes Kaiser (3-4-0).
+El diputado Eric Aedo, Presidente, solicitó a la señora Secretaria que procediera a 
+tomar la votación de la indicación 14, letra a), del diputado Tomás Lagomarsino.
+Puesta en votación, la indicación fue rechazada por mayoría de votos. Votaron a 
+favor los diputados Tomás Lagomarsino y Hernán Palma; votaron en contra las diputadas 
+Paula Labra, Marcela Riquelme y Gael Yeomans y los diputados Eric Aedo y Johannes 
+Kaiser (2-5-0).
+El diputado Eric Aedo, Presidente, sometió a votación, en conjunto, la indicación 
+12 y el artículo 4, ambos del Ejecutivo.
+11
+--- PÁGINA 12 ---
+Puestos en votación, la indicación y el artículo fueron aprobados por mayoría, con 
+los votos a favor de las diputadas Paula Labra, Helia Molina, Marcela Riquelme y Gael 
+Yeomans y de los diputados Eric Aedo y Johannes Kaiser. Se abstuvo el diputado Tomás 
+Lagomarsino (6-0-1).
+Letra h)
+h) Protección de los derechos de los consumidores: los sistemas de IA se desarrollarán y 
+utilizarán de conformidad con las normas vigentes en materia de protección de los derechos 
+de los consumidores, debiendo asegurar el trato justo, entrega de información veraz, 
+oportuna y transparente y el resguardo a la libertad de elección y la seguridad en el 
+consumo.
+Indicaciones
+9 ter) Del diputado Palma para reemplazar la letra h) del artículo 4° del proyecto 
+por el siguiente:
+“h) Protección de los derechos de los consumidores: los sistemas de IA se 
+desarrollarán y utilizarán de conformidad con las normas vigentes en materia de protección 
+de los derechos de los consumidores, debiendo asegurar el trato justo, entrega de 
+información veraz, oportuna y transparente y el resguardo a la libertad de elección y la 
+seguridad en el consumo.”.
+El diputado Eric Aedo, Presidente, puso en votación la indicación 9 ter), literal h), 
+del diputado Hernán Palma.
+Puesta en votación, la indicación fue aprobada por unanimidad, con los votos a 
+favor de las diputadas Paula Labra, Marcela Riquelme y Gael Yeomans y de los diputados 
+Eric Aedo, Johannes Kaiser, Tomás Lagomarsino y Hernán Palma (7-0-0).
+Letra i)
+Indicaciones
+9 ter) Del diputado Palma para agregar la siguiente letra i) en el artículo 4° del 
+proyecto por el siguiente:
+“i) Equidad de género: se propenderá a que los sistemas de IA se desarrollen y 
+utilicen como una herramienta para la promoción de igualdad de género y para la 
+eliminación de cualquier discriminación basada en el género. Los datos utilizados para 
+entrenar los sistemas deberán estar libres de sesgos de género, y los algoritmos deberán 
+diseñarse de manera tal que eviten la reproducción de las desigualdades de género 
+existentes.”.
+12) Del Ejecutivo al artículo 4 para modificarlo en el siguiente sentido:
+c) Agrégase, a continuación del literal h), el siguiente literal i), nuevo:
+“i) Igualdad de género: se propenderá a que los sistemas de IA se desarrollen y 
+utilicen como una herramienta para la promoción de igualdad de género y para la 
+eliminación de cualquier discriminación basada en el género. Los datos utilizados para 
+entrenar los sistemas deberán estar libres de sesgos de género, y los algoritmos deberán 
+diseñarse de manera tal que eviten la reproducción de las desigualdades de género 
+existentes.”.
+12 ter) De la diputada Yeomans para reemplazar el literal i) del artículo 4 con el 
+siguiente:
+“i) Equidad de género: se propenderá a que los sistemas de IA se desarrollen y 
+utilicen como una herramienta para la promoción de igualdad de género y para la 
+eliminación de cualquier discriminación o violencia basada en el género. Los algoritmos 
+deberán diseñarse de manera tal que eviten la reproducción de las desigualdades de 
+género existentes.”.
+12
+--- PÁGINA 13 ---
+El diputado Johannes Kaiser hizo presente que el particular se había abordado a 
+propósito de la aprobación de la indicación de la diputada Paula Labra, por lo que 
+consideraba innecesario repetir la discusión.
+La diputada Paula Labra coincidió con el diputado Johannes Kaiser en que el 
+principio de diversidad y equidad social se había aprobado en razón de su indicación.
+Recordó que, al respecto, se concluyó que la idea era ser justos con todos los grupos 
+de la sociedad, mediante el resguardo de los derechos fundamentales y la elusión de toda 
+forma de desigualdad o discriminación arbitraria, ya sea por género, discapacidad u otras 
+razones.
+El diputado Johannes Kaiser consultó a la señora Secretaria si la indicación era 
+inadmisible por ser contraria a lo ya aprobado.
+La señora María Soledad Fredes, Secretaria, respondió que no la consideraba 
+incompatible.
+El diputado Eric Aedo, Presidente, coincidió en que el tema ya había sido abordado 
+y propuso proceder a la votación.
+La diputada Gael Yeomans señaló que había sostenido una conversación con el 
+diputado Tomás Lagomarsino en la que se planteó que los algoritmos debían diseñarse 
+para evitar la reproducción de desigualdades de género existentes. En este sentido, 
+manifestó que la indicación del diputado Palma era más específica en comparación con el 
+principio general que se había discutido sobre discriminación, porque establece que “los 
+algoritmos deberán diseñarse de manera tal que eviten la reproducción de las 
+desigualdades de género existentes.”.
+Basada en lo anterior, la parlamentaria dijo que la indicación del diputado podía ser 
+un aporte relevante en relación con los algoritmos generativos.
+El diputado Tomás Lagomarsino destacó la importancia de reincorporar un 
+principio que fue excluido del proyecto original, relacionado con las fake news, porque los 
+sistemas de inteligencia artificial generativos deben estar diseñados para impedir la 
+creación de contenido discriminatorio, pornográfico -como ocurrió en Chile- o destinado a 
+la suplantación de identidad mediante recursos auditivos o audiovisuales. Agregó que este 
+principio, aunque relacionado con otros, es distinto y debe estar claramente definido, por lo 
+que se ofreció para colaborar en la redacción de una propuesta junto con la diputada 
+Yeomans.
+El diputado Eric Aedo, Presidente, sometió a votación la indicación 9 ter), literal i), 
+del diputado Hernán Palma.
+Puesta en votación, la indicación fue rechazada por no alcanzar el quorum de 
+aprobación. Votaron a favor las diputadas Marcela Riquelme, Gael Yeomans y el diputado 
+Hernán Palma; votaron en contra la diputada Paula Labra y los diputados Eric Aedo y 
+Johannes Kaiser. Se abstuvo el diputado Tomás Lagomarsino (3-3-1).
+La diputada Gael Yeomans hizo uso de la palabra para explicar que su indicación 
+para reemplazar el literal i) se refería a los algoritmos, no a los datos, como en la indicación 
+anterior. Explicó que los datos no pueden contener sesgos de género, pero los algoritmos 
+pueden reproducirlos y, por tanto, consideraba que su indicación estaba mejor redactada.
+El diputado Tomás Lagomarsino propuso modificar la redacción de la indicación 
+12 ter), de la diputada Gael Yeomans, para agregar la palabra generativos después de la 
+expresión “los sistemas de IA”, de modo tal que la referencia a los sistemas relacionados 
+con la generación de contenido fuera más específica.
+La diputada Gael Yeomans indicó que estaba de acuerdo con incorporar esa 
+especificación en el texto, y propuso agregar la palabra generativos después de la palabra 
+algoritmos.
+El diputado Johannes Kaiser cuestionó la aplicabilidad de la indicación 12 ter), 
+porque, desde su perspectiva, introduce un objetivo político e ideológico en la programación 
+de los algoritmos, como evidencia su redacción. Como ejemplo de objetivo político e
+13
+--- PÁGINA 14 ---
+ideológico, entre otros elementos, destacó que se hiciera referencia a cualquier 
+discriminación y no a la discriminación arbitraria.
+Además, señaló que la mayoría de los sistemas de IA no están diseñados para 
+contextos relacionados con redes o asuntos sociales, sino para tareas específicas, como el 
+manejo de datos técnicos. Por tanto, según el parlamentario, imponer una norma de esta 
+naturaleza sería incompatible con muchas aplicaciones técnicas de la IA, por ejemplo, la 
+destinada a medir la producción de leche en máquinas ordeñadoras.
+Sostuvo que establecer obligaciones ideológicas en los algoritmos puede dificultar 
+su desarrollo en el país y que el espacio para aquello son las empresas que los requieran 
+para cumplir con las necesidades del público.
+Por último, precisó que no apoya algoritmos que violen derechos fundamentales, 
+pero que considera inapropiado exigir que los sistemas de IA cumplan funciones que, en su 
+opinión, corresponden a la Iglesia, al sistema educacional o a la sociedad civil a través de 
+los partidos políticos.
+La diputada Gael Yeomans reconoció que era relevante especificar que se trata de 
+discriminación arbitraria y/o ilegal. Por ello, propuso complementar la redacción de la 
+indicación 12 ter) de manera que, tras la palabra discriminación, se añadiera arbitraria y/o 
+ilegal.
+La diputada Paula Labra, a partir de que la indicación 12 ter) establece que “se 
+propenderá a que los sistemas de IA se desarrollen y utilicen como una herramienta para 
+la promoción de igualdad de género.”, preguntó de qué manera se desarrollarán los 
+sistemas de inteligencia artificial para que efectivamente promuevan la igualdad de género.
+La diputada Gael Yeomans explicó que, en el contexto de la discusión sobre los 
+principios, se ha hablado de algoritmos y de su relación con criterios amplios de promoción 
+establecidos en dichos principios. Señaló que, en este caso, la labor de promover se alinea 
+con esos criterios generales e hizo una comparación con la promoción del acceso con 
+igualdad, porque se sigue el mismo enfoque.
+El diputado Eric Aedo, Presidente, puso en votación la indicación 12 ter), en los 
+términos propuestos por la diputada Yeomans.
+Puesta en votación, la indicación fue aprobada por mayoría, con los votos a favor 
+de las diputadas Gael Yeomans y Marcela Riquelme y de los diputados Eric Aedo, Tomás 
+Lagomarsino y Hernán Palma. Votaron en contra la diputada Paula Labra y el diputado 
+Johannes Kaiser (5-2-0).
+Letra j)
+Indicaciones
+9 ter) Del diputado Palma para incorporar la siguiente letra j) en el artículo 4° del 
+proyecto por el siguiente:
+j) Derechos de autor y derechos conexos: Los sistemas de IA se desarrollarán y 
+utilizarán en estricto apego a la regulación de derecho de autor vigente y a los tratados 
+internacionales suscritos y ratificados por Chile que regulan la materia.
+11) De la diputada Labra al artículo 4º:
+iv. Para incorporar una letra i), nueva, del siguiente tenor:
+“i) Protección de los derechos de autor: los sistemas de IA se desarrollarán y 
+utilizarán de conformidad con las normas vigentes en materia de propiedad intelectual.”.
+12) Del Ejecutivo al artículo 4 para modificarlo en el siguiente sentido:
+d) Agrégase, a continuación del literal i), nuevo, el siguiente literal j), nuevo:
+“j) Derechos de autor y derechos conexos: Los sistemas de IA se desarrollarán y 
+utilizarán en estricto apego a la regulación de derecho de autor vigente y a los tratados 
+internacionales suscritos y ratificados por Chile que regulan la materia.”.
+14
+--- PÁGINA 15 ---
+14) Del diputado Lagomarsino para realizar las siguientes modificaciones al 
+artículo 4:
+b. Agréguese una nueva letra i) del siguiente tenor:
+“i) Protección de los derechos de autor y conexos: los sistemas de IA se 
+desarrollarán y utilizarán de conformidad con las normas vigentes en materia de protección 
+de los derechos de autor y conexos, debiendo asegurar que no utilizarán datos de obras 
+protegidas sin mediar el consentimiento de sus respectivos titulares.”
+15) Del diputado Oyarzo al artículo 4, para incorporar una letra i) nueva, del 
+siguiente tenor:
+“i) Protección de la Propiedad intelectual y los derechos de autor: los sistemas de IA 
+se desarrollarán y utilizarán de conformidad con las normas vigentes en materia de 
+propiedad intelectual y derechos de autor, velando por resguardar las creaciones artísticas 
+y su originalidad de las amenazas que la IA pueda representarles.”.
+15 bis) De las diputadas Marta González y Natalie Castillo y del diputado 
+Ramírez para incorporar en el artículo 4 un literal i) nuevo del siguiente tenor:
+“i) Protección de los derechos de autor y conexos: Los sistemas de IA se 
+desarrollarán y utilizarán conforme a las normas vigentes en materia de protección del 
+derecho de autor y de los derechos conexos a ellos.”.
+El diputado Tomás Lagomarsino abordó tres indicaciones que consideró 
+pertinentes y comprendidas dentro de una mayor, específicamente las planteadas por el 
+Ejecutivo, la diputada Labra y el diputado Palma.
+Destacó que la primera incorporaba mejoras importantes, como la inclusión de 
+tratados internacionales suscritos y ratificados por Chile que regulan la materia, aunque 
+sugirió que también se debía asegurar explícitamente que no se utilizarían datos de obras 
+protegidas sin el consentimiento de sus respectivos titulares. Insistió en que, si bien este 
+aspecto está contenido en la normativa de derechos de autor, era importante explicitarlo.
+Por último, se refirió a la distinción entre derechos de autor y derechos conexos, 
+aclarando que estos aluden a aspectos como la interpretación musical. A modo de ejemplo, 
+explicó que una obra de Mozart podría estar protegida por derechos de autor, mientras que 
+su interpretación por la Orquesta Sinfónica de Chile estaría protegida por derechos 
+conexos, los cuales también incluyen la producción musical, la edición y la difusión. Por lo 
+tanto, consideró apropiado abordar ambos tipos de derechos de manera conjunta.
+La señora Paloma Herrera, asesora legislativa del ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación, señaló que el Ejecutivo buscaba incluir un 
+principio sobre la protección de los derechos de autor. Reconoció que, aunque la indicación 
+presentada por el diputado Lagomarsino abordaba este tema, existían problemas técnicos 
+para asegurar que no se utilizarían datos de obras protegidas; sin embargo, a pesar de 
+estas dificultades, se había mantenido el principio de proteger los derechos de autor y se 
+aplicaría la normativa vigente en esta materia.
+El diputado Johannes Kaiser planteó que el uso de una propiedad protegida que 
+se ha comprado para este fin no necesariamente constituye una violación del derecho de 
+propiedad. Como ejemplo, dijo que adquirir un ejemplar de un libro o una canción permite 
+a la persona utilizarlos de diversas maneras y, si decide entrenar una inteligencia artificial 
+con ese contenido, mientras no sea para uso comercial, está dentro de sus derechos, ya 
+que ha adquirido el producto o un derecho relacionado.
+Enseguida, propuso que se revisara este asunto la siguiente semana, dado que el 
+tiempo disponible era limitado.
+El diputado Eric Aedo, Presidente, propuso que, antes de concluir la sesión, se 
+sometieran a votación las dos indicaciones más alejadas entre sí, presentadas por la 
+diputada González y el diputado Oyarzo. Así, posteriormente podrían concentrarse en 
+coordinar las tres propuestas que era factible complementar: la del Ejecutivo, la del diputado 
+Palma y la de la diputada Labra.
+15
+--- PÁGINA 16 ---
+Solicitó, entonces, la unanimidad para proceder a votar las dos indicaciones, lo que 
+fue acordado.
+Puestas en votación conjuntamente, fueron rechazadas por unanimidad, con los 
+votos en contra de las diputadas Paula Labra, Marcela Riquelme y Gael Yeomans y de los 
+diputados Eric Aedo, Johannes Kaiser, Tomás Lagomarsino y Hernán Palma (0-7-0).
+******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 19:27 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+16

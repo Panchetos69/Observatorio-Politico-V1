@@ -1,0 +1,1254 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=21990&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : Margarita Maria Risopatron Lemaitre
+EXTRAIDO : 2026-03-29 04:38:56
+======================================================================
+
+--- PÁGINA 1 ---
+COMISIÓN DE CONSTITUCIÓN, LEGISLACIÓN, JUSTICIA Y
+REGLAMENTO 
+PERÍODO LEGISLATIVO 2022-2026 
+Acta de la sesión 43ª, ordinaria, mixta/ 370ª Legislatura 
+Celebrada el martes 4 de octubre del año 2022, de 15:07 a 17:00 hrs.
+Con el propósito de continuar con la discusión y votación en particular 
+del proyecto de ley que “Regula la protección y tratamiento de datos 
+personales y crea la Agencia de Protección de Datos Personales”, en 
+segundo trámite constitucional, Boletines refundidos N°s 11.144-07 (S) y 
+11.092-07 (S). Urgencia suma. 
+- Discusión particular: Se despachó del numeral 7) la indicación (que estaba 
+pendiente) del diputado Soto al artículo 14 ter que remplazada la parte final del 
+literal d); el artículo 14 quinquies; el artículo 14 sexies; el artículo 14 septies; el 
+artículo 15; el artículo 15 bis; la indicación del diputado Soto y Calisto que 
+suprimió el artículo 15 ter; indicación que agrega un nuevo artículo 15 ter 
+(antes quáter); el artículo 16; el artículo 16 bis, el artículo 16 ter y el artículo 16 
+quáter. 
+- Se encuentra pendiente la indicación al artículo 13, que elimina su literal a) 
+(página 48 del comparado) y la indicación que elimina el literal i) del numeral 4) 
+del artículo primero, sobre concepto de fuente de acceso público (página 9 del 
+comparado). Se recuerda que las indicaciones de los diputados Soto (página 
+2) y Longton (página 3), que establecen excepciones a la aplicación de la ley 
+en determinados casos asociados a la persecución penal, serán revisadas 
+conjuntamente cuando se discuta el artículo 24 del proyecto.
+ASISTENCIA 
+ 
+Asisten, presencialmente, los siguientes miembros de la Comisión, 
+diputados (as) señores (as) Karol Cariola (Presidenta de la Comisión), Jorge 
+Alessandri, Felipe Donoso (en remplazo del diputado Gustavo Benavente), 
+Miguel Ángel Calisto, Marcos Ilabaca, Pamela Jiles, Raúl Leiva, Andrés 
+Longton, Catalina Pérez, Luis Sánchez, Leonardo Soto y Gonzalo Winter.
+Concurre, en calidad de invitado, la Ministra Secretaria General de la 
+Presidencia, señora Ana Lía Uriarte, acompañada de la señora Lizzi Seaman, 
+asesora de la División Jurídica – Legislativa del Ministerio Secretaría General 
+de la Presidencia. Confirman su asistencia los siguientes expositores, en 
+calidad de oyentes: la señora Bárbara Martinez, en representación del Servicio 
+Nacional del Consumidor; el señor Bruno Gencarelli, Jefe de la Unidad de 
+Protección y Flujo de Datos Internacionales en la Comisión Europea; la señora 
+Paulina Silva, de la Alianza Chilena de Ciberseguridad; la señora Macarena
+1
+--- PÁGINA 2 ---
+Gatica, abogada experta en protección de datos personales, socia del estudio 
+jurídico Alessandri; la señora Romina Garrido, investigadora asociada GobLab 
+Universidad Adolfo Ibáñez Escuela de Gobierno; la señora Jessica Matus, de la 
+ONG Datos Protegidos; el señor Pablo Trigo, investigador CEDI Universidad de 
+Chile; el señor Marcelo Drago, ex Presidente del Consejo para la 
+Transparencia; por la Asociación de Bancos e Instituciones Financieras de 
+Chile, los señores José Manuel Mena, presidente y Luis Opazo, gerente 
+general; el señor Juan Esteban Laval, fiscal, y Matías Bernier, gerente de 
+Estudios; el señor Claudio Magliona, miembro del grupo legal de la Asociación 
+de Empresas Chilenas de Tecnología de la Información A.G.; el señor Luis 
+Alberto Jara, de la Asociación Gremial de Empresas Fintech;
+Está presente, en calidad de abogado secretario, el señor Patricio 
+Velásquez Weisse y el abogado señor Fernando García Leiva; de forma 
+remota la abogada Margarita Risopatrón Lemaître y la secretaria señora 
+Cecilia Césped Riquelme.
+ACTAS
+El acta de la sesión 40 se da aprobada por no haber sido objeto de 
+observaciones.
+Las actas de las sesiones 41 y 42 quedan a disposición de las señoras y 
+señores diputados.
+Actas disponibles:  
+https://www.camara.cl/legislacion/comisiones/sesiones.aspx?prmID=1724
+CUENTA 
+ 
+El señor abogado secretario da cuenta de los documentos llegados a 
+la Comisión:
+1. Remplazo para la sesión de hoy, en la que el diputado Felipe Donoso
+Castro remplazará al diputado Gustavo Benavente Vergara. 
+- 
+Se tiene presente. 
+ 
+2. Correo electrónico que confirma la asistencia, a la sesión de hoy, de la
+Ministra Secretaria General de la Presidencia, señora Ana Lya Uriarte. 
+- 
+Se tiene presente.
+2
+--- PÁGINA 3 ---
+3. Se han recibido las siguientes mociones:
+• Proyecto iniciado en moción de los diputados señores Videla; Bernales y
+Malla, que “Modifica el Código Penal para tipificar el delito de 
+sustracción de minerales”, Boletín N° 15385-07.
+• Proyecto iniciado en moción de los diputados señores Romero, don
+Agustín: Araya, don Cristián, y Kaiser, que “Modifica la Carta 
+Fundamental en materia de seguridad comunal”, Boletín N° 15390-07
+• Proyecto iniciado en moción por el diputado señor Arroyo, que #Modifica
+la Carta Fundamental para establecer el voto obligatorio en elecciones y 
+plebiscitos contemplados en la Constitución y las leyes”, Boletín N° 
+15392-07.
+• Proyecto iniciado en moción de los diputados señores Labbé;
+Alessandri; Benavente; Coloma; Cornejo; Donoso; Lilayu y Martinez, y 
+de las diputadas señoras Romero, doña Natalia y Weisse, que “Modifica 
+la Carta Fundamental para hacer procedente el mecanismo de 
+acusación constitucional contra los embajadores”, Boletín N° 15393-07.
+- 
+A sus antecedentes. 
+ 
+4. Se recibieron las siguientes confirmaciones para la sesión de hoy: 
+ 
+En calidad de oyentes han confirmado:
+• Sr. Bruno Gencarelli, Jefe de la Unidad de Protección y Flujo de Datos
+Internacionales en la Comisión Europea. 
+• Sra. Macarena Gatica, Abogada experta en protección de datos. 
+• Sra Paulina Silva, por  AMCHAM (Cámara Chilena Norteamericana). 
+• Sra. Andrea Ruiz, Profesora Derecho Administrativo UAH 
+• Sr. Alejandro González, Jefe (S) de Unidad Normativa y Regulación del
+Consejo para la Transparencia.  Le acompaña el analista del Consejo, 
+Carlo Benussi. 
+• Sr. Pablo Trigo, Investigador CEDI U de Chile. 
+• Sr. Marcelo Drago, Ex Presidente del Consejo para la Transparencia. 
+• Sr. Gonzalo Vergara, en representación del Sernac. 
+ 
+Asociación Latinoamericana ALAI
+• Sr. Raúl Echeberría, Director Ejecutivo.
+3
+--- PÁGINA 4 ---
+• Sr. Gabriel Parra. 
+• Sra. Verónica Mery
+Fiscalía Nacional del Ministerio Público
+• Sra. Marta Herrera, Directora de la U. de Asesoría Jurídica de la Fiscalía
+Nacional. 
+• Sra. Carolina Cruzat, abogada asesora de la misma unidad. 
+ 
+Asociación de Bancos e Instituciones Financieras de Chile.
+• Sr. José Manuel MENA, Presidente.
+• Sr. Luis Opazo R., Gerente General.
+• 
+Sr. Juan Esteban Laval Z., Fiscal.
+• 
+Sr. Matías Bernier Bórquez, Gerente de Estudios Asociación de Bancos.
+5. ORD. 5826 del Ministerio de Justicia y Derechos Humanos, por el cual
+remite cronograma y estado de avance de la implementación de la ley 
+N° 21.057 sobre entrevistas video grabadas.
+ACUERDOS
+Durante la sesión, se adoptaron los siguientes acuerdos: 
+ 
+1.- Oficiar a la Ministra de Justicia y Derechos Humanos, al Director Nacional 
+de Gendarmería de Chile y al señor Contralor General de la República, con el 
+objeto de que remitan los antecedentes de que dispongan del caso detectado 
+por Contraloría que da cuenta de la falta de justificación de 18.809.093.010 mil 
+millones de pesos por parte de Gendarmería de Chile por concepto de pago de 
+remuneraciones durante el 1 de julio del 2020 y el 31 de julio del 2021, y que 
+consta en el informe N° 785/2021 del 13 de septiembre del 2022. 
+ 
+En particular, a Contraloría General de la República se le requiere 
+remitir dicho informe e informan si existen, por parte de las autoridades y 
+organismos involucrados, la adopción de medidas pertinentes y la 
+implementación de acciones que en cada caso señala el referido informe. 
+ 
+En el mismo sentido, al Ministerio de Justicia y Derechos Humanos y al 
+Director de Gendarmería de Chile, se les solicita informar a la brevedad la 
+fecha en que fueron notificados de los pre informes de Contraloría, las 
+acciones o medidas que dispusieron de forma inmediata, intermedia y en la 
+actualidad, así como también de las acciones o medidas, reformas o
+4
+--- PÁGINA 5 ---
+modificaciones reglamentarias, que tiene en consideración para mejorar el 
+proceso de control de pago de remuneraciones a través de un sistema de 
+validación, y las responsabilidades disciplinarias y legales detectadas a la 
+fecha, como así mismo si los antecedentes fueron o no derivados al Consejo 
+de Defensa del Estado o al Ministerio Público en caso de poder constituir 
+delito. 
+ 
+2.- Destinar la mitad de una sesión próxima, por definir en cuanto a su fecha, 
+para recibir a la Ministra de Justicia y Derechos Humanos y al Director de 
+Gendarmería de Chile, para que informen sobre los hechos vinculados a la 
+auditoría que llevó adelante la Contraloría General de la República en relación 
+a eventuales irregularidades e ilegalidades en el proceso de pago de sueldos 
+de personal de Gendarmería, Informe N° 785/2021 del 13 de septiembre del 
+2022.
+-----
+PUNTOS VARIOS
+La diputada señorita Cariola (Presidenta) indicó que tomo conocimiento 
+del resultado de una auditoría llevaba a cabo por la Contraloría General de la 
+República, donde 18 mil millones de pesos por concepto de pago de sueldos 
+no se encontrarían justificados por parte de Gendarmería de Chile.
+Según la información que maneja, este servicio aún no ha dado cuenta 
+del destino de dichos fondos, y el informe constató falencias en el sistema de 
+pago, irregularidades e ilegales, con depósitos sin identificar o incompletas, 
+como también debilidades en los sistemas informáticos, tales como personas 
+desvinculadas que aún aparecen en la planilla de pago.
+La Presidenta indica que es muy grave, y que el periodo que abarca la 
+auditoría corresponde a los años 2020 a 2021, y que a la fecha pareciere no 
+haber acciones para revertir este asunto.
+Han conocido de otras situaciones de igual complejidad, como el caso 
+Paco Gate, para lo cuál el Estado debe tener un comportamiento apegado al 
+buen uso de los recursos públicos.
+Siendo así, solicita el acuerdo para oficiar y solicitar antecedentes al 
+Ministerio de Justicia y Gendarmería, tales como: cuáles son las medidas que 
+se han tomado desde el conocimiento de este informe, la fecha en que fueron 
+notificando, y las medidas concretas que se han planificado. Misma 
+información se solicita hacer a Contraloría. 
+En el mismo sentido, cree que todos los antecedentes deben ser puesto a 
+disposición del Ministerio público.
+5
+--- PÁGINA 6 ---
+El diputado señor Ilabaca indicó que los datos entregados son muy 
+importantes, sobre todo en una institución como Gendarmería que tiene a 
+cargo la ejecución de las sentencias penales, la que por cierto no goza de 
+todos los beneficios que sus pares de seguridad interior, calificándolos como el 
+pariente pobre, con remuneración bajas. Así, cuando se dan estas situaciones, 
+las y los parlamentarios están obligados a investigar.
+Con todo, solicita fijar en breve plazo una parte de una sesión para 
+consultarle a la Ministra de Justicia en la Comisión, en conjunto al Director de 
+Gendarmería, para que den la cara y nos expliquen en detalle este asunto, que 
+es de la máxima gravedad.
+El diputado señor Soto manifiesta conocer el informe, Número 785-21, 
+años 2020 y 2021, realizado al departamento de finanzas y remuneraciones de 
+Gendarmería, donde detectó que, del total de remuneraciones, el 7% no está 
+documentado.
+La auditoría constató que se giro y fueron cobrado por cajas 18 mil 
+millones de pesos sin comprobante que determine en qué se gastó.
+Queda claro que no hay antecedente que justifique el pago, y 
+Contraloría en varias oportunidades solicitó los antecedentes y justificaciones a 
+Gendarmería, sin que recibiera respuesta satisfactoria.
+Siendo así, adhiere a la solicitud de oficio de la Presidenta y solicita que 
+Contraloría intervenga directamente en el departamento de remuneraciones de 
+Gendarmería.
+Califica el hecho como más grave que el caso de Paco Gate, porque la 
+auditoría solo se concentró en 12 meses, en los que detecto los más de 18 mil 
+millones de pesos en sueldos injustificados. Si uno presume que todos los 
+años ha pasado lo mismo, fácilmente podríamos llegar a 100 mil millones de 
+pesos, siendo la más grave de toda la historia.
+Todo lo informado por la Presidenta, sobre la gravedad, es muy cierto, 
+pedirá un informe más específico a la Contraloría.
+El diputado señor Leiva indica que los hechos son gravísimos y pueden 
+ser constitutivos de delitos, pero además un informe final de Contraloría 
+contiene varios pre informes que se van presentando a los servicios auditados, 
+y con fecha 26 de noviembre del 2021 y 26 y 27 de diciembre del mismo año 
+se entregaron informes al Ministerio de Justicia, sin respuesta ni resolución al 
+respecto. Siendo así, adhiere a lo solicitado por la presidenta.
+La presidenta Cariola agradece el complemento de los diputados, ya 
+que los hechos son muy graves, con 18 mil millones en solo un año, con
+6
+--- PÁGINA 7 ---
+plazos adicionales que se han tomado y necesitan conocer las medidas del 
+ministerio para enfrentar estas situaciones y las medidas que permitirán que no 
+se repita esto.
+Reitera que el tema de seguridad pública y la confianza en las 
+instituciones del Estado es muy sensible en Chile, porque todos esperamos 
+que los recursos que nacen de los impuestos de todas y todos sean bien 
+utilizados, y no en cajas negras u oscuras.
+Siendo así, solicita el acuerdo para oficiar a la Ministra de Justicia y 
+Derechos Humanos, al Director de Gendarmería y a Contraloría, en el sentido 
+ya expuesto, y además destinar, al menos la mitad de una sesión futura, para 
+recibir a las dos primeras autoridades en la Comisión para que den cuenta del 
+asunto.
+- 
+Acordado por la unanimidad.
+ORDEN DEL DÍA
+Boletines refundidos N°s 11.144-07 (S) y 11.092-07 (S).
+Entrando en el orden del día, corresponde continuar con la discusión 
+particular del proyecto de ley que “Regula la protección y el tratamiento de 
+los datos personales y crea la Agencia de Protección de Datos 
+Personales”, en segundo trámite constitucional, con urgencia calificada 
+de “Suma”.
+Ver oficio de ley; comparado de indicaciones; comparado de 
+observaciones.
+La diputada Cariola (Presidenta) da inicio al orden del día, agradece la 
+presencia del diputado Donoso (remplazo de diputado señor Benavente) y de la 
+asesora del Ministerio Secretaría General de la Presidencia, Lizzy Seaman, 
+quien lidera mesa técnica.
+VOTACIÓN EN PARTICULAR
+7
+--- PÁGINA 8 ---
+“ARTÍCULO PRIMERO, continuación
+Introdúcense las siguientes modificaciones en la ley Nº 19.628, sobre 
+protección de la vida privada:
+Numeral 7) 
+7) Reemplázase el Título II por el siguiente:
+“Título II 
+Del tratamiento de los datos personales y de las categorías especiales de
+datos
+Párrafo Primero 
+Del consentimiento del titular, de las obligaciones y deberes del responsable
+y del tratamiento de datos en general
+Artículo 14 ter (sólo indicación pendiente)
+- 
+Indicación diputado Leonardo Soto 
+En el numeral 7) que reemplaza el Título II, al artículo 14 ter propuesto, 
+para:
+ii) En la parte final del literal d) reemplazar todo lo que viene después de
+“las finalidades de los tratamientos que realiza” por lo siguiente: “; la 
+base de legitimidad del tratamiento; y en caso de tratamientos que se 
+basan en la satisfacción de intereses legítimos, cuáles serían estos;”. 
+ 
+La señora Lizzy Seaman reitera que, en mesa técnica, hay acuerdo en 
+su aprobación, porque la indicación aumenta la información y nivel de 
+transparencia que reciben los usuarios.
+El diputado señor Soto indicó que la indicación surgió del trabajo de la 
+mesa de SEGPRES, cambiando un lenguaje genérico por uno más concreto, 
+debiendo identificar las bases de licitud. Cree que, de esta forma, mas acotada 
+y clara, permite que los usuarios puedan ejercer mejor manera sus derechos 
+ARCO.
+Sometida a votación la indicación del diputado Leonardo Soto, que 
+modifica el literal d) del artículo 14 ter, es aprobada por mayoría. Votaron a 
+favor, las señoras diputadas Karol Cariola (Presidenta), Pamela Jiles y Catalina
+8
+--- PÁGINA 9 ---
+Pérez, y los señores diputados Felipe Donoso, Marcos Ilabaca, Luis Sánchez y 
+Leonardo Soto. Se abstuvo, el diputado señor Andrés Longton (7-0-1).
+Artículo 14 quinquies
+“Artículo 14 quinquies.- Deber de adoptar medidas de seguridad. El 
+responsable de datos debe adoptar las medidas necesarias para resguardar el 
+cumplimiento del principio de seguridad establecido en esta ley, considerando 
+el estado actual de la técnica y los costos de aplicación, junto con la naturaleza, 
+alcance, contexto y fines del tratamiento, así como la probabilidad de los 
+riesgos y la gravedad de sus efectos en relación con el tipo de datos tratados.
+Las medidas aplicadas por el responsable deben asegurar la 
+confidencialidad, integridad, disponibilidad y resiliencia de los sistemas de 
+tratamiento de datos.
+Asimismo, deberán evitar la alteración, destrucción, pérdida, tratamiento 
+o acceso no autorizado.
+Si las bases de datos que opera el responsable tienen distintos niveles 
+de riesgo, deberá adoptar las medidas de seguridad que correspondan al nivel 
+más alto.
+Ante la ocurrencia de un incidente de seguridad, y en caso de 
+controversia judicial o administrativa, corresponderá al responsable acreditar la 
+existencia y el funcionamiento de las medidas de seguridad adoptadas en base 
+a los niveles de riesgo y a la tecnología disponible”.
+- 
+Indicación del Ejecutivo al artículo 14 quinquies: 
+Para remplazar el inciso segundo por el siguiente:  
+“Teniendo en cuenta el estado de la técnica, los costes de aplicación, y 
+la naturaleza, el alcance, el contexto y los fines del tratamiento, así como 
+riesgos de probabilidad y gravedad variables para los derechos y libertades de 
+los titulares, el responsable y el encargado del tratamiento aplicarán medidas 
+técnicas y organizativas apropiadas para garantizar un nivel de seguridad 
+adecuado al riesgo, que en su caso incluya, entre otros:
+a) La seudonimización y el cifrado de datos personales; 
+ 
+b) La capacidad de garantizar la confidencialidad, integridad, disponibilidad y 
+resiliencia permanentes de los sistemas y servicios de tratamiento;
+9
+--- PÁGINA 10 ---
+c) La capacidad de restaurar la disponibilidad y el acceso a los datos 
+personales de forma rápida en caso de incidente físico o técnico;
+d) Un proceso de verificación, evaluación y valoración regulares de la 
+eficacia de las medidas técnicas y organizativas para garantizar la seguridad 
+del tratamiento.”.
+La señora Seaman refiere que la indicación del Ejecutivo remplaza el 
+inciso segundo, porque la actual redacción no realiza ningún tipo de distinción 
+en cuanto al nivel de las medidas de seguridad que el responsable de datos 
+debe adoptar, debiendo entonces optar siempre por las medidas de seguridad 
+más altas y costosas, sin considerar el riesgo de vulnerabilidad de su sistema y 
+el tipo o naturaleza de datos personales que maneja, lo que consideran un 
+error.
+La indicación propuesta realiza una distinción para la adopción de las 
+medidas de seguridad, y sus costos asociados, por un criterio de riesgo y 
+naturaleza de los datos personales. A mayor riesgo, mas medidas de seguridad 
+y, por tal, mayor su costo, y viceversa.
+El diputado señor Soto está de acuerdo con la indicación, la que 
+además es un entendimiento de la mesa técnica, y agrega que hace poco 
+conocieron el caso de SERVEL y la fuga o publicación masiva de datos 
+personales sensibles, por lo que esta indicación justamente se hace cargo de 
+aquello, estableciendo niveles de responsabilidad sin establecer un estándar 
+único, sino adecuado al riesgo.
+Sometida a votación el artículo 14 sexies con la indicación del 
+ejecutivo que remplaza el inciso segundo del artículo 14 quinquies, es 
+aprobada por unanimidad. Votaron a favor las diputadas señoras Karol Cariola 
+(Presidenta), Pamela Jiles y Catalina Pérez, y los diputados señores Felipe 
+Donoso, Marcos Ilabaca, Andres Longton, Luis Sánchez, Leonardo Soto y 
+Gonzalo Winter (9-0-0).
+Articulo 14 sexies
+“Artículo 14 sexies.- Deber de reportar las vulneraciones a las medidas de 
+seguridad. El responsable y el encargado de datos deberán reportar a la 
+Agencia, por los medios más expeditos posibles y sin dilaciones indebidas, las 
+vulneraciones a las medidas de seguridad que ocasionen la destrucción, 
+filtración, pérdida o alteración accidental o ilícita de los datos personales que
+10
+--- PÁGINA 11 ---
+trate o la comunicación o acceso no autorizados a dichos datos, cuando exista 
+un riesgo razonable para los derechos y libertades de los titulares.
+El responsable y el encargado de datos deberán registrar estas 
+comunicaciones, describiendo la naturaleza de las vulneraciones sufridas, sus 
+efectos, las categorías de datos y el número aproximado de titulares afectados 
+y las medidas adoptadas para gestionarlas y precaver incidentes futuros.
+Cuando dichas vulneraciones se refieran a datos personales sensibles, datos 
+relativos a niños y niñas menores de catorce años o datos relativos a 
+obligaciones de carácter económico, financiero, bancario o comercial, el 
+responsable y el encargado de datos deberán también efectuar esta 
+comunicación a los titulares de estos datos. Esta comunicación deberá 
+realizarse en un lenguaje claro y sencillo, singularizando los datos afectados, 
+las posibles consecuencias de las vulneraciones de seguridad y las medidas de 
+solución o resguardo adoptadas. La notificación se deberá realizar a cada 
+titular afectado y si ello no fuere posible, se realizará mediante la difusión o 
+publicación de un aviso en un medio de comunicación social masivo y de 
+alcance nacional.
+- 
+Indicación del Ejecutivo al artículo 14 sexies: 
+ 
+a) Para modificar en su inciso primero, la expresión “y el encargado de
+datos deberán” por la palabra “deberá”. 
+b) b) Reemplázase, en su inciso segundo, la expresión “y el encargado de
+datos deberán” por la palabra “deberá”. 
+c) Reemplázase, en su inciso tercero, la expresión “y el encargado de datos
+deberán” por la palabra “deberá”. 
+d) Para agregar el siguiente inciso final, nuevo: “Los deberes de
+información señalados en este artículo no obstan a los demás 
+deberes de información que establezcan otras leyes.”
+La señora Lizzy Seaman indica que se ha criticado el diseño original de 
+este artículo, porque por una parte obliga a dar un doble aviso frente a una 
+vulneración de seguridad, tanto al usuario o titular como a la Agencia, lo que es 
+una carga extra para ambas partes.
+El diputado señor Sánchez pregunta si los trabajadores de la Agencia 
+tendrán calidad de funcionarios públicos. Lo pregunta porque existe la 
+obligación de reportar delitos al Ministerio Público como regla general para los 
+funcionarios públicos, pero si no lo son, entonces podría no aplicárseles este
+11
+--- PÁGINA 12 ---
+principio o deber, siendo entonces positivo dejarlo expresamente agregado en 
+el proyecto.
+La señora Seaman, refiriéndose a la primera parte de la pregunta del 
+diputado Sánchez, indicó que el personal de la Agencia si tendrá calidad de 
+funcionario público, aplicándoles la regla general de las Bases Generales de la 
+Administración del Estado, con el deber de hacer la denuncia de los delitos.
+Por otra parte, y considerando lo anterior, incorporarla expresamente 
+aquí podría ser anómalo, porque no todas las vulneraciones serán objeto de 
+delito.
+El diputado señor Soto apoya la propuesta de la mesa técnica de 
+SEGPRES, porque recoge justamente la experiencia de lo que ocurrió con 
+filtración de datos de SERVEL. En este ejemplo, el servicio responsabilizó a 
+una persona que digitaba los datos, pero con esta norma queda claro que el 
+responsable es el jefe de servicio, y no un funcionario particular.
+Respecto a lo indicado por diputado Sanchez, cree que se le aplica la 
+regla general de denuncia obligatoria contenida en el Código Procesal Penal.
+La diputada señora Jiles se excusa por el retraso, y solicita agregar su 
+votación a favor a las dos ultimas votaciones.
+- 
+Se acuerda por unanimidad.
+El diputado señor Longton tiene dudas sobre la nueva indicación del 
+Ejecutivo en la parte que habla del deber de notificar a menores de edad, 
+porque cuando se habla de vulneración de datos personales a menores de 14 
+años, indica que deben ser notificados los titulares, y no sabe si son los padres 
+o los propios niños.
+La señora Seaman indica que, en esos casos, en la segunda parte del 
+articulado en discusión, se refiere expresamente que la información o aviso de 
+vulneración de medidas de seguridad debe hacerse en lenguaje claro y 
+sencillo, de tal forma que, de ser notificado un menor de edad, pudiera 
+comprenderlo fácilmente. De igual forma, la regla general en materia de 
+curaduría y patria potestad indica que la notificación debe hacer a los 
+representantes.
+El diputado señor Longton insiste en la duda, porque si uno singulariza 
+“representante legal” sería claro que es a los niños, pero dice “titulares” que 
+son los niños. Entonces, cree que se debería indicar expresamente que la 
+notificación debería ser a sus representantes.
+12
+--- PÁGINA 13 ---
+El diputado señor Ilabaca comparte esa inquietud, porque justamente 
+utiliza el lenguaje técnico de “titulares”, siendo los mismos los propios niños y 
+niñas menores de 14 años, y no son padres.
+El diputado señor Soto refiere que la norma no innova considerando las 
+reglas generales de nuestro ordenamiento jurídico. Actualmente, los menores 
+de edad son titulares de todos los derechos, por lo que, si una persona es 
+menor de 3 años, todos sus derechos son ejercidos por sus representantes 
+legales, que esta establecida en las normas generales, y será hacia ellos, los 
+representantes, a quienes se les deberá notificar.
+Inclusive, agregó el parlamentario, la norma agrega que cuando sea 
+difícil la notificación, faculta para que se haga por medios masivos.
+Siendo así, la misma norma resuelve la duda del diputado Longton. 
+ 
+La señora Ana Lya Uriarte (Ministra Secretaria General de la 
+Presidencia) pide las disculpas a la Comisión por haber llegado tarde. Sobre la 
+discusión de la indicación, indica que en materia de menores de 14 años – no 
+entrando en colisión con la norma sobre derechos de niños, niñas y 
+adolescentes - deben ser siempre ejercidos mediante sus representantes 
+legales.
+El diputado señor Sánchez está de acuerdo con observación del 
+diputado Longton. El punto de fondo es que se debería aplicar las reglas 
+generales de interpretación del Código Civil, sobre todo porque datos 
+personales son, al final, bienes.
+En ese sentido, el titular es el menor de edad, o que es distinto a la 
+patria potestad, que es una forma de administración.
+La señora Patricia Silva (experta en datos personales y representante 
+de la Cámara Chilena Norteamérica) indica que el articulo genera una 
+obligación concreta. Hablamos de los casos en que las empresas deben avisar 
+a los titulares que las medidas de seguridad fueron violadas.
+Cuando generamos una obligación de notificar al titular, o hacer una 
+notificación general a través de los medios de comunicación, debería siempre 
+distinguirse su contenido. Porque cuando se comunica al titular de forma 
+directa, se hace hincapié en los datos personales que fueron vulnerados de ese 
+titular, lo que no puedo hacer en una comunicación general.
+Si se interpreta de forma extrema, no debería existir la obligación de 
+comunicar los nombres de los titulares que no pudo contactar directamente en 
+una publicación abierta.
+13
+--- PÁGINA 14 ---
+Sometido a votación las tres indicaciones del Ejecutivo, resultaron 
+aprobada. Otorgaron la unanimidad las diputadas señoras Karol Cariola, 
+Pamela Jiles y Catalina Pérez, y los señores diputados Jorge Alessandri, Felipe 
+Donoso, Marcos Ilabaca, Andrés Longton, Luis Sánchez, Leonardo Soto y 
+Gonzalo Winter (10-0-0).
+- 
+Indicación del diputado Luis Sanchez, Pamela Jiles, Leonardo 
+Soto, Karol Cariola y Marcos Ilabaca: 
+Para agregar en el inciso tercero del artículo 14, luego de la frase 
+“titulares de estos derechos”, lo siguiente: 
+“a través de sus representantes, cuando corresponda”. 
+ 
+ 
+El diputado señor Sánchez fundo la indicación, de consenso general 
+dentro de la Comisión, en el hecho de que, al especificar que, en el caso de 
+menores de edad, la notificación se realizará a sus representantes, se despeja 
+toda duda relativa al respecto.
+Sometida a votación la indicación de los diputados Sánchez, Jiles, 
+Soto, Cariola e Ilabaca al inciso tercero del artículo 14 sexies, resultó 
+aprobada por mayoría absoluta. Votaron a favor las diputadas señoras Karol 
+Cariola, Pamela Jiles y Catalina Pérez, y los señores diputados Jorge 
+Alessandri, Felipe Donoso, Marcos Ilabaca, Andrés Longton, Luis Sánchez, 
+Leonardo Soto. Voto en contra el diputado señor Gonzalo Winter (9-1-0).
+Sometido a votación el resto del artículo 14 sexies, resultó aprobado 
+por unanimidad. Dieron su unanimidad las diputadas señoras Karol Cariola, 
+Pamela Jiles y Catalina Pérez, y los señores diputados Jorge Alessandri, Felipe 
+Donoso, Marcos Ilabaca, Andrés Longton, Luis Sánchez, Leonardo Soto y 
+Gonzalo Winter (10-0-0).
+Artículo 14 septies
+“Artículo 14 septies.- Diferenciación de estándares de cumplimiento. Los 
+estándares o condiciones mínimas que se impongan al responsable de datos 
+para el cumplimiento de los deberes de información y de seguridad 
+establecidos en los artículos 14 ter y 14 quinquies, respectivamente, serán 
+determinados considerando el tipo de dato del que se trata, si el responsable
+14
+--- PÁGINA 15 ---
+es una persona natural o jurídica, el tamaño de la entidad o empresa de 
+acuerdo a las categorías establecidas en el artículo segundo de la ley N° 
+20.416, que fija normas especiales para las empresas de menor tamaño, la 
+actividad que desarrolla y el volumen, naturaleza y las finalidades de los datos 
+personales que trata.
+Los estándares o condiciones mínimas de cumplimiento y las medidas 
+diferenciadas a que alude el inciso anterior, serán determinados por la Agencia 
+mediante instrucción general.
+Sometido a votación, el artículo 14 septies es aprobado por 
+unanimidad. Dieron su unanimidad las diputadas señoras Karol Cariola, 
+Pamela Jiles y Catalina Pérez, y los señores diputados Jorge Alessandri, Felipe 
+Donoso, Marcos Ilabaca, Andrés Longton, Luis Sánchez, Leonardo Soto y 
+Gonzalo Winter (10-0-0).
+Artículo 15
+“Artículo 15.- Cesión de datos personales. Los datos personales podrán 
+ser cedidos con el consentimiento del titular y para el cumplimiento de los fines 
+del tratamiento. También se podrán ceder los datos personales cuando la 
+cesión sea necesaria para el cumplimiento y la ejecución de un contrato en que 
+es parte el titular; cuando exista un interés legítimo del cedente o del 
+cesionario, en los términos previstos en la letra e) del artículo 13, y cuando lo 
+disponga la ley.
+En caso de que el consentimiento otorgado por el titular al momento de 
+realizarse la recolección de los datos personales no haya considerado la cesión 
+de los mismos, éste debe recabarse antes que se produzca, considerándose 
+para todos los efectos legales como una nueva operación de tratamiento.
+La cesión de datos deberá constar por escrito o a través de cualquier 
+medio electrónico idóneo. En ella se deberá individualizar a las partes, los 
+datos que son objeto de la cesión, las finalidades previstas para el tratamiento 
+y los demás antecedentes o estipulaciones que acuerden el cedente y el 
+cesionario.
+El tratamiento de los datos personales cedidos deberá realizarse por el 
+cesionario de conformidad a las finalidades establecidas en el contrato de 
+cesión.
+Una vez perfeccionada la cesión, el cesionario adquiere la condición de 
+responsable de datos para todos los efectos legales. El cedente, por su parte,
+15
+--- PÁGINA 16 ---
+también mantiene la calidad de responsable de datos, respecto de las 
+operaciones de tratamiento que continúe realizando.
+Si se verifica una cesión de datos sin contar con el consentimiento del 
+titular, siendo éste necesario, la cesión será nula, debiendo el cesionario 
+suprimir todos los datos recibidos, sin perjuicio de las responsabilidades legales 
+que correspondan.”.
+Sometido a votación, el artículo 15 es aprobado por la unanimidad. 
+Dieron su unanimidad las diputadas señoras Karol Cariola, Pamela Jiles y 
+Catalina Pérez, y los señores diputados Jorge Alessandri, Felipe Donoso, 
+Marcos Ilabaca, Andrés Longton, Luis Sánchez, Leonardo Soto y Gonzalo 
+Winter (10-0-0).
+Artículo 15 bis
+“Artículo 15 bis.- Tratamiento de datos a través de un tercero mandatario 
+o encargado. El responsable puede efectuar el tratamiento de datos en forma 
+directa o a través de un tercero mandatario o encargado. En este último caso, 
+el tercero mandatario o encargado realiza el tratamiento de datos personales 
+conforme al encargo y a las instrucciones que le imparta el responsable, 
+quedándole prohibido su tratamiento para un objeto distinto del convenido con 
+el responsable, así como su cesión o entrega en los casos en que el 
+responsable no lo haya autorizado de manera expresa y específicamente para 
+cumplir con el objeto del encargo.
+Si el tercero mandatario o encargado trata los datos con un objeto 
+distinto del encargo convenido o los cede o entrega sin haber sido autorizado 
+en los términos dispuestos en el inciso anterior, se le considerará como 
+responsable de datos para todos los efectos legales, debiendo responder  
+personalmente por las infracciones en que incurra y solidariamente con el 
+responsable de datos por los daños ocasionados, sin perjuicio de las 
+responsabilidades contractuales que le correspondan frente al mandante o 
+responsable de datos.
+El tratamiento de datos a través de un tercero mandatario o encargado 
+se regirá por el contrato celebrado entre el responsable y el encargado, con 
+arreglo a la legislación vigente. En el contrato se deberá establecer el objeto 
+del encargo, la duración del mismo, la finalidad del tratamiento, el tipo de datos 
+personales tratados, las categorías de titulares a quienes conciernen los datos,
+16
+--- PÁGINA 17 ---
+y los derechos y obligaciones de las partes. El encargado no podrá delegar 
+parte o la totalidad del encargo, salvo que conste una autorización específica y 
+por escrito del responsable. El encargado que delegue a otro encargado parte 
+o la totalidad del encargo, continuará siendo solidariamente responsable sobre 
+dicho encargo y no podrá eximirse de responsabilidad argumentando que ha 
+delegado el tratamiento. El Consejo pondrá a disposición del público modelos 
+tipo de contratos en su página web.
+El tercero mandatario o encargado deberá cumplir con lo dispuesto en 
+los artículos 14 bis, 14 quáter, 14 quinquies y 14 sexies. La diferenciación de 
+estándares de seguridad establecida en el inciso primero del artículo 14 septies 
+también será aplicable al tercero mandatario o encargado. Tratándose de una 
+vulneración a las medidas de seguridad, el tercero o mandatario deberá 
+reportar este hecho a la Agencia y al responsable.
+Cumplida la prestación del servicio de tratamiento por parte del tercero 
+mandatario o encargado, los datos que obran en su poder deben ser 
+cancelados o devueltos al responsable de datos, según corresponda”.
+- 
+Indicación del Ejecutivo al artículo 15 bis: 
+a) Sustitúyese, en su inciso cuarto, la expresión “, 14 quinquies y 14
+sexies” por la expresión “y 14 quinquies”.  
+b) Reemplázase, en su inciso final, la palabra “cancelados” por la
+palabra “suprimidos”.
+La señora Lizzy Seaman refiere que la indicación del ejecutivo busca 
+hacer concordante el proyecto por las modificaciones al artículo 7, y las recién 
+aprobadas del artículo 14 sexies, que modificaron el deber del responsable 
+como del delgado de notificar las brechas de vulneración de seguridad.
+De todas formas, hace presente que, de este artículo, que es la letra b) 
+del artículo 16, hubo acuerdo de la mesa, a excepción de una minoría que 
+quería mantener la obligatoriedad de doble notificación (al titular y a la 
+Agencia) en caso de vulneración de medidas de seguridad.
+El diputado señor Longton indica que quedaría discordante, porque el 
+responsable y el encargado se miden con distintas responsabilidades, 
+causando confusión en obligaciones que son similares.
+La señora Seaman respondió que, en su opinión, la aprobación de las 
+indicaciones del vendrían a hacer consistente el proyecto con lo ya aprobado
+17
+--- PÁGINA 18 ---
+anteriormente. Sin embargo, reitera que, parte de la mesa técnica, se estimó 
+que para reforzar el sistema de aviso de vulneraciones debían mantener la 
+responsabilidad de los encargados de notificar también a la Agencia
+Sometido a votación, el artículo 15 bis con las indicaciones del 
+Ejecutivo, se aprueba por unanimidad. Dieron su unanimidad las diputadas 
+señoras Karol Cariola, Pamela Jiles y Catalina Pérez, y los señores diputados 
+Felipe Donoso, Marcos Ilabaca, Andrés Longton, Luis Sánchez, Leonardo Soto 
+y Gonzalo Winter (9-0-0).
+El diputado señor Longton hace mención que en la mesa técnica había 
+una indicación que no se ha votado. El penúltimo inciso del artículo 15 bis 
+indica que el responsable de datos, frente a una falla o vulneración en los 
+sistemas de seguridad, debe notificar al titular “y a la Agencia”. Hace poco se 
+aprobó en el artículo 14, que dicha notificación sería sólo al titular, para evitar 
+una duplicidad de la obligación de informar, y no colmar de notificaciones a los 
+propios usuarios, por lo que solicita la reapertura del debate del artículo 15 bis 
+para poder ingresarla.
+La señora Seaman indica que, en el inciso cuarto o penúltimo del 
+artículo 15 bis, se establece la responsabilidad para el tercero mandatario que 
+administra datos personales, denominado también como el encargado, de 
+notificar o reportar a la Agencia y al responsable de los datos, frente a 
+vulneración de las medidas de seguridad.
+Efectivamente, en la mesa técnica existió mayoría para eliminar la 
+remisión a la Agencia, si así ser consistente con la voluntad de eliminar la 
+duplicidad en la obligación de informar. Con todo, una minoría insistió en que 
+mantener este deber de informar a ambos entregada más seguridad o 
+resguardo a los titulares.
+La diputada señorita Cariola (Presidenta), considerando lo anterior, 
+solicita el acuerdo de la Comisión para reabrir el debate del artículo 15 bis, con 
+la finalidad de introducir la indicación mencionada.
+- 
+Se acuerda por unanimidad. Consintieron las diputadas señoras 
+Karol Cariola, Pamela Jiles y Catalina Pérez, y los señores diputados 
+Jorge Alessandri, Felipe Donoso, Marcos Ilabaca, Andrés Longton, 
+Luis Sánchez, Leonardo Soto y Gonzalo Winter (10-0-0).
+- 
+Indicación de los diputados Cariola, Jiles, Longton y Soto:
+18
+--- PÁGINA 19 ---
+Elimínase, en el inciso cuarto del artículo 15 bis, la frase “y a la 
+Agencia y”. 
+ 
+ 
+Sometida a votación la indicación de los diputados Cariola, Jiles, 
+Longton y Soto que eliminan la frase “y la Agencia” del inciso cuarto del 
+artículo 15 bis, es aprobada por unanimidad. Votaron a favor las diputadas 
+señoras Karol Cariola, Pamela Jiles y Catalina Pérez, y los señores diputados 
+Jorge Alessandri, Felipe Donoso, Marcos Ilabaca, Andrés Longton, Luis 
+Sánchez, Leonardo Soto y Gonzalo Winter (10-0-0).
+Artículo 15 ter
+“Artículo 15 ter.- Tratamiento automatizado de grandes volúmenes de 
+datos. El responsable de datos podrá establecer procedimientos automatizados 
+de tratamiento y transferencia de grandes volúmenes de datos, siempre que los 
+mismos cautelen los derechos del titular y el tratamiento guarde relación con 
+las finalidades autorizadas por los titulares.
+El tratamiento automatizado de bases de datos de gran volumen deberá 
+satisfacer, respecto de los datos que las componen, alguna de las bases de 
+licitud establecidas en los artículos 12 y 13. Asimismo, la toma de decisiones 
+que conciernan a los titulares de los datos que componen estas bases se 
+regirán por lo dispuesto en el artículo 8° bis”.
+- 
+Indicación de los diputados Leonardo Soto y Calisto: 
+Para suprimir el artículo 15 ter. 
+ 
+ 
+El diputado señor Soto fundó su indicación en el hecho de que, el 
+tamaño o el volumen de los datos personales tratados no es relevante, porque 
+el estándar de seguridad y responsabilidades deben ser las mismas para 
+todos, por lo que no lo considera un criterio fundado, debiendo eliminarlo para 
+que, de esa forma, se resguarden de mejor manera los derechos de los 
+titulares. 
+ 
+ 
+La señora Seaman indica que en la mesa técnica hay acuerdo con la 
+conveniencia de aprobar esa indicación, por las mismas razones expresadas 
+por el diputado Soto.
+Sometida a votación la indicación del diputado Soto, en el sentido 
+de eliminar el artículo 15 Ter, es aprobada. Rechazado el artículo15 ter.
+19
+--- PÁGINA 20 ---
+Otorgaron la unanimidad las diputadas señoras Karol Cariola, Pamela Jiles y 
+Catalina Pérez, y los señores diputados Jorge Alessandri, Felipe Donoso, 
+Marcos Ilabaca, Andrés Longton, Luis Sánchez, Leonardo Soto y Gonzalo 
+Winter (10-0-0).
+Indicación Nuevo Artículo 15 quáter (ahora 15 ter)
+- 
+Indicación de los diputados Leonardo Soto y Calisto, para 
+agregar el siguiente artículo 15 quáter: [retirada] 
+ 
+“Artículo 15 quáter. Evaluación de impacto relativa a la protección de datos.
+1.   Cuando sea probable que un tipo de tratamiento, en particular si utiliza 
+nuevas tecnologías, por su naturaleza, alcance, contexto o fines, entrañe un 
+alto riesgo para los derechos y libertades de las personas físicas, el responsa-
+ble del tratamiento realizará, antes del tratamiento, una evaluación del impacto 
+de las operaciones de tratamiento en la protección de datos personales. Una 
+única evaluación podrá abordar una serie de operaciones de tratamiento simila-
+res que entrañen altos riesgos similares.
+2.   El responsable del tratamiento recabará el asesoramiento del delega-
+do de protección de datos, si ha sido nombrado, al realizar la evaluación de 
+impacto relativa a la protección de datos.
+3.   La evaluación de impacto relativa a la protección de los datos se reque-
+rirá en particular en aquellos casos que la Autoridad señale.
+4.   La evaluación deberá incluir como mínimo: 
+  
+a)  una descripción sistemática de las operaciones de tratamiento previstas y 
+de los fines del tratamiento, inclusive, cuando proceda, el interés legítimo per-
+seguido por el responsable del tratamiento;
+b)   una evaluación de la necesidad y la proporcionalidad de las operaciones 
+de tratamiento con respecto a su finalidad;
+c)   una evaluación de los riesgos para los derechos y libertades de los titu-
+lares;
+20
+--- PÁGINA 21 ---
+d)   las medidas previstas para afrontar los riesgos, incluidas garantías, 
+medidas de seguridad y mecanismos que garanticen la protección de datos 
+personales, y a demostrar la conformidad con la presente ley, teniendo en 
+cuenta los derechos e intereses legítimos de los titulares y de otras personas 
+afectadas.
+5. El responsable consultará a la autoridad antes de proceder al tratamiento 
+cuando una evaluación de impacto relativa a la protección de los datos muestre 
+que el tratamiento entrañaría un alto riesgo si el responsable no toma medidas 
+para para mitigarlo.”.
+La Presidenta Cariola informa que la mesa técnica propone una 
+indicación de remplazo que mejora la redacción, por lo que propone al 
+diputado Soto y Calisto hacer el retiro de la indicación.
+El diputado señor Soto concuerda con lo indicado previamente, 
+procediendo en el acto a retirar su indicación. Lo mismo hace el diputado 
+señor Calisto.
+- 
+Nueva indicación de las diputadas Cariola y Jiles, y de los 
+diputados Calisto, Leonardo Soto y Longton: 
+Para agregar el siguiente artículo 15 quáter, nuevo:  
+ 
+“Articulo 15 quater.- Evaluación de impacto en protección de datos 
+personales.
+Cuando sea probable que un tipo de tratamiento, por su naturaleza, 
+alcance, contexto, tecnología utilizada o fines, se pueda producir un alto riesgo 
+para los derechos de las personas titulares de los datos personales, el 
+responsable del tratamiento deberá realizar, previo al inicio de las operaciones 
+del tratamiento, una evaluación del impacto en protección de datos personales.  
+  
+La evaluación de impacto se requerirá siempre en casos de:  
+  
+a) Evaluación sistemática y exhaustiva de aspectos personales de los titulares 
+de datos, basadas en tratamiento o decisiones automatizadas, como la 
+elaboración de perfiles, y que produzcan en ellos efectos jurídicos 
+significativos.  
+  
+b) Tratamiento masivo de datos o gran escala.
+21
+--- PÁGINA 22 ---
+c) Tratamiento que implique observación o monitoreo sistemática de una zona 
+de acceso público.  
+  
+d) Tratamiento de datos sensibles y especialmente protegidos, en las hipótesis 
+de excepción del consentimiento.
+La Agencia de Protección de Datos establecerá y publicará una lista 
+orientativa de los tipos de operaciones de tratamiento que requieran o no una 
+evaluación de impacto relativa a la protección de datos personales. La Agencia 
+también establecerá las orientaciones mínimas para realizar esta evaluación, 
+considerando a lo menos en dichos criterios, la descripción de las operaciones 
+de tratamiento, su finalidad, la evaluación de la necesidad y la proporcionalidad 
+con respecto a su finalidad, la evaluación de los riesgos y medidas de 
+mitigación.
+Los responsables podrán consultar a la Agencia de Protección de Datos, 
+cuando en virtud del resultado de la evaluación, el tratamiento demuestre ser 
+de alto riesgo a efectos de obtener recomendaciones de parte de dicha 
+entidad.”.  
+ 
+ 
+La señora Seaman informa que la indicación realiza las adecuaciones 
+contenidas en la indicación original del diputado Soto y Calisto, pero la mejora 
+en cuanto al lenguaje técnico, con la finalidad de que sea concordante con los 
+conceptos que se utilizan en el proyecto. 
+ 
+ 
+La señora Macarena Gatica (abogada experta en Regulación de 
+Tratamiento de Datos Personales, representante del estudio jurídico 
+Alessandri) refiere que, en este caso, se esta haciendo referencia al principio 
+de protección por diseño y por defecto, que ya está contenido en el artículo 14 
+quáter, y donde se hace mención al riesgo, por lo que la indicación no es 
+necesario. 
+ 
+Por otro lado, en este caso se hace referencia a un análisis de riesgo 
+cuando la base de licitud no es el consentimiento, es decir, se hace referencia 
+al interés legítimo, cuando per se lleva un análisis de riesgo para poder aplicar 
+esa base de licitud. 
+ 
+Por tanto, el artículo es innecesario y con una obligación que puede ser 
+extremadamente gravosa. 
+ 
+ 
+El diputado señor Sánchez solicita al Gobierno aclarar la eliminación a 
+la palabra riesgo, cuando en el artículo 14 quinquies se hace uso de ese 
+lenguaje.
+22
+--- PÁGINA 23 ---
+La señora Seaman explica que no se esta eliminando el uso de la 
+palabra riesgo en la propuesta, sino todo lo contrario, ya que se utiliza varias 
+veces en varios incisos. El propósito que va a cumplir la evaluación de impacto 
+es la misma que la propuesta original. 
+ 
+Ahora, respecto al comentario de la abogada Gatica, la diferencia esta 
+en que, en el interés legítimo, en este caos, se exige cuando el riesgo es 
+especialmente relevante para la protección de los derechos de los titulares, y 
+tendrá que realizarse con anterioridad a las operaciones de tratamiento de 
+datos.
+Sometida a votación la indicación de las diputadas Cariola y Jiles, y 
+de los diputados Calisto, Leonardo Soto y Longton, que agrega un nuevo 
+artículo 15 quáter (ahora 15 ter), fue aprobada por mayoría. Votaron por la 
+afirmativa las diputadas señoras Karol Cariola, Pamela Jiles y Catalina Pérez, 
+y los diputados señores Miguel Ángel Calisto, Marcos Ilabaca, Andrés Longton, 
+Luis Sánchez, Leonardo Soto y Gonzalo Winter. Se abstuvieron los diputados 
+Jorge Alessandri y Francisco Donoso (9-0-2)
+Numeral 7) 
+7) Reemplázase el Título II por el siguiente:
+“Título II 
+Del tratamiento de los datos personales y de las categorías especiales de
+datos 
+Párrafo Segundo 
+Del tratamiento de los datos personales sensibles
+Artículo 16
+“Artículo 16.- Regla general para el tratamiento de datos personales 
+sensibles. El tratamiento de los datos personales sensibles sólo puede 
+realizarse cuando el titular a quien conciernen estos datos manifiesta su 
+consentimiento en forma expresa, otorgado a través de una declaración escrita, 
+verbal o por un medio tecnológico equivalente.
+Sin perjuicio de lo anterior, es lícito el tratamiento de datos personales 
+sensibles, sin el consentimiento del titular, en los siguientes casos:
+a) Cuando el tratamiento se refiere a datos personales sensibles que el titular 
+ha hecho manifiestamente públicos y su tratamiento esté relacionado con los 
+fines para los cuales fueron publicados.
+23
+--- PÁGINA 24 ---
+b) Cuando el tratamiento se basa en un interés legítimo realizado por una 
+persona jurídica de derecho público o de derecho privado que no persiga fines 
+de lucro y se cumplan las siguientes condiciones:
+i.- Su finalidad sea política, filosófica, religiosa, cultural, sindical o gremial; 
+ 
+ii.- El tratamiento que realice se refiera exclusivamente a sus miembros o 
+afiliados;
+iii.- El tratamiento de datos tenga por objeto cumplir las finalidades 
+específicas de la institución;
+iv.- La persona jurídica otorgue las garantías necesarias para evitar 
+filtraciones, sustracciones o un uso o tratamiento no autorizado de los datos, y
+v.- Los datos personales no se comuniquen o cedan a terceros.  
+ 
+Cumpliéndose estas condiciones, la persona jurídica no requerirá el 
+consentimiento del titular para tratar sus datos, incluidos los datos personales 
+sensibles. En caso de duda o controversia administrativa o judicial, el 
+responsable de datos deberá acreditar su concurrencia.
+Cuando un integrante de la persona jurídica deje de pertenecer a ella, sus 
+datos deberán ser anonimizados o cancelados.
+c) Cuando el tratamiento de los datos personales del titular resulte 
+indispensable para salvaguardar la vida, salud o integridad física o psíquica del 
+titular o de otra persona o, cuando el titular se encuentre física o jurídicamente 
+impedido de otorgar su consentimiento. Una vez que cese el impedimento, el 
+responsable debe informar detalladamente al titular los datos que fueron 
+tratados y las operaciones específicas de tratamiento que fueron realizadas.
+d) Cuando el tratamiento de los datos sea necesario para la formulación, 
+ejercicio o defensa de un derecho ante los tribunales de justicia o un órgano 
+administrativo.
+e) Cuando el tratamiento de datos sea necesario para el ejercicio de 
+derechos y el cumplimiento de obligaciones del responsable o del titular de 
+datos, en el ámbito laboral o de seguridad social, y se realice en el marco de la 
+ley.
+24
+--- PÁGINA 25 ---
+f) Cuando el tratamiento de datos personales sensibles lo autorice o mandate 
+expresamente la ley.
+Las excepciones para tratar datos sin consentimiento, mencionadas en este 
+artículo, se entienden aplicables al tratamiento de datos que no revisten el 
+carácter de datos sensibles”.
+- 
+Indicación 
+de 
+los 
+diputados 
+Leonardo 
+Soto 
+y 
+Calisto 
+[RETIRADA]: 
+Para eliminar el inciso segundo y siguientes, y remplazarlo por el 
+siguiente: 
+“Sin perjuicio de lo anterior, es lícito el tratamiento de datos perso-
+nales sensibles, sin el consentimiento del titular, en aquellos casos en 
+que expresamente lo autorice o mandate la ley.”
+- 
+Indicación 
+de 
+los 
+diputados 
+Leonardo 
+Soto 
+y 
+Calisto 
+[RETIRADA]: 
+Para suprimir, en su letra b), la frase “de derecho público o”. 
+ 
+- 
+Indicación del Ejecutivo: 
+Para remplazar, al final del literal b), la palabra “cancelados” por 
+“suprimidos”. 
+ 
+ 
+Los diputados señores Soto y Calisto realizan retiro de sus dos 
+indicaciones, argumentando el primero de ellos que la explicación del Ejecutivo 
+ha sido satisfactoria.
+La señora Seaman fundo la necesidad de aprobar la indicación del 
+Ejecutivo por la necesidad de dejar el artículo concordante con lo ya aprobado.
+Sometido a votación artículo 16 con la indicación ejecutivo, fue 
+aprobado por unanimidad. Otorgaron la unanimidad las diputadas señoras 
+Karol Cariola, Pamela Jiles y Catalina Pérez; y los diputados señores Jorge 
+Alessandri, Francisco Donoso, Marcos Ilabaca, Andrés Longton, Luis Sánchez, 
+Leonardo Soto y Gonzalo Winter (10-0-0).
+25
+--- PÁGINA 26 ---
+Artículo 16 bis
+“Artículo 16 bis.- Datos personales relativos a la salud y al perfil biológico 
+humano. Cumpliéndose lo dispuesto en el inciso primero del artículo 16, los 
+datos personales relativos a la salud del titular, así como aquellos relativos al 
+perfil biológico del titular, tales como los datos genéticos, proteómicos o 
+metabólicos, sólo pueden ser tratados para los siguientes fines:
+a) Realizar diagnósticos o tratamientos médicos, y cuando resulte necesario 
+para una adecuada administración de prestaciones de salud y de seguros de 
+salud, para asegurar y mejorar la calidad y eficacia de esas prestaciones y para 
+la realización de actividades asociadas al manejo de la salud de la población.
+b) Prestar asistencia médica o sanitaria en caso de urgencia. 
+ 
+c) Calificar el grado de dependencia o discapacidad de una persona.   
+ 
+d) Cuando resulte indispensable para la ejecución o cumplimiento de un 
+contrato cuyo objeto o finalidad exija tratar datos relativos a la salud del titular.
+Sólo se podrá tratar los datos personales relativos a la salud del titular y 
+a su perfil biológico, sin contar con su consentimiento, en los siguientes casos:
+a) Cuando éste resulte indispensable para salvaguardar la vida o integridad 
+física o psíquica del titular o de otra persona o, cuando el titular se encuentre 
+física o jurídicamente impedido de otorgar su consentimiento. Una vez que 
+cese el impedimento, el responsable debe informar detalladamente al titular los 
+datos que fueron tratados y las operaciones específicas de tratamiento que 
+fueron realizadas.
+b) En casos de urgencia sanitaria legalmente decretada. 
+ 
+c) Cuando sean utilizados con fines históricos, estadísticos o científicos, para 
+estudios o investigaciones que atiendan fines de interés público o vayan en 
+beneficio de la salud humana, o para el desarrollo de productos o insumos 
+médicos que no podrían desarrollarse de otra manera. Los resultados de los 
+estudios e investigaciones científicas que utilicen datos personales relativos a 
+la salud o al perfil biológico, pueden ser publicados o difundidos libremente, 
+debiendo previamente anonimizarse los datos que se publiquen.
+26
+--- PÁGINA 27 ---
+d) Cuando el tratamiento de los datos sea necesario para la formulación, 
+ejercicio o defensa de un derecho ante los tribunales de justicia o un órgano 
+administrativo.
+e) Cuando el tratamiento sea necesario para fines de medicina preventiva o 
+laboral, evaluación de la capacidad laboral del trabajador, diagnóstico médico, 
+prestación de asistencia o tratamiento de tipo sanitario o social, o gestión de 
+sistemas y servicios de asistencia sanitaria y social.
+f) Cuando la ley así lo permita e indique expresamente la finalidad que 
+deberá tener dicho tratamiento.
+Queda prohibido el tratamiento y la cesión de los datos relativos a la 
+salud y al perfil biológico de un titular y las muestras biológicas asociadas a una 
+persona identificada o identificable, incluido el almacenamiento del material 
+biológico, cuando los datos o muestras han sido recolectados en el ámbito 
+laboral, educativo, deportivo, social, de seguros, de seguridad o identificación, 
+salvo que la ley expresamente autorice su tratamiento en casos calificados y 
+que se refiera a alguno de los casos mencionados en este artículo.
+Las excepciones para tratar datos sin el consentimiento mencionado en 
+este artículo se entienden aplicables al tratamiento de datos que no revisten el 
+carácter especial a que se refiere este precepto”.
+- 
+Indicación de los diputados Soto y Calisto [se entiende 
+subsumida dentro de la nueva indicación acordada por la mesa 
+técnica]: 
+Para suprimir el artículo 16 bis, a excepción del inciso penúltimo. 
+ 
+- 
+Indicación del diputado Sánchez [se entiende subsumida dentro 
+de la nueva indicación acordada por la mesa técnica]: 
+A) Intercálese en el inciso primero del artículo 16 bis, entre la expresión
+“Datos personales” y la palabra “relativos” la expresión “sensibles”. 
+B) Intercálese en el inciso segundo del artículo 16 bis, entre la expresión
+“datos personales” y la palabra “relativos” la palabra “sensibles”. 
+ 
+- 
+Indicación del Ejecutivo [se entiende subsumida dentro de la nueva 
+indicación acordada por la mesa técnica]: 
+Para reemplazar, en el literal b) del inciso segundo, la palabra 
+“urgencia” por la palabra “alerta”.
+27
+--- PÁGINA 28 ---
+- 
+Indicación nueva (consenso de mesa técnica) de las diputadas 
+Cariola y Jiles, y de los diputados Soto y Longton: 
+Para reemplazar el artículo 16 bis por el siguiente: 
+ 
+“Artículo 16 bis.- Datos personales sensibles relativos a la salud y al 
+perfil biológico humano. Cumpliéndose lo dispuesto en el inciso primero del 
+artículo 16, los datos personales relativos a la salud del titular, así como 
+aquellos relativos al perfil biológico del titular, tales como los datos genéticos, 
+proteómicos o metabólicos, sólo pueden ser tratados para los fines previstos 
+por las leyes especiales en materia sanitaria.
+Sólo se podrá tratar los datos personales sensibles relativos a la salud 
+del titular y a su perfil biológico, sin contar con su consentimiento, respetando 
+los principios y reglas establecidos en la presente ley, en los siguientes casos: 
+a) Cuando éste resulte indispensable para salvaguardar la vida o integridad 
+física o psíquica del titular o de otra persona o, cuando el titular se encuentre 
+física o jurídicamente impedido de otorgar su consentimiento. Una vez que 
+cese el impedimento, el responsable debe informar detalladamente al titular los 
+datos que fueron tratados y las operaciones específicas de tratamiento que 
+fueron realizadas.  
+b) 
+En casos de alerta sanitaria legalmente decretada.  
+c) 
+Cuando sean utilizados con fines históricos, estadísticos o científicos, 
+para estudios o investigaciones que atiendan fines de interés público o vayan 
+en beneficio de la salud humana, o para el desarrollo de productos o insumos 
+médicos que no podrían desarrollarse de otra manera. Los resultados de los 
+estudios e investigaciones científicas que utilicen datos personales relativos a 
+la salud o al perfil biológico, pueden ser publicados o difundidos libremente, 
+debiendo previamente anonimizarse los datos que se publiquen.  
+d) 
+Cuando el tratamiento de los datos sea necesario para la formulación, 
+ejercicio o defensa de un derecho ante los tribunales de justicia o un órgano 
+administrativo.  
+e) 
+Cuando el tratamiento sea necesario para fines de medicina preventiva o 
+laboral, evaluación de la capacidad laboral del trabajador, diagnóstico médico, 
+prestación de asistencia o tratamiento de tipo sanitario o social, o gestión de 
+sistemas y servicios de asistencia sanitaria y social.  
+f) 
+Cuando la ley así lo permita e indique expresamente la finalidad que 
+deberá tener dicho tratamiento.
+Queda prohibido el tratamiento y la cesión de los datos relativos a la 
+salud y al perfil biológico de un titular y las muestras biológicas asociadas a una
+28
+--- PÁGINA 29 ---
+persona identificada o identificable, incluido el almacenamiento del material 
+biológico, cuando los datos o muestras han sido recolectados en el ámbito 
+laboral, educativo, deportivo, social, de seguros, de seguridad o identificación, 
+salvo que la ley expresamente autorice su tratamiento en casos calificados y 
+que se refiera a alguno de los casos mencionados en este artículo.
+Las excepciones para tratar datos sin el consentimiento mencionado en 
+este artículo se entienden aplicables al tratamiento de datos que no revisten el 
+carácter especial a que se refiere este precepto.”. 
+ 
+ 
+El diputado señor Soto manifiesta conformidad con esta indicación, que 
+es el resultado del trabajo de la mesa técnica, ya que indica expresamente que 
+en materia de datos sensibles prevalece lo estipulado en la ley de derechos y 
+deberes de los pacientes, y en lo no contemplado regirá el presente proyecto. 
+ 
+ 
+Sometida a votación la nueva indicación (de consenso de la mesa 
+técnica) de las diputadas Cariola y Jiles, y los diputados Leonardo Soto y 
+Longton, que remplaza el artículo 16 bis en su totalidad por una nueva 
+propuesta, es aprobada por unanimidad. Otorgaron la unanimidad las 
+diputadas señoras Karol Cariola, Pamela Jiles y Catalina Pérez; y los diputados 
+señores Jorge Alessandri, Francisco Donoso, Marcos Ilabaca, Andrés Longton, 
+Luis Sánchez, Leonardo Soto y Gonzalo Winter (10-0-0).
+Artículo 16 ter
+“Artículo 16 ter.- Datos personales biométricos. Son datos personales 
+biométricos aquellos obtenidos a partir de un tratamiento técnico específico, 
+relativos a las características físicas, fisiológicas o conductuales de una 
+persona que permitan o confirmen la identificación única de ella, tales como la 
+huella digital, el iris, los rasgos de la mano o faciales y la voz.
+Sólo podrán tratarse estos datos cuando se cumpliere con lo dispuesto en el 
+inciso primero del artículo 16 y siempre que el responsable proporcione al 
+titular la siguiente información específica:
+a) La identificación del sistema biométrico usado;  
+ 
+b) La finalidad específica para la cual los datos recolectados por el sistema 
+biométrico serán utilizados;
+c) El período durante el cual los datos biométricos serán utilizados, y
+29
+--- PÁGINA 30 ---
+d) La forma en que el titular puede ejercer sus derechos. 
+ 
+Los datos personales biométricos podrán tratarse sin consentimiento sólo en 
+los casos señalados en el inciso segundo del artículo 16 bis”.
+- 
+Indicación del diputado Sánchez: 
+Sustitúyase el inciso primero del artículo 16 ter, por el siguiente:
+“Artículo 16 ter.- Datos personales sensibles de carácter biométrico. Son 
+datos personales sensibles de carácter biométrico aquellos obtenidos a partir 
+de un tratamiento técnico específico, relativos a las características físicas, 
+fisiológicas o conductuales de una persona que permitan o confirmen la 
+identificación única de ella, tales como la huella digital, el iris, los rasgos de la 
+mano o faciales y la voz.”
+La diputada señorita Cariola (Presidenta) entiende que la mesa se 
+manifestó a favor de la indicación del diputado Sánchez, por lo que propone a 
+la Comisión votar en conjunto el artículo más la indicación.
+Sometido a votación el artículo 16 ter junto a la indicación del 
+diputado señor Sánchez, es aprobada por la unanimidad. Otorgaron la 
+unanimidad las diputadas señoras Karol Cariola, Pamela Jiles y Catalina Pérez; 
+y los diputados señores Jorge Alessandri, Francisco Donoso, Marcos Ilabaca, 
+Andrés Longton, Luis Sánchez, Leonardo Soto y Gonzalo Winter (10-0-0).
+Numeral 7) 
+7) Reemplázase el Título II por el siguiente:
+“Título II 
+Del tratamiento de los datos personales y de las categorías especiales de
+datos
+Párrafo Tercero 
+Del tratamiento de categorías especiales de datos personales
+Artículo 16 quáter
+30
+--- PÁGINA 31 ---
+“Artículo 16 quáter.- Datos personales relativos a los niños, niñas y 
+adolescentes. El tratamiento de los datos personales que conciernen a los 
+niños, niñas y adolescentes, sólo puede realizarse atendiendo al interés 
+superior de éstos y al respeto de su autonomía progresiva.
+Cumpliéndose la exigencia establecida en el inciso anterior, para tratar 
+los datos personales de los niños y niñas se requiere el consentimiento 
+otorgado por sus padres o representantes legales o por quien tiene a su cargo 
+el cuidado personal del niño o niña, salvo que expresamente lo autorice o 
+mandate la ley.
+Los datos personales de los adolescentes se podrán tratar de acuerdo a 
+las normas de autorización previstas en esta ley para los adultos, salvo lo 
+dispuesto en el inciso siguiente.
+Los datos personales sensibles de los adolescentes menores de 16 años 
+sólo se podrán tratar con el consentimiento otorgado por sus padres o 
+representantes legales o quien tiene a su cargo el cuidado personal del menor, 
+salvo que expresamente lo autorice o mandate la ley.
+Para los efectos de esta ley, se consideran niños o niñas a los menores 
+de catorce años, y adolescentes, a los mayores de catorce y menores de 
+dieciocho años.
+Constituye 
+una 
+obligación 
+especial 
+de 
+los 
+establecimientos 
+educacionales y de todas las personas o entidades públicas o privadas que 
+traten o administren datos personales de niños, niñas y adolescentes, incluido 
+quienes ejercen su cuidado personal, velar por el uso lícito y la protección de la 
+información personal que concierne a los niños, niñas y adolescentes”.
+- 
+Indicación del diputado Leiva: 
+Para agregar en el inciso cuarto del artículo 16 quáter a continuación de 
+la expresión “ley”, la siguiente frase:
+“Este consentimiento no será necesario en los casos en qué el 
+tratamiento de los datos de los niños, niñas y adolescentes es necesario para 
+contactar los padres o representantes legales, para su propia protección o en el 
+contexto de los servicios preventivos o de asesoramiento ofrecidos 
+directamente a los niños, niñas y adolescentes.”.
+31
+--- PÁGINA 32 ---
+La Presidenta señorita Cariola entiende que en la mesa solo no dieron 
+el acuerdo a la indicación los diputados Longton y Sánchez, por lo que les 
+consulta.
+El diputado señor Sánchez solicita la opinión del Ejecutivo, y en principio 
+lo complejo de la redacción es que la excepción que propone la indicación del 
+diputado Leiva es muy amplia como para que sea una excepción propiamente 
+tal.
+La señora Lizzy Seaman refiere que en la mesa técnica se estimó que 
+la indicación del diputado Leiva es acotada a solo ciertos casos que involucran 
+niños, niñas y adolescentes, cuando sea necesario tratar datos para su propia 
+protección, y prevenirlos y asesorarlos en el ejercicio de sus derechos, en el 
+entendido de que en algunos casos comunicar estos datos a sus padres 
+pondrían poner en riesgo a los propios niños cuando son vulnerados en 
+derechos por sus propios padres.
+El diputado señor Sánchez agradece la explicación, manifestando que 
+este será uno de los casos en que no tendrán un acuerdo con el oficialismo o 
+con el Gobierno, porque tienen claridad sobre el especial rol de los padres, 
+queriendo evitar una suerte de bolsillo de payaso.
+Explica que, de aprobarse la indicación existe la posibilidad de que cada 
+gobierno considere que es y cuándo es relevante meterse en la relación de 
+padres con sus hijos. A modo de ejemplo, podrían excusarse en la indicación 
+para no comunicar a sus padres ciertos mensajes ideológicos sobre los sus 
+padres no estén de acuerdo, sea por razones religiosas o porque no es acorde 
+a su edad, o se quiera enseñar de una forma distinta a la propuesta del 
+Gobierno, debiendo privilegiar siempre la relación de familia.
+El diputado señor Longton concuerda con la opinión anterior, porque la 
+misma indicación señala “salvo que expresamente lo autorice o mandate la 
+ley”, cuestión que le parece claro. Por tanto, si existe alguna excepcionalidad, 
+lo establecerá la ley.
+Los conceptos jurídicos indeterminados que utiliza la indicación, como 
+“asesoramientos”, quedarán entregados a la autoridad política de turno cuando 
+procederá el consentimiento, los que por cierto pueden ser distintos y diversos. 
+Siendo así, no apoya la indicación porque generaría arbitrariedades.
+El diputado señor Donoso cree que la indicación no presenta mayor 
+problema hasta la frase “protección de niñas, niños y adolescentes”, pero el 
+problema es cuando agrega “en el contexto de” porque cuando indica “servicios
+32
+--- PÁGINA 33 ---
+preventivos o asesoramientos” no queda claro que es lo que se entiende por 
+aquello, siendo ahí donde traspasamos o nos metemos en el derecho de sus 
+padres de educarlos, o inclusive introducirles contenidos que no les son propios 
+en su hogar.
+Sometida a votación la indicación del diputado Leiva, que agrega en 
+el inciso cuarto del artículo 16 quáter la frase que allí se expresa, resultó 
+rechazada. Por la afirmativa, votaron las diputadas Karol Cariola y Catalina 
+Pérez, y los diputados Ilabaca y Leonardo Soto. Por la negativa, votaron los 
+diputados señores Jorge Alessandri, Felipe Donoso, Andrés Longton y Luis 
+Sánchez (4-4-0).
+Sometida a votación el artículo 16 quáter, fue aprobado por 
+unanimidad. Otorgaron la unanimidad las diputadas señoras Karol Cariola y 
+Catalina Pérez, y los diputados Jorge Alessandri, Francisco Donoso, Marcos 
+Ilabaca, Andrés Longton, Leonardo Soto y Luis Sánchez (8-0-0).
+****** 
+ 
+Las intervenciones quedaron en registro de audio en la Secretaría de 
+la Comisión. Registro audiovisual de la sesión puede obtenerse en 
+http://www.democraciaenvivo.cl/ y en
+http://www.cdtv.cl/Programa.aspx?idPrograma=46. 
+ 
+Por haberse cumplido con su objeto, siendo las 17:00 horas, la 
+Presidenta levantó la sesión.
+PVW/fgl/ccr
+33

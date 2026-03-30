@@ -1,0 +1,922 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=12318&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:32:58
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 111ª, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+373ª LEGISLATURA, CELEBRADA EL DÍA LUNES 15 DE SEPTIEMBRE 2025, 
+DE 15.02 A 16:57 HORAS.
+SUMARIO: 
+Se continuó con la discusión y votación, en segundo 
+trámite reglamentario, del proyecto de ley que regula los 
+sistemas de inteligencia artificial (boletines N° 15869-19 y 
+N° 
+16821-19, 
+refundidos), 
+en 
+primer 
+trámite 
+constitucional, con urgencia calificada de “simple”.
+I.- PRESIDENCIA
+Presidió inicialmente la sesión el diputado Johannes Kaiser (Presidente Accidental), 
+luego el diputado Eric Aedo (Presidente Titular), el diputado Tomás Lagomarsino 
+(Presidente Accidental) y la diputada Gael Yeomans (Presidenta Accidental); actuó como 
+Abogada Secretaria de la Comisión, la señora María Soledad Fredes Ruiz; como Abogada 
+Ayudante, la señora María Jesús Serey Sardá, y como Secretaria Ejecutiva, la señora 
+Teresita Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Marta Bravo, Paula 
+Labra, Helia Molina, Marcela Riquelme y Gael Yeomans, y los diputados integrantes, 
+señores Eric Aedo, Johannes Kaiser, Tomás Lagomarsino y Hernán Palma.
+El diputado Daniel Lilayu fue reemplazado por el diputado Sergio Bobadilla.
+Concurrió a la orden del día, el Ministro de Ciencia, Tecnología, Conocimiento e 
+Innovación, señor Aldo Valle Acevedo, acompañado por el asesor legislativo Sebastián 
+Galaz.
+III.- ACTAS
+Las actas de las sesiones 109ª y 110ª se pusieron a disposición de las señoras 
+Diputadas y señores Diputados.
+IV.- CUENTA
+Se recibió el siguiente documento:
+1.- Comunicación del jefe de la Bancada de Diputados UDI, por la que informa que 
+el diputado Daniel Lilayu será reemplazado, temporalmente en esta sesión, por el diputado 
+Sergio Bobadilla.
+Se tuvo presente
+V.- ORDEN DEL DÍA
+Se continuó con la discusión y votación, en segundo trámite reglamentario, del 
+proyecto de ley que regula los sistemas de inteligencia artificial (boletines N° 15869-
+19 y N° 16821-19, refundidos),
+El diputado Johannes Kaiser, Presidente accidental, indicó que la sesión tenía 
+por objeto continuar con la discusión y votación en particular del proyecto de ley que regular 
+los sistemas de inteligencia artificial, boletines N°s 15869-19 y 16821-19, refundidos, en 
+primer trámite constitucional y segundo reglamentario, con urgencia calificada de suma.
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 23/09/2025 16:32:57 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: D75AFECE8001A8F2
+--- PÁGINA 2 ---
+Para tal efecto, señaló que se encontraba presente el señor Aldo Valle, ministro de 
+Ciencia, Tecnología, Conocimiento e Innovación, y el señor Sebastián Galaz, asesor 
+legislativo del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.
+La señora María Soledad Fredes, Secretaria, explicó que, tras votar la indicación 
+53, correspondía votar por separado los numerales 7 y 8 de la indicación del Ejecutivo, 
+punto solicitado por los diputados Tomás Lagomarsino y Paula Labra.
+A su vez, señaló que las indicaciones 54, 55 y 56, de la diputada Labra, son 
+incompatibles con lo aprobado previamente, al referirse a una mesa intersectorial, y que, 
+por lo tanto, solo procedía votar la indicación 57, del Ejecutivo, que agrega un numeral 7), 
+nuevo, al inciso primero del artículo 14°.
+Artículo 14
+Artículo 14°. Funciones del Consejo Asesor de IA. Serán funciones del Consejo Asesor de 
+IA, las siguientes:
+1) Presentar a la Ministra o Ministro de Ciencia, Tecnología, Conocimiento e Innovación una 
+propuesta de listado de sistemas de IA de alto riesgo y de riesgo limitado, cuyo uso, 
+conforme a los criterios establecidos en la presente ley, y considerando especialmente 
+aquellos que, por su naturaleza o impacto evidente, impliquen riesgos significativos, para la 
+elaboración del reglamento al que se refiere el artículo 32. En todo caso, dicho listado será 
+elaborado sobre la base de los criterios establecidos en la presente ley y será actualizado, 
+al menos, cada dos años.
+2) Asesorar a la Ministra o Ministro de Ciencia, Tecnología, Conocimiento e Innovación 
+respecto del alcance y modo de cumplimiento de las reglas a las que deberán sujetarse los 
+operadores de sistemas de IA cuyo uso sea de alto riesgo y de riesgo limitado, así como 
+las obligaciones y responsabilidades de los proveedores, implementadores, el 
+representante autorizado, el importador y/o el distribuidor, definidos en el artículo 3 de esta 
+ley y en otras materias asociadas al uso e implementación de sistemas de IA.
+Sin perjuicio de lo anterior, los sistemas de IA de uso general deberán dar siempre 
+cumplimiento a las obligaciones establecidas en el artículo 8.
+3) Presentar a la Ministra o Ministro de Ciencia, Tecnología, Conocimiento e Innovación una 
+propuesta relativa al establecimiento de los lineamientos para el desarrollo de espacios 
+controlados de prueba para los sistemas de IA, así como para la fijación de estándares 
+mínimos de cumplimiento y rendición de cuentas para su desarrollo.
+4) Presentar, al menos una vez al año, iniciativas de fomento para la innovación y desarrollo 
+de IA en áreas de interés y beneficio comunitario, como salud, seguridad, agricultura, entre 
+otras, especialmente enfocado en empresas de menor tamaño.
+5) Elaborar recomendaciones para el sector público y privado en torno al buen uso de la 
+inteligencia artificial y sus límites éticos.
+Los miembros del Consejo Asesor de IA no percibirán dieta ni remuneración por el 
+desempeño de sus funciones.
+La Subsecretaría de Ciencia, Tecnología, Conocimiento e Innovación proporcionará al 
+Consejo Asesor de IA el apoyo administrativo y los recursos necesarios para el 
+cumplimiento de sus funciones.
+Indicaciones:
+57) Del Ejecutivo, para agregar un nuevo numeral 7) al inciso primero del artículo 
+14:
+“7) Colaborar con el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación 
+en la promoción de la alfabetización y la divulgación ciudadana en materia de IA, de 
+conformidad con lo dispuesto en el inciso segundo del artículo 23 de esta ley.”.
+El señor Aldo Valle, ministro de Ciencia, Tecnología, Conocimiento e 
+Innovación, explicó que el objetivo de la indicación es fomentar el uso de la inteligencia
+2
+--- PÁGINA 3 ---
+artificial. En esta línea, indicó que es necesario promover una alfabetización sobre las 
+nuevas tecnologías.
+La diputada Helia Molina señaló que el término alfabetización era bastante 
+genérico. En este sentido, planteó que no le quedaba tan claro si el futuro consejo asesor 
+técnico de IA contará con todas las herramientas necesarias para abordar una temática tan 
+compleja como lo es la inteligencia artificial.
+El ministro Aldo Valle aclaró que esa respuesta se encontraba en la indicación 78, 
+la cual sería revisada más adelante.
+El diputado Tomás Lagomarsino pidió que se indique si la llamada promoción de 
+alfabetización ciudadana implicará una asignación de recursos para llevar a cabo su 
+cometido o si funcionará de manera similar a otros organismos, como el Servicio Nacional 
+de la Discapacidad (Senadis), que obliga a otras entidades a ejecutar acciones a pesar de 
+no contar con fondos propios.
+El señor Sebastián Galaz, asesor legislativo del Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación, explicó que la indicación 78 propone otorgar al 
+Ministerio de Ciencia la facultad de promover, diseñar y elaborar programas orientados a la 
+alfabetización y divulgación ciudadana en materia de IA. Precisó que esta labor implicará 
+educar a las personas sobre las nuevas tecnologías, pero también sobre sus derechos y 
+obligaciones, de manera de democratizar la información relacionada con la inteligencia 
+artificial.
+El diputado Johannes Kaiser, Presidente accidental, planteó que la creación de 
+programas que busquen alfabetizar sobre IA debería ser una función propia del Ministerio 
+de Educación, no del Ministerio de Ciencia, dado que se correría el riesgo de duplicar 
+funciones.
+El ministro Aldo Valle aclaró que la alfabetización y divulgación de la inteligencia 
+artificial se desarrollaría de manera conjunta con ministerios e instituciones competentes en 
+la materia, pero sin reemplazar las competencias propias del Ministerio de Educación. En 
+este sentido, explicó que el Ministerio de Ciencia ya promueve iniciativas junto a entidades 
+privadas, como el Centro Nacional de Inteligencia Artificial (Cenia) y la Fundación para la 
+Inclusión Tecnológica (Kodea), con el objeto de promover carreras pedagógicas que estén 
+vinculadas a la inteligencia artificial. En esta línea, destacó que esta labor responde a la 
+vocación de fomento y capacitación del ministerio, especialmente considerando que los 
+sistemas educacionales suelen avanzar con mayor lentitud debido a su institucionalidad y 
+a los procedimientos establecidos.
+En definitiva, señaló que el consejo asesor técnico podrá reunir información sobre 
+los avances tecnológicos y, gracias a la concurrencia de reparticiones públicas, 
+académicas, sociedad civil e industria, ofrecerá orientaciones oportunas y pertinentes para 
+definir acciones prioritarias.
+Finalmente, relató una experiencia reciente en la que niñas chilenas participaron 
+con éxito en un programa internacional de capacitación, resaltando que este tipo de 
+iniciativas democratiza el conocimiento sin invadir las competencias de otros ministerios.
+Puesta en votación, la indicación 57 fue aprobada por unanimidad, con los votos 
+a favor de las diputadas Marta Bravo, Paula Labra, Helia Molina, Marcela Riquelme y de los 
+diputados Eric Aedo, Sergio Bobadilla, Johannes Kaiser, Tomás Lagomarsino y Hernán 
+Palma (9-0-0).
+58) Del Ejecutivo, para agregar un nuevo numeral 8) en el inciso primero del artículo 
+14:
+“8) Evaluar, cada cinco años, la implementación de la presente ley y su reglamento. 
+Para ello, elaborará un informe, pudiendo formular propuestas de mejora regulatoria e 
+implementación, cuando fuere pertinente, según el resultado de la evaluación.
+El informe estará disponible al público en la página web del Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación, y deberá ser remitido al Presidente o Presidenta
+3
+--- PÁGINA 4 ---
+de la República, a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación 
+de la Cámara de Diputadas y Diputados y a la Comisión de Desafíos del Futuro, Ciencia, 
+Tecnología e Innovación del Senado.”.
+58 bis) De la diputada Paula Labra, para agregar un nuevo numeral 8) en el inciso 
+primero del artículo 14:
+"8) Evaluar cada un año, la implementación de la presente ley y su reglamento. Para 
+ello elaborará un informe público, formulando propuestas de mejora en todo ámbito, 
+considerando armonización legislativa, según resultado de la evaluación. El informe estará 
+disponible al público en la misma página web del Ministerio de Ciencias, Tecnología, 
+Conocimiento e Innovación, y deberá ser remitido a la Comisión de Futuro, Ciencias, 
+Tecnología Conocimiento e Innovación de la Cámara de Diputadas y Diputados y a la 
+Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación del Senado. A través 
+de la página web, estará disponible una sección de participación ciudadana, para efectos 
+de la evaluación de la ley. Los resultados de esta sección deberán ser consignados y 
+considerados en el mencionado informe.”.
+El ministro Aldo Valle explicó que la indicación 58 tiene por objeto garantizar una 
+revisión periódica de la ley, partiendo de la premisa de que las normas incluidas en la 
+propuesta legislativa, una vez en vigencia, podrían requerir modificaciones o adecuaciones. 
+Por lo mismo, señaló que se propone un plazo inicial de cinco años para dicha evaluación, 
+aunque aclaró que la cifra no puede ser rígida, pues sería inadecuado fijar disposiciones 
+con vocación de permanencia indefinida en ámbitos caracterizados por una rápida 
+evolución tecnológica.
+Por tal razón, destacó que incluir la obligación de evaluar periódicamente la 
+implementación de la ley permitirá mantener una deliberación legislativa oportuna en las 
+comisiones competentes del Congreso Nacional.
+La diputada Paula Labra consideró pertinente y necesaria la indicación del 
+Ejecutivo. Sin embargo, explicó que su indicación se refiere a aquellos aspectos que deben 
+corregirse y precisarse.
+Acto seguido, señaló que un plazo de cinco años resultaría excesivo, pues la 
+normativa quedaría obsoleta antes de su revisión. Argumentó que, en un período tan 
+extenso, podrían surgir nuevos usos inaceptables de la inteligencia artificial, lo que exigiría 
+una actualización mucho más frecuente, que es la razón por la que propuso una evaluación 
+al menos una vez al año.
+Añadió que un plazo de cinco años ni siquiera excede la duración de un mandato 
+presidencial, lo que impediría que cada gobierno efectúe una revisión completa durante su 
+administración.
+Asimismo, explicó que propuso eliminar la referencia explícita a que el informe deba 
+ser remitido al Presidente de la República, por estimar que tal obligación sería demasiado 
+restrictiva. A su modo de ver, lo oportuno sería que el documento se envié a todas las 
+instituciones pertinentes, como los ministerios de Economía y Educación. En este sentido, 
+incluyó en su propuesta un último inciso para que, a través de la misma página web del 
+Ministerio de Ciencia, se habilite una sección de participación ciudadana. Destacó que, 
+aunque estas opiniones no son vinculantes, deberían ser consignadas en el informe oficial 
+y tenidas en cuenta en las futuras propuestas de mejora.
+El ministro Aldo Valle manifestó su disposición a reducir el plazo de evaluación a 
+tres años, argumentando que esta cifra podría ser una solución prudente, pues permitiría 
+responder a los cambios tecnológicos sin incurrir en revisiones excesivamente frecuentes 
+que puedan restar estabilidad a la normativa.
+La diputada Gael Yeomans preguntó si correspondía presentar una indicación a 
+nombre de los miembros de la Comisión para concretar la propuesta de acuerdo planteada 
+por el ministro Valle, de modo de evitar requerir la firma del ministerio Secretaría General 
+de la Presidencia (Segpres).
+4
+--- PÁGINA 5 ---
+La diputada Paula Labra manifestó su desacuerdo y recordó que por esa razón 
+había presentado su indicación, señalando que consideraba insuficiente el plazo de tres 
+años y que era fundamental incluir la participación ciudadana, ya que el consejo no reunía 
+a todos los actores necesarios para evaluar adecuadamente la ley.
+En respuesta a la consulta de la diputada Yeomans, dijo que, al igual que ella, 
+cualquier diputado podría presentar la misma indicación que planteó el Ejecutivo, pero 
+aclaró que no otorgaría su acuerdo para que fuera consensuada.
+El diputado Eric Aedo, Presidente, planteó como posibilidad que la diputada 
+Yeomans presente una indicación, aunque consideró que el plazo de cinco años parecía 
+excesivo, sobre todo si se consideraba la rapidez con que avanza la tecnología. Por lo 
+mismo, propuso evaluar si era posible establecer una revisión cada dos años, atendiendo, 
+precisamente, a la velocidad con que se producen los cambios tecnológicos.
+El diputado Tomás Lagomarsino señaló que el ministerio podría modificar el 
+reglamento en cualquier momento, ya que esa facultad corresponde al ministro de Ciencia.
+En ese contexto, explicó que lo discutido no impedía esos cambios, sino que se trataba de 
+la evaluación de la aplicación de la ley y el reglamento, por lo que debía despejarse la duda 
+de que la revisión quinquenal restringiera esa potestad.
+Por último, aclaró que el reglamento podía modificarse siempre que se ajustara a la 
+ley e indicó que lo que se planteaba era una evaluación orientada más al mediano o largo 
+plazo que a un horizonte inmediato.
+El asesor Sebastián Galaz explicó que la evaluación debía ser una función propia 
+del consejo, sin afectar la potestad reglamentaria del Ejecutivo para modificar o actualizar 
+el reglamento cuando fuera necesario.
+En ese sentido, indicó que la evaluación buscaba basarse en informes técnicos 
+derivados de la aplicación de la ley y que, a diferencia de la actualización bienal del listado 
+de usos, este ejercicio debía centrarse en medir efectos, lo cual requería tiempo suficiente. 
+Sin embargo, señaló que un año resultaba insuficiente, pues las propuestas de cambio 
+debían pasar por el proceso legislativo, y destacó la importancia de reconocer estas 
+herramientas en nuevas leyes para fortalecer evaluaciones continuas.
+Luego, puntualizó que cinco años resultaba excesivo, que tres años era un plazo 
+más adecuado al coincidir con la revisión cada dos años del reglamento y permitir que una 
+administración recibiera la evaluación, y que el informe debía remitirse al Presidente de la 
+República al provenir de un organismo público.
+La diputada Paula Labra señaló que, en la implementación de la ley, debían 
+considerarse factores como las nuevas y extensas atribuciones otorgadas a la Agencia de 
+Protección de Datos Personales, cuya presidenta ya había advertido que no contaba con 
+los recursos necesarios para cumplir adecuadamente esas funciones, a lo que ahora se 
+sumaba la regulación de la inteligencia artificial.
+Enseguida, añadió que sería conveniente realizar una evaluación al cabo de un año 
+para saber si dicha agencia estaba en condiciones de cumplir con su rol sancionatorio y, en 
+caso de necesitar más recursos, poder abordarlo en la discusión presupuestaria anual.
+Del mismo modo, advirtió que se trataba de un tema relevante por los recursos 
+comprometidos y cuestionó la necesidad de fijar un plazo de, a lo menos, un año y no tres, 
+pensando en la necesidad real de la evaluación.
+Finalmente, señaló que una evaluación anual no mediría el impacto total de la ley, 
+pero sí permitiría identificar artículos susceptibles de mejora y avanzar en 
+perfeccionamientos de corto, mediano y largo plazo, lo que no implicaba que el informe del 
+primer año debiera ser igual al del quinto. Por ello, insistió en que el plazo de un año era el 
+más adecuado.
+El diputado Eric Aedo, Presidente, explicó que estaba de acuerdo con que se 
+presentara una indicación y señaló que podía consultar si contaba con el respaldo del
+5
+--- PÁGINA 6 ---
+Ejecutivo. Agregó que lo relevante era que la historia de la ley dejara claramente reflejado 
+lo resuelto.
+El ministro Aldo Valle planteó como prevención que se considerara la fórmula de 
+establecer la evaluación “al menos cada tres años”, consultando si existía la posibilidad de 
+dejarlo redactado de esa manera en caso de ser necesario.
+Puesta en votación, la indicación 58 bis) fue rechazada por no alcanzar al quorum 
+de aprobación. Votaron a favor las diputadas Marta Bravo y Paula Labra. Votaron en contra 
+las diputadas Helia Molina y Gael Yeomans, y el diputado Tomás Lagomarsino. Se abstuvo 
+el diputado Eric Aedo (2-3-1).
+58 ter) De la diputada Gael Yeomans, para agregar un nuevo numeral 8) en el 
+inciso primero del artículo 14:
+“8) Evaluar, al menos cada tres años, la implementación de la presente ley y su 
+reglamento. Para ello, elaborará un informe, pudiendo formular propuestas de mejora 
+regulatoria e implementación, cuando fuere pertinente, según el resultado de la evaluación.
+El informe estará disponible al público en la página web del Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación, y deberá ser remitido al Presidente o Presidenta 
+de la República, a la Comisión de Futuro, Ciencias, Tecnología, Conocimiento e Innovación 
+de la Cámara de Diputadas y Diputados y a la Comisión de Desafíos del Futuro, Ciencia, 
+Tecnología e Innovación del Senado.”.
+Puesta en votación, la indicación 58 ter fue aprobada por mayoría, con los votos a 
+favor de las diputadas Helia Molina y Gael Yeomans y de los diputados Eric Aedo y Tomás 
+Lagomarsino. Votó en contra la diputada Paula Labra. Se abstuvo la diputada Marta Bravo 
+(4-1-1).
+La señora María Soledad Fredes, Secretaria, expresó que la diputada Labra había 
+retirado las indicaciones 59 y 61, y que la 60 es incompatible con la ya aprobado. En 
+consecuencia, los artículos 15, 16 y 17 se dan por aprobados.
+Artículo 18
+Artículo 18°. Normas de funcionamiento. El Consejo Asesor de IA sesionará con la 
+asistencia de al menos nueve de sus miembros, y deberá adoptar sus acuerdos con el voto 
+favorable de la mayoría de los asistentes. En caso de empate, dirimirá quien presida la 
+reunión.
+El Consejo Asesor de IA establecerá sus demás normas de funcionamiento interno, las que 
+serán aprobadas por tres cuartos de sus miembros en ejercicio, y su aprobación se 
+dispondrá mediante decreto supremo expedido a través del Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación.
+Indicación:
+62) Del Ejecutivo, para modificar el inciso segundo del artículo 18° de la siguiente 
+manera:
+“Para agregar en el inciso segundo, a continuación del punto final, que pasa a ser 
+seguido, la frase “Las actas de las sesiones del Consejo deberán ser publicadas en el sitio 
+web del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación en la forma y plazo 
+que disponga el decreto supremo anteriormente referido.”.”.
+El ministro Aldo Valle explicó que el propósito de la indicación es aumentar la 
+publicidad y transparencia de las actas de las sesiones del Consejo Asesor de IA, de 
+conformidad con sus normas de funcionamiento. Precisó que la idea es contribuir al control 
+social que requiere esta instancia, otorgando a la ciudadanía la posibilidad de acceder a 
+sus definiciones.
+Puesta en votación, la indicación 62 fue aprobada por unanimidad, con los votos a 
+favor de las diputadas Paula Labra, Helia Molina, Gael Yeomans y Marta Bravo, y del 
+diputado Tomás Lagomarsino (5-0-0).
+6
+--- PÁGINA 7 ---
+La señora María Soledad Fredes, Secretaria, explicó que la indicación 63 es 
+incompatible con la ya aprobado.
+Artículo 19
+Artículo 19.- Fiscalización y cumplimiento. La fiscalización y el cumplimiento de las 
+disposiciones de esta ley y su reglamento corresponderá a la APDP. En particular, sus 
+funciones serán:
+1) Fiscalizar el cumplimiento de las disposiciones de esta ley y su reglamento. Para ello, 
+podrá requerir a cualquier operador la entrega de toda la información que fuere necesaria 
+para el cumplimiento de su función fiscalizadora.
+2) Determinar las infracciones e incumplimientos en que incurran quienes contravengan las 
+prohibiciones o no cumplan las obligaciones de la presente ley. Para tales efectos, podrá 
+citar a declarar al operador, sus representantes legales, administradores, asesores y 
+dependientes, así como a toda persona que haya tenido participación o conocimiento 
+respecto de algún hecho que sea relevante para resolver un procedimiento sancionatorio. 
+Asimismo, podrá tomar las declaraciones respectivas por otros medios que aseguren su 
+fidelidad.
+3) Ejercer la potestad sancionadora sobre las personas naturales o jurídicas que 
+contravengan las disposiciones de la presente ley y su reglamento, aplicando las sanciones 
+establecidas en el artículo 25.
+4) Resolver las solicitudes y reclamos que formulen las personas afectadas contra quienes 
+contravengan las prohibiciones o no cumplan las obligaciones de la presente ley y su 
+reglamento.
+5) Coordinar con la ANCI en los casos en que la APDP, en el ejercicio de sus competencias, 
+según lo dispuesto en la presente ley, detecte infracciones o vulnerabilidades derivadas del 
+uso de sistemas de inteligencia artificial que puedan comprometer la seguridad de las redes, 
+sistemas informáticos, servicios esenciales u operadores de importancia vital regulados en 
+la ley N° 21.663. En tales situaciones, la APDP remitirá los antecedentes a la ANCI para 
+que, dentro de su ámbito de atribuciones, evalúe el riesgo y determine las medidas de 
+seguridad pertinentes.
+Asimismo, la APDP podrá solicitar a la ANCI un informe sobre la evaluación y tratamiento 
+del incidente, sin perjuicio de las competencias propias de cada organismo. Dicho informe 
+será considerado por la APDP al fundamentar sus decisiones y resoluciones.”.
+6) Ejercer las demás funciones y atribuciones que la ley le encomiende.
+Indicaciones:
+64) De la diputada Paula Labra, para votar por separado el artículo 19°.
+La diputada Pabla Labra aclaró que solicitó votación separada para eliminar el 
+artículo 19°, porque todas las funciones de fiscalización y cumplimiento recaen en la 
+Agencia de Protección de Datos Personales, cuyo proceso implementación ha enfrentado 
+a dificultades.
+A modo de fundamento, mencionó una entrevista a Romina Garrido, presidenta de 
+la Comisión Asesora para la Implementación de la Ley de Protección de Datos Personales, 
+del Ministerio Secretaría General de la Presidencia, publicada bajo el título: “Romina 
+Garrido: El presupuesto de la Agencia de Protección de Datos presenta falencias 
+estructurales importantes para ponerla en marcha.”. También citó el epígrafe: “La abogada 
+advirtió que el actual cronograma de implementación de la ley era inviable y se requerían 
+más recursos y capacidades para evitar riesgos de parálisis institucional e incertidumbre 
+jurídica.”.
+Además, destacó que la presidenta de la comisión indicó que el presupuesto y la 
+dotación de la agencia son insuficientes y propuso elevar los fondos de mil setecientos 
+millones de pesos a cerca de cuatro mil millones de pesos, y la dotación mínima de 19 a 50 
+funcionarios. Sobre el último punto, explicó que la dotación es poca, porque, además de
+7
+--- PÁGINA 8 ---
+sancionar y fiscalizar, la agencia deberá comunicar y generar cultura de protección de 
+datos, lo que se vincula directamente con el proyecto en discusión.
+También hizo presente que el informe de la Comisión de Hacienda sobre el 
+presupuesto para la implementación de la ley que regula los sistemas de inteligencia 
+artificial no menciona la destinación de recursos adicionales para la agencia, lo cual fue uno 
+de los motivos por los cuales la instancia lo rechazó.
+Para reforzar su posición, volvió a citar a la abogada Romina Garrido: “Aquí se juega 
+con derechos fundamentales de las personas, con la confianza ciudadana respecto a cómo 
+el Estado y las mismas empresas tratan los datos personales y de cómo Chile se inserta en 
+la economía digital.”.
+Luego, dijo que entregar esa cantidad de atribuciones a la Agencia de Protección 
+de Datos Personales es una irresponsabilidad, porque no tiene la capacidad para asumirlas 
+y puede producirse traslape de funciones y sanciones vigentes.
+Concluyó que ya se advierten problemas en la ley de Protección de Datos 
+Personales y que el proyecto en discusión los refuerza.
+El diputado Tomás Lagomarsino, Presidente accidental, mencionó que la ley aún 
+está en proceso de implementación y le resta mucha tramitación. También sostuvo que, en 
+etapas posteriores, será necesario que el Ejecutivo asigne más recursos.
+Por otra parte, recordó que para centralizar las facultades de fiscalización y sanción, 
+que en un primer momento estaban radicadas en el Consejo Asesor de IA, se optó por la 
+Agencia de Protección de Datos Personales, lo que coincide con la opinión de la industria 
+y de los expertos en inteligencia artificial. Planteó que rechazar el artículo significa 
+desconocer dichas recomendaciones.
+Ahora bien, coincidió en que la agencia necesita recursos y, desde esa perspectiva, señaló 
+que espera que la Comisión de Hacienda y el nuevo ministro del ramo le otorguen más 
+financiamiento, pues el proyecto se convertirá en ley, a lo menos, en dos años y debe ser 
+objeto de un informe financiero, en el contexto de su tramitación.
+La diputada Paula Labra consultó al Ejecutivo si la Agencia de Protección de Datos 
+Personales requiere una reformulación presupuestaria, de atribuciones o normativa.
+Asimismo, destacó que, al margen de su entrada en vigor, la sola discusión en torno 
+a la futura ley genera impactos en la industria, la sociedad, la academia y el ecosistema. En 
+ese sentido, advirtió que se han levantado alertas, a propósito de la incertidumbre en torno 
+a los recursos con que la agencia contará a futuro, y llamó a los legisladores a ser 
+responsables y evaluar los efectos de los artículos en debate.
+El diputado Tomás Lagomarsino, Presidente accidental, agregó que el artículo 
+8°, que en su mayoría fue rechazado, reduce al mínimo la incertidumbre de la industria. 
+Con base en lo anterior, planteó que se deben reconocer los logros legislativos alcanzados 
+o, de lo contrario, admitir que se está en contra de la ley en su totalidad.
+El ministro Aldo Valle calificó la indicación de desproporcionada, ya que elimina un 
+artículo sin ofrecer un texto que lo sustituya y responda a las dificultades que se quieren 
+eliminar.
+Además, explicó que la medida implica sustituir la labor de la Agencia de Protección 
+de Datos Personales por un sistema de autorregulación, lo que representa desregulación y 
+afecta la coherencia del proyecto. Asimismo, advirtió que se dejará a los usuarios sin 
+protección y aumentarán los riesgos, considerando, además, que la fiscalización 
+contemplada en el proyecto de ley de inteligencia artificial es ex post.
+Luego, reconoció las limitaciones logísticas y financieras de la agencia, pero destacó 
+que se trata de un órgano creado por ley, con legitimidad y reconocimiento del Congreso 
+Nacional.
+8
+--- PÁGINA 9 ---
+Para terminar, afirmó que el Estado tiene la obligación legal de responder a los 
+requerimientos presupuestarios y reiteró la necesidad de aprobar el artículo 19°, en los 
+términos actuales.
+La diputada Paula Labra criticó que, al hablar de las atribuciones de la Agencia de 
+Protección de Datos Personales, se alude únicamente al artículo 8° -que trata solo de las 
+reglas aplicables a sistemas de IA de alto riesgo-, cuando también le confieren facultades 
+el artículo 12° sobre incidentes, el 25° sobre infracciones, y el 27° sobre procedimiento 
+administrativo sancionador, entre otros.
+A continuación, con miras a la historia de la ley, afirmó que se están 
+malinterpretando sus propuestas de reformulación, ya que nunca pretendió dejar el 
+proyecto sin regulación, y así lo planteó en una mesa intersectorial con conocimiento y 
+dirección de la división de Tecnologías Emergentes del Ministerio de Ciencia. Además, dijo 
+que la referencia a la autorregulación responde a buenas prácticas internacionales, pero no 
+implica sustituir la regulación obligatoria por una voluntaria.
+Para finalizar, volvió a preguntar al ministro -que no había respondido previamente- 
+si opina que la Agencia de Protección de Datos Personales tiene capacidades suficientes 
+para cumplir sus funciones actuales o si, en el futuro, será necesario reformularla y dotarla 
+de más recursos.
+El ministro Aldo Valle respondió que la Agencia de Protección de Datos Personales 
+es un órgano creado por ley y, en consecuencia, a él no le corresponde emitir juicios sobre 
+la legitimidad o legalidad de sus actos. En cuanto a los recursos, sostuvo que es muy 
+probable que la agencia necesite más, tal como sucede con otras reparticiones públicas; 
+sin embargo, aseguró que no tiene dudas de que el Poder Ejecutivo, cualquiera sea el 
+gobierno, actuará con la responsabilidad debida para atender lo que la ley ha establecido.
+La señora María Soledad Fredes, Secretaria, expresó que, en este caso, lo que 
+correspondía era votar el artículo 19°, sea a favor o en contra.
+Puesto en votación, el artículo 19 fue aprobado con los votos a favor de las 
+diputadas Helia Molina y Gael Yeomans, y del diputado Tomás Lagomarsino. Votó en contra 
+la diputada Paula Labra (3-1-0).
+La señora María Soledad Fredes, Secretaria, advirtió que la indicación 65 es 
+incompatible con lo ya aprobado y que, por tanto, correspondía votar las indicaciones 66 y 
+67.
+66) De la diputada Paula Labra, para agregar un nuevo artículo 19° en el articulado 
+"TÍTULO VI GOBERNANZA", pasando el antiguo artículo 19° a ser vigésimo:
+“Artículo xxx.- Programa de autorregulación. Créase un programa voluntario de 
+“Directrices éticas de buenas prácticas y sustentabilidad para una IA confiable”, en adelante 
+el programa. Los operadores que se adhieran y cumplan voluntariamente este programa, 
+se entenderán calificados para el desarrollo e implementación de sistemas de IA 
+respetuosos de los derechos fundamentales.
+Este programa será gestionado por la división de tecnologías emergentes del 
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, dentro del ámbito de sus 
+atribuciones conforme al Decreto Nº3, del 30 de marzo de 2020, que aprueba el reglamento 
+que determina la estructura interna del Ministerio de Ciencia, Tecnología, Conocimiento e 
+Innovación. Un reglamento, expedido por esta misma institución, establecerá los requisitos 
+y beneficios por cumplimiento del programa voluntario, e identificará aquellos operadores 
+calificados.”.
+67) De la diputada Paula Labra, para agregar un nuevo artículo 19° en el articulado 
+"TÍTULO VI GOBERNANZA", pasando el antiguo artículo 19° a ser vigésimo:
+“Artículo xxx.- Responsabilidad de gestión de riesgos derivada del programa. Todo 
+operador de un sistema de IA adherido al programa, deberá asumir e implementar un plan 
+de gestión de riesgos razonables, acorde a la naturaleza del sistema, con el fin de prevenir 
+y mitigar vulneraciones a los derechos fundamentales.
+9
+--- PÁGINA 10 ---
+En caso de afectaciones debidamente fundamentadas a los derechos de las 
+personas, se estará a lo dispuesto en el artículo 12 de incidentes.”.
+La diputada Paula Labra pidió que se cuide no cortar el micrófono durante sus 
+intervenciones, ya que en dos ocasiones no pudo concluir debido a este problema.
+En segundo lugar, planteó la relevancia de incorporar la autorregulación en el 
+proyecto, advirtiendo que no está considerada y que no debe representar un problema para 
+el Ejecutivo, pues ya existe todo un sistema sancionatorio aprobado.
+Según explicó, se trata de un programa voluntario de directrices éticas de buenas 
+prácticas en materia de inteligencia artificial confiable y sustentable, dirigido y certificado 
+por el Ministerio de Ciencia -a través de su división de Tecnologías Emergentes-, con un 
+reglamento que lo norme.
+A modo de ejemplo, lo comparó con iniciativas de certificación como los sellos de 
+calidad y sustentabilidad de Sernatur y Sercotec, que no solo entregan prestigio a las 
+empresas, sino que también incluyen procesos de capacitación, generan ventajas 
+competitivas y contribuyen a la economía. Agregó que un plan de autorregulación en IA 
+tendría beneficios similares: fomentaría una cultura de excelencia, fortalecería la reputación 
+de las empresas, promovería el desarrollo ético de la tecnología mediante incentivos -y no 
+solo sanciones-, y permitiría integrar valores de ética y sustentabilidad ambiental en las 
+compañías. De hecho, subrayó que el modelo planteado no genera perjuicios, sino 
+beneficios adicionales, e incluso podría incluir apoyos gubernamentales como 
+capacitaciones.
+En definitiva, concluyó que se trata de avanzar hacia un esquema de 
+responsabilidad basado en incentivos, en lugar de uno limitado únicamente a obligaciones.
+La diputada Gael Yeomans, Presidenta accidental, ofreció disculpas a la diputada 
+Labra por los inconvenientes con el micrófono y aclaró que no existió intención de 
+interrumpirla, ya que, al ejercer de Presidenta accidental, no está familiarizada con el hecho 
+de que el sistema corte automáticamente las intervenciones de los demás parlamentarios 
+al prender ella su micrófono.
+El diputado Tomás Lagomarsino manifestó que es posible alcanzar una regulación 
+adecuada para el país combinando la regulación ex post, que ya se está discutiendo, con 
+mecanismos de autorregulación. Aseguró que ambos enfoques son necesarios, dado que, 
+en muchos usos de la inteligencia artificial, el cliente directo no es la persona, sino las 
+empresas a las cuales se presta el servicio.
+Luego, utilizó el ejemplo de los chatbots en el retail para argumentar que, en esos 
+casos, el cliente de la IA es la empresa y no el usuario final, quien no puede elegir si 
+interactuar con ella o no. Distinguió esto de las apps descargables, como App Store y 
+Google Play, donde el usuario sí tiene poder de elección.
+Señaló que el foco de la ley no son las apps globales, sino las aplicaciones usadas 
+por instituciones nacionales, públicas y privadas. Puso como ejemplo al Ministerio Público, 
+donde el cliente es la institución y no un ciudadano particular.
+Aunque se mostró a favor de complementar la regulación con programas de 
+autorregulación e incentivos, fue enfático en plantear que esto no debe reemplazar la 
+regulación ex post que propone el proyecto de ley.
+La diputada Paula Labra complementó lo dicho por el diputado Lagomarsino y 
+aclaró que la autorregulación no reemplaza la normativa existente, sino que la 
+complementa.
+Argumentó que la certificación ética será un valor agregado para las empresas y 
+atraerá a más clientes. Además, propuso que solo las organizaciones certificadas por el 
+mismo ministerio de Ciencias puedan participar en licitaciones públicas, creando así un 
+incentivo concreto.
+Finalmente, enfatizó que esta medida es un complemento regulado -no un sustituto- 
+de las normas del proyecto de ley.
+10
+--- PÁGINA 11 ---
+La diputada Gael Yeomans expresó su preocupación por un efecto concreto de la 
+indicación. Cuestionó que, con solo adherirse al programa de autorregulación, se pueda 
+entender que una empresa está automáticamente calificada en cuanto a respeto de los 
+derechos fundamentales. En ese sentido, apuntó que este efecto puede ser incompatible 
+con la regulación ya avanzada en otras áreas.
+Luego, aclaró que estaba de acuerdo con el resto de la medida, como con que el 
+programa fuera gestionado por el ministerio, y que solo objeta esa consecuencia específica. 
+Finalmente, solicitó conocer la opinión del ministerio al respecto.
+El diputado Tomás Lagomarsino preguntó específicamente a la diputada Labra 
+sobre su propuesta de que solo las empresas certificadas en el programa de 
+autorregulación puedan participar en licitaciones públicas. Mencionó que la idea le parece 
+positiva, pero señaló que no está estipulada en el proyecto de ley ni en las indicaciones 
+presentadas.
+La diputada Paula Labra respondió a la consulta del diputado Lagomarsino y aclaró 
+que hay que leer el artículo en su completitud. Aseguró que su propuesta es un ejemplo 
+concreto de los beneficios que podrán establecerse mediante el reglamento que deberá 
+emitir el ministerio de Ciencia, tal como lo establece el articulado. Este reglamento 
+determinará requisitos y beneficios como, por ejemplo, incluir un factor de ponderación 
+favorable para las empresas certificadas en las bases de licitación del Estado.
+En respuesta a la diputada Yeomans, enfatizó que la calificación como empresa 
+respetuosa de los derechos fundamentales no es automática. Por el contrario, será el 
+ministerio de Ciencia el organismo encargado de dictaminar el reglamento y certificar a los 
+operadores que cumplan con los requisitos establecidos.
+Finalmente, recalcó que el programa de autorregulación se concibe como un 
+complemento a la regulación general, inspirándose en modelos de certificación voluntaria 
+ya existentes y exitosos en Chile, como los sellos de turismo o los distintivos de 
+sustentabilidad para pymes.
+El ministro Aldo Valle planteó diversas observaciones jurídicas respecto de la 
+propuesta de incorporar un programa de autorregulación en el proyecto en discusión. En 
+primer lugar, indicó que, si bien es válido discutir dicha inclusión, debería quedar claramente 
+establecido su carácter complementario, a fin de evitar conflictos interpretativos en ciertas 
+materias, como aquellas relacionadas con sanciones y normas de orden público.
+En segundo término, advirtió que los requisitos que el ministerio pudiera fijar 
+mediante un reglamento podrían ser cuestionados en cuanto a su validez legal, ya que 
+deberían derivar de criterios definidos por la ley. Además, reconoció que se cometió un 
+error al eliminar en el artículo 8° los criterios contemplados para los usos de alto riesgo, ya 
+que dejará a la administración sin un fundamento legal claro para establecer tales 
+requisitos.
+A continuación, destacó que la futura ley deberá proveer fundamentos y límites 
+explícitos para que la administración no imponga cualquier tipo de exigencia, dado que 
+estas podrían ser objeto de impugnaciones judiciales que podrían afectar la eficacia de la 
+normativa.
+Por último, sostuvo que el Ejecutivo no se cerraba a la existencia de un programa 
+complementario, pero insistió en que deberá quedar bien delimitado, pues, a su juicio, se 
+debe asegurar que los requisitos reglamentarios tendrán un fundamento legal y límites 
+precisos.
+El asesor Sebastián Galaz explicó que la futura disposición se estructurará en 
+función de los niveles de riesgo asociados al uso de los sistemas de inteligencia artificial. 
+Señaló que un programa de autorregulación, como el propuesto, está pensado para 
+operadores que no representen un alto riesgo o cuyo riesgo sea limitado. Asimismo, precisó 
+que el programa conllevará que dichos operadores asuman voluntariamente ciertos 
+compromisos que les permitan posicionarse mejor en el mercado, aun cuando sus sistemas 
+no tengan un riesgo evidente. De esta manera, señaló que quienes decidan participar
+11
+--- PÁGINA 12 ---
+asumirán una carga regulatoria adicional, todo con el fin de contar con una especie de 
+certificación o respaldo que les otorgue mayor competitividad.
+De todas maneras, enfatizó que la iniciativa debe entenderse como un mecanismo 
+complementario a las disposiciones que regulan los usos de alto y de riesgo limitado, en 
+coherencia con el enfoque ex post que busca aplicar la futura ley para modernizar los 
+sistemas de regulación.
+Para finalizar, coincidió con el ministro Aldo Valle en la importancia de definir con 
+claridad las funciones y atribuciones del ministerio en el reglamento que sustente este 
+programa.
+La diputada Paula Labra defendió la incorporación del programa de 
+autorregulación, aclarando que este sería voluntario, por lo que no podría considerarse una 
+carga regulatoria excesiva.
+En ese sentido, comentó que la adhesión al programa no eximirá a las empresas de 
+cumplir con la regulación establecida en el proyecto de ley, ya que el artículo siguiente, 
+sobre responsabilidad en la gestión de riesgos, establece que, en caso de afectaciones 
+debidamente fundadas a los derechos de las personas, se aplicará lo dispuesto en el 
+artículo 12.
+Ante todo, destacó que el programa tiene como finalidad fomentar e impulsar la 
+autorregulación empresarial, sumando herramientas sin eliminar las sanciones o 
+disposiciones ya vigentes. Explicó que la autorregulación existe en muchos países, incluso 
+en aquellos que cuentan con legislaciones sancionatorias similares, por lo que, a su juicio, 
+esta propuesta solo contribuirá a promover la innovación en inteligencia artificial, que es el 
+objetivo central de la iniciativa en discusión.
+Finalmente, precisó que el programa aplicaría a todos los niveles de riesgos 
+relacionados con el uso de la inteligencia artificial, aunque la certificación quedaría a criterio 
+del Ministerio de Ciencia, el cual, mediante un reglamento, deberá determinar qué 
+desarrollos cumplen con un uso respetuoso de los derechos fundamentales, aun cuando 
+resulte inusual certificar un uso de riesgo inaceptable.
+Puesta en votación, la indicación 66 fue rechazada por no alcanzar el quorum de 
+aprobación. Votaron a favor la diputada Paula Labra y el diputado Eric Aedo. Votó en contra 
+la diputada Helia Molina. Se abstuvieron la diputada Gael Yeomans y el diputado Tomás 
+Lagomarsino (2-1-2).
+La señora María Soledad Fredes, Secretaria, informó que la indicación 67 resultaba 
+incompatible, ya que dependía de la indicación 66, la cual fue rechazada.
+Artículo 20
+“Artículo 20.- Espacios controlados de pruebas para la IA. Los órganos de la administración 
+del Estado con facultades fiscalizadoras y/o regulatorias, dentro de sus respectivas 
+competencias, podrán habilitar espacios controlados de prueba que fomenten la innovación 
+y permitan la investigación, desarrollo, prueba y la validación de sistemas innovadores de 
+IA.
+La habilitación de estos espacios deberá garantizar el respeto a los derechos 
+fundamentales, la seguridad, la democracia y la protección del medioambiente, así como la 
+prevención y mitigación de riesgos en ciberseguridad y protección de datos personales.
+Los órganos que habiliten espacios controlados de pruebas proporcionarán orientación y 
+supervisión con miras a detectar riesgos significativos sobre los derechos fundamentales 
+de las personas asegurados por la Constitución Política de la República, la salud, la 
+seguridad, la democracia, o el medio ambiente, así como también para probar y demostrar 
+la eficacia de las medidas de mitigación propuestas.
+Un reglamento expedido por intermedio del Ministerio de Ciencia, Tecnología, 
+Conocimiento e Innovación establecerá los criterios mínimos para la creación, 
+funcionamiento y supervisión de los espacios controlados de prueba. Los órganos que
+12
+--- PÁGINA 13 ---
+habiliten estos espacios deberán adecuar sus normativas internas conforme a este 
+reglamento, estableciendo condiciones específicas de acceso, seguridad, evaluación de 
+riesgos y mecanismos de supervisión aplicables a los sistemas que se prueben en dichos 
+espacios.
+En caso de que se detecte un riesgo significativo que pueda afectar los derechos 
+fundamentales, la salud, la seguridad, la democracia, o el medio ambiente el operador del 
+sistema de IA deberá adoptar medidas inmediatas y apropiadas de mitigación. De no 
+implementarse adecuadamente estas medidas, los órganos competentes estarán 
+facultados para suspender temporal o permanentemente la prueba si no se logra mitigar el 
+riesgo significativo detectado.”.
+Indicaciones:
+68) De la diputada Paula Labra, para reemplazar el inciso primero del artículo 20 
+de la siguiente manera:
+“Artículo 20.- Espacios de prueba exploratorios de IA. Los órganos de la 
+administración del Estado, determinados por el Ministerio de Ciencia, Tecnología, 
+Conocimiento e Innovación, a través de la División de tecnologías emergentes, podrán 
+habilitar espacios de prueba exploratorios de IA, en adelante “espacios de prueba”, que 
+fomenten la innovación y permitan la investigación, desarrollo, prueba y la validación de 
+sistemas innovadores de IA.”.
+69) De la diputada Paula Labra, para reemplazar el inciso tercero del artículo 20 
+de la siguiente manera:
+“Los órganos que habiliten espacios de prueba, proporcionarán todas las medidas 
+necesarias para impulsar el desarrollo y fomentar la innovación de sistemas de IA, además 
+de orientación y supervisión con miras a detectar riesgos significativos sobre los derechos 
+fundamentales de las personas asegurados por la Constitución Política de la República, la 
+salud, la seguridad, la democracia, o el medio ambiente, así como también para probar y 
+demostrar la eficacia de las medidas de mitigación propuestas.”.
+70) Del Ejecutivo, para agregar un nuevo inciso cuarto nuevo, pasando el actual 
+cuarto a quinto y así sucesivamente, en el artículo 20:
+“Para efectos de fomentar la innovación de los sistemas de IA, en el marco de los 
+espacios controlados de prueba, los órganos de la Administración del Estado que los 
+habiliten podrán facilitar a los operadores, dentro de sus competencias, el acceso temporal, 
+restringido y auditado a datos en formato estructurado, interoperable y seguro con sujeción 
+a la ley N° 19.628, sobre Protección de la Vida Privada; a la ley N° 20.285, sobre Acceso a 
+la Información Pública; a la ley N° 21.658 que crea la Secretaría de Gobierno Digital, y 
+adecúa los cuerpos legales que indica, y a la ley N° 21.663, Ley Marco de Ciberseguridad, 
+incluyendo la demás normativa aplicable.”.
+71) De la diputada Paula Labra, para reemplazar el inciso cuarto del artículo 20 de 
+la siguiente manera:
+“La mesa intersectorial, definirá lineamientos técnicos para la conformación y 
+correcto funcionamiento de estos espacios de prueba, que serán propuestos al Ministerio 
+de Ciencia, Tecnología, Conocimiento e Innovación, para la dictación de un reglamento que 
+establecerá los criterios mínimos para la creación, funcionamiento y supervisión de los 
+espacios controlados de prueba. Los órganos que habiliten estos espacios deberán adecuar 
+sus normativas internas conforme a este reglamento, estableciendo condiciones 
+específicas que fomenten la innovación y permitan la investigación, desarrollo, acceso, 
+seguridad y evaluación de riesgos y aplicables a los sistemas que se prueben en dichos 
+espacios.”.
+72) De la diputada Paula Labra, para reemplazar el inciso quinto del artículo 20 de 
+la siguiente manera:
+“En caso de que se detecte un riesgo significativo que pueda afectar los derechos 
+fundamentales, la salud, la seguridad, la democracia, o el medio ambiente el operador del
+13
+--- PÁGINA 14 ---
+sistema de IA deberá adoptar medidas inmediatas y apropiadas de mitigación. De no 
+implementarse adecuadamente estas medidas, los órganos competentes estarán 
+facultados para suspender temporal o permanentemente la prueba si no se logra mitigar el 
+riesgo significativo detectado.”.
+La diputada Paula Labra explicó que las indicaciones tienen como objetivo redirigir 
+el enfoque de los espacios controlados de prueba hacia un mayor impulso a la innovación. 
+Justificó el cambio de nombre a “espacios de prueba exploratorios” señalando que este 
+será más atractivo y comprensible.
+Enseguida, argumentó que el texto inicial otorgaba la responsabilidad de habilitar 
+estos espacios exclusivamente a órganos fiscalizadores del Estado, como la Secretaría 
+Regional Ministerial de Salud, entidades que, según señaló, carecen de la experiencia 
+técnica y de los recursos para implementar un sandbox o entorno de prueba. Por lo mismo, 
+sostuvo que esta labor debería quedar bajo la responsabilidad del Ministerio de Ciencia, el 
+cual podría recibir asesoría de los órganos pertinentes en cada área. Del mismo modo, 
+indicó que su propuesta refuerza en el inciso tercero la obligación de los órganos 
+habilitadores de proporcionar todas las medidas necesarias para fomentar la innovación y 
+el desarrollo, manteniendo al mismo tiempo las exigencias de supervisión y detección de 
+riesgos significativos.
+Luego, describió una indicación complementaria que establece que los operadores 
+que participen en estos espacios de prueba quedarán exentos de responsabilidad civil por 
+los eventuales daños que pudieran generarse durante la fase experimental, excepto en 
+casos de dolo, culpa grave, comercialización o uso con fines de lucro. Aclaró que esta 
+exención busca incentivar la participación, pues, de otro modo, los posibles operadores se 
+verán desincentivados ante la posibilidad de ser sancionados o fiscalizados mientras 
+realizan pruebas en un marco controlado.
+El asesor Sebastián Galaz analizó en detalle las indicaciones de la diputada Paula 
+Labra y planteó una serie de observaciones jurídicas y técnicas.
+En primer lugar, señaló que es fundamental diferenciar qué órgano podrá habilitar 
+estos espacios de prueba y de dónde nace la necesidad de resguardar la legalidad del 
+procedimiento actual.
+En esa línea, explicó que el proyecto de ley tiene carácter de ley marco, cuyo 
+objetivo es dotar a los órganos públicos de nuevas funciones en materia de inteligencia 
+artificial. Advirtió que la indicación 68, que pretende facultar al Ministerio de Ciencia para 
+decidir qué entidades del Estado podrán habilitar espacios de prueba, presenta un problema 
+jurídico, ya que, de acuerdo con el principio de legalidad, solo la ley puede asignar 
+competencias a los órganos de la administración del Estado. Además, señaló que permitir 
+que un ministerio determine las atribuciones de otros organismos contraviene este principio, 
+pues cada órgano debe actuar exclusivamente dentro de las facultades que la ley le otorga, 
+sin interferir en las de los demás.
+Destacó que, si bien en el futuro se podría debatir qué entidades estarían mejor 
+preparadas para habilitar estos espacios de prueba, esta definición debe emanar de la ley, 
+no de una resolución ministerial. Por ello, explicó que la propuesta original contempla que 
+los espacios controlados deban estar a cargo de órganos con potestades fiscalizadoras y 
+sancionatorias, ya que allí se llevan a cabo las prevalidaciones de los sistemas de 
+inteligencia artificial.
+En relación con la indicación 69, reconoció que el texto mantiene un enfoque positivo 
+al fomentar la innovación y conservar la supervisión para detectar riesgos. Sin embargo, 
+discrepó de la indicación 72, que elimina la facultad de los órganos para suspender las 
+pruebas en caso de daños o desequilibrios, por considerar que esta atribución es esencial 
+para la seguridad y debe preservarse.
+Respecto de la indicación 73, advirtió que la propuesta de eximir de responsabilidad 
+civil a los operadores de los sistemas de inteligencia artificial durante las pruebas alterará 
+el régimen general de responsabilidad civil vigente. Aclaró que, si bien quienes participen 
+en un sandbox regulatorio ya estarán exentos de sanciones administrativas durante la fase
+14
+--- PÁGINA 15 ---
+de validación, ello no significará que puedan quedar liberados de responder por los daños 
+que causen.
+Por tal razón, reafirmó que cada operador debería asumir las consecuencias civiles 
+de sus actos, aun cuando trabaje dentro de un entorno regulatorio. De igual manera, indicó 
+que el Ejecutivo no tiene la intención de modificar el sistema general de responsabilidad 
+civil, ya que resulta imprescindible para proteger los derechos de las personas y la 
+integridad del sistema jurídico.
+El diputado Eric Aedo, Presidente, formuló dos consultas: la primera a la diputada 
+Paula Labra y la segunda al Ejecutivo, solicitando la colaboración de ambos para aclarar 
+las diferencias que observaba en relación con la indicación que modifica el inciso quinto del 
+artículo 20.
+Dicho aquello, explicó que al establecer el proyecto de ley se había optado por un 
+camino intermedio entre la orden ejecutiva estadounidense, que otorgaba mayor libertad de 
+acción, y la propuesta inicial de la Unión Europea, que contemplaba un nivel más alto de 
+regulación. Agregó que su duda surgía al observar la creación de órganos, mesas y 
+espacios de prueba, lo que le daba la impresión de que se avanzaba hacia un modelo más 
+regulado, distinto al enfoque de mayor libertad que se había planteado para las empresas 
+en sus desarrollos.
+Por lo anterior, consultó directamente a la diputada Labra si efectivamente se estaba 
+caminando hacia un sistema más regulado, y señaló que, respecto del inciso quinto, al 
+leerlo no lograba percibir la diferencia.
+La diputada Paula Labra respondió que los sandbox se utilizaban en todo el mundo, 
+incluso en países con regulaciones ejemplares en innovación y flexibilidad como Corea del 
+Sur y Japón, y que eran espacios muy reconocidos para fomentar el desarrollo tecnológico 
+cuando se implementaban correctamente.
+Luego, señaló que, considerando únicamente el tema de los sandbox y no el marco 
+completo de la ley, estos constituían uno de los principales elementos de innovación y 
+desarrollo, al aportar flexibilidad e impulsar el avance de la inteligencia artificial, la 
+innovación y la tecnología.
+Respecto de lo señalado por el señor Galaz, explicó que no era infringir la ley 
+plantear que el Ministerio de Ciencia determinara quién implementaría los sandbox, ya que 
+dicho ministerio era el especialista en la materia y responsable de aplicar la ley. En ese 
+sentido, argumentó que, así como estaba planteado el proyecto, había órganos 
+fiscalizadores que no tenían atribuciones ni capacidades técnicas o presupuestarias para 
+implementar estos espacios, pues se requerían servidores, infraestructura y tecnologías 
+que excedían sus competencias.
+Por último, señaló que era más viable que el Ministerio de Ciencia definiera quién 
+podía llevarlos a cabo y sostuvo que, siendo apegados a la norma, no se infringía ninguna 
+ley al establecer que el Ministerio de Ciencia determinara quién podía implementar un 
+sandbox, pues esa era precisamente su función, y planteó que, si el ministerio no podía 
+hacerlo, entonces no cumpliría con su rol.
+El diputado Tomás Lagomarsino señaló que, aunque el estatuto administrativo era 
+materia del Ministerio del Trabajo, su conocimiento debía ser compartido por todos los 
+ministerios y funcionarios públicos, independiente de su participación en la tramitación de 
+la ley.
+A continuación, explicó, desde una perspectiva práctica, que si un ministerio quisiera 
+desarrollar un sandbox, como uno para el manejo de listas de espera, tendría que oficiar al 
+Ministerio de Ciencia, lo que implicaría contar con una gran estructura para responder a 
+todos los requerimientos, algo que consideró poco realista.
+No obstante, coincidió en que las seremis, direcciones regionales o locales no 
+podían implementar estos espacios, pero sostuvo que los ministerios, subsecretarías y 
+direcciones nacionales, con estructuras más sólidas, sí estaban en condiciones de hacerlo, 
+y destacó la importancia de que el Ministerio de Ciencia participara y conociera los
+15
+--- PÁGINA 16 ---
+procesos, pero advirtió que darle la última palabra significaba otorgarle demasiado poder y 
+podría burocratizar aún más el sistema al obligar a consultas cada vez que un órgano 
+quisiera desarrollar un sandbox.
+La diputada Paula Labra indicó que correspondía al Ejecutivo aclarar el 
+funcionamiento de los sandbox. De esta manera, reiteró su postura de que el Ministerio de 
+Ciencia debía ordenarlos y regularlos al tratarse de desarrollos científicos fuera de las 
+atribuciones de otros ministerios u órganos fiscalizadores, y ejemplificó con el caso del 
+Sernac que hipotéticamente quisiera implementar un sandbox de inteligencia artificial sin 
+contar con presupuesto. Por último, consultó cómo operaría en la práctica el sistema.
+El ministro Aldo Valle señaló que no veía una norma habilitadora para reglamentar 
+el tema, ya que el artículo 20 solo establecía que los órganos de la administración con 
+facultades fiscalizadoras o regulativas podían habilitar espacios, lo que consideró un déficit 
+del proyecto. En ese sentido, indicó que lo que faltaba era una norma reglamentaria que 
+definiera cómo la administración llevaría a cabo esa tarea, destacando que el Estado hacía 
+esfuerzos por contar con infraestructura y data centers, aunque estos aún resultaban 
+insuficientes.
+Además, manifestó su preocupación por la propuesta de eliminar el inciso quinto, 
+advirtiendo que ello debilitaba la protección de los derechos fundamentales y que la ley 
+debía no solo facultar a la administración, sino también limitarla y garantizar la intervención 
+jurisdiccional en resguardo de esas garantías.
+Por lo anterior, dijo que no debía darse paso a la votación separada ni a la supresión 
+de dicho inciso.
+El asesor Sebastián Galaz respondió a la diputada Paula Labra que la ley establece 
+un marco en el que pueden actuar los órganos sectoriales. A modo de ejemplo, mencionó 
+que la reciente ley marco de autorizaciones sectoriales habilita a órganos del Estado para 
+la encomendación de funciones o la contratación de personal.
+Dicho lo anterior, comentó que el proyecto habilita a los órganos para que abran 
+espacios regulatorios, en materia de inteligencia artificial, a fin de que se ajusten a los fines 
+de la ley.
+Además, el asesor precisó que un reglamento del Ministerio de Ciencia establecerá 
+los criterios para la creación, funcionamiento y supervisión de esos espacios regulatorios, 
+y los órganos deberán adecuar su normativa a él.
+En razón de lo anterior, afirmó que la futura ley otorgará a los órganos facultades de 
+fiscalización y sanción, y quedarán habilitados para crear esos instrumentos, sin perjuicio 
+de que no todos necesitarán implementar un sandbox.
+Asimismo, destacó que la habilitación legal no implica una obligación material y será 
+en función de las necesidades de cada mercado regulado y de la disponibilidad 
+presupuestaria de cada órgano. Por ello, planteó que se debe realizar una evaluación para 
+determinar si es necesario crear un sandbox en un área determinada y si el órgano sectorial 
+cuenta con recursos para ello. Agregó que, de lo contrario, se deberá solicitar los fondos a 
+la partida presupuestaria correspondiente.
+Finalmente, afirmó que la ley en proyecto actúa como un marco normativo 
+habilitante útil para la administración del Estado.
+El ministro Aldo Valle indicó que, en la práctica, los órganos públicos actuarán sobre 
+la base de la habilitación legal y de un reglamento. Precisó que se estableció la habilitación 
+legal y se determinó quién deberá dictar el reglamento, como usualmente se procede en la 
+administración del Estado.
+Puestas en votación conjunta las indicaciones 68 y 69, fueron rechazadas por no 
+alcanzar el quorum de aprobación. Votó a favor la diputada Paula Labra. Votaron en contra 
+las diputadas Helia Molina y Gael Yeomans, y el diputado Tomás Lagomarsino. Se abstuvo 
+el diputado Eric Aedo (1-3-1).
+16
+--- PÁGINA 17 ---
+El ministro Aldo Valle explicó que se trata de una acción de fomento del Estado., 
+pues se pone a disposición de la industria información, que puede ser fundamental,  que 
+reúnen los órganos del Estado, con las prevenciones legales a las que están sujetos, a fin 
+de contribuir a la innovación de los sistemas de inteligencia artificial.
+La diputada Paula Labra señaló que tenía dudas sobre el alcance de la medida y 
+que la palabra industria la confunde, porque no comprende si se trata de operados en 
+general u operadores que utilizan los sandbox.
+Además, consultó qué datos si los datos que se pondrán a disposición serán los 
+utilizados en los sandbox o los que resulten de ellos. Según la parlamentaria, el texto no 
+precisa qué datos serán liberados ni para quiénes.
+El asesor Sebastián Galaz señaló que los sandbox permitirán la prueba, el 
+desarrollo y la validación de sistemas de IA.
+Asimismo, explicó que el artículo pone de relieve que los datos de los órganos de la 
+administración del Estado son valiosos por su magnitud, por ejemplo, bases de datos que 
+pueden aportar soluciones en ámbitos como la educación y la salud.
+Luego, sostuvo que mediante la indicación se propone que, mientras se crean 
+espacios controlados, los órganos puedan entregar temporalmente a los operadores los 
+datos de que disponen. Además, aclaró que por industria se entiende operadores, 
+implementadores y proveedores.
+Otro aspecto que destacó el abogado es que la norma permitirá que un operador en 
+un sandbox acceda a datos estructurados para validar entrenamientos. En oposición, 
+comentó que mucha información solicitada vía transparencia activa no se entrega de esa 
+forma.  Agregó que, gracias a la disposición, el acceso será estructurado, ordenado, 
+temporal y seguro, y se protegerá la vida privada de las personas.
+El diputado Hernán Palma preguntó en qué estaba el proyecto de ley sobre 
+neuroderechos. Dijo que el exsenador Girardi se había comunicado con él para sugerir 
+nombres de invitados que podrían aportar al debate.
+Luego, indicó que se encontraba pendiente la invitación a un médico del hospital 
+Sotero del Río que operó con robótica artrosis de rodilla y cadera. Consideró importante 
+poder invitarlo.
+El diputado Eric Aedo, Presidente, recogió lo planteado, pero indicó que, por el 
+momento, la prioridad está puesta en el proyecto de ley de que regula los sistemas de 
+inteligencia artificial.
+La diputada Paula Labra, en primer lugar, consultó si la norma aplica a todos los 
+operadores o solo a los que participan en los sandboxes y, segundo, si los datos que se 
+pueden solicitar corresponden a toda la información del Estado o únicamente a la vinculada 
+al desarrollo en el espacio de prueba. Además, advirtió que permitir el acceso a todos los 
+datos del Estado sin mayor aclaración resulta peligroso.
+El asesor Sebastián Galaz aclaró que la normativa aplica únicamente a los 
+operadores que participan en el sandbox y que no se trata de todos los datos del Estado, 
+sino de aquellos vinculados a un determinado sandbox.
+Puesta en votación, la indicación 70 fue aprobada por mayoría, con los votos a favor 
+de las diputadas Helia Molina y Gael Yeomans, y de los diputados Eric Aedo y Tomás 
+Lagomarsino. Votó en contra la diputada Paula Labra. No hubo abstenciones (4-1-0).
+La indicación 71) no se puso en votación por ser contradictoria con las ideas ya 
+aprobadas del proyecto de ley.
+La votación de la indicación 72) quedó pendiente.
+*******
+17
+--- PÁGINA 18 ---
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 16:57 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+18

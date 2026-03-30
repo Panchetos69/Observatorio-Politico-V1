@@ -1,0 +1,227 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=21700&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : Soporte Camara de Diputados Chile
+EXTRAIDO : 2026-03-29 07:36:56
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 19°, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+370ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 19 DE OCTUBRE 2022, 
+DE 17:35 A 18:34 HORAS.
+SUMARIO: 1) 
+Se 
+recibió 
+al 
+Coordinador 
+Nacional 
+de 
+Ciberseguridad 
+del 
+Ministerio 
+del 
+Interior 
+y 
+Seguridad Pública, quien se refirió al Plan y la 
+Política Nacional de Ciberseguridad.
+2) Se continuó con el trámite de audiencias 
+respecto del proyecto de ley, iniciado en moción, 
+boletín 
+N° 
+15264-19, 
+en 
+primer 
+trámite 
+constitucional.
+I.- PRESIDENCIA
+Presidió la sesión, el diputado Matías Ramírez Pascal (Presidente titular), 
+actuó como Abogada Secretaria de la Comisión la señora María Soledad Fredes 
+Ruiz, como Abogada Ayudante la señora María Jesús Serey Sardá y como 
+secretaria la señora Teresita Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron de manera presencial los diputados Matías Ramírez y Sebastián 
+Videla. Asistieron de manera telemática las diputadas Marta Bravo, Érika Olivera, 
+Daniela Serrano y Gael Yeomans, y los diputados Enrique Lee, Daniel Lilayu, 
+Gaspar Rivas, Sebastián Moreno (en reemplazo del diputado Stephan Schubert) y 
+Alberto Undurraga.
+Para la orden del día, participó en forma telemática el Coordinador Nacional 
+de Ciberseguridad del Ministerio del Interior y Seguridad Pública, señor Daniel 
+Álvarez Valenzuela; y los abogados del área legislativa de la Corporación 
+Comunidad y Justicia, señores Daniela Constantino Llaven y Gustavo Baehr Neira.
+III.- ACTAS
+El acta de la sesión 17ª se declaró reglamentariamente aprobada. El acta de 
+la sesión 18ª se puso a disposición de las señoras diputadas y señores diputados.
+IV.- CUENTA:
+Se recibieron los siguientes documentos:
+1.- Comunicación del Jefe de la Bancada Republicana, por la que informa 
+que el diputado Stephan Schubert será reemplazado, en esta sesión, por el diputado 
+Benjamín Moreno.
+Se tomó conocimiento
+2.- Ordinario N° 515 de la Directora (S) de la Agencia Nacional de 
+Investigación y Desarrollo (ANID), mediante el cual, en cumplimiento con lo 
+establecido en la Ley de Presupuestos del Sector Público año 2022, en Glosa 
+Presupuestaria N° 19 del Programa 30.02.01 ANID, informa que, para el III 
+Trimestre del año 2022, no se ejecutaron recursos otorgados por financiamiento
+--- PÁGINA 2 ---
+2
+extraordinario para becarios del programa de Becas Chile y becarios de Becas 
+Nacionales, e investigadores de universidades acreditadas nacionales.
+Se tomó conocimiento
+V.- ORDEN DEL DÍA 
+1) Se recibió al Coordinador Nacional de Ciberseguridad del Ministerio del 
+Interior y Seguridad Pública, quien se refirió al Plan y la Política Nacional de 
+Ciberseguridad.
+El señor Álvarez explicó a la Comisión, que el Estado tiene el deber de 
+proteger la información que los particulares entregan. Los problemas de 
+ciberseguridad afectan los derechos de las personas y a las personas en sí mismas, 
+en este sentido, sostuvo, los ataques que se han visto en los últimos meses, dan 
+cuenta de lo urgente que es avanzar en materia de política nacional de 
+ciberseguridad.
+El reporte más reciente, que mide el nivel de madurez de los países en 
+ciberseguridad, elaborado por la Organización de Estados Americanos, evalúa 
+cinco dimensiones, a saber: (i) política y estrategia, (ii) cultura y educación, (iii) 
+formación y desarrollo de capacidades de las personas, (iv) marco regulatorio, (v) 
+normativa técnica. Las dos veces que se ha aplicado este estudio, Chile se ha 
+situado en una posición intermedia en la región.
+Señaló que, en el Estado Chile existe una organización de regular las formas 
+en que el Estado se aproximaba a la ciberseguridad, que es el comité interministerial 
+de ciberseguridad, el que se ha mantenido hasta la fecha.
+Luego, se refirió a la importancia de una política de ciberseguridad, 
+explicando que la acción pública y privada en materia de ciberseguridad suele ser 
+dispersa, enfocada en relación a los intereses que puede tener cada sector. Por 
+eso, si se miran los instrumentos de política nacional de ciberseguridad, el objetivo 
+final es contar con un ciberespacio libre, abierto, seguro y resiliente.
+Posteriormente, mencionó los objetivos estratégicos al año 2022, a saber:
+1.- Infraestructura robusta y resiliente: Los principales hackers de nuestro 
+país, son los desastres naturales. Cada vez que se presenta un evento de esta 
+característica, se pierde la conectividad. Hoy la conexión chilena de internet 
+depende en gran parte de la conexión submarina.
+2.- Velar por los derechos de las personas en el ciberespacio. La información 
+que se comparte por internet puede ser dañada, siendo un objetivo diseñar 
+mecanismos que permitan la protección de mejor manera de las personas en el 
+ciberespacio.
+3.- Concientización con educación, buenas prácticas y responsabilidad: Una 
+de las mayores debilidades del país es no lograr enseñar seguridad y concientizar 
+a usuarios que son nativos digitales.
+4.- Cooperación y participación en el debate internacional sobre ciberespacio. 
+Cuando u país sufre ataques de infraestructura, debe estarse atento a lo que ocurre 
+en otros lados, por ejemplo, el ataque al poder judicial, algunas instituciones en 
+Argentina sufrieron un ataque similar. En este sentido, la cooperación es vital para 
+aprender y prevenir.
+--- PÁGINA 3 ---
+3
+5.- Promover el desarrollo de una industria nacional de la ciberseguridad. Hay 
+una industria nacional de ciberseguridad. Los objetivos estratégicos son de largo 
+aliento, siendo imposible cumplirlos en corto plazo.
+Agregó que, la política nacional de ciberseguridad fue elaborada en el 
+gobierno de la ex Presidenta Michelle Bachelet, fijó los lineamientos del Estado para 
+el resguardo de la seguridad de las personas y sus derechos en el ciberespacio. En 
+el gobierno del ex Presidente Sebastián Piñera, se confirmó la Política Nacional de 
+Ciber Seguridad como una política de Estado avanzado en su implementación y 
+presentado el proyecto de ley marco de ciberseguridad. El gobierno del Presidente 
+Gabriel Boric, propuso una implementación de política de ciberseguridad orientada 
+a la protección de los derechos fundamentales de las personas.
+Actualmente se encuentran esperando la aprobación del Proyecto de ley del 
+Presidente Piñera que crea una ley marco de ciberseguridad, proyecto que se 
+encuentra en tramitación ante el Congreso Nacional.
+El diputado Ramírez preguntó por la debilidad en torno a educación y 
+capacitación en materia digital, y cómo se está abordando esta desde la esfera 
+pública, dado que los ataques en el último tiempo han sido a instituciones públicas.
+El señor Álvarez contestó al diputado Ramírez, señalando que la debilidad 
+que se tenía es algo que se diagnosticó en el 2015, y que, si bien se mantiene, ha 
+habido algunas mejoras particulares. Primero, al mirar la oferta de formación 
+especializada en ciberseguridad no había nada, hoy hay diplomas, cursos, magíster 
+cursos de formación técnica, etc. Esa deficiencia está subsanada, existe la primera 
+generación de ingenieros en ciberseguridad. Adicionalmente el estado desarrolló 
+una campaña pública para proteger las claves. Sumado a eso, los funcionarios 
+públicos, desde este año, está siendo alumnos de diplomados gratuitos. Luego, el 
+próximo año, se aprobó un proyecto que permitirá fortalecer las capacidades de 
+ciberseguridad, generando procesos de formación, capacitación y desarrollo de 
+capacidades en el sector público y privado.
+El diputado Lilayu preguntó si está cuantificado el costo de cuánto dinero se 
+pierde por problemas de ciberseguridad, y cuanto debe invertirse en esta materia.
+El señor Álvarez explicó que no hay estudios sobre pérdidas, pero lo que se 
+sabe es que cuando una organización se reciente a invertir, termina gastando entre 
+5 a 10 veces más que lo que hubiese costado la solución.
+2) Se continuó con el trámite de audiencias respecto del proyecto de 
+ley, iniciado en moción, boletín N° 15264-19, en primer trámite constitucional.
+La señora Constantino sostuvo que, en primer lugar, la iniciativa señala que 
+la mayor presencia de un determinado grupo en ciertas áreas del conocimiento sería 
+un inconveniente. En otras palabras, sin ofrecer razón alguna, la iniciativa presume 
+que un dato constituye un problema.
+En cuanto al fondo del asunto, la razón de ser de la paridad de género 
+privilegiar el resultado y no los procesos en los que participan las mujeres, ya que 
+con la paridad se aseguraría que la mitad de las becas adjudicadas en los campos 
+de ciencias o matemáticas, ingeniería y tecnología sean otorgados a las mujeres, 
+por el simple hecho de ser mujeres y no por razones en función de su mérito 
+académico o su trayectoria curricular.
+La idea del mismo número de hombres y de mujeres en la adjudicación de 
+becas y/o proyectos de investigación contrasta con la idea de la misma
+--- PÁGINA 4 ---
+4
+consideración y respeto para que ambos géneros accedan a los procesos de 
+postulación y elección y, eventualmente, se les adjudique la beca para la cual 
+postularon. Esta igualdad sustantiva, también llamada “de resultados”, pretende una 
+igualdad casi aritmética entre hombres y mujeres, que puede dar pie a injusticias o 
+situaciones absurdas.
+El señor Baehr señaló que, respecto a lo que busca el proyecto, se debe 
+tener presente que la forma de modificar la baja cantidad de adjudicación de 
+proyectos y otorgamiento de becas a mujeres propuesta por el proyecto es injusta, 
+ya que su objetivo final es la adjudicación del 50% de los instrumentos a mujeres y 
+del otro 50% a hombres, sin considerar la cantidad de mujeres y de hombres que 
+postulan a dichos instrumentos. Así, la iniciativa podría favorecer la adjudicación de 
+proyectos al grupo que tenga menor participación en una determinada área del 
+conocimiento, colocándolo en una situación de privilegio respecto del otro.
+Por su parte, si se consideran los resultados injustos que puede provocar el 
+proyecto, se debe tener presente una posible inconstitucionalidad de la iniciativa, ya 
+que infringe el artículo 19 N° 2 de la Constitución, el cual asegura a todas las 
+personas la igualdad ante la ley y establece que “hombres y mujeres son iguales 
+ante la ley”, al colocar en una situación favorable a un grupo de personas, por el sólo 
+hecho de tener menor presencia en un área del conocimiento.
+La diputada Serrano preguntó cuál eran las propuestas de los expositores, o 
+cual es el interés que tienen, dado que no escuchó ninguna idea en orden a combatir 
+la desigualdad en esta materia.
+La señora Constantino agradeció la pregunta y sostuvo que la paridad de 
+género no soluciona los problemas de fondo que como sociedad deben de 
+resolverse primero, antes de la paridad.
+El señor Baehr explicó que la exposición se avocó a detectar lo que propone 
+el proyecto, hay un tema de fondo, pero al ver los Fondecyt regulares, se ve una 
+tasa de adjudicación de 30% de mujeres, y los hombres tiene una tasa de 
+adjudicación similar, lo que da cuenta que el problema central del proyecto no es 
+cierto.
+El diputado Lee preguntó a los invitados si conocen otras formas de abordar 
+el problema en otras legislaciones.
+La diputada Olivera, en la misma línea que el diputado Lee, preguntó a los 
+expositores si conocen algún país donde no sea necesaria la paridad, y cómo se ha 
+logrado.
+La señora Constantino se refirió a países que Chile podría tomar como 
+referencia, a Islandia, Finlandia, Noruega, Nueva Zelanda y Suecia. Sería 
+interesante estudiar esas legislaciones.
+La diputada Serrano dio una opinión en cuanto a que no se debe discriminar 
+positivamente a las mujeres, pero dicho argumento no le hace sentido, dado que los 
+mismos números dan cuenta que hay muchas más capacidades en las mujeres, 
+aun cuando se ha tenido más barreras. Debe ponerse en relevancia que el espíritu 
+de este proyecto es abrir espacios a las mujeres.
+La señora Constantino explicó que lo que se busca en becas chile es 
+excelencia académica, y que quizás una beca que puede ayudar a eliminar esta 
+brecha es crear una beca especialmente para las mujeres, de la misma manera que, 
+por ejemplo, la universidad de Standford lo hace para personas pertenecientes a 
+pueblos originarios.
+--- PÁGINA 5 ---
+5
+El diputado Ramírez explicó que hay una realidad innegable que es la 
+brecha, y que debe hacerse cargo de solucionar y acortar estas brechas que en el 
+ámbito de las ciencias y la academia es real.
+El señor Baehr en complemento de lo dicho, manifestó que hay ciertos 
+instrumentos en Chile que asignan puntaje a personas de pueblos originarios, y que 
+tal medida podría aplicarse de forma propositiva.
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio 
+digital, conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de 
+Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 18:34 
+horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión

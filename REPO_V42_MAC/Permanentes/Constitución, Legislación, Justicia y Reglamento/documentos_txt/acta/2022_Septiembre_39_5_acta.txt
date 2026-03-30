@@ -1,0 +1,1051 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=21919&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : Margarita Maria Risopatron Lemaitre
+EXTRAIDO : 2026-03-29 04:39:07
+======================================================================
+
+--- PÁGINA 1 ---
+COMISIÓN DE CONSTITUCIÓN, LEGISLACIÓN, JUSTICIA Y
+REGLAMENTO 
+PERÍODO LEGISLATIVO 2022-2026 
+Acta de la sesión 39ª, ordinaria, mixta/ 370ª Legislatura 
+Celebrada en miércoles 7 de septiembre del año 2022, de 15:04 a 16:35 horas
+Continuar la tramitación del proyecto de ley que “Regula la protección y 
+el tratamiento de los datos personales y crea la Agencia de Protección de 
+Datos Personales”, en segundo trámite constitucional, con urgencia 
+calificada de “Suma”, boletines refundidos N°s 11.144-07 (S) y 11.092-
+07(S).  
+- Discusión particular: Se despachó el numeral 6 (artículos 8, 8 bis, 8 ter, 9, 10 y 11), y del 
+numeral 7 (artículos 12, 13 y 14 bis). 
+- Se encuentran pendientes: letra a) del artículo 13 (numeral 7) y la letra i) del artículo 2 
+(numeral 4 uno), y las indicaciones al numeral 2) -hasta la revisión del numeral 10) artículo 24.
+ASISTENCIA 
+ 
+Asisten, presencialmente, los siguientes miembros de la Comisión, 
+diputados (as) señores (as) Karol Cariola (Presidenta de la Comisión), 
+Gustavo Benavente, Miguel Ángel Calisto, Pamela Jiles, Raúl Leiva, Luis 
+Sánchez y Leonardo Soto.
+Asimismo, concurren, presencialmente, los (a) diputados (a) señores 
+(a) Henry Leal (por el señor Jorge Alessandri), Nelson Venegas (por el señor 
+Marcos Ilabaca), y Sara Concha (por el señor Andrés Longton).
+Concurrren, en calidad de invitados, la señora Lizzy Seaman, asesora 
+de la División Jurídica - Legislativa del Ministerio Secretaría General de la 
+Presidencia. Confirman su asistencia los siguientes expositores, en calidad de 
+oyentes: la señora Marta Herrera, Directora de la Unidad de Asesoría Jurídica 
+del Ministerio Público; el señor Alejandro González, jefe (S) de  Unidad 
+Normativa y Regulación del Consejo para la Transparencia, acompañado por el 
+analista del Consejo, el señor Carlos Benussi; la señora Bárbara Martinez, en 
+representación del Servicio Nacional del Consumidor; el señor Bruno 
+Gencarelli, Jefe de la Unidad de Protección y Flujo de Datos Internacionales en 
+la Comisión Europea; la señora Paulina Silva, de la Alianza Chilena de 
+Ciberseguridad; la señora Lorena Donoso, miembro del Instituto Chileno de 
+Derecho y Tecnologías y académica de la Universidad de Chile; la señora 
+Macarena Gatica, abogada experta en protección de datos personales, socia 
+del estudio jurídico Alessandri; la señora Romina Garrido, investigadora 
+asociada GobLab Universidad Adolfo Ibáñez Escuela de Gobierno; de la 
+señora Jessica Matus, de la ONG Datos Protegidos; la señora Andrea Ruiz, 
+profesora de Derecho Administrativo de la Universidad Alberto Hurtado; el
+1
+--- PÁGINA 2 ---
+señor Pablo Trigo, investigador CEDI Universidad de Chile; el señor Carlos 
+Reusser, profesor de Derecho de la Información y Derechos Digitales, 
+Universidad Alberto Hurtado; el señor Marcelo Drago, ex Presidente del 
+Consejo para la Transparencia; los señores José Manuel Mena, presidente; 
+Luis Opazo, gerente general; el señor Juan Esteban Laval, fiscal, y Matías 
+Bernier, gerente de Estudios, todos de la Asociación de Bancos e Instituciones 
+Financieras; la señora Bárbara Reyes, Abogada Licenciada en Ciencias 
+Jurídicas Pontificia Universidad Católica de Valparaíso por la Asociación de 
+Empresas Chilenas de Tecnología de la Información A.G.; el señor Claudio 
+Magliona, miembro del grupo legal de la Asociación de Empresas Chilenas de 
+Tecnología de la Información A.G.; el señor Alberto Jara, de la Asociación 
+Gremial de Empresas Fintech, y la señora Danielle Zaror, investigadora del 
+Centro de Estudios en Derecho Informático de la Universidad de Chile.
+Está presente, en calidad de abogado secretario, el señor Patricio 
+Velásquez Weisse; la abogada señora Margarita Risopatrón Lemaître, y de 
+forma remota, el abogado señor Fernando García Leiva, y la secretaria señora 
+Cecilia Césped Riquelme.
+ACTAS
+Actas disponibles:  
+https://www.camara.cl/legislacion/comisiones/sesiones.aspx?prmID=1724
+CUENTA 
+ 
+El señor abogado secretario da cuenta de los documentos llegados a 
+la Comisión:
+1.- Se ha confirmado para hoy la asistencia de la señorita Lizzy 
+Seaman, asesora del Ministerio Secretaría General de la Presidencia.
+- Se tiene presente. 
+ 
+2.- Se ha recibido el siguiente oficio. 
+Ord. N° 4933 del Ministerio de Justicia, referido a glosa 13, programa 
+01, del Sename, correspondiente al mes de julio de 2022.
+- Se tiene presente. 
+ 
+3.- Se han recibido las siguientes confirmaciones para la sesión de 
+hoy.
+Boletines refundidos N°s 11.144-7 (S) y 11.092-07(S).
+2
+--- PÁGINA 3 ---
+En calidad de oyentes han confirmado: 
+• 
+Sr. Bruno Gencarelli, Jefe de la Unidad de Protección y Flujo de 
+Datos Internacionales en la Comisión Europea.
+• 
+Sra. Macarena Gatica, Abogada experta en protección de datos. 
+• 
+Sra. Romina Garrido, Investigadora asociada GobLab UAI 
+Escuela de Gobierno.
+• 
+Sra 
+Paulina 
+Silva, 
+por 
+AMCHAM 
+(Cámara 
+Chilena 
+Norteamericana).
+• 
+Sra. Jessica Matus, ONG Datos Protegidos. 
+• 
+Sra. Andrea Ruiz, Profesora Derecho Administrativo UAH 
+• 
+Sr. Alejandro González, Jefe (S) de Unidad Normativa y 
+Regulación del Consejo para la Transparencia.  Le acompaña el analista del 
+Consejo, Carlo Benussi.
+• 
+Sr. Carlos Reusser, Profesor de Derecho de la Información  y 
+Derechos Digitales, Universidad Alberto Hurtado.
+• 
+Sra. Danielle Zaror, Departamento Derecho Comercial de la 
+Universidad de Chile.
+• 
+Sr. Pablo Trigo, Investigador CEDI U de Chile. 
+• 
+Sr. Alberto Jara, Asociación Gremial de Empresas Fintech. 
+• 
+Sr. Marcelo Drago, Ex Presidente del Consejo para la 
+Transparencia.
+• 
+Sra. Bárbara Martínez, en representación del Sernac. 
+ 
+Ministerio Público 
+• 
+Sra. Marta Herrera, Directora de la Unidad de Asesoría Jurídica. 
+ 
+Asociación de Bancos e Instituciones Financieras de Chile. 
+• 
+Sr. José Manuel MENA, Presidente. 
+• 
+Sr. Luis Opazo R., Gerente General. 
+• 
+Sr. Juan Esteban Laval Z., Fiscal 
+• 
+Sr. Matías Bernier Bórquez, Gerente de Estudios Asociación de 
+Bancos.
+Asociación de Empresas Chilenas de Tecnología A.G. 
+• 
+Sra. Bárbara Reyes Espinoza, Abogada Licenciada en Ciencias 
+Jurídicas Pontificia Universidad Católica de Valparaíso.
+• 
+Sr. Claudio Magliona, miembro del grupo legal de ACTI. 
+- Se tiene presente.
+-----
+3
+--- PÁGINA 4 ---
+- Se deja constancia de la recepción de los reemplazos de los 
+diputados señores Marcos Ilabaca, por el señor Nelson Venegas, y Andrés 
+Longton, por la señora Sara Concha al momento de la lectura de la cuenta. El 
+reemplazo del diputado señor Jorge Alessandri por el señor Henry Leal fue 
+recibido durante la sesión por lo que requirió de la unanimidad de los 
+presentes para su aceptación.
+La diputada señorita Cariola (Presidenta de la Comisión) da cuenta 
+de las excusas presentadas por la Ministra Secretaria General de la 
+Presidencia, señora Uriarte, para la sesión de hoy, por compromisos 
+asumidos, e informa la presencia de la señorita Seaman, asesora del 
+Ministerio, para el análisis técnico del proyecto en tabla.
+Sobre ese punto, la diputada señora Jiles expresa su inquietud por la 
+ausencia de la Ministra Secretaria General de la Presidencia, en su primer día, 
+para ejercer su rol de colegislador.
+El diputado señor Leiva difiere de lo planteado por la señora Jiles.
+ACUERDOS
+Durante la sesión, se adoptaron los siguientes acuerdos: 
+ 
+1. Aceptar, por la unanimidad de los presentes, el reemplazo temporal 
+del diputado señor Jorge Alessandri por el diputado señor Henry Leal 
+presentado durante la sesión.
+2. Discutir en particular hasta el artículo 14 bis del proyecto de ley que 
+“Regula la protección y el tratamiento de los datos personales y crea la 
+Agencia de Protección de Datos Personales”, en segundo trámite 
+constitucional, con urgencia calificada de “Suma”, boletines refundidos N°s 
+11.144-07 y 11.092-07 (S), puesto que hasta esa disposición existe consenso 
+en la Mesa Técnica, liderada por el Ministerio Secretaría General de la 
+Presidencia.
+ORDEN DEL DÍA
+Boletines refundidos N°s 11.144-07 (S) y 11.092-07 (S).
+Entrando en el orden del día, corresponde continuar con la discusión 
+particular del proyecto de ley que “Regula la protección y el tratamiento de
+4
+--- PÁGINA 5 ---
+los datos personales y crea la Agencia de Protección de Datos 
+Personales”, en segundo trámite constitucional, con urgencia calificada 
+de “Suma”.
+Ver oficio de ley; comparado de indicaciones; comparado de 
+observaciones.
+VOTACIÓN PARTICULAR
+“ARTÍCULO PRIMERO, continuación
+Introdúcense las siguientes modificaciones en la ley Nº 19.628, sobre 
+protección de la vida privada:
+Numeral 6)
+6) Reemplázase el Título I por el siguiente:
+“Título I 
+De los derechos del titular de datos personales
+- Se hace presente el acuerdo de la Comisión de aprobar los artículos 
+del Título I “De los derechos del titular de datos personales”, contenido en el 
+numeral 6) del artículo primero del proyecto de ley (páginas 22 a la 40) que no 
+presentan indicaciones, sin perjuicio de la posibilidad de reabrir la discusión de 
+ellos, en su oportunidad –sin necesidad de nuevo acuerdo- con la finalidad de 
+presentar indicación sea para modificarlos o suprimirlos.
+Artículo 8 
+ 
+Artículo 8°.- Derecho de Oposición. El titular de datos tiene derecho a 
+oponerse ante el responsable a que se realice un tratamiento específico o 
+determinado de los datos personales que le conciernan, en los siguientes 
+casos:
+a) Si el tratamiento afecta sus derechos y libertades fundamentales. 
+b) Si el tratamiento se realiza exclusivamente con fines de 
+mercadotecnia o marketing directo de bienes, productos o servicios.
+c) Si el tratamiento se realiza respecto de datos obtenidos de una 
+fuente de acceso público y no exista otro fundamento legal para su 
+tratamiento.
+No procederá la oposición al tratamiento en los siguientes casos:
+5
+--- PÁGINA 6 ---
+i. Cuando sea necesario para ejercer el derecho a las libertades de 
+emitir opinión y de informar.
+ii. Cuando existan razones de interés público, especialmente en el 
+ámbito de la salud pública.
+iii. Cuando se realice con fines históricos, estadísticos o científicos y 
+para estudios o investigaciones que atiendan fines de interés público, y
+iv. Cuando se requiera para la formulación, ejercicio o defensa de una 
+reclamación administrativa o judicial.
+- Indicación de los diputados señores Leonardo Soto y Calisto: 
+En el numeral 6) que reemplaza el Título I, para reemplazar el texto del 
+artículo 8 por el siguiente:
+“Artículo 8°.- Derecho de Oposición. El titular de datos tiene derecho a 
+oponerse ante el responsable al tratamiento de datos personales que le 
+conciernan (incluida la elaboración de perfiles), en los siguientes casos:
+a) Cuando la base de licitud del tratamiento sea la satisfacción de 
+intereses legítimos del responsable. En dicho caso podrá ejercer su derecho 
+de oposición en cualquier momento, debiendo el responsable del tratamiento 
+dejar de tratar los datos personales, salvo que acredite motivos legítimos 
+imperiosos para el tratamiento que prevalezcan sobre los intereses, los 
+derechos y las libertades del titular, o para la formulación, el ejercicio o la 
+defensa de reclamaciones.
+b) Si el tratamiento se realiza exclusivamente con fines de 
+mercadotecnia o marketing directo de bienes, productos o servicios. En este 
+caso el titular tendrá derecho a oponerse en todo momento al tratamiento de 
+los datos personales que le conciernan, incluida la elaboración de perfiles en la 
+medida en que esté relacionada con la citada mercadotecnia. Ejercido el 
+derecho de oposición frente al tratamiento con fines de mercadotecnia directa, 
+los datos personales dejarán de ser tratados para dichos fines.
+c) Si el tratamiento se realiza respecto de datos obtenidos de una 
+fuente de acceso público, excepto que ellos fueren necesarios para ejercer el 
+derecho a las libertades de emitir opinión y de informar; existieran razones de 
+interés público, especialmente en el ámbito de la salud pública; o se requieran 
+para la formulación, ejercicio o defensa de una reclamación administrativa o 
+judicial.
+No procederá la oposición al tratamiento cuando este se realice con 
+fines de investigación científica o histórica o fines estadísticos, siempre que 
+fueran necesarios para el cumplimiento de una misión realizada por razones 
+de interés público.”.
+6
+--- PÁGINA 7 ---
+El diputado señor Leonardo Soto señala que la Mesa de Trabajo 
+(Mesa técnica liderada por el Ministerio Secretaría General de la Presidencia, a 
+la que han sido convocados los asesores parlamentarios) efectúa propuesta de 
+indicación, la cual es suscrita por parlamentarios y recogida en la siguiente 
+indicación de consenso:
+- Indicación de los (as) diputados (as) señores (as) Leonardo Soto, 
+Karol Cariola, Raúl Leiva y Pamela Jiles
+Para reemplazar el artículo 8° del numeral 6) por el siguiente: 
+“Artículo 8°.- Derecho de Oposición. El titular de datos tiene derecho a 
+oponerse ante el responsable a que se realice un tratamiento específico o 
+determinado de los datos personales que le conciernan, en los siguientes 
+casos:
+a) 
+Cuando la base de licitud del tratamiento sea la satisfacción de 
+intereses legítimos del responsable. En dicho caso podrá ejercer su derecho 
+de oposición en cualquier momento, debiendo el responsable del tratamiento 
+dejar de tratar los datos personales, salvo que acredite motivos legítimos 
+imperiosos para el tratamiento que prevalezcan sobre los intereses, los 
+derechos y las libertades del titular, o para la formulación, el ejercicio o la 
+defensa de reclamaciones.
+b) 
+Si el tratamiento se realiza exclusivamente con fines de 
+mercadotecnia o marketing directo de bienes, productos o servicios, incluida la 
+elaboración de perfiles, de conformidad con el artículo 8 bis de la presente ley.
+c) 
+Si el tratamiento se realiza respecto de datos obtenidos de una 
+fuente de acceso público y no exista otro fundamento legal para su 
+tratamiento.
+No procederá la oposición al tratamiento cuando este se realice con 
+fines de investigación científica o histórica o fines estadísticos, siempre que 
+fueran necesarios para el cumplimiento de una función pública o para el 
+ejercicio de una actividad de interés público.”.
+Sobre la indicación de consenso, la señorita Seaman (asesora de la 
+División Jurídica-Legislativa del Ministerio Secretaría General de la 
+Presidencia, Ministerio Segpres) manifiesta que se toma como base la 
+indicación originalmente planteada al proyecto y se le hacen modificaciones.
+Particularmente, explica que en el literal b) la indicación propone hacer 
+una referencia directa a la elaboración de perfiles mediante tratamiento 
+automatizado de datos, de modo que este artículo sea coherente con el 
+artículo 8 bis que trata esa materia.
+Observa que, en el inciso final del artículo, se limitan los casos en que 
+no procede el derecho de oposición, reforzándolo, eliminando las excepciones
+7
+--- PÁGINA 8 ---
+contenidas en los numerales i, ii y iv (las que deberán someterse a las reglas 
+generales que regulan este derecho). Esta propuesta equipara las excepciones 
+a las previstas por el GDPR, Reglamento Europeo de Protección de Datos.
+El diputado señor Leiva consulta por qué se elimina la excepción 
+relativa al ejercicio del derecho a emitir opinión e informar.
+Sobre el punto, la señorita Seaman (asesora del Ministerio Segpres) 
+aclara que en el artículo 1 de la ley ya se regula expresamente la relación de 
+esta ley con el ejercicio de ambos derechos. Por ello, lo más coherente es 
+remitir a la regla general.
+Por su parte, el diputado señor Benavente pide mayor precisión sobre 
+los casos en que no procede el derecho a oposición al tratamiento de datos y 
+el alcance de la expresión “siempre que fueran necesarios para el 
+cumplimiento de una función pública o para el ejercicio de una actividad de 
+interés público”. Pregunta si no sería necesario especificar que la actividad se 
+realice dentro del ámbito de competencia del órgano público.
+En ese sentido, la señorita Seaman (asesora del Ministerio Segpres) 
+precisa que el inciso final se refiere tanto a organismos de la Administración 
+del Estado, del Estado en general, como a particulares interesados en tratar 
+datos con fines de investigación científica o histórica o fines estadísticos, 
+siempre que fueran necesarios para el cumplimiento de una función pública 
+(atribuida bajo el principio de legalidad) o para el ejercicio de una actividad de 
+interés público, por ejemplo, actividades que realizaron universidades o 
+centros de estudios a propósito de la pandemia.
+Asimismo, destaca que todo tratamiento de datos, cualquiera sea el 
+responsable, debe cumplir con el principio de finalidad al momento de su 
+tratamiento.
+El diputado señor Sánchez pide aclaración respecto a qué se entiende 
+por “fines estadísticos”, el que estima muy amplio.
+Ante la consulta, la señorita Seaman (asesora del Ministerio Segpres) 
+responde que el titular siempre podrá ejercer el derecho de oposición, y la 
+interpretación y determinación de si se cumplen ambos requisitos (que el 
+tratamiento se realice con fines de investigación científica o histórica o fines 
+estadísticos, y que sean necesarios para el cumplimiento de una función 
+pública o para el ejercicio de una actividad de interés público) para el caso
+8
+--- PÁGINA 9 ---
+concreto será, en último término, por la Agencia de Protección de Datos y, 
+finalmente, a través del recurso de reclamación.
+Sometido a votación el artículo 8, con la indicación sustitutiva de 
+los señores Leonardo Soto, Cariola, Leiva y Jiles, es aprobado por los 
+votos mayoritarios de los (as) diputados (as) señores (as) Karol Cariola 
+(Presidenta de la Comisión); Gustavo Benavente; Pamela Jiles, y Leonardo 
+Soto. Se abstiene el diputado señor Luis Sánchez. (4-0-1).
+En consecuencia, la indicación de los señores Leonardo Soto y 
+Calisto se da por rechazada reglamentariamente, por incompatible con lo ya 
+aprobado.
+Artículo 8 bis 
+ 
+Artículo 8° bis.- Derecho de oposición a valoraciones personales 
+automatizadas. El titular de datos tiene derecho a oponerse a que el 
+responsable adopte decisiones que le conciernan, basadas únicamente en el 
+hecho de realizarse a través de un tratamiento automatizado de sus datos 
+personales, incluida la elaboración de perfiles.
+El titular no podrá ejercer este derecho de oposición en los siguientes 
+casos:
+a) Cuando la decisión del responsable sea necesaria para la 
+celebración o ejecución de un contrato entre el titular y el responsable;
+b) Cuando exista consentimiento previo y expreso del titular, y  
+c) Cuando lo disponga la ley. 
+En los casos de las letras a) y b) del inciso anterior, el responsable 
+deberá adoptar las medidas necesarias para asegurar los derechos del titular, 
+en particular el derecho a obtener intervención humana por parte del 
+responsable, a expresar su punto de vista y a solicitar la revisión de la 
+decisión.
+- Indicación de los diputados señores Leonardo Soto y Calisto: 
+En el numeral 6) que reemplaza el Título I, para reemplazar el texto del 
+artículo 8 bis por el siguiente:
+Artículo 8° bis.- Decisiones individuales automatizadas, incluida la 
+elaboración de perfiles
+El titular de datos tiene derecho a no ser objeto de decisiones basadas 
+únicamente en el tratamiento automatizado de sus datos, incluida la 
+elaboración de perfiles, que produzca efectos jurídicos en él o le afecte 
+significativamente de modo similar.
+9
+--- PÁGINA 10 ---
+El inciso anterior no se aplicará en los siguientes casos:  
+a) Cuando la decisión del responsable sea necesaria para la 
+celebración o ejecución de un contrato entre el titular y el responsable;
+b) Cuando exista consentimiento previo y expreso del titular, y 
+c) Cuando lo disponga la ley, en la medida que la misma establezca 
+asimismo medidas adecuadas para salvaguardar los derechos y libertades y 
+los intereses legítimos del titular.
+En los casos de las letras a) y b) del inciso anterior, el responsable 
+deberá adoptar las medidas necesarias para asegurar los derechos, libertades 
+e intereses legítimos del titular, como mínimo el derecho a obtener intervención 
+humana por parte del responsable, a expresar su punto de vista y a solicitar la 
+revisión de la decisión.
+En todo caso, las decisiones a que se refieren las letras a), b) y c) no 
+podrán basarse en el tratamiento de datos personales sensibles, salvo en 
+aquellos casos en que la ley lo permita expresamente y se hayan tomado 
+medidas adecuadas para salvaguardar los derechos, libertades e intereses 
+legítimos del titular.
+- Del diputado señor Raúl Leiva: 
+Para agregar en el literal b) del inciso segundo del art. 8 bis, a 
+continuación de la expresión “titular” la frase: “en la forma prescrita en el 
+artículo 12”.
+La propuesta de la Mesa Técnica es suscrita por parlamentarios y 
+recogida en la siguiente indicación:
+- Indicación de los diputados señor Leonardo Soto y señorita 
+Karol Cariola
+“Para reemplazar el artículo 8 bis por el siguiente: 
+“Artículo 8° bis.- Decisiones individuales automatizadas, incluida la 
+elaboración de perfiles.
+El titular de datos tiene derecho oponerse y a no ser objeto de 
+decisiones basadas en el tratamiento automatizado de sus datos personales, 
+incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le 
+afecte significativamente.
+El inciso anterior no se aplicará en los siguientes casos: 
+a) 
+Cuando la decisión sea necesaria para la celebración o ejecución 
+de un contrato entre el titular y el responsable;
+b) 
+Cuando exista consentimiento previo y expreso del titular en la 
+forma prescrita en el artículo 12 de la presente ley, y
+10
+--- PÁGINA 11 ---
+c) 
+Cuando lo disponga la ley, en la medida en que ésta disponga el 
+empleo de salvaguardas a los derechos y libertades del titular.
+En todos los casos de decisiones basadas en el tratamiento 
+automatizado de datos personales, inclusive aquellos señalados en las letras 
+a), b) y c) precedentes, el responsable deberá adoptar las medidas necesarias 
+para asegurar los derechos, libertades del titular, su derecho a la información y 
+transparencia, el derecho a obtener una explicación, la intervención humana, a 
+expresar su punto de vista y a solicitar la revisión de la decisión.”.
+La señorita Seaman (asesora del Ministerio Segpres) explica la 
+propuesta. Por una parte, se elimina la palabra “únicamente” que aparece en el 
+inciso primero del artículo 8 bis, de manera de ampliar el derecho de oposición 
+de los titulares, incluso en los casos en que haya una decisión automatizada 
+pero haya también intervención humana; no se exige que sea decisión sea 
+“exclusivamente” automatizada.
+Por otra parte, si bien se conservan los casos en que el titular no 
+puede ejercer este derecho de oposición, se mejora la redacción, 
+particularmente, en el literal b) del inciso segundo se incorpora la remisión 
+propuesta por el señor Leiva, y en el literal c) se indica “Cuando lo disponga la 
+ley, en la medida en que ésta disponga el empleo de salvaguardas a los 
+derechos y libertades del titular.”. Finalmente, en todos los casos de decisiones 
+basadas en el tratamiento automatizado de datos personales, el responsable 
+deberá adoptar las medidas necesarias para asegurar los derechos, libertades 
+del titular, su derecho a la información y transparencia, el derecho a obtener 
+una explicación, la intervención humana, a expresar su punto de vista y a 
+solicitar la revisión de la decisión.
+Puesto en votación el artículo 8 bis, con la indicación sustitutiva 
+del señor Leonardo Soto y la señorita Cariola, es aprobado por la 
+unanimidad de los presentes, diputados (as) señores (as) Karol Cariola 
+(Presidenta de la Comisión); Gustavo Benavente; Nelson Venegas (por el 
+señor Ilabaca); Luis Sánchez, y Leonardo Soto. (5-0-0).
+En consecuencia, las indicaciones de los señores Leonardo Soto y 
+Calisto, y del señor Leiva se dan por rechazadas reglamentariamente, por 
+incompatibles con lo ya aprobado.
+Artículo nuevo
+- Indicación del diputado señor Luis Sánchez:  
+Agrégase el siguiente artículo 8 ter, nuevo:
+11
+--- PÁGINA 12 ---
+“Artículo 8° ter.- Derecho de bloqueo. El titular de datos tiene derecho 
+a solicitar la suspensión temporal de cualquier operación de tratamiento de sus 
+datos personales cuando su exactitud no pueda ser establecida o cuya 
+vigencia sea dudosa y respecto de los cuales no corresponda la cancelación.”
+La señorita Seaman (asesora del Ministerio Segpres) afirma que 
+desde la Mesa Técnica se sugiere aprobar la indicación porque define el 
+derecho de bloqueo, que se encuentra presente en varias disposiciones (por 
+ejemplo, artículos 11 y 23), y es consistente con el título I.
+En votación la indicación que incorpora artículo 8 ter es aprobada 
+por la unanimidad de los presentes, diputados (as) señores (as) Karol Cariola 
+(Presidenta de la Comisión); Gustavo Benavente; Nelson Venegas (por el 
+señor Ilabaca), y Luis Sánchez. (4-0-0).
+Artículo 9 
+ 
+Artículo 9º.- Derecho a la portabilidad de los datos personales. El titular 
+de datos tiene derecho a solicitar y recibir una copia de los datos personales 
+que le conciernen, que haya facilitado al responsable, en un formato 
+estructurado, genérico y de uso común, que permita ser operado por distintos 
+sistemas y, a comunicarlos o transferirlos a otro responsable de datos, cuando 
+concurran las siguientes circunstancias:
+a) El tratamiento se realice en forma automatizada, y 
+b) El tratamiento esté basado en el consentimiento del titular. 
+El responsable debe utilizar los medios más expeditos, menos 
+onerosos y sin poner trabas u obstáculos para el ejercicio de este derecho.
+El responsable también debe comunicar al titular de manera clara y 
+precisa las medidas necesarias para obtener sus datos personales y 
+especificar las características técnicas para llevar a cabo estas operaciones.
+Se presentan las siguientes indicaciones: 
+ 
+- Del Ejecutivo (I; presentada el 12/05/2022): 
+ 
+3) Para intercalar, en el encabezado del inciso primero del artículo 9º 
+de su numeral 6), entre las palabras “formato” y “estructurado”, la palabra 
+“electrónico”.
+- Del Ejecutivo (I): 
+4) Para agregar, en el artículo 9º de su numeral 6), un inciso final, 
+nuevo, del siguiente tenor:
+12
+--- PÁGINA 13 ---
+“El titular tendrá derecho a que sus datos personales se transmitan 
+directamente de responsable a responsable cuando sea técnicamente 
+posible.”.
+- Del diputado señor Luis Sánchez:  
+Agrégase el siguiente inciso final al artículo 9, en los términos 
+siguientes:
+“Con todo, el ejercicio del derecho de portabilidad no supondrá la 
+cancelación de los datos ante el responsable cedente, a menos que el titular 
+de los mismos así lo pida conjuntamente en la solicitud.”.
+La señorita Seaman (asesora del Ministerio Segpres) sostiene que 
+desde la Mesa Técnica se sugiere aprobar todas las indicaciones presentadas 
+al artículo.
+Sobre la indicación del Ejecutivo (N° 3) que incorpora la palabra 
+“electrónico” para describir el formato en que el titular de los datos personales 
+tiene derecho a solicitarlo y recibirlo, señala que es coherente con el artículo 2, 
+letra t), en la que se aprobó una indicación análoga.
+En la segunda indicación del Ejecutivo (N° 4) se busca que el titular, al 
+momento de ejercer su derecho a la portabilidad, tenga derecho a que sus 
+datos personales se transmitan directamente de responsable a responsable 
+cuando sea técnicamente posible, con la finalidad de facilitar el ejercicio del 
+derecho.
+Finalmente, estima que la indicación del diputado Sánchez es 
+consistente con el derecho a la portabilidad.
+Sometido a votación el artículo 9, con las tres indicaciones (dos del 
+Ejecutivo [I; N°s 3 y 4], y la del señor Sánchez) es aprobado por la 
+unanimidad de los presentes, diputados (as) señores (as) Karol Cariola 
+(Presidenta de la Comisión); Gustavo Benavente; Nelson Venegas (por el 
+señor Ilabaca), y Luis Sánchez. (4-0-0).
+Artículo 10
+Artículo 10.- Forma y medios de ejercer los derechos del titular de 
+datos. Los derechos reconocidos en esta ley se ejercen por el titular ante el 
+responsable de datos. Si los datos personales del titular son tratados por 
+diversos responsables, el titular puede ejercer sus derechos ante cualquiera de 
+ellos.
+Los responsables de datos deberán implementar mecanismos y 
+herramientas tecnológicas que permitan que el titular ejerza sus derechos en
+13
+--- PÁGINA 14 ---
+forma expedita, ágil y eficaz. Los medios dispuestos por el responsable deben 
+ser sencillos en su operación.
+El ejercicio de los derechos de rectificación, cancelación y oposición 
+siempre serán gratuitos para el titular. El derecho de acceso también se 
+ejercerá en forma gratuita, al menos trimestralmente.
+El responsable de datos sólo puede exigir el pago de los costos 
+directos en que incurra, cuando el titular ejerza su derecho de acceso más de 
+una vez en el trimestre o cuando ejerza el derecho a la portabilidad.
+Los parámetros y mecanismos para determinar los costos derivados 
+del ejercicio de los derechos señalados en el inciso anterior serán 
+determinados por la Agencia, a través de una instrucción general que 
+considerará, entre otros antecedentes, el volumen de los datos a ser 
+entregados, la naturaleza jurídica y el tamaño de la entidad o empresa que 
+tenga la calidad de responsable.
+La Agencia velará por el efectivo ejercicio y cumplimiento de los 
+derechos que esta ley reconoce al titular de datos, en conformidad a lo 
+dispuesto en esta ley.
+Se presentan las siguientes indicaciones: 
+ 
+- Del diputado señor Luis Sánchez:  
+Intercálase en el artículo 10 el siguiente nuevo inciso segundo, 
+pasando el actual inciso segundo a ser tercero y así sucesivamente:
+“En el caso de las personas jurídicas no constituidas en Chile, los 
+responsables deberán designar por escrito, ante la Agencia, un representante 
+domiciliado en el país para los efectos de que el titular pueda ejercer sus 
+derechos consagrados en la presente ley y se le practiquen las 
+comunicaciones y notificaciones judiciales o administrativas a que haya lugar.”.
+- Del Ejecutivo (II; presentada el 6/06/2022): 
+10) Para sustituir, en el inciso tercero del artículo 10 del numeral 6) la 
+palabra “cancelación” por la palabra “supresión”.
+- De los diputados señores Leonardo Soto y Calisto: 
+En el numeral 6) que reemplaza el Título I, al inciso cuarto del artículo 
+10 propuesto, para insertar, a continuación de la frase “derecho de acceso”, la 
+expresión “y derecho a la portabilidad”, y para suprimir el resto del inciso a 
+partir de la palabra “trimestre”.
+La señorita Seaman (asesora del Ministerio Segpres) señala que, de 
+acuerdo con el criterio de la Mesa Técnica, la indicación del diputado Sánchez
+14
+--- PÁGINA 15 ---
+es consistente con el artículo 1 bis, aprobado por la Comisión, en que se 
+establece que esta ley es aplicable al tratamiento de datos que realicen 
+responsables o mandatarios con independencia de su lugar de establecimiento 
+o constitución, cuando lo hagan a nombre de un responsable establecido o 
+constituido en territorio nacional, o cuando sus operaciones estén destinadas a 
+ofrecer bienes o servicios a titulares que se encuentren en Chile o a monitorear 
+su comportamiento.
+Sobre la indicación del Ejecutivo, subraya que se sustituye la palabra 
+“cancelación” por la palabra “supresión”, en concordancia con la modificación 
+realizada a la denominación del derecho en el artículo 7°.
+Sobre la indicación del diputado Leonardo Soto que iguala la 
+regulación de los derechos de acceso y portabilidad por parte del titular, en 
+cuanto al cobro que puede realizar el responsable. Actualmente, el 
+responsable puede cobrar por el ejercicio del derecho de acceso sólo cuando 
+se ejerce más de una vez en el trimestre, y siempre que ejerce el derecho de 
+portabilidad. La indicación del diputado Leonardo Soto iguala régimen en 
+ambos casos, es decir, el responsable sólo podría cobrar por el ejercicio del 
+derecho de acceso o de portabilidad cuando el titular lo ejerza más de una vez 
+en el trimestre. Así, se elimina el condicionamiento absoluto del ejercicio del 
+derecho de portabilidad al pago.
+Se sugiere agregar una frase que señale que, en los casos de 
+transferencia internacional de datos entre sociedades o entidades que 
+pertenezcan a un mismo grupo empresarial, empresas relacionadas o sujetas 
+a un mismo controlador, no podrá cobrar en el caso en que se ejerza el 
+derecho de portabilidad más de una vez al trimestre, ya que se entiende que, 
+aunque puede incurrir en un costo para realizar la transferencia de datos, tiene 
+una relación patrimonial directa con el responsable al que le está transfiriendo 
+los datos.
+La propuesta de la Mesa Técnica es suscrita por parlamentarios y 
+recogida en la siguiente indicación:
+- Indicación de los (as) señores (as) Karol Cariola, Gustavo 
+Benavente y Nelson Venegas.
+“Para agregar, en el inciso cuarto del artículo 10 del numeral 6), que ha 
+pasado a ser inciso quinto, a continuación del punto aparte, la expresión “El 
+responsable no podrá exigir este pago en los casos del artículo 27 f) de la 
+presente ley.”.
+Puesto en votación el artículo 10, con las cuatro indicaciones (del 
+señor Sánchez; del Ejecutivo [II; N° 10]; de los señores Leonardo Soto y
+15
+--- PÁGINA 16 ---
+Calisto, y de los (as) señores (as) Cariola, Benavente y Venegas) es 
+aprobado por la unanimidad de los presentes, diputados (as) señores (as) 
+Karol Cariola (Presidenta de la Comisión); Henry Leal (por el señor 
+Alessandri); Gustavo Benavente; Nelson Venegas (por el señor Ilabaca); Raúl 
+Leiva, y Luis Sánchez. (6-0-0).
+Artículo 11
+Artículo 11.- Procedimiento ante el responsable de datos. Para ejercer 
+los derechos que le reconoce esta ley, el titular deberá presentar una solicitud 
+o requerimiento escrito ante el responsable, dirigido a la dirección de correo 
+electrónico establecida para este fin, un formulario de contacto o un medio 
+electrónico equivalente. La solicitud deberá contener, a lo menos, las 
+siguientes menciones:
+a) Individualización del titular y de su representante legal o mandatario, 
+según corresponda y autenticación de su identidad de acuerdo con los 
+procedimientos, formas y modalidades que establezca la Agencia.
+b) Indicación de un domicilio o una dirección de correo electrónico o de 
+otro medio equivalente para comunicar la respuesta.
+c) Identificación de los datos personales o del tratamiento determinado, 
+respecto de los cuales se ejerce el derecho correspondiente.
+d) En las solicitudes de rectificación, el titular deberá indicar las 
+modificaciones o actualizaciones precisas a realizar y acompañar, en su caso, 
+los antecedentes que las sustenten. Cuando se trate de solicitudes de 
+cancelación, el titular deberá indicar la causal invocada y acompañar los 
+antecedentes que la sustenten, si correspondiere. Para las solicitudes de 
+oposición, el titular deberá indicar la causal invocada y en el caso de la letra a) 
+del artículo 8°, deberá fundamentar brevemente su petición, podrá igualmente 
+acompañar los antecedentes que estime procedentes. En el caso del derecho 
+de acceso, bastará con la individualización del titular.
+Recibida la solicitud el responsable deberá acusar recibo de ella y 
+pronunciarse a más tardar dentro de los quince días hábiles siguientes a la 
+fecha de ingreso.
+El responsable deberá responder por escrito al titular a su domicilio o 
+la dirección de correo electrónico fijada por éste. El responsable debe 
+almacenar los respaldos que le permitan demostrar la remisión de la respuesta 
+a la dirección física o electrónica que corresponda, su fecha y el contenido 
+íntegro de ella.
+En caso de denegación total o parcial de la solicitud, el responsable 
+deberá fundar su decisión indicando la causa invocada y los antecedentes que 
+la justifican. En esta misma oportunidad el responsable debe señalar al titular
+16
+--- PÁGINA 17 ---
+que dispone de un plazo de quince días hábiles para formular una reclamación 
+ante la Agencia, de acuerdo con el procedimiento establecido en el artículo 41.
+Transcurrido el plazo de quince días hábiles al que hace referencia el 
+inciso segundo anterior, sin que haya respuesta del responsable, el titular 
+podrá formular directamente una reclamación ante la Agencia, en los mismos 
+términos del inciso anterior.
+Cuando se formule una solicitud de rectificación, cancelación u 
+oposición, el titular tendrá derecho a solicitar y obtener del responsable el 
+bloqueo temporal de sus datos o del tratamiento que realice, según 
+corresponda. La solicitud de bloqueo temporal deberá ser fundada y el 
+responsable deberá responder al requerimiento dentro de los dos días hábiles 
+siguientes a su recepción. En tanto no resuelva esta solicitud, el responsable 
+no podrá tratar los datos del titular que forman parte del requerimiento. En 
+caso de rechazo el responsable deberá fundar su respuesta y comunicar en 
+forma electrónica su decisión a la Agencia. El titular podrá reclamar de esta 
+decisión ante la Agencia, aplicándose lo dispuesto en la letra a) del artículo 41.
+La rectificación, cancelación u oposición al tratamiento de los datos se 
+aplicará sólo respecto de los responsables a quienes se les haya formulado la 
+solicitud. Con todo, cuando el responsable haya comunicado dichos datos a 
+otras personas, deberá comunicar a éstas los cambios realizados en virtud de 
+la rectificación, cancelación u oposición.
+El titular podrá aportar cualquier otro antecedente que facilite la 
+localización de los datos personales.”.
+- Indicación del Ejecutivo (6/06/2022): 
+11) Para modificar el artículo 11 del numeral 6) en el siguiente sentido: 
+a) Sustitúyese, en el literal d) de su inciso primero, la palabra 
+“cancelación” por la palabra “supresión”.
+b) Modifícase su inciso sexto en el siguiente sentido: 
+i. Sustitúyese la palabra “cancelación” por la palabra “supresión”. 
+ii. Agrégase, a continuación de la frase “parte del requerimiento”, la 
+expresión “. El bloqueo temporal de los datos no afectará su almacenamiento 
+por parte del responsable”.
+c) Sustitúyese, en su inciso séptimo la palabra “cancelación” por la 
+palabra “supresión”, las dos veces que aparece.
+Sobre la indicación, la señorita Seaman (asesora del Ministerio 
+Segpres) destaca que se sustituye la palabra “cancelación” por la palabra 
+“supresión”, en concordancia con la modificación realizada a la denominación 
+del derecho en el artículo 7°.
+17
+--- PÁGINA 18 ---
+Añade que el bloqueo temporal de los datos no afectará su 
+almacenamiento por parte del responsable.
+En votación el artículo 11, con la indicación del Ejecutivo (II; N° 11) 
+es aprobado por la unanimidad de los presentes, diputados (as) señores (as) 
+Karol Cariola (Presidenta de la Comisión); Henry Leal (por el señor 
+Alessandri); Gustavo Benavente; Nelson Venegas (por el señor Ilabaca); Raúl 
+Leiva, y Luis Sánchez. (6-0-0).
+Numeral 7
+7) Reemplázase el Título II por el siguiente: 
+“Título II 
+Del tratamiento de los datos personales y de las categorías especiales 
+de datos
+Párrafo Primero 
+Del consentimiento del titular, de las obligaciones y deberes del 
+responsable y del tratamiento de datos en general
+Artículo 12 
+ 
+Artículo 12.- Regla general del tratamiento de datos. Es lícito el 
+tratamiento de los datos personales que le conciernen al titular, cuando 
+otorgue su consentimiento para ello.
+El consentimiento del titular debe ser libre, informado y específico en 
+cuanto a su finalidad o finalidades. El consentimiento debe manifestarse de 
+manera inequívoca, mediante una declaración verbal, escrita o expresada a 
+través de un medio electrónico equivalente, o mediante un acto afirmativo que 
+dé cuenta con claridad de la voluntad del titular.
+Cuando el consentimiento lo otorgue un mandatario, éste deberá 
+encontrarse expresamente premunido de esta facultad.
+El titular puede revocar el consentimiento otorgado en cualquier 
+momento y sin expresión de causa, utilizando medios similares o equivalentes 
+a los empleados para su otorgamiento. La revocación del consentimiento no 
+tendrá efectos retroactivos.
+Los medios utilizados para el otorgamiento o la revocación del 
+consentimiento 
+deben 
+ser 
+expeditos, 
+fidedignos, 
+gratuitos 
+y 
+estar 
+permanentemente disponibles para el titular.
+Existe un desequilibrio ostensible, y se presume que el consentimiento 
+para tratar datos no ha sido libremente otorgado, cuando el tratamiento de 
+dichos datos se basa en un consentimiento otorgado para la ejecución de un
+18
+--- PÁGINA 19 ---
+contrato o la prestación de un servicio que no requieren del tratamiento de 
+datos personales para su ejecución o cumplimiento.
+Con todo, lo dispuesto en el inciso anterior, no se aplicará en los casos 
+en que se ofrezcan bienes, servicios o beneficios, cuando, quien ofrezca 
+dichos bienes, servicios o beneficios, requiera como única contraprestación el 
+consentimiento para tratar datos.
+Corresponde al responsable probar que el tratamiento de datos 
+realizado contó con el consentimiento del titular.
+Se presentan las siguientes indicaciones: 
+ 
+- Del diputado señor Luis Sánchez:  
+Al numeral 7), modifícase el artículo 12 de la siguiente forma:  
+1.- Intercálese en el inciso segundo entre las palabras “manifestarse” y 
+“de” la expresión “, además, en forma previa y”.
+2.- Reemplazase los incisos sexto y séptimos por los siguientes:  
+“Se presume que el consentimiento para tratar datos no ha sido 
+libremente otorgado cuando el responsable lo recaba en el marco de la 
+ejecución de un contrato o la prestación de un servicio en que no es necesario 
+efectuar esa recolección.
+Con todo, lo dispuesto en el inciso anterior no se aplicará en los casos 
+cuando quien ofrezca bienes, servicios o beneficios, requiera como única 
+contraprestación el consentimiento para tratar datos.”
+- De los diputados señores Leonardo Soto y Calisto: 
+En el numeral 7) que reemplaza el Título II, en el artículo 12 propuesto, 
+penúltimo inciso para eliminar las dos frases que señalan “o beneficios”.
+La señorita Seaman (asesora del Ministerio Segpres) expresa que la 
+Mesa Técnica sugiere aprobar la indicación del señor Sánchez (números 1 y 2) 
+porque son consistentes con lo aprobado. Asimismo, suprimen la expresión 
+“desequilibrio ostensible” cuyo uso fue criticado por algunos de los expertos 
+invitados por resultar equívoco y porque su uso se estaría abandonando a 
+nivel comparado.
+Sometido a votación el epígrafe del numeral 7, y el artículo 12 (salvo 
+inciso final), con la indicación del señor Sánchez (números 1 y 2), es 
+aprobado por la unanimidad de los presentes, diputados (as) señores (as) 
+Karol Cariola (Presidenta de la Comisión); Henry Leal (por el señor
+19
+--- PÁGINA 20 ---
+Alessandri); Gustavo Benavente; Nelson Venegas (por el señor Ilabaca); Raúl 
+Leiva; Luis Sánchez, y Leonardo Soto. (7-0-0).
+En consecuencia, la indicación de los señores Leonardo Soto y 
+Calisto se da por rechazada reglamentariamente, por incompatible con lo ya 
+aprobado.
+- Indicación de los diputados señores Leonardo Soto y Calisto: 
+En el numeral 7) que reemplaza el Título II, en el artículo 12 propuesto, 
+para reemplazar el inciso final del artículo 12 por el siguiente:
+“Corresponde al responsable probar que contó con el consentimiento 
+del titular y que el tratamiento de datos fue realizado en forma lícita leal, justa y 
+transparente.”.
+- Se efectúa corrección ortográfica a la indicación: se intercala una 
+coma (,) entre las palabras “lícita” y “leal”).
+La señorita Seaman (asesora del Ministerio Segpres) expresa que la 
+Mesa Técnica sugiere aprobar la indicación; es complementaria al artículo 3, 
+letra a).
+Puesto en votación el inciso final del artículo 12, con la indicación 
+sustitutiva (y con la corrección señalada), es aprobado por la unanimidad 
+de los presentes, diputados (as) señores (as) Karol Cariola (Presidenta de la 
+Comisión); Henry Leal (por el señor Alessandri); Gustavo Benavente; Nelson 
+Venegas (por el señor Ilabaca); Raúl Leiva; Luis Sánchez, y Leonardo Soto. (7-
+0-0).
+La diputada señorita Cariola (Presidenta de la Comisión) da cuenta 
+de la molestia del señor Reusser (profesor de Derecho de la Información y 
+Derechos Digitales, Universidad Alberto Hurtado), expresada en redes 
+sociales, en torno a que la Comisión no estaría escuchando a los expertos e 
+incurriendo en errores en la legislación.
+Al efecto, manifiesta que la Comisión realizó, en su oportunidad, 
+sendas audiencias para escuchar a los expertos, académicos, sociedad civil, y 
+otros, y reitera el acuerdo de la Comisión relativo a que los parlamentarios 
+tienen la posibilidad de consultar las opiniones de los mismos durante la 
+discusión particular, razón por la cual se los invita permanentemente, en 
+calidad de oyentes.
+Sobre el punto, el señor Reusser (profesor de Derecho de la 
+Información y Derechos Digitales, Universidad Alberto Hurtado) da explicación
+20
+--- PÁGINA 21 ---
+de sus dichos, señalando que, pese a solicitar la palabra durante el debate, 
+esta no les fue otorgada.
+Seguidamente, manifiesta que los errores serían los siguientes: 
+- En el caso del derecho a la portabilidad (artículo 9) se ha aprobado 
+que se ejercerá en forma “electrónica”. Enfatiza que lo “electrónico” es un tipo 
+de tecnología y, por ejemplo, no podrían entregarse los datos en CD Rom o 
+DVD. La palabra correcta era formato “digital”.
+- Se aprobó que una de las excepciones al derecho de oposición 
+(artículo 8) se produciría en caso de datos referidos a salud, incluso en caso 
+de VIH, tuberculosis, u otras enfermedades que puedan tener una visión social 
+negativa.
+En relación con lo planteado, la señorita Seaman (asesora del 
+Ministerio Segpres) expresa – opinión compartida con la Mesa Técnica- que la 
+expresión “electrónico” incluye los formatos a los que alude el señor Reusser.
+En segundo lugar, precisa que lo que se aprobó en esta sesión se 
+refiere a investigación científica. Sobre el punto, hace hincapié que esta ley 
+prevé la posibilidad de anonimizar los datos que puedan ser considerados 
+sensibles, el tratamiento de datos sensibles tiene una regulación especial y 
+siempre se aplica la ley de Derechos y Deberes del Paciente.
+Sobre los aspectos de fondo, el señor Drago (ex Presidente del 
+Consejo para la Transparencia) comparte los argumentos de la señora 
+Seaman, y discrepa de los planteamientos de forma planteado por el señor 
+Reusser.
+En otro orden de ideas, la señora Donoso (académica de la 
+Universidad de Chile) hace presente que en el artículo 10, sobre forma y 
+medios de ejercer los derechos del titular de datos, en el derecho de 
+portabilidad se aprobó que es gratis si no es ejercido por el titular más de una 
+vez en el trimestre. Al momento de su discusión, había pedido la palabra para 
+sugerir que se incorpore una expresión del tipo “salvo que otra ley disponga 
+una regla diferente”, ejemplifica con el caso del traslado de una persona de un 
+hospital a otro, lo que requiere la portabilidad de los datos. En su experiencia, 
+las clínicas privadas no entregan fácilmente la ficha clínica porque no está 
+expresamente establecido en la ley de Derechos y Deberes del Paciente y la 
+ley de Protección de Datos tiene un vacío al respecto. En síntesis, en el 
+derecho de portabilidad se debiera establecer que, en caso de necesidad 
+pública o interés vital de la persona, los datos se deben portar con la persona 
+hacia el establecimiento sanitario donde continúa su atención médica.
+21
+--- PÁGINA 22 ---
+Artículo 13 
+ 
+Artículo 13.- Otras fuentes de licitud del tratamiento de datos. Es lícito 
+el tratamiento de datos personales, sin el consentimiento del titular, en los 
+siguientes casos:
+a) Cuando los datos han sido recolectados de una fuente de acceso 
+público.
+b) Cuando el tratamiento esté referido a datos relativos a obligaciones 
+de carácter económico, financiero, bancario o comercial y se realice de 
+conformidad con las normas del Título III de esta ley.
+c) Cuando el tratamiento sea necesario para la ejecución o el 
+cumplimiento de una obligación legal o lo disponga la ley.
+d) Cuando el tratamiento de datos sea necesario para la celebración o 
+ejecución de un contrato entre el titular y el responsable, o para la ejecución de 
+medidas precontractuales adoptadas a solicitud del titular.
+e) Cuando el tratamiento sea necesario para la satisfacción de 
+intereses legítimos del responsable o de un tercero, siempre que con ello no se 
+afecten los derechos y libertades del titular. En todo caso, el titular podrá exigir 
+siempre ser informado sobre el tratamiento que lo afecta y cuál es el interés 
+legítimo en base al cual se efectúa dicho tratamiento.
+f) Cuando el tratamiento de datos sea necesario para la formulación, 
+ejercicio o defensa de un derecho ante los tribunales de justicia.
+El responsable deberá acreditar la licitud del tratamiento de datos. 
+ 
+- Indicación de los diputados señores Leonardo Soto y Calisto: 
+En el numeral 7) que reemplaza el Título II, al artículo 13 propuesto, 
+para suprimir la letra a) propuesta pasando el literal b) a ser el a) y así 
+sucesivamente.
+La señorita Seaman (asesora del Ministerio Segpres) pide, a nombre 
+de la Mesa Técnica, postergar la votación de la letra a) del artículo 13 con la 
+indicación, para tratar “fuentes de acceso público” en una sola oportunidad, 
+conjuntamente con la letra i) del artículo 2, numeral 4 del proyecto de ley.
+- Así se acuerda.
+- Indicación del Ejecutivo (12/05/2022) 
+5) Para agregar, en el literal f) del artículo 13 de su numeral 7), a 
+continuación de la expresión “tribunales de justicia” la frase “u órganos 
+públicos”.
+22
+--- PÁGINA 23 ---
+Sobre la indicación del Ejecutivo, la señorita Seaman (asesora del 
+Ministerio Segpres) señala que en el literal f) del artículo 13 se agrega como 
+fuente de licitud del tratamiento de datos que éste sea necesario para la 
+formulación, ejercicio o defensa de un derecho ante órganos públicos. La 
+misma disposición ya contemplaba como fuente de licitud el tratamiento de 
+datos, por las mismas causas, ante los tribunales de justicia.
+La señora Gatica (abogada experta en protección de datos 
+personales, socia del estudio jurídico Alessandri) manifiesta que en esta 
+oportunidad se está discutiendo el tratamiento de datos sin consentimiento, 
+haciendo referencia a otras bases de licitud; una ellas, en relación con el 
+interés legítimo. Señala que en la discusión de derecho oposición (donde no 
+tuvo oportunidad de intervenir) se hace mención al interés legítimo, sin 
+embargo, por la forma en que quedó aprobado (se le quita validez a la base de 
+licitud de interés legítimo) se genera una contradicción con el Reglamento 
+Europeo.
+Respecto a lo señalado por la señorita Seaman, que fuera una base de 
+licitud el ejercicio de un derecho, señala que en realidad no es una base de 
+licitud sino una excepción, por ejemplo, al derecho de cancelación.
+Sobre el punto, la señorita Seaman (asesora del Ministerio Segpres) 
+comenta que la indicación del Ejecutivo simplemente complementa el literal f) 
+del texto aprobado por el Senado, en torno a los procedimientos en que se 
+necesite ejercer una formulación, ejercicio o defensa de un derecho ante los 
+organismos públicos, no altera el sentido de la norma aprobada.
+En votación el artículo 13 -salvo la letra a)- con la indicación del 
+Ejecutivo (I; N° 5) es aprobado por la unanimidad de los presentes, 
+diputados (as) señores (as) Karol Cariola (Presidenta de la Comisión); Henry 
+Leal (por el señor Alessandri); Gustavo Benavente; Miguel Ángel Calisto; 
+Nelson Venegas (por el señor Ilabaca); Raúl Leiva; Luis Sánchez, y Leonardo 
+Soto. (8-0-0).
+La letra a) del artículo 13 y la indicación (que propone suprimirla) 
+quedan pendientes.
+Artículo 14 
+ 
+Artículo 14.- Obligaciones del responsable de datos. El responsable de 
+datos, sin perjuicio de las demás disposiciones previstas en esta ley, tiene las 
+siguientes obligaciones:
+23
+--- PÁGINA 24 ---
+a) Informar y poner a disposición del titular los antecedentes que 
+acrediten la licitud del tratamiento de datos que realiza. Asimismo, deberá 
+entregar de manera expedita dicha información cuando le sea requerida;
+b) Asegurar que los datos personales se recojan de fuentes de acceso 
+lícitas con fines específicos, explícitos y lícitos, y que su tratamiento se limite al 
+cumplimiento de estos fines;
+c) Comunicar o ceder, en conformidad a las disposiciones de esta ley, 
+información exacta, completa y actual;
+d) Cancelar o anonimizar los datos personales del titular cuando fueron 
+obtenidos para la ejecución de medidas precontractuales, y
+e) Cumplir con los demás principios y obligaciones que rigen el 
+tratamiento de los datos personales previstos en esta ley.
+El responsable de datos que no tenga domicilio en Chile y que realice 
+tratamiento de datos de personas que residan en el territorio nacional, deberá 
+señalar y mantener actualizado y operativo, un correo electrónico u otro medio 
+de contacto idóneo para recibir comunicaciones de los titulares de datos y de 
+la Agencia.
+Se presentan las siguientes indicaciones: 
+ 
+- Del Ejecutivo (6/06/2022): 
+12) Para sustituir, en el literal d) del artículo 14 del numeral 7), la 
+palabra “Cancelar” por la palabra “Suprimir”.
+- Del diputado señor Luis Sánchez:  
+Intercálese en el literal e) del artículo 14, a continuación de la palabra 
+“demás” la palabra “deberes”.
+Sobre la indicación del Ejecutivo, la señorita Seaman (asesora del 
+Ministerio Segpres) expresa que se sustituye la palabra “Cancelar” por la 
+palabra “Suprimir”, en concordancia con la modificación realizada a la 
+denominación del derecho en el artículo 7°.
+En relación con la indicación del diputado Sánchez, explica que se 
+agrega a las obligaciones del responsable de datos que numera el artículo 14, 
+la de cumplir con los deberes que establece la ley. La indicación, por tanto, 
+refuerza el sentido de esta disposición, que busca proteger los derechos de los 
+titulares de datos y la legalidad de las actuaciones de los responsables.
+Sometido a votación el artículo 14, con ambas indicaciones (del 
+Ejecutivo [II; N° 12] y la del señor Sánchez) es aprobado por la 
+unanimidad de los presentes, diputados (as) señores (as) Karol Cariola
+24
+--- PÁGINA 25 ---
+(Presidenta de la Comisión); Henry Leal (por el señor Alessandri); Gustavo 
+Benavente; Miguel Ángel Calisto; Nelson Venegas (por el señor Ilabaca); Raúl 
+Leiva; Luis Sánchez, y Leonardo Soto. (8-0-0).
+Artículo 14 bis 
+ 
+Artículo 14 bis.- Deber de secreto o confidencialidad. El responsable 
+de datos está obligado a mantener secreto o confidencialidad acerca de los 
+datos personales que conciernan a un titular, salvo cuando el titular los hubiere 
+hecho manifiestamente públicos. Este deber subsiste aún después de 
+concluida la relación con el titular. En caso de que el responsable haya 
+realizado alguna acción sobre datos personales obtenidos de fuentes de 
+acceso público, tales como organizarlos o clasificarlos bajo algún criterio, o 
+combinarlos o complementarlos con otros datos, los datos personales que 
+resulten de dicha acción se encontrarán protegidos bajo el presente deber de 
+secreto o confidencialidad.
+El deber de secreto o confidencialidad no obsta a las comunicaciones 
+o cesiones de datos que deba realizar el responsable en conformidad a la ley, 
+y al cumplimiento de la obligación de dar acceso al titular e informar el origen 
+de los datos, cuando esta información le sea requerida por el titular o por un 
+órgano público dentro del ámbito de sus competencias legales.
+El responsable debe adoptar las medidas necesarias con el objeto que 
+sus dependientes o las personas naturales o jurídicas que ejecuten 
+operaciones de tratamiento de datos bajo su responsabilidad, cumplan el 
+deber de secreto o confidencialidad establecidos en este artículo.
+Quedan sujetas a la obligación de secreto o confidencialidad las 
+personas e instituciones y sus dependientes, que en cumplimiento de una 
+obligación legal han remitido información a un organismo público sujeto al 
+régimen de excepciones establecido en el artículo 24, en cuanto al 
+requerimiento y al hecho de haber remitido dicha información.
+Se presentan las siguientes indicaciones: 
+ 
+- De los diputados señores Leonardo Soto y Calisto: 
+En el numeral 7) que reemplaza el Título II, al artículo 14 bis 
+propuesto, en el inciso primero, para suprimir su frase final que señala “En 
+caso de que el responsable haya realizado alguna acción sobre datos 
+personales obtenidos de fuentes de acceso público, tales como organizarlos o 
+clasificarlos bajo algún criterio, o combinarlos o complementarlos con otros 
+datos, los datos personales que resulten de dicha acción se encontrarán 
+protegidos bajo el presente deber de secreto o confidencialidad.”.
+25
+--- PÁGINA 26 ---
+La indicación es retirada por sus autores. 
+ 
+- De los diputados señores Leonardo Soto y Calisto: 
+En el numeral 7) que reemplaza el Título II, al artículo 14 bis 
+propuesto, para eliminar último inciso del artículo 14 bis.
+La indicación es retirada por sus autores. 
+ 
+La señorita Seaman (asesora del Ministerio Segpres) señala que la 
+Mesa Técnica efectúa propuesta de indicación. La propuesta es suscrita por 
+parlamentarios y recogida en la siguiente indicación de consenso:
+- Indicación de los diputados (as) señores (as) Leonardo Soto, 
+Karol Cariola, Miguel Ángel Calisto, Raúl Leiva y Nelson Venegas
+Para reemplazar el inciso final del artículo 14 bis del numeral 7) por el 
+siguiente:
+“Quedan sujetas a la obligación de confidencialidad las personas e 
+instituciones y sus dependientes a que se refiere el artículo 24, en cuanto al 
+requerimiento y al hecho de haber remitido dicha información.”.
+Puesto en votación el artículo 14 bis, con la indicación de los (a) 
+señores (a) Leonardo Soto, Cariola, Calisto, Leiva y Venegas, es 
+aprobado por la unanimidad de los presentes, diputados (as) señores (as) 
+Karol Cariola (Presidenta de la Comisión); Henry Leal (por el señor 
+Alessandri); Gustavo Benavente; Miguel Ángel Calisto; Nelson Venegas (por el 
+señor Ilabaca); Raúl Leiva; Luis Sánchez, y Leonardo Soto. (8-0-0).
+****** 
+ 
+Las intervenciones quedaron en registro de audio en la Secretaría de 
+la Comisión. Registro audiovisual de la sesión puede obtenerse en 
+http://www.democraciaenvivo.cl/ y en
+http://www.cdtv.cl/Programa.aspx?idPrograma=46. 
+ 
+Por haberse cumplido con su objeto, siendo las 16:35 horas, la 
+Presidenta levantó la sesión.
+26
+--- PÁGINA 27 ---
+PVW/mrl/ccr
+27

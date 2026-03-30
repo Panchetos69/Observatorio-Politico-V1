@@ -1,0 +1,1699 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=20321&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:34:52
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 66°, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+372ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 19 DE JUNIO 2024, DE 
+17:36 A 19:05 HORAS.
+SUMARIO: 
+La Comisión despachó el proyecto de ley, de origen en 
+un mensaje, que dicta normas sobre transferencia de 
+tecnología y conocimiento (boletín N° 16686-19), en 
+primer trámite constitucional, con urgencia calificada de 
+“simple”. Se designó como diputada informante a la 
+señora Erika Olivera De La Fuente. Pasa a la Sala.
+I.- PRESIDENCIA
+Presidió la sesión, el diputado Eric Aedo (Presidenta Titular), actuó como Abogada 
+Secretaria de la Comisión la señora María Soledad Fredes Ruiz, como Abogada Ayudante 
+la señorita María Jesús Serey Sardá y como secretaria ejecutiva la señora Teresita 
+Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Marta Bravo, Paula 
+Labra, Helia Molina, Erika Olivera, Carolina Tello; y los diputados integrantes de la 
+Comisión, señores Eric Aedo, Johannes Kaiser, Tomás Lagomarsino, Daniel Lilayu, Rubén 
+Oyarzo, Matías Ramírez.
+Concurrió, para la orden del día, la Ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, señora Aisén Etcheverry Escudero. La acompañaron las asesoras legislativas 
+de gabinete señoras Macarena Galaz y Paloma Herrera.
+III.- ACTAS
+Las actas de las sesiones 64ª y 65ª se pusieron a disposición de las señoras 
+Diputadas y señores Diputados.
+IV.- CUENTA:
+Se recibieron los siguientes documentos:
+1.- Oficio de S.E. el Presidente de la República mediante el cual retira y hace 
+presente la urgencia calificada de "simple" para el despacho del proyecto de ley que regula 
+los sistemas de inteligencia artificial, la robótica y las tecnologías conexas, en sus distintos 
+ámbitos de aplicación (boletín N° 15869-19 (refundido con boletín N° 16821-19). ).
+A sus antecedentes
+2.- Solicitudes de audiencia de las personas que representan a las organizaciones 
+que se señalan a continuación, cuyo objetivo es exponer su opinión sobre los proyectos de 
+ley boletines refundidos N° 15869-19 y N° 16821-19, ambos relativos a los sistemas de 
+inteligencia artificial, la robótica y tecnologías conexas:
+• Investigadora del Centro de Estudios en Derecho, Tecnología y Sociedad de la 
+Facultad de Derecho de la Universidad de Chile, señora Danielle Zaror Miralles.
+• Coordinador de Socios, Redes y Alianzas de la Asociación Chilena de Empresas 
+de Tecnologías de Información A.G. (ACTI), señor Tomás Araneda.
+• Director de Investigación del Institute for Experiential AI de la Northeastern 
+University, Dr. Ricardo Baeza-Yates.
+• Presidenta de la ONG Observatorio Público para la Transparencia e Inclusión 
+Algorítmica (OptIA) señora Claudia Negri Ribalta.
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 21/07/2024 12:21:11 CLT
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 823773DBB5762C1A
+--- PÁGINA 2 ---
+• Directora Legal de la Consultora Legal Idónea y consultora legislativa internacional, 
+señora Catherine Muñoz Gutiérrez.
+Se tomó conocimiento
+3.- Correo electrónico del Director General de la Sociedad de Derechos de las Letras 
+de Chile (SADEL), señor Cristián Elgueta Jiménez, quien señala que esa sociedad, al 
+amparo de la Ley de Propiedad Intelectual Nº 17.336, tiene por objetivo la gestión colectiva 
+y protección de los derechos intelectuales de autoras, autores y editoriales, especialmente 
+en el ámbito de la fotocopia, digitalización, almacenamiento en base de datos, reproducción 
+y comunicación pública. Como creadores de contenido, solicita audiencia con la Comisión 
+para referirse a los proyectos de ley sobre transferencia tecnológica (boletín N° 16686-19), 
+y sobre inteligencia artificial (boletines refundidos N° 15869-19 y N° 16821-19).
+4.- Listado elaborado por la biblioteca del Congreso Nacional, sobre proyecto de ley 
+de inteligencia artificial, propuesta de invitados.
+Se tomó conocimiento
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 19:05 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+2
+--- PÁGINA 3 ---
+COMISIÓN DE FUTURO, CIENCIAS, TECNOLOGÍA, COCNOCIMIENTO E
+INNOVACIÓN
+Sesión 66ª
+Celebrada en miércoles 19 de junio de 2024, de 17:36 a 19:05
+horas.
+I. APERTURA DE LA SESIÓN
+-Se abrió la sesión a las 17:36 horas.
+El señor AEDO (Presidente).- En el nombre de Dios y de la 
+Patria, se abre la sesión.
+II. ACTAS
+El señor AEDO (Presidente).- Las actas de las sesiones 64ª y 
+65ª quedan a disposición de las señoras diputadas y de los 
+señores diputados.
+III. CUENTA
+El señor AEDO (Presidente).- La señora Secretaria dará 
+lectura a la cuenta.
+-La señora FREDES, doña María Soledad (Secretaria) da lectura 
+a la cuenta.
+El 
+señor 
+AEDO 
+(Presidente).- 
+Muchas 
+gracias, 
+señora 
+Secretaria.
+Ofrezco la palabra sobre la cuenta.
+Ofrezco la palabra.
+IV. ORDEN DEL DÍA
+ESTABLECIMIENTO DE NORMAS SOBRE TRANSFERENCIA DE TECNOLOGÍA 
+Y CONOCIMIENTO (Primer trámite constitucional y primero 
+reglamentario. Boletín N° 16686-19) (Continuación)
+El señor AEDO (Presidente).- La presente sesión especial ha 
+sido citada con objeto de continuar con la votación en 
+particular del proyecto de ley, de origen en un mensaje, que
+3
+--- PÁGINA 4 ---
+dicta normas sobre transferencia de tecnología y conocimiento, 
+boletín N° 16686-19, en primer trámite constitucional, con 
+urgencia calificada de “simple”.
+La Comisión ha invitado a la ministra de Ciencia, Tecnología, 
+Conocimiento e Innovación, señora Aisén Etcheverry Escudero. 
+La acompañan las asesoras legislativas de gabinete, señoras 
+Macarena Galaz y Paloma Herrera.
+El señor LILAYU.- Una consulta, señor Presidente.
+¿Hay puntos varios? Quería plantear algo muy breve. ¿Puedo?
+El señor AEDO (Presidente).- Tiene la palabra diputado 
+Lilayu.
+El señor LILAYU.- Yo solamente quería agradecer, en forma 
+personal, al Presidente, diputado Eric Aedo, y a todo el equipo 
+del ministerio -seguramente usted va a dar cuenta- por la 
+cumbre que tuvimos en Buenos Aires. Fue realmente muy buena…
+Los temas fueron muy atingentes y, la verdad, nuestro país 
+quedó muy bien representado y posicionado.
+Al parecer, estamos bien adelantados con relación a lo que 
+es la inteligencia artificial y, bajo ese punto de vista, les 
+sugiero -y lo hemos conversado- que en nuestro país el Congreso 
+también hiciera algo parecido -tengo entendido que ya tenemos 
+los contactos- y, por lo mismo, podemos hablar mucho sobre eso.
+Por lo tanto, reitero mi agradecimiento, señora ministra, y 
+a todo su equipo que nos acompañó. La verdad, tuvimos un muy 
+buen apoyo y aprendimos harto.
+Muchas gracias.
+El señor AEDO (Presidente).- Muchas gracias, diputado Lilayu.
+Recién le comentaba de manera informal a la ministra antes 
+de iniciar la sesión que creo, lo digo de manera exagerada, 
+que, respecto de los países latinoamericanos, a excepción de 
+Brasil y de otros países del orbe, incluidos algunos 
+desarrollados en sus Parlamentos, que en lo que hemos avanzado, 
+tanto en la incorporación de la inteligencia artificial, en 
+específico, al interior de esta Cámara como en la discusión 
+del proyecto de ley, estamos veinte años luz adelantados. ¡Es 
+realmente impresionante!
+Lo increíble, se lo decía a la ministra y lo quiero compartir 
+con ustedes, es que países que están veinte años luz detrás de 
+nosotros hacen seminarios y hablan como si estuviesen cuarenta 
+años adelantados a nosotros.
+Creo que ahí tenemos un problema, porque estamos avanzando 
+de manera muy contundente y decidida, lo cual quedó manifiesto 
+en las exposiciones que hicimos y en la serie de conversaciones
+4
+--- PÁGINA 5 ---
+que sostuvimos. Sin embargo, no hemos sido capaces de 
+transmitir de manera efectiva lo que estamos haciendo.
+Tal como se lo compartí a la Presidenta de la Cámara y al 
+equipo de la Secretaría General, sería bueno que nosotros 
+generemos desde el Congreso un encuentro parlamentario en el 
+marco de la inteligencia artificial y que lo lideremos.
+Tenemos una fecha tentativa, porque esto tomó bastante vuelo, 
+a pesar de que recién lo conversamos el lunes. La idea es que 
+esto lo tengamos organizado en octubre, de manera que vamos a 
+poner harta energía en aquello, tanto en lo que es regulación, 
+proyectos de ley, como en la implementación en el interior del 
+Congreso.
+Aprovecho de comentar que durante la semana anterior hubo 
+acá un encuentro internacional, en el que estuvo presente la 
+Comisión de Ciencias. No solo asistieron parlamentarios 
+extranjeros, entre ellos de Estonia, Australia, Canadá o 
+Brasil, sino también representantes de empresas bastante 
+importantes, como Microsoft, Google, OpenAI.
+Siento que todavía tenemos estos temas muy encapsulados y 
+que es el momento de salir más a la luz pública, pero la verdad 
+es que el encuentro estuvo genial.
+Antes de comenzar la votación, les recuerdo que en la última 
+sesión que acordamos buscar consenso respecto de dos artículos, 
+dado que es la forma como hemos trabajado en general en esta 
+Comisión, pero tengo entendido que ha sido dificultoso.
+Me gustaría darle la palabra a la ministra para ver si tenemos 
+alguna alternativa antes de revisar las propuestas al 
+articulado que puedan presentar los colegas parlamentarios.
+Hagamos el esfuerzo en esta sesión de ver si llegamos a un 
+punto de encuentro para no tener que votarlo y nos tengamos 
+que ir con el espíritu un poquito encontrado, porque unos 
+sentirán que perdieron sus indicaciones o que las perdió el 
+gobierno.
+Tiene la palabra el diputado Kaiser.
+El señor KAISER.- Señor Presidente, podríamos plantear 
+primero nuestras inquietudes y después la ministra nos podría 
+responder, porque de esa manera se podría optimizar su tiempo.
+Muchas gracias.
+El señor AEDO (Presidente).- Tomada su sugerencia, diputado 
+Kaiser, que me parece bastante razonable.
+El señor KAISER.- Nosotros tenemos un problema con los 
+artículos 9° y 10° en razón de lo siguiente.
+Como se levanta una serie de inhabilidades, se crea una 
+diferencia sustancial entre los empleados públicos que son 
+académicos y aquellos que no lo son. Es decir, genera una
+5
+--- PÁGINA 6 ---
+discriminación 
+clara 
+-no sé 
+si arbitraria- entre los 
+funcionarios del Estado que están sujetos al Estatuto 
+Administrativo. Eso ya es complejo, porque puede afectar la 
+propia constitucionalidad de la norma.
+Ese es un punto.
+El segundo punto es que levanta una serie de inhabilidades, 
+no solamente en materia de lo que es el trabajo con empresas 
+startups tecnológicas, sino en general respecto de operaciones 
+de tipo económico con el Estado.
+Les voy a dar un par de ejemplos.
+En las inhabilidades e incompatibilidades administrativas 
+establecidas en el artículo 54 del decreto con fuerza de ley 
+N° 1, del Ministerio Secretaría General de la Presidencia, se 
+estipula que no podrán ingresar a cargos de la administración 
+del Estado las personas que tengan vigente o suscriban, por sí 
+o por terceros, contratos o cauciones ascendentes a doscientas 
+unidades tributarias mensuales o más, con el respectivo 
+organismo de la Administración Pública.
+Esto no tiene por qué ser. No se refiere a los organismos de 
+transferencia tecnológica; puede ser cualquiera.
+El inciso tercero de la referida norma agrega que tampoco 
+pueden hacerlo los directores, administradores, representantes 
+y socios titulares del diez por ciento o más de los derechos 
+de cualquier clase de sociedad, cuando esta tenga contratos o 
+cauciones 
+vigentes 
+ascendentes 
+a 
+doscientas 
+unidades 
+tributarias mensuales o más, o litigios pendientes, con el 
+organismo de la Administración a cuyo ingreso se postule.
+Es decir, nuevamente estamos eliminando una inhabilidad no 
+solo para el caso de las empresas que tienen transferencia 
+tecnológica. Incluso ahí sería complejo.
+Por su parte, el artículo 56 suprime su aplicación respecto 
+de los académicos, ya que señala:
+“Todos los funcionarios tendrán derecho a ejercer libremente 
+cualquier profesión, industria, comercio u oficio conciliable 
+con su posición en la Administración del Estado, siempre que 
+con ello no se perturbe el fiel y oportuno cumplimiento de sus 
+deberes funcionarios, sin perjuicio de las prohibiciones o 
+limitaciones establecidas por ley.
+Estas actividades deberán desarrollarse siempre fuera de la 
+jornada de trabajo y con recursos privados. Son incompatibles 
+con la función pública las actividades particulares cuyo 
+ejercicio deba realizarse en horarios que coincidan total o 
+parcialmente con la jornada de trabajo que se tenga asignada.”.
+Voy a detenerme aquí.
+¿Qué es lo que sucede? Aquí también se genera una 
+desigualdad. El Estado puede participar en actividades 
+económicas siempre y cuando -de acuerdo con la Constitución- 
+cumpla con las mismas normas que los privados.
+6
+--- PÁGINA 7 ---
+Cuando yo pago a un alto funcionario o a un alto empleado de 
+una nueva empresa tecnológica con recursos públicos, tengo un 
+problema.
+Otro punto. No veo por qué esta problemática no se puede 
+solventar o solucionar a través de una comisión de servicio, 
+es decir, que la universidad encomiende a un académico para 
+trabajar en una empresa. Eso es una comisión de servicio, pero 
+no tiene por qué necesariamente transformarlo en socio de la 
+empresa trabajando en tiempo que está pagando el fisco para 
+que dé clases o haga investigación solamente para el Estado.
+Entiendo la lógica de hacer transferencias de experiencia y 
+todo lo que fuere, pero para eso estaría la comisión de 
+servicio, que es algo que tiene que determinar la propia 
+universidad.
+Dicho 
+inciso 
+agrega 
+lo 
+siguiente: 
+“Asimismo, 
+son 
+incompatibles con el ejercicio de la función pública las 
+actividades particulares de las autoridades o funcionarios que 
+se refieran a materias específicas o casos concretos que deban 
+ser analizados, informados o resueltos por ellos o por el 
+organismo o servicio público a que pertenezcan;”.
+Eso significa que los propios académicos podrían determinar 
+sobre su involucramiento en una empresa que va a ser también 
+respaldada con recursos públicos.
+Aquí hay una cantidad de conflictos de interés que pueden 
+iniciarse, lo cual no es menor.
+Continúa: “y la representación de un tercero en acciones 
+civiles 
+deducidas 
+en 
+contra 
+de 
+un 
+organismo 
+de 
+la 
+Administración del Estado, salvo que actúen en favor de alguna 
+de las personas señaladas en la letra b) del Artículo 54 o que 
+medie 
+disposición 
+especial 
+de 
+ley 
+que 
+regule 
+dicha 
+representación.
+Del mismo modo son incompatibles las actividades de las ex 
+autoridades o ex funcionarios de una institución fiscalizadora 
+que impliquen una relación laboral con entidades del sector 
+privado sujetas a la fiscalización de ese organismo. Esta 
+incompatibilidad se mantendrá hasta seis meses después de haber 
+expirado en funciones.”.
+Al levantar todas esas incompatibilidades -no solo respecto 
+de lo que son estas empresas de transferencia tecnológica-, 
+estamos 
+haciendo 
+un 
+tremendo 
+hoyo 
+en 
+el 
+Estatuto 
+Administrativo. Probablemente, la Contraloría no va a estar 
+feliz con eso. Se puede producir todo tipo de irregularidades 
+que nosotros no compartimos. ¿Por qué? Porque si usted ve el 
+artículo propio de la ley, levanta muchas inhabilidades, y no 
+solo respecto de este procedimiento específico, que sería para 
+las empresas de transferencia tecnológica.
+Continúa la ley N° 19.886, de Bases sobre Contratos 
+Administrativos de Suministro y Prestación de Servicios.
+El artículo 2º dice lo siguiente:
+7
+--- PÁGINA 8 ---
+“Para los efectos de esta ley se entenderá por contrato de 
+suministro 
+el 
+que 
+tiene 
+por 
+objeto 
+la 
+compra 
+o 
+el 
+arrendamiento, incluso con opción de compra, de productos o 
+bienes muebles.”.
+¿Por qué? Porque aquí también se elimina esa restricción. 
+Por ejemplo, respecto de adquisición y arrendamiento de 
+equipos, el mantenimiento de equipos, la fabricación, etcétera. 
+O sea, un empleado de la universidad podría empezar a contratar 
+con 
+su 
+propia 
+universidad, 
+siendo 
+-como 
+académico, 
+probablemente dentro del consejo académico- uno de los que toma 
+las decisiones sobre si se va a hacer ese tipo de inversiones 
+o no. Estamos generando un sistema que se podría pisar la cola 
+muy rápidamente, lo que podría terminar en un escándalo 
+mayúsculo.
+Por último, respecto de los requisitos para contratar con la 
+Administración del Estado, el artículo 4º dice lo siguiente:
+“Podrán contratar con la Administración las personas 
+naturales o jurídicas, chilenas o extranjeras,”.
+En su inciso sexto señala lo siguiente:
+“Ningún órgano de la Administración del Estado y de las 
+empresas y corporaciones del Estado o en que éste tenga 
+participación, podrá suscribir contratos administrativos de 
+provisión de bienes o prestación de servicios con los 
+funcionarios directivos del mismo órgano o empresa, ni con 
+personas unidas a ellos por los vínculos de parentesco 
+descritos en la letra b) del artículo 54 de la ley N° 18.575, 
+ley Orgánica Constitucional de Bases Generales de la 
+Administración del Estado, ni con sociedades de personas de 
+las que aquéllos o éstas formen parte, ni con sociedades 
+comanditas por acciones o anónimas cerradas en que aquéllos o 
+éstas sean accionistas, ni con sociedades anónimas abiertas en 
+que aquéllos o éstas sean dueños de acciones que representen 
+el 10% o más del capital, ni con los gerentes, administradores, 
+representantes o directores de cualquiera de las sociedades 
+antedichas.”.
+Por su intermedio, señor Presidente, quiero señalarle a la 
+ministra que no veo la utilidad, para el proyecto mismo, que 
+se concentra en la transferencia tecnológica, de eliminar las 
+inhabilidades que establece el Estatuto Administrativo. Creo 
+que tiene que haber otro camino para que, por ejemplo, un 
+profesor pueda ser despachado por una universidad a trabajar 
+en conjunto con una empresa que está recién creándose.
+Para eso creo que existe la comisión de servicio. No podemos 
+desfondar en tantos campos el Estatuto Administrativo que se 
+aplica a los profesores.
+Si los profesores, con todo el respeto que me merecen, 
+quieren trabajar en el sector privado, son libres de hacerlo. 
+Si quieren trabajar como representantes de sus universidades 
+en el sector privado, son libres de hacerlo y de pedir a la 
+universidad que los despache en comisión de servicio, de
+8
+--- PÁGINA 9 ---
+conformidad con los acuerdos que cierre la universidad con 
+dicha empresa.
+Poner personal estatal a disposición de nuevas empresas, 
+pagado con nuestros impuestos, para que durante el tiempo de 
+trabajo que ha contratado con el Estado, en la práctica, 
+enriquezca a un privado y, más encima, levantando una serie de 
+otras inhabilidades que tendría con otros organismos del Estado 
+para hacer negocios, etcétera, me parece que se crearía un 
+grupo de superfuncionarios públicos, con un privilegio que no 
+se explica.
+Por lo demás, de la mano de esto, cualquier funcionario que 
+hoy hiciese lo que describí en esta ley, probablemente estaría 
+con una patita en la calle.
+Me complica pensar que esta norma pueda servir para limpiar 
+la carrera de alguien que haya incurrido en irregularidades 
+serias.
+El señor AEDO (Presidente).- Tiene la palabra la diputada 
+Labra.
+La señora LABRA (doña Paula).- Señor Presidente, en primer 
+lugar, agradezco la buena disposición del Ejecutivo, del equipo 
+y del diputado Kaiser para tratar de llegar a un consenso en 
+este punto. Todos tenemos claro que aquí hay distintas 
+opiniones respecto de la flexibilidad o rigurosidad que esto 
+debiese implicar.
+Se entiende perfectamente el trasfondo que va de la mano de 
+la idea matriz del proyecto, que es fomentar la transferencia 
+tecnológica entre la universidad y la creación de esta empresa 
+de base científico-tecnológica.
+Comparto también lo que plantea el diputado Kaiser, con 
+algunos bemoles, pero va en la misma línea.
+Lo que plantea el proyecto de ley es eliminar muchas 
+condiciones que están en el Estatuto Administrativo, que 
+impiden que haya conflictos de intereses y mal uso de recursos 
+públicos. Recordemos que esto se refiere únicamente a 
+universidades públicas. Por lo tanto, estamos hablando de 
+recursos públicos.
+Sabemos que eliminar de manera radical esas inhabilidades e 
+incompatibilidades 
+es 
+complicado, 
+porque 
+puede 
+haber 
+conflictos de intereses y mal uso de recursos públicos.
+Por lo tanto, lo que proponemos junto a mi equipo en la 
+indicación es algo un poco más riguroso, que es que se permita 
+realizar esta transferencia de conocimiento a través de 
+académicos o funcionarios, pero con la limitación, homologando 
+esto al Estatuto Administrativo, de un máximo de 12 horas 
+semanales, las cuales deberán reintegrar a la universidad.
+En el proyecto original se plantea que sea un reglamento el 
+que lo regule.
+9
+--- PÁGINA 10 ---
+En primer lugar, ¿cuál es la dificultad que le veo a esto? 
+No queda establecido por ley.
+En segundo lugar, la misma universidad vendría a ser juez y 
+parte. Por lo tanto, no resuelve el problema de evitar el mal 
+uso de recursos públicos.
+Por eso proponemos que esto quede en la ley. No es algo 
+antojadizo; es algo homologado a los artículos 87 y 88 del 
+Estatuto Administrativo. Además, permite que se cumpla el 
+objetivo de este proyecto de ley.
+Puede salir a la discusión si se necesitan más o menos horas. 
+El trabajo dentro de esta empresa se demorará más o menos, 
+pero, en el fondo, quedaría regulado, nos protegeríamos de que 
+haya conflictos de intereses, mal uso de recursos públicos y 
+se cumpliría el objetivo de generar esta transferencia 
+tecnológica.
+Ese es el fondo de la indicación.
+La primera indicación que presento, que corresponde a la 
+letra a) del artículo 9°, tiene como objetivo regular la 
+redacción, para describir adecuadamente las empresas creadas 
+por las instituciones y aquellas de las que forman parte.
+Se aclara eso o en algunos aspectos de la redacción, pero lo 
+importante es lo que les comenté de regular un poco, que no 
+quede tanto chipe libre respecto de lo que pueden hacer los 
+académicos y funcionarios.
+El señor AEDO (Presidente).- Tiene la palabra la señora 
+ministra.
+La señora ETCHEVERRY, doña Aisén (ministra de Ciencia, 
+Tecnología, Conocimiento e Innovación).- Muchas gracias, señor 
+Presidente.
+Agradezco también la buena disposición de los equipos del 
+diputado Kaiser y de la diputada Labra. Tuvieron varias 
+reuniones, le dedicaron harto tiempo y energía con muy buena 
+voluntad, aunque no fue posible llegar a puerto en una 
+redacción.
+Me atrevería a decir -al menos de la percepción que tenemos 
+como Ejecutivo- que existe bastante coincidencia en torno a 
+los objetivos, en particular con lo que señaló la diputada 
+Labra.
+Tomamos el punto sobre los conflictos de intereses y la 
+necesidad de establecer ciertos bordes aún más explícitos de 
+como ya están establecidos.
+Respecto de las excepciones que establecen los artículos 9º 
+y 10°, quiero señalar que es necesario mirarlas a la luz del 
+encabezado del artículo 9° y de la última parte del artículo 
+10°, en que quedan circunscritas a actividades relacionadas 
+directamente con empresas de base científica tecnológica. Eso
+10
+--- PÁGINA 11 ---
+excluye -al menos como lo entendemos nosotros- una parte de 
+las preocupaciones del diputado Kaiser.
+Concordamos en la lógica de incorporar un elemento nuevo que 
+no sea solo un reglamento que se regule a sí mismo, como 
+mencionó la diputada Labra.
+Por eso, parte de lo que se discutió entre los asesores tenía 
+que ver con la posibilidad de establecer en la propia ley 
+algunas 
+precisiones 
+respecto 
+de 
+las 
+excepciones, 
+particularmente en el artículo 56, pero también algunas 
+referencias al contenido que debiese tener el reglamento. Es 
+decir, no solo un reglamento que lo regule, sino que se haga 
+cargo de la carga horaria, de los conflictos de interés y de 
+otros elementos que se podrían incorporar. De esa manera, no 
+sería un reglamento abstracto el que mire la Contraloría, sino 
+uno que contenga ciertos elementos que la Contraloría deberá 
+revisar.
+La única razón por la que no pudimos llegar a acuerdo respecto 
+de las 12 horas, entendiendo la aprensión de la diputada Labra, 
+es porque existe una variedad de contratos en el interior de 
+las universidades con profesores que están contratados por 12 
+horas, por 24 horas, a veces por 40 horas, y esa disparidad 
+nos costó hacerla calzar con estas 12 horas. Por eso, la 
+alternativa de establecer criterios en lugar de cifras 
+consideramos que es algo que podría haber funcionado.
+Dicho eso, me gustaría volver al origen y que recordemos 
+varias presentaciones que hicieron los expertos cuando nos 
+visitaron.
+Aquí efectivamente se trata de encontrar un mecanismo para 
+que las personas puedan estar tanto en la academia como en el 
+sector privado, si ese es el objetivo.
+Ahora, si ese es el objetivo -que creemos que es el fin 
+central del proyecto de ley-, sí es posible establecer ciertos 
+bordes, bordes que están incorporados en la redacción original, 
+pero que -concordamos con los diputados- podrían mejorarse, 
+estableciendo estos criterios de conflictos de interés y de 
+horario, pero no con un número específico, porque ahí se nos 
+genera esta otra preocupación.
+Sin embargo, no llegamos a una redacción de consenso, por 
+eso hoy no la trajimos y decidimos plantear la discusión acá e 
+incorporar al resto de los diputados. Quizás la inteligencia 
+colectiva nos pueda sacar del entuerto, señor Presidente.
+Muchas gracias.
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Kaiser.
+El señor KAISER.- Gracias, señor Presidente.
+A ver, hay un elemento que no está recogido en su respuesta, 
+señora ministra -por su intermedio, señor Presidente-, cual
+11
+--- PÁGINA 12 ---
+es, el hecho de que estamos creando una categoría especial de 
+funcionarios que no estarán sometidos a una serie de normas 
+del estatuto administrativo. Eso, en sí, generará mucho ruido 
+dentro de la administración del Estado.
+Luego, si usted lee el proyecto de ley del Ejecutivo, dice 
+lo siguiente: “…no serán aplicables -escuchen bien- a las y 
+los 
+académicos 
+y 
+profesionales 
+funcionarios 
+de 
+las 
+instituciones de educación superior estatales, siempre que 
+participen dentro de empresas de base científico-tecnológica 
+en las que la institución de educación superior tenga 
+participación total o parcial, o bien, que la empresa de base 
+científico-tecnológica 
+utilice 
+derechos 
+de 
+propiedad 
+intelectual o industrial transferidos desde una institución de 
+educación superior estatal.”.
+Comprendan bien que esta redacción no dice que los conflictos 
+de interés se puedan producir en razón de la relación económica 
+entre la empresa de base científico-tecnológica y la 
+universidad, 
+sino 
+que 
+levanta 
+las 
+inhabilidades 
+e 
+incompatibilidades en todos los campos para que un funcionario 
+o académico de una institución de educación superior tenga 
+tratos con el Estado. Insisto, en todos los campos, no solo en 
+el marco de la relación económica entre la empresa y la 
+universidad.
+Entonces, ¿por qué nos ponemos un poco tiritones? Porque ese 
+espacio será utilizado para todo tipo de abusos. Una persona o 
+un académico que, por ejemplo, esté imposibilitado para hacer 
+negocios con el Ministerio del Interior querrá participar de 
+una empresa de transferencia tecnológica y empezará a hacer 
+negocios con el Ministerio del Interior. ¿Por qué? Porque la 
+inhabilidad ya no correrá para él.
+Lo que hace el texto de la norma es liberarlos de las 
+restricciones del estatuto administrativo en tanto estén dentro 
+de la empresa. Es lo mismo que si yo dijera: “sabes qué más, 
+las leyes chilenas no valen para mí en tanto esté en Isla de 
+Pascua”. No tiene sentido.
+Por eso planteamos que, en vez de hacer la vuelta larga y 
+dejar sin efecto el estatuto administrativo, generemos las 
+posibilidades para que las universidades sinceren todo el 
+proceso y manden a sus funcionarios o académicos en comisión 
+de servicio, ya que así, primero, queda cien por ciento 
+clarificada la relación de dependencia de los funcionarios 
+respecto de la universidad y, segundo, se mantienen sus 
+inhabilidades respecto del resto de la administración pública.
+Eso era lo que quería plantear.
+Muchas gracias.
+El señor AEDO (Presidente).- Ministra, las diputadas Labra y 
+Molina me han pedido la palabra. Me gustaría que las escuche, 
+porque a lo mejor complementan la respuesta que usted dará, 
+que sé que está referida al diputado Kaiser, pero a lo mejor 
+ayudan a clarificar esto.
+12
+--- PÁGINA 13 ---
+Tiene la palabra la diputada Labra.
+La señora LABRA (doña Paula).- Gracias, Presidente.
+En primer lugar, el fin del guarismo “12 horas” no es crear 
+un superfuncionario. No, lo que estamos haciendo es homologar 
+lo que ya existe en el estatuto administrativo. Este no es un 
+criterio antojadizo. Puede que el proyecto necesite más o menos 
+tiempo, más o menos meses, pero, en el fondo, quedará regulado.
+En segundo lugar, colegas, para qué les voy a recordar lo 
+que pasó cuando en la ley de presupuestos flexibilizamos las 
+normas sobre transferencias a convenios.
+Entonces, seamos bien rigurosos con lo que legislamos. No 
+quiero decir que haya funcionarios públicos -o quien sea- que 
+actúen de mala fe. Al revés, queremos que todos actúen de buena 
+fe, pero quiero recordar eso, que en aquella ocasión se 
+flexibilizó una norma, acá, en este Congreso, y tuvimos los 
+conocidos casos convenios.
+Por tanto, llamo a la prudencia.
+El señor AEDO (Presidente).- Tiene la palabra la diputada 
+Molina.
+La señora MOLINA (doña Helia).- Quizás esto nos está 
+enfrentando por primera vez a una disyuntiva que no tuvimos 
+antes, o de la magnitud que esperamos que tenga, porque aquí 
+se está pensando en un futuro próximo donde las universidades, 
+el desarrollo, la innovación, las empresas, se junten en un 
+proceso donde todos ganen, donde ganen las universidades, el 
+país, las empresas, los trabajadores.
+Entiendo lo que dice el diputado Kaiser. Mirado desde el 
+punto de vista del estatuto administrativo parece todo muy 
+simple.
+Él habló de los recursos del Estado, pero los académicos, 
+con todo lo que han trabajado en su vida -han hecho desarrollos 
+científicos, han hecho docencia, han investigado-, también son 
+un recurso del Estado. No son una bolsa de plata, pero tienen 
+un valor.
+El académico no es un funcionario que pueda ser reemplazado 
+por otro en cualquier minuto. No me refiero a todos los 
+académicos, porque hay de todos tipos, pero aquellos que sí 
+estarán a ese nivel, al nivel de la innovación, de la 
+tecnología, 
+del 
+aporte 
+al 
+desarrollo 
+del 
+país, 
+las 
+universidades no los querrán perder, aun cuando por un período 
+-me refiero, sobre todo, a cuando se esté haciendo la 
+transferencia tecnológica- estén más volcados al área del 
+desarrollo de la innovación que a sus tareas específicas de 
+docencia e investigación.
+Cuando estaba estudiando en la Universidad Johns Hopkins, en 
+Estados Unidos, recuerdo que tenía profesores, científicos -
+13
+--- PÁGINA 14 ---
+prácticamente tiene la mejor escuela de salud pública del 
+mundo-, que tenían expansiones hacia desarrollos privados, 
+como, 
+por 
+ejemplo, 
+organizaciones 
+no 
+gubernamentales, 
+hospitales nuevos, planes políticos, pero la universidad 
+siempre tuvo el mayor interés de que por ningún motivo ese 
+capital humano, de tanta importancia, se fuera de la 
+universidad.
+No todos los académicos están en ese nivel. Es casi una 
+elite. Yo, por ejemplo, he sido académica toda mi vida, pero 
+jamás estaré en la transferencia tecnológica, porque lo que yo 
+hago no se presta para eso, por lo tanto, nunca estaré en esa 
+disyuntiva. Pero cuando pienso en los astrónomos, en los 
+eléctricos, en los informáticos, en todo lo que se demora una 
+universidad en tener ese capital humano, creo que asimilarlo 
+al estatuto administrativo es poco real, en relación a que cada 
+universidad tiene sus estatutos, su política de retención de 
+recursos humanos, o de no retención, porque hay algunas que no 
+retienen.
+Entonces, me hace mucho ruido poner esto casi en un plano de 
+recursos humanos de cualquier empresa, porque no lo es.
+Tampoco estoy pensando en que tengan que ser iluminados, o 
+que no pagarán impuestos. ¡No, tampoco! Ese sería el otro 
+extremo. Pero sí considero que la comisión de servicio tiene 
+lógica. Por ejemplo -perdonen que ponga mi caso, pero soy 
+académica. Toda la vida lo he sido-, cuando me fui contratada 
+por la OMS a Washington me dieron un permiso sin goce de sueldo 
+y me declararon en comisión de servicio. No me pagaban…
+Pero es distinto, porque yo iba a ejercer un cargo que había 
+ganado. Es más, cuando me fui al ministerio ocurrió lo mismo y 
+cuando me fui de ministra, también. Siempre me declararon en 
+comisión de servicio.
+Sí, pero aquí estamos hablando de otra cosa, de un proceso 
+absolutamente nuevo dentro de la ciencia en Chile, que implica 
+una mirada de futuro, donde tenemos que buscar la forma. No 
+digo que aquí haya que dejar todo libre y que no se regule 
+nada. ¡Jamás pensaría algo así! Pero tiene que haber algún 
+formato que no sea solo blanco o negro. O sea, si estoy 
+trabajando en un proceso de innovación para crear un telescopio 
+-estoy inventando cualquier cosa-, la universidad en que 
+realizo mis labores también querrá que haga clases, que 
+supervise tesis, que desarrolle un proyecto de doctorado. No 
+sé, qué sé yo.
+Entonces, ¿cómo me voy a ir en comisión de servicio y dejar 
+todo aquello que también es parte de mi vida académica?
+En cuanto a las 12 horas, yo también tengo derecho a ellas, 
+incluso ahora que soy diputada. Nunca las he querido tomar 
+porque capaz que salga en el diario, pero tengo derecho a 12 
+horas docentes. Y aunque las ocupare, tampoco haré las clases 
+gratis. Pero me parece que esto que estamos mirando, tenemos 
+que verlo con ojos que no signifiquen restar. Tratemos de que 
+todo lo que pongamos en esta ley sume a su objetivo principal, 
+cual es, hacer algo que realmente no se hace, que prácticamente
+14
+--- PÁGINA 15 ---
+no existe. Yo trabajaba en una universidad que se caracterizaba 
+por la innovación, la Usach, pero así y todo era precario, 
+básico. Esto no, esto tiene una mirada mucho más potente.
+Entonces, me preocupa dejar todo libre, pero, a la vez, que 
+se asimile todo al estatuto administrativo, porque creo que 
+esto es diferente.
+Gracias, Presidente.
+El señor AEDO (Presidente).- Tiene la palabra la señora 
+ministra.
+La señora ETCHEVERRY, doña Aisén (ministra de Ciencia, 
+Tecnología, Conocimiento e Innovación).- Gracias, Presidente.
+El artículo 9°, lo que hace, en el caso de aquellas académicas 
+y académicos, y funcionarias y funcionarios de instituciones 
+de educación superior -o sea, solo se refiere a personas que 
+están en instituciones de educación superior- que participen 
+en empresas de base científico-tecnológica -no se refiere a 
+cualquier empresa, sino a empresas de base científico-
+tecnológica-, es levantar algunas de las prohibiciones del 
+estatuto administrativo, en particular las de los párrafos 
+primero y tercero del literal a) del artículo 54, que está 
+referido a que participen en empresas que tienen contratos con 
+esa institución o que sean directores o administradores de las 
+empresas que tienen contratos con esa institución.
+¿Por qué lo menciono? Porque quiero llevarlo a un ejemplo 
+práctico. Usaré el de NotCo.
+NotCo se creó en base a un algoritmo desarrollado por un 
+astrónomo. Ese algoritmo es el máximo valor que tiene NotCo, 
+que es una empresa se constituyó por académicos. En este caso, 
+por doctores en biología y en otras áreas.
+Luego, ellos tuvieron que decidir si seguir en la universidad 
+o irse a la empresa, porque, a pesar de que el algoritmo había 
+sido 
+desarrollado 
+en 
+la 
+universidad, 
+al 
+momento 
+de 
+traspasárselo a la empresa no podían tener contratos vigentes 
+por más de 200 UTM, ni tampoco ser directores.
+Entonces, el artículo se refiere a esa situación, a cuando 
+hay un producto de conocimiento que, a su vez, se explota a 
+través del vehículo por el cual tiene que ocurrir la 
+explotación comercial, que es, una empresa. ¿Para qué? Para 
+que esas personas, que participaron en esa producción, puedan 
+mantenerse en la academia, sin que tengan que desvincularse 
+completamente de la empresa que explota el producto que ellos 
+desarrollaron.
+La 
+segunda 
+excepción 
+es 
+la 
+del 
+artículo 
+56, 
+que, 
+efectivamente, es más amplia, y cuyo objetivo es que se refiera 
+exclusivamente al tiempo de dedicación. Por eso creímos que 
+ahí había un ajuste, a propósito de lo dicho por la diputada 
+Labra, y coincidimos con que sería bueno tener ese guarismo o 
+criterio. Eso lo decidirá esta Comisión, evidentemente.
+15
+--- PÁGINA 16 ---
+En consecuencia, aquí no estamos hablando de excluir todo el 
+estatuto administrativo, sino de personas que están en esas 
+dos situaciones -que son contratos o participación como 
+directores-, cuando son funcionarios de la academia y en 
+relación con una empresa de base científico-tecnológica.
+Entonces, el proyecto ya tiene esos contornos.
+Solo lo quería explicitar, porque nos pusimos a hablar de 
+más cosas. Yo misma traje el tema del objetivo de la ley, pero 
+el artículo ya tiene ciertos contornos cuya presencia es 
+importante que no olvidemos.
+Muchas gracias, señor Presidente.
+El señor AEDO (Presidente).- Gracias, ministra.
+Tiene la palabra el diputado Lagomarsino.
+El señor LAGOMARSINO.- Muchas gracias, Presidente.
+A decir verdad, no sé qué es primero, si el huevo o la 
+gallina, porque muchas veces hay actos de corrupción, y fruto 
+de esos actos hacemos más burocrático al Estado, burocracia 
+que hace que, a su vez, sea menos eficiente y que todo lo que 
+deseamos se distancie aún más.
+Hay muchas personas que no buscan servir al Estado y a la 
+sociedad, sino que a ellas mismas. Podemos ponerles mil trabas, 
+pero igual lo harán al final del día.
+A esas personas debemos investigarlas, capturarlas y tienen 
+que estar tras las rejas, sean del sector político que sean.
+Ahora, creo que el principio que se está abordando es que 
+haya menos burocracia para facilitar la investigación desde 
+las universidades del Estado. Ese es un principio que me parece 
+positivo.
+Que alguien puede ocupar esto para algo malo, es lógico. Eso 
+puede hacerse en función de todo el quehacer humano, y a esas 
+personas hay que encontrarlas y tenerlas tras las rejas, pero 
+no por ello vamos a dejar de darle un camino a la investigación 
+a través de este proyecto de ley, que me parece que apunta en 
+la línea correcta.
+Gracias, Presidente.
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Kaiser.
+El señor KAISER.- Señor Presidente, uno siempre se tiene que 
+poner en todos los casos cuando legisla. Por lo mismo, tengo 
+una indicación que propone que los académicos puedan ser 
+despachados en comisión de servicio. ¿Por qué? Porque tendrán 
+que rendirle cuentas a la universidad de lo que han hecho, 
+pudiendo después volver a ella. Otra cosa es que trabajen en
+16
+--- PÁGINA 17 ---
+la empresa siendo pagados por la universidad, pues se 
+mantendría ese esquema.
+Ahora, lo que les quiero plantear es que la amplitud de la 
+norma, tal como está establecida, permite que, por ejemplo, un 
+funcionario cree una empresa de papel -literalmente de papel- 
+y que diga que es una empresa a la que él lleva un proyecto 
+que ha estado investigando.
+En el mejor de los casos, simplemente sacará la vuelta. En 
+el peor, puede que empiece a hacer todo tipo de transacciones 
+con la administración pública, o con su propia institución, 
+proveyéndola de bienes y servicios. Quién sabe con qué pagos, 
+o si con sobrepagos, o lo que fuere.
+Me estoy poniendo en la posición de por qué tenemos un 
+estatuto administrativo: para impedir ese tipo de situaciones.
+Entonces, si alzamos esto, ¿dónde estarán los controles de 
+la universidad respecto de estas empresas? Ello, porque el 
+control será interno. ¿Podrá la Contraloría investigar a estas 
+empresas y los recursos públicos invertidos en ellas? ¿La 
+universidad podrá ordenar que se hagan auditorías externas a 
+estas empresas?
+Creo que estamos debilitando el sistema de control. Estamos 
+creando algo que será como lo mejor de dos mundos: podré 
+emprender sin arriesgar nada propio; voy a poder hacerme dueño 
+de la empresa, o por lo menos ser un participante relevante en 
+acciones, y, para más remate, tengo la hamaca del Estado, el 
+Estatuto Administrativo, que impide que me despidan si mi 
+cumplimiento de ciertos parámetros no es el correcto.
+Entonces, es demasiado perfecto: no hay riesgo. Esto, a 
+diferencia de lo que sucede con la inmensa mayoría de los 
+empresarios, que es gente que sale de la empresa -por ejemplo, 
+NotCo- con lo que tiene ahorrado, tiene una idea, se la juega, 
+muchas veces quiebra y se arruina, y después ve cómo consigue 
+otra pega.
+No tengo nada en contra de que las universidades y las 
+empresas cooperen y exista esta transferencia tecnológica, pero 
+debe estar claro quién es el señor del académico. ¿Quién es el 
+señor? ¿A quién sirve el académico? ¿A la universidad o a la 
+empresa? Si va a servir a la empresa, no puede estar protegido 
+por el Estatuto Administrativo. Si va a servir a los intereses 
+de la universidad, entonces puede ser despachado en comisión 
+de servicio.
+Es por eso que somos tan críticos, desde esta vereda, de lo 
+que se está proponiendo, porque abre las puertas, nos deja con 
+muy pocos controles, amenaza la integridad del cuerpo académico 
+y la confianza que hay en las instituciones universitarias.
+No nos equivoquemos, porque el tema de los escándalos de 
+corrupción lo hemos tenido en todo el resto del Estado. En 
+cualquier momento se descubrirá que las universidades también 
+tienen sus yayitas, y con esto nosotros ampliamos por mucho la 
+posibilidad de que las haya.
+17
+--- PÁGINA 18 ---
+He dicho.
+El señor AEDO (Presidente).- Tiene la palabra la diputada 
+Helia Molina.
+La señora MOLINA (doña Helia).- En la academia, en la 
+universidad 
+hay 
+algo 
+con 
+que 
+los 
+académicos, 
+los 
+investigadores, todos deben cumplir: un compromiso de gestión.
+De hecho, probablemente ese es uno de los lugares donde menos 
+control horario hay, donde el académico puede estar a lo mejor 
+en un grupo de trabajo interuniversitario y no ir durante tres 
+días a la universidad. Pero uno está debajo del otro: está el 
+rector, después los vicerrectores, luego el decano, quien es 
+el que estará mirando lo que hago y lo que no hago.
+Entonces, no se trata de que un académico pueda, por ejemplo, 
+cobrar dos sueldos sin hacer nada en alguna parte. No es así, 
+porque hay compromisos de tantas horas de docencia, de tantas 
+horas de investigación, etcétera.
+Acá dice que esto solo corre para aquellas empresas privadas 
+que tengan convenios con la universidad, por tanto, no se trata 
+de cualquier empresa privada. Entonces, ahí está el acuerdo al 
+que tiene que llegar la universidad con la empresa: cuál será 
+el rol del investigador. Porque si el investigador está en la 
+empresa para seguir desarrollando la tecnología, aunque aquella 
+después le sirva para hacer lucro, lo que él está haciendo es 
+apoyar la ciencia para innovar en el país. O sea, no es solo 
+un trabajo de empleado privado de una empresa.
+Pero, ¿qué pasa hoy día? Por ejemplo, muchos académicos están 
+contratados a honorarios y no se les aplica el Código de Trabajo 
+ni el Estatuto Administrativo. Además, muchos tienen contratos 
+con dos o tres universidades al mismo tiempo.
+Estoy hablando de los diferentes estatus de los funcionarios.
+No, es que esto es una cosa nueva; no se da habitualmente.
+Incluso hay empresas privadas que no tienen nada que ver con 
+la universidad. Ahí te creo. Pero esto es el núcleo de 
+investigación, de innovación, de transferencia tecnológica, de 
+lo público con lo privado, pero en un acuerdo en que se tendrán 
+que fijar normas. Me imagino que toda ley tiene un reglamento, 
+toda ley tiene normativa accesoria. Ahí deberán generarse 
+ciertos bordes.
+No obstante, creo que encerrar esto en blanco o negro va a 
+generar problemas, porque, al final, ¿qué académico querrá 
+trabajar en esto, si por desarrollar la tecnología, aplicar su 
+ciencia, llevar becados y alumnos en práctica, etcétera, tendrá 
+que estar fuera de la universidad, sin ningún acceso ni derecho 
+de los que tienen los académicos?
+No me parece que eso vaya a funcionar.
+Pero es que en la comisión de servicio tú estás allá o estás 
+acá.
+18
+--- PÁGINA 19 ---
+Es una alianza público-privada. No es una industria por allá, 
+una universidad por acá, sino una alianza, que tiene que ser 
+sinérgica, que tiene que sumar, tener valor agregado. O sea, 
+no es una transferencia de funcionarios.
+Eso es lo que me preocupa.
+El señor AEDO (Presidente).- Estimados colegas, acaba de 
+ingresar una nueva indicación del diputado Lagomarsino. Pediré 
+a la Secretaria que la lea, para posteriormente someter esto a 
+votación.
+Este es un proceso legislativo. Vamos a votar en particular, 
+pero todavía queda mucha agua por correr bajo este puente.
+Tiene la palabra la señora Secretaria.
+La 
+señora 
+FREDES, 
+doña 
+María 
+Soledad 
+(Secretaria).- 
+Presidente, la indicación es del diputado Lagomarsino para 
+sustituir el artículo 9 por el siguiente: “Artículo 9.- 
+Participación de académicas, académicos, funcionarias y 
+funcionarios de instituciones de educación superior estatales 
+en empresas de base científico-tecnológica como excepción a 
+las 
+inhabilidades 
+e 
+incompatibilidades 
+administrativas 
+aplicables a funcionarias y funcionarios públicos. Las 
+inhabilidades e incompatibilidades administrativas previstas 
+en los párrafos primero y tercero del literal a) del artículo 
+54 y en el artículo 56 en lo referente a la prohibición a 
+ejercer actividades económicas adicionales durante su jornada 
+laboral o utilizando recursos del Estado, así como realizar 
+actividades particulares que coincidan total o parcialmente 
+con su horario de trabajo asignado, ambos del decreto con 
+fuerza de ley N° 1, de 2000, del Ministerio Secretaría General 
+de la Presidencia, que fija el texto refundido, coordinado y 
+sistematizado de la ley N° 18.575, orgánica constitucional de 
+bases generales de la administración del Estado, no serán 
+aplicables a las y los académicos y profesionales funcionarios 
+de las instituciones de educación superior estatales, siempre 
+que participen dentro de empresas de base científico-
+tecnológica en las que la institución de educación superior 
+tenga participación total o parcial, o bien, que la empresa de 
+base científico-tecnológica utilice derechos de propiedad 
+intelectual o industrial transferidos desde una institución de 
+educación superior estatal.
+Para estos efectos, las instituciones de educación superior 
+estatales deberán contar con un reglamento de creación y 
+participación de académicas, académicos, funcionarias y 
+funcionarios en empresas de base científico-tecnológica y 
+prevención de conflictos de interés. Su participación deberá 
+ajustarse a estos reglamentos y normativa interna, según sea 
+el caso, los cuales deberán tener en consideración un adecuado 
+balance entre las funciones de docencia, administración, 
+investigación y transferencia tecnológica, así como el uso 
+responsable de los recursos públicos en relación con las
+19
+--- PÁGINA 20 ---
+remuneraciones percibidas por estas actividades y declaración 
+de posibles conflictos de interés.
+Para estos efectos, se requerirá de una autorización 
+explícita conferida a la académica, académico, funcionaria o 
+funcionario por parte de la institución.”.
+Eso es todo, señor Presidente.
+El señor AEDO (Presidente).- Vamos a proceder a votar, señora 
+Secretaria.
+La señora FREDES, doña María Soledad (Secretaria).- ¿Cuál 
+indicación, señor Presidente?
+El señor AEDO (Presidente).- Sométalas todas a votación. O 
+aprobamos unas y se caen las otras, o bien, las descartamos 
+todas y llegamos al final.
+La señora FREDES, doña María Soledad (Secretaria).- Entonces, 
+comenzaremos con la nueva indicación del diputado Kaiser, que 
+dice: “Artículo 9.- Participación de académicos y funcionarios 
+de instituciones de educación superior estatales en empresas 
+de base científico-tecnológica. Las instituciones de educación 
+superior estatales deberán contar con un reglamento de creación 
+y participación de académicos y funcionarios en empresas de 
+base científico-tecnológica y prevención de conflictos de 
+interés. Su participación deberá ajustarse a estos reglamentos 
+y normativa interna que, al menos, deberán procurar un debido 
+resguardo del patrimonio institucional, tanto como, una 
+garantía del fiel cumplimiento de la comisión en la empresa de 
+base científico-tecnológica. Para estos efectos, además se 
+requerirá de una autorización explícita conferida al académico 
+o funcionario por parte de la institución.”.
+El señor AEDO (Presidente).- En votación.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Bravo, ¿cómo vota?
+La señora BRAVO (doña Marta).- Abstención.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Kaiser, ¿cómo vota?
+El señor KAISER.- Señor Presidente, voy a fundamentar mi 
+voto.
+Creo que este es el camino más sencillo para no desfondar ni 
+dejar a disposición el Estatuto Administrativo, permitir la 
+participación de académicos y funcionarios de instituciones de 
+educación superior en la transferencia a las empresas de base
+20
+--- PÁGINA 21 ---
+científico-tecnológica y preservar los intereses tanto de la 
+universidad como del Estado.
+Voto a favor.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Labra, ¿cómo vota?
+La señora LABRA (doña Paula).- Bueno, he defendido mucho mi 
+indicación, así que me tendré abstener.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Lagomarsino, ¿cómo vota?
+No se encuentra.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Lilayu, ¿cómo vota?
+El señor LILAYU.- Me abstengo.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Molina, ¿cómo vota?
+La señora MOLINA (doña Helia).- En contra.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Olivera, ¿cómo vota?
+La señora OLIVERA (doña Érika).- Abstención.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Oyarzo, ¿cómo vota?
+El señor OYARZO.- En contra.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Ramírez, ¿cómo vota?
+No se encuentra.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Tello, ¿cómo vota?
+La señora TELLO (doña Carolina).- En contra.
+La señora FREDES, doña María Soledad (Secretaria).- Señor 
+Aedo, ¿cómo vota?
+El señor AEDO.- En aras del ancho camino de en medio, 
+abstención.
+-Efectuada la votación en forma nominativa, por el sistema 
+de viva voz, dio el siguiente resultado: por la afirmativa, 1 
+voto; por la negativa, 5 votos. Hubo 5 abstenciones.
+El señor AEDO (Presidente).- Rechazada.
+La 
+señora 
+FREDES, 
+doña 
+María 
+Soledad 
+(Secretaria).- 
+Corresponde votar la nueva indicación del diputado Lagomarsino.
+Diputada Bravo, ¿cómo vota?
+La señora BRAVO (doña Marta).- En contra.
+21
+--- PÁGINA 22 ---
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Kaiser, ¿cómo vota?
+El señor KAISER.- En contra.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Labra, ¿cómo vota?
+La señora LABRA (doña Paula).- En contra.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Lagomarsino, ¿cómo vota?
+El señor LAGOMARSINO.- A favor.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Lilayu, ¿cómo vota?
+El señor LILAYU.- En contra.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Molina, ¿cómo vota?
+La señora MOLINA (doña Helia).- A favor.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Olivera, ¿cómo vota?
+La señora OLIVERA (doña Érika).- Abstención.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Oyarzo, ¿cómo vota?
+El señor OYARZO.- ¿Puedo votar al final, por favor?
+El señor AEDO (Presidente).- Al final vota el Presidente.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Ramírez, ¿cómo vota?
+No se encuentra.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Tello, ¿cómo vota?
+La señorita TELLO (doña Carolina).- A favor, Secretaria.
+Además, si es posible, me gustaría suscribir la indicación.
+La señora FREDES, doña María Soledad (Secretaria).- Se la 
+enviaremos, diputada.
+Diputado Oyarzo, ¿cómo vota?
+El señor OYARZO.- A favor.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Aedo, ¿cómo vota?
+El señor AEDO.- A favor.
+La señora FREDES, doña María Soledad (Secretaria).-
+-Efectuada la votación en forma nominativa, por el sistema 
+de viva voz, dio el siguiente resultado: por la afirmativa, 6 
+votos; por la negativa, 4 votos. Hubo 1 abstención.
+22
+--- PÁGINA 23 ---
+El señor AEDO (Presidente).- Aprobada.
+El señor LILAYU.- Entonces, esa es la que queda.
+La señora FREDES, doña María Soledad (Secretaria).- No, 
+porque las que remplazan totalmente el artículo se votan en 
+primer lugar.
+Ese es el orden de votación que establece el Reglamento.
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Kaiser.
+El señor KAISER.- Señor Presidente, hago reserva de 
+constitucionalidad respecto de esta disposición, en razón de 
+que, en mi opinión, puede vulnerar el artículo 19, número 21°, 
+inciso segundo, de la Constitución.
+He dicho.
+El señor AEDO (Presidente).- Perfecto.
+Tiene la palabra el diputado Lagomarsino.
+El señor LAGOMARSINO.- Es la primera vez que me hacen una 
+reserva de constitucionalidad.
+El señor AEDO (Presidente).- Bienvenido a mi mundo, diputado 
+Lagomarsino.
+Tiene la palabra la señora Secretaria.
+La señora FREDES, doña María Soledad (Secretaria).- Señor 
+Presidente, a propósito de esto, la Secretaría considera que 
+este artículo debe ser conocido por el Tribunal Constitucional, 
+porque contiene una norma de rango orgánico constitucional. 
+Así que de todas maneras irá a dicho tribunal.
+Porque se aprobó una indicación que sustituye íntegramente 
+el artículo. Por lo tanto, la…
+Sí, desde el inicio iba.
+Sí, pero quería dejarlo claro.
+El señor AEDO (Presidente).- Se aclara que con eso el 
+artículo está aprobado.
+23
+--- PÁGINA 24 ---
+La señora FREDES, doña María Soledad (Secretaria).- Exacto, 
+el artículo 9 queda aprobado con el texto de la indicación del 
+diputado Lagomarsino y de la diputada Tello. Ese es el texto.
+El señor AEDO (Presidente).- Perfecto.
+No. Por favor, aquí es la Secretaría la que tiene que explicar 
+los alcances jurídicos. Les pido que no nos pongamos creativos 
+jurídicos, sino que dejemos a la Secretaría hacer su labor.
+Señora Secretaria, le pido que explique bien lo que acaba de 
+decir. ¿Cuál es el alcance de que esta indicación que se aprobó 
+vaya a una consulta al Tribunal Constitucional? Ello, para 
+despejar dudas. Se lo pregunto, porque si su opinión es que lo 
+que acabamos de aprobar va a una consulta al Tribunal 
+Constitucional, es una cosa. Si usted considera que no es 
+admisible, es otra cosa.
+Entonces, quiero que eso quede muy despejado en esta 
+comisión.
+La 
+señora 
+FREDES, 
+doña 
+María 
+Soledad 
+(Secretaria).- 
+Presidente, desde el inicio este artículo tenía que ser 
+conocido por el Tribunal Constitucional.
+Solo tiene un quorum más alto de aprobación en Sala, no en 
+la Comisión, y debe ser aprobado con esa calidad en dicha 
+instancia. Luego de eso irá en consulta al Tribunal 
+Constitucional, como control previo de constitucionalidad, 
+porque modifica la ley N° 18.575, Orgánica Constitucional de 
+Bases Generales de la Administración del Estado. Es decir, la 
+norma tiene ese rango.
+El señor AEDO (Presidente).- Bueno, ya está votado.
+En definitiva, este artículo será largamente discutido en 
+Sala, y seguramente después en el Tribunal Constitucional y en 
+el Senado, y va a requerir un alto quorum para su aprobación. 
+Si no sale, estará el espacio para la indicación para un nuevo 
+artículo, así que vamos a seguir adelante.
+La señora LABRA (doña Paula).- Perdón, señor Presidente. 
+Disculpe mi ignorancia, pero no estoy entendiendo bien, por lo 
+que solicito, por favor, que el diputado Lagomarsino nos 
+explique la indicación para saber qué se aprobó.
+Perdone mi ignorancia, pero no logro entender qué es lo que 
+implica que esto pase al Tribunal Constitucional y de qué se 
+trata la indicación. Escuché la lectura de la indicación, pero 
+entre tanta discusión…
+Por tanto, pido, por favor, que se nos explique en forma 
+precisa y concisa la indicación.
+He dicho.
+24
+--- PÁGINA 25 ---
+El señor LAGOMARSINO.- Aumentamos el estándar. O sea, había 
+dos 
+planteamientos: 
+el 
+primero, 
+del 
+Ejecutivo, 
+que 
+evidentemente tenía estándares más bajos, y el segundo, de 
+usted y del diputado Kaiser, que hacían más alto el estándar.
+Yo busqué un punto intermedio con determinadas inhabilidades 
+y cierta reglamentación intermedia que tienen que establecer 
+las propias universidades.
+Genera una mayor estandarización, porque tú tienes que 
+someterte a un reglamento interno de la propia universidad, 
+que se plantea…
+El señor AEDO (Presidente).- Ya está votado y zanjado el 
+punto.
+Así que vamos al artículo siguiente.
+Sigamos adelante, Secretaria.
+La señora FREDES, doña María Soledad (Secretaria).- Señor 
+Presidente, nos queda pendiente el artículo 10.
+Aquí se presentaron dos indicaciones: una del diputado Kaiser 
+y otra de la diputada Molina. Leeré ambas.
+La indicación 11, del diputado Kaiser, es para sustituir el 
+artículo 10 por el siguiente: “Artículo 10.- Posibilidad de 
+que las instituciones de educación superior estatales que 
+participan 
+en 
+empresas 
+de 
+base 
+científico-tecnológica 
+suscriban contratos o convenios de cooperación con ellas. Estos 
+deberán aprobarse por resolución fundada y deberán ser puestos 
+en conocimiento de la Superintendencia de Educación Superior y 
+tomados de razón por la Contraloría General de la República.”.
+La indicación 12, de la diputada Molina, modifica el párrafo 
+final del artículo 10 en el siguiente sentido: “Estos contratos 
+deberán aprobarse por resolución fundada, con control de 
+legalidad de la contraloría interna de la IES, y deberán ser 
+puestos en conocimiento de la Superintendencia de Educación 
+Superior.”.
+Esas son las dos indicaciones que hay.
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Kaiser.
+El señor KAISER.- Señor Presidente, es razonable que sea la 
+Contraloría General de la República la que vise estos 
+contratos. De todas maneras, es más razonable eso a que sea la 
+contraloría de la misma institución la que tome esa decisión.
+Estamos hablando de recursos públicos, probablemente de 
+cientos de millones de pesos, e incluso más. Entonces, así como 
+se hace en otros procedimientos, creemos que no basta con la
+25
+--- PÁGINA 26 ---
+contraloría interna de la institución, sino que se requiere un 
+órgano que sea absolutamente independiente y al cual no se 
+pueda presionar en ciertos casos. Para eso, en este caso la 
+que da mejores garantías es la Contraloría General de la 
+República.
+He dicho.
+El señor AEDO (Presidente).- Tiene la palabra la diputada 
+Labra.
+La señora LABRA (doña Paula).- Presidente, me preocupa 
+enormemente que sigamos quitándole rigurosidad y control a 
+esto.
+Lo que acabamos de aprobar -yo no lo aprobé, pero se aprobó 
+en la Comisión- deja todo en manos de un reglamento. Además, 
+esta indicación que propone la diputada Molina quita lo que ya 
+está propuesto en el proyecto por parte del Ejecutivo: que se 
+tome razón por Contraloría. Por lo tanto, no entiendo cuál es 
+el fin de quitar regulación a esto.
+No es pertinente que quitemos la toma de razón de 
+Contraloría, pues tenemos que velar por el buen uso de los 
+recursos públicos. En consecuencia, no me parece adecuado.
+El señor AEDO (Presidente).- Tiene la palabra la diputada 
+Molina.
+La señora MOLINA (doña Helia).- Señor Presidente, el único 
+afán de mi indicación fue incluir lo que escuché de los 
+expertos, incluso de dos vicerrectores: el tema de la 
+Contraloría General de la República deja en desventaja a las 
+universidades estatales, pues es tan alto el nivel de 
+burocracia que se genera por razones del Estado que las va a 
+poner en desventaja.
+Conozco de cerca la Universidad de Chile, la Universidad de 
+Santiago -por supuesto, no conozco todas las universidades 
+estatales-, donde la contraloría de la universidad no es parte 
+del negocio de la universidad. Es una contraloría independiente 
+con un nivel de pesadez, diría yo, incluso de meticulosidad. Y 
+no estamos hablando de comprometer el presupuesto de la nación, 
+ya que es una alianza público-privada de la universidad.
+Entonces, llevar esto al nivel de la Contraloría General va 
+a ser tremendamente obstaculizador de los procesos en el 
+tiempo, porque, ya sabemos, pueden pasar dos años antes de que 
+la Contraloría tome razón de una cosa de esta naturaleza, 
+habiendo tantos problemas de otro tipo.
+Como les digo, las universidades privadas, que no tienen que 
+pasar por la Contraloría, estarían absolutamente en una ventaja 
+que me parece injusta.
+26
+--- PÁGINA 27 ---
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Lagomarsino.
+El señor LAGOMARSINO.- Presidente, disculpe que vuelva en el 
+debate, pero, para que no quede ninguna duda en la historia 
+fidedigna de la ley, lo que traté de hacer con mi indicación -
+hice memoria, diputada Labra- fue, primero que todo, acotar 
+las inhabilidades que se entienden exceptuadas. Lo hice 
+planteando en lo referente a la prohibición de ejercer 
+actividades económicas adicionales durante su jornada laboral 
+utilizando recursos del Estado, así como realizar actividades 
+particulares que coincidan total o parcialmente en su horario 
+de trabajo asignado.
+Efectivamente, ya estaba el reglamento, pero yo lo acoto más. 
+Le pongo: según sea el caso, las cuales deberán tener en 
+consideración un adecuado balance entre las funciones de 
+docencia, 
+administración, 
+investigación 
+y 
+transferencia 
+tecnológica, así como el uso responsable de los recursos 
+públicos en relación con las remuneraciones percibidas por esta 
+actividad de declaraciones de posibles conflictos de interés. 
+Es decir, encauzo la línea que debe tener el reglamento para 
+ponderar adecuadamente el equilibrio que todos buscamos.
+Gracias, Presidente.
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Kaiser.
+El señor KAISER.- Señor Presidente, el Estado siempre va a 
+estar en desventaja respecto de privados, porque no trabaja 
+con su propio dinero, sino que con el de los demás. Eso 
+significa que debe ser especialmente meticuloso. Si un privado 
+pierde dinero, pierde su propio dinero; si el Estado pierde 
+dinero, pierde mi dinero… Sigue siendo plata fiscal y siguen 
+siendo parte del Estado…
+Lo mismo que Codelco, todos vamos a tener que pagar sus 
+deudas.
+El punto, señor Presidente, es que si cada convenio por más 
+de 30 millones de pesos debe pasar por la Contraloría…
+Bueno, ahora los está viendo más chicos por el tema del 
+fraccionamiento.
+Pero si cada convenio tiene que pasar por la Contraloría para 
+ser aprobado… Estamos hablando de recursos que también son 
+importantes y sabemos que, por no haber hecho los controles 
+específicos, en el caso convenios se produjo una serie de 
+irregularidades que ahora nos tienen bien complicados…
+Señora diputada, permítame terminar.
+27
+--- PÁGINA 28 ---
+No estoy poniendo en duda la contraloría interna. Estoy 
+diciendo que, a partir de cierto monto de recursos fiscales 
+comprometidos -porque son recursos fiscales-, es la Contraloría 
+General de la República la que debe tener el control.
+Esto no es la compra de una corchetera cuando se abre una 
+empresa de transferencia tecnológica, no es un viaje en 
+comisión de servicio, no es pintar un aula nuevamente. Estamos 
+hablando de recursos que -por ejemplo, la participación de un 
+académico en horas hombre en una empresa de transferencia 
+tecnológica- pueden llegar a sumar muchas decenas de millones 
+de pesos. También de transferencia de recursos públicos a 
+través de esas horas hombre. ¡Para qué hablar de lo que es la 
+transferencia de tecnología! o de lo que podría ser incluso 
+transferencia de capital.
+Entonces, plantear que las resoluciones sean fundadas, que 
+sean informadas a la Superintendencia de Educación Superior y 
+que tengan toma de razón por la Contraloría General de la 
+República, es lo menos que podemos solicitar a la hora de que 
+se produzcan estos contratos entre un ente que es fiscal y 
+otros privados.
+Muchísimas gracias, señor Presidente.
+El señor AEDO (Presidente).- Tiene la palabra la diputada 
+Labra.
+La señora LABRA (doña Paula).- Gracias, Presidente.
+Respecto de lo que se aprobó recientemente… En primer lugar, 
+estamos hablando de que funcionarios públicos pueden emprender 
+con recursos públicos sin arriesgar nada de su patrimonio. Pero 
+arriesgan recursos públicos de todos los chilenos.
+En segundo lugar, si quiebra la empresa, nos va mal. Estamos 
+jugando a emprender, lo hicimos pésimo, utilizamos recursos 
+públicos; no importa, sigo con pega, sigo con el sueldo de la 
+universidad. ¡Ya tenemos ese panorama!
+Y, en tercer lugar, ahora queremos quitar que Contraloría 
+tome razón.
+Me gustaría pedir al Ejecutivo su apreciación. No vamos a 
+volver al debate anterior, solo sobre este tema de quitar la 
+toma de razón de Contraloría.
+Gracias.
+El señor AEDO (Presidente).- Tiene la palabra la diputada 
+Molina.
+La señora MOLINA (doña Helia).- Señor Presidente, a 
+diferencia de las fundaciones y otras cosas donde se entrega 
+plata a una organización, a un movimiento, a lo que sea, en 
+este caso justamente la relación público-privada está basada
+28
+--- PÁGINA 29 ---
+en que el valor agregado de la universidad es la generación de 
+conocimiento, y quien pone la plata para aplicar la tecnología 
+es la empresa privada no va a ser nunca la universidad. ¡Las 
+universidades no tienen plata para eso!
+En ese contexto, estoy de acuerdo con que ojalá todo pase 
+por la Contraloría. Pero el problema es cómo se gesta; habría 
+que hacer un cambio mucho más profundo para que esto pudiera 
+ser realidad en un plazo razonable, porque la toma de razón y 
+la aprobación de la Contraloría en este tipo de cosas es 
+superlenta. Eso es lo que me preocupa, porque no veo cuál es 
+el riesgo para los bienes de todos los chilenos que administra 
+el Estado en este tipo de relación. No es una relación donde 
+la universidad pone capital; la universidad pone su know-how y 
+no sé en qué medida será tan fundamental que eso pase por la 
+Contraloría.
+No soy abogada, no soy economista, a lo mejor estoy 
+equivocada. Solamente me guié por lo que escuché del 
+vicerrector de investigación de una universidad, quien dijo 
+específicamente que esto hay que trabajarlo en un contexto de 
+la menor burocracia posible. ¡Y les creo!, porque esa gente 
+está 
+ahí 
+todos 
+los 
+días 
+enfrentándose 
+a 
+las 
+trabas 
+burocráticas…
+El señor AEDO (Presidente).- Por favor, les pido que no 
+entren en diálogo.
+Antes de dar la palabra a la ministra, quiero hacer una 
+consulta, si me la pueden responder.
+En general, lo que veo de la diferencia de la indicación que 
+ha planteado el diputado Kaiser respecto de la original del 
+Ejecutivo, del artículo, es que dice: La prohibición 
+establecida en el inciso sexto del artículo 4° de la ley N° 
+19.886, de bases sobre contratos administrativo, no será 
+aplicable…
+Pero, al final, ustedes agregan igual que estos contratos, 
+aun sacando ese artículo, deberán aprobarse por resolución 
+fundada y deberán ser puestos en conocimiento de la 
+Superintendencia de Educación Superior y tomadas de razón por 
+la Contraloría General de la República. Entonces, lo que quiero 
+entender bien, si va a una toma de razón de la Contraloría, 
+¿cuál es la diferencia fundamental que se genera?
+Para entender bien el punto, ya que va a toma de razón de la 
+Contraloría, y por eso lo estoy preguntando, va a haber no solo 
+una revisión de forma de parte de la Contraloría. En la toma 
+de razón se va bastante más al fondo también, no solo en la 
+forma. Entonces, esa es la duda que me queda.
+¿Cuál es el efecto práctico que produce en el artículo 
+original de este proyecto retirar ese artículo? ¿Por qué genera 
+tanto ruido?
+Tiene la palabra la señora ministra.
+29
+--- PÁGINA 30 ---
+La señora ETCHEVERRY, doña Aisén, (ministra de Ciencia, 
+Tecnología, Conocimiento e Innovación).- Señor Presidente, 
+este artículo cumple una función equivalente al del artículo 
+anterior, pero ahora el sujeto no es el investigador, sino que 
+es 
+la 
+universidad 
+y, 
+por 
+lo 
+tanto, 
+levanta 
+ciertas 
+restricciones que hoy existen para que las universidades 
+contraten con estas empresas que, a su vez, crean empresas de 
+base científico-tecnológica asociadas a la gestión de ese 
+conocimiento, con todas las restricciones que ya hemos 
+conversado. En consecuencia, se levanta esa restricción.
+Ahora, en el entendido de que -y creo que es compartido en 
+el fondo por todos- estamos levantando restricciones que hoy 
+día existen, o sea, no quiero esconder esa parte del asunto. 
+Lo que estamos haciendo, efectivamente, es liberar ciertas 
+restricciones que hoy impiden que la transferencia ocurra como 
+acontece en gran parte de los países del mundo, que es lo que 
+uno ve cuando sale de Chile.
+Nuestra propuesta original consideraba esta información a la 
+superintendencia y el control de Contraloría. Ahora, es cierto 
+que eso genera una diferencia entre las universidades estatales 
+y las privadas, como bien dice la diputada Molina, y eso genera 
+una burocracia extra. También es cierto, y creo que es 
+importante tenerlo a la vista a la hora del debate, que una 
+parte muy importante, diría que por sobre el 90 por ciento de 
+la generación de conocimiento que se hace en las universidades 
+públicas y privadas, se realiza con financiamiento público. 
+Eso es un hecho de la causa.
+Hoy día, la gran mayoría del I+D que se genera en las 
+universidades viene de financiamiento público, independiente 
+del color, porque efectivamente a la hora de transferir 
+recursos del Estado, a efectos de investigación, no se hace 
+diferenciación entre las universidades privadas y las públicas. 
+Donde sí se hace diferencia es en la forma en cómo esos recursos 
+se rinden y cuáles son los controles que existen, en que 
+efectivamente existe un nivel de control mayor respecto de las 
+universidades del Estado, porque están sujetos a Contraloría y 
+a estas restricciones.
+Esas son las que estamos levantando y por eso nosotros 
+incorporábamos esta toma de razón por parte de Contraloría, 
+que, en caso de aprobarse con toma de razón, deja a las 
+universidades del Estado y a las universidades privadas en 
+distinto rango y con un mayor control en las del Estado 
+efectivamente, y ahí la diputada tiene la razón en que se 
+genera una disparidad en ese sentido.
+Quiero decir que la forma en cómo lo planteamos fue en parte 
+por lo que ha sido la discusión en esta mesa: estamos siendo 
+innovadores y en el afán de serlo fuimos un poco más 
+conservadores que lo que está proponiendo la diputada en su 
+indicación.
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Kaiser.
+30
+--- PÁGINA 31 ---
+El señor KAISER.- Muchas gracias, señor Presidente.
+Yo me concentré en el tema de la Contraloría, pero la verdad 
+es que mi indicación también recorta mucho del texto del 
+Ejecutivo, y lo hace por las siguientes razones:
+Permítanme leer lo que redactó mi asesor legislativo, que lo 
+ha hecho de manera maravillosa y yo creo no poder concentrarlo 
+mejor.
+Dice: “Por otro lado, se observa una confusión conceptual en 
+el artículo 10 del proyecto de ley, dado que propone la 
+inaplicabilidad de la prohibición establecida en el inciso 
+sexto del artículo 4° de la ley 19.886, Ley de Bases sobre 
+Contratos Administrativos de Suministro y Prestación de 
+Servicios, ya que señala, entre los requisitos para contratar 
+con la administración del Estado: “Ningún órgano de la 
+Administración del Estado y de las empresas y corporaciones 
+del Estado o en que éste tenga participación, podrá suscribir 
+contratos administrativos de provisión de bienes o prestación 
+de servicios con los funcionarios directivos del mismo órgano 
+o empresa, ni con personas unidas a ellos por los vínculos de 
+parentesco descritos en la letra b) del artículo 54 de la ley 
+N° 18.575, ley Orgánica Constitucional de Bases Generales de 
+la Administración del Estado, ni con sociedades de personas de 
+las que aquéllos o éstas formen parte, ni con sociedades 
+comanditas por acciones o anónimas cerradas en que aquéllos o 
+éstas sean accionistas, ni con sociedades anónimas abiertas en 
+que aquéllos o éstas sean dueños de acciones que representen 
+el 10% o más del capital, ni con los gerentes, administradores, 
+representantes o directores de cualquiera de las sociedades 
+antedichas.”
+En efecto, este artículo regula la adquisición de bienes y 
+servicios por la administración del Estado, cosa diferente a 
+la provisión de esto, que es el objeto de la norma que se 
+quiere inaplicar, es decir, hay una confusión conceptual en la 
+misma norma, en el artículo 10. Es por eso que nosotros estamos 
+retirando, recortando el texto general; se está confundiendo 
+ahí el objeto de la norma que se está inaplicando, y dejamos 
+el tema de la Contraloría… Las razones ya las formulamos.
+Por 
+consiguiente, 
+creemos 
+que 
+les 
+permitimos 
+a 
+las 
+instituciones de educación superior participar en las empresas 
+de base científico-tecnológica, pero con los controles que 
+corresponden 
+y 
+no 
+necesariamente 
+metiéndonos 
+en 
+esta 
+problemática.
+Muchísimas gracias.
+El señor AEDO (Presidente).- Tiene la palabra la diputada 
+Molina.
+La señora MOLINA (doña Helia).- Señor Presidente, los 
+argumentos que di los sigo manteniendo, pero voy a retirar la
+31
+--- PÁGINA 32 ---
+indicación, porque creo que van a quedar en desventaja las 
+universidades públicas.
+Por otro lado, pienso que deberá realizarse algún tipo de 
+negociación para que este tipo de proyectos, que no son para 
+la universidad con fines de lucro ni entrega de capital, 
+pudieran tener un trámite más rápido en la Contraloría.
+Voy a retirar mi indicación, diputado Kaiser.
+El señor KAISER.- Le propongo que le pongamos un límite de 
+tiempo a la toma de razón de Contraloría…
+Sí, si podemos. ¿En un plazo de 90 días?
+El señor AEDO (Presidente).- Muy bien.
+Entonces, está retirada su indicación, diputada Molina.
+La señora MOLINA (doña Helia).- Señor Presidente, por su 
+intermedio, agradezco la generosidad al diputado Kaiser que 
+quiere poner un límite. Ojalá se pueda.
+El señor AEDO (Presidente).- En votación la indicación del 
+diputado Kaiser.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Kaiser, ¿cómo vota?
+El señor KAISER.- Por las razones ya expuestas, a favor, 
+señora Secretaria.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Labra, ¿cómo vota?
+La señora LABRA (doña Paula).- A favor.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Lagomarsino, ¿cómo vota?
+El señor LAGOMARSINO.- Abstención.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Molina, ¿cómo vota?
+La señora MOLINA (doña Helia).- A favor.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Olivera, ¿cómo vota?
+La señora OLIVERA (doña Érika).- A favor.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Oyarzo, ¿cómo vota?
+El señor OYARZO.- A favor.
+La señora FREDES, doña María Soledad (Secretaria).- Diputado 
+Ramírez, ¿cómo vota?
+32
+--- PÁGINA 33 ---
+El señor RAMÍREZ (don Matías).- En contra.
+La señora FREDES, doña María Soledad (Secretaria).- Diputada 
+Tello, ¿cómo vota?
+La señora TELLO (doña Carolina).- Abstención, Secretaria.
+La 
+señora 
+FREDES, 
+doña 
+María 
+Soledad 
+(Secretaria).- 
+Presidente, ¿cómo vota?
+El señor AEDO (Presidente).- Abstención.
+-Efectuada la votación en forma nominativa, por el sistema 
+de viva voz, dio el siguiente resultado: por la afirmativa, 5 
+votos; por la negativa, 1 voto. Hubo 3 abstenciones.
+El señor AEDO (Presidente).- Aprobada.
+Entonces, estamos listos con el proyecto.
+Despachado.
+La señora FREDES, doña María Soledad (Secretaria).- Señor 
+Presidente, falta designar al diputado informante.
+El señor AEDO (Presidente).- ¿Hay alguien que se quiera 
+proponer como diputado informante?
+La diputada Érika Olivera está interesada.
+¿Habría acuerdo para que la diputada Érika Olivera sea la 
+diputada informante?
+Acordado.
+Por haber cumplido con su objeto, se levanta la sesión.
+-Se levantó la sesión a las 19:05 horas.
+MAURICIO CÉSPED MORA, 
+Redacción de Sesiones.
+33

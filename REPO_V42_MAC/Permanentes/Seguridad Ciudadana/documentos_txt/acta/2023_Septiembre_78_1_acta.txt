@@ -1,0 +1,1429 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=22468&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 08:22:50
+======================================================================
+
+--- PÁGINA 1 ---
+1
+SESIÓN 78ª, ORDINARIA, DE LA COMISIÓN DE SEGURIDAD 
+CIUDADANA, 
+CORRESPONDIENTE 
+AL 
+PERÍODO 
+LEGISLATIVO 2022-2026, CELEBRADA EL MIERCOLES 27 
+DE SEPTIEMBRE DE 2023. SE ABRE A LAS 17:13 HORAS.
+SUMARIO.
+La sesión tiene por objeto continuar 
+la discusión y votación particular del 
+proyecto de ley, iniciado en mensaje de S. 
+E., el Presidente de la República, que 
+establece 
+una 
+Ley 
+Marco 
+sobre 
+Ciberseguridad e Infraestructura Crítica de 
+la Información, boletín N°14847-06 (S). Con 
+urgencia calificada de “suma”. En segundo 
+trámite constitucional y primer trámite 
+reglamentario.
+La Ministra del Interior y Seguridad 
+Pública, señora Carolina Tohá, junto al 
+Subsecretario del Interior, señor Manuel 
+Monsalve, 
+se 
+encuentra 
+invitada 
+a 
+participar en la discusión particular de esta 
+iniciativa legal, acompañado por la asesora 
+legislativa de ciberseguridad, la abogada 
+señora Michelle Bordachard. Así como 
+también el abogado señor Felipe Harboe y 
+el Jefe Regional Latinoamericano GSMA, 
+señor Lucas Gallito.
+También 
+fueron 
+invitados 
+a 
+conectarse por zoom todas las personas 
+que 
+expusieron 
+sobre 
+este 
+proyecto 
+durante 
+la 
+discusión 
+general 
+para 
+responder consultas de las y los diputados.
+ASISTENCIA.
+Preside, inicialmente el diputado señor Cristian Araya, y luego su titular el 
+diputado señor Andrés Longton.
+Asisten las y los diputados señores Jorge Alessandri, Jaime Araya, José 
+Miguel Castro, Andrés Jouannet, Lorena Fries, Henry Leal, Raúl Leiva, Gloria 
+Naveillán, Mauricio Ojeda, Alejandra Placencia y Diego Schalper.
+Actúan como Abogado Secretario de la Comisión el señor Álvaro Halabi 
+Diuana, como Abogada Ayudante la señora Carolina Salas Prüssing, y como 
+Secretaria Ejecutiva, la señorita Luz Barrientos Rivadeneira.
+Concurrió en representación del Subsecretario del Interior, señor Manuel 
+Monsalve, la asesora legislativa de ciberseguridad, la abogada señora Michelle 
+Bordachard.
+Firmado por Álvaro Juan Halabi
+Diuana
+Fecha 28/11/2023 17:06:33 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 7D287D70FD5DA02B
+--- PÁGINA 2 ---
+2
+CUENTA.
+Se dio cuenta de los siguientes documentos:
+1.- Oficio de S. E. el Presidente de la República mediante el cual hace 
+presente la urgencia calificada de "discusión inmediata", para el despacho del 
+proyecto que crea el Ministerio de Seguridad Pública", boletín N°14614-07 (S). 
+Se consignó la urgencia.
+2.- Oficio de S. E. el Presidente de la República mediante el cual retira y hace 
+presente la urgencia calificada de "suma", para el despacho del proyecto que 
+establece una Ley Marco sobre Ciberseguridad e Infraestructura Crítica de la 
+Información, boletín N°14847-06 (S). 
+ 
+Se consignó la urgencia.
+3.- Oficio Nº18.826, del Secretario General de la Cámara de Diputados, señor 
+Miguel Landeros, por el cual comunica el acuerdo de la Sala, en orden a remitir a la 
+Comisión de Seguridad Ciudadana el proyecto de ley que modifica el Código 
+Procesal Penal para permitir la comparecencia telemática de los fiscales del 
+Ministerio Público cuando la peligrosidad de los imputados pueda comprometer su 
+vida o integridad física, boletín N°16298-07, inicialmente radicado en la Comisión de 
+Constitución, Legislación, Justicia y Reglamento. 
+ 
+Se tuvo presente la remisión.
+4.- Oficio Nº18.825, del Secretario General de la Cámara de Diputados, señor 
+Miguel Landeros, por el cual comunica el acuerdo de la Sala, en orden a remitir a la 
+Comisión de Seguridad Ciudadana el proyecto de ley que modifica el Código Penal 
+para extender la legítima defensa privilegiada al funcionario militar o policial que 
+actúe en defensa de su persona o derechos, o de los de un tercero, encontrándose 
+en calidad de franco, correspondiente al boletín N°16300-07, inicialmente radicado 
+en la Comisión de Constitución, Legislación, Justicia y Reglamento.  
+ 
+Se tuvo presente la remisión.
+5.- Informe de la Biblioteca del Congreso Nacional sobre “Violencia digital 
+contra la mujer”. 
+ 
+Se puso a disposición de las señoras diputadas y los señores diputados.
+6.- Carta del estudiante de Ingeniería en la Pontificia Universidad Católica de 
+Chile y Coordinador General del Laboratorio Estudiantil de Políticas Públicas, señor 
+Martín Illanes, por la cual solicita concurrir a la Comisión para debatir, durante un 
+tiempo de 10 minutos, sobre diversos temas del estudio del laboratorio estudiantil, 
+tales como drogas y narcotráfico. 
+ 
+Se tuvo presente.
+7.- Indicación del Ejecutivo e Informe Financiero sobre el proyecto de 
+Ciberseguridad, boletín N°14847-06 (S). 
+ 
+Se puso a disposición de las señoras diputadas y los señores diputados.
+8.- Pareo de los y las diputadas señoras Gloria Naveillan y Maite Orsini, Jorge 
+Alessandri y Diego Schalper, Alejandra Placencia y Raúl Leiva. 
+Se consignaron los pareos.
+ACUERDOS.
+La Comisión acordó: 
+ 
+1.-. Al Secretario General de la Cámara de Diputados, señor Miguel Landeros, 
+con el objeto de que estudie la forma de solucionar los inconvenientes que se
+--- PÁGINA 3 ---
+3
+suscitan con los topes de horarios de las sesiones de comisiones cuyo horario de 
+inicio coincide con el horario de término de la Sala, y en caso que el referido horario 
+de término se prorrogue.
+2.- A S.E. el Presidente de la República, señor Gabriel Boric, con el objeto de 
+solicitarle, si lo tiene a bien, hacer presente la urgencia para el despacho del proyecto 
+de ley, iniciado en mensaje, que modifica el Código Penal y el Código Procesal Penal 
+para sancionar como falta el porte injustificado de combustibles aptos para la 
+comisión de atentados contra las personas o para ocasionar daño en las cosas 
+durante reuniones en lugares públicos, boletín N°15956-25.
+3.- Invitar para una siguiente sesión al Subsecretario de Interior, señor Manuel 
+Monsalve, para que informe sobre la actual situación en la que se encuentra el 
+funcionario de la cartera, señor Daniel Álvarez, a propósito de sus ofensas y malos 
+dichos contra la Institución de Carabineros, entendiendo que no se le despediría de 
+su cargo como Coordinador Nacional de Ciberseguridad, se comprometieron como 
+Ministerio a no darle exposición o espacios de representación. Sin embargo, dentro 
+de los días 25 al 28 de septiembre recién pasado, se realizó 12° Seminario sobre 
+Cyberdrill Subregional para Sudamérica, en que el señor Álvarez participó activa y 
+visiblemente en representación de nuestro país.
+4.- Oficiar al Director Nacional de Gendarmería, señor Sebastián Urra, para 
+que informe sobre los procedimientos, sanciones y medidas en general que se 
+adoptan por la Institución en ocasión de encontrar al interior de los recintos 
+penitenciarios armas corto punzantes.
+5.- Prorrogar hasta el viernes 6 de octubre el plazo de formulación de 
+indicaciones, para efectos de confección del comparado, sobre el proyecto de ley 
+que crea el Ministerio de Seguridad Pública, boletín N°14614-07.
+6.- Prorrogar por hasta 10 minutos la sesión de hoy.
+ORDEN DEL DÍA.
+Se continuó con la discusión y votación particular del proyecto de ley, 
+iniciado en mensaje de S. E., el Presidente de la República, que establece una 
+Ley Marco sobre Ciberseguridad e Infraestructura Crítica de la Información, 
+boletín N°14847-06 (S). Con urgencia calificada de “suma”. En segundo trámite 
+constitucional y primer trámite reglamentario.
+- Al artículo 2, la y los diputados señores Cristián Araya, Jaime Araya, 
+José Miguel Castro, Lorena Fries, Andrés Jouannet, Henry Leal y Andrés 
+Longton, formularon la siguiente indicación:
+“Para reemplazar los numerales 5 a 27 del artículo 2º por los siguientes: 
+ 
+5. Ciberataque: “intento de destruir, exponer, alterar, deshabilitar, o exfiltrar u 
+obtener acceso o hacer uso no autorizado de un activo informático.”
+6. Ciberseguridad: preservación de la confidencialidad e integridad de la 
+información y de la disponibilidad y resiliencia de las redes y sistemas informáticos, 
+con el objetivo de proteger a las personas, la sociedad, las organizaciones o las 
+naciones de incidentes de ciberseguridad.
+7. Confidencialidad: propiedad que consiste en que la información no es 
+accedida o entregada a individuos, entidades o procesos no autorizados.
+8. Disponibilidad: propiedad que consiste en que la información está disponible 
+y es utilizable cuando es requerida por un individuo, entidad o proceso autorizado.
+9. Equipo de Respuesta a Incidentes de Seguridad Informática o CSIRT: 
+centros multidisciplinarios que tienen por objeto prevenir, detectar, gestionar y
+--- PÁGINA 4 ---
+4
+responder a incidentes de ciberseguridad o ciberataques, en forma rápida y efectiva, 
+y que actúan conforme a procedimientos y políticas predefinidas, ayudando a mitigar 
+sus efectos.
+10. Incidente de ciberseguridad: todo evento que perjudique o comprometa la 
+confidencialidad o integridad de la información, la disponibilidad o resiliencia de las 
+redes y sistemas informáticos, o la autenticación de los procesos ejecutados o 
+implementados en las redes y sistemas informáticos.
+11. Integridad: propiedad que consiste en que la información no ha sido 
+modificada o destruida sin autorización.
+12. Red y sistema informático: conjunto de dispositivos, cables, enlaces, 
+enrutadores u otros equipos de comunicaciones o sistemas que almacenen, 
+procesen o transmitan datos digitales.
+13. Resiliencia: capacidad de las redes y sistemas informáticos para seguir 
+operando luego de un incidente de ciberseguridad, aunque sea en un estado 
+degradado, debilitado o segmentado, y la capacidad de las redes y sistemas 
+informáticos para recuperar sus funciones después de un incidente de 
+ciberseguridad.
+14. Riesgo: posibilidad de ocurrencia de un incidente de ciberseguridad; la 
+magnitud de un riesgo es cuantificada en términos de la probabilidad de ocurrencia 
+del incidente y del impacto de las consecuencias del mismo.
+15. Vulnerabilidad: debilidad de un activo o control que puede ser explotado por 
+una o más amenazas informáticas.”
+La asesora legislativa del Ministerio del Interior, abogada señora Michelle 
+Bordachard, señaló que esta indicación resultó gracias a un acuerdo con la mesa 
+de trabajo con los asesores parlamentarios y opiniones de expertos, de reducir el 
+número de definiciones, concentrándose en conceptos a utilizarse a lo largo de la ley 
+y que no sean de aquellos que sufran cambios en el tiempo, y sean netamente 
+técnicas.
+Puesta en votación la indicación que modifica el artículo 2, se aprueba por 
+unanimidad. Votan la y los diputados señores Jaime Araya, Cristián Araya, José 
+Miguel Castro, Lorena Fries, Andrés Jouannet, Henry Leal y Andrés Longton 
+(presidente). (7-0-0)
+- 
+Al artículo 2, el diputado señor Andrés Jouannet, formuló la siguiente 
+indicación: 
+ 
+“Suprímase el numeral 1 del inciso primero del artículo 2° propuesto.” 
+ 
+Su autor la retira. 
+ 
+- 
+Al artículo 2, el diputado señor Andrés Jouannet, formuló la siguiente 
+indicación:
+“Suprímase el numeral 4 del inciso primero del artículo 2° propuesto.” 
+ 
+Su autor la retira. 
+ 
+- 
+Al artículo 2, el diputado señor Jorge Alessandri, formuló la siguiente 
+indicación N°8:
+“En el artículo 2° numeral 5 del proyecto de ley, para sustituirlo por el siguiente: 
+“5. Autoridad sectorial: aquellos servicios públicos dotados de facultades regulatorias, 
+fiscalizadoras y sancionatorias respecto de sus regulados.”.
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del
+--- PÁGINA 5 ---
+5
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, los diputados señores José Miguel Castro, Andrés 
+Longton y Diego Schalper, formularon la siguiente indicación N°9:
+“Sustitúyese el numeral 5 del artículo 2°, por el siguiente: “5. Autoridad 
+sectorial: aquellos servicios públicos cuya finalidad es la regulación y/o 
+supervigilancia de un determinado sector de la economía o de actividades realizadas 
+por particulares en ejercicio de la libertad económica.”
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, los diputados señores José Miguel Castro, Andrés 
+Longton y Diego Schalper, formularon la siguiente indicación N°10:
+“Suprímanse los numerales 7 y 8 del artículo 2°.” 
+ 
+Sus autores la retiran. 
+ 
+- 
+Al artículo 2, el diputado señor Andrés Jouannet, formuló la siguiente 
+indicación: 
+ 
+“Suprímase el numeral 8 del inciso primero del artículo 2° propuesto.”
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- Al artículo 2, el diputado señor Andrés Jouannet, formuló la siguiente 
+indicación: 
+ 
+“Suprímase el numeral 10 del inciso primero del artículo 2° propuesto.”
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, el diputado señor Andrés Jouannet, formuló la siguiente 
+indicación: 
+ 
+“Suprímase el numeral 11 del inciso primero del artículo 2° propuesto.” 
+ 
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, los diputados señores José Miguel Castro, Andrés 
+Longton y Diego Schalper, formularon la siguiente indicación N°11:
+“En el numeral 13 del artículo 2°, intercálase entre la palabra “competente” y 
+la frase “de conformidad”, entre comas, lo siguiente: “en el ámbito de sus respectivas 
+competencias”.
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, el diputado señor Andrés Jouannet, formuló la siguiente 
+indicación:
+--- PÁGINA 6 ---
+6
+“Suprímase el numeral 16 y 17 del inciso primero del artículo 2° propuesto.” 
+ 
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, los diputados señores José Miguel Castro, Andrés 
+Longton y Diego Schalper, formularon la siguiente indicación N°12: 
+ 
+“Suprímanse el numerales 17 del artículo 2°.”
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, el diputado señor Jorge Alessandri, formuló la siguiente 
+indicación N°13: 
+ 
+“En el artículo 2 numeral 17 del proyecto de ley, para suprimirlo.”
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, el diputado señor Cristián Araya, formuló la siguiente 
+indicación: 
+ 
+“Para suprimir en el numeral 17 la expresión: “imposibles de lograr de forma 
+independiente”.”.
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, el diputado señor Andrés Jouannet, formuló la siguiente 
+indicación: 
+ 
+“Suprímase el numeral 18 del inciso primero del artículo 2° propuesto.” 
+ 
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, los diputados señores José Miguel Castro, Andrés 
+Longton y Diego Schalper, formularon la siguiente indicación N°14: 
+ 
+“Sustitúyese el numeral 18 del artículo 2°, por el siguiente:
+“18. Interoperabilidad: capacidad de los sistemas informáticos de ser capaces 
+de interactuar y operar entre sí, a través de estándares abiertos que permitan una 
+segura y expedita interconexión entre ellos.”
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, el diputado señor Jorge Alessandri, formuló la siguiente 
+indicación N°15: 
+ 
+En el artículo 2° numeral 18 del proyecto de ley, para añadir después del punto 
+aparte, que pasa ser una coma “,” la siguiente frase: “con pleno respeto de las 
+normas sobre protección de datos personales”.
+--- PÁGINA 7 ---
+7
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, el diputado señor Andrés Jouannet, formuló la siguiente 
+indicación: 
+ 
+“Suprímase el numeral 19 del inciso primero del artículo 2° propuesto.” 
+ 
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, los diputados señores José Miguel Castro, Andrés 
+Longton y Diego Schalper, formularon la siguiente indicación N°16:
+Sustitúyese el numeral 20 del artículo 2°, por el siguiente: 
+ 
+“20. Operadores de importancia vital: son operadores de importancia vital los 
+organismos de la Administración del Estado, el Coordinador Eléctrico Nacional, 
+aquellos agentes privados de los sectores de energía, servicios sanitarios; 
+telecomunicaciones, 
+servicios 
+postales 
+y 
+mensajería; 
+transporte, 
+banca, 
+infraestructura de los mercados financieros, infraestructura digital, gestión de 
+servicios de tecnologías de la información, determinados como tales por el 
+procedimiento del artículo 4º, así como otros que, en virtud del mismo procedimiento, 
+deban tener tal calidad, siempre que dependan de las redes y sistemas informáticos 
+para su funcionamiento y su afectación, interceptación, interrupción o destrucción 
+puede tener un impacto crítico en la seguridad nacional, en la seguridad interior y el 
+orden público, en la provisión continua y regular de servicios esenciales, en el 
+efectivo cumplimiento de las funciones del Estado y, en general, de los servicios que 
+éste debe proveer o garantizar.”
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- Al artículo 2, el diputado señor Andrés Jouannet, formuló la siguiente 
+indicación: 
+ 
+Reemplácese la expresión “tener una repercusión importante en” por 
+“amenazar”.
+Incorpórese luego de “actividades sociales o económicas cruciales,”, la 
+expresión “en alguno de los sectores o subsectores regulados de alta criticidad para 
+el país establecidos o identificados en conformidad con la presente ley”,
+Suprímase la expresión “, en general, de”.
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- Al artículo 2, el diputado señor Jorge Alessandri, formuló la siguiente 
+indicación N°17: 
+ 
+En el artículo 2° numeral 20 del proyecto de ley, para sustituirlo por el siguiente:
+“20. Operadores de importancia vital: son tales los órganos de la 
+Administración del Estado, las empresas del Estado y sociedades en que éste tenga 
+participación accionaria superior al 50% o mayoría en el directorio, y aquellos 
+agentes privados que así sean calificados por la Agencia de conformidad con esta
+--- PÁGINA 8 ---
+8
+ley, cuyo funcionamiento dependa de las redes y sistemas informáticos, y siempre 
+que su afectación, interceptación, interrupción o destrucción pueda producir graves 
+efectos en la seguridad nacional, en la provisión de servicios esenciales, en el 
+efectivo cumplimiento de las funciones del Estado y, en general, de los servicios que 
+éste debe proveer o garantizar.”.
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, los diputados señores José Miguel Castro, Andrés 
+Longton y Diego Schalper, formularon la siguiente indicación N°18:
+Sustitúyase, en el numeral 24 del artículo 2°, la frase “sometido a la 
+supervigilancia de un órgano público con facultades suficientes para regular, 
+fiscalizar y eventualmente sancionar” por “bajo la regulación y/o supervigilancia de 
+una autoridad sectorial”.
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, el diputado señor Jorge Alessandri, formuló la siguiente 
+indicación N°19: 
+ 
+Para suprimir, en el numeral 24 del artículo 2°, la palabra “eventualmente”. 
+ 
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, los diputados señores José Miguel Castro, Andrés 
+Longton y Diego Schalper, formularon la siguiente indicación N°20:
+Sustitúyase el numeral 25 del artículo 2°, por el siguiente: 
+ 
+“25. Servicios esenciales: son servicios esenciales aquellos provistos por los 
+organismos de la Administración del Estado, por el Coordinador Eléctrico Nacional y 
+por aquellos agentes privados de los sectores de energía, servicios sanitarios; 
+telecomunicaciones, 
+servicios 
+postales 
+y 
+mensajería; 
+transporte, 
+banca, 
+infraestructura de los mercados financieros, infraestructura digital, gestión de servicios 
+de tecnologías de la información y de otros que se determinen en virtud del 
+procedimiento del artículo 4º, cuya afectación, de cualquier manera, cause un grave 
+daño a la salud o al abastecimiento de la población, a actividades económicas 
+esenciales, al medioambiente o a la seguridad del país.”
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, el diputado señor Jorge Alessandri, formuló la siguiente 
+indicación N°21:
+En el artículo 2° numeral 25 del proyecto de ley, para sustituir la frase 
+“tendría”, por la siguiente: “pueda producir”.
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, el diputado señor Andrés Jouannet, formuló la siguiente 
+indicación:
+--- PÁGINA 9 ---
+9
+“Artículo 2° N°25°. Servicios Esenciales. Todo servicio identificado como tal 
+de conformidad con el procedimiento establecido en el artículo 4° de la presente ley, 
+que se provea o preste en sectores o subsectores regulados de alta criticidad para 
+el país, incluyendo los sectores de energía y combustibles, sanitario, salud, 
+telecomunicaciones, transporte, bancario y financiero, así como por la administración 
+del Estado, el Poder Legislativo y el Poder Judicial”.
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, el diputado señor Andrés Jouannet, formuló la siguiente 
+indicación: 
+ 
+“Suprímase en el artículo 2° Numeral N°26 propuesto.”
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Al artículo 2, los diputados señores José Miguel Castro, Andrés 
+Longton y Diego Schalper, formularon la siguiente indicación N°22: 
+ 
+Incorpórese un nuevo numeral 28 al artículo 2°, del siguiente tenor:
+“28. Consulta pública y recepción de observaciones: proceso participativo en 
+cuya virtud antes de la emisión de un acto administrativo, éste se da a conocer 
+públicamente, por medios digitales; se disponen los mecanismos necesarios para 
+que los interesados puedan formularle observaciones; y se publican tanto las 
+observaciones como las respuestas de la autoridad a ellas.”
+Por haberse aprobado la indicación que reemplazar los numerales 5 a 27 del 
+artículo 2, reglamentariamente se rechaza.
+- 
+Se de lectura al artículo 4 del proyecto de ley:
+“Artículo 4°. Determinación de los servicios esenciales e identificación de los 
+operadores de importancia vital. En el ejercicio de la facultad establecida en la letra 
+g) del artículo 9° de esta ley, la Agencia determinará aquellos servicios que sean 
+considerados esenciales para los efectos de esta ley, y dentro de éstos identificará 
+a los operadores de importancia vital, de conformidad con los criterios y el 
+procedimiento dispuesto en el presente artículo.
+A fin de determinar qué servicios resultan esenciales, se deberá atender a la 
+entidad del impacto cuya afectación o interrupción podría tener en la defensa 
+nacional o en el mantenimiento de actividades sociales y económicas 
+fundamentales.
+Los criterios para la identificación de los operadores de importancia vital serán 
+los siguientes:
+a) Se trata de un operador que presta un servicio calificado como esencial de 
+conformidad con esta ley;  
+ 
+b) La prestación de dicho servicio depende de las redes y sistemas 
+informáticos, y  
+ 
+c) Un incidente de ciberseguridad tendría un impacto perturbador en la 
+prestación de dicho servicio.
+--- PÁGINA 10 ---
+10
+Para determinar si el impacto de un incidente de ciberseguridad podría ser 
+perturbador, se deberán tener en consideración, al menos, los siguientes factores:
+a) La cantidad de usuarios potencialmente afectados;  
+ 
+b) La interdependencia de otros sectores calificados como servicios esenciales;  
+ 
+c) La potencial afectación de la vida, integridad física o salud de las personas;  
+ 
+d) La repercusión que podrían tener los incidentes, en términos de grado y 
+duración, en las actividades económicas y sociales, en la seguridad nacional o 
+en el ejercicio de la soberanía;  
+ 
+e) La extensión geográfica que podría verse afectada por un incidente;  
+ 
+f) La importancia del operador para el mantenimiento de un nivel suficiente del 
+servicio, teniendo en cuenta la disponibilidad de alternativas para la prestación 
+de ese servicio;  
+ 
+g) La afectación relevante del funcionamiento del Estado y sus organismos, y 
+ 
+h) El daño reputacional que pueda ocasionarse.
+La Agencia requerirá a la Agencia Nacional de Inteligencia un informe fundado 
+sobre los servicios que deban calificarse como esenciales e identifique, para cada 
+uno de éstos, aquellos operadores que resultan de importancia vital para su 
+provisión. De igual manera, la Agencia podrá requerir informes similares a otros 
+organismos públicos o instituciones privadas
+El órgano requerido deberá dar respuesta al requerimiento de la Agencia 
+dentro del plazo de sesenta días contado desde su recepción. Se exceptúan de esta 
+obligación los servicios esenciales y operadores vitales exclusivos de la defensa 
+nacional, quienes responderán a los requerimientos del CSIRT de la Defensa 
+Nacional.
+Transcurrido este plazo, con los antecedentes que hubiere recibido, la 
+Agencia propondrá una lista actualizada de servicios esenciales y de operadores de 
+importancia vital al Comité Interministerial de Ciberseguridad para que, dentro del 
+plazo de treinta días, se pronuncie fundadamente, pudiendo aprobar o sugerir las 
+enmiendas que considere necesarias para su aprobación, las que serán 
+comunicadas a la Agencia
+Dentro de los treinta días siguientes a la recepción de la decisión del Comité 
+Interministerial de Ciberseguridad, el Ministerio encargado de la seguridad pública, 
+mediante la dictación de un decreto supremo bajo la fórmula “Por orden del 
+Presidente de la República”, determinará aquellos servicios que serán considerados 
+esenciales y a los operadores de importancia vital. Este decreto quedará exento del 
+trámite de toma de razón de la Contraloría General de la República.
+- 
+Al artículo 4, el Ejecutivo formuló la siguiente indicación: 
+ 
+“Para reemplazar el artículo 4, por el siguiente:  
+ 
+“Artículo 4.- Ámbito de aplicación. La presente ley se aplicará a las 
+instituciones que presten servicios calificados como esenciales según lo establecido
+--- PÁGINA 11 ---
+11
+en los incisos segundo y tercero de este artículo y a aquellas que sean calificadas 
+como operadores de importancia vital, de conformidad con lo dispuesto en los 
+artículos 5 y 6 de esta ley.
+Son servicios esenciales aquellos provistos por los organismos de la 
+Administración del Estado y por el Coordinador Eléctrico Nacional;   los prestados 
+bajo concesión de servicio público; y los proveídos por instituciones privadas que 
+realicen las siguientes actividades: generación, transmisión o distribución eléctrica; 
+transporte, almacenamiento o distribución de combustibles; suministro de agua 
+potable   o saneamiento; telecomunicaciones; infraestructura digital; servicios de 
+tecnología de la información gestionados por terceros; transporte terrestre, aéreo, 
+ferroviario o marítimo, así como la operación de su infraestructura respectiva; banca, 
+servicios financieros y medios de pago; administración de prestaciones de seguridad 
+social; servicios postales y de mensajería; prestación institucional de salud por 
+entidades tales como hospitales, clínicas, consultorios y centros médicos; y la 
+producción y/o investigación de productos farmacéuticos.
+La Agencia podrá calificar otros servicios como esenciales mediante 
+resolución fundada del o la Directora Nacional cuando su afectación puede causar 
+un grave daño a la vida o integridad física de la población o a su abastecimiento, a 
+sectores relevantes de las actividades económicas, al medioambiente, al normal 
+funcionamiento de la sociedad, de la Administración del Estado, a la defensa 
+nacional, o a la seguridad y el orden público.
+Dicha calificación deberá someterse al proceso de consulta pública   y se 
+regirá por las disposiciones de la ley Nº19.880, que establece bases de los 
+procedimientos administrativos que rigen los actos de los órganos de la 
+Administración del Estado.”.”
+La asesora legislativa del Ministerio del Interior, abogada señora 
+Michelle Bordachard, señaló que esta indicación obedece a la recomendación de 
+los expertos y de la Unión Europea, por cuanto se debe establecer cuáles son los 
+servicios esenciales a los que se le aplicará a la ley.
+Los diputados señores Cristián Araya y Andrés Jouannet, expresaron su 
+preocupación de establecer una norma tan abierta respecto de los alcances de 
+aplicación de la ley en consideración a los servicios esenciales y operadores de 
+importancia vital, faltaría explicitar los estándares o calificaciones a considerar para 
+que se les aplique, de lo contrario el solo hecho de fijar un listado de sector del rubro 
+a aplicárseles la ley no es suficiente.
+El abogado señor Claudio Magliona, indicó que, si bien esta indicación es 
+un avance a lo original en este tema, aun así consideró ser muy amplia, ya que en 
+el listado se establece el rubro como por ejemplo “empresas de tecnología de la 
+información” lo cual es muy extenso, por lo que recomendó, más allá de fijar la 
+materia o rubro de la empresa esencial, es necesario establecer la calificación de 
+estas, muy similar a uno de los incisos propuestos en la indicación original del 
+Ejecutivo.
+La asesora legislativa del Ministerio del Interior, abogada señora 
+Michelle Bordachard, sugirió agregar como inciso final a esta nueva indicación que 
+reemplaza el artículo 4, para subsanar lo antes expuesto, el inciso segundo de la  
+indicación N°19 formulada por el Ejecutivo, que reza lo siguiente: “La Agencia 
+identificará, mediante resolución exenta dictada conforme el procedimiento 
+dispuesto en el artículo 4, las infraestructuras, procesos o funciones específicas que 
+serán calificadas como esenciales, y que quedarán sujetas a las obligaciones 
+establecidas en el artículo 8.”
+--- PÁGINA 12 ---
+12
+Puesta en votación la indicación del Ejecutivo que reemplaza el artículo 
+4, en conjunto con el punto 12 de la indicación N°19 del Ejecutivo, se aprueban 
+por unanimidad. Votan la y los diputados señores Jaime Araya, Cristián Araya, José 
+Miguel Castro, Lorena Fries, Andrés Jouannet, Henry Leal y Andrés Longton 
+(presidente). (7-0-0)
+- 
+Al inciso primero del artículo 4, el Ejecutivo formuló la siguiente 
+indicación N°3: 
+ 
+Para reemplazar en el artículo 4°, el inciso primero por el siguiente: 
+ 
+“Artículo 4°. Identificación de los operadores de importancia vital. En el ejercicio 
+de la facultad establecida en el literal g) del artículo 9° de esta ley, la Agencia 
+determinará los operadores de importancia vital dentro de los servicios esenciales 
+identificados en el Título IX, conforme los siguientes criterios y procedimiento:”.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso primero del artículo 4, los diputados señores José Miguel 
+Castro, Andrés Longton y Diego Schalper, formularon la siguiente 
+indicación N°25: 
+ 
+Sustitúyase, en el inciso primero del artículo 4° la frase “En el ejercicio de la 
+facultad establecida en la letra g) del artículo 9° de esta ley” por la frase “Cada dos 
+años”.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso segundo del artículo 4, el Ejecutivo formuló la siguiente 
+indicación N°4: 
+ 
+Para suprimir en el artículo 4°, el inciso segundo, readecuando el orden 
+correlativo de los incisos siguientes.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso segundo del artículo 4, los diputados señores José Miguel 
+Castro, Andrés Longton y Diego Schalper, formularon la siguiente 
+indicación N°26:
+Reemplázase el inciso segundo del artículo 4° por el siguiente:
+“Para determinar los servicios provistos por agentes privados que deben 
+calificarse como esenciales, se deberá considerar fundadamente:
+a) 
+Lo dispuesto en el numeral 25 del artículo 2º de esta ley; 
+ 
+b) 
+La gravedad del daño que la afectación, interceptación, interrupción o 
+destrucción del servicio podría causar a la vida o integridad física de las 
+personas, al abastecimiento de la población, a las actividades económicas, a la 
+defensa nacional, al normal funcionamiento de la sociedad, al medioambiente 
+o a la seguridad del país; 
+ 
+c) 
+La condición de prestarse el servicio bajo concesión de servicio
+--- PÁGINA 13 ---
+13
+público; 
+ 
+d) 
+La posibilidad de sustitución del servicio, tal que ello no implique 
+perturbación en su acceso; 
+e) 
+La magnitud de los usuarios en relación al área o sector que se verían 
+afectados en caso de afectarse, interceptarse, interrumpirse o destruirse el 
+servicio; 
+ 
+f) De modo general, el grado de afectación del normal desarrollo y bienestar de 
+la población.”
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso segundo del artículo 4, el diputado señor Andrés Jouannet, 
+formuló la siguiente indicación: 
+ 
+Reemplácese el inciso segundo del artículo 4° propuesto por el siguiente:
+“A fin de determinar qué servicios resultan esenciales para efectos de esta ley, 
+la Agencia deberá:
+a) Identificar los sectores o subsectores regulados de alta criticidad que son
+cruciales para mantener actividades sociales y económicas vitales, y 
+determinar los servicios que se presten en estos. 
+ 
+b) Evaluar el eventual impacto que la falta, interrupción o afectación de
+estos servicios podría tener en la defensa nacional, la seguridad pública, 
+el bienestar económico y social, otros sectores o subsectores regulados 
+de alta criticidad y los servicios públicos que el Estado debe proveer o 
+garantizar.
+c) Considerar la presencia o uso de infraestructura crítica de la información
+necesaria para proporcionar los servicios en los sectores o subsectores 
+identificados en virtud de esta ley.
+d) Que la magnitud del eventual impacto sea de tal gravedad como para:
+causar daños catastróficos en la salud o víctimas masivas; obstaculizar 
+u impedir el ejercicio de las facultades de los organismos de la 
+administración del Estado u otros Poderes del Estado; poner en riesgo 
+gravemente el orden y la seguridad pública; impedir el ejercicio legítimo 
+de los derechos fundamentales de las personas garantizados por la 
+Constitución Política de la República; o afectar negativamente la 
+confianza o legitimidad de la institucionalidad pública”.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso segundo del artículo 4, el diputado señor Cristián Araya, 
+formuló la siguiente indicación:
+Para sustituirlo por el siguiente: “a fin de determinar qué servicios resultan 
+esenciales, se deberá atender a la entidad del impacto o interrupción podría poner 
+en grave riesgo la seguridad, el orden público, la defensa nacional, la vida de las 
+personas o que estas puedan ejercer sus derechos fundamentales”
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+--- PÁGINA 14 ---
+14
+- 
+Al inciso tercero del artículo 4, los diputados señores José Miguel 
+Castro, Andrés Longton y Diego Schalper, formularon la siguiente 
+indicación N°27: 
+ 
+Reemplázase el inciso tercero del artículo 4° por los siguientes incisos tercero, 
+cuarto y quinto nuevos:
+“Para determinar que agentes privados prestadores esenciales tienen la 
+calidad de operador de importancia vital, se deberán reunir los siguientes requisitos:
+a) 
+La prestación de dicho servicio depende para su provisión de las redes 
+y sistemas informáticos; y
+b) 
+La afectación, interceptación, interrupción o destrucción del servicio 
+puede tener un impacto crítico en la seguridad nacional, en la seguridad interior y el 
+orden público, en la provisión continua y regular de servicios esenciales, en el 
+efectivo cumplimiento de las funciones del Estado y, en general, de los servicios que 
+éste debe proveer o garantizar.
+Además, podrán tener la calidad de operador de importancia vital aquellos 
+agentes privados que, aun cuando no tengan la calidad de prestadores de servicios 
+esenciales, reúnan los requisitos indicados en el inciso anterior y su inclusión sea 
+indispensable, por motivos fundados, por haber adquirido un rol crítico para el 
+abastecimiento por la población, la distribución de bienes o la producción de aquellos 
+indispensables o estratégicos para el país.
+En cualquier caso, siempre se deberá tener en consideración el tamaño del 
+agente privado, teniendo especialmente en consideración las características y 
+necesidades de las micro, pequeñas y medianas empresas, tal como se definen en 
+la ley N°20.416, que fija normas especiales para las empresas de menor tamaño.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso tercero del artículo 4, el diputado señor Andrés Jouannet, 
+formuló la siguiente indicación: 
+ 
+Intercálese un nuevo literal d) en el inciso tercero del artículo 4° propuesto del 
+siguiente tenor:
+“d) El tamaño del operador, teniendo especialmente en consideración las 
+características y necesidades de las micro, pequeñas y medianas empresas, tal 
+como se definen en la ley N°20.416, que fija normas especiales para las empresas 
+de menor tamaño”.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso tercero del artículo 4, los diputados señores José Miguel 
+Castro, Andrés Longton y Diego Schalper, formularon la siguiente 
+indicación N°28:
+Introdúcense las siguientes modificaciones al inciso cuarto del artículo 4° que 
+ha pasado a ser sexto:
+i. 
+Intercálase un nuevo literal c), pasando el actual c) a ser d), del 
+siguiente tenor:
+--- PÁGINA 15 ---
+15
+“c) El grado de exposición de la entidad a los riesgos, la probabilidad de que se 
+produzcan incidentes de ciberseguridad y su gravedad, incluidas sus 
+repercusiones sociales y económicas.” 
+ 
+ii. 
+Suprímese el literal h).
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza. 
+ 
+ 
+ 
+- 
+Al inciso tercero del artículo 4, el diputado señor Jorge Alessandri, 
+formuló las siguientes indicaciones 29 y 30:
+Para sustituir la frase “la identificación de” por la siguiente palabra: 
+“identificar”.
+En el literal c) del proyecto de ley, para sustituir la palabra “tendría”, por la 
+siguiente: “podría producir”.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso cuarto del artículo 4, los diputados señores José Miguel 
+Castro, Andrés Longton y Diego Schalper, formularon la siguiente 
+indicación N°31: 
+ 
+Introdúcense las siguientes modificaciones al inciso cuarto, que ha pasado a 
+ser séptimo:
+i. 
+Reemplázase la oración “La Agencia requerirá a la Agencia Nacional de 
+Inteligencia un informe fundado sobre los servicios que deban calificarse como 
+esenciales e identifique, para cada uno de éstos, aquellos operadores que resultan 
+de importancia vital para su provisión” por “Para dar cumplimiento a lo prescrito en 
+este artículo, se observará rigurosamente lo dispuesto en el artículo 37 bis de la Ley 
+Nº19.880 que establece bases de los procedimientos administrativos que rigen los 
+actos de los órganos de la Administración del Estado”.
+ii. 
+Suprímase la oración “Se exceptúan de esta obligación los servicios 
+esenciales y operadores vitales exclusivos de la defensa nacional, quienes 
+responderán a los requerimientos del CSIRT de la Defensa Nacional.”
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al artículo 4, el diputado señor Andrés Jouannet, formuló la siguiente 
+indicación: 
+ 
+Incorpórese un nuevo inciso quinto en el artículo 4° propuesto, pasando el 
+actual a ser sexto y así sucesivamente, del siguiente tenor:
+“Los factores anteriormente listados deberán ser ponderados en conjunto con 
+criterios sectoriales atendiendo los sectores o subsectores regulados específicos de 
+alta criticidad establecidos o identificados en conformidad a esta ley. Se deberán 
+utilizar, al menos, los siguientes criterios sectoriales según corresponda:
+a) La magnitud de los operadores identificados, por ejemplo, en términos de 
+participación en el mercado. Para estos efectos, se podrán considerar factores tales 
+como el volumen, proporción y número de operaciones de las entidades en periodos 
+de tiempo a nivel nacional, regional o municipal.
+b) La importancia sistémica, valorada según los activos totales o la razón
+--- PÁGINA 16 ---
+16
+entre estos y el producto interno bruto.
+c) El tipo y número de usuarios o público específicos a los que van dirigidos 
+los servicios”.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso quinto del artículo 4, el Ejecutivo formuló la siguiente 
+indicación N°4: 
+ 
+Para modificar en el artículo 4°, el inciso quinto, que ha pasado a ser cuarto, 
+en el siguiente sentido:
+a. Reemplázase la frase “los servicios que deban calificarse como 
+esenciales e identifique, para cada uno de éstos, aquellos operadores que resultan 
+de importancia vital para su provisión” por la frase “las entidades que deban 
+calificarse como operadores de importancia vital”.
+b. Reemplázase la frase “podrá requerir informes similares a otros 
+organismos públicos o instituciones privadas.” por la frase “deberá requerir informes 
+similares a las autoridades sectoriales competentes y a las entidades que puedan 
+ser calificadas como operadores de importancia vital.”
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso quinto del artículo 4, el diputado señor Jorge Alessandri y la 
+diputada señora Gloria Naveillán, formularon la siguiente indicación 
+N°32:
+Para insertar en el inciso quinto del artículo 4° y a continuación de la frase “de 
+Inteligencia,” la siguiente frase “las Autoridades Sectoriales de cada uno de los 
+sectores regulados”. En el mismo inciso y a continuación de la frase vital para su 
+provisión… insertar como punto aparte lo siguiente “Dichos informes serán vinculantes 
+para los efectos de las definiciones de los servicios esenciales que promulgue la 
+Agencia”
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso quinto del artículo 4, el diputado señor Cristián Araya, formuló 
+la siguiente indicación: 
+ 
+Para agregar a continuación de la expresión “informe fundado”, la expresión “y 
+de carácter secreto”.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso sexto y séptimo del artículo 4, el Ejecutivo formuló la siguiente 
+indicación N°6:
+Para reemplazar los incisos sexto y séptimo, del artículo 4°, que han pasado a 
+ser quinto y sexto, por el siguiente inciso quinto y final:
+“Transcurrido este plazo, con los antecedentes que hubiere recibido, la 
+Agencia, mediante resolución fundada de su Director o Directora, determinará los 
+operadores de importancia vital dentro de los servicios esenciales. Esta resolución 
+quedará exenta del trámite de toma de razón de la Contraloría General de la República
+--- PÁGINA 17 ---
+17
+y contra ella procederá el recurso de reclamación judicial contemplado en el artículo 
+35 de la presente ley.”.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso quinto, sexto y séptimo del artículo 4, el diputado señor Andrés 
+Jouannet, formuló la siguiente indicación:
+“Reemplácese el inciso quinto, sexto y séptimo del artículo 4° propuesto, que 
+han pasado a ser sexto, séptimo y octavo, respectivamente, por los siguientes incisos 
+sexto, séptimo y octavo:
+“La Agencia requerirá a la Agencia Nacional de Inteligencia un informe fundado 
+que identifique aquellos operadores que resultan de importancia vital para la provisión 
+de servicios esenciales identificados de conformidad a esta ley, y podrá requerir 
+informes similares a otros organismos públicos o instituciones privadas. De igual 
+manera, la Agencia requerirá informes fundados a las autoridades sectoriales que 
+regulan, supervisan y fiscalizan los sectores o subsectores regulados de alta criticidad 
+establecidos o determinados de conformidad con la presente ley, los que tendrán el 
+carácter de vinculantes para la Agencia. El órgano requerido deberá dar respuesta al 
+requerimiento de la Agencia dentro del plazo de sesenta días contados desde su 
+recepción. Se exceptúan de esta obligación los servicios esenciales y operadores 
+vitales exclusivos de la defensa nacional, quienes responderán a los requerimientos 
+del CSIRT de la Defensa Nacional.
+Transcurrido este plazo, con los antecedentes que hubiere recibido, la Agencia 
+elaborará una primera propuesta de lista actualizada de operadores de importancia 
+vital. Los posibles operadores de importancia vital que se encuentren en la primera 
+propuesta serán notificados por la Agencia, y dispondrán de un plazo de treinta días 
+hábiles a contar desde el día siguiente a la recepción de la notificación para remitir a 
+la Agencia las alegaciones que considere procedentes, transcurrido el cual la Agencia 
+dictará una resolución dentro un plazo de treinta días hábiles en el que podrá acoger 
+o rechazar su inclusión como operador de importancia vital.
+Luego de que la Agencia haya dictado las resoluciones acogiendo o 
+rechazando, según corresponda, las alegaciones de los eventuales operadores de 
+importancia vital de la primera propuesta, y hayan sido resueltas las reclamaciones 
+judiciales que los posibles operadores de importancia vital hayan hecho valer contra 
+estas resoluciones en virtud del procedimiento establecido en el artículo 35° de esta 
+Ley, la Agencia propondrá una segunda propuesta de lista actualizada de posibles 
+operadores de importancia vital al Comité Interministerial de Ciberseguridad para que, 
+dentro del plazo de treinta días hábiles, se pronuncie fundadamente, pudiendo 
+aprobar o sugerir las enmiendas que considere necesarias para su aprobación, las 
+que serán comunicadas a la Agencia”.”.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- Al inciso sexto del artículo 4, los diputados señores José Miguel Castro, 
+Andrés Longton y Diego Schalper, formularon la siguiente indicación N°33:
+Introdúcense las siguientes modificaciones al inciso cuarto, que ha pasado a 
+ser séptimo:
+i. 
+Reemplázase la oración “La Agencia requerirá a la Agencia Nacional de 
+Inteligencia un informe fundado sobre los servicios que deban calificarse como 
+esenciales e identifique, para cada uno de éstos, aquellos operadores que resultan de
+--- PÁGINA 18 ---
+18
+importancia vital para su provisión” por “Para dar cumplimiento a lo prescrito en este 
+artículo, se observará rigurosamente lo dispuesto en el artículo 37 bis de la Ley 
+Nº19.880 que establece bases de los procedimientos administrativos que rigen los 
+actos de los órganos de la Administración del Estado”.
+ii. 
+Suprímase la oración “Se exceptúan de esta obligación los servicios 
+esenciales y operadores vitales exclusivos de la defensa nacional, quienes 
+responderán a los requerimientos del CSIRT de la Defensa Nacional.”
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso séptimo del artículo 4, los diputados señores José Miguel 
+Castro, Andrés Longton y Diego Schalper, formularon la siguiente 
+indicación N°34:
+Introdúcense las siguientes modificaciones al inciso séptimo, que ha pasado a 
+ser noveno:
+i. 
+Intercálase entre la coma que sigue a la palabra “Ciberseguridad” y la 
+frase “el Ministerio”, lo siguiente: “procederá la interposición del recurso de reposición 
+del artículo 59 de la ley Nº19.880 que establece bases de los procedimientos 
+administrativos que rigen los actos de los órganos de la Administración del Estado, sin 
+perjuicio de los demás que dicha ley y otros cuerpos legales autoricen, los cuales se 
+regirán por los plazos establecidos en sus respectivas leyes. Encontrándose firme el 
+acto”, seguido de una coma;
+ii. 
+Suprímase la oración “Este decreto quedará exento del trámite de toma 
+de razón de la Contraloría General de la República.”
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso sexto y séptimo del artículo 4, el diputado señor Jorge 
+Alessandri formuló la siguiente indicación N°35: 
+ 
+Para sustituirlos por el siguiente inciso final: 
+ 
+“Transcurrido este plazo, con los antecedentes que hubiere recibido y mediante 
+resolución fundada de su Director o Directora, la Agencia determinará los operadores 
+de importancia vital dentro de los servicios esenciales. Contra esta resolución 
+procederá el reclamo de ilegalidad contemplado en el artículo 35 de la presente ley”.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al inciso final del artículo 4, el diputado señor Jorge Alessandri y la 
+diputada señora Gloria Naveillán, formularon la siguiente indicación 
+N°36:
+Para reemplazar en el inciso final del artículo 4° la frase “quedará exento del” 
+por “será sometido a”.
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+Al artículo 4, los diputados señores José Miguel Castro, Andrés Longton 
+y Diego Schalper, formularon la siguiente indicación N°37:
+--- PÁGINA 19 ---
+19
+Para incorporar los nuevos incisos décimo, décimo primero y décimo segundo, 
+del siguiente tenor:
+“Podrá reclamarse de los fundamentos de hecho y Derecho del decreto 
+señalado en el inciso precedente dentro del plazo de quince días hábiles ante la Corte 
+de Apelaciones del domicilio del reclamante. La Corte dará traslado de la reclamación 
+a la Agencia y ésta dispondrá del plazo de quince días hábiles contados desde que 
+se notifique la reclamación interpuesta, para formular observaciones.
+Evacuado el traslado por la Agencia, o vencido el plazo de que dispone para 
+formular observaciones, el tribunal ordenará traer los autos en relación y la causa se 
+agregará extraordinariamente a la tabla de la audiencia más próxima, previo sorteo de 
+la Sala. La Corte podrá, si lo estima pertinente, abrir un término probatorio que no 
+podrá exceder de siete días hábiles, y escuchar los alegatos de las partes.
+La Corte dictará sentencia dentro del término de quince días. Contra la 
+resolución de la Corte de Apelaciones se podrá apelar ante la Corte Suprema, dentro 
+del plazo de diez días hábiles, la que conocerá en la forma prevista en los incisos 
+anteriores.”
+Por haberse aprobado la indicación nueva del Ejecutivo que reemplaza el 
+artículo 4, reglamentariamente se rechaza.
+- 
+El Ejecutivo formuló la indicación para intercalar los siguientes 
+artículos 5 y 6, nuevos, pasando los actuales a ser 7 y 8, y así 
+sucesivamente:
+“Artículo 5.- Operadores de Importancia Vital. La Agencia establecerá 
+mediante resolución dictada por el o la Directora Nacional, según se establece en el 
+artículo siguiente, a los prestadores   de servicios esenciales que sean calificados 
+como operadores de importancia vital.
+La Agencia podrá calificar como operadores de importancia vital a quienes 
+reúnan los siguientes requisitos:
+1.- que la provisión de dicho servicio dependa de las redes y sistemas 
+informáticos; y,
+2.- que la afectación, interceptación, interrupción o destrucción de sus servicios 
+tenga un impacto significativo en la seguridad y el orden público; en la provisión 
+continua y regular de servicios esenciales; en el efectivo cumplimiento de las funciones 
+del Estado; o, en general, de los servicios que éste debe proveer o garantizar.
+Además, la Agencia podrá calificar como operadores de importancia vital a 
+instituciones privadas que, aunque no tengan la calidad de prestadores de servicios 
+esenciales, reúnan los requisitos indicados en el inciso anterior y cuya calificación sea 
+indispensable por haber adquirido un rol crítico en el abastecimiento de la población, la 
+distribución de bienes o la producción de aquellos indispensables o estratégicos para 
+el país; o por el grado de exposición de la entidad a los riesgos y la probabilidad de 
+incidentes de ciberseguridad, incluyendo su gravedad y las consecuencias sociales y 
+económicas asociadas.
+En cualquier caso, siempre se deberá tener en consideración el tamaño de la 
+institución privada, especialmente las características y necesidades de las micro, 
+pequeñas y medianas empresas, tal como se definen en la ley N°20.416.
+Artículo 6.-   Procedimiento de calificación de los operadores de importancia
+--- PÁGINA 20 ---
+20
+vital. Al menos cada tres años, la Agencia deberá revisar y actualizar la calificación de 
+operadores de importancia vital mediante una resolución dictada por la Directora o el 
+Director Nacional.
+Para los efectos del inciso anterior, la Agencia requerirá informe fundado a los 
+organismos públicos con competencia sectorial   para que se pronuncien sobre aquellas 
+instituciones públicas y privadas que deban calificarse como operadores de importancia 
+vital. Dichos informes deberán evacuarse en la forma prescrita en el artículo 37 bis de 
+la ley Nº19.880.
+Recibidos los informes indicados precedentemente la Agencia dispondrá de un 
+plazo de treinta días corridos para evacuar un informe que contendrá la nómina 
+preliminar de las instituciones calificadas como operadores de importancia vital. Esta 
+nómina preliminar deberá ser sometida a consulta pública   por un plazo de treinta días 
+corridos sólo respecto de las instituciones privadas, en la forma que determine el 
+reglamento de la presente ley. Respecto de las instituciones públicas, se deberá 
+requerir informe del Ministerio de Hacienda, en los términos del inciso precedente.
+Terminado el proceso de consulta pública y recibido el informe del Ministerio de 
+Hacienda, la Agencia dispondrá de treinta días corridos para elaborar el informe que 
+contendrá la nómina final de instituciones que deban ser calificadas como operadores 
+de importancia vital, individualizándolas en la forma que señale el reglamento.
+Cumplidas las etapas anteriores, la Agencia, mediante resolución fundada de su 
+Director o Directora, determinará los operadores de importancia vital.
+En contra de la resolución que se dicte sólo podrá deducirse recurso de 
+reposición dentro del plazo de diez días corridos contado desde la respectiva 
+notificación a que se refiere el artículo 46 de la ley Nº19.880. El recurso deberá 
+resolverse dentro del plazo de veinte días corridos.
+Un reglamento expedido por el ministerio a cargo de la seguridad pública 
+contemplará los demás aspectos del procedimiento que sean necesarios para su 
+correcta ejecución.”.”
+La asesora legislativa del Ministerio del Interior, abogada señora Michelle 
+Bordachar, señaló que el artículo 5 se decidió separar en dos artículos distintos, lo que 
+son los servicios esenciales y los operadores de importancia vital, atendida a la 
+confusión que generaba el que estuvieran juntos, puesto que se pensaba que los 
+deberes específicos, que se establecen más adelante, aplicaban a cualquier institución 
+que presta un servicio esencial, lo cual no es así ya que sería solo y exclusivamente a 
+los operadores de importancia vital, a detallar en un listado que fija las instituciones 
+públicas y privadas a considerar.
+Agregó, que en el artículo 5 nuevo propuesto, se establecen cuáles son los 
+criterios y la forma de su determinación, y en el 6 nuevo propuesto, el procedimiento 
+donde se establecen los plazos y recursos procesales.
+El presidente diputado señor Andrés Longton, consultó a la asesora, el 
+motivo por el cual se fijó solo como recurso, al de reposición y no todos a aquellos que 
+considera la ley N°19.880.
+Los diputados señores Cristián y Jaime Araya, manifestó en la misma línea, 
+su preocupación en relación a la falta de recursos procesales posibles de deducir en 
+contra de la resolución, por lo que sugiere ampliar el sistema recursivo en esta materia.
+La asesora legislativa del Ministerio del Interior, abogada señora Michelle 
+Bordachard, respondió que solo fue considerado el recurso de reposición porque el
+--- PÁGINA 21 ---
+21
+jerárquico no procede en la Agencia, sin olvidar que de todas maneras se contempla 
+también el recurso de reclamación de legalidad, por lo que no sería necesario el 
+jerárquico.
+El presidente diputado señor Andrés Longton, insistió señalando que si bien 
+comprende que muchas veces en los órganos de administración del estado no procede 
+el jerárquico porque no hay un jerárquico, procediendo solo el de reposición, sin 
+embargo, es posible considerar otros contemplados en la ley N°19.880, como es el de 
+invalidación que además tiene un plazo mayor, y su regulación en general.
+Por lo anterior, sugirió que esto se amplié a todos los recursos contemplados en 
+la ley N°19.880.
+- 
+A la propuesta del Ejecutivo, respecto a los artículos 5 y 6, reemplazar 
+el inciso sexto de la propuesta del artículo 6, los diputados señores 
+Cristián Araya, Jaime Araya y Andrés Longton, la siguiente indicación: 
+ 
+ 
+“En contra de la resolución que se dicten podrán deducirse aquellos recursos a 
+que se refiere la ley N°19.880, sin perjuicio de la facultad de ejercer el recurso 
+establecido en el artículo 35 de la presente ley”.  
+   (SIN PERJUICIO DE LA NUMERACIÓN FINAL DE LA LEY)
+Puesta en votación la indicación del Ejecutivo que incorpora los artículos 5 
+y 6 nuevos, junto a la indicación de modificación, se aprueba por unanimidad. 
+Votan la y los diputados señores Jaime Araya, Cristián Araya, José Miguel Castro, 
+Lorena Fries, Andrés Jouannet, Henry Leal y Andrés Longton (presidente). (7-0-0)
+- 
+Se da lectura al artículo 5 del proyecto de ley que ha pasado a ser 7:
+Artículo 5°. Deberes generales. Será obligación de los organismos del Estado y 
+de las instituciones privadas aplicar de manera permanente las medidas necesarias 
+para prevenir, reportar y resolver incidentes de ciberseguridad. Estas medidas podrán 
+ser de naturaleza tecnológica, organizacional, física o informativa, según sea el caso. 
+ 
+   Asimismo, estas medidas tendrán por objeto la gestión de riesgos asociados a 
+la ciberseguridad y la contención y mitigación del impacto que los incidentes puedan 
+tener sobre la continuidad operacional, la confidencialidad y la integridad del servicio 
+prestado, de conformidad con lo prescrito en la presente ley. 
+ 
+   En el caso de los organismos de la Administración del Estado e instituciones 
+privadas que presten servicios esenciales, el cumplimiento de estas obligaciones exige, 
+al menos, la debida implementación de los protocolos y estándares establecidos por la 
+Agencia, así como de los estándares particulares de ciberseguridad dictados de 
+conformidad a la regulación sectorial respectiva, de ser el caso. 
+ 
+   La Agencia deberá establecer protocolos y estándares diferenciados según el 
+tipo de organización de que se trate y su relación con la prestación de servicios 
+calificados como esenciales, teniendo especialmente en consideración las 
+características y necesidades de las pequeñas y medianas empresas, tal como se 
+definen en la ley N°20.416, que fija normas especiales para las empresas de menor 
+tamaño. 
+ 
+   Para efectos de emitir los protocolos y estándares a los que se refiere el inciso 
+anterior, la Agencia deberá solicitar informe previo de la autoridad sectorial competente, 
+el que deberá ser evacuado a más tardar dentro el plazo de treinta días hábiles, sin 
+perjuicio de lo dispuesto en el artículo 22 respecto de las instituciones financieras 
+fiscalizadas por la Comisión para el Mercado Financiero.
+--- PÁGINA 22 ---
+22
+Se prohíbe a los organismos e instituciones señalados en el inciso primero, 
+realizar pagos de cualquier tipo por rescate ante ataques de secuestro digital o 
+ransomware, ya sea que dichos ataques causen la inoperatividad de los sistemas o 
+amenacen con exponer la información exfiltrada.”
+- 
+Al artículo 5 que ha pasado a ser 7, el Ejecutivo formuló la siguiente 
+indicación:
+Para reemplazar los incisos primero, segundo, tercero, cuarto, y quinto, del 
+actual artículo 5, que ha pasado a ser artículo 7, por los siguientes:  
+ 
+ 
+“Las instituciones obligadas por la presente ley deberán aplicar de manera 
+permanente las medidas para prevenir, reportar y resolver incidentes de ciberseguridad. 
+Estas medidas podrán ser de naturaleza tecnológica, organizacional, física o 
+informativa, según sea el caso. 
+ 
+ 
+El cumplimiento de estas obligaciones exige la debida implementación de los 
+protocolos y estándares establecidos por la Agencia, así como de los estándares 
+particulares de ciberseguridad dictados de conformidad a la regulación sectorial 
+respectiva. El objeto de estos protocolos y estándares será la prevención y gestión de 
+los riesgos asociados a la ciberseguridad, así como la contención y mitigación del 
+impacto que los incidentes pueden tener sobre la continuidad operacional del servicio 
+prestado o la confidencialidad y la integridad de la información o de las redes o sistemas 
+informáticos de conformidad con lo prescrito en la presente ley. 
+ 
+ 
+Para efectos de emitir las medidas de seguridad a que se refiere el inciso 
+primero, la Agencia deberá observar lo prescrito en el artículo 23, según corresponda. 
+Dichos protocolos y estándares deberán someterse a consulta pública, en la misma 
+forma y plazo señalados en el inciso tercero del artículo 6. La medida deberá publicarse 
+junto con el informe en que se justifique el rechazo o modificación de las observaciones 
+que correspondan. 
+ 
+ 
+La Agencia deberá establecer medidas de seguridad diferenciadas según el tipo 
+de organización de que se trate, teniendo especialmente en consideración las 
+características y posibilidades de las pequeñas y medianas empresas definidas por la 
+ley N°20.416, que fija normas especiales para las empresas de menor tamaño.”.
+La asesora legislativa del Ministerio del Interior, abogada señora Michelle 
+Bordachard, explicó que esta indicación viene a recoger gran parte de las indicaciones 
+formuladas al artículo 5 del proyecto, que actualmente paso a ser 7, que establece en 
+qué consiste este deber de ciberseguridad, el cómo se cumple y los criterios para definir 
+los estándares, tomando en consideración su aplicabilidad, ya que la idea es ayudar a 
+las empresas y no crearles una carga. Agregó que, si bien se modifican todos los 
+incisos, el último no, porque no se llegó a consenso a la eliminación o no de la 
+prohibición del pago de ramsonware.
+Puesta en votación la indicación del Ejecutivo que reemplaza los incisos 
+primero, segundo, tercero, cuarto, y quinto, del actual artículo 5, que ha pasado 
+a ser artículo 7, se aprueba por unanimidad. Votan la y los diputados señores Jaime 
+Araya, Cristián Araya, José Miguel Castro, Lorena Fries, Andrés Jouannet, Henry Leal 
+y Andrés Longton (presidente). (7-0-0)
+- 
+Al inciso final del artículo 5 que ha pasado a ser 7, los diputados señores 
+Cristián Araya, José Miguel Castro, Andrés Longton y Diego Schalper, 
+formularon la siguiente indicación N°40: 
+ 
+“Suprímase el inciso final del artículo 5.”
+--- PÁGINA 23 ---
+23
+El diputado señor José Miguel Castro, explicó que esta indicación se debe 
+a que el inciso final del artículo 5 prohíbe a los organismos e instituciones señalados 
+en el inciso primero, a realizar pagos de cualquier tipo por rescate ante ataques de 
+secuestro digital o ransomware, ya sea que dichos ataques causen la inoperatividad 
+de los sistemas o amenacen con exponer la información exfiltrada. Agregó que no 
+están de acuerdo a establecer por ley una prohibición de ese tipo, considerando que 
+las empresas deben tener la libertad de poder optar de salir o no del riego, 
+considerando situaciones extremas que pueden suscitarse.
+Además, no existe normativa en el mundo que lo prohíba, solo existen 
+recomendaciones.
+Puesta en votación la indicación N°40, se aprueba por unanimidad. Votan 
+la y los diputados señores Jaime Araya, Cristián Araya, José Miguel Castro, Lorena 
+Fries, Andrés Jouannet, Henry Leal y Andrés Longton (presidente). (7-0-0)
+- 
+Al artículo 5 que ha pasado a ser actual artículo 7, el Ejecutivo formuló 
+la siguiente indicación N°7:
+Para intercalar, en el artículo 5°, inciso primero, entre la expresión 
+“ciberseguridad” y el punto que le sigue, la frase “incluyendo aquellas contenidas en 
+instrucciones generales y particulares dictadas por la Agencia”.
+Por haberse aprobado la indicación del Ejecutivo que modifica el artículo 5 que 
+ha pasado a ser 7, junto a la indicación N°40, reglamentariamente se rechaza.
+- 
+Al inciso primero del artículo 5 que ha pasado a ser actual artículo 7, 
+los diputados señores José Miguel Castro, Andrés Longton y Diego 
+Schalper, formularon la siguiente indicación N°38: 
+ 
+“Sustitúyese el inciso primero del artículo 5° por el siguiente:
+“Artículo 5. Deberes generales. La Administración del Estado así como los 
+agentes privados calificados como prestadores de servicios esenciales y operadores de 
+importancia vital, deben aplicar de manera permanente las medidas necesarias para 
+prevenir, reportar y resolver incidentes de ciberseguridad que pudieran afectarlos. Estas 
+medidas podrán ser de naturaleza tecnológica, organizacional, física o informativa, 
+según sea el caso.”.”
+Por haberse aprobado la indicación del Ejecutivo que modifica el artículo 5 que 
+ha pasado a ser 7, junto a la indicación N°40, reglamentariamente se rechaza.
+- 
+Al inciso primero del artículo 5 que ha pasado a ser actual artículo 7, el 
+diputado señor Andrés Jouannet, formuló la siguiente indicación: 
+ 
+Incorpórese al inciso primero del artículo 5° propuesto, luego de “instituciones 
+privadas” la siguiente expresión “y públicas calificadas como operadores de 
+importancia vital”.
+Por haberse aprobado la indicación del Ejecutivo que modifica el artículo 5 que 
+ha pasado a ser 7, junto a la indicación N°40, reglamentariamente se rechaza.
+- 
+Al inciso tercero del artículo 5 que ha pasado a ser actual artículo 7, el 
+diputado señor Andrés Jouannet, formuló la siguiente indicación:
+“Suprímase en el inciso tercero del artículo 5° propuesto la expresión “En el 
+caso de los organismos de la Administración del Estado e instituciones privadas que 
+presten servicios esenciales,”.
+--- PÁGINA 24 ---
+24
+Por haberse aprobado la indicación del Ejecutivo que modifica el artículo 5 que 
+ha pasado a ser 7, junto a la indicación N°40, reglamentariamente se rechaza.
+- 
+Al inciso cuarto del artículo 5 que ha pasado a ser actual artículo 7, el 
+diputado señor Andrés Jouannet, formuló la siguiente indicación: 
+ 
+“Incorpórese en el inciso cuarto del artículo 5° propuesto, luego del punto final, 
+que pasa a ser punto y seguido, lo siguiente: “Para estos efectos, las necesidades de 
+las micro, pequeñas y medianas empresas deberán ser abordadas a través de, 
+especialmente, la Política Nacional de Ciberseguridad, y la prestación de servicios por 
+parte de la Agencia u otros organismos del Estado competentes, para que les 
+proporcionen orientación y asistencia acerca de cuestiones relacionadas con la 
+ciberseguridad”.
+Por haberse aprobado la indicación del Ejecutivo que modifica el artículo 5 que 
+ha pasado a ser 7, junto a la indicación N°40, reglamentariamente se rechaza.
+- Al inciso quinto del artículo 5 que ha pasado a ser actual artículo 7, los 
+diputados señores José Miguel Castro, Andrés Longton y Diego Schalper, 
+formularon la siguiente indicación N°39:
+“Incorpórese, en el inciso quinto del artículo 5° después del punto aparte, que 
+pasa a ser seguido, lo siguiente: “Dichos protocolos y estándares deberán someterse a 
+consulta pública y recepción de observaciones.”.”
+Por haberse aprobado la indicación del Ejecutivo que modifica el artículo 5 que 
+ha pasado a ser 7, junto a la indicación N°40, reglamentariamente se rechaza.
+- Al artículo 5 que ha pasado a ser 7, el Ejecutivo formuló la siguiente 
+indicación N°8:
+Para incorporar en el artículo 5°, el siguiente inciso final, nuevo:  
+ 
+“En todo caso, las obligaciones de ciberseguridad contenidas en las 
+instrucciones generales o particulares dictadas por la Agencia, deberán ser 
+establecidas de manera proporcional en relación con los riesgos que presentan las 
+redes y sistemas informáticos de que se trate, teniendo en cuenta el grado de progreso 
+de dichas obligaciones y, en su caso, las normas nacionales o internacionales 
+aplicables, así como el coste de su aplicación.”.
+Por haberse aprobado la indicación del Ejecutivo que modifica el artículo 5 que 
+ha pasado a ser 7, junto a la indicación N°40, reglamentariamente se rechaza.
+- 
+Se da lectura al artículo 6 que ha pasado a ser 8:
+“Artículo 6°. Deberes específicos de los operadores de importancia vital y para 
+la protección de los servicios esenciales. Todos los organismos del Estado con 
+competencias específicas sobre servicios esenciales y las instituciones privadas 
+calificadas como operadores de importancia vital deberán:
+a) Implementar un sistema de gestión de seguridad de la información continuo 
+con el fin de determinar aquellos que puedan afectar la seguridad de las redes, 
+sistemas informáticos y datos, y cuáles afectarían la continuidad operacional del 
+servicio. Dicho sistema debe contar con la capacidad de estimar tanto la 
+probabilidad como el impacto de las consecuencias de un incidente de 
+ciberseguridad.
+--- PÁGINA 25 ---
+25
+b) Mantener un registro de las acciones ejecutadas que compongan el sistema 
+de seguridad de la información, de conformidad a lo que señale el reglamento. 
+Lo anterior incluirá el registro del cumplimiento de la normativa sobre 
+ciberseguridad y del conocimiento por los empleados, dependientes y 
+proveedores de los protocolos de ciberseguridad y la aplicación de los mismos, 
+tanto durante el funcionamiento regular como en caso de haber sufrido un 
+incidente de ciberseguridad.  
+ 
+c) Elaborar e implementar planes de continuidad operacional y ciberseguridad, 
+certificados por un centro de certificación acreditado o por la Agencia, según sea 
+el caso. Dichos planes deberán ser actualizados y certificados periódicamente. 
+ 
+d) Realizar continuamente operaciones de revisión, ejercicios, simulacros y 
+análisis de las redes, sistemas informáticos y sistemas para detectar acciones o 
+programas informáticos que comprometan la ciberseguridad y comunicar la 
+información relativa a dichas acciones o programas al CSIRT Sectorial respectivo 
+o al CSIRT Nacional, según correspondiere, en la forma que determine el 
+reglamento.  
+ 
+e) Adoptar de forma oportuna y expedita las medidas necesarias para reducir el 
+impacto y la propagación de un incidente de ciberseguridad, incluida la 
+restricción de uso o el acceso a sistemas informáticos, si fuera necesario. 
+ 
+f) Contar con las certificaciones de los sistemas de gestión y procesos que 
+determine el reglamento. 
+ 
+g) Informar a la comunidad sobre la ocurrencia de incidentes o ciberataques que 
+pudieran comprometer gravemente sus redes y sistemas informáticos, en los 
+siguientes casos: cuando se vean expuestos datos personales y no exista otra 
+ley que obligue su notificación, o cuando generar conciencia pública sea 
+necesario para evitar un incidente o para gestionar uno que ya hubiera ocurrido. 
+Todo lo anterior, conforme a las instrucciones generales y particulares que al 
+efecto dicte la Agencia. 
+ 
+h) Contar con programas de capacitación, formación y educación continua de 
+sus trabajadores y colaboradores, que incluyan campañas de ciberhigiene. 
+ 
+i) Designar un delegado de ciberseguridad, quien será la contraparte de la 
+Agencia y dependerá directamente de la máxima autoridad de la institución a la 
+que pertenece. 
+ 
+   
+Un reglamento expedido por el Ministerio encargado de la seguridad 
+pública identificará los organismos del Estado con competencias específicas 
+sobre servicios esenciales.
+- 
+Al artículo 6 que ha pasado a ser 8, el Ejecutivo formuló la siguiente 
+indicación:
+Para reemplazar el actual artículo 6, que ha pasado a ser artículo 8, por el 
+siguiente:
+“Artículo 8°. Deberes específicos de los operadores de importancia vital.
+Todos los operadores de importancia vital deberán: 
+ 
+a) Implementar un sistema de gestión de seguridad de la información continuo 
+con el fin de determinar aquellos riesgos que puedan afectar la seguridad de las
+--- PÁGINA 26 ---
+26
+redes, sistemas informáticos y datos, y la continuidad operacional del servicio.
+Este sistema deberá permitir evaluar tanto la probabilidad como el potencial 
+impacto de un incidente de ciberseguridad. 
+ 
+b) Mantener un registro de las acciones ejecutadas que compongan el sistema 
+de gestión de seguridad de la información, de conformidad a lo que señale el 
+reglamento. 
+ 
+c) Elaborar e implementar planes de continuidad operacional y ciberseguridad, 
+los cuales  deberán certificarse en conformidad al artículo 26 de la presente ley, 
+y deberán someterse a revisiones periódicas por parte de los sujetos obligados, 
+con una frecuencia mínima de dos años.
+Con todo, la Agencia podrá instruir a uno o más operadores de importancia 
+vital, fundadamente y por motivos sobrevinientes graves, la certificación de sus 
+planes de continuidad operacional o ciberseguridad en un plazo menor al 
+indicado en el párrafo precedente; sin embargo, la Agencia sólo podrá ejercer 
+esta facultad, respecto de cada operador de importancia vital, siempre que la 
+certificación tenga al menos un año de vigencia. 
+ 
+d) Realizar continuamente operaciones de revisión, ejercicios, simulacros y 
+análisis de las redes, sistemas informáticos y sistemas para detectar acciones o 
+programas informáticos que comprometan la ciberseguridad y comunicar la 
+información relativa a dichas acciones o programas al CSIRT Nacional, en la 
+forma que determine el reglamento. 
+ 
+e) Adoptar de forma oportuna y expedita las medidas necesarias para reducir el 
+impacto y la propagación de un incidente de ciberseguridad, incluida la 
+restricción de uso o el acceso a sistemas informáticos, si fuera necesario. 
+ 
+f) Contar con las certificaciones que señale el artículo 26 de la presente ley. 
+ 
+g) Informar a los potenciales afectados sobre la ocurrencia de incidentes o 
+ciberataques que pudieran comprometer gravemente su información o redes y 
+sistemas informáticos, especialmente cuando involucren datos personales y no 
+exista otra disposición legal que requiera su notificación; o cuando sea necesario 
+para prevenir la ocurrencia de nuevos incidentes o para gestionar uno que ya 
+hubiera ocurrido. 
+ 
+h) Contar con programas de capacitación, formación y educación continua de 
+sus trabajadores y colaboradores, que incluyan campañas de ciberhigiene. 
+ 
+i)Designar un delegado de ciberseguridad quien actuará como contraparte de la 
+Agencia e informará a la autoridad o jefatura o jefe superior del órgano o servicio 
+de la Administración del Estado o a los directores, gerentes, administradores o 
+ejecutivos principales, según lo definan las instituciones privadas.”.
+El presidente diputado señor Andrés Longton, luego de escuchar las 
+opiniones de algunos expertos, diputados y diputadas de la comisión, y por cumplirse 
+con el horario de término de la sesión, determinó dejar pendiente este artículo, pero 
+con el acuerdo que se tiene consenso en todo el texto propuesto, con excepción de la 
+letra g), para que el Ejecutivo, en la siguiente sesión sugiera una redacción más 
+adecuada a ese literal.
+***
+--- PÁGINA 27 ---
+27
+Habiéndose cumplido el objeto de la sesión, se levanta a las 19:18 horas.
+El detalle de las exposiciones realizadas y el debate suscitado en torno a 
+ellas quedan registrados en un archivo de audio disponible en la Secretaría de la 
+Comisión y en un video publicado en la página www.democraciaenvivo.cl
+ÁLVARO HALABI DIUANA 
+Secretario Abogado de la Comisión

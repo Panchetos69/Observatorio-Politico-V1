@@ -1,0 +1,633 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=11489&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : Sebastián Flores Cuneo
+EXTRAIDO : 2026-03-29 05:16:52
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 
+ORDINARIA 
+321a 
+DE 
+LA 
+COMISIÓN 
+DE 
+HACIENDA, 
+CORRESPONDIENTE AL PERÍODO LEGISLATIVO 2018-2022, CELEBRADA EL 
+DÍA MARTES 1 DE MARZO DE 2022 DE 15:30 17:30 HORAS
+SUMARIO
+Esta sesión por objeto tratar la siguiente 
+Tabla:
+1) Iniciar el estudio del proyecto de ley, 
+iniciado en Mensaje del Presidente de la 
+República, 
+que 
+Promueve 
+el 
+almacenamiento de energía eléctrica y la 
+electromovilidad, Boletín N° 14731-08, con 
+urgencia 
+calificada 
+de 
+"discusión 
+inmediata".
+2) Tratar el proyecto de ley que Establece 
+una nueva institucionalidad y perfecciona 
+los 
+mecanismos 
+de 
+protección 
+del 
+patrimonio cultural, Boletín N° 12712-24, 
+con urgencia calificada de "discusión 
+inmediata".
+Se dio inicio a la sesión a las 15:33 horas.
+1. ASISTENCIA  
+ 
+Asistieron los diputados(a) Cid, Sofía; Díaz, Marcelo; Hernández, Javier; 
+Lorenzini, Pablo; Mellado, Cosme; Ortiz, José Miguel; Pérez, Leopoldo; Schilling, Marcelo; Von 
+Mühlenbrock, Gastón. Reemplazos: El Diputado Núñez, Daniel fue reemplazado por el 
+Diputado Barrera, Boris. El Diputado Santana, Alejandro fue reemplazado por el Diputado
+--- PÁGINA 2 ---
+Mellado, Miguel.
+Para el primer punto en tabla, asiste el Subsecretario de Energía, señor 
+Francisco López Díaz.
+Para el segundo punto en tabla, asiste el Subsecretario del Patrimonio 
+Cultural, señor Emilio de la Cerda junto con el Asesor Legislativo, señor Raimundo Varela
+Actuó como Secretario Abogado (A) de la Comisión el señor Sebastián 
+Flores Cuneo.
+2. CUENTA  
+ 
+Se han recibido los siguientes documentos: 
+ 
+1.- El diputado Boris Barrera Moreno reemplaza al diputado Daniel Núñez 
+Arancibia.
+2.- El diputado Miguel Mellado Suazo reemplaza al diputado Alejandro 
+Santana Tirachini.
+3.- Carta de excusa del Ministro de Hacienda, don Rodrigo Cerda 
+Norambuena, indicando que, por motivos impostergables, propios de su cargo, no le es posible 
+asistir a la sesión.
+4.- Oficio de S.E. el Presidente de la República el cual hace presente la 
+urgencia calificada de "discusión inmediata", para el despacho del siguiente proyecto: 
+"Proyecto de ley que fija Ley Marco de Cambio Climático.". BOLETÍN N° 13191-12(S).
+5.- Oficio de S.E. el Presidente de la República el cual hace presente la 
+urgencia calificada de "discusión inmediata", para el despacho del siguiente proyecto: 
+"Establece una nueva institucionalidad y perfecciona los mecanismos de protección del 
+patrimonio cultural". BOLETÍN N° 12712-24.
+6.- Oficio de S.E. el Presidente de la República el cual hace presente la 
+urgencia calificada de "discusión inmediata", para el despacho del siguiente proyecto: 
+"Promueve el almacenamiento de energía eléctrica y la electromovilidad". BOLETÍN N° 14731-
+08.
+3. ORDEN DEL DÍA  
+ 
+1) Iniciar el estudio del proyecto de ley, iniciado en Mensaje del Presidente 
+de la República, que Promueve el almacenamiento de energía eléctrica y la 
+electromovilidad, Boletín N° 14731-08, con urgencia calificada de "discusión inmediata".
+La Comisión recibió al Subsecretario de Energía, Francisco López. Señaló que 
+el proyecto de ley habilita a sistemas de almacenamiento de energía no asociados a centrales (o
+--- PÁGINA 3 ---
+almacenamiento puro) a recibir ingresos por energía y potencia en el mercado de generación del 
+Sistema Eléctrico Nacional, completando así el marco regulatorio para remunerar el 
+almacenamiento
+• Incorpora “sistemas de almacenamiento” en diversos artículos de la Ley 
+General de Servicios Eléctricos para habilitar su remuneración
+• Esta disposición, que completa el marco regulatorio para el almacenamiento, 
+se suma a los recientes ajustes reglamentarios que permitieron la instalación de las primeras 
+baterías en el sistema
+• Nueva disposición incentivará el desarrollo de proyectos de almacenamiento 
+puro de diversas tecnologías (aire comprimido, otros)
+• Los sistemas de almacenamiento permitirán maximizar la integración de 
+energías renovables variables como solar y eólica
+• El almacenamiento permitirá acelerar el retiro de centrales a carbón 
+ y entregará mayor seguridad al Sistema
+Para proyectos productivos que cuenten con capacidad propia de generación 
+eléctrica renovable (ej. hidrógeno verde), establece que los cargos que le correspondan por el 
+uso de un sistema eléctrico sean sólo en base a la energía y potencia efectivamente retirada del 
+mismo.
+• Incorpora en el art 225 de la Ley General de Servicios Eléctricos la definición 
+de un sistema generación-consumo:
+o Infraestructura productiva, que cuente con capacidad de generación de 
+energía eléctrica propia
+o Dicha capacidad de generación eléctrica debe ser mediante medios de 
+generación renovables
+o Sistema debe conectarse al sistema eléctrico a través de un único punto de 
+conexión, desde el cual pueda retirar energía a través de un suministrador o inyectar sus 
+excedentes de energía al mismo
+o Cargos que correspondan, asociados a clientes finales, serán sólo en base a 
+la energía y potencia retirada del sistema y en ningún caso por la energía y potencia 
+autoabastecida
+o A estos sistemas les serán aplicables todas las disposiciones 
+correspondientes a las centrales generadoras y clientes finales no sometidos a regulación de 
+precios, de acuerdo a lo que disponga el reglamento
+• Esta disposición entrega mayor transparencia y flexibilidad para el desarrollo 
+de proyectos de infraestructura que cuenten con capacidad propia de generación, pero que 
+también puedan requerir suministrarse desde un sistema eléctrico, así como también poder 
+aportar con su capacidad de generación propia al mismo sistema eléctrico
+• Dentro de estos proyectos se pueden encontrar electrolizadores para la 
+producción de hidrógeno verde, entre otros proyectos de integración de sistemas de energía 
+diversos
+Rebaja transitoriamente por 8 años el costo de los permisos de circulación de 
+los vehículos eléctricos para equipararlo con el de vehículos de combustión interna, los cuales 
+son en promedio un 65 más baratos En los primeros dos años existe una eximición total, la cual 
+va disminuyendo gradualmente hasta el octavo año
+--- PÁGINA 4 ---
+• Sin perjuicio de lo señalado en el art 12 del decreto 2 385 del Ministerio del 
+Interior que fija el texto refundido y sistematizado del decreto ley sobre rentas municipales, los 
+vehículos eléctricos e híbridos con recarga eléctrica exterior, así como también otros calificados 
+como cero emisiones por resolución exenta del Ministerio de Energía, cuyo año de fabricación 
+corresponda al de la publicación de la ley, a los posteriores o al año anterior a ella, estarán 
+exentos del pago del impuesto anual por permiso de circulación dentro del plazo de dos años 
+contados desde el 1 de febrero posterior a la publicación de la presente ley
+• Cumplido el plazo de dos años, durante los seis años siguientes, pagarán un 
+porcentaje de dicho impuesto, en la forma indicada por la gráfica Cumplido el octavo año, vence 
+el transitorio, debiendo estos vehículos pagar íntegramente el impuesto de acuerdo al régimen 
+general del decreto ley
+• El SII deberá calcular anualmente el impuesto anual por permiso de 
+circulación, al igual que lo hace hoy, pero aplicando los porcentajes de exención indicados para 
+vehículos eléctricos
+Habilita a los vehículos eléctricos a participar de la red de distribución eléctrica 
+como equipos de almacenamiento que puedan inyectar energía, permitiendo nuevas 
+aplicaciones y servicios asociados
+• Incorpora a los “sistemas de almacenamiento, incluyendo aquellos sistemas 
+de almacenamiento que forman parte de un vehículo eléctrico” en el art 149 bis de la Ley General 
+de Servicios Eléctricos, como parte del equipamiento que pueden disponer los usuarios finales 
+sujetos a regulación de precios para inyectar energía a la red de distribución eléctrica
+• Similarmente, se incorporan dichos sistemas de almacenamiento a los demás 
+artículos de la Ley General de Servicios Eléctricos que regulan la valorización de las inyecciones 
+de energía a la red de distribución, entre otros aspectos referentes a la modalidad de generación 
+residencial, comercial e industrial bajo el esquema “net billing
+• Esta habilitación incentivará la proliferación de nuevos servicios eléctricos que 
+podrían proveer centros de recarga de buses eléctricos, estacionamientos, comercios e 
+industrias con instalaciones solares y de almacenamiento importantes, e incluso hogares con 
+instalaciones de escala domiciliaria
+• Clientes industriales podrían incorporar sistemas de almacenamiento para 
+gestionar su demanda (cortar punta) en reemplazo de grupos electrógenos a diésel que suelen 
+ocupar en la actualidad
+Tras la exposición, se votaron los artículos sometidos a la competencia de la 
+Comisión de Hacienda:
+Disposiciones transitorias 
+Artículo segundo.- Sin perjuicio de lo señalado en el párrafo final del literal a) 
+del artículo 12 del decreto ley N° 3.063, de 1979, sobre rentas municipales, cuyo texto refundido 
+y sistematizado fue fijado por el decreto N° 2.385, de 1996, del Ministerio del Interior, los 
+vehículos eléctricos e híbridos con recarga eléctrica exterior, así como también otros calificados 
+como cero emisiones por resolución exenta del Ministerio de Energía, cuyo año de fabricación 
+corresponda al de la publicación de la ley, a los posteriores o al año anterior a ella, estarán
+--- PÁGINA 5 ---
+exentos del pago del impuesto anual por permiso de circulación dentro del plazo de dos años 
+contados desde el 1° de febrero posterior a la publicación de la presente ley.
+Una vez cumplido el referido plazo de dos años, durante los seis años 
+siguientes, los vehículos eléctricos e híbridos con recarga eléctrica exterior, así como también 
+otros calificados como cero emisiones por resolución exenta del Ministerio de Energía, cuyo año 
+de fabricación corresponda al de la publicación de la ley, a los posteriores o al año anterior a ella, 
+pagarán un porcentaje del impuesto anual por permiso de circulación de la siguiente forma: (i) 
+durante el tercer y cuarto año, pagarán un 25% del impuesto anual por permiso de circulación; 
+(ii) durante el quinto y sexto año, pagarán el 50% del impuesto anual por permiso de circulación; 
+y (iii) durante el séptimo y octavo año, pagarán el 75% del impuesto anual por permiso de 
+circulación.
+Para la aplicación de lo señalado en el presente artículo, el Servicio de 
+Impuestos Internos deberá calcular anualmente el impuesto anual por permiso de circulación 
+aplicando los porcentajes de exención antes indicados. Dichos valores deberán ser publicados 
+en el Diario Oficial u otro diario de circulación nacional que determine el Servicio de Impuestos 
+Internos, junto con la lista indicada en el antepenúltimo párrafo del literal a) del artículo 12 del 
+decreto ley N° 3.063, de 1979, sobre rentas municipales, cuyo texto refundido y sistematizado 
+fue fijado por el decreto N° 2.385, de 1996, del Ministerio del Interior.
+Artículo tercero.- El mayor gasto fiscal que represente la aplicación de esta ley 
+se financiará con los recursos que se establezcan en las respectivas leyes de presupuestos del 
+sector público.”.
+Puestos en votación, resultaron aprobados por la unanimidad de los once 
+diputados presentes señores(a) Barrera, Cid, Díaz, Hernández, Lorenzini, Mellado, don Cosme, 
+Mellado, don Miguel, Ortiz, Pérez, Schilling y Von Mühlenbrock.
+Fue designado diputado informante el señor Ramírez.   
+ 
+2) Tratar el proyecto de ley que Establece una nueva institucionalidad y 
+perfecciona los mecanismos de protección del patrimonio cultural, Boletín N° 12712-24, 
+con urgencia calificada de "discusión inmediata".
+La Comisión se dedicó al estudio de aquellas disposiciones que fueron 
+entregadas a su competencia por la Sala de la Corporación, a saber:
+Artículo primero, N° 3, artículos 7, 8, 9 bis, 11, 12, 12 bis y 12 ter, N° 4, artículo 
+17 inciso final, N° 10, artículo 38, N° 11, artículos 57 y 58, Artículo cuarto, Artículo octavo, 
+Artículos transitorios cuarto, décimo cuarto, décimo quinto y décimo séptimo.
+Habiéndose presentado indicaciones parlamentarias a algunas de estas 
+disposiciones, se acordó votar, en primer término, todas aquellas normas que no fueron objeto 
+de indicación.
+Artículo 9 bis.- Dietas
+--- PÁGINA 6 ---
+Los consejeros que no sean funcionarios públicos tendrán derecho a percibir 
+una dieta equivalente a ocho unidades de fomento por cada sesión a la que asistan, con un tope 
+de doce sesiones por año calendario, considerando tanto las sesiones ordinarias como las 
+extraordinarias. Esta dieta será compatible con otros ingresos que perciba el consejero.
+Sujeto a la disponibilidad de recursos, los consejeros que no sean funcionarios 
+públicos y los asesores permanentes del Consejo Nacional y Secretaría Técnica Nacional que 
+tengan que trasladarse fuera de su lugar de residencia habitual para asistir a sesiones del 
+Consejo Nacional o para cumplir funciones propias del cargo, tendrán derecho a percibir un 
+viático equivalente al que corresponda a un funcionario público de grado 5 de la Escala Única de 
+Sueldos.
+Artículo 9 ter.- Deberes, inhabilidades e incompatibilidades 
+En el ejercicio de sus atribuciones, los consejeros deberán observar el principio 
+de probidad administrativa y, en particular, quedarán sujetos a las normas de probidad y a las  
+inhabilidades e incompatibilidades establecidas en el Párrafo 2°  del Título III de la ley N° 18.575, 
+Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto 
+refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1/19.653, de 
+2000, del Ministerio Secretaría General de la Presidencia, y en el Título II de la ley N° 20.880, 
+sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses.
+Artículo 12 bis.- Secretaría Técnica Provincial en Rapa Nui 
+Créase la Secretaría Técnica Provincial en Rapa Nui, que dependerá 
+administrativamente de la respectiva Secretaría Técnica Regional y cuyo domicilio será la 
+Provincia de Rapa Nui.
+La Secretaría Técnica Provincial en Rapa Nui será competente para 
+pronunciarse sobre las solicitudes de intervención sobre patrimonio inmueble y patrimonio 
+arqueológico situados en su territorio, en los términos y plazos previstos en el artículo 39 de la 
+presente ley. Estará a cargo de un Secretario Técnico Provincial, quien dictará los actos 
+administrativos correspondientes.
+Para el solo efecto del recurso jerárquico deducido de conformidad a la ley N° 
+19.880, en el ámbito de la competencia que la presente ley específicamente le otorga, el órgano 
+superior de la Secretaría Técnica Provincial en Rapa Nui será la Secretaría Técnica Nacional.
+Artículo 12 ter.- Comisiones Técnicas Asesoras 
+Sin perjuicio de lo dispuesto en el artículo 8 N° 16 de la presente ley, para el 
+desarrollo de sus funciones, las Secretarías Técnicas podrán formar comisiones técnicas 
+asesoras, las que, sujeto a la disponibilidad de recursos, podrán estar integradas además por 
+asesores externos, sean personas naturales o jurídicas. Estas comisiones técnicas podrán ser 
+permanentes, transitorias o ad-hoc, no serán resolutivas y tendrán por objeto apoyar en materias 
+específicas y facilitar la labor de las Secretarías Técnicas y los respectivos Consejos; a los que
+--- PÁGINA 7 ---
+formulará sus propuestas e informará los avances y resultados de sus tareas, según 
+corresponda.”
+Puestas en votación, resultaron aprobadas por diez votos a favor y uno en 
+contra. Votaron a favor los diputados(a) Cid, Díaz, Hernández, Lorenzini, Mellado, don Cosme, 
+Mellado, don Miguel, Ortiz, Pérez, Schilling y Von Mühlenbrock. Votó en contra el diputado 
+Barrera.
+Artículo 17.- 
+Derecho de adquisición preferente del Estado 
+En caso de venta, enajenación o remate de bienes declarados patrimonio 
+mueble e inmueble, de propiedad particular, el Estado, a través del Ministerio de Bienes 
+Nacionales y a solicitud del Servicio Nacional del Patrimonio Cultural, gozará de un derecho 
+preferente para su adquisición o adjudicación, previa tasación de dos peritos nombrados 
+paritariamente por  el Servicio Nacional del Patrimonio Cultural y el propietario del bien. En caso 
+de desacuerdo, se nombrará un tercero por el Juez de Letras competente en la comuna del 
+domicilio del enajenante. La adquisición se sujetará a los términos del título II del decreto ley N° 
+1.939, de 1977.
+Para el ejercicio de este derecho preferente, las personas naturales o jurídicas 
+con intención de enajenar comunicarán tal circunstancia al Servicio Nacional del Patrimonio 
+Cultural, indicando los antecedentes que permitan la adecuada singularización del bien, 
+acompañando los antecedentes respectivos. Vencido el plazo de sesenta días contado desde la 
+recepción de dicha comunicación, sin que estos organismos hayan notificado su respuesta al 
+enajenante sobre si harán uso del derecho de adquisición preferente señalado en el inciso 
+anterior, caducará la preferencia y el interesado podrá enajenar libremente.
+Asimismo, las casas de martillo y los Tribunales de Justicia, en su caso, 
+deberán comunicar al Ministerio de Bienes Nacionales y al Servicio Nacional del Patrimonio 
+Cultural, con una anticipación mínima de treinta días de la subasta, sobre la fecha de ésta y los 
+bienes patrimoniales a subastar, acompañando los antecedentes que permitan su debida 
+singularización. Si  el Servicio Nacional del Patrimonio Cultural no notificare su respuesta a la 
+casa de martillo o al Tribunal de la subasta hasta cinco días antes de la subasta, caducará la 
+preferencia y el dueño podrá subastar libremente.
+Serán inválidas las enajenaciones celebradas en contravención a lo dispuesto 
+en este artículo.
+El Servicio Nacional del Patrimonio Cultural podrá disponer de hasta un 7% 
+anual del Fondo del Patrimonio Cultural, previsto en el artículo 26 de la ley N° 21.045, para la 
+adquisición de bienes patrimoniales.
+Puesto en votación únicamente el inciso final de este artículo, resultó aprobado 
+por diez votos a favor y uno en contra. Votaron a favor los diputados(a) Cid, Díaz, Hernández,
+--- PÁGINA 8 ---
+Lorenzini, Mellado, don Cosme, Mellado, don Miguel, Ortiz, Pérez, Schilling y Von Mühlenbrock. 
+Votó en contra el diputado Barrera.
+Título X 
+De las Declaratorias 
+ 
+Artículo 38.- Decreto supremo de declaratoria de un bien patrimonial 
+El decreto supremo de declaratoria de bienes patrimoniales indicará los valores 
+y atributos por los cuales el bien se protege y el polígono de protección, cuando corresponda. 
+Asimismo, ordenará la incorporación del bien al Inventario e instruirá que se informe de dicha 
+declaratoria enviando los antecedentes a los órganos de la Administración del Estado 
+representados en el Consejo, a los gobiernos regionales y a las municipalidades en cuyos 
+territorios se sitúen los bienes, para cuyos efectos la Secretaría Técnica Nacional remitirá copia 
+del decreto supremo de declaratoria dentro del plazo de treinta días contado desde la fecha de 
+su total tramitación.
+Al dictarse declaratorias sobre patrimonio inmueble, el decreto supremo deberá 
+indicar, además, el o los roles de inscripción conservatoria, como asimismo, el rol de avalúo fiscal 
+del inmueble que se declare. Asimismo, la Secretaría Técnica Nacional remitirá copia del decreto 
+supremo al Servicio de Impuestos Internos en un plazo no superior a treinta días contado desde 
+la fecha de su total tramitación, para que, luego de la verificación respectiva, de curso, en los 
+casos que corresponda, a la exención de impuesto territorial establecida en el cuadro anexo 
+nómina de Exenciones al Impuesto Territorial de la ley N° 17.235 sobre Impuesto Territorial. Se 
+instruirá también que la Secretaría Técnica Nacional remita al Conservador de Bienes Raíces 
+competente copia del respectivo decreto supremo para que éste lo inscriba, en el mismo plazo, 
+al margen de la inscripción en el Registro de Propiedad. En igual plazo y al margen de la 
+inscripción del mismo Registro se inscribirán los Planes de Gestión Patrimonial que hubieren sido 
+aprobados por el respectivo Consejo Regional de las Culturas, las Artes y el Patrimonio.
+Las actuaciones ante el Conservador de Bienes Raíces competente no tendrán 
+costo para el Fisco.
+Un reglamento expedido por el Ministerio de las Culturas, las Artes y el 
+Patrimonio, suscrito además por los Ministerio de Hacienda y de Justicia y Derechos Humanos, 
+establecerá el procedimiento al que se sujetarán las solicitudes que establece este artículo.”
+Título XIII 
+De los Sistemas de incentivos, compensaciones y subsidios 
+ 
+Párrafo 1° 
+De los incentivos 
+ 
+Artículo 57.- Beneficio Tributario
+--- PÁGINA 9 ---
+Los contribuyentes del impuesto de primera categoría, que declaren sus rentas 
+efectivas según contabilidad completa, podrán deducir como gasto para los efectos de la Ley 
+sobre Impuesto a la Renta, los desembolsos efectivos para proyectos de mantención, 
+rehabilitación, restauración o conservación contenidos en el Plan de Gestión Patrimonial, 
+lineamientos de intervención o planos de detalle, según corresponda, de aquel inmueble de su 
+propiedad o una parte del mismo cuya naturaleza y atributos motiven la calificación respectiva, 
+sean estos patrimonio inmueble, sitios de memoria,  inmuebles de conservación histórica o que 
+estén situados en una zona patrimonial o zona de conservación histórica, o museos inscritos en 
+el Registro Nacional de Museos del Servicio Nacional del Patrimonio Cultural. Serán deducibles 
+en la determinación de la renta líquida imponible, los citados desembolsos con un tope de 2% de 
+dicha renta o del 1,6 por mil (uno coma seis por mil) del capital propio al término del ejercicio. 
+Respecto de los contribuyentes que destinen el inmueble a actividades relacionadas con su giro, 
+se podrá deducir como gasto el exceso sobre dichos topes, conforme con las reglas generales 
+de la Ley sobre Impuesto a la Renta.
+En el caso de los contribuyentes afectos a los impuestos global complementario 
+y único de segunda categoría, tendrán derecho a un crédito contra el respectivo impuesto por un 
+cincuenta por ciento de los desembolsos para iguales fines y respecto de los mismos inmuebles 
+o partes de los mismos señalados en el inciso anterior, con un tope anual de 320 unidades 
+tributarias mensuales, según su valor al término del ejercicio. En estos casos, el crédito se 
+imputará a continuación de cualquier otro crédito. Si luego de ello resultare un exceso, este no 
+se devolverá ni podrá imputarse a ningún otro impuesto.
+Para la procedencia del beneficio expuesto en el presente artículo, los bienes 
+patrimoniales antes señalados deberán contar con un Plan de Gestión Patrimonial, con 
+lineamientos de intervención o con planos de detalle, según corresponda, aprobados 
+previamente por el respectivo Consejo Regional de las Culturas, las Artes y el Patrimonio o por 
+el municipio correspondiente, según lo dispuesto en el decreto supremo N°223 del Ministerio de 
+Educación del año 2016 y en el decreto con fuerza de ley N°458 del Ministerio de Vivienda y 
+Urbanismo del año 1976, respectivamente, y deberá contar con la autorización del beneficio por 
+el Ministerio de Hacienda, que para estos efectos, solicitará la aprobación de la Dirección de 
+Presupuestos. Con este objeto, los órganos competentes remitirán las resoluciones que 
+aprueban el Plan de Gestión Patrimonial o los lineamientos de intervención, así como los 
+decretos alcaldicios que aprueben los planos de detalle, según corresponda, al Ministerio de 
+Hacienda, individualizando el inmueble o la parte del mismo cuya naturaleza y atributos motivan 
+la calificación respectiva, junto con el o los roles y el polígono de protección, cuando esto último 
+proceda, y los demás antecedentes que se determinen en un reglamento expedido por el 
+Ministerio de las Culturas, las Artes y el Patrimonio, suscrito además por el Ministro de Hacienda 
+y el Ministerio de Vivienda y Urbanismo.
+Adicionalmente, las mejoras, ampliaciones o modificaciones contenidas en el 
+Plan de Gestión Patrimonial, lineamientos de intervención o planos de detalle del respectivo bien 
+inmueble, según corresponda, deberán cumplir con las regulaciones y reglamentaciones
+--- PÁGINA 10 ---
+aplicables y ser informadas al Servicio de Impuestos Internos, en la forma y plazo que este 
+establezca mediante resolución.
+Los contribuyentes deberán elaborar anualmente un informe del estado de los 
+egresos y del uso detallado de dichos recursos y remitir dicho informe al Servicio de Impuestos 
+Internos, de acuerdo a los contenidos, forma y plazo que establezca dicho Servicio mediante la 
+resolución señalada en el inciso precedente.
+La utilización de los beneficios previstos en este artículo será incompatible con 
+otras franquicias tributarias contempladas en otras leyes y con los subsidios previstos en el 
+artículo siguiente.
+Indicación del diputado Barrera: 
+Suprímase, en el artículo 57, la siguiente frase: 
+“Respecto de los contribuyentes que destinen el inmueble a actividades 
+relacionadas con su giro, se podrá deducir como gasto el exceso sobre dichos topes, conforme 
+con las reglas generales de la Ley sobre Impuesto a la Renta”.
+Puesta en votación, la indicación resultó rechazada por siete votos en contra y 
+cuatro a favor. Votaron a favor los diputados Barrera, Díaz, Mellado, don Cosme y Schilling. 
+Votaron en contra los diputados(a) Cid, Hernández, Lorenzini, Mellado, don Miguel, Ortiz, Pérez 
+y Von Mühlenbrock.
+Párrafo 2° 
+De los Subsidios 
+ 
+Artículo 58.- Subsidios 
+Para los efectos de la presente ley, el Ministerio de Vivienda y Urbanismo 
+podrá, en coordinación con el Ministerio de las Culturas, las Artes y el Patrimonio, diseñar 
+subsidios para financiar obras de mantención, rehabilitación, reconversión, restauración o 
+conservación del patrimonio inmueble, de inmuebles de conservación histórica o que estén 
+situados en zonas patrimoniales o zonas de conservación histórica. Tales subsidios estarán 
+destinados a:
+a) 
+La preservación del uso habitacional de edificaciones preexistentes; 
+b) 
+La habilitación de nuevas unidades de viviendas en inmuebles 
+patrimoniales preexistentes para beneficiarios de programas habitacionales del Estado;
+c) 
+La conservación o habilitación de equipamientos de interés público barrial, 
+equipamiento complementario a la vivienda y/o recuperación o puesta en valor del espacio 
+público; y/o
+d) 
+Otros usos que se contemplen en el llamado correspondiente.
+--- PÁGINA 11 ---
+Para poder acceder a este beneficio, los inmuebles que estén situados en 
+zonas patrimoniales o zonas de conservación histórica deberán contener atributos que hayan 
+contribuido a la valoración patrimonial de la respectiva declaratoria, lo que será acreditado 
+mediante certificado emitido por la Secretaría Técnica Regional o el municipio que corresponda, 
+respectivamente.
+Mediante reglamento expedido por el Ministerio de Vivienda y Urbanismo, 
+suscrito además por los ministros de las Culturas, las Artes y el Patrimonio y de Hacienda, se 
+regulará el o los programas de subsidios establecidos en este artículo, incluyendo normas 
+relativas a los requisitos y alternativas de postulación; a la naturaleza de los proyectos a 
+subsidiar;  a la selección y asignación de los subsidios; a los requisitos técnicos de las obras, 
+aprobaciones y su fiscalización técnica; y a las obligaciones y prohibiciones que afecten a los 
+titulares de los subsidios y a los inmuebles favorecidos por éstos; entre otras normas necesarias 
+para el adecuado funcionamiento del subsidio.
+Los llamados a postulación del o los programas de subsidios se efectuarán por 
+el Ministerio de Vivienda y Urbanismo, en los que se fijarán las condiciones de postulación y los 
+recursos que se destinarán a los subsidios.
+En la asignación de los subsidios se resguardará la equidad territorial y la 
+debida imparcialidad, transparencia y objetividad.
+Los subsidios entregados no se considerarán renta para todos los efectos 
+legales y serán incompatibles con la franquicia tributaria a que se refiere en el artículo anterior.
+ARTÍCULO CUARTO.- Modifícase el Cuadro Anexo, Nómina de Exenciones al 
+Impuesto Territorial de la ley Nº 17.235, sobre Impuesto Territorial, en el siguiente sentido:
+1) 
+Reemplázase en el párrafo I, el numeral 12 de la letra B) por el siguiente: 
+ 
+“12) Los bienes raíces declarados por el Ministerio de las Culturas, las Artes y 
+el Patrimonio, mediante decreto supremo, como bienes patrimoniales en la categoría de 
+patrimonio inmueble, de acuerdo a la ley Nº 17.288 de Patrimonio Cultural, que no estén 
+destinados a actividades económicas ni generen rentas de cualquier naturaleza.
+Solo para los efectos de la presente exención, y previo a dictar el decreto 
+respectivo, el Ministerio de las Culturas, las Artes y el Patrimonio remitirá los antecedentes al 
+Ministerio de Hacienda para su informe, individualizando el o los roles y el polígono de protección, 
+cuando esto último proceda, de los bienes raíces de interés cultural en la categoría de inmueble 
+respecto de los cuales el Ministerio de las Culturas, las Artes y el Patrimonio patrocine la 
+exención. En caso de informar favorablemente, el Ministerio de Hacienda, junto con remitir los 
+antecedentes al Ministerio de las Culturas, las Artes y el Patrimonio para la dictación del decreto 
+respectivo, remitirá copia del informe al Servicio de Impuestos Internos para que, de oficio y sin
+--- PÁGINA 12 ---
+más trámite, verifique que el bien raíz no esté destinado a actividades económicas ni genere 
+rentas de cualquier naturaleza.
+La exención procederá a partir del 1 de enero del año siguiente de expedido el 
+decreto respectivo.”.
+2) 
+Agréganse en el párrafo III, los siguientes numerales 3) y 4), nuevos, a la 
+letra A):
+“3) Los bienes raíces declarados por el Ministerio de las Culturas, las Artes y el 
+Patrimonio, mediante decreto supremo, como bienes patrimoniales en la categoría de patrimonio 
+inmueble, de acuerdo a la ley Nº 17.288 de Patrimonio Cultural, que, total o parcialmente, estén 
+destinados a actividades económicas o generen rentas de cualquier naturaleza.
+Solo para los efectos de la presente exención, y previo a dictar el decreto 
+respectivo, el Ministerio de las Culturas, las Artes y el Patrimonio remitirá los antecedentes al 
+Ministerio de Hacienda para su informe, individualizando el o los roles y el polígono de protección, 
+cuando esto último proceda, de los bienes raíces de interés cultural en la categoría de inmueble 
+respecto de los cuales el Ministerio de las Culturas, las Artes y el Patrimonio patrocine la 
+exención. En caso de informar favorablemente, el Ministerio de Hacienda, junto con remitir los 
+antecedentes al Ministerio de las Culturas, las Artes y el Patrimonio para la dictación del decreto 
+respectivo, remitirá copia del informe al Servicio de Impuestos Internos. Recibido el informe, de 
+oficio y sin más trámites, el Servicio de Impuestos Internos verificará la parte del inmueble que 
+está destinada a actividades económicas o que genere rentas de cualquier naturaleza y la parte 
+que no esté destinada a dichas actividades o que no genera rentas. Para aplicar la presente 
+exención o la establecida en el numeral 12) de la letra B) del párrafo II del presente Cuadro Anexo 
+se emitirán roles segregados.
+La exención procederá partir del 1 de enero del año siguiente de expedido el 
+decreto respectivo.
+4) Bienes raíces, o la parte de ellos, destinados a museos debidamente 
+inscritos en el Registro Nacional de Museos del Servicio Nacional del Patrimonio Cultural.
+Para tales efectos, el Servicio Nacional del Patrimonio Cultural informará al 
+Servicio de Impuestos Internos los bienes raíces destinados a museos inscritos, en la medida 
+que se inscriban. La exención procederá a partir del 1 de enero del año siguiente a la respectiva 
+inscripción.”.
+ARTÍCULO OCTAVO.-  
+ 
+Modifícase el artículo 8 de la ley N° 18.985 
+que Establece Normas sobre Reforma Tributaria, en el siguiente sentido:
+1) 
+Modifícase el numeral 1 del artículo 1°, de la siguiente manera:
+--- PÁGINA 13 ---
+a) 
+Reemplázase el párrafo segundo, por el siguiente: “También será 
+beneficiario el Servicio Nacional del Patrimonio Cultural, el que deberá destinar las donaciones 
+al Fondo del Patrimonio Cultural administrado por éste, cuando dicho destino se haya 
+especificado en la donación. Las donaciones realizadas al Servicio Nacional del Patrimonio 
+Cultural requerirán de autorización previa del Ministerio de Hacienda que, para estos efectos, 
+solicitará la aprobación de la Dirección de Presupuestos.”.
+b) 
+Reemplázase el párrafo tercero, por el siguiente: “Además, serán 
+beneficiarios los propietarios de bienes patrimoniales y de inmuebles de conservación histórica, 
+reconocidos respectivamente en la ley N° 17.288 y en el Plan Regulador correspondiente, así 
+como las entidades sin fines de lucro que, teniendo objeto patrimonial, cuenten con autorización 
+escrita de los propietarios de dichos bienes.”.
+c) 
+Reemplázase en el párrafo quinto, la frase “zonas típicas” por “zonas 
+patrimoniales”.
+2) 
+Agrégase en el numeral 1) del artículo 8°, agregando luego de la frase 
+“artículo siguiente” la frase “, sin perjuicio de lo dispuesto en su numeral 7”.
+3) 
+Modifícase el artículo 9°, en el siguiente sentido: 
+ 
+a) 
+Modifícase el párrafo primero del numeral 1, agregando entre las palabras 
+“talleres de formación” y “en general cualquier actividad” la frase “, mantención, reparación, 
+rehabilitación, restauración, habilitación o conservación de bienes declarados como patrimonio 
+mueble e inmueble o exposiciones, exhibiciones, itinerancias, curatorías o muestras referidas a 
+patrimonio mueble”.
+b) 
+Modifícase el párrafo segundo del numeral 1 en el siguiente sentido: 
+ 
+i. 
+Reemplázase la expresión “zonas típicas” por “zonas patrimoniales”; 
+ 
+ii. 
+Reemplázase la frase “propietarios de inmuebles declarados Monumento 
+Nacional” por la frase “propietarios de bienes declarados como patrimonio inmueble”;
+iii. 
+Reemplázase la palabra “monumentos” por la palabra “bienes”. 
+ 
+c) 
+Modifícase el párrafo segundo del numeral 2 en el siguiente sentido: 
+ 
+i. 
+Reemplázase la expresión “Monumentos Nacionales” por “bienes 
+patrimoniales”;
+ii. 
+Reemplázase la expresión “Consejo de Monumentos Nacionales” por 
+“Consejo Nacional del Patrimonio Cultural”;
+--- PÁGINA 14 ---
+d) 
+Agrégase el siguiente numeral 7, nuevo:  
+ 
+“7. “Las donaciones realizadas al Servicio Nacional del Patrimonio Cultural no 
+requerirán de la presentación de un proyecto ni de aprobación por el Comité.”
+4) 
+Reemplázase en el literal d), del inciso primero del artículo 10, la frase 
+“declarados monumento nacional, edificios o construcciones patrimoniales” por la frase “como 
+patrimoniales”.
+5) 
+Modifícase el inciso primero del artículo 11, reemplazando la segunda 
+conjunción “y” por una coma (“,”), y agregando antes del punto final la siguiente frase “y de las 
+donaciones efectuadas al Servicio Nacional del Patrimonio Cultural”.
+6) 
+En el artículo 12: 
+ 
+a) 
+Agrégase en el inciso tercero, luego del punto final que pasa a ser seguido 
+la frase “Asimismo, el Comité deberá mantener actualizada la información sobre las donaciones 
+efectuadas al Servicio Nacional del Patrimonio Cultural, conforme lo informado por este.”.
+b) 
+Agrégase el siguiente inciso octavo nuevo, pasando el actual octavo a ser 
+noveno: “El Servicio Nacional del Patrimonio Cultural deberá informar al Comité las donaciones 
+que se le hubieren realizado dentro del plazo de 30 días desde que sean recibidas.”.
+7) 
+Modifícase el artículo 19, reemplazando la letra “y” que sigue a la frase 
+“contenidos en esta ley”, por una coma “,” y agregando después de la frase “del número de 
+proyectos aprobados por el Comité” la frase “, y de las donaciones efectuadas al Servicio 
+Nacional del Patrimonio Cultural”.
+8) 
+Agrégase en el artículo 20 la siguiente letra d, nueva:  
+ 
+“d. Número de contribuyentes que hayan efectuado donaciones al Servicio 
+Nacional del Patrimonio Cultural, y los montos efectivamente recibidos.”.
+Disposiciones transitorias 
+ 
+Artículo cuarto.- El Presidente de la República, mediante uno o más decretos 
+expedido por intermedio del Ministerio de Hacienda, modificará el presupuesto de la 
+Subsecretaría del Patrimonio Cultural, Subsecretaría de las Culturas y las Artes, y del Servicio 
+Nacional del Patrimonio Cultural, pudiendo al efecto crear, suprimir o modificar las partidas, 
+capítulos, programas, ítems, asignaciones y glosas presupuestarias que sean pertinentes para 
+la aplicación de la presente ley.
+Artículo décimo cuarto.- El beneficio contemplado en el artículo 57 de la ley N° 
+17.288, incorporado por el numeral 11) del artículo primero de la presente ley, entrará en vigencia
+--- PÁGINA 15 ---
+en forma gradual en el transcurso de cinco años consecutivos, contándose el primer año a partir 
+del primero de enero del año siguiente a la entrada en vigencia del articulado permanente de 
+esta ley, según lo dispuesto en el numeral 2. del artículo primero transitorio, y así sucesivamente, 
+según la calificación de los inmuebles respecto de los cuales se apruebe el proyecto de 
+mantención, rehabilitación, restauración o conservación, contenidos en el Plan de Gestión 
+Patrimonial, lineamientos de intervención o planos de detalle, según corresponda, de acuerdo al 
+siguiente orden:
+a) 
+Museos inscritos en el Registro Nacional de Museos del Servicio Nacional 
+del Patrimonio Cultural.
+b) 
+Patrimonio Inmueble. 
+c) 
+Inmuebles situados en una zona patrimonial. 
+d) 
+Inmuebles de conservación histórica. 
+e) 
+Inmuebles situados en una zona de conservación histórica. 
+ 
+Artículo décimo quinto.- El Servicio Nacional del Patrimonio Cultural remitirá al 
+Servicio de Impuestos Internos, dentro de los treinta días hábiles siguientes a la entrada en 
+vigencia del articulado permanente de esta ley, según lo dispuesto en el numeral 2. del artículo 
+primero transitorio, el listado de los bienes raíces destinados a museos, inscritos a dicha fecha 
+en el Registro Nacional de Museos, para efectos de dar curso, a partir del primero de enero del 
+año siguiente a la referida fecha, a la exención del Impuesto Territorial señalada en el número 4) 
+de la Letra A, del párrafo III, del Cuadro Anexo de la ley N° 17.235.
+Artículo décimo séptimo. - El mayor gasto fiscal que represente la aplicación de 
+esta ley durante su primer año presupuestario de vigencia se financiará con cargo a la partida 
+presupuestaria del Ministerio de las Culturas, las Artes y el Patrimonio. No obstante lo anterior, 
+el Ministerio de Hacienda con cargo a la partida presupuestaria Tesoro Público, podrá 
+suplementar dicho presupuesto en la parte del gasto que no se pudiere financiar con tales 
+recursos. En los años siguientes se financiará con cargo a los recursos que se establezcan en 
+las respectivas leyes de presupuestos del sector público.
+Todas las disposiciones precedentes fueron aprobadas por diez votos a 
+favor y uno en contra. Votaron a favor los diputados(a) Cid, Díaz, Hernández, Lorenzini, 
+Mellado, don Cosme, Mellado, don Miguel, Ortiz, Pérez, Schilling y Von Mühlenbrock. Votó 
+en contra el diputado Barrera.
+Quedó pendiente el tratamiento de todas las demás indicaciones 
+presentadas durante la sesión.
+4. ACUERDOS
+No se adoptaron acuerdos.
+--- PÁGINA 16 ---
+Las diversas intervenciones constan en el registro audiovisual de esta 
+sesión, que contiene el debate en su integridad.1
+Por haberse cumplido el objeto de esta sesión, se levantó a las 16:46 horas.
+-----
+MARÍA EUGENIA SILVA FERRER
+Secretaria de la Comisión
+1 Disponible en: http://www.democraciaenvivo.cl/

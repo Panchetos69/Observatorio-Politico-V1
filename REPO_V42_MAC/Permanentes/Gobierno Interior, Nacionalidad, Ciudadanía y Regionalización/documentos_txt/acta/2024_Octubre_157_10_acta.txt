@@ -1,0 +1,974 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=15507&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 03:44:29
+======================================================================
+
+--- PÁGINA 1 ---
+COMISIÓN DE GOBIERNO INTERIOR, NACIONALIDAD, CIUDADANÍA Y
+REGIONALIZACIÓN 
+PERÍODO LEGISLATIVO 2022 – 2026
+372ª LEGISLATURA 
+ 
+ACTA DE LA 157ª SESIÓN, ORDINARIA, CELEBRADA EL MARTES 1 DE OCTUBRE DE 
+2024, DE 15.03 A 16.52 HORAS.
+SUMARIO: La Comisión se reunió con el objeto de abordar la siguiente Tabla:
+1) Continuar la discusión general del proyecto de ley de origen en mensaje y en 
+primer trámite constitucional, que moderniza la regulación del lobby y las gestiones de 
+intereses particulares ante autoridades y funcionarios (boletín Nº16.888-06).
+2) Continuar con la discusión y votación particular del proyecto de ley, de origen 
+en mensaje, en primer trámite constitucional y con urgencia calificada de “suma”, que 
+modifica la ley Nº21.325, de Migración y Extranjería, y otros cuerpos legales, en las 
+materias que indica (boletín Nº16.072-06). Vencimiento de la urgencia: 10 de octubre.
+I.- PRESIDENCIA
+Presidió la sesión el diputado señor Rubén Oyarzo y, accidentalmente, la diputada 
+señora Joanna Pérez.
+Actuó como abogado secretario de la Comisión, el señor Juan Carlos Herrera; como 
+abogada ayudante, la señora Carolina Aqueveque; y como secretaria ejecutiva, la señorita 
+Marcela Requena.
+II.- ASISTENCIA
+Asistieron las diputadas señoras Camila Musante, Catalina Pérez, Joanna Pérez y 
+Carolina Tello; y los diputados señores Miguel Becker, Bernardo Berger, Fernando Bórquez, 
+Juan Fuenzalida, Cosme Mellado, José Carlos Meza, Rubén Oyarzo (presidente) y Matías 
+Ramírez.
+Además, asistió el diputado no integrante de la Comisión, señor Renzo Trisotti.
+Para abordar el proyecto de ley consignado en el primer lugar de la Tabla (boletín 
+N°16.888-06), se recibió en audiencia: a) Al presidente del Consejo para la Transparencia, 
+señor Bernardo Navarrete Yáñez, acompañado de su jefe de gabinete, señor Juan Felipe 
+Villanueva; del director general del organismo, señor David Ibaceta Medina; de la directora 
+jurídica, señora Ana María Muñoz; del jefe de la Unidad Normativa y Regulación, señor 
+Alejandro González Guajardo; y del consejero de la entidad, señor Roberto Munita; y, b) Al 
+asesor de la División de Anticorrupción e Integridad del Directorado de Gobernanza Pública 
+de la OCDE, señor Frédéric Boehm. Además, en representación del Ejecutivo se contó con 
+la participación de la secretaria ejecutiva de la Comisión Asesora Presidencial para la 
+Integridad Pública y Transparencia, señora Valeria Lübbert.
+Respecto del proyecto de ley consignado en el segundo lugar de la Tabla (boletín 
+N°16.072-06), participaron de la discusión el director del Servicio Nacional de Migraciones, 
+señor Luis Thayer Correa, acompañado de su jefe de gabinete, señor Nicolás Torrealba; y de 
+la asesora del subsecretario del Interior, señora Karina Uribe.
+En calidad de asistente permanente, concurrió la asesora de la Biblioteca del Congreso 
+Nacional (BCN), señora Gabriela Dazarola. Y, además, el director de la Unidad de 
+Seguimiento Legislativo de la Asociación Chilena de Municipalidades (ACHM), señor Miguel 
+Moreno, junto al asesor de dicha entidad, señor Jorge Lama.
+Firmado por Juan Carlos Herrera Infante
+Fecha 10/10/2024 08:35:43 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 634BB371704C6F3B
+--- PÁGINA 2 ---
+2
+III.- ACTAS1
+Las actas de las sesiones 153ª especial, 154ª ordinaria y 155ª especial se declararon 
+aprobadas por no haber sido objeto de observaciones.
+No hubo actas a disposición.
+IV.- CUENTA2
+Se recibieron los siguientes documentos:
+1.- Oficio Nº1661-372, de S.E. el presidente de la República, mediante el cual retira y 
+hace presente la urgencia, calificada de "suma", para el despacho del proyecto de ley que 
+reconoce y fortalece a las ferias libres como pilar de la alimentación y el desarrollo local, 
+otorgando un marco jurídico integral para ellas (boletín N°17.117-03).
+2.- Pareo presentado entre los diputados señores Matías Ramírez y Bernardo Berger.
+V.- VARIOS
+Los diputados señores Berger y Meza, y la diputada señora Musante efectuaron 
+diversas solicitudes, las cuales, por haberse acordado por unanimidad y sin previo debate, se 
+consignan en el acápite final de la presente acta.
+VI.- ORDEN DEL DÍA
+1) Continuar la discusión general del proyecto de ley de origen en mensaje y en 
+primer trámite constitucional, que moderniza la regulación del lobby y las gestiones de 
+intereses particulares ante autoridades y funcionarios (boletín Nº16.888-06).
+Presidente del Consejo para la Transparencia, señor Bernardo Navarrete Yáñez; y 
+director general del organismo, señor David Ibaceta Medina
+Los invitados efectuaron una presentación3 ante la Comisión, en virtud de la cual se 
+refirieron a los siguientes tópicos:
+I. Observaciones: Oportunidades y riesgos
+Respecto de la regulación de la actividad de Lobby
+Las oportunidades que se presentan a consecuencia de la regulación propuesta son:
+1.- La actualización de la regulación sobre lobby puede servir de ejemplo y marcar la 
+pauta respecto de la actualización de otras normativas, tales como la Ley de Transparencia y 
+la Ley de Probidad en la Función Pública.
+2.- El informe de la OCDE reconoce en nuestra regulación sobre lobby un sistema líder, 
+por lo que perfeccionarla contribuye a la protección de la toma de decisiones públicas frente 
+a los riesgos de la influencia indebida.
+3.- La ampliación de sujetos pasivos, como la incorporación de nuevas actividades de 
+lobby, dotará de mayor transparencia a las actividades destinadas a influir en la toma de 
+decisiones públicas. Se da claridad a situaciones no reguladas hoy, por ejemplo, el registro 
+de audiencias requeridas por la autoridad.
+4.- La supresión de la distinción entre dos categorías de sujetos activos -lobista y gestor 
+de intereses-, va en la línea de las recomendaciones de la OCDE y otorga mayor claridad a 
+la regulación.
+1 Disponibles en https://www.camara.cl/legislacion/comisiones/sesiones.aspx?prmID=3314&prmIdTipo=2101
+2 Disponible en https://www.camara.cl/verDoc.aspx?prmID=328839&prmTipo=DOCUMENTO_COMISION
+3 Disponible en https://www.camara.cl/verDoc.aspx?prmID=328349&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 3 ---
+3
+5.- Las obligaciones de publicidad y reporte para los medios de comunicación social 
+dotan a la actividad de lobby de mayor transparencia y fortalecen los deberes de rendición de 
+cuentas de todos los involucrados.
+6.- Avances en materia de fiscalización y sanción de los particulares que ejercen la 
+actividad de lobby al definir un procedimiento ante las infracciones a la ley, que es una de las 
+principales cuestiones que se han identificado como deficientes en la regulación vigente.
+7. Incorporación de nuevas exigencias de publicidad, como la publicación de la agenda 
+de la autoridad, o la divulgación de información relevante de las comisiones asesoras, las 
+cuales dotan de más transparencia la actividad pública.
+Por otra parte, los riesgos por sus implicancias serían los siguientes:
+1.- Tiempos involucrados en la tramitación legislativa, las prioridades del Ejecutivo y los 
+parlamentarios, además de los propios intereses de los involucrados.
+2.- Falta de una autoridad de control con competencias que alcancen a todos los sujetos 
+pasivos y la subsistencia de registros diferenciados según órgano (fiscalización y sanción).
+3.- El artículo 25 del proyecto que se refiere a la investigación y sanción en caso de 
+infracción para los representantes de intereses hace una remisión al procedimiento monitorio 
+del Código Procesal Penal, sin explicitar quien será el órgano especifico que llevará a cabo 
+dicha labor.
+4. Las eventuales formas de elusión de los deberes de publicidad y reportes de 
+información establecidos para los representantes calificados de intereses.
+Respecto del Consejo para la Transparencia (CPLT)
+Las oportunidades que se presentan a consecuencia de la regulación propuesta son:
+1.- Avance hacia el posicionamiento del CPLT en su calidad de órgano garante de la 
+transparencia y publicidad, asumiendo nuevas funciones y atribuciones en la Ley de Lobby, 
+en especial potestades de fiscalización y sanción respecto de representantes calificados de 
+intereses.
+2.- El reconocimiento que efectúa la OCDE a la plataforma electrónica de InfoLobby y 
+la consideración respecto a que el CPLT asuma nuevas competencias en el marco de la 
+regulación del lobby, en materia de calificación, fiscalización y sanción.
+3.- Posibilidad de que InfoLobby constituya la plataforma única que dará cuenta de los 
+registros de lobby, tanto de los órganos autónomos constitucionales como aquellos de la 
+Administración del Estado (art. 9, celebración de convenios con CPLT) y la posibilidad de 
+desarrollar nuevas herramientas tecnológicas para la operación de dicho portal.
+4.- Extensión de las obligaciones de publicidad de manera expresa a particulares 
+(representantes calificados de intereses).
+5.- Incorporación y desarrollo de nuevas habilidades en equipos del CPLT: (i) calificación 
+de representantes de intereses; (ii) fiscalización cumplimiento de ley por particulares; (iii) 
+sanciones por incumplimiento; (iv) interoperabilidad con plataformas de órganos autónomos 
+constitucionales y otros; (v) recepción y publicidad de las comunicaciones que efectúen los 
+medios de comunicación social.
+Por otra parte, los riesgos por sus implicancias serían los siguientes:
+1.- El presupuesto informado en el informe financiero del proyecto puede resultar 
+insuficiente para el desarrollo e implementación de las nuevas funciones y atribuciones.
+--- PÁGINA 4 ---
+4
+2.- La fiscalización de sujetos particulares (personas naturales y jurídicas) representa 
+también un riesgo (y un desafío), puesto que son competencias que exceden las atribuciones 
+ejercidas tanto en el marco de la Ley de Transparencia, como en el marco de la regulación 
+vigente sobre lobby. No existe estimado de sujetos obligados. Comprende nuevos procesos 
+a cargo como las solicitudes de exclusión.
+3.- Los procesos de revisión, análisis y resolución de las reposiciones que los 
+representantes calificados requieran al CPLT, por dicha calificación. Deberá dimensionarse 
+los recursos necesarios en tiempo y personal para poder afrontar dichos procesos.
+4.- La defensa judicial del CPLT ante las Cortes de Apelaciones, tratándose de la 
+revisión de los procesos de calificación.
+5.- La revisión de eventuales inhabilidades de los consejeros del Consejo Directivo del 
+CPLT, que surjan a consecuencia de las nuevas competencias –principalmente por los sujetos 
+obligados-, y que puede tener eventuales consecuencias en materia de quórums necesarios 
+para adoptar acuerdos.
+6.- Respecto de las obligaciones de remisión de información al CPLT por parte de los 
+medios de comunicación, se puede abrir un espacio de discusión respecto a qué clase de 
+mensaje es susceptible de ser remitido al CPLT. También respecto del manejo de la 
+información que se recibirá cada tres meses por el CPLT.
+7.- Las labores relacionadas con la gestión documental y cómo administrar una 
+indeterminada cantidad de información que el proyecto establece que se deberá remitir al 
+Consejo, impondrán nuevos desafíos a los procesos y sistemas internos.
+8.- En el marco de las calificaciones y solicitudes de exclusión, el proyecto no considera 
+mecanismos de interoperabilidad para coordinar debidamente al Consejo con otros órganos 
+de la Administración Estado (Servicio de Impuestos Internos y/o Comisión para el Mercado 
+Financiero).
+9.- El proyecto señala que las personas jurídicas que tengan ingresos anuales inferiores 
+a 2.400 unidades de fomento en el último año calendario podrán solicitar al CPLT ser excluidas 
+de ser denominados representantes calificados de intereses, al igual que sus empleados. 
+Sobre el particular, se sugiere que se entreguen facultades al Servicio de Impuestos Internos 
+para determinar dicha circunstancia, y que sea dicho órgano quien remita la información 
+pertinente al Consejo para la Transparencia.
+II. Propuestas normativas
+Propuestas generales al proyecto de ley
+1.- Establecer claramente en la ley los requisitos para ser considerado representante 
+calificado de intereses (RCI).
+¿Por qué?: Para que el CPLT sólo deba determinar si un representante cumple o no con 
+dichos requisitos, sin consideraciones de mérito. Con ello, se otorgará mayor certeza a la labor 
+de calificación, sobre la base de criterios objetivos, establecidos en la ley y se reducirán los 
+espacios para reposiciones y reclamaciones.
+Al respecto, se sugiere aclarar los criterios utilizados para definir la calidad de RCI 
+respecto de número de audiencias sostenidas (7) y criterio de 2.400 UF para exclusión.
+2.- Facultar al CPLT para dictar instrucciones generales.
+¿Por qué?: Para que el CPLT pueda, mediante sus facultades reglamentarias, 
+especificar los procedimientos asociados a las distintas obligaciones que le impone el 
+proyecto de ley. En general, para los efectos de precisar detalles procedimentales.
+--- PÁGINA 5 ---
+5
+Al respecto, se sugiere establecer la facultad de que el CPLT dicte instrucciones 
+generales, de carácter procedimental, vinculantes para quienes se relacionen con esta 
+corporación en el marco de la ley de lobby (RCI y MCS).
+Propuestas particulares al proyecto de ley
+* Artículo 2 Nº5: Criterios determinación de RCI
+Propuesta: Robustecer las hipótesis para que los representantes de intereses sean 
+catalogados como calificados, por ejemplo, abordando qué sucede frente al lobby que 
+efectúan grupos empresariales.
+¿Por qué?: Con el objeto de limitar los espacios para eludir deliberadamente el sistema.
+* Artículo 2 Nº1: Definición de Lobby / Art. 8: Deber de registro del sujeto pasivo
+Propuesta:
+- Incorporar en la definición de Lobby todo tipo de comunicación o contacto efectuado 
+por un lobista con un sujeto pasivo, por cualquier medio (correo electrónico, vía telefónica, 
+WhatsApp u otro).
+- Se sugiere que el sujeto pasivo registre todo tipo de comunicación o contacto efectuado 
+por un lobista, por cualquier medio.
+¿Por qué?: Para que en la definición se subsuman todas aquellas posibilidades de 
+contacto entre el mundo privado y el público, en el contexto de la influencia legítima en la toma 
+de decisiones. Además, para avanzar en la línea de las recomendaciones OCDE.
+* Artículo 12 ter inc. 4° Eliminación calificación RCI / Artículo 12 ter inc. 5° y 6° 
+Solicitud de exclusión de la calificación de representante calificado de intereses ante 
+el CPLT
+Propuesta: Conferir atribuciones al Servicio de Impuestos Internos para informar al 
+CPLT sobre los ingresos de los representantes, en el procedimiento de exclusión de la 
+calificación.
+¿Por qué?
+- Porque existe reserva legal respecto de dicha información (artículo 35 Código 
+Tributario).
+- Dado que el CPLT no tiene las atribuciones ni la experiencia para efectuar análisis 
+económicos o financieros y determinar los ingresos de los sujetos activos.
+- Se debe considerar además que el CPLT debe por ley velar por la debida reserva de 
+los datos e informaciones que conforme a la Constitución y a la ley tengan carácter secreto o 
+reservado.
+* Artículo 25: Sanciones aplicables a los particulares (no RCI)
+Propuesta: Determinar expresamente quién está a cargo de la sustanciación del 
+procedimiento sancionatorio respecto de los representantes no calificados.
+¿Por qué? Porque la norma propuesta define el procedimiento, pero no el tribunal 
+competente, lo cual debe especificarse en conformidad con lo dispuesto en el inciso 5° del 
+N°3 del artículo 19 de la CPR.
+* Artículo 26: Procedimiento sancionatorio CPLT respecto de representantes 
+calificados de intereses
+Propuesta: Establecer un marco más robusto en el ámbito de las sanciones que dispone 
+el proyecto de ley para los sujetos activos infractores.
+--- PÁGINA 6 ---
+6
+¿Por qué? Con la finalidad de que el CPLT pueda aplicar las sanciones según la 
+magnitud de infracción, si se trata de reincidencias, si existen circunstancias agravantes o 
+atenuantes, entre otras consideraciones (En línea con las recomendaciones de la OCDE).
+Propuesta: Especificar legitimación activa para reclamar de ilegalidad en contra de la 
+sanción, reemplazando la palabra “afectado” por “sancionado”.
+¿Por qué? Con la finalidad de abordar la observación de la Corte Suprema en el sentido 
+de que no habría claridad sobre quién es el afectado (afectado con la sanción / tercero 
+interesado) y así dar certeza a la normativa.
+* Artículo 15 y siguientes: Sanciones a sujetos pasivos
+Propuesta: Reflexionar sobre el régimen de sanciones establecidas en el proyecto de 
+ley: multa de 20 a 50 UTM, en línea con las recomendaciones de la OCDE.
+¿Por qué?:
+- Para desincentivar de modo eficiente las infracciones a la ley por parte de los sujetos 
+pasivos.
+- Porque una de las principales críticas a la ley vigente es la entidad de las sanciones.
+* Artículo 8 N°1: Registro de audiencias
+Propuestas:
+- Incorporar al registro “la solicitud de audiencia”.
+- Incorporar información al registro sobre quién solicitó la audiencia.
+- Incorporar la obligación de registrar no solo las audiencias aceptadas, sino también las 
+rechazadas. (*con todo, estas últimas no se considerarán para calificar como RCI).
+¿Por qué?:
+Con el objetivo de transparentar toda la información asociada a una audiencia, en línea 
+con las recomendaciones de la OCDE, y así poder garantizar que los registros de lobby se 
+encuentren completos y debidamente actualizados.
+Por su parte, la propuesta N°3) tiene la finalidad de garantizar el acceso en igualdad de 
+oportunidades a las autoridades y funcionarios obligados, sin discriminaciones arbitrarias, y, 
+además, avanzar en la línea de las recomendaciones de la OCDE.
+* Artículo 12 bis, inc. 2° de la Ley N°19.733, sobre libertades de opinión e 
+información y ejercicio del periodismo: Deber de información de los medios de 
+comunicación al CPLT
+Propuesta: Aclarar qué se considerará para estos efectos un “medio de comunicación 
+social” (MCS).
+¿Por qué? Atendidas las discusiones sobre el alcance del artículo 2° de la ley N°19.733, 
+en el sentido de que dicha disposición no incluye las RRSS, y considerando la relevancia que 
+estas tienen en la actualidad, parece relevante discutir explícitamente si quedarán 
+comprendidas dentro de la regulación propuesta por el proyecto de ley.
+Propuesta: Facultar al CPLT para dictar instrucciones generales sobre el proceso de 
+envío de información desde los MCS a esta Corporación, en conformidad con lo propuesto 
+por el proyecto de ley.
+¿Por qué?: Para posibilitar que el CPLT determine mediante normativa vinculante los 
+aspectos procedimentales (periodicidad, forma de comunicación, contacto, entre otros) 
+asociados a esta nueva obligación para los MCS.
+--- PÁGINA 7 ---
+7
+*****
+Concluida la intervención del CPLT, el diputado señor Meza, junto con felicitar la 
+exposición, reparó en que hay propuestas que son de resorte exclusivo del Ejecutivo, por 
+ejemplo, conferir atribuciones al Servicio de Impuestos Internos para informar al CPLT sobre 
+los ingresos de los representantes, para el procedimiento de exclusión de la calificación.
+La secretaria ejecutiva de la Comisión Asesora Presidencial para la Integridad 
+Pública y Transparencia, señora Valeria Lübbert afirmó que, sin duda, el Ejecutivo 
+analizará si es posible recoger por la vía de indicaciones las distintas propuestas que el CPLT 
+ha planteado como espacios de mejora respecto de esta iniciativa.
+Sin perjuicio de lo anterior, de la propia exposición del Consejo es posible vislumbrar la 
+necesidad de este proyecto y la oportunidad que este representa para avanzar en una 
+legislación de punta, que se haga cargo de las recomendaciones internacionales y que 
+permita al país contar con mejores estándares de transparencia en la relación público-privada.
+Hay muchas de las ideas del proyecto de ley que el CPLT rescata, y lo que procede 
+ahora es garantizar que no quede ningún flanco en la regulación, por lo que el Ejecutivo está 
+totalmente disponible para analizar esta y otras propuestas en su mérito, más aun las que son 
+de iniciativa exclusiva del presidente de la República.
+Por otra parte, admitió que, desde luego, este proyecto de ley implicará desafíos para 
+el CPLT, por las nuevas competencias que se le asignan. Por eso el informe financiero 
+contempla mayores recursos, no solo para la infraestructura o soporte informático que se va 
+a requerir, sino que también para poder contar con mas personal que se haga cargo de ejercer 
+esas nuevas atribuciones.
+El diputado señor Cosme Mellado valoró la presentación del CPLT y celebró que el 
+proyecto de ley venga a modernizar este ámbito. Por otra parte, consultó si las sanciones que 
+actualmente establece la ley se aplican, y si el Consejo dispone del personal suficiente para 
+cumplir con sus labores.
+El presidente del CPLT, señor Navarrete afirmó que siempre se necesitará más 
+personal y más recursos cuando una nueva ley impone nuevas atribuciones. Acotó que esta 
+es una queja muy frecuente de los gobiernos locales, y con toda razón, pues es una muy mala 
+costumbre entregar facultades a los organismos, sobre todo autónomos, sin las capacidades 
+financieras para poder llevarlas a cabo. Por eso, el CPLT insistirá en este punto.
+Por otro lado, afirmó que las sanciones que se imponen sí se cumplen, y el CPLT puede 
+seguir sancionando cada vez que se incumple la norma.
+Asesor de la División de Anticorrupción e Integridad del Directorado de 
+Gobernanza Pública de la OCDE, señor Frédéric Boehm
+El invitado expuso ante la Comisión una presentación4 titulada: Recomendaciones 
+OCDE basadas en el informe “La Regulación del Lobby y de la Influencia en Chile” y la 
+Recomendación del Consejo de la OCDE sobre transparencia e integridad en las actividades 
+de lobby e influencia.
+Recomendación de la OCDE sobre transparencia e integridad en las actividades de 
+lobby e influencia
+- Adoptada el 2010 y revisada por el Consejo de la OCDE a nivel ministerial el 3 de mayo 
+de 2024.
+4 Disponible en https://www.camara.cl/verDoc.aspx?prmID=328456&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 8 ---
+8
+- Proporciona orientación concreta para que los gobiernos garanticen que las 
+actividades de lobby e influencia apoyen la toma de decisiones públicas efectivas.
+- Primer estándar internacional que ofrece una visión panorámica del lobby y la 
+influencia para apoyar a los gobiernos en la tarea de limitar los riesgos de influencia indebida.
+La Ley del Lobby en Chile: un sistema líder entre los países de la OCDE que debe 
+reforzarse
+Principales puntos fuertes de la Ley del Lobby en Chile:
+1.- La ley abarca el lobby a nivel local.
+2.- La ley incluye obligaciones de transparencia y normas de integridad para sujetos 
+pasivos.
+3.- El Consejo para la Transparencia desarrolló una plataforma de transparencia – 
+InfoLobby – que figura entre las mejores prácticas de los países de la OCDE.
+Áreas de mejora:
+1.- Escasa transparencia sobre todos los actores y actividades de lobby (sólo cubre las 
+audiencias y reuniones de lobbistas / gestores de intereses con funcionarios públicos).
+2.- Ausencia de obligaciones de transparencia para lobbistas sobre todas las otras 
+herramientas de lobby.
+3.- El marco institucional para el lobby en Chile carece de un organismo centralizado e 
+independiente para administrar registros, verificar la información divulgada y realizar 
+investigaciones.
+Informe de la OCDE sobre la Regulación del Lobby y de la Influencia en Chile
+El informe propone 33 recomendaciones estructuradas en los siguientes cuatro pilares:
+1.- Marco legal (ámbito de aplicación). La transparencia efectiva de las actividades de 
+lobby e influencia depende de un marco jurídico sólido, con definiciones claras y adaptadas a 
+las evoluciones recientes del panorama del lobby y de la influencia.
+2.- Transparencia. La transparencia sobre las actividades de lobby y de influencia debe 
+garantizar que se divulgue en línea, de fácil acceso y en un formato de datos abiertos, con 
+información comprensiva y pertinente sobre quién está realizando actividades de lobby, sobre 
+qué temas y cómo.
+3.- Integridad. La solidez de un marco regulatorio sobre el lobby también depende de la 
+integridad tanto de los funcionarios públicos como de quienes intentan influir en ellos.
+4.- Supervisión y Cumplimiento. Las funciones de supervisión son un elemento esencial 
+para garantizar una regulación eficaz de las actividades de lobby e influencia.
+Principales aspectos positivos del proyecto de ley
+Muchas de las recomendaciones de la OCDE fueron tomadas en cuenta en la 
+elaboración del proyecto de ley, a saber:
+PROYECTO DE LEY
+INFORME OCDE 
+ESTÁNDAR OCDE
+(Marco legal)
+Se suprime la distinción entre 
+lobbista y gestor de interés 
+particular. En su lugar, se crea 
+la 
+categoría 
+única 
+de 
+''representante de intereses'' 
+(art.2).
+[2.2.1] Suprimir el criterio de 
+remuneración para distinguir 
+entre «lobbistas» y «gestores 
+de intereses particulares» y 
+fusionar estos términos en un
+V. 
+RECOMIENDA 
+(…) 
+aumentar transparencia sobre 
+las actividades de lobby e 
+influencia de todos los actores 
+de 
+lobby 
+e 
+influencia, 
+en 
+particular 
+empresas,
+--- PÁGINA 9 ---
+9
+asociaciones empresariales y 
+comerciales, organizaciones no 
+gubernamentales etc. 
+PROYECTO DE LEY
+concepto 
+único 
+como 
+«representante de intereses».
+INFORME OCDE 
+ESTÁNDAR OCDE
+(Marco legal)
+Se contempla como decisión 
+susceptible de actividades de 
+lobby 
+“la 
+designación 
+o 
+aprobación de nombramientos 
+de 
+personas 
+para 
+cargos 
+públicos en los que intervenga 
+el Senado o la Cámara de 
+Diputados.” (art.5).
+[2.1.3] La lista de decisiones 
+públicas que son objeto de 
+actividades de lobby podría 
+ampliarse 
+para 
+incluir 
+nombramientos 
+de 
+puestos 
+gubernamentales clave.
+III. RECOMIENDA que los 
+Miembros 
+fortalezcan 
+la 
+transparencia y apertura de las 
+actividades 
+de 
+lobby 
+e 
+influencia en los procesos de 
+toma de decisiones públicas 
+[…].
+PROYECTO DE LEY
+INFORME OCDE 
+ESTÁNDAR OCDE
+(Transparencia)
+Se establece la obligación para 
+los sujetos pasivos de registrar 
+todas las reuniones de lobby 
+sostenidas, 
+independientemente 
+de 
+si 
+fueron solicitadas por la o el 
+sujeto pasivo o activo (art.8).
+[3.2.1] Se podrían ampliar las 
+obligaciones 
+de 
+divulgación 
+para 
+las 
+autoridades 
+y 
+funcionarios públicos, además 
+de las audiencias celebradas, 
+para 
+abarcar 
+todas 
+las 
+reuniones 
+solicitadas 
+por 
+sujetos pasivos, así como las 
+reuniones 
+solicitadas 
+por 
+sujetos pasivos con sujetos 
+activos y en las que se 
+produjeron 
+actividades 
+de 
+lobby.
+III. RECOMIENDA que los 
+Miembros 
+fortalezcan 
+la 
+transparencia y apertura de las 
+actividades 
+de 
+lobby 
+e 
+influencia en los procesos de 
+toma de decisiones públicas 
+[…].
+PROYECTO DE LEY
+INFORME OCDE 
+ESTÁNDAR OCDE
+(Transparencia)
+Dentro de las obligaciones de 
+los representantes calificados 
+de intereses se encuentra la de 
+publicitar 
+toda 
+forma 
+de 
+comunicación que tenga por 
+objeto el lobby (art.12 bis).
+[2.2.3] La definición de lobby y 
+la 
+lista 
+de 
+actividades 
+consideradas 
+como 
+tales 
+podrían ampliarse para abarcar 
+formas indirectas de influencia. 
+ 
+[3.2.3] Los registros de agenda 
+pública 
+podrían 
+complementarse 
+con 
+un 
+Registro de Lobbistas, en el 
+cual 
+los 
+sujetos 
+activos 
+deberían 
+cumplir 
+unos 
+requisitos 
+de 
+divulgación 
+adicionales.
+V d) Asegurar que existan 
+marcos para que los actores de 
+lobby 
+e 
+influencia 
+hagan 
+accesible al público información 
+pertinente 
+sobre 
+sus 
+actividades 
+de 
+lobby 
+e 
+influencia, incluidas actividades 
+dirigidas a persuadir a cualquier 
+sección del público o los medios 
+de comunicación con respecto 
+a los procesos de toma de 
+decisiones públicas (…).
+PROYECTO DE LEY
+INFORME OCDE 
+ESTÁNDAR OCDE
+(Integridad)
+Se prohíbe el ingreso a cargos 
+en la Administración del Estado 
+a representantes calificados de 
+intereses, que hayan ejercido 
+directamente actividades de 
+lobby durante los últimos 12 
+meses ante la institución a la 
+que se pretenden incorporar.
+[4.2.2] El Gobierno de Chile 
+podría reforzar la legislación de 
+modo 
+que 
+gestione 
+adecuadamente el fenómeno 
+de las puertas giratorias.
+VII. RECOMIENDA que los 
+Adherentes implementen un 
+sistema efectivo para gestionar 
+los riesgos de pre/post cargo 
+público 
+y 
+empleo 
+y 
+otras 
+situaciones de conflicto de 
+intereses (…).
+--- PÁGINA 10 ---
+1
+Se 
+prohíbe 
+desarrollar 
+actividades de lobby por parte 
+de 
+exfuncionarios 
+o 
+exautoridades 
+ante 
+las 
+instituciones en la que se 
+desempeñaban como sujetos 
+pasivos, por el período de 2 
+años.
+PROYECTO DE LEY
+INFORME OCDE 
+ESTÁNDAR OCDE
+(Integridad)
+Se establece que los medios de 
+comunicación social deberán 
+indicar si el mensaje que 
+transmiten 
+corresponde 
+a 
+comunicación 
+pagada, 
+identificando al patrocinador 
+(art.12 bis, ley No.19.733).
+V d) Asegurar que existan 
+marcos para que los actores de 
+lobby 
+e 
+influencia 
+hagan 
+accesible al público información 
+pertinente 
+sobre 
+sus 
+actividades 
+de 
+lobby 
+e 
+influencia, incluidas actividades 
+dirigidas a persuadir a cualquier 
+sección del público o los medios 
+de comunicación (…). 
+PROYECTO DE LEY 
+(Supervisión y cumplimiento)
+[4.3.3] El marco legal más 
+amplio podría modificarse para 
+reforzar la transparencia de las 
+estructuras de propiedad y 
+financiación de las empresas de 
+medios 
+de 
+comunicación, 
+incluida la propiedad efectiva, 
+así como la transparencia en 
+torno a todos los contenidos y la 
+publicidad patrocinados.
+INFORME OCDE 
+ESTÁNDAR OCDE
+Se otorgan nuevas atribuciones 
+de fiscalización y sanción al 
+Consejo para la Transparencia. 
+ 
+Se consagra un catálogo de 
+sanciones para los sujetos 
+activos (art.25 a 27).
+X. 
+RECOMIENDA 
+que 
+los 
+Adherentes aseguren que haya 
+una función de supervisión 
+sobre las actividades de lobby e 
+influencia con la capacidad de 
+hacer cumplir las políticas y 
+regulaciones y monitorear y 
+promover su implementación 
+(…). 
+ 
+X b) Proveer sanciones justas, 
+objetivas, 
+proporcionales, 
+oportunas y disuasorias por el 
+incumplimiento de las políticas 
+y regulaciones sobre lobby e 
+influencia (…) 
+PROYECTO DE LEY 
+(Transparencia e Integridad)
+[5.2.1] Se podría encomendar a 
+un organismo independiente 
+responsabilidades más amplias 
+para verificar la información 
+divulgada, investigar posibles 
+infracciones y aplicar la Ley del 
+Lobby. 
+ 
+[5.3.1] La Ley podría incluir un 
+sistema gradual de sanciones 
+de carácter financiero y no 
+financiero para sujetos activos, 
+que se aplicaría a nivel de las 
+entidades.
+INFORME OCDE 
+ESTÁNDAR OCDE
+Se regulan las ‘’comisiones 
+asesoras’’ (conformadas por 
+expertas y expertos que no 
+poseen 
+la 
+calidad 
+de 
+funcionarias o funcionarios), 
+imponiendo algunos deberes 
+de transparencia sobre sus 
+integrantes y la labor que 
+desempeñan (art.6 bis).
+[2.2.5] La Ley podría incluir 
+disposiciones 
+sobre 
+la 
+participación de lobistas en 
+determinados 
+grupos 
+consultivos 
+y 
+grupos 
+de 
+expertos. 
+ 
+[4.2.3] Chile podría adoptar 
+normas vinculantes para el 
+proceso de creación y selección 
+de grupos consultivos o de 
+expertos, que asesoran a los 
+funcionarios públicos, con el fin 
+de fortalecer la integridad y la 
+inclusión.
+IV. RECOMIENDA que los 
+Adherentes 
+implementen 
+marcos de transparencia e 
+integridad para todos aquellos 
+que proporcionan asesoría al 
+gobierno, notablemente grupos 
+asesores 
+y 
+de 
+expertos, 
+personas u organizaciones de 
+consultoría externa que actúan 
+como asesores o expertos, o 
+delegaciones 
+a 
+foros 
+intergubernamentales.
+--- PÁGINA 11 ---
+1
+Áreas de mejora / puntos a vigilar
+1.- La ley califica a algunos “representantes calificados de intereses” con el fin de 
+imponerles deberes de transparencia y períodos de enfriamiento y restricciones adicionales. 
+Estos son:
+- Aquellos que voluntariamente se identifiquen como tales.
+- Toda persona natural o jurídica que haya sostenido al menos 7 audiencias o 
+reuniones de lobby en un semestre.
+- Toda persona jurídica cuyos trabajadores o mandatarios hayan sostenido al 
+menos 7 audiencias o reuniones de lobby en un semestre.
+- Toda persona jurídica cuyos intereses hayan sido representados en al menos 7 
+audiencias o reuniones de lobby en un semestre.
+2.- Podrán excluirse de esta clasificación las personas jurídicas que tengan ingresos 
+anuales inferiores a 2.400 unidades de fomento.
+3.- Lo anterior se condice con la recomendación de que ‘’las exenciones específicas de 
+los requisitos adicionales de divulgación del lobby podrían basarse en las capacidades y los 
+recursos de los grupos de interés’’.
+4.- Sin embargo, los países de la OCDE que han introducido umbrales han 
+experimentado varios retos, entre ellos, las estrategias de evasión de los lobbistas para 
+mantenerse por debajo del umbral.
+5.- Por ello, podrían considerarse métodos alternativos para dificultar la elusión del 
+umbral. Por ejemplo:
+- Incluir todo tipo de actividades de lobby y no solo la audiencias o reuniones. Por 
+ejemplo, llamadas telefónicas, reuniones informales o campañas de comunicación.
+- Tomar en cuenta criterios económicos objetivos, como el número de empleados 
+o la cantidad de horas dedicadas a actividades de lobby.
+*****
+Concluida la exposición de la OCDE, el diputado señor Cosme Mellado consultó si las 
+redes sociales están consideradas en la noción de “medios de comunicación social”, cuando 
+el proyecto de ley se refiere a ellos. Por otro lado, preguntó cuál fue el criterio para determinar 
+el número de 7 audiencias cuando se trata de categorizar a los representantes calificados de 
+intereses (por qué no podría haber sido un numero mayor o menor).
+La señora Lübbert, secretaria ejecutiva de la Comisión Asesora Presidencial para 
+la Integridad Pública y Transparencia valoró el informe de la OCDE y todo el trabajo que 
+ha desarrollado el organismo internacional en esta materia.
+Al respecto, destacó la alineación del proyecto de ley con las recomendaciones 
+efectuadas por la OCDE y la oportunidad que tiene Chile de ponerse a la vanguardia en el 
+cumplimiento de estos estándares para mayor transparencia e integridad en las relaciones 
+público-privadas.
+Respecto de la segunda consulta del diputado señor Mellado, admitió que el determinar 
+el número de audiencias es una materia discutible. Agregó que se hicieron modelos estimando 
+cuántas personas entrarían a esa calificación con esos números, por lo que se puede ir 
+determinando este universo con los datos de InfoLobby, que están disponibles en formato 
+abierto. Con todo, para definir el número de audiencias se consideraron ciertos márgenes de 
+error que podrían suscitarse.
+--- PÁGINA 12 ---
+1
+Así también, hizo ver que esto debe relacionarse con las capacidades del Consejo para 
+la Transparencia, pues si se establece un umbral muy bajo, el universo de sujetos que queda 
+bajo su competencia se “dispara”. Por tanto, se trataron de ponderar ambos fines a la hora de 
+definir el número de audiencias para considerar a alguien un representante calificado de 
+intereses, datos que, de todas formas, pueden ser compartidos con la Comisión.
+Finalmente, el señor Boehm, representante de la OCDE señaló que el nuevo estándar 
+de ese organismo incluye a las redes sociales en los medios de comunicación, considerando 
+que su uso es cada vez más importante y está constituyendo una forma cada vez más 
+relevante para intentar influenciar las opiniones y, por ende, también las decisiones políticas.
+2) Continuar con la discusión y votación particular del proyecto de ley, de origen 
+en mensaje, en primer trámite constitucional y con urgencia calificada de “suma”, que 
+modifica la ley Nº21.325, de Migración y Extranjería, y otros cuerpos legales, en las 
+materias que indica (boletín Nº16.072-06). Vencimiento de la urgencia: 10 de octubre.
+* Cabe consignar que, al inicio de la sesión, los diputados señores Bernardo Berger y 
+Matías Ramírez hicieron presente un pareo entre sí, por escrito, obligándose a no participar 
+en las votaciones que tengan lugar en esta.
+Artículo 1. – Introdúcense las siguientes modificaciones a la ley Nº21.325, Ley de 
+Migración y Extranjería:
+*****
+NUEVO NUMERAL
+Indicaciones parlamentarias para modificar el numeral 9) del artículo 155 de la ley 
+N°21.325
+1.- Del diputado Matías Ramírez, para agregar en el numeral 9) del artículo 155, a 
+continuación del punto aparte, que pasa a ser seguido, la siguiente oración:
+“Dichos permisos se otorgarán especialmente en casos de mujeres víctimas de trata de 
+personas, tráfico de migrantes, violencia intrafamiliar o violencia de género, mujeres 
+embarazadas y en otras situaciones de especial vulnerabilidad.”.
+2.- De las diputadas María Candelaria Acevedo, Nathalie Castillo y Lorena Pizarro; y los 
+diputados Hernán Palma y Matías Ramírez, formulada en idénticos términos que la anterior.
+Artículo 155.- Funciones de la Subsecretaría del Interior. Corresponderán a la 
+Subsecretaría del Interior las siguientes funciones:
+9. Disponer, en casos excepcionales, el otorgamiento de permisos de 
+residencia temporal a extranjeros que se encuentren en el territorio nacional, en casos 
+calificados o por motivos humanitarios, con independencia de la condición migratoria 
+del beneficiario, debiendo informar anualmente el número de permisos otorgados al 
+Consejo de Política Migratoria. Esta potestad será indelegable.
+El director del Servicio Nacional de Migraciones, señor Luis Thayer explicó que 
+estas materias ya se encuentran reguladas en la Ley de Migración y Extranjería. Además, 
+también se vinculan con la facultad del subsecretario del Interior para regularizar personas, 
+de acuerdo con lo ya aprobado por la Comisión.
+Sometidas a votación ambas indicaciones, estas fueron rechazadas por simple 
+mayoría (1-6-1). Votó a favor la diputada Joanna Pérez. Votaron en contra la diputada Camila 
+Musante; y los diputados Miguel Becker, Fernando Bórquez, Juan Fuenzalida, Cosme Mellado 
+y José Carlos Meza. Se abstuvo la diputada Catalina Pérez.
+--- PÁGINA 13 ---
+1
+*****
+NUEVO NUMERAL
+Indicación de los diputados Miguel Becker, Bernardo Berger, Juan Fuenzalida y Renzo 
+Trisotti, para eliminar el numeral 13 del artículo 157 de la ley N°21.325
+Artículo 
+157.- 
+Funciones 
+del 
+Servicio 
+Nacional 
+de 
+Migraciones. 
+Corresponderán al Servicio Nacional de Migraciones las siguientes funciones:
+13. Ejecutar los mecanismos de regularización de extranjeros que se 
+encuentren en condición migratoria irregular, conforme lo disponga el Subsecretario 
+del Interior en concordancia con los objetivos de la Política Nacional de Migración y 
+Extranjería, mediante el otorgamiento de un permiso de residencia temporal.
+El diputado señor Fuenzalida hizo presente que la Comisión ya aprobó una norma que 
+establece funciones para el subsecretario del Interior en este sentido, por lo tanto, eliminar el 
+numeral 13) del artículo 157 sería incompatible con lo ya aprobado.
+En efecto, el director del SERMIG, señor Thayer refrendó que la Comisión ya aprobó 
+la facultad para el subsecretario del Interior de establecer mecanismos de regularización. Por 
+tanto, si se aprueba esta indicación, no habría quien los ejecute. De ahí resulta que la 
+mantención de la norma que se propone eliminar es fundamental para que el Servicio pueda 
+ejecutar la facultad del subsecretario.
+Profundizando en la explicación, dio lectura al nuevo numeral 8) aprobado por la 
+Comisión en el artículo 155, que establece las funciones de la Subsecretaría del Interior: “8. 
+Disponer en concordancia con los objetivos y criterios que determine la Política Nacional de 
+Migración y Extranjería el establecimiento de mecanismos de regularización de extranjeros 
+que se encuentren en condición migratoria irregular, otorgándoles la residencia temporal 
+cuando corresponda.”.
+Por otra parte, precisó que fuera del numeral 8 del artículo 155, el Servicio Nacional de 
+Migraciones no puede implementar mecanismos de regularización propios o distintos de los 
+que establezca el subsecretario del Interior.
+Sometida a votación la indicación, esta fue rechazada por unanimidad, por 8 
+votos. Participaron de la votación las diputadas Camila Musante, Catalina Pérez y Joanna 
+Pérez; y los diputados Miguel Becker, Fernando Bórquez, Juan Fuenzalida, Cosme Mellado y 
+José Carlos Meza.
+*****
+NUMERAL 21
+Incorpórase, en el artículo 165, el siguiente numeral 8, nuevo:
+“8. Los datos personales e información biométrica de los extranjeros que, encontrándose 
+en situación migratoria irregular, hayan sido enrolados en conformidad al artículo 44 o 
+registrados por la autoridad contralora en su función de control migratorio, en conformidad al 
+numeral segundo del artículo 166. Dichos antecedentes se pondrán a disposición de 
+Carabineros de Chile, Policía de Investigaciones de Chile, el Ministerio Público y los 
+Tribunales de Justicia, cuando dichas instituciones lo requieran para el cumplimiento de sus 
+funciones.”.
+Artículo 165.- Registro Nacional de Extranjeros. Créase el Registro Nacional 
+de Extranjeros, el que estará administrado por el Servicio y tendrá el carácter de 
+reservado, en virtud de lo dispuesto en los numerales 2 y 5 del artículo 21 de la ley 
+Nº20.285 y de la ley Nº19.628. Los órganos de la Administración del Estado podrán 
+acceder a dicha información en el mismo carácter, sin perjuicio de poder intercambiar 
+la misma información con otros Estados de acuerdo a las disposiciones contenidas en 
+tratados internacionales ratificados por Chile y que se encuentren vigentes.
+--- PÁGINA 14 ---
+1
+El Registro contendrá la siguiente información:
+(numerales 1 al 7)
+El reglamento determinará la forma y condiciones en que se establecerá el 
+Registro.
+El director del SERMIG explicó que, como es de público conocimiento, durante este 
+gobierno se ha incorporado la biometría a la gestión migratoria y a la gestión policial en 
+frontera. Lo que busca este numeral, por tanto, es que esa información biométrica quede 
+incorporada en el Registro Nacional de Extranjeros, con el mandato de compartirla con las 
+demás instituciones que allí se explicitan, cuestión que, si bien en la actualidad ya opera de 
+esa manera por la vía de convenios, lo más sano es que esté dispuesto por ley.
+Sometido a votación el numeral 21, este fue aprobado por unanimidad, por 7 
+votos. Participaron de la votación las diputadas Camila Musante, Catalina Pérez y Joanna 
+Pérez; y los diputados Miguel Becker, Fernando Bórquez, Juan Fuenzalida y José Carlos 
+Meza.
+*****
+NUMERAL 22
+Incorpórase en el artículo 166, el siguiente inciso final nuevo:
+“Además, deberán tomar los datos biométricos del extranjero en condición migratoria 
+irregular, con el fin de incorporarlos en el Registro Nacional de Extranjeros.”.
+Artículo 166.- Autoridad contralora. Corresponderá a la Policía en el ejercicio 
+de su función de control migratorio:
+(numerales 1 al 5)
+Respecto a la función establecida en el primer numeral, en aquellos pasos 
+habilitados en que no haya unidades de la Policía, Carabineros de Chile cumplirá 
+dichas funciones. Sin embargo, en los puertos de mar en que no existan dichas 
+unidades, ellas serán cumplidas por la Autoridad Marítima a que se refiere el artículo
+2, letra c), del decreto ley Nº2.222, de 1978.
+Por otra parte, la diputada Joanna Pérez y el diputado Rubén Oyarzo suscribieron una 
+indicación para intercalar en el artículo 166 el siguiente numeral 6), nuevo:
+“6. Retener la cédula nacional de identidad para extranjeros, en caso de verificar que el 
+permiso de residencia respectivo ha sido revocado o se ha dispuesto la medida de expulsión 
+respecto de su titular.”.
+El numeral 22 fue aprobado por unanimidad, al igual que la indicación 
+parlamentaria, con la cual el director del SERMIG manifestó su anuencia.
+Participaron en la votación las diputadas Camila Musante, Catalina Pérez y Joanna 
+Pérez; y los diputados Miguel Becker, Fernando Bórquez, Juan Fuenzalida y José Carlos 
+Meza.
+VII.- ACUERDOS5
+1.- Invitar a la ministra del Interior y Seguridad Pública y a la subsecretaria de Desarrollo 
+Social y Administrativo (sin fecha determinada), con el propósito de que se refieran a la grave 
+situación que enfrenta la región de Los Ríos en relación con el cierre del vertedero Morrompulli 
+y el manejo de residuos en la zona, lo que afecta no solo la administración de los recursos 
+públicos involucrados, sino que también arriesga la salud de las comunidades y la
+5 Los oficios despachados por la Comisión y sus respuestas se encuentran disponibles en el siguiente enlace: 
+https://www.camara.cl/legislacion/comisiones/oficios_enviados.aspx?prmID=3314
+--- PÁGINA 15 ---
+1
+sostenibilidad ambiental de la región; informando especialmente acerca del estado de avance 
+de los proyectos que se ejecutan con los recursos entregados por esa Subsecretaría, y de las 
+medidas adoptadas en el contexto del decreto de emergencia ambiental firmado por la 
+máxima autoridad de la Cartera de Interior. * A petición del diputado señor Bernardo 
+Berger.
+2.- Priorizar la tramitación del proyecto de ley que condona la deuda originada en pagos 
+en exceso, realizados erróneamente por las municipalidades a funcionarios y exfuncionarios 
+(boletín Nº16.620-06). * A solicitud del diputado señor José Carlos Meza.
+3.- Oficiar a la ministra del Interior y Seguridad Pública, con el propósito de solicitarle se 
+sirva informar si se han asignado recursos para efectuar los estudios de factibilidad destinados 
+a la construcción de una subcomisaría en un terreno ubicado frente al CESFAM Florencia, en 
+la comuna de Melipilla (Oficio N°294/6/2024, de fecha 2 de octubre de 2024). * A petición de 
+la diputada señora Camila Musante.
+4.- Invitar al subsecretario del Interior para conocer el estado de avance del sistema de 
+identificación biométrica que se está implementando en diversas zonas del país, en alianza 
+con los gobiernos regionales y la PDI. * A petición de la diputada señora Joanna Pérez (en 
+el contexto de la tramitación del segundo proyecto de ley en Tabla).
+El debate habido en esta sesión queda archivado en un registro de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento. Asimismo, se encuentra 
+contenido en el registro audiovisual6 de la misma.
+JUAN CARLOS HERRERA INFANTE
+Abogado secretario de la Comisión
+6 Disponible en https://www.democraciaenvivo.cl/player.aspx?id=78912

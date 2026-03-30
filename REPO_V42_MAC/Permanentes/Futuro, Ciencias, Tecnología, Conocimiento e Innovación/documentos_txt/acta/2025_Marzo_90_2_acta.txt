@@ -1,0 +1,860 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=12245&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:33:50
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 90°, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+373ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 19 DE MARZO 2025, 
+DE 17:40 A 19:30 HORAS.
+SUMARIO: 
+1) Se recibió en audiencia al académico de la Facultad de 
+Medicina de la Universidad Austral de Chile, Dr. Alejandro 
+Rojas Fernández, y a la Directora del Laboratorio de 
+Virología Molecular de la Fundación Ciencia & Vida de la 
+Universidad San Sebastián, Dra. Nicole Tischler, quienes 
+se refirieron a su trabajo con nanoanticuerpos de alpaca 
+para el tratamiento del hantavirus.
+2) Se continuó con la votación en particular del proyecto 
+de ley que regula los sistemas de inteligencia artificial 
+(boletín Nº 16821-19 y Nº 15869-19, refundidos), en primer 
+trámite constitucional, con urgencia calificada de 
+“suma”.
+I.- PRESIDENCIA
+Presidió la sesión, la diputada Érika Olivera (Presidenta Accidental), actuó como 
+Abogada Secretaria de la Comisión, la señora María Soledad Fredes Ruiz, como Abogada 
+Ayudante, la señora María Jesús Serey Sardá y como secretaria ejecutiva, la señora 
+Teresita Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Paula Labra, Erika 
+Olivera, Marcela Riquelme, y los diputados integrantes de la Comisión, señores Johannes 
+Kaiser, Tomás Lagomarsino, Rubén Oyarzo y Hernán Palma.
+La diputada Marta Bravo fue reemplazada por el diputado Sergio Bobadilla. La 
+diputada Helia Molina fue reemplazada por la diputada Camila Musante. La diputada Gael 
+Yeomans fue reemplazada por la diputada Carolina Tello.
+Concurrió para el primer punto de la tabla, el académico de la Facultad de Medicina 
+de la Universidad Austral de Chile, Dr. Alejandro Rojas Fernández, junto a la Directora del 
+Laboratorio de Virología Molecular de la Fundación Ciencia de la Universidad San 
+Sebastián, Dra. Nicole Tischler,
+Concurrió, para el segundo punto de la tabla, la Ministra de Ciencia, Tecnología, 
+Conocimiento e Innovación, señora Aisén Etcheverry Escudero, acompañada por las 
+asesoras legislativas Camila Aguayo y Paloma Herrera.
+III.- ACTAS
+El acta de la sesión 88ª se puso a disposición de las señoras Diputadas y los señores 
+Diputados.
+IV.- CUENTA
+Se recibieron los siguientes documentos:
+1.- Comunicación del Jefe de la Bancada de Diputados UDI, por la que informa que 
+la diputada Marta Bravo será reemplazada, en esta sesión, por el diputado Sergio Bobadilla.
+Se tuvo presente
+2.- Comunicación de la Jefa de la Bancada de Diputados PPD, por la que informa 
+que la diputada Helia Molina será reemplazada, en esta sesión, por la diputada Camila 
+Musante.
+Se tuvo presente
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 09/04/2025 16:19:08 CLT
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 4EC80D078B52861B
+--- PÁGINA 2 ---
+3.- Comunicación del Jefe de la Bancada de Diputados Frente Amplio e 
+Independientes, por medio de la cual informa que la diputada Gael Yeomans será 
+reemplazada, en esta sesión, por la diputada Carolina Tello.
+Se tuvo presente
+4.- A través del Sistema de la Ley del Lobby de la Cámara de Diputados, dos 
+solicitudes de audiencia con la Comisión derivadas por los diputados Marta Bravo y Daniel 
+Lilayu, requeridas por el señor Felipe del Solar, de la Sociedad de Productores Fonográficos 
+y Videográficos de Chile, a fin de explicar los motivos por los que es necesario incluir una 
+regla de protección expresa de los derechos de autor y conexos en el proyecto de ley que 
+regula los sistemas de inteligencia artificial (boletines Nº 16821-19 y Nº 15869-19, 
+refundidos).
+Se tomó conocimiento
+5.- Comunicación de la Directora Ejecutiva de FinteChile, señora Josefina Movillo 
+Matta, a través de la cual expone la perspectiva de esa asociación de empresas del país 
+sobre la actual tramitación del proyecto de ley que regula los sistemas de inteligencia 
+artificial (boletines Nº 16821-19 y Nº 15869-19, refundidos), y solicita el retiro de la urgencia 
+“suma” para su votación.
+Se tomó conocimiento
+La diputada Paula Labra solicitó que se diera lectura a la carta enviada por la 
+asociación FinteChile.
+La señora María Soledad Fredes, Secretaria, informó que la carta estaba dirigida 
+al presidente de la Comisión, con copia a la ministra de Ciencia, Tecnología, Conocimiento 
+e Innovación y, a continuación, procedió a leer su contenido, que es del siguiente tenor: 
+“Por medio de la presente, me dirijo a usted para exponer nuestra perspectiva sobre la 
+actual tramitación del proyecto de ley que regula los sistemas de inteligencia artificial en 
+Chile y solicitar el retiro de la urgencia suma para su votación.
+FinteChile es la principal asociación de empresas fintech en nuestro país. 
+Representamos a más de doscientas empresas del mundo fintech, así como a entidades 
+financieras tradicionales y a otras empresas que interactúan en este ciclo de valor.
+Nuestro objetivo es posicionar al país como el líder regional en tecnología financiera, 
+porque confiamos en el poder de la innovación y la tecnología para avanzar en inclusión 
+financiera y en su capacidad para llevar a nuestro país al desarrollo.
+Para las fintech, el desarrollo e implementación de la inteligencia artificial es clave, 
+ya que permite la provisión de servicios innovadores y de mayor calidad para la ciudadanía. 
+Estamos seguros de su poder transformador a todo nivel y en todo lugar.
+Es por esto que nos permitimos señalar el riesgo de discutir un proyecto de tal 
+envergadura con una urgencia legislativa de este tipo. Por el contrario, este proyecto de ley 
+requiere un acabado análisis y reflexión, a riesgo de hacer un daño irreversible a Chile, su 
+capacidad de innovar y su economía.
+En concreto:
+1- La experiencia internacional es clara: mientras que en países como Estados 
+Unidos y China se ha avanzado en una regulación que ha permitido grandes avances en 
+IA, la Unión Europea ha elaborado una normativa que tiene el potencial de aniquilar los 
+beneficios de esta tecnología para la economía. Incluso, Francia, uno de los países más 
+restrictivos del bloque, ha pedido flexibilizar la ley, que, por lo demás, encuentra detractores 
+sin estar ciento por ciento implementada.
+2- Esta regulación afectará a todos los sectores del país. Además de asfixiar al 
+sector fintech, que genera valor de Chile al mundo con base en tecnología, otros tan 
+fundamentales para el fisco, como la minería, la agricultura, la piscicultura y las forestales, 
+sufrirán estragos si los privamos de los avances que ofrece la IA. Esos estragos no serán 
+inmediatos, pero en menos de una década caeremos en el rezago más evidente, con toda 
+la fuga de talentos y capitales que eso implica.
+2
+--- PÁGINA 3 ---
+3. En este proceso, es fundamental tomarse el tiempo necesario para discutir con 
+profundidad todas las alternativas disponibles. Aún no existe un camino claro ni único para 
+alcanzar los objetivos que se buscan con esta regulación -no está resuelto-, por lo que la 
+definición de la norma que queremos para nuestro país debe abordarse con perspectiva, 
+visión de largo plazo y apertura a distintas miradas. Esta discusión requiere incorporar 
+experiencias y aprendizajes, especialmente de quienes cuentan con mayor trayectoria en 
+esta materia, para asegurar que la regulación responda realmente a los desafíos presentes 
+y futuros de los chilenos.
+Honorable Diputado, según la Comisión Nacional de Evaluación y Productividad, 
+llevamos 17 años con la productividad estancada. Por otro lado, la renombrada consultora 
+McKinsey estimó en 2023 que la IA podría aumentar la productividad entre un 0,1% y un 
+0,6% cada año hasta 2040. La IA representa una oportunidad única -y necesaria- para 
+nuestro país, y de no regularse de manera consciente sólo se obstaculiza aún más el 
+desarrollo del país.
+En vista de todos los argumentos expuestos, reitero la petición de retirar la urgencia 
+suma introducida en esta discusión con el objeto de dar más tiempo a la Comisión para 
+analizar, discutir e incluir cuestiones que el proyecto de ley podría incorporar o modificar, 
+incorporando también el tiempo que sea necesario para ampliar la discusión con otros 
+actores clave para nuestra economía y su desarrollo. Cuenten desde ya con nuestra 
+Asociación para recabar y aportar todos los antecedentes necesarios para dicha discusión.
+Esperando que lo solicitado se considere con la prontitud que merece, se despide 
+atentamente,
+Josefina Movillo Matta
+Directora ejecutiva.”.
+La diputada Paula Labra manifestó su acuerdo con lo expresado en la misiva y, acto 
+seguido, lamentó la ausencia de la ministra de Ciencias para conocer de esta solicitud.
+Luego, mencionó que el día anterior había participado en un seminario sobre start-
+ups, junto a otros diputados, y que varios expositores manifestaron su preocupación por el 
+proyecto que regula los sistemas de inteligencia artificial y que, por lo mismo, no debe 
+tramitarse con ligereza.
+Enseguida, señaló que dicho proyecto, además de ser una copia de la normativa de 
+la Unión Europea, entrará en vigencia en 2026, por lo que aún no se puede evaluar ni su 
+efectividad ni su éxito. Mencionó que en el caso de Francia, su Presidente habría dicho que 
+una regulación excesiva pondría en desventaja a los países de la Unión Europea, opinión 
+que coincidía con lo expresado en la carta de la señora Movillo.
+Finalmente, expresó su postura en orden a que se cuente con una legislación bien 
+fundamentada y que garantice el respeto de los derechos fundamentales, y respaldó la 
+solicitud presentada en la carta, pidiendo que se elimine la urgencia suma.
+La diputada Érika Olivera, Presidenta accidental, agradeció la intervención de la 
+diputada Labra, cerró la discusión sobre la cuenta y dio inicio al debate de las materias de 
+la citación.
+1) Exposición de académicos doctores Nicole Tischler y Alejandro Rojas sobre 
+trabajo para tratamiento de hanta virus.
+La diputada Érika Olivera, Presidenta accidental, expresó que la sesión tiene por 
+objeto recibir en audiencia a la directora del laboratorio de virología molecular de la 
+Fundación Ciencia & Vida de la Universidad San Sebastián, doctora Nicole Tischler, y al 
+académico de la Facultad de Medicina de la Universidad Austral de Chile, doctor Alejandro 
+Rojas Fernández, para que expongan sobre su trabajo con nanoanticuerpos de alpaca para 
+el tratamiento del hantavirus.
+La señora Nicole Tischler, directora del laboratorio de virología molecular de 
+la Fundación Ciencia & Vida de la Universidad San Sebastián, luego de agradecer la 
+invitación y de indicar que el hantavirus es uno de los patógenos más importantes del país,
+3
+--- PÁGINA 4 ---
+señaló que el laboratorio que dirige tiene más de veinte años de experiencia en el estudio 
+del hantavirus, y que tanto ella como su equipo se ha centrado en investigar la superficie 
+molecular del virus, con el objetivo de entender cómo infecta las células humanas.
+Luego, mencionó que actualmente dirige la Sociedad Mundial de Hantavirus, y que, 
+si dicha sociedad existe, es porque hay una preocupación global sobre este virus, ya que 
+pertenece a una familia viral muy diversa, por lo que el hantavirus que existe en Chile es 
+distinto al de Europa o Asia.
+En relación con la letalidad del virus, dijo que en Asia el índice de mortalidad era del 
+10 por ciento, mientras que en Europa no superaba el 1 por ciento y que en América 
+oscilaba entre el 30 y el 50 por ciento. Esto, a su juicio, representa un problema grave y 
+constante, ya que cada año muchas personas fallecen debido a la falta de medidas 
+efectivas para reducir la letalidad del virus.
+Dicho aquello, señaló que el hantavirus que se encuentra en Chile está en la lista 
+Blueprint de la Organización Mundial de la Salud (OMS), ya que, como puede transmitirse 
+de persona a persona, podría generar un riesgo pandémico; no obstante, aclaró que, 
+mientras solo se transmita de roedores a humanos, tal riesgo sigue limitado.
+Al respecto, relató un caso ocurrido en Epuyén, localidad en que, a partir de un caso, 
+se infectaron 34 personas, de las cuales un tercio falleció. Señaló que la única medida que 
+logró detener este brote fue el aislamiento total de la región a través de una cuarentena 
+estricta.
+Enseguida, expresó que este tipo de virus, que se transmite de persona a persona, 
+está presente en Argentina y Chile. Por lo mismo, subrayó la necesidad de que nuestro país 
+tome un rol activo en la prevención y solución de brotes futuros; ello,  mediante el desarrollo 
+de conocimiento y herramientas innovadoras, como los nanoanticuerpos o anticuerpos, en 
+general, y vacunas.
+En este sentido, destacó el papel de la Agencia Nacional de Investigación y 
+Desarrollo (ANID), que financia múltiples estudios relacionados con este virus, y destacó 
+dos proyectos en que la institución que dirige está involucrada: la construcción de un 
+laboratorio de biocontención, de 170 metros cuadrados, y ciertas terapias con anticuerpos 
+para tratar a los pacientes infectados. Advirtió, sin embargo, que ninguna de estas terapias 
+logrará su objetivo si no se cuenta con los recursos suficientes, ya que la producción de 
+anticuerpos tiene un alto costo.
+Por último, hizo referencia a la situación internacional, como la que afecta al Centro 
+de Control de Enfermedades (CDC) de Estados Unidos, institución que, como ha sufrido 
+recortes presupuestarios, se ha visto impedida de participar en respuestas ante brotes, 
+hecho que, a su juicio, debe llevar a Chile a no depender de otros países para resolver esta 
+situación y, por tanto, asumir un papel activo en la prevención y resolución de los brotes.
+El señor Alejandro Rojas, académico de la Facultad de Medicina de la 
+Universidad Austral de Chile, se refirió al trabajo realizado con alpacas y sus anticuerpos, 
+los que, al ser diferentes a los de los humanos, cuentan con un fragmento que permite 
+reestructurarlos para generar terapias.
+Sobre el particular, mencionó que desarrollaron un anticuerpo pequeño contra el 
+coronavirus, que, aunque fue probado con éxito en animales, no pudo ser producido y 
+aplicado a tiempo durante la pandemia, debido a las limitaciones de capacidad en el país. 
+Aseguró que este anticuerpo podría haber salvado miles de vidas, especialmente entre los 
+ancianos.
+Después, habló sobre el virus Nipah, para el cual, en colaboración con la 
+Universidad Austral y la Universidad de Queensland, desarrollaron un anticuerpo poderoso. 
+Este virus, altamente letal, tiene una tasa de mortalidad del 70 por ciento y afecta tanto el 
+sistema respiratorio como el cerebro. Destacó que la terapia está próxima a ser publicada 
+en una revista científica prestigiosa.
+También se refirió al problema del hantavirus, respeto del cual indicó que ha 
+trabajado durante siete años con la doctora Nicole Tischler para encontrar una solución, 
+logrando desarrollar una vacuna experimental que inmunizó a una alpaca llamada Martín,
+4
+--- PÁGINA 5 ---
+la cual generó anticuerpos neutralizantes contra el hantavirus. Puntualizó que estos 
+anticuerpos demostraron una capacidad extraordinaria para neutralizar el virus, impidiendo 
+que infectara a las personas.
+Expresó que este tratamiento podría salvar vidas, especialmente la de niños 
+expuestos al hantavirus. Sin embargo, reconoció la existencia de dificultades económicas 
+y logísticas para financiar los estudios clínicos y la producción del tratamiento, que podría 
+costar entre dos y tres millones de dólares.
+A continuación, llamó al gobierno y a otras instituciones a financiar el desarrollo de 
+la terapia, destacando que las enfermedades raras, como el hantavirus, no son de interés 
+comercial para las grandes empresas farmacéuticas.
+Finalmente, propuso desarrollar un enfoque preventivo para tratar a los pacientes 
+afectados por el hantavirus mientras se siguen investigando vacunas y nuevos tratamientos. 
+Su objetivo es tener en los próximos dos o tres años un ensayo clínico en fase dos que 
+permita a los pacientes acceder a los anticuerpos neutralizantes que desarrollaron, con la 
+esperanza de reducir el impacto de esta enfermedad en el futuro.
+La diputada Marcela Riquelme preguntó si es necesario estar contagiado de virus 
+Hanta para que el tratamiento con anticuerpos impida la hemorragia y la activación de la 
+enfermedad, lo cual confirmó. Concluyó que el anticuerpo no previene la infección, sino que 
+evita que se propague.
+El diputado Hernán Palma pidió información sobre el financiamiento que se requiere 
+para contar con la referida herramienta inmunológica en los servicios de salud del país, 
+porque hubo un llamado a colaborar para alcanzar dicho objetivo. En particular, solicitó 
+conocer antecedentes sobre los obstáculos y las líneas de acción para la concreción del 
+proyecto.
+La diputada Érika Olivera, Presidenta accidental, agregó que la pregunta sobre el 
+financiamiento era relevante, pues la implementación de las plantas requeridas en los 
+hospitales tiene un costo de alrededor de dos o tres millones de dólares.
+A su vez, en relación con la muerte de la joven de Pitrufquén, Sofía Navarrete, dijo 
+que se trataba de la segunda atleta conocida fallecida a causa del hantavirus. Preguntó, 
+por tanto, a qué se debió la tragedia y planteó que el tratamiento del proyecto podría haberle 
+salvado la vida.
+En razón de lo anterior, también consultó cómo concretar el proyecto y, en esa línea, 
+se sumó a la inquietud del diputado Palma sobre el financiamiento. Específicamente, solicitó 
+información sobre el estado de avance de las conversaciones y preguntó cuándo el Instituto 
+de Salud Pública (ISP) dará su aprobación.
+El doctor Alejandro Rojas detalló que el tratamiento consiste en una inyección 
+intravenosa que activa una respuesta inmune inmediata, bloqueando el virus y activando el 
+sistema inmunológico para eliminar la infección.
+Junto con lo anterior, y a propósito de que el período de incubación del virus puede 
+ser de hasta 40 días, destacó la importancia de una detección temprana que permita aplicar 
+la inyección antes de que aparezcan síntomas respiratorios graves.
+En ese sentido, señaló que es necesario contar con un test rápido de hantavirus 
+como el que desarrolló con la doctora Nicole Tischler, gracias al apoyo del gobierno Alemán 
+y del Ministerio de Ciencia y TIC de Corea.
+Precisó que el test funciona con sangre, suero o plasma y, si da positivo, de 
+inmediato, antes de que la enfermedad progrese, se inyectan los anticuerpos, porque, una 
+vez que aparecen los síntomas respiratorios, se produce extravasación de líquido en el 
+pulmón y el paciente no responde al tratamiento.
+Hizo presente que faltaba realizar pruebas con animales, a fin de conocer el período 
+de efectividad del tratamiento tras la infección.
+5
+--- PÁGINA 6 ---
+Señaló que se han construidos otros dos neutralizantes que funcionan a partir de 
+una sola molécula bifuncional, es decir, que tiene dos capacidades simultáneas de 
+neutralizante, y uno se ha probado con éxito en hámsteres.
+Por tanto, sostuvo que hay una alta probabilidad de que estén hablando de la única 
+molécula en el mundo con dos capacidades neutralizantes simultáneas, la cual permitirá 
+salvar a los pacientes, en la medida en que puedan identificarla.
+En cuanto a los desafíos, señaló que la producción a escala requiere cumplir 
+estándares regulatorios internacionales: los de la Administración de Alimentos y 
+Medicamentos (FDA) y los de la Agencia Europea de Medicamentos (EMA), pero también 
+estándares locales, que establece el Instituto de Salud Pública (ISP), y tiene un costo 
+estimado de 1,5 millones de dólares.
+Además, planteó que, pese a que la Agencia Nacional de Investigación (ANID) 
+podría financiar etapas preclínicas, los seguros para ensayos clínicos en Chile son costosos 
+y escasos.
+Asimismo, sacó a colación que, entre el 2018 y el 2019, en la localidad argentina de 
+Epuyén, durante una fiesta, una persona contagió a otras siete que, posteriormente, 
+infectaron a 34 personas, lo que derivó en una epidemia.
+A raíz de lo expuesto, explicó que una detección temprana y el uso profiláctico del 
+anticuerpo en grupos de riesgo mediante estrategias, como la construcción de anillos de 
+protección implementada en pandemia, pueden evitar epidemias.
+El investigador destacó que, tras el término de la fase clínica, el valor del tratamiento 
+será equivalente a una fracción de lo que hoy cuesta salvar la vida de un paciente con 
+hantavirus y, por tanto, se está ante una oportunidad única.
+Por último, invitó a la Comisión a cooperar para hacer realidad su investigación.
+La diputada Marcela Riquelme preguntó si está presente en Chile el virus Nipah y 
+manifestó su inquietud respecto de su eventual propagación, a propósito de que se dijo que 
+es más peligroso que el coronavirus y se contagia de la misma manera.
+Planteó que la experiencia ha enseñado que una nueva pandemia no es una 
+posibilidad, sino que la interrogante es cuándo sucederá, como ocurre con los terremotos.
+El doctor Alejandro Rojas dijo que el virus Nipah causó una epidemia en 1998 en 
+Malasia, que se originó por la transmisión del patógeno de murciélagos frugívoros a cerdos 
+criados en centros de producción. Explicó que los cerdos, como son biológicamente 
+similares a los humanos en cuanto a infecciones respiratorias, se contagiaron masivamente, 
+lo que llevó a la muerte a 280 personas, aproximadamente. Relató que, ante la gravedad 
+del brote, el gobierno malasio decidió eliminar a toda la población porcina del país y, a falta 
+de métodos seguros de erradicación, los enterró vivos.
+El académico contó, además, que, a raíz de la crisis, en Malasia y gran parte de 
+Asia se implementaron estrictas regulaciones que prohíben la presencia de árboles y 
+estructuras que puedan albergar murciélagos cerca de las instalaciones de producción 
+porcina; sin embargo, actualmente los brotes de virus Nipah ocurren con frecuencia en 
+Kerala, India, donde entre cinco y diez personas se infectan dos o tres veces al año.
+El investigador advirtió el peligro que representa una eventual mutación del virus, 
+dada su letalidad y las graves secuelas neurológicas que deja en el 30 por ciento que 
+sobrevivientes, a causa de inflamación cerebral.
+No obstante, informó que los nanoanticuerpos actúan contra el virus, como también 
+otros cuatro neutralizantes. Agregó que, en colaboración con la Universidad de 
+Queensland, se está desarrollando la respectiva terapia, que seguramente será difundida 
+por la casa de estudios australiana.
+Expresó que este avance ha sido posible gracias al esfuerzo realizado en orden a 
+desarrollar respuestas rápidas y precisas ante diversas infecciones, al uso de alpacas y a 
+las capacidades de investigación instaladas en la Región de Los Ríos.
+6
+--- PÁGINA 7 ---
+Mencionó también el apoyo recibido por parte del gobierno regional y la Agencia 
+Nacional de Investigación y Desarrollo (ANID).
+La doctora Nicole Tischler valoró la comparación de los brotes epidémicos con los 
+terremotos y planteó que, así como existe el Servicio Nacional de Prevención y Respuesta 
+ante Desastres (Senapred), es necesario implementar en Chile un organismo similar que 
+se anticipe a posibles brotes y pandemias.
+En ese sentido, señaló que la única manera de estar preparados es mediante el 
+estudio continuo de los virus y el desarrollo de terapias y vacunas. También afirmó que es 
+importante superar la barrera entre investigaciones y estudios clínicos, a fin de que los 
+avances científicos se traduzcan en soluciones concretas ante futuras emergencias 
+sanitarias.
+2) Proyecto de ley que regula los sistemas de inteligencia artificial (boletines Nos 
+16821-19 y 15869-19, refundidos).
+Artículo 8
+Letra d)
+Indicación:
+31 A) Del Ejecutivo para reemplazar el literal d) del artículo 8 del proyecto por el 
+siguiente:
+“d) Sistema de registros: Los sistemas de IA de alto riesgo deberán contar con 
+funciones que permitan registrar información y eventos de seguridad mientras están en 
+funcionamiento.
+Los registros deberán almacenarse con medidas de seguridad adecuadas para 
+evitar su alteración, pérdida o acceso no autorizado. Su acceso estará restringido a 
+personal autorizado y a la autoridad fiscalizadora competente.”.
+La señora Aisén Etcheverry, ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, explicó que la indicación precisa el lenguaje del primer párrafo. Además, 
+incorpora el componente de registro y almacenamiento, considerado relevante para 
+identificar problemas y corregir los sistemas a futuro, ya que permitirá realizar 
+investigaciones retrospectivas en caso de fallos.
+La diputada Paula Labra pidió la opinión de la ministra sobre la carta de FinteChile 
+mencionada en la cuenta. Recordando que la ministra había llegado a la sesión después 
+de la lectura, sugirió que la señora Secretaria le presente un resumen.
+La ministra Aisén Etcheverry respondió que, si bien había leído la carta al ingresar 
+a la sesión, no la había analizado en detalle. Aun así, dijo que, a propósito de FinteChile, 
+otras empresas plantearon comentarios al proyecto de ley, los cuales fueron incorporados.
+También destacó que el documento alude a regulaciones internacionales, citando 
+los casos de Estados Unidos y China. Al respecto, consideró que el cambio de enfoque 
+regulatorio en Estados Unidos será una oportunidad para reforzar la discusión nacional 
+sobre inteligencia artificial.
+Agregó que el proyecto de ley valora los espacios de autorregulación en el sector 
+privado, pero también considera necesario establecer reglas claras frente a los riesgos 
+documentados de la IA. Recordó que la ley no solo establece regulaciones, sino también 
+incentivos para la innovación, especialmente en la adopción de IA por parte del Estado y la 
+promoción de exportaciones tecnológicas.
+Para terminar, indicó que la regulación interna chilena fue diseñada para ser 
+compatible con las de socios comerciales clave, como Estados Unidos, China y la Unión 
+Europea, adaptando elementos para evitar las críticas generadas por modelos 
+internacionales.
+La diputada Paula Labra agradeció la explicación de la ministra, pero insistió en 
+pedir su opinión específica sobre la propuesta, planteada en la carta, de retirar la suma
+7
+--- PÁGINA 8 ---
+urgencia del proyecto para permitir una discusión más extendida con todos los actores 
+involucrados.
+La ministra Aisén Etcheverry respondió que el Ejecutivo siempre estuvo dispuesto 
+a dar el tiempo necesario para discutir el proyecto. Precisó que durante 2024 había 
+realizado numerosas exposiciones y trabajos en indicaciones, hasta que, a petición del 
+Congreso, al término del anterior período legislativo, presentó un paquete de indicaciones 
+que reflejaba todo el debate. Finalmente, insistió en que esto no implica una falta de 
+voluntad para seguir discutiendo el proyecto en profundidad.
+La diputada Marcela Riquelme consultó por la comparación con la legislación de la 
+Unión Europea, específicamente respecto de los artículos 21 y 22. Preguntó si el sistema 
+de almacenamiento sería de ámbito nacional y cómo se administraría. Por último, pidió una 
+aclaración sobre el manejo de registros por parte de las empresas.
+La ministra Aisén Etcheverry explicó que, de acuerdo con el funcionamiento de 
+estos sistemas, la misma empresa mantiene los registros durante un período de tiempo 
+determinado para monitorear el comportamiento del sistema. Precisó que, en caso de fallos, 
+permitirán revisar respaldos para identificar el origen del problema, y aclaró que no se 
+transferirán a terceros, sino que permanecerán en poder de la empresa.
+El diputado Tomás Lagomarsino recalcó que la discusión se centra en sistemas de 
+alto riesgo, no en todos los usos de la IA. Al respecto, solicitó aclarar si el registro 
+conservará todos los ingresos y egresos del sistema o solo los eventos de seguridad. A 
+modo de ejemplo, mencionó a ChatGPT, indicando que almacenar cada pregunta y 
+respuesta resultaría inviable; en cambio, cuestionó si solo se incluirían incidentes 
+específicos, como intentos de uso indebido, para distinguir claramente qué información 
+debería ser almacenada.
+La ministra Aisén Etcheverry explicó que las obligaciones establecidas en el 
+artículo en cuestión están relacionadas principalmente con el funcionamiento del sistema 
+más que con los datos incorporados en él. Señaló que el foco está en el algoritmo que 
+procesa dichos datos, ya que es en este punto donde se pueden generar fallas.
+Además, reconoció el desafío planteado por el diputado Tomás Lagomarsino en 
+relación con las obligaciones que varían según el sistema y el tipo de uso. Destacó que, 
+incluso, dentro de las categorías de riesgo existen grandes diferencias. Por ello, explicó 
+que, basándose en la opinión de expertos técnicos recogida el año anterior, el Consejo 
+Asesor Técnico de IA, establecido en el proyecto de ley, tiene el mandato de especificar, 
+conforme al estado de la técnica, los requisitos necesarios para cumplir con las obligaciones 
+establecidas.
+Para ilustrar su punto, reiteró un ejemplo que había utilizado previamente. Mencionó 
+que cuando se habla de la necesidad de reportar incidentes de seguridad la frecuencia de 
+estos reportes no está definida en la ley. Explicó que dicha periodicidad depende del avance 
+tecnológico, pudiendo ser cada dos minutos, cada 24 horas o, incluso, cada seis meses.
+El diputado Tomás Lagomarsino preguntó a la ministra si la referencia a “eventos 
+de seguridad” incluía exclusivamente intentos de acceso no autorizado a los datos, como 
+hackeos, con el fin de precisar el significado del término según la interpretación del 
+Ministerio de Ciencia.
+La ministra Aisén Etcheverry aclaró que un hackeo es, efectivamente, un ejemplo 
+de evento de seguridad. Sin embargo, añadió que también podían considerarse fallas en el 
+algoritmo. Puso como ejemplo un sistema que comenzara a generar respuestas 
+inadecuadas, como indicaciones sobre cómo cometer un crimen o un sistema de 
+inteligencia artificial en el ámbito de la salud que ofreciera recomendaciones incorrectas. 
+Arguyó que en casos como esos el problema no radica en los datos ingresados, sino en las 
+reglas internas del algoritmo que presentan una falla.
+La diputada Paula Labra intervino en el debate para expresar que comparte la 
+misma inquietud planteada previamente por el diputado Tomás Lagomarsino. 
+Posteriormente, formuló una segunda consulta a la ministra.
+8
+--- PÁGINA 9 ---
+En su pregunta, buscó aclarar si los sistemas de registros debían almacenar toda la 
+información procesada por los desarrollos de inteligencia artificial, dado que la indicación 
+presentada no lo especifica con claridad.
+Además, consultó si sería el Consejo Asesor Técnico de IA el encargado de definir 
+dicho aspecto.
+La ministra Aisén Etcheverry respondió que, en el ámbito de los sistemas 
+informáticos, es una práctica común mantener registros o logs del funcionamiento de los 
+sistemas. Detalló que estos registros históricos sobre la operatividad de los sistemas 
+representan un estándar en la industria. Asimismo, indicó que, en muchos casos, el código 
+de los algoritmos es compartido con comunidades de expertos en tecnologías de la 
+información (TI), con el objetivo de detectar posibles fallas, aclarando que estos 
+profesionales no deben confundirse con hackers malintencionados.
+La ministra enfatizó que, específicamente en los sistemas considerados de alto 
+riesgo, las obligaciones deben estar alineadas con el estado del arte y la técnica en la 
+materia. Sostuvo que no se trata de registrar cualquier tipo de información, sino aquella 
+relevante en términos de seguridad. Además, advirtió sobre el riesgo de establecer en la 
+ley un criterio rígido sobre qué tipo de información debe registrarse, ya que esto podría 
+generar problemas a medida que avanza la tecnología.
+Por este motivo, justificó la existencia del comité asesor, cuya composición público-
+privada fue actualizada en las indicaciones al proyecto de ley, con el fin de definir estos 
+aspectos de manera técnica y flexible.
+La diputada Paula Labra adujo que la redacción de la indicación resulta ambigua y 
+podía prestarse a interpretaciones erróneas. Citó el texto que establece que los sistemas 
+deben “contar con funciones que permitan registrar información y eventos de seguridad 
+mientras están en funcionamiento”. Según su interpretación, lo expresado por la ministra 
+sugiere que lo que debe registrarse es la información relativa al funcionamiento del sistema, 
+pero la redacción del texto puede llevar a entender que debe almacenarse toda la 
+información procesada, incluyendo datos ingresados y almacenados.
+Para reforzar su argumento, citó otra parte del texto, una que menciona la obligación 
+de almacenar los registros con medidas de seguridad, lo que, a su juicio, refuerza la 
+confusión sobre el alcance de la expresión “registrar información de funcionamiento”.
+La ministra Aisén Etcheverry consideró que el problema planteado es 
+principalmente una cuestión de redacción de la indicación, aunque no percibió las 
+diferencias señaladas por la diputada Paula Labra. Explicó que, desde la perspectiva del 
+Ejecutivo, la frase “mientras están en funcionamiento” basta para abordar el asunto de 
+manera adecuada.
+La diputada Paula Labra refutó la interpretación de la ministra, argumentando que 
+su comprensión lectora le permite notar una diferencia sustancial entre las frases “registrar 
+información mientras están en funcionamiento” y “registrar información de funcionamiento”. 
+A su juicio, la primera puede entenderse como un mandato para registrar toda la información 
+mientras el sistema estuviera activo, lo que resulta ambiguo y poco preciso.
+La diputada Érika Olivera, Presidenta accidental, preguntó si algún otro integrante 
+de la Comisión deseaba intervenir en relación con este punto. Acto seguido, afirmó que, si 
+la ministra no tenía más observaciones, quedaba claro que su postura sobre el tema está 
+definida.
+El diputado Tomás Lagomarsino anunció que aprobará la indicación, aunque 
+solicitó que el Ejecutivo mejore su definición a través de una modificación adicional o que 
+los propios parlamentarios puedan presentar una propuesta aclaratoria. En particular, 
+sugirió que se establezca en las definiciones qué debía entenderse por “eventos de 
+seguridad”, ya que considera que esta ambigüedad puede resolverse con facilidad.
+La diputada Marcela Riquelme intervino para subrayar que también es relevante, 
+en el contexto de la historia legislativa, definir con precisión qué debe registrarse. Destacó 
+que el literal menciona “información y eventos de seguridad”, lo que, al incluir una 
+conjunción, implica la necesidad de clarificar ambos términos. Propuso que, si se iba a
+9
+--- PÁGINA 10 ---
+definir en una nueva indicación qué se consideraba un evento de seguridad sin limitarse a 
+un número cerrado (numerus clausus), también debía especificarse qué tipo de información 
+es obligatorio registrar.
+Para respaldar su argumento, citó la legislación europea, que enfatiza la importancia 
+de garantizar que las autoridades que accedan a estos registros protejan y no divulguen 
+secretos comerciales ni información sensible o reservada.
+A partir de esto, concluyó que la amplitud de la norma puede interpretarse como un 
+mandato para registrar todo, por lo que consideró fundamental precisar qué debe ser 
+efectivamente almacenado.
+La diputada Érika Olivera, Presidenta accidental, suspendió la sesión mientras se 
+redactaba una indicación para aclarar el punto. Cumplido el cometido, otorgó la palabra a 
+la ministra para que explicara con claridad el contenido de la indicación, a fin de alcanzar el 
+mayor consenso posible entre los parlamentarios.
+La ministra Aysén Etcheverry explicó que, si bien la redacción de la indicación 
+podía mejorarse, siempre había espacio para perfeccionar los textos normativos.
+A continuación, manifestó que los sistemas en discusión presentan dos grandes 
+ámbitos de complejidad. El primero es que pueden utilizarse en diversos contextos, desde 
+terapias psicológicas para adolescentes hasta el manejo de maquinaria de alto riesgo y, 
+aunque sus aplicaciones parecen muy distintas, en términos técnicos no existe gran 
+diferencia entre ellas.
+El segundo ámbito de complejidad es que estos sistemas evolucionaban de manera 
+acelerada. Como ejemplo, citó los modelos de inteligencia artificial GPT, que se actualizan 
+en períodos de apenas dos o tres meses. Esto significa que las regulaciones no solo deben 
+responder a una discusión política sobre qué es aceptable o no, sino también incorporar un 
+enfoque en los componentes técnicos.
+En cuanto a la supervisión y control, explicó que la evaluación de estos sistemas 
+debe considerar diversos factores, como la revisión periódica de los algoritmos y la 
+detección de posibles intentos de hackeo. Explicó que estos componentes técnicos se 
+trabajaron en la ley de protección de datos y que se crearía un comité técnico que estaría 
+encargado de definir sistemas que aborden estos aspectos. Al respecto, destacó que esa 
+normativa establece un mecanismo de entrada en vigencia escalonada para sus 
+disposiciones transitorias, esquema a través del cual se buscó otorgar seguridad jurídica a 
+la industria, permitiéndole conocer con anticipación sus obligaciones, antes de que fueran 
+exigibles, y garantiza un proceso de actualización permanente.
+La diputada Érika Olivera, Presidenta accidental, puso en votación la indicación a 
+la letra d) del artículo 8.
+Puesta en votación, la indicación fue aprobada por mayoría, con los votos a favor 
+de las diputadas Érika Olivera y Marcela Riquelme y del diputado Tomás Lagomarsino. Votó 
+en contra la diputada Paula Labra (3-1-0).
+Letra e)
+Indicaciones:
+31 A) Del Ejecutivo para reemplazar la letra e) del artículo 8 del proyecto por la 
+siguiente:
+“e) Mecanismos de transparencia y explicabilidad: Los sistemas de IA de alto riesgo 
+deberán contar con un nivel de transparencia y explicabilidad suficiente para que los 
+operadores y sus destinatarios entiendan razonablemente el funcionamiento del sistema, 
+con arreglo a su finalidad prevista. Asimismo, deberán permitir que los usuarios identifiquen 
+que están interactuando con un sistema de IA, salvo cuando esto sea evidente por las 
+circunstancias y el contexto de uso.
+En el uso de sistemas de IA de alto riesgo, se deberá emplear todos los medios 
+técnicos disponibles de conformidad con el estado actual de la técnica generalmente
+10
+--- PÁGINA 11 ---
+reconocido para posibilitar que los operadores puedan interpretar la información de salida 
+del sistema de IA de alto riesgo.”.
+La ministra Aysén Etcheverry recordó que en sesiones anteriores se había 
+debatido extensamente sobre la importancia de la transparencia y la explicabilidad en los 
+sistemas tecnológicos. Explicó que estos conceptos están relacionados con la necesidad 
+de que los usuarios tengan acceso a información suficiente para ejercer sus derechos.
+Desde esa perspectiva, dijo que ese requisito era fundamental en sistemas de alto 
+riesgo, ya que a menudo operaban de manera imperceptible en quienes los utilizaban. A 
+modo de ejemplo, señaló que no era indispensable que un sistema explicara la lógica detrás 
+de la recomendación de una película, pero que sí era relevante que especificara qué tipo 
+de datos empleaba para apoyar un diagnóstico médico.
+La diputada Paula Labra manifestó su comprensión respecto de la explicación de 
+la ministra sobre la diferencia entre sistemas de entretenimiento y aquellos con 
+implicaciones médicas. Sin embargo, señaló que esta distinción no queda reflejada en la 
+redacción de la indicación.
+Por otro lado, identificó una posible inconsistencia en el texto, ya que en el primer 
+párrafo se indica que la explicabilidad debía dirigirse tanto a los operadores como a los 
+destinatarios, lo que ella interpretaba como usuarios finales.
+Agregó que, no obstante, en el segundo párrafo solo se menciona a los operadores 
+en relación con el uso de medios técnicos para interpretar el sistema. Para respaldar su 
+observación, se dirigió al artículo 4, en el cual se contiene el principio de explicabilidad y 
+establece que la información debe ser comprensible e inteligible para todas las personas 
+afectadas.
+Ante esa discrepancia, solicitó a la ministra una aclaración sobre si la explicabilidad 
+aplica únicamente a los operadores o si también debe incluir a todos los usuarios 
+impactados por el sistema.
+La ministra Aysén Etcheverry manifestó que existen distintos niveles de exigencia 
+en cuanto a la explicabilidad de los sistemas de inteligencia artificial.
+Según señaló, tanto los operadores como los destinatarios son considerados 
+usuarios finales y su principal necesidad es comprender que están interactuando con un 
+sistema de inteligencia artificial.
+En el caso de los operadores, aclaró que se espera un nivel de comprensión más 
+profundo, ya que su conocimiento técnico es mayor que el del usuario final. Como los 
+operadores están más involucrados en la provisión del servicio, deberían ser capaces de 
+interpretar la información de salida de un sistema de IA de alto riesgo. Esta capacidad es 
+crucial para detectar posibles sesgos o fallas en su operación.
+Finalmente, enfatizó que los niveles de exigencia varían según la naturaleza de la 
+interacción y la responsabilidad de cada actor en relación con el sistema.
+El diputado Tomás Lagomarsino preguntó a la ministra sobre la relación entre la 
+transparencia de los sistemas de inteligencia artificial y la protección de secretos 
+comerciales.
+Comentó que los datos utilizados para entrenar estos sistemas, así como sus 
+estructuras internas o redes neuronales, a menudo constituyen secretos comerciales. En 
+este contexto, preguntó cómo se puede conciliar la transparencia, exigida por la normativa, 
+con secretos comerciales que deben estar cautelados por la propiedad industrial.
+Asimismo, planteó dudas sobre la explicabilidad de los sistemas de inteligencia 
+artificial, pues algunos son tan complejos que ni siquiera sus desarrolladores comprenden 
+completamente cómo generan sus resultados. Mencionó el caso de un sistema que predice 
+la conformación de proteínas con alta precisión, pese a que sus creadores no entienden del 
+todo su funcionamiento.
+Por tal razón, expresó preocupación respecto de la viabilidad de exigir explicabilidad 
+a sistemas tan avanzados, ya que su estructura, basada en redes neuronales, puede hacer
+11
+--- PÁGINA 12 ---
+difícil rastrear el proceso que ocurre desde el ingreso de datos hasta la obtención de un 
+resultado final.
+La ministra Aysén Etcheverry respondió que la transparencia y la explicabilidad 
+son temas ampliamente debatidos a nivel internacional en el ámbito de la inteligencia 
+artificial. Además, explicó que la redacción de la indicación debe interpretarse en relación 
+con los principios previamente aprobados, como la protección de los derechos de propiedad 
+intelectual y la seguridad de las personas.
+A continuación, indicó que la norma diferencia el tipo de información que debe 
+entregarse y establece un nivel de explicabilidad razonable, permitiendo comprender el 
+funcionamiento del sistema sin requerir un conocimiento técnico detallado. A modo de 
+ejemplo, explicó que no es necesario conocer la composición exacta de una proteína en el 
+ámbito médico, sino asegurar que su uso sea seguro y cumpla su propósito.
+Finalmente, aclaró que la exigencia de explicabilidad no implica conocer cada detalle 
+del sistema, ya que en algunos casos esto es imposible o está protegido por el secreto 
+industrial. No obstante, enfatizó que debe garantizarse la entrega de información suficiente 
+para que las personas puedan ejercer sus derechos.
+El diputado Tomás Lagomarsino expresó su inquietud sobre el término, dado que 
+su significado puede ser ambiguo. Planteó la dificultad de definir qué es razonable explicar 
+en sistemas altamente complejos y cuestionó cómo se podría justificar el proceso mediante 
+el cual una inteligencia artificial llega desde un punto A un punto B. Para ilustrar su 
+argumento, mencionó el caso de la inteligencia artificial aplicada a la medicina, en que los 
+sistemas son validados mediante estudios comparativos con estándares de referencia, 
+como en la lectura de mamografías.
+En ese sentido, sugirió evaluar mecanismos que permitan abordar situaciones en 
+las que la explicabilidad sea prácticamente imposible, sin que ello impida el uso de la 
+tecnología.
+Finalmente, manifestó su preocupación en cuanto a que la exigencia de 
+explicabilidad razonable pueda convertirse en un obstáculo en la implementación de 
+sistemas avanzados de inteligencia artificial.
+La ministra Aysén Etcheverry manifestó que la pregunta del diputado Lagomarsino 
+había abordado un punto central del debate. Además, planteó que la cuestión fundamental 
+es si se aceptará la existencia de sistemas que puedan poner en riesgo derechos 
+fundamentales sin garantizar un mínimo de comprensión sobre su funcionamiento. En 
+opinión del Ejecutivo, eso no es aceptable.
+Sostuvo que es necesario exigir un grado de explicabilidad que permita a las 
+personas ejercer sus derechos fundamentales, en concordancia con los principios 
+establecidos en el proyecto de ley. Finalmente, enfatizó que la posición del Ejecutivo es que 
+todo sistema de inteligencia artificial debe garantizar la protección de los derechos 
+fundamentales.
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que tomara la votación de la indicación 31 A), literal f).
+Puesta en votación, la indicación fue rechazada por no alcanzar el quorum de 
+aprobación. Votaron a favor las diputadas Érika Olivera y Marcela Riquelme.  Votó en contra 
+la diputada Paula Labra. Se abstuvo el diputado Tomás Lagomarsino (2-1-1).
+El diputado Tomás Lagomarsino planteó al Ejecutivo la posibilidad de diferenciar 
+entre los conceptos de transparencia y explicabilidad, ya que se trataría de dos cuestiones 
+diferentes. Por un lado, la compatibilidad entre transparencia y secreto industrial, y, por otro, 
+la delimitación del criterio de razonabilidad para el resguardo de garantías.
+Sobre el particular, manifestó que la falta de explicación de ciertos desarrollos podría 
+llevar a limitaciones innecesarias en avances tecnológicos beneficiosos. Como ejemplo, 
+mencionó un sistema de inteligencia artificial capaz de diagnosticar múltiples patologías a 
+partir de una resonancia magnética, destacando que, aunque no se comprendiera
+12
+--- PÁGINA 13 ---
+completamente el proceso que llevaba a su diagnóstico, la efectividad comprobada del 
+sistema podría justificar su uso.
+Finalmente, aclaró que su intención no era obstaculizar el debate, sino reflexionar 
+sobre la importancia de no restringir las innovaciones solo porque su funcionamiento 
+resultara difícil de explicar.
+Letra f)
+Indicaciones:
+31 A) Del Ejecutivo para reemplazar la letra f) del artículo 8 del proyecto por la 
+siguiente:
+“f) Mecanismos de supervisión humana: Los sistemas de IA de alto riesgo deberán 
+contar con mecanismos técnicos y operativos, que permitan su supervisión por personas 
+naturales técnicamente capacitadas para esta función. La supervisión deberá garantizar 
+que el sistema se utilice conforme a su finalidad prevista y, además, identificar y mitigar los 
+riesgos asociados a un uso indebido razonablemente previsible, con el fin de evitar 
+impactos negativos en los derechos fundamentales de las personas.”.
+La señora Aisén Etcheverry explicó que el fin de la indicación es mantener la 
+coherencia con las modificaciones realizadas al inicio del debate, y señaló que, en lugar de 
+referirse a riesgos específicos para la salud o seguridad, se optó por un enfoque más 
+amplio, centrado en evitar impactos negativos en los derechos fundamentales de las 
+personas.
+El diputado Tomas Lagomarsino planteó la necesidad de diferenciar entre la 
+supervisión del funcionamiento de un sistema de inteligencia artificial y la supervisión de las 
+decisiones que este pueda tomar.
+Al respecto, mencionó el caso de ChatGPT, que responde miles de millones de 
+preguntas de usuarios de todo el mundo, indicando que la supervisión individual de cada 
+resultado es, en este caso, prácticamente inviable.
+Dicho aquello, preguntó sobre qué debía ser objeto de supervisión, si los resultados 
+específicos arrojados por un sistema de inteligencia artificial o su funcionamiento general 
+como algoritmo.
+La ministra Aisén Etcheverry explicó que el tema en discusión se refiere a sistemas 
+que puedan representar un riesgo significativo para los derechos fundamentales, no a 
+sistemas que, por ejemplo, recomienden una película.
+Para ilustrar su postura, recordó el caso de las primeras versiones de chatbots, los 
+que, por no contar con una supervisión adecuada, comenzaron a generar contenido 
+violento. Sostuvo que situaciones similares deben activar respuestas inmediatas, como la 
+intervención humana u otros mecanismos de alerta.
+Luego, reiteró lo dicho a propósito del fundamento de una indicación anterior, en el 
+sentido de que es fundamental analizar cada caso desde la perspectiva del derecho que se 
+busca proteger y del tipo de intervención humana que se requiere, y señaló que la postura 
+del Ejecutivo es que haya un control humano en aquellos casos en que pueda existir una 
+afectación a los derechos fundamentales.
+Finalmente, explicó que la forma específica de exigir este control dependerá del 
+trabajo del comité técnico asesor, ya que es el encargado de definir los estándares.
+La diputada Paula Labra expresó su acuerdo con lo planteado por el diputado 
+Lagomarsino e indicó que la supervisión debe garantizar que el sistema se utilice conforme 
+a su finalidad prevista. Consideró que resulta complejo que la supervisión humana pueda 
+asegurarse de que el usuario final haga un uso adecuado del sistema.
+Además, señaló que la redacción del texto podría interpretarse de manera ambigua, 
+dejando abierta la duda sobre si la supervisión debe centrarse en el uso, el funcionamiento 
+o el desarrollo del sistema. Por ello, sugirió que se precise este aspecto para evitar 
+confusiones.
+13
+--- PÁGINA 14 ---
+La señora Aisén Etcheverry recordó que los usuarios finales están excluidos del 
+ámbito de aplicación de la ley y explicó que el término “utilización” se aplicaría únicamente 
+a los operadores. Con esto, aclaró que la responsabilidad de garantizar el uso conforme a 
+la finalidad prevista recaerá en quienes tengan un grado de involucramiento con el sistema 
+y no en los usuarios finales.
+La diputada Paula Labra, tras escuchar la explicación de la ministra, planteó una 
+duda sobre la redacción propuesta. Se preguntó si, en lugar de “la supervisión deberá 
+garantizar que el sistema se utilice”, debiese decir “la supervisión deberá garantizar que el 
+operador utilice el sistema conforme a su finalidad prevista".
+Señaló que, en su opinión, sería conveniente aclarar este punto en la redacción para 
+evitar posibles confusiones.
+El diputado Tomás Lagomarsino destacó la presencia del señor Raimundo 
+Roberts. Mencionó que tiene un caso ejemplificador muy relevante que podría ser 
+compartido con los presentes. Por lo mismo, pidió a la Presidenta que le diera la palabra.
+El señor Raimundo Roberts, investigador de la Biblioteca del Congreso 
+Nacional, se refirió a un caso en Australia, relacionado con un sistema desarrollado para 
+mejorar la eficiencia en ciertos gastos públicos, específicamente en pagos sociales.
+Explicó que se había creado una máquina, la cual, tras un largo proceso dentro del 
+gobierno australiano, mostró fallos. Esta tomaba decisiones incomprensibles y no existía 
+un sistema que permitiera a los técnicos investigar su funcionamiento. Además, la máquina 
+solicitaba devoluciones de dinero a las personas sin una manera clara de entender por qué.
+Relató que, a partir de una investigación parlamentaria en Australia, se concluyó que 
+debe existir un mecanismo de regulación que permita, por transparencia, que los técnicos 
+puedan acceder al sistema y comprender las decisiones tomadas, especialmente cuando 
+estas afectan derechos sociales.
+Luego, comparó este caso con lo dicho por el diputado Lagomarsino, señalando 
+que, a diferencia de los sistemas que detectan enfermedades y cuyos resultados pueden 
+ser comprendidos, en los casos de decisiones que afectan los derechos de las personas, 
+como en Australia, la falta de transparencia generó un vacío de responsabilidad; una que 
+nadie asumía, ya que todos decían que no era su tarea. Enfatizó, por tanto, la necesidad 
+de contar con transparencia y explicabilidad, lo que implicaría permitir el acceso de los 
+técnicos a estos sistemas y registrar las razones detrás de las decisiones tomadas.
+El diputado Tomás Lagomarsino señaló que, debido a la complejidad de 
+determinar cuántas personas deberían supervisar un sistema de inteligencia artificial, es 
+difícil establecer una cantidad específica de supervisores para cada caso. A pesar de esto, 
+destacó que la industria debe ser consciente de la necesidad de asignar supervisores 
+adecuados.
+Desde la perspectiva de los implementadores, explicó que las empresas e 
+instituciones del Estado encargadas de implementar estos sistemas deberían contar con 
+equipos de supervisión, aunque no sea posible detallar el número exacto de personas que 
+deberían estar a cargo.
+Agregó que, aunque no se pretende regular hasta el más mínimo detalle, las malas 
+prácticas podrían generar la necesidad de avanzar hacia regulaciones más estrictas en el 
+futuro.
+Asimismo, enfatizó que la supervisión humana debe ser idónea para el tipo de 
+inteligencia artificial que se esté utilizando, y destacó que la supervisión no siempre sería 
+de una sola persona, sino que en algunos casos sería necesario un equipo o una 
+supervisión continua, especialmente cuando los sistemas de inteligencia artificial operan 
+las 24 horas del día, los siete días de la semana. Subrayó que la supervisión debe ser 
+constante y adecuada, especialmente en sistemas de alto riesgo, y no limitarse a un horario 
+de oficina.
+14
+--- PÁGINA 15 ---
+Concluyó su intervención reafirmando que se está entendiendo que la supervisión 
+debe ser realizada por personas calificadas y en función de las características del sistema 
+de inteligencia artificial supervisado.
+La diputada Paula Labra destacó la necesidad de especificar claramente qué se 
+debe supervisar, si el uso o el desarrollo del sistema.
+Aclaró que, aunque la ministra mencionó que se había dejado fuera al usuario final, 
+en una sesión anterior se había discutido un literal que hacía referencia a la documentación 
+técnica, y recordó que, en ese contexto, la asesora representante del ministerio presente 
+en esa explicó que dicha documentación debe ser inteligible para quien la solicite, lo que 
+incluiría al usuario final.
+Subrayó que no se puede asumir tácitamente que el término supervisión nunca se 
+referirá al usuario final. Por ello, sugirió que sería útil especificar si, cuando se dice que el 
+sistema debe usarse conforme a su finalidad prevista, se está haciendo referencia al uso 
+por parte del usuario final.
+La señora Aisén Etcheverry valoró lo dicho por el diputado Lagomarsino, en el 
+sentido de que era un aspecto muy relevante para la historia de la ley.
+En relación con la intervención de la diputada Labra, se mostró de acuerdo con la 
+propuesta de redacción, ya que está alineada con lo que se busca, y agregó que, si el texto 
+se aprobara tal como está, probablemente añadirían esa frase en un conjunto de 
+indicaciones en un trámite posterior.
+Luego, expresó que, si el objetivo es garantizar que el operador utilice el sistema de 
+acuerdo con la finalidad prevista, es importante especificar que es el operador quien debe 
+cumplir esa obligación.
+31 B) Del diputado Lagomarsino para agregar a la letra g) de la indicación 31 A, 
+que propone reemplazar el literal f) del artículo 8, entre la frase "para esta función", y previo 
+al punto, la frase "de forma idónea y proporcional.".
+El diputado Tomás Lagomarsino aclaró que la expresión “de forma idónea y 
+proporcional” garantiza una supervisión adecuada y acorde al tamaño del modelo de IA de 
+que se trate, porque un sistema de inteligencia artificial que genera miles de resultados 
+diarios no se compara con uno que opera de manera menos intensiva.
+Asimismo, explicó que su indicación no busca establecer parámetros estrictos, sino 
+delimitar un marco de buenas prácticas, pues la empresa responsable del sistema deberá 
+determinar qué se considera idóneo y proporcional.
+La diputada Marcela Riquelme preguntó si los términos “idóneo” y “proporcional” se 
+refieren a los mecanismos técnicos y operativos o a las personas naturales a cargo de la 
+supervisión de los sistemas de inteligencia artificial. Planteó que, en su opinión, los adjetivos 
+califican a los mecanismos.
+En ese escenario, propuso agregar, luego de “mecanismos técnicos y operativos,” 
+la frase “entre ellos las personas…”, si abarca a ambos, porque, si la expresión se consigna 
+antes de punto seguido, solo aplica a las personas.
+El diputado Tomás Lagomarsino respondió que la supervisión debe entenderse 
+como un concepto integral, ya que su eficacia depende tanto de factores técnicos y 
+operativos como del componente humano; es decir, son mecanismos las pantallas, los 
+equipos informáticos y el personal capacitado a cargo de la supervisión, entre otros 
+elementos.
+Por lo tanto, precisó que su indicación es a fin de que la supervisión, en su conjunto, 
+sea idónea y proporcional, lo cual comprende a los mecanismos técnicos y operativos y a 
+las personas naturales que realizan la supervisión, considerando horarios, capacitación y 
+cantidad de supervisores, entre otros aspectos.
+Finalmente, en razón de la experiencia jurídica de la diputada Marcela Riquelme, le 
+solicitó determinar dónde era apropiado consignar “de forma idónea y proporcional.”.
+15
+--- PÁGINA 16 ---
+La diputada Marcela Riquelme planteó que debía agregarse, antes de la expresión 
+“de forma idónea y proporcional.”, una coma, puesto que así se comprende que se trata de 
+todo el contexto.
+La diputada Paula Labra, tras señalar que no entendía el propósito de la indicación 
+del diputado Lagomarsino, planteó que lo que es necesario precisar es qué elementos del 
+sistema de inteligencia artificial deben someterse a supervisión humana.
+Desde esa perspectiva, solicitó al Ejecutivo redactar nuevamente la indicación para 
+acotar el alcance de la supervisión humana, a fin de que no se interprete que las personas 
+naturales técnicamente capacitadas deben fiscalizar, por ejemplo, el uso final, vale decir, lo 
+que hacen los usuarios.
+El diputado Tomás Lagomarsino sostuvo que precisar los aspectos a supervisar 
+puede contraponerse al objetivo consensuado de establecer normas flexibles y promover 
+el desarrollo, porque, dependiendo de las características propias del sistema de IA, la 
+supervisión se centra en el algoritmo o en los resultados.
+A modo de ejemplo, señaló que un sistema de inteligencia artificial que informa 
+mamografías debe ser supervisado por un radiólogo que detecte posibles errores caso por 
+caso, a diferencia de otros usos que requieren que se supervise el funcionamiento general 
+del algoritmo.
+La diputada Paula Labra afirmó que no propuso especificar los elementos a 
+supervisar, sino determinar si la supervisión se refiere al uso final del sistema, su desarrollo 
+o su implementación, porque una supervisión humana amplia, como la que establece 
+actualmente la indicación, necesita un número significativo de personas que la efectúen.
+La ministra Aisén Etcheverry estuvo de acuerdo en que es necesario que se 
+incorporen los principios de proporcionalidad e idoneidad, los que también debe considerar 
+el Consejo Asesor Técnico de IA para establecer estándares.
+Asimismo, coincidió con la diputada Labra en que el objetivo es el operador, no el 
+usuario final, pero sostuvo que el texto actual lo daba a entender con claridad.
+No obstante, la ministra hizo presente que estaba circulando una propuesta que 
+integra ambas ideas.
+Por último, manifestó que las propuestas de los diputados no contradicen la idea 
+matriz del mensaje del Ejecutivo.
+La diputada Érika Olivera, Presidenta, puso en votación la indicación del diputado 
+Lagomarsino que, a diferencia de su primera versión, agrega una coma antes de “de forma 
+idónea y proporcional.”.
+Puesta en votación la indicación, fue aprobada por unanimidad, con los votos a 
+favor de las diputadas Paula Labra, Marcela Riquelme y Érika Olivera y del diputado Tomás 
+Lagomarsino (4-0-0).
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 19:30 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+16

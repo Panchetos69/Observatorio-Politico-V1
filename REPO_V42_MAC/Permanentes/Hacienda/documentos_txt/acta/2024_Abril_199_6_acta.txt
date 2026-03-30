@@ -1,0 +1,334 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=20186&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 05:08:25
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN ORDINARIA 199ª DE LA COMISIÓN DE HACIENDA, CORRESPONDIENTE AL 
+PERIODO LEGISLATIVO 2022-2026, CELEBRADA EL MARTES 16 DE ABRIL DE 2024, 
+CITADA DE 15.00 A 17:00 HORAS
+SUMARIO
+La presente sesión tiene por objeto 
+iniciar la discusión del proyecto de ley 
+que modifica el decreto con fuerza de 
+ley N°1, de 2005, del Ministerio de 
+Salud, que fija el texto refundido, 
+coordinado 
+y 
+sistematizado 
+del 
+decreto ley N°2.763, de 1979, y de las 
+leyes N°18.933 y N°18.469, en las 
+materias que indica, crea un nuevo 
+modelo de atención en el Fonasa, 
+otorga facultades y atribuciones a la 
+Superintendencia de Salud y modifica 
+normas relativas a las instituciones de 
+salud previsional, Boletín N°15.896-
+11 (S), con urgencia calificada de 
+Suma. 
+ 
+Se inició la sesión a las 15:02 horas.
+1. ASISTENCIA
+Diputados asistentes: Barrera, Boris; Bianchi, Carlos; Cid, Sofía; Cifuentes, 
+Ricardo; Mellado, Miguel; Naranjo, Jaime; Ramírez, Guillermo; Rojas, Camila; Romero, 
+Agustín; Sáez, Jaime; Sepúlveda, Alexis; Von Mühlenbrock, Gastón; Yeomans, Gael. Otros 
+diputados: Lagomarsino, Tomás ; Ulloa, Héctor. (Presidente).
+Asistieron en representación del Ejecutivo, la Ministra de Salud, señora 
+Ximena Aguilera Sanhueza junto con el Superintendente de Salud, señor Víctor Torres 
+Jeldes, el Director (S) de Fonasa, señor Juan Fuentes Diaz y el Jefe de División de 
+Planificación y desarrollo estratégico de Fonasa, señor Matías Goyenechea Hidalgo. 
+Asimismo, asiste del Ministerio de Hacienda, el Coordinador de Mercado de Capitales, 
+señor Alejandro Puente Gómez.
+Actuó como Secretaria Abogado de la Comisión la señora María Eugenia 
+Silva Ferrer y como abogado ayudante el señor Sebastián Flores Cuneo.
+1
+Firmado por María Eugenia Silva Ferrer
+Fecha 24/04/2024 11:24:14 CLT
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: B10C4EA2F099EC18
+--- PÁGINA 2 ---
+2. CUENTA
+Se recibió el siguiente documento:
+1.- Excusa del Ministro de Hacienda, señor Mario Marcel Cullell, indicando la 
+asistencia del Coordinador de Mercado de Capitales Sr. Alejandro Puente.
+3. ORDEN DEL DÍA 
+ 
+La Ministra de Salud presentó un proyecto de ley que propone una serie de 
+modificaciones significativas al DFL N°1 de 2005 del Ministerio de Salud, con el objetivo de 
+mejorar la eficiencia y equidad del sistema de salud público y privado en Chile. Este 
+proyecto de ley busca crear un nuevo modelo de atención en FONASA y ampliar las 
+facultades regulatorias de la Superintendencia de Salud para asegurar una implementación 
+más efectiva y justa de las políticas de salud.
+La iniciativa introduce la Modalidad de Cobertura Complementaria (MCC) 
+en FONASA, que permite a esta entidad actuar como intermediario en seguros voluntarios 
+complementarios. Esta modalidad está diseñada para proporcionar una cobertura 
+financiera adicional a los beneficiarios del sistema público, ofreciendo acceso a servicios 
+de salud en prestadores privados bajo condiciones preferenciales. Además, se establece 
+un seguro catastrófico dentro de esta modalidad para ofrecer protección contra eventos de 
+salud de alto costo.
+La Ministra destacó la importancia de adaptar el sistema a las sentencias 
+recientes de la Corte Suprema, que han modificado la aplicación de la Tabla Única de 
+Factores de Riesgo. A partir de 2019, esta tabla excluye el factor sexo, lo que implica ajustes 
+en la determinación del precio de los planes de salud en las ISAPREs. El proyecto responde 
+a esta necesidad legal y social, asegurando que los precios sean justos y no 
+discriminatorios.
+En respuesta a los problemas históricos de cobros excesivos en el sistema 
+de ISAPREs, la ley propone un marco para la devolución de los cobros en exceso realizados 
+bajo tablas de factores antiguas. Esto incluye un plan de pagos detallado que las ISAPREs 
+deben seguir para compensar a los afectados, priorizando a los beneficiarios mayores y 
+más vulnerables.
+El proyecto también busca evitar futuras judicializaciones en el ámbito de la 
+salud privada, mediante la implementación de nuevas facultades para la Superintendencia 
+de Salud. Estas incluyen la autoridad para ajustar los precios base y las primas GES que 
+las ISAPREs pueden cobrar, introduciendo más transparencia y previsibilidad en el sistema. 
+Además, se facilita la solvencia de las ISAPREs mediante la posibilidad de proponer primas 
+extraordinarias, con límites estrictos para proteger a los consumidores de aumentos 
+desproporcionados.
+Finalmente, la Ministra enfatizó que este proyecto es un paso crucial para 
+fortalecer el sistema público de salud, mejorando la administración y eficiencia de FONASA, 
+y asegurando la continuidad de tratamientos médicos incluso frente a insolvencias de
+2
+--- PÁGINA 3 ---
+ISAPREs. El objetivo último es garantizar que todos los ciudadanos chilenos tengan acceso 
+a un sistema de salud que sea tanto inclusivo como equitativo.
+Tras la exposición, el Diputado Ulloa abordó varios puntos críticos respecto 
+al proyecto de ley presentado, que busca modificar aspectos del sistema de salud público 
+y privado. Empezó destacando que la propuesta legislativa surge en respuesta a un fallo 
+de la Corte Suprema que ordena el pago por cobros indebidos según la aplicación incorrecta 
+de tablas de factores de riesgo. Subrayó la importancia de establecer un método claro y 
+justo para la devolución de estos cobros, cuestionando especialmente el plazo de 10 años 
+propuesto para saldar la deuda, que considera excesivamente largo y poco prudente, dada 
+la expectativa de los acreedores de una resolución más rápida.
+Criticó que el proyecto de ley proponga ajustes en el pago, pero no 
+contemple intereses sobre las sumas adeudadas, lo que según él resulta en dos montos 
+distintos: el adeudado hoy y el que se pagaría en una década, afectado por la inflación y 
+sin generar intereses adicionales. También expresó preocupaciones sobre la participación 
+de compañías de seguros vinculadas a holdings que han estado implicados en prácticas 
+que generaron estas deudas, sugiriendo una prohibición para que estas compañías no 
+participen en la nueva modalidad de seguro complementario propuesta.
+Otro punto de crítica fue el proceso de contratación para la implementación 
+de la nueva modalidad de seguros. Argumentó que la contratación directa propuesta carece 
+de la transparencia y competitividad necesarias para garantizar un proceso de licitación 
+abierto. Propuso modificaciones para asegurar un proceso más transparente y justo.
+Finalmente, se refirió al régimen de excedentes y el riesgo de intervención 
+legislativa en contratos vigentes, comparando la situación con las demandas previas por 
+intervenciones en contratos de renta vitalicia. Resaltó la necesidad de considerar 
+cuidadosamente las implicaciones legales y prácticas de tales cambios, sugiriendo la 
+introducción de indicaciones para mejorar la transparencia y ajustar el manejo de la deuda 
+de manera que no termine recayendo injustamente en los propios afectados.
+El Diputado Sepúlveda criticó la carga financiera impuesta a los usuarios del 
+sistema de salud a causa de prácticas indebidas por parte de las ISAPREs, destacando la 
+contradicción de que sean los consumidores quienes paguen por los errores de las 
+aseguradoras. Abordó el impacto de un "primer salvataje" gubernamental a las ISAPREs, 
+cuestionando cuánto han subido y seguirán subiendo los planes de salud como resultado 
+de este y futuros rescates financieros. Subrayó que los responsables de las malas prácticas 
+deben asumir los costos derivados de sus acciones, en vez de trasladarlos a los usuarios, 
+que terminan doblemente afectados, pagando más por un servicio comprometido por la 
+gestión inadecuada y las decisiones empresariales cuestionables.
+El Diputado Mellado expresó preocupaciones sobre la intromisión de la Corte 
+Suprema en la legislatura, argumentando que esto ha llevado a la necesidad de "arreglar" 
+temas a través de nuevas leyes. Criticó la influencia de cambios en la propiedad de las 
+ISAPREs, que pasaron de fundadores locales a fondos de inversión internacionales, 
+complicando la gestión y responsabilidad. Cuestionó también la carga financiera impuesta 
+a los usuarios mediante el aumento de las primas y otros costos administrativos no 
+considerados en las reformas propuestas, sugiriendo que se podría ofrecer a los usuarios
+3
+--- PÁGINA 4 ---
+la opción de recibir servicios en lugar de reembolsos monetarios. Señaló la falta de consulta 
+y consideración hacia los usuarios finales en el proceso legislativo y la necesidad de un 
+equilibrio que proteja la viabilidad del sistema sin sacrificar la calidad o asequibilidad del 
+servicio. Abogó por enmiendas que aseguren una gestión más justa y eficaz del sistema de 
+salud, preservando su sostenibilidad a largo plazo.
+La Diputada Rojas destacó la necesidad de mejorar y aumentar la capacidad 
+del sistema de salud público, aludiendo a su propia experiencia como usuaria y la de 
+aproximadamente el 80% de los chilenos que dependen de este sistema. Subrayó la 
+importancia de no descuidar al 20% que utiliza ISAPREs, argumentando que la legislación 
+debe atender a todas las esferas de salud. Respondiendo al Diputado Mellado, enfatizó que 
+las decisiones de la Corte Suprema surgieron debido a abusos percibidos por los usuarios 
+de ISAPREs, quienes se vieron forzados a buscar justicia judicial ante la inacción legislativa 
+y ejecutiva. Argumentó que este contexto histórico de negligencia obliga al actual gobierno 
+a tomar medidas decisivas para equilibrar el sistema y cumplir con los mandatos judiciales, 
+especialmente en lo que respecta al establecimiento de un plan de pago y la 
+implementación de una tabla única de factores de riesgo. Instó a una acción legislativa 
+diligente para rectificar estos problemas prolongados y mejorar el sistema de salud para 
+todos los chilenos.
+El Diputado Romero expresó su intención de cuestionar la constitucionalidad 
+de varias disposiciones del proyecto de ley, destacando que similares preocupaciones ya 
+fueron presentadas al Tribunal Constitucional por miembros de su mismo partido en el 
+Senado. Señaló que las normas en cuestión podrían violar la exclusividad del ejecutivo en 
+materia presupuestaria y aspectos de seguridad social. A pesar de su oposición política al 
+gobierno actual, Afirmó su apoyo al proyecto porque, según él, es esencial avanzar en la 
+solución de los problemas de salud. Criticó la tendencia a polarizar el debate etiquetando a 
+los actores políticos como buenos o malos y propuso en lugar de eso, trabajar juntos para 
+mejorar el sistema de salud. Resaltó la importancia de incluir a expertos con experiencia en 
+seguros complementarios, como las cajas de compensación, para enriquecer la propuesta, 
+y abogó por mantener la viabilidad del sistema de salud, garantizando cobertura a los 
+millones de chilenos que dependen de ella.
+El Diputado Ramírez criticó la intervención de la Corte Suprema en esta 
+materia, señalando que, aunque hubo fallas legislativas y gubernamentales anteriores, no 
+justifican que otro poder del Estado usurpe roles no asignados. Destacó la falta de claridad 
+en las cifras financieras involucradas en el proyecto, especialmente los $1.4 mil millones de 
+dólares mencionados en debates sin una base clara, cuestionando la exactitud y las fuentes 
+de tales cifras. Expresó su preocupación por centrar el debate en aspectos financieros en 
+lugar de mejorar el modelo de salud. Indicó que el proyecto parece prepararse para la 
+eventual quiebra de algunas ISAPREs, lo cual podría resultar en una carga adicional para 
+FONASA y los contribuyentes, especialmente si los enfermos crónicos terminan siendo los 
+más afectados. Solicitó mayor claridad sobre los costos que estas transiciones implicarían 
+para el sistema de salud público y para el estado.
+El Diputado Bianchi enfatizó que el motivo principal de la legislación actual 
+no es solo un fallo de la Corte Suprema, sino también los abusos históricos cometidos por 
+las aseguradoras de salud, destacando que estos problemas sistémicos son lo que
+4
+--- PÁGINA 5 ---
+realmente necesita atención. Criticó la falta de acción legislativa y ejecutiva anterior que 
+permitió estos abusos, señalando que esto llevó a los afectados a buscar justicia a través 
+del sistema judicial. Expresó preocupación por las propuestas que permitirían a las mismas 
+aseguradoras abusivas continuar operando en el sistema, calificando estas acciones como 
+inmorales y cuestionando la ética detrás de permitir que las mismas entidades gestionen 
+seguros de salud en el futuro. Hizo un llamado a reconsiderar la inclusión de estas 
+aseguradoras en el nuevo sistema y sugirió que se debería buscar alternativas que no 
+incluyan a los abusadores históricos, buscando una reforma que realmente beneficie la 
+salud pública y proteja a los ciudadanos de futuros abusos.
+El Diputado Sáez coincidió con su antecesor en el uso de la palabra en el 
+sentido de concluir que el debate actual sobre la reforma de salud está influenciado no solo 
+por un fallo de la Corte Suprema sino principalmente por los abusos históricos de las 
+aseguradoras de salud. Destacó que el proyecto de ley es más complejo y sistémico de lo 
+que se ha discutido, abarcando nuevas modalidades en Fonasa y reestructuraciones en la 
+supervisión de la salud. Argumentó que las compañías de seguros deben ser responsables 
+de sus estructuras de costos para mantener la sostenibilidad del sistema. También enfatizó 
+que no se puede esperar que la legislación salve a las compañías insalvables y sugirió que 
+cualquier transición hacia modelos de seguro complementario debe incluir incentivos claros 
+para las ISAPREs, no solo restricciones. Abogó por una discusión más amplia sobre la 
+seguridad social en salud y la necesidad de clarificar la magnitud de la deuda de las 
+ISAPREs mediante la ley, sugiriendo que los holdings controladores deberían 
+responsabilizarse solidariamente por las deudas, incluyendo intereses por mora en caso de 
+incumplimientos en los pagos.
+El Diputado Lagomarsino destacó la respuesta institucional frente a la crisis 
+en el sistema de salud, reconociendo el esfuerzo del Ejecutivo al presentar el proyecto de 
+ley como evidencia de su compromiso para no dejar caer las ISAPREs. También valoró la 
+labor del Congreso, que ha trabajado arduamente para abordar las complejidades que 
+presenta la normativa, proponiendo un nuevo modelo de atención en Fonasa y otorgando 
+mayores facultades a la Superintendencia de Salud. Remarcó la importancia de centrar las 
+discusiones en las necesidades inmediatas de los pacientes, incluyendo embarazadas y 
+personas en tratamientos críticos, independientemente de su afiliación. Adicionalmente, 
+criticó la falta de acción del sistema político durante años, que llevó a la intervención de la 
+Corte Suprema para llenar un vacío dejado por la falta de medidas legislativas adecuadas. 
+En su discurso, destacó que la estructura de costos de las ISAPREs y la transición a una 
+tabla única de factores de riesgo han creado desbalances financieros, pero subrayó la 
+necesidad de encontrar un equilibrio que permita la sostenibilidad del sistema sin perjudicar 
+a las partes involucradas.
+El Diputado Barrera criticó la actuación histórica de las ISAPREs, 
+enfocándose en el abuso y engaño hacia sus usuarios, lo que eventualmente llevó a la 
+intervención de la Corte Suprema. Subrayó la necesidad de que el gobierno tome medidas 
+para no solo asegurar que las ISAPREs devuelvan los cobros excesivos realizados, sino 
+también para fortalecer el sistema público de salud, especialmente dado que muchos 
+chilenos están migrando de las ISAPREs a Fonasa. Expresó su preocupación de que los 
+costos de cualquier ajuste financiero no recaigan sobre los usuarios y cuestionó la
+5
+--- PÁGINA 6 ---
+efectividad de las medidas actuales para proteger a los consumidores y mejorar el sistema 
+de salud. Su posición se resume en tres expectativas del proyecto de ley: que las ISAPREs 
+rindan cuentas y reembolsen lo cobrado de más, que se refuerce el sistema de salud 
+pública, y que la carga financiera de los ajustes no caiga sobre los ciudadanos. Además, 
+planteó una pregunta sobre el papel consultivo o vinculante del consejo en relación con 
+estas resoluciones.
+El Diputado Naranjo interpretó la resolución de la Corte Suprema como una 
+revelación del abuso sistemático de las ISAPREs hacia los cotizantes y como un catalizador 
+de un hecho político significativo que ha polarizado opiniones sobre el futuro de las 
+ISAPREs. Algunos temían que el fallo fuera una estrategia del gobierno para desmantelar 
+el sistema privado de salud, mientras que otros lo vieron como una oportunidad para 
+erradicarlo. Valoró el proyecto de ley presentado por el Ejecutivo como un equilibrio entre 
+reformar profundamente el sistema privado y fortalecer el sistema público, Fonasa. Destacó 
+que el proyecto no busca la eliminación de las ISAPREs sino su transformación y la mejora 
+simultánea de Fonasa. Argumentó que la controversia y el debate generado son 
+fundamentales para replantear cómo deben funcionar ambos sistemas de salud en Chile, 
+abogando por una discusión amplia sobre la futura configuración del sistema de salud 
+privado y la integración de los usuarios y el estado en la gobernanza de las ISAPREs.
+El Diputado Cifuentes expresó su preocupación por la persistente 
+desigualdad entre el sistema de salud público y el privado en Chile, a pesar de las reformas 
+propuestas en el proyecto de ley discutido. Reconoció que, aunque el proyecto aborda 
+algunos problemas importantes, no ofrece soluciones significativas para los desafíos 
+críticos del sistema público, como las largas listas de espera, que siguen siendo una 
+urgencia sin respuesta adecuada. Criticó la falta de compromiso del gobierno para 
+redistribuir recursos de manera efectiva para aliviar estos problemas y destacó que 
+cualquier reforma que no considere una mejora tangible en el acceso y la calidad de la 
+atención pública es insuficiente y moralmente cuestionable. Además, mostró su 
+preocupación por la falta de datos concretos sobre los costos y los plazos de 
+implementación del proyecto, lo que complica la posibilidad de tomar decisiones 
+informadas. Abogó por enfoques más creativos e inclusivos que puedan ofrecer soluciones 
+reales y comprensivas a todos los chilenos, no solo a aquellos afiliados a las ISAPREs.
+El Diputado Sepúlveda expresó su frustración por la falta de críticas hacia 
+las ISAPREs por parte de parlamentarios de derecha, destacando que, a pesar de los 
+evidentes abusos cometidos por estas entidades, no ha habido un reconocimiento o mea 
+culpa por su parte. Criticó la tendencia a desviar la responsabilidad hacia otros actores 
+como el Gobierno y el Poder Judicial, mientras se omite cualquier deber de las ISAPREs 
+en los problemas actuales del sistema de salud. Argumentó que esta falta de crítica dificulta 
+un debate honesto y balanceado sobre la reforma del sistema de salud y sugirió que 
+reconocer los errores del pasado es crucial para avanzar en las discusiones. Además, 
+lamentó que el Gobierno intervenga para resolver los problemas causados por malas 
+prácticas del sector privado de la salud, y subrayó que los costos de estas intervenciones 
+acaban recayendo injustamente sobre los contribuyentes y usuarios del sistema de salud y 
+no sobre los responsables de los abusos.
+6
+--- PÁGINA 7 ---
+La Diputada Yeomans resaltó la necesidad de un diagnóstico común en la 
+Cámara sobre los problemas que han llevado a la necesidad de este proyecto de ley, 
+enfocando su crítica en la dualidad del sistema de salud que propone mantener un sector 
+privado bajo nuevas regulaciones y un sector público que requiere fortalecimiento. Destacó 
+la importancia de entender cómo funcionará el seguro de catástrofe dentro de la nueva 
+modalidad de cobertura complementaria de Fonasa y cómo se manejarán las emergencias 
+médicas bajo este esquema. Además, expresó su deseo de que el proyecto no solo 
+resuelva algunos problemas inmediatos, sino que también incorpore una visión más amplia 
+para tratar las listas de espera prolongadas y mejorar significativamente el sistema de salud 
+pública. También subrayó la necesidad de fiscalización y regulación efectivas de las 
+ISAPREs por parte de la Superintendencia de Salud para prevenir futuras crisis y asegurar 
+que las ISAPREs cumplan con sus obligaciones sin cargar los costos a los usuarios.
+La Ministra Aguilera destacó el compromiso del gobierno en manejar la crisis 
+potencial en el sistema de ISAPREs a través del proyecto de ley presentado, subrayando 
+la intención de mantener la estabilidad del sistema y asegurar el acceso a la atención 
+médica. Explicó que el proyecto busca cumplir con la sentencia de la Corte Suprema para 
+rectificar los cobros excesivos y asegurar la financiación continua de las prestaciones 
+médicas para todos los afiliados, además de mejorar la cobertura del sistema público 
+Fonasa. También hizo hincapié en la introducción de una cobertura complementaria 
+público-privada que beneficiaría a todos los chilenos. La Ministra reiteró la responsabilidad 
+del gobierno de enfrentar las prácticas cuestionables del pasado y de trabajar hacia un 
+sistema que combine efectivamente elementos de los seguros privados y públicos bajo 
+regulaciones justas y equitativas, para lo cual se considerarán nuevas medidas legislativas 
+que refuercen la regulación y transparencia del sistema de salud.
+Luego, abordó dos aspectos clave del proyecto de ley en relación con la 
+cobertura catastrófica: la continuidad del seguro catastrófico para ISAPREs en caso de 
+insolvencia y la integración de un seguro catastrófico en la cobertura complementaria de 
+Fonasa. Aclaró que estos seguros son financieros, diseñados para limitar el riesgo de 
+catástrofe financiera, no para enfermedades catastróficas. Detalló que, aunque el proyecto 
+establece la cobertura financiera catastrófica desde el inicio, se propuso un enfoque 
+gradual, iniciando sin esta cobertura en los primeros años para facilitar la transición y 
+permitir a las empresas ajustar sus costos. Además, abordó la complejidad de perseguir 
+deudas de forma solidaria entre empresas relacionadas, señalando que se estudiaría más 
+a fondo. Sobre el consejo consultivo, explicó que, aunque sus recomendaciones no son 
+vinculantes, se garantizará transparencia en cómo se toman las decisiones administrativas 
+relacionadas con los planes de salud. Enfatizó la importancia de equilibrar las necesidades 
+de las ISAPREs con las exigencias de eficiencia y responsabilidad fiscal, destacando el 
+esfuerzo que requiere la implementación del techo de prima extraordinaria acordado, para 
+asegurar que el sistema de salud privado también contribuya de manera efectiva al 
+bienestar general sin sobrecargar a los asegurados.
+Tras lo anterior, se acordó celebrar el miércoles 17 de 10:30 a 12:30 una 
+sesión especial para continuar con la discusión del proyecto y destinar la sesión ordinaria 
+de este día a este mismo fin.
+7
+--- PÁGINA 8 ---
+4. ACUERDOS
+No se adoptaron acuerdos.
+Las presentaciones de los expositores se encuentran disponibles en 
+formato digital en:
+http://www.camara.cl/legislacion/comisiones/documentos.aspx?prmID=3
+307
+Por haberse cumplido el objeto de esta sesión, se levantó a las 17:19 
+horas.
+MARÍA EUGENCIA SILVA FERRER 
+Secretaria Abogado de la Comisión
+8

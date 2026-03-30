@@ -1,0 +1,631 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=3&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:32:43
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 117ª, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+373ª LEGISLATURA, CELEBRADA EL DÍA LUNES 01 DE DICIEMBRE 2025, DE 
+14.59 A 16:57 HORAS.
+SUMARIO: 
+Se continuó con el trámite de audiencias respecto del 
+proyecto de ley, de origen en moción, que regula la 
+creación y difusión de imitaciones digitales realistas de 
+la imagen, cuerpo o voz de las personas, generadas 
+mediante inteligencia artificial (boletín N° 17795-19), en 
+primer trámite constitucional, con urgencia calificada de 
+“simple”.
+I.- PRESIDENCIA
+Presidió la sesión la diputada Érika Olivera (Presidenta Accidental), actuó como 
+Abogada Secretaria de la Comisión, la señora María Soledad Fredes Ruiz, como Abogada 
+Ayudante, la señora María Jesús Serey Sardá y como secretaria ejecutiva, la señora 
+Teresita Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión señoras Paula Labra, Erika 
+Olivera, Marcela Riquelme y Gael Yeomans, y los diputados integrantes de la Comisión 
+señores Johannes Kaiser, Tomás Lagomarsino, Daniel Lilayu, Rubén Oyarzo y Hernán 
+Palma.
+La diputada Marta Bravo fue reemplazada por el diputado Joaquín Lavín. El diputado 
+Daniel Lilayu fue reemplazado por el diputado Felipe Donoso.
+Concurrió a la orden del día, por el Ministerio de Ciencia, Tecnología, Conocimiento 
+e Innovación los asesores legislativos señora Camila Aguayo y señor Sebastián Galaz.
+Expusieron la Profesora de Derecho de la Universidad de Birmingham, señora Edina 
+Harbinja; el Periodista de la UDP especializado en el uso de redes sociales en la política, 
+señor Marcelo Santos; el Director y Subdirectora del Centro de Estudios en Derecho, 
+Tecnología y Sociedad de la Universidad de Chile, señor Alberto Cerda y señora Danielle 
+Zaror Miralles; el Director del Programa de Derecho, Ciencia y Tecnología de la Pontificia 
+Universidad Católica de Chile, señor Matías Aránguiz Villagrán, acompañado por el 
+Subdirector del Programa, señor Sebastián Dueñas Müller; la Directora de la Fundación 
+Datos Protegidos y profesora de la Facultad de Comunicación e Imagen de la Universidad 
+de Chile, señora Patricia Peña Miranda; en representación de la ONG Derechos Digitales-
+América Latina, la coordinadora de políticas públicas, señora Lucía Camacho; el Presidente 
+y Director de Internet Society Capítulo Chile, señores Jaime Cruz y Diego Lisoni, y el CEO 
+de AI Factory, fundador de Club IA, señor Alec Dickinson.
+III.- ACTAS
+El acta de la sesión 115ª se declaró reglamentariamente aprobada.
+El acta de la sesión 116ª se puso a disposición de las señoras diputadas y señores 
+diputados.
+IV.- CUENTA
+Se recibieron los siguientes documentos:
+1.- Comunicación del jefe de la Bancada de Diputados UDI, por la que informa que 
+la diputada Marta Bravo será reemplazada, en esta sesión, por el diputado Joaquín Lavín.
+Se tuvo presente
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 09/12/2025 11:31:08 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 3436E217D9569228
+--- PÁGINA 2 ---
+2.- Comunicación del jefe de la Bancada de Diputados UDI, por la que informa que 
+el diputado Daniel Lilayu será reemplazado, en esta sesión, por el diputado Felipe Donoso.
+Se tuvo presente
+3.- Correo electrónico del cofundador y CEO de LIDIA Compliance 360, señor 
+Cristobal Auger Hinrichsen, a través del cual excusa su inasistencia a esta sesión por haber 
+tomado conocimiento tarde de la invitación de esta Comisión, y por compromisos 
+corporativos indelegables adquiridos previamente. Queda a disposición para futuras 
+sesiones.
+Se tomó conocimiento
+4.- Informe elaborado por la Biblioteca del Congreso Nacional titulado "Regulación 
+extranjera sobre deepfake", solicitado por esta Comisión en el marco del estudio del 
+proyecto de ley boletín N° 17795-19, en tabla.
+Se tomó conocimiento
+5.- Correo electrónico del señor Francisco Nieto Guzmán, en representación de la 
+Asociación de Productores Fonográficos y Videográficos de Chile A.G. (IFPI Chile A.G.), 
+quien se refiere al proyecto de ley que regula la creación y difusión de imitaciones digitales 
+realistas de la imagen, cuerpo o voz de las personas, generadas mediante inteligencia 
+artificial (boletín N° 17795-19) en tabla, y solicita audiencia con la Comisión para esa 
+asociación gremial a fin de exponer su posición sobre el proyecto.
+Se tomó conocimiento
+V.- ACUERDOS
+Se adoptaron los siguientes acuerdos:
+1.- Votar en general, en la próxima sesión, el proyecto de ley, de origen en moción 
+de los diputados y diputadas Gael Yeomans (A), Lorena Fries, Andrés Giordano, Javiera 
+Morales, Ericka Ñanco, Camila Rojas, Patricio Rosas, Jaime Sáez, Emilia Schneider y 
+Carolina Tello, que regula la creación y difusión de imitaciones digitales realistas de la 
+imagen, cuerpo o voz de las personas, generadas mediante inteligencia artificial (boletín N° 
+17795-19), en primer trámite constitucional, con urgencia calificada de “simple”.
+2.- Oficiar a la Agencia de Energía Nuclear, a fin de que informen a esta Comisión, 
+acerca de las razones que motivaron la solicitud de renuncia del anterior Director Ejecutivo 
+de la Comisión Chilena de Energía Nuclear, señor Luis Huerta Torchio. Si a la sesión del 
+día 15 de diciembre el oficio no tiene respuesta, se invitará a la Agencia de Energía Nuclear 
+a una próxima sesión.
+3.- Poner en tabla, en la sesión del día 15 de diciembre, el proyecto de ley, originado 
+en moción de los diputados Johannes Kaiser, Tomás Lagomarsino y Cristóbal 
+Urruticoechea, que establece límites al desarrollo de la inteligencia artificial, en resguardo 
+de los derechos humanos fundamentales (boletín N° 17112-19), en primer trámite 
+constitucional.
+VI.- ORDEN DEL DÍA:
+Se continuó con el trámite de audiencias del proyecto de ley, de origen en moción de 
+los diputados y diputadas Gael Yeomans (A), Lorena Fries, Andrés Giordano, Javiera 
+Morales, Ericka Ñanco, Camila Rojas, Patricio Rosas, Jaime Sáez, Emilia Schneider y 
+Carolina Tello, que regula la creación y difusión de imitaciones digitales realistas de 
+la imagen, cuerpo o voz de las personas, generadas mediante inteligencia artificial 
+(boletín N° 17795-19), en primer trámite constitucional, con urgencia calificada de 
+“simple”.
+La señora Edina Harbinja, Profesora de Derecho de la Universidad de 
+Birmingham, vía telemática, se dirigió a los presentes en idioma inglés, siendo su 
+intervención traducida en forma simultánea. Se centró en destacar que la propuesta chilena
+2
+--- PÁGINA 3 ---
+optaba por un enfoque basado en la protección de la dignidad, identidad e integridad de las 
+personas, en contraste con modelos de otros países.
+Luego, agregó que en Estados Unidos predominaba una aproximación sustentada 
+en derechos de publicidad y nociones propias de la propiedad intelectual, y que los aspectos 
+de la personalidad se trataban como bienes comerciables. Sin embargo, señaló que en 
+Europa han surgido enfoques distintos, como una iniciativa danesa que proponía enmendar 
+la legislación respectiva para regular representaciones de individuos mediante inteligencia 
+artificial u otras tecnologías, aunque advirtió que ese modelo se inclinaba más hacia la 
+lógica de derechos de autor que hacia la protección de la dignidad. Desde esa perspectiva, 
+afirmó que el proyecto chileno, al enfocarse en la integridad, dignidad, privacidad e 
+identidad de las personas, adoptaba una orientación que consideraba correcta.
+A continuación, valoró la extensión de la prohibición de usos no consensuados de 
+imágenes o voces de personas fallecidas hasta cincuenta años después de su muerte. Al 
+respecto, mencionó que en Dinamarca existía una regulación similar, aunque advirtió que 
+allí se basaba en criterios propios del derecho de autor más que en la protección de la 
+dignidad de la persona fallecida.
+Tras ello, comentó algunos aspectos técnicos del proyecto de ley, ya que, según 
+dijo, algunos términos podían formularse con mayor precisión. En particular, propuso 
+sustituir, en el artículo 1, la expresión “de inteligencia artificial” por “tecnologías digitales”, 
+pues podrían surgir posibles problemas derivados de la falta de una definición legal clara 
+de inteligencia artificial en Chile.
+Asimismo, señaló que en Europa se debatió extensamente en torno a la definición 
+de inteligencia artificial y que, por su amplitud o estrechez, según el caso, puede no capturar 
+todas las técnicas y representaciones relevantes. Por ello, propuso reemplazar el concepto 
+por tecnologías digitales en el artículo inicial.
+También indicó que limitar el objeto a imagen, cuerpo y voz es restrictivo, pues 
+existen otras formas de representación de la persona. Por tanto, sugirió incorporar un 
+término “paraguas”, equivalente a semejanza o parecido, que abarque diversas 
+materializaciones de identidad usadas para crear fakes.
+Por otro lado, mencionó que la definición de consentimiento, presente en el párrafo 
+seis del artículo 3, difiere de la prevista en la ley de protección de datos personales chilena 
+y se alinea con la General Data Protection Regulation (GDPR) europea. A su juicio, esa 
+discrepancia introduce ambigüedad y, por tanto, se debe armonizar la noción de 
+consentimiento. También señaló que falta referirse al consentimiento informado e 
+inequívoco, es decir, la ley debe precisar que no procede un consentimiento inespecífico 
+en los “fakes” genéricos, sino autorizaciones delimitadas por objeto y condiciones.
+Finalmente, la expositora explicó que el proyecto protege derechos post mortem, 
+principalmente mediante los herederos, lo que deja un vacío, en el caso de que la persona 
+quiera decidir en vida los usos póstumos de su identidad, por ejemplo, respecto de los 
+chatbots o la inmortalidad digital. Para resolver el particular, propuso habilitar un 
+consentimiento en vida para usos post mortem, a través del testamento u otro instrumento 
+escrito verificable, con respeto a la autonomía y dignidad. En caso de que no exista 
+consentimiento, sugirió que se aplique el plazo de 50 años contemplado en la ley.
+El señor Marcelo Santos, periodista de la Universidad Diego Portales, inició su 
+presentación explicando que abordaría el tema desde la comunicación, en la que coexisten 
+usos beneficiosos y riesgos severos.
+En primer lugar, señaló que la IA generativa permite comparar programas, traducir 
+contenidos y desplegar chatbots informativos, lo que agiliza la comprensión pública, pero 
+también proliferan esquemas de engaño, como reconocimiento facial falaz y desnudos 
+generados con IA, que dañan a personas y distorsionan la conversación democrática.
+Por otra parte, explicó que en el ámbito electoral la evidencia del International Panel 
+on the Information Environment (IPIE) para 2024 mapeó tácticas de persuasión y disuasión 
+del voto, junto con suplantaciones de identidad altamente verosímiles. Mencionó casos en
+3
+--- PÁGINA 4 ---
+que voces o figuras públicas aparecieron falsamente apoyando candidaturas, lo que resulta 
+persuasivo y difícil de desmentir a tiempo. También planteó que toda regulación debe 
+mitigar esos riesgos, sin sofocar los usos legítimos y socialmente valiosos de la tecnología.
+Además, el periodista Marcelo Santos explicó la problemática asociada a los 
+contenidos falsos y mostró ejemplos, entre ellos, material que afectó a Jeannette Jara, 
+Macri y Evelyn Matthei.
+También desarrolló el problema de las redes inauténticas, que amplifican la 
+desinformación mediante bots, cíborgs y troles. De igual modo, explicó que existen usuarios 
+reales, usuarios falsos y otros que replican información sin verificar, y destacó que algunos 
+contenidos imitan medios encargados de comprobar datos para aparentar legitimidad.
+Luego, el invitado se refirió al carácter transversal del problema. En ese contexto, 
+recordó casos relacionados con el Presidente Gabriel Boric y la excandidata Evelyn Matthei. 
+A su juicio, el desafío consiste en neutralizar al actor tecnológico y no solo su denominación, 
+ya que las etiquetas cambian con el tiempo, y planteó que, más allá de llamarse inteligencia 
+artificial, machine learning, big data o Photoshop, la dificultad sigue siendo la 
+desinformación.
+En razón de lo anterior, el especialista en uso de redes sociales en la política 
+recomendó no centrar la discusión en el concepto de inteligencia artificial, porque lo 
+relevante es enfrentar el espíritu del problema y no la etiqueta tecnológica.
+Además, señaló que la trazabilidad resultaba difícil y recomendó que las sanciones 
+sean ejemplares, dada esa complejidad.
+A continuación, el periodista presentó el problema de la desaparición de evidencia 
+y, desde esa perspectiva, se refirió al intento de golpe de Estado en Brasil. Mencionó que 
+en dos años una parte importante de los videos sobre la invasión a la plaza de los Tres 
+Poderes dejó de estar disponible. Explicó que, al día siguiente de que esos contenidos se 
+criminalizaran, gracias a la prensa y la opinión pública, mucho material comenzó a 
+desaparecer, porque algunas personas publican un video para sembrar duda, lo difunden 
+hasta viralizarlo y después lo retiran para evitar consecuencias legales, lo que provoca que 
+la plataforma elimine el rastro del contenido y nadie conserva una copia.
+En ese contexto, señaló que resulta muy difícil reparar la reputación afectada y que 
+este escenario abre paso al liar’s dividend -el dividendo del mentiroso-, lo que erosiona el 
+proceso democrático.
+Para terminar, el señor Marcelo Santos recomendó acompañar la futura ley de 
+capacitación técnica y competencias, porque las buenas normas resultan difíciles de aplicar 
+sin capacidad de fiscalización.
+La señora Danielle Zaror, subdirectora del Centro de Estudios en Derecho, 
+Tecnología y Sociedad de la Facultad de Derecho de la Universidad de Chile, explicó, 
+vía telemática, que su presentación contaba de dos partes: una exposición técnica a su 
+cargo y una sección jurídica que abordaría el director del centro, profesor Alberto Cerda.
+A continuación, mencionó que hace un año se promulgó la nueva ley de datos 
+personales que entrará en vigor en un año, la cual establece un concepto más complejo de 
+dato personal: “cualquier información vinculada o referida a una persona natural identificada 
+o identificable. Se considerará identificable -aquí viene lo importante- toda persona cuya 
+identidad pueda determinarse, directa o indirectamente, en particular mediante uno o más 
+identificadores, tales como el nombre, el número de cédula de identidad, el análisis de 
+elementos propios de la identidad física,”. Explicó que, según la ley, elementos propios de 
+la identidad física son parte de lo que podría hacer identificable a una persona, como 
+detallará posteriormente en su presentación.
+Técnicamente, describió qué es una deepfake y aclaró que el término no 
+corresponde al nombre real de la tecnología. De hecho, manifestó que este surge a partir 
+de las redes generativas antagónicas (GAN), creadas en 2014 por un ingeniero de Google 
+para fines legítimos, y que recién en 2017 comenzó a popularizarse el término “deepfake” 
+en Reddit, cuando usuarios empezaron a usar la tecnología con fines maliciosos.
+4
+--- PÁGINA 5 ---
+A continuación, explicó que las GAN funcionan mediante dos redes neuronales que 
+compiten: un generador que produce datos sintéticos y un discriminador que evalúa si esos 
+datos son reales o falsos, lo que mejora continuamente los resultados. Para el ámbito del 
+proyecto de ley, señaló que estas redes permiten intercambiar rostros o voces y generar 
+contenido artificial muy realista.
+Posteriormente, la especialista detalló que el uso de las GAN tiene múltiples 
+finalidades legítimas -cinematografía, salud, educación, comunicaciones, videojuegos, 
+ciencia de materiales y comercio electrónico-, pero que también existen prácticas negativas 
+que generan riesgos: suplantación de identidad, desinformación, afectación del honor, 
+fraudes, manipulación política, venganza digital, intervención electoral, manipulación 
+financiera e, incluso, inestabilidad internacional.
+Enseguida, enumeró los actores que utilizan deepfakes: comunidades de 
+aficionados, gobiernos, activistas, delincuentes y también industrias legítimas. En cuanto a 
+las amenazas, afirmó que las deepfakes erosionan la confianza pública, dificultan la labor 
+periodística, pueden afectar la seguridad nacional y generan dudas permanentes sobre la 
+veracidad de cualquier contenido audiovisual.
+Por último, sobre cómo combatirlas, la académica sostuvo que se requiere una 
+combinación de regulación, políticas corporativas, acciones voluntarias de los usuarios, 
+alfabetización digital y desarrollo de tecnologías anti-deepfake. En ese sentido, enfatizó que 
+el proyecto de ley de inteligencia artificial, actualmente en discusión, no aborda 
+adecuadamente estos riesgos.
+El señor Alberto Cerda, director del Centro de Estudios en Derecho, Tecnología 
+y Sociedad de la Universidad de Chile, vía telemática, en primer lugar, agradeció la 
+invitación y felicitó la iniciativa legislativa, respaldando desde su institución la necesidad de 
+regular las imitaciones digitales realistas generadas mediante inteligencia artificial.
+En segundo lugar, señaló que su centro cuenta con casi cuatro décadas de 
+trayectoria regulatoria en tecnologías digitales, y que tanto él como la señora Danielle Zaror 
+representan la cuarta generación de especialistas en esta área.
+Como punto de partida a su exposición, afirmó que el proyecto identifica un 
+problema real: la representación no consentida de personas en entornos digitales, 
+especialmente en contextos artísticos o en contenidos sexuales fabricados mediante 
+deepfakes, lo cual genera daños significativos. Por ello, sostuvo que este debería aprobarse 
+en general sin mayor dilación.
+A su vez, el académico destacó como acierto de la iniciativa la correcta articulación 
+con el derecho de propiedad intelectual y la legislación de protección de datos personales, 
+puesto que la imagen y la voz son datos personales y deben ser resguardados bajo ese 
+marco jurídico. Por consiguiente, argumentó que la ley de protección de datos, que entrará 
+en vigencia el próximo año, establece un concepto amplio de dato personal, lo que exige 
+coordinación entre ambas normativas, reconocimiento que ya realiza el artículo 12 de la 
+iniciativa.
+Además, manifestó que, pese a esos avances, existen mejoras que su equipo 
+sugerirá en detalle durante la discusión en particular.
+A su vez, advirtió que varias disposiciones del proyecto duplican o entran en tensión 
+con la ley de protección de datos personales y la Ley de Propiedad Intelectual. Según 
+detalló, los artículos vinculados al ámbito de aplicación, la extraterritorialidad, las 
+autorizaciones para procesar información y ciertas prohibiciones ya están regulados de 
+manera más clara y conforme a estándares internacionales, por lo que recomendó remitirse 
+expresamente a esas normas en lugar de crear reglas paralelas que podrían generar 
+inconsistencias. Algo similar planteó sobre la situación de los herederos: ambas 
+legislaciones proveen una solución integral a la administración de derechos post mortem y 
+añadir una cláusula nueva solo introduciría ruido normativo.
+Luego, agregó que la propuesta describe un catálogo ambiguo y potencialmente 
+amplio de infracciones que, en la práctica, ya se encuentran cubiertas por la ley de
+5
+--- PÁGINA 6 ---
+protección de datos personales, y que la duplicidad normativa podría producir confusión. 
+En cuanto a las medidas cautelares, recordó que la legislación vigente entrega a las 
+personas afectadas la posibilidad de recurrir ante responsables del tratamiento, autoridades 
+administrativas y tribunales, de manera que el nuevo artículo sería innecesario.
+Entre los puntos más críticos, destacó los riesgos del artículo que permite a los 
+afectados solicitar directamente a las plataformas la eliminación de contenidos. Argumentó 
+que esta fórmula contradice el sistema diseñado por la Ley de Propiedad Intelectual, que 
+exige control judicial precisamente para evitar abusos y prácticas de censura privada; 
+además, recalcó que este requisito ha sido reconocido internacionalmente como una 
+protección adecuada para equilibrar derechos y su eliminación podría derivar en una 
+herramienta peligrosa para silenciar información sin supervisión judicial.
+También valoró que la iniciativa incluya la protección de artistas, intérpretes y 
+ejecutantes, pero sugirió que no dependa de la tecnología específica involucrada, como la 
+inteligencia artificial, sino del objetivo legislativo de impedir la falsa atribución maliciosa de 
+obras. Consideró que, por razones de sistematicidad, esta regulación debiera incorporarse 
+en la Ley de Propiedad Intelectual en lugar de establecerse como una norma aislada.
+Por otra parte, subrayó la necesidad de abordar la suplantación en contenidos 
+sexuales, asegurando que el proyecto es poco categórico en esta materia, pese a 
+reconocerla como una de las motivaciones para legislar. Explicó que ya existen normas 
+penales para la pornografía infantil y para ciertos casos de pornografía no consentida, pero 
+la actual legislación no regula la creación de representaciones realistas de adultos mediante 
+nuevas tecnologías sin participación de las personas involucradas. Según señaló, este 
+vacío podría corregirse con ajustes específicos al Código Penal, mediante pocas frases que 
+amplíen la protección.
+Finalmente, reflexionó sobre la complejidad de regular la protección de figuras 
+públicas ante la manipulación digital, por lo que es indispensable definir quién califica como 
+tal y considerar los riesgos de impactar la libertad de expresión, la crítica, la sátira y el 
+debate político. Si bien admitió que el proyecto ya intenta equilibrar estas tensiones, estimó 
+que la redacción requiere finura adicional para evitar discrecionalidad judicial y otorgar 
+certeza normativa. Así, reafirmó que la idea de legislar es necesaria y oportuna, y ofreció la 
+colaboración del Centro de Estudios en Derecho, Tecnología y Sociedad de la Universidad 
+de Chile para perfeccionar el texto durante la discusión en particular.
+El señor Matías Aránguiz, director del Programa de Derecho, Ciencia y 
+Tecnología de la Pontificia Universidad Católica de Chile, comenzó su presentación 
+cuestionando la forma en que la propuesta interpreta el fenómeno de los deepfakes y la 
+afirmación de que gran parte del problema requiere fortalecer las capacidades de las 
+instituciones encargadas de seguridad y justicia. De acuerdo con su argumento, la 
+estructura del proyecto parece basarse en una visión excesivamente simplificada que 
+distingue tres actores: proveedores de herramientas, creadores del contenido falso y 
+usuarios que difunden, pero no refleja adecuadamente la complejidad del ecosistema digital 
+ni las rutas por las que realmente se produce y disemina este tipo de material.
+Fundamentó esta idea con datos globales que muestran cómo la inmensa mayoría 
+de los deepfakes corresponde a contenido pornográfico. Solo un porcentaje ínfimo, 
+aproximadamente el 2 por ciento, no es de carácter sexual y sobre el 97 por ciento de sus 
+víctimas son mujeres. A partir de estas cifras, concluyó que el foco principal del riesgo no 
+reside en usos políticos o humorísticos, sino en la afectación desproporcionada de mujeres 
+a través de pornografía no consentida generada mediante inteligencia artificial; en 
+consecuencia, cualquier regulación eficaz debe asumir esta realidad estadística y situar en 
+el centro la protección frente a la violencia digital de género.
+Seguidamente, sostuvo que el modelo criminal actual de deepfakes es distinto al 
+abordado por el proyecto en debate. Aunque valoró su enfoque en la justicia particular, 
+afirmó que para combatir un problema que afecta mayoritariamente a las mujeres con 
+contenido pornográfico, hay que analizar el sistema completo.
+6
+--- PÁGINA 7 ---
+Explicó que la criminalidad opera como un servicio externalizado y destacó el caso 
+del deepfake as a service, un mercado dominado por cuatro empresas radicadas 
+principalmente en Rusia y Bielorrusia. Precisó que el usuario típico no es un individuo, sino 
+empresas que monetizan esos servicios y abordó la cuestión de la difusión, donde, a su 
+juicio, las policías debían empezar a generar medidas específicas.
+Luego, explicó que los proveedores de servicios de deepfakes se financian a través 
+de diversas vías. Precisó que su principal fuente de ingresos es la publicidad, seguida de 
+las suscripciones mensuales para acceder a la tecnología.
+Agregó que operan con un sistema de tokens para pagar capacidad computacional, 
+que se resume en un modelo automatizado como los de las aplicaciones ClothOff y Nudity 
+que, mediante bots en Telegram, genera desnudos a partir de una foto.
+Además, indicó que en el mercado negro se comercian falsificaciones de alta calidad 
+por grandes sumas de dinero y, de manera más especializada, se ofrecen kits biométricos 
+falsos para evadir sistemas de verificación y suplantar identidades. Por último, mencionó el 
+método denominado pig butchering, basado en estafas a largo plazo mediante relaciones 
+ficticias. Enfatizó que todas estas formas de financiamiento son las que hacen posible y 
+sustentan la infraestructura computacional detrás de estos mercados ilícitos.
+A continuación, señaló que, para el usuario comercial de deepfakes, la motivación 
+principal es económica y opera en dos áreas clave. La primera es el phishing para extorsión 
+o fraude. Ilustró esto con el caso de una abogada cuyas imágenes falsas se divulgaron 
+masivamente en sitios pornográficos con el fin de extorsionarla, y mencionó fraudes como 
+el CEO Fraud, donde una videollamada falsa por la aplicación Zoom resultó en una estafa 
+de 25 millones de dólares.
+La segunda fue la monetización por likes, especialmente en plataformas sociales, 
+donde el contenido falso de celebridades, actores y cantantes, genera visitas que luego se 
+convierten en ingresos publicitarios.
+Finalmente, al abordar la difusión, destacó el uso de mensajería cifrada como 
+Telegram, donde operan bots con sistemas de garantía (escrow) y métodos de pago 
+integrados, incluyendo criptomonedas y la compra de skins en videojuegos, que resultan 
+ser deepfake.
+El señor Sebastián Dueñas, investigador y subdirector del Programa de 
+Derecho, Ciencia y Tecnología de la Universidad Católica, presentó una serie de 
+recomendaciones basadas en el modelo expuesto previamente y se centró en otorgar 
+mayores capacidades a las policías.
+Enfocado primero en los proveedores de servicio, propuso que la ley debería 
+habilitar y requerir de ellos: un registro de logs, los archivos fuente subidos, los métodos de 
+pago utilizados para mejorar la trazabilidad, los documentos de identidad de los 
+beneficiarios reales (autores o usuarios), el historial de generación previo para detectar 
+anomalías o patrones delictivos, y el bloqueo del dominio del proveedor para cortar la 
+comunicación.
+Respecto a la difusión, planteó que la ley debería habilitar y requerir: la IP y 
+geolocalización del difusor, los datos de tráfico de la red social o sitio web utilizado, el retiro 
+y baja del contenido, el bloqueo de copias y reuploads coincidentes del material, los logs 
+de publicación y republicaciones, y la desindexación en buscadores para eliminar el 
+contenido también de las cachés.
+De la misma manera, señaló la importancia de que las policías cuenten con canales 
+directos de comunicación con las distintas redes sociales, con el objeto de agilizar la 
+coordinación con dichas plataformas.
+Luego, presentó diversas recomendaciones generales vinculadas al proyecto de ley. 
+Entre ellas, mencionó la necesidad de fortalecer la educación sobre el consentimiento en 
+los colegios y en la sociedad; actualizar el artículo 161 y siguientes del Código Penal para 
+lograr una regulación armónica; y robustecer a Carabineros y a la Policía de Investigaciones 
+(PDI) mediante más recursos humanos, capacitaciones y software especializado.
+7
+--- PÁGINA 8 ---
+Asimismo, enfatizó que es imprescindible perseguir no solo a quienes generan el 
+contenido, sino también a las plataformas de difusión y pago, con el fin de abordar toda la 
+estructura involucrada. Añadió que se debe mitigar la exposición de las víctimas, ya que en 
+el entorno digital el daño puede prolongarse indefinidamente si el contenido no se elimina, 
+por lo que es necesario definir con claridad quién será responsable de garantizar su retiro 
+efectivo.
+Del mismo modo, recalcó la importancia de coordinar estas materias con las futuras 
+agencias de protección de datos personales, con la Agencia Nacional de Ciberseguridad 
+(ANCI) y con las policías.
+Finalmente, llamó al Ejecutivo a enviar al Congreso Nacional el segundo protocolo 
+adicional del Convenio de Budapest, relativo al cibercrimen, para enfrentar los problemas 
+de extraterritorialidad que presentan las plataformas digitales.
+La señora Patricia Peña, directora de la Fundación Datos Protegidos, explicó 
+que se encuentra desarrollando proyectos de investigación sobre institucionalidad 
+regulatoria y convergencia digital. Desde esa experiencia, planteó varias observaciones a 
+la propuesta legislativa.
+Primero, indicó que existe una disonancia en el texto, pues el título habla de 
+“imitación digital realista”, pero a lo largo del articulado se usa en muchas ocasiones el 
+término deepfake, junto con alternarse referencias a inteligencia artificial en general e IA 
+generativa, lo que sugiere que la iniciativa podría unificar criterios o simplemente referirse 
+a tecnologías digitales.
+También observó que el proyecto de ley atribuye responsabilidades a plataformas o 
+empresas que, en muchos casos, no tienen representación legal en Chile, lo que complica 
+la exigibilidad de medidas como ordenar la baja de contenidos. Para ilustrar el problema, 
+mencionó el caso de la empresa que capturó el iris de miles de personas a cambio de 
+criptomonedas, donde un tribunal debió notificar a la compañía en una dirección en Silicon 
+Valley, ya que la situación no está tipificada en Chile para exigir el borrado de datos.
+A su juicio, estos puntos deben considerarse al definir cómo se aplicarán sanciones 
+o instrucciones a plataformas que generan, distribuyen o viralizan contenidos, porque el 
+proyecto de ley no detalla suficientemente el ámbito y alcance de las obligaciones.
+Respecto del ejemplo europeo citado en la fundamentación del proyecto de ley, 
+explicó que la Directiva de Servicios de Comunicación Audiovisual (DSCA) de la Unión 
+Europea obliga a las plataformas a contar con puntos de contacto y mecanismos efectivos 
+de recepción de reclamos, algo que en Chile y en América Latina no existe. Señaló que los 
+reportes internos de las plataformas tienen casi nula respuesta, y que tampoco garantizan 
+el retiro del contenido.
+En vista de ello, comentó que en Europa se permite acudir a tribunales o a métodos 
+extrajudiciales de resolución de conflictos, con costos razonables y sostenidos por las 
+mismas plataformas, lo que constituye un modelo intermedio entre la vía judicial y la 
+autorregulación.
+Por otro lado, enfatizó que la iniciativa debería revisar sus definiciones, sobre todo 
+la noción de “imitación digital realista”, para precisar si realmente se refiere o no a deepfake.
+Del mismo modo, planteó que la regulación del consentimiento debe articularse con 
+el marco que establece la nueva ley de datos personales, cuya entrada en vigencia está 
+prevista para el año siguiente. Por ello, advirtió que el artículo relativo a contenidos exentos 
+de consentimiento requiere precisión, pues surge la interrogante sobre quién y bajo qué 
+parámetros determina la existencia de “daño grave” o “desinformación”, conceptos que 
+también están presentes en otros proyectos de ley sobre noticias falsas que permanecen 
+pendientes en el Congreso.
+Posteriormente, observó debilidades en la definición de “plataformas digitales”, 
+indicando que esta debe considerar la complejidad de sus capas técnicas y funcionales, 
+más allá del ámbito de los contenidos generados por los usuarios.
+8
+--- PÁGINA 9 ---
+Para tal efecto, sugirió revisar las directrices de gobernanza de plataformas digitales 
+elaboradas por la Organización de las Naciones Unidas para la Educación, la Ciencia y la 
+Cultura (Unesco) en 2023, donde se recomienda considerar aspectos como tamaño, 
+alcance y cuotas de mercado, así como mecanismos de evaluación, independiente de 
+riesgos asociados a problemas como desinformación, pornografía, violencia digital o delitos 
+informáticos.
+Enseguida, indicó que el proyecto de ley debe vincularse de manera coherente con 
+otras iniciativas en curso, como el proyecto que regula usos riesgosos de inteligencia 
+artificial -que, según señaló, no incluye disposiciones sobre comunicación o uso social de 
+las personas- y el proyecto de ley sobre violencia digital, el cual ya contiene una definición 
+legal de deepfake.
+En la misma línea, advirtió que la eventual aplicación de esta futura ley implicará 
+nuevas cargas para policías, fiscalías y tribunales, los que requieren recursos, capacitación 
+y protocolos para enfrentar denuncias vinculadas a contenidos sintéticos.
+A continuación, propuso observar experiencias comparadas, como las regulaciones 
+de la Oficina de Comunicaciones (Ofcom) del Reino Unido, que han desarrollado 
+orientaciones para distinguir entre usos maliciosos de la inteligencia artificial y usos 
+legítimos en industrias audiovisuales, incluso mediante la utilización de sellos o 
+advertencias en contenidos generados artificialmente.
+Por último, recomendó que la Comisión considere mecanismos de gobernanza 
+digital que no se limiten a sanciones penales, incorporando opciones de autorregulación, 
+regulación compartida y disposiciones preventivas y educativas. Asimismo, enfatizó que la 
+ciudadanía requiere educación digital para desenvolverse en un entorno cada vez más 
+marcado por tecnologías de generación sintética.
+La señora Lucía Camacho, coordinadora de políticas públicas de ONG 
+Derechos Digitales, presentó su análisis dividido en dos partes: el panorama regional 
+sobre la regulación de deepfakes y una evaluación del contenido del proyecto de ley.
+En su primera parte, describió que los deepfakes constituyen contenidos altamente 
+verosímiles cuyo nivel de sofisticación dificulta su detección tanto por herramientas 
+automatizadas como por análisis humano. Explicó que en América Latina estas tecnologías 
+son utilizadas principalmente con tres fines: la desinformación electoral; la generación y 
+difusión no consentida de imágenes sexuales; y la comisión de estafas, fraudes y 
+extorsiones. A modo de ejemplo, citando estudios internacionales, señaló que cerca del 98 
+por ciento del contenido deepfake mundial tiene fines sexuales y que el 99 por ciento de las 
+víctimas son mujeres y niñas. Por ello, sostuvo que cualquier política pública debe 
+incorporar un enfoque de género, puesto que estas tecnologías amplifican la violencia 
+digital.
+De la misma manera, explicó que la regulación de los deepfakes requería reconocer 
+la complejidad técnica y jurídica de las medidas reactivas, como el bloqueo propuesto en el 
+proyecto de ley, ya que la creación y difusión de estos contenidos era rápida, gratuita y de 
+fácil acceso. Señaló que por ello resultaba fundamental privilegiar enfoques preventivos que 
+impusieran mayores obligaciones a intermediarios clave, especialmente a las tiendas de 
+aplicaciones.
+Siguiendo lo anterior, sostuvo que en la región existían distintos enfoques 
+legislativos ya vigentes: la agravación de delitos de suplantación cuando intervenía 
+inteligencia artificial, la penalización del uso de deepfakes para difundir contenido íntimo y 
+el endurecimiento de medidas de propiedad intelectual. No obstante, advirtió que la vía 
+penal solía ser onerosa e ineficaz para las víctimas debido a sus tiempos lentos, por lo que 
+recomendó un abordaje multidimensional con enfoque de género.
+Después, expresó que, al analizar la redacción del proyecto, este perseguía un fin 
+legítimo y necesario, pero requería ajustes importantes. En ese contexto, indicó que el 
+artículo 3 debía adecuar la definición de contenido exento a los estándares interamericanos 
+de discursos protegidos, para evitar que medidas como el bloqueo generaran censura sobre 
+deepfakes de tono crítico o incómodo.
+9
+--- PÁGINA 10 ---
+Asimismo, observó que los artículos 6 y 7 también debían alinearse mejor con dichos 
+estándares, especialmente en lo relativo al discurso dirigido a figuras o representantes 
+públicos, pues incluso contenido generado con inteligencia artificial podía constituir formas 
+legítimas de expresión.
+Continuando su análisis, advirtió que las excepciones del artículo 6 enfrentaban un 
+problema práctico, ya que los deepfakes estaban diseñados para engañar con gran 
+realismo. Como ejemplo, citó estudios que mostraban que las personas solo lograban 
+detectarlos correctamente en un 24 por ciento de los casos y que las herramientas 
+automatizadas tenían un acierto cercano al 45 o 50 por ciento, lo que significaba que 
+alrededor del 60 por ciento de los deepfakes fueran indistinguibles de la realidad, y, dado 
+que la verificación era prácticamente imposible, sostuvo que la excepción no podría operar 
+adecuadamente sin una mejor redacción.
+Respecto del artículo 9, afirmó que, tal como habían señalado otros expertos, era 
+necesario desarrollar obligaciones más estrictas para las grandes tiendas de aplicaciones, 
+responsables de fijar las reglas para indexar herramientas usadas en la creación de 
+deepfakes. Asimismo, explicó que estas normas eran vagas, no se verificaba su 
+cumplimiento y dependían de declaraciones de los propios desarrolladores. Añadió que 
+carecían de clasificaciones etarias claras y permitían aplicaciones que simulaban actos 
+afectivos o incluían plantillas para sexualizar a mujeres y niñas.
+Para complementar lo anterior, mencionó un estudio que identificó 105 aplicaciones 
+de este tipo en Google Play Store, de las cuales el 42 por ciento no informaba su origen y 
+otro 89 por ciento representaba un riesgo alto de ser usada contra mujeres y niñas.
+Por último, llamó a aprobar la iniciativa, pero insistió en la necesidad de abrir 
+espacios de participación significativa para mejorar sustantivamente su contenido.
+El señor Diego Lisoni, director de Internet Society Capítulo Chile, inició su 
+presentación señalando que si bien el proyecto perseguía un objetivo legítimo, era 
+necesario advertir ciertos riesgos desde la sociedad civil y el sector técnico vinculados a la 
+gobernanza de internet.
+En ese sentido, señaló que la definición de “plataformas digitales” era 
+excesivamente amplia, ya que incluía funciones como indexar, alojar o difundir, lo que podía 
+involucrar a numerosos intermediarios esenciales para el funcionamiento de internet. Desde 
+ese punto de vista, sostuvo que esto se volvía particularmente problemático porque el 
+proyecto permitía solicitar el bloqueo o eliminación de contenido deepfake, lo que podría 
+dirigirse incluso a servicios de nube o aplicaciones de mensajería cifrada, que técnicamente 
+no podrían acceder al contenido ni bloquearlo.
+Por ello, señaló que era necesario precisar qué actores serían responsables de 
+cumplir las órdenes de bloqueo y en qué casos, tomando en cuenta los ejemplos expuestos 
+por otros especialistas sobre usos dañinos de los deepfakes. En ese contexto, advirtió que, 
+en plataformas con cifrado de extremo a extremo, como WhatsApp o Telegram, era 
+imposible identificar o interceptar el contenido cuestionado, pues este no era visible para la 
+plataforma y se almacenaba en los dispositivos de los usuarios.
+Añadió que esta incompatibilidad hacía inviable aplicar el mandato del proyecto de 
+ley en esos servicios y recordó que, desde hace años, existía preocupación por las 
+consecuencias negativas que podía generar exigir responsabilidad a los intermediarios por 
+contenidos de terceros, ya que, según su opinión, tales exigencias incentivaban el bloqueo 
+excesivo de información, lo que constituía un riesgo para los derechos digitales y el 
+funcionamiento libre y seguro de internet.
+Luego, señaló que en varias jurisdicciones existen limitaciones de responsabilidad 
+para intermediarios -safe harbors-, como en Europa y en Brasil, mientras que en Chile ese 
+resguardo rige solo en materia de propiedad intelectual. Explicó que si, el Estado los 
+amenaza con sanciones si no bajar contenidos, los intermediarios tienden a sobrebloquear 
+para evitar riesgos. Agregó que la ausencia de protección deja a plataformas expuestas a 
+demandas de emisores por remociones de contenidos amparados en la libertad de 
+expresión, lo que las sitúa en un vaivén jurídico.
+10
+--- PÁGINA 11 ---
+También el señor Diego Lisoni mencionó que un órgano especializado en libertad 
+de expresión advirtió que la excepción del artículo 6 y la definición de contenido exento del 
+artículo 3 son complejas y están mal formuladas, y, por tanto, pueden restringir 
+indebidamente el discurso. Según el expositor, esa incertidumbre alimenta el chilling effect 
+-efecto disuasorio- en usuarios que temen a las sanciones por crítica política, sátira o 
+parodia. En ese contexto, planteó que el esquema de notice and takedown puede incentivar 
+el sobrebloqueo y reducir el pluralismo y la apertura del entorno digital.
+Dicho lo anterior, propuso robustecer la regulación de datos personales mediante la 
+obligación de establecer responsables con canales de contacto, una autoridad fiscalizadora 
+dotada de presupuesto y aplicación territorial efectiva. En ese contexto, recordó que la 
+Agencia Española de Protección de Datos sancionó la creación de un deepfake sexual de 
+menores sin base legal concreta, y que en Brasil la reforma inspirada en el GDPR demoró 
+años en cursar sanciones por razones culturales.
+A continuación, hizo presente que la ley chilena de datos personales aborda también 
+el tratamiento post mortem, con límites cuando otra normativa exige mantener registros 
+públicos.
+Seguidamente, el expositor detalló que el proyecto de ley sobre proyecto de ley 
+sobre violencia digital, en trámite en el Senado, contempla figuras penales. Por ejemplo, 
+mencionó que mediante el artículo 161 E tipifica el deepfake con fin malicioso, el 161 F 
+aborda supuestos vinculados al discurso político, mientras el artículo 109 bis del Código 
+Procesal Penal habilita la remoción de contenidos previa orden judicial, resguardando el 
+debido proceso.
+Por último, el señor Diego Lisoni señaló que ese enfoque penal puede convivir con 
+remedios civiles, si el proyecto de la diputada Gael Yeomans sigue esa vía.
+El señor Alec Dickinson, CEO de AI Factory y cofundador del Club de la IA, 
+mencionó, vía telemática, que su comunidad trabaja desde el inicio del ChatGPT para llevar 
+la IA generativa a la práctica.
+Del mismo modo, con base en su trayectoria en tecnología, su experiencia en la ola 
+de transformación de internet, la revolución móvil, la introducción de las redes sociales y 
+ahora de la IA, y su formación en la Universidad de Harvard, advirtió que la sobrerregulación 
+podría frustrar la oportunidad de transformar sectores como el energético, el transporte, la 
+construcción, la salud, la educación, las finanzas, el retail y las ciudades inteligentes.
+También calificó de riesgos crecientes las deepfakes sexuales no consentidas, 
+estafas financieras, manipulación política, desinformación, extorsión y daño psicológico y 
+reputacional, con herramientas baratas y accesibles.
+Luego, el señor Dickinson señaló que hoy cualquiera puede instalar un software y 
+generar contenidos en poco tiempo, y ofreció mostrar ejemplos prácticos.
+Además, dio a conocer que desarrolló en una o dos horas una aplicación que permite 
+configurar textos, industrias, idiomas y horarios de publicación, incorporando mensajes 
+generativos con personas de distintas edades según el modelo utilizado.
+Luego, el señor Dickinson planteó que empresas como Google, Amazon y Microsoft 
+imponen restricciones al uso de generaciones y exigen consentimiento sobre la información 
+que se sube, mientras otras plataformas carecen de regulación y permiten utilizar modelos 
+no controlados para producir derivados sin resguardo.
+Asimismo, se refirió a la existencia de herramientas como el programa la Coalición 
+para la Procedencia y Autenticidad del Contenido (C2PA), el cual permite incorporar 
+identificadores y aplicar la trazabilidad en los contenidos generativos.  Precisó que, si estos 
+sistemas se vinculan con plataformas que solicitan datos personales, se puede establecer 
+un nexo trazable entre el contenido y el usuario.
+Dicho lo anterior, el invitado planteó que plataformas chilenas podrían usar modelos 
+fundacionales y anexar información sobre país, finalidad y responsabilidad del usuario, lo 
+que habilitaría políticas de compliance. Añadió que estos protocolos podrían aplicarse en
+11
+--- PÁGINA 12 ---
+instituciones públicas para fortalecer la conciencia sobre el manejo de datos y el uso de 
+procesadores tecnológicos.
+Enseguida, expresó preocupación por el impacto en niños y adolescentes, y 
+compartió que intenta generar conciencia en colegios y universidades, porque la tecnología 
+avanza con una rapidez sin precedentes y estará disponible de manera masiva en 
+dispositivos personales.
+Por otra parte, el señor Dickinson indicó que las empresas pueden abordar estos 
+riesgos mediante gobernanza con trazabilidad, controles, respaldos auditables y sistemas 
+inmutables como blockchain.
+Además, recordó que en Chile no se aplican adecuadamente principios como el 
+derecho al olvido o la encriptación general.
+Al terminar, recomendó que el gobierno revise frameworks internacionales, como 
+C2PA, y mencionó avances en la red social X para identificar usuarios y reducir bots. 
+Informó que estas herramientas ya existen y pueden aplicarse en Chile, si se actúa con 
+coordinación, comunicación y rapidez.
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 16:57 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+12

@@ -1,0 +1,827 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=21000&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : Margarita Maria Risopatron Lemaitre
+EXTRAIDO : 2026-03-29 04:39:52
+======================================================================
+
+--- PÁGINA 1 ---
+COMISIÓN DE CONSTITUCIÓN, LEGISLACIÓN, JUSTICIA Y
+REGLAMENTO 
+PERÍODO LEGISLATIVO 2022-2026 
+Acta de la sesión 22ª, ordinaria, mixta/ 370ª Legislatura 
+Celebrada en miércoles 15 de junio del año 2022, de 15:03 a 17:12 horas
+1. Continuar la tramitación del proyecto de ley que “Regula la protección 
+y el tratamiento de los datos personales y crea la Agencia de Protección 
+de Datos Personales”, en segundo trámite constitucional, con urgencia 
+calificada de “Suma”, boletines refundidos N°s 11.144-07 (S) y 11.092-
+07(S).  
+- Discusión particular: se votan los numerales 2, 3 y 4) uno) del artículo primero. Queda 
+pendiente la letra i) del numeral 4 uno).   
+2. Continuar la tramitación en general del “proyecto de reforma 
+constitucional que establece, en el marco de la seguridad social, una 
+destinación específica del financiamiento para fines previsionales y una 
+garantía sobre la propiedad de los fondos de capitalización individual de 
+las y los afiliados(as)”, con urgencia calificada de “Simple”, boletín N° 
+14.921-07.  
+- No se alcanzó a ver este punto de la tabla.
+ASISTENCIA 
+ 
+Asisten, presencialmente, los siguientes miembros de la Comisión, 
+diputados (as) señores (as) Karol Cariola (Presidenta de la Comisión), 
+Gustavo Benavente, Miguel Ángel Calisto; Marcos Ilabaca (presidió 
+accidentalmente parte de la sesión), Pamela Jiles, Raúl Leiva, Andrés Longton, 
+Catalina Pérez, Luis Sánchez, Leonardo Soto y Gonzalo Winter.
+Concurre, también, presencialmente, el diputado señor Felipe Camaño 
+(en reemplazo del señor Calisto) en parte de la sesión.
+Asimismo, asiste, por vía remota, los (la) diputados (a) señores (a) 
+Jorge Alessandri y Camila Flores.
+Al primer punto (boletín N° 11.144-07 y otro), concurren el Ministro 
+Secretario General de la Presidencia, señor Giorgio Jackson, acompañado por 
+la señora Lizzy Seaman, asesora de la División Jurídico-Legislativa del 
+Ministerio; la señora Marta Herrera, Directora de la Unidad de Asesoría 
+Jurídica del Ministerio Público; la señora Carolina Cruzat, abogada asesora del 
+Ministerio Público; el señor Jean Pierre Couchot, Director Nacional (S) del 
+Servicio Nacional del Consumidor; el señor Bruno Gencarelli, jefe de la Unidad 
+de Protección y Flujo de Datos Internacionales en la Comisión Europea; la 
+señora Lorena Donoso, del Instituto Chileno de Derecho y Tecnologías; la
+1
+--- PÁGINA 2 ---
+señora Michelle Bordachar, de la ONG Derechos Digitales; la señora Jessica 
+Matus, de la ONG Datos Protegidos; la señora Macarena Gatica, experta, 
+socia del estudio jurídico Alessandri; la señora Andrea Ruiz, profesora de 
+Derecho Administrativo de la Universidad Alberto Hurtado; el señor Pablo 
+Trigo, investigador CEDI Universidad de Chile; el señor Marcelo Drago, ex 
+Presidente del Consejo para la Transparencia; el señor Emilio Oñate, decano 
+de la Facultad de Derecho y Humanidades de la Universidad Central; el señor 
+Luis Opazo, gerente general de la Asociación de Bancos e Instituciones 
+Financieras, acompañado por el señor Juan Esteban Laval, fiscal; la señora 
+Bárbara Reyes, abogada de la Asociación de Empresas Chilenas de 
+Tecnología A.G (ACTI), y el señor Claudio Magliona, miembro del grupo legal 
+de ACTI, y el señor Alberto Jara, de la Asociación Gremial de Empresas 
+Fintech.
+Para el boletín N° 14.921-07, concurrió la señora María Cecilia 
+Cifuentes, Directora Ejecutiva del Centro de Estudios Financieros del ESE 
+Business School, U. de los Andes, y el señor José Roa, Director Ejecutivo de 
+la Fundación Chile 21 (sin embargo, este proyecto no se alcanzó a analizar por 
+falta de tiempo).
+Está presente, en calidad de abogado secretario, el señor Patricio 
+Velásquez Weisse; la abogada señora Margarita Risopatrón Lemaître, y de 
+forma remota, el abogado señor Fernando García Leiva, y la secretaria señora 
+Cecilia Césped Riquelme.
+ACTAS
+Actas disponibles:  
+https://www.camara.cl/legislacion/comisiones/sesiones.aspx?prmID=1724
+CUENTA 
+ 
+El señor abogado secretario da cuenta de los documentos llegados a 
+la Comisión:
+1.- Se han recibido las siguientes confirmaciones para la sesión de 
+hoy.
+Boletines refundidos  N°s 11.144-7 (S) y 11.092-07(S).   
+En calidad de oyentes han confirmado: 
+• 
+Sra. Michelle Bordachar, ONG Derechos Digitales.
+2
+--- PÁGINA 3 ---
+• 
+Sra. Jessica Matus, ONG Datos Protegidos. 
+• 
+Sra. Andrea Ruiz, Profesora Derecho Administrativo, UAH. 
+• 
+Sra. Lorena Donoso, Instituto Chileno de Derecho y Tecnologías. 
+• 
+Sr. Bruno Gencarelli, Jefe de la Unidad de Protección y Flujo de 
+Datos Internacionales en la Comisión Europea.
+• 
+Sr. Marcelo Drago, Ex Presidente del Consejo para la 
+Transparencia.
+Ministerio Público 
+• 
+Sra. Marta Herrera, Directora de la U. de Asesoría Jurídica. 
+• 
+Sra. Carolina Cruzat, Abogada asesora. 
+Asociación de Bancos e Instituciones Financieras de Chile. 
+• 
+Luis Opazo R., Gerente General. 
+• 
+Juan Esteban Laval Z., Fiscal 
+  
+Sernac 
+• 
+Sr.  Jean Pierre Couchot, Director Nacional (S).  
+ 
+Asociación de Empresas Chilenas de Tecnología A.G. 
+• 
+Sra. Bárbara Reyes Espinoza, Abogada Licenciada en Ciencias 
+Jurídicas Pontificia Universidad Católica de Valparaíso.
+• 
+Sr. Claudio Magliona, miembro del grupo legal de ACTI. 
+ 
+Asociación Gremial de Empresas Fintech 
+• 
+Sr. Alberto Jara. 
+ 
+ Boletín N° 14.921-07. 
+• 
+Sra. María Cecilia Cifuentes, Directora Ejecutiva del Centro de 
+Estudios Financieros del ESE Business School, U. de los Andes.
+2.- Se han recibido las siguientes excusas para la sesión del día de 
+hoy:
+• 
+Sr. Christian Larraín Pizarro, Subsecretario Previsión Social. Por 
+problemas de agenda.
+• 
+Sr. Marco Kremerman, economista de la Fundación Sol.  Por 
+encontrarse en el extranjero.
+• 
+Sra. Alejandra Krauss, Presidenta de la Fundación Chile 21.  Por 
+compromisos profesionales previos.  Asiste en su representación, José Roa 
+Director Ejecutivo.
+------
+3
+--- PÁGINA 4 ---
+El diputado señor Ilabaca solicita reagendar la tramitación del 
+“proyecto de reforma constitucional que establece, en el marco de la seguridad 
+social, una destinación específica del financiamiento para fines previsionales y 
+una garantía sobre la propiedad de los fondos de capitalización individual de 
+las y los afiliados(as)”, boletín N° 14.921-07, ya que la sesión se verá 
+interrumpida por la necesidad de dar quórum en la Sala, que sesionará 
+paralelamente, y no hacer esperar a los invitados infructuosamente.
+Sobre el punto, el diputado señor Alessandri pide que se le dé 
+prioridad a esta iniciativa ya que cuenta con urgencia calificada de “Simple”.
+La diputada señorita Cariola (Presidenta de la Comisión) manifiesta 
+que se incorporará a la tabla de la próxima sesión posible (miércoles 29 
+próximo, porque el martes 28 ya tiene su tabla fijada), tal como se ha 
+procedido semanalmente conforme a su urgencia.
+ACUERDOS
+Durante la sesión se adoptan los siguientes acuerdos: 
+ 
+1. Postergar, para la próxima sesión posible (miércoles 29 de junio), la 
+tramitación en general del “proyecto de reforma constitucional que establece, 
+en el marco de la seguridad social, una destinación específica del 
+financiamiento para fines previsionales y una garantía sobre la propiedad de 
+los fondos de capitalización individual de las y los afiliados(as)”, boletín N° 
+14.921-07, por razones de tiempo.
+2. Incorporar, por la unanimidad de los presentes, el voto afirmativo de 
+la diputada señora Camila Flores a la votación general del proyecto de ley que 
+regula el tratamiento de los datos personales y crea la Agencia de Protección 
+de Datos Personales”, boletines refundidos N°s 11.144-07 (S) y 11.092-07(S), 
+votación acaecida en la sesión del 1 de junio pasado.
+Asimismo, se acuerda incorporar el voto de las diputadas señoras 
+Pamela Jiles y Catalina Pérez al voto mayoritario de las votaciones particulares 
+acaecidas en la sesión del 8 de junio pasado, sobre el mismo proyecto. Se 
+aclara que las peticiones se acogen conforme a lo solicitado y en 
+consideración a que no alteran el resultado de las votaciones originales.
+ORDEN DEL DÍA
+Boletines refundidos N°s 11.144-07 (S) y 11.092-07 (S).
+4
+--- PÁGINA 5 ---
+Entrando en el orden del día, corresponde continuar con la discusión 
+particular del proyecto de ley que “Regula la protección y el tratamiento de 
+los datos personales y crea la Agencia de Protección de Datos 
+Personales”, en segundo trámite constitucional, con urgencia calificada 
+de “Suma”.
+Ver oficio de ley; comparado de indicaciones; comparado de 
+observaciones.
+VOTACIÓN GENERAL (Incorporación de votos con posterioridad) 
+ 
+Se deja constancia que la Comisión acuerda, por la unanimidad de los 
+presentes, autorizar la incorporación del voto afirmativo de la diputada señora 
+Camila Flores a la votación general de esta iniciativa acaecida en la sesión del 
+1 de junio pasado, según lo ha solicitado y en consideración a que la 
+incorporación no altera el resultado de la misma.
+- Así se acuerda. 
+ 
+En consecuencia, la votación general queda de la siguiente 
+manera:
+Sometido a votación general el proyecto de ley refundido 
+boletines 11.144-07 y 11.092-07 (S) es aprobado por la unanimidad de los 
+(las) diputados (as) señores (as) Karol Cariola (Presidenta de la Comisión); 
+Cristhian Moreira (por el señor Alessandri); Gustavo Benavente; Camila Flores; 
+Marcos Ilabaca; Pamela Jiles; Raúl Leiva; Andrés Longton; Catalina Pérez; Luis 
+Sánchez; Leonardo Soto, y Gonzalo Winter. (12-0-0).
+VOTACIÓN 
+PARTICULAR 
+(Incorporación 
+de 
+votos 
+con 
+posterioridad)
+Se deja constancia que la Comisión acuerda, por la unanimidad de los 
+presentes, autorizar la incorporación del voto de las diputadas señoras Pamela 
+Jiles y Catalina Pérez al voto mayoritario en las votaciones particulares 
+acaecidas en la sesión del 8 de junio pasado, según lo ha solicitado y en 
+consideración a que la incorporación no altera el resultado de las mismas.
+- Así se acuerda. 
+ 
+En consecuencia, las votaciones particulares quedan de la 
+siguiente manera:
+5
+--- PÁGINA 6 ---
+Artículo primero, epígrafe y numeral 1): 
+ 
+Sometido a votación el epígrafe y numeral 1) del artículo primero es 
+aprobado por la unanimidad de los (as) diputados (as) señores (as) Marcos 
+Ilabaca (Presidente Accidental de la Comisión); Miguel Ángel Calisto; Daniela 
+Serrano (por la señorita Cariola); Camila Flores; Pamela Jiles; Raúl Leiva; 
+Andrés Longton; Catalina Pérez; Luis Sánchez; Leonardo Soto, y Gonzalo 
+Winter. (11-0-0).
+Artículo primero, numeral 2): 
+ 
+- Puestos en votación los incisos primero y segundo del artículo 1°, 
+contenido en el numeral 2), son aprobados por la unanimidad de los (as) 
+diputados (as) señores (as) Marcos Ilabaca (Presidente Accidental de la 
+Comisión); Miguel Ángel Calisto; Daniela Serrano (por la señorita Cariola); 
+Camila Flores; Pamela Jiles; Raúl Leiva; Andrés Longton; Catalina Pérez; Luis 
+Sánchez; Leonardo Soto, y Gonzalo Winter. (11-0-0).
+- En votación, la indicación del señor Sánchez al numeral 2) del 
+artículo primero es rechazada por no alcanzar la mayoría de votos. Votan a 
+favor los diputados señores Miguel Ángel Calisto; Andrés Longton, y Luis 
+Sánchez. Votan en contra los (as) diputados (as) señores (as) Marcos Ilabaca 
+(Presidente Accidental de la Comisión); Daniela Serrano (por la señorita 
+Cariola); Camila Flores; Pamela Jiles; Raúl Leiva; Catalina Pérez; Leonardo 
+Soto, y Gonzalo Winter. (3-8-0).
+- En votación el inciso tercero del artículo 1°, contenido en el 
+numeral 2), es aprobado por la unanimidad de los (as) diputados (as) 
+señores (as) Marcos Ilabaca (Presidente Accidental de la Comisión); Miguel 
+Ángel Calisto; Daniela Serrano (por la señorita Cariola); Camila Flores; Pamela 
+Jiles; Raúl Leiva; Andrés Longton; Catalina Pérez; Luis Sánchez; Leonardo 
+Soto, y Gonzalo Winter. (11-0-0).
+- En votación el inciso cuarto del artículo 1°, contenido en el 
+numeral 2), es aprobado por la unanimidad de los (as) diputados (as) 
+señores (as) Marcos Ilabaca (Presidente Accidental de la Comisión); Gustavo 
+Benavente; Daniela Serrano (por la señorita Cariola); Camila Flores; Pamela 
+Jiles; Raúl Leiva; Andrés Longton; Catalina Pérez; Luis Sánchez; Leonardo 
+Soto, y Gonzalo Winter. (11-0-0).
+6
+--- PÁGINA 7 ---
+VOTACIÓN PARTICULAR, Continuación
+“ARTÍCULO PRIMERO, continuación
+Introdúcense las siguientes modificaciones en la ley Nº 19.628, sobre 
+protección de la vida privada:
+Numeral 2, continuación
+- Indicación de los diputados señores Leonardo Soto y Miguel 
+Ángel Calisto:
+En el numeral 2), para agregar un artículo 1° bis nuevo del siguiente 
+tenor:
+“Artículo 1º bis. Respecto del ámbito territorial, esta ley se aplicará 
+cuando:
+1. 
+El tratamiento de datos personales se realice en cualquier parte 
+del territorio nacional.
+2. 
+El responsable o el encargado del tratamiento del tratamiento de 
+datos personales se encuentre domiciliado en el territorio nacional.
+3. 
+Se realice tratamiento de datos personales de titulares que 
+residan en Chile, por parte de un responsable o encargado no establecido en 
+el país, cuando las actividades de tratamiento estén relacionadas con:
+a. La oferta de bienes o servicios a dichos titulares, independiente 
+de si se requiere un pago.
+b. Del control de su comportamiento, en la medida que tenga lugar 
+en Chile.
+4. 
+Al responsable o encargado del tratamiento de datos personales 
+no domiciliado en Chile, le resulte aplicable la legislación nacional en virtud de 
+un contrato o de los instrumentos internacionales.
+Los responsables o encargados del tratamiento no establecidos en el 
+país, y que oferten bienes o servicios de acuerdo a lo señalado en el numeral 
+3, deberán establecer y publicar una dirección electrónica que será 
+considerada para todos los efectos, incluyendo notificaciones, su domicilio en 
+el Chile.”.
+- Indicación de los diputados señor Raúl Leiva y señora Pamela 
+Jiles:
+Para agregar un nuevo artículo 2º, pasando el actual 2º a ser 3º y así 
+correlativamente:
+7
+--- PÁGINA 8 ---
+“Artículo 2º.- Ámbito territorial de aplicación. Las disposiciones de la 
+presente ley serán de aplicación obligatoria al tratamiento de datos personales 
+que se realice bajo cualquiera de las siguientes circunstancias:
+a) 
+El responsable esté establecido o constituido en territorio chileno. 
+b) 
+El mandatario, con independencia de su lugar de establecimiento 
+o constitución, realice las operaciones de tratamiento de datos personales a 
+nombre de un responsable establecido o constituido en territorio chileno.
+c) 
+El responsable y/o mandatario no se encuentren establecidos en 
+territorio chileno pero las operaciones de tratamiento de datos personales 
+estén destinadas a ofrecer bienes o servicios a titulares establecidos en Chile 
+o a monitorear el comportamiento de titulares que se encuentran en territorio 
+nacional, siempre que el monitoreo tenga por objeto adoptar decisiones 
+respecto a esos titulares o impliquen un análisis o la predicción de sus 
+preferencias personales, su comportamiento y/o sus actitudes.
+d) 
+El tratamiento de datos personales sea realizado por un 
+responsable que no estando establecido en territorio chileno le resulte 
+aplicable la legislación nacional, a causa de un contrato o del derecho 
+internacional.”.
+El señor Velásquez (abogado secretario de la Comisión) hace 
+presente que el inciso final del artículo 14 propuesto por el proyecto de ley 
+señala: “El responsable de datos que no tenga domicilio en Chile y que realice 
+tratamiento de datos de personas que residan en el territorio nacional, deberá 
+señalar y mantener actualizado y operativo, un correo electrónico u otro medio 
+de contacto idóneo para recibir comunicaciones de los titulares de datos y de 
+la Agencia.”.
+Sobre las indicaciones presentadas, la diputada señorita Cariola 
+(Presidenta de la Comisión) expresa que la del señor Leiva sería más 
+completa.
+Por su parte, el diputado señor Leonardo Soto señala que esta norma 
+es muy importante porque se refiere al ámbito de aplicación territorial de la ley 
+-dónde y a quiénes se aplica- respecto de datos personales que circulan 
+ampliamente por internet.
+Sobre la hipótesis relativa al tratamiento de datos personales de 
+titulares que residan en Chile, por parte de un responsable o encargado no 
+establecido en el país, cuando las actividades de tratamiento estén 
+relacionadas con el control de su comportamiento en la medida que tenga 
+lugar en Chile -N° 3, letra b)- observa que la fórmula propuesta por el señor 
+Leiva sería más restrictiva al agregar “siempre que el monitoreo tenga por
+8
+--- PÁGINA 9 ---
+objeto adoptar decisiones respecto a esos titulares o impliquen un análisis o la 
+predicción de sus preferencias personales, su comportamiento y/o sus 
+actitudes”; además, no habría claridad sobre quién lo prueba, y pudiera 
+favorecer una mayor discrecionalidad en torno a la finalidad del monitoreo.
+En ese sentido, el diputado señor Leiva explica que la hipótesis de la 
+letra c) de su indicación refiere al monitoreo de los datos que realice el 
+responsable (no tratamiento de datos), y solo se aplicará (la territorialidad de) 
+la ley cuando efectivamente “el monitoreo tenga por objeto adoptar decisiones 
+respecto a esos titulares o impliquen un análisis o la predicción de sus 
+preferencias personales, su comportamiento y/o sus actitudes”.
+Una segunda diferencia entre ambas propuestas, es que la de su 
+autoría incluye a “los mandatarios”.
+El señor Jackson (Ministro Secretario General de la Presidencia) 
+valora positivamente que las indicaciones aborden la extraterritorialidad, en 
+concordancia con el énfasis manifestado por el señor Gencarelli, jefe de la 
+Unidad de Protección y Flujo de Datos Internacionales en la Comisión 
+Europea, y estima que se pueden incorporar otras hipótesis.
+Luego del debate, se propuso la siguiente redacción de consenso 
+con el representante del Ejecutivo, la que fue suscrita por los (las) 
+diputados (as) señores (as) Leonardo Soto, Raúl Leiva, Karol Cariola, 
+Catalina Pérez y Pamela Jiles:
+En el numeral 2), para agregar un artículo 1° bis nuevo del siguiente 
+tenor:
+“Artículo 1 bis.- Ámbito de aplicación territorial. Las disposiciones de la 
+presente ley se aplicarán al tratamiento de datos personales que se realice 
+bajo cualquiera de las siguientes circunstancias:
+a) Cuando el responsable o mandatario esté establecido o constituido 
+en territorio nacional.
+b) Cuando el mandatario, con independencia de su lugar de 
+establecimiento o constitución, realice las operaciones de tratamiento de datos 
+personales a nombre de un responsable establecido o constituido en territorio 
+nacional.
+c) Cuando el responsable o mandatario no se encuentren establecidos 
+en el territorio nacional pero sus operaciones de tratamiento de datos 
+personales estén destinadas a ofrecer bienes o servicios a titulares que se 
+encuentren en Chile, independientemente de si a éstos se les requiere un 
+pago, o a monitorear el comportamiento de titulares que se encuentran en
+9
+--- PÁGINA 10 ---
+territorio nacional, incluyendo su análisis, rastreo, perfilamiento o predicción de 
+comportamiento.
+La presente ley también se aplicará al tratamiento de datos personales 
+que sea realizado por un responsable que, no estando establecido en territorio 
+nacional, le resulte aplicable la legislación nacional a causa de un contrato o 
+del derecho internacional.”.
+El diputado señor Leonardo Soto expresa que lo relativo a la 
+dirección electrónica se verá al momento de analizar el inciso final del artículo 
+14.
+Se deja constancia que la Comisión, por la unanimidad de los 
+presentes, autorizó el reemplazo extemporáneo del señor Calisto por el señor 
+Camaño.
+Sometida a votación la indicación de consenso (que incorpora un 
+artículo 1° bis) es aprobada por la unanimidad de los (las) diputados (as) 
+señores (as) Karol Cariola (Presidenta de la Comisión); Jorge Alessandri; 
+Felipe Camaño (por el señor Calisto); Camila Flores; Marcos Ilabaca; Pamela 
+Jiles; Raúl Leiva; Andrés Longton; Catalina Pérez; Luis Sánchez, y Leonardo 
+Soto. (11-0-0).
+En consecuencia, las indicaciones de los señores Leonardo Soto y 
+Calisto, y del señor Leiva, respectivamente, se dieron por rechazadas 
+reglamentariamente conforme a la votación anterior.
+Numeral 3 
+ 
+3) Agrégase, antes del artículo 2°, el siguiente epígrafe: “Definiciones”. 
+ 
+Se considera una adecuación formal, por lo que se somete a votación 
+sin debate.
+En votación, el numeral 3) del artículo primero fue aprobado por la 
+unanimidad de los (las) diputados (as) señores (as) Marcos Ilabaca 
+(Presidente Accidental de la Comisión); Jorge Alessandri; Felipe Camaño (por 
+el señor Calisto); Camila Flores; Pamela Jiles; Raúl Leiva; Andrés Longton; 
+Catalina Pérez; Luis Sánchez, y Leonardo Soto. (10-0-0).
+Numeral 4 
+ 
+4) Introdúcense las siguientes modificaciones en el artículo 2°:
+10
+--- PÁGINA 11 ---
+uno) Reemplázanse las letras c), f), g) e i) por las siguientes: 
+ 
+“c) Comunicación o transmisión de datos personales: dar a conocer por 
+el responsable de datos, de cualquier forma, datos personales a personas 
+distintas del titular a quien conciernen los datos, sin llegar a cederlos o 
+transferirlos.
+f) Dato personal: cualquier información vinculada o referida a una 
+persona natural identificada o identificable. Se considerará identificable toda 
+persona cuya identidad pueda determinarse, directa o indirectamente, en 
+particular mediante uno o más identificadores, tales como el nombre, el 
+número de cédula de identidad, el análisis de elementos propios de la 
+identidad física, fisiológica, genética, psíquica, económica, cultural o social de 
+dicha persona, excluyendo aquellos casos en que el esfuerzo de identificación 
+sea desproporcionado.
+g) Datos personales sensibles: sólo tendrán esta condición aquellos 
+datos personales que revelen el origen étnico o racial, la afiliación política, 
+sindical o gremial, hábitos personales, las convicciones ideológicas o 
+filosóficas, las creencias religiosas, los datos relativos a la salud, al perfil 
+biológico humano, los datos biométricos, y la información relativa a la vida 
+sexual, a la orientación sexual y a la identidad de género de una persona 
+natural.
+i) Fuentes de acceso público: todas aquellas bases de datos o 
+conjuntos de datos personales, cuyo acceso o consulta puede ser efectuada 
+en forma lícita por cualquier persona, siempre que no existan restricciones o 
+impedimentos legales para su acceso o utilización, tales como listas de 
+colegios profesionales, diario oficial, medios de comunicación o los registros 
+públicos que disponga la ley.
+Discusión y votación del numeral 4), uno), por literales: 
+ 
+- Indicación del diputado señor Luis Sánchez:  
+Al numeral 4: Modificase el encabezado uno) incorporando entre 
+“letras” y “c)” lo siguiente: “a),”, e incorpórase la siguiente letra a):
+“a) Almacenamiento de datos: la conservación o custodia de datos en 
+un registro o base de datos.”
+11
+--- PÁGINA 12 ---
+El autor de la indicación explica que se propone reemplazar en la 
+letra a), sobre almacenamiento de datos, la expresión “banco de datos” por 
+“base de datos”, en consonancia con el articulado del proyecto de ley.
+El señor Jackson (Ministro Secretario General de la Presidencia) 
+expresa su anuencia con la indicación.
+Sometida a votación, el encabezado del número uno) del numeral 
+4), con la indicación del señor Sánchez, es aprobado por la unanimidad 
+de los (las) diputados (as) señores (as) Marcos Ilabaca (Presidente Accidental 
+de la Comisión); Jorge Alessandri; Felipe Camaño (por el señor Calisto); 
+Camila Flores; Pamela Jiles; Raúl Leiva; Andrés Longton; Catalina Pérez; Luis 
+Sánchez, y Leonardo Soto. (10-0-0).
+Letra c) 
+ 
+c) Comunicación o transmisión de datos personales: dar a conocer por 
+el responsable de datos, de cualquier forma, datos personales a personas 
+distintas del titular a quien conciernen los datos, sin llegar a cederlos o 
+transferirlos.
+- Indicación del Ejecutivo I (indicaciones presentadas el 12 de 
+mayo de 2022)
+AL ARTÍCULO PRIMERO 
+1) Para modificar el artículo 2º de su numeral 4) en el siguiente 
+sentido:
+a) Elimínase, en el literal c) de su numeral uno), la expresión “o 
+transmisión”.
+- El resto de la indicación se analizará separadamente más adelante, 
+en la oportunidad que corresponda al articulado.
+El señor Jackson (Ministro Secretario General de la Presidencia) 
+acompaña presentación que explicita la argumentación de las indicaciones 
+presentadas.
+Sobre la indicación en comento, señala que se mejora la definición de 
+“comunicación de datos” al eliminar el concepto “transmisión” ya que no hay 
+una referencia posterior a la idea de transmisión de datos y, conforme a la 
+redacción, nunca va a ser transmisión de datos, pues señala “sin llegar a 
+cederlos o transferirlos”.
+12
+--- PÁGINA 13 ---
+Sometida a votación, la letra c) del numeral 4), con la indicación del 
+Ejecutivo I [N° 1, letra a)] es aprobada por la unanimidad de los (las) 
+diputados (as) señores (as) Marcos Ilabaca (Presidente Accidental de la 
+Comisión); Jorge Alessandri; Gustavo Benavente; Felipe Camaño (por el señor 
+Calisto); Camila Flores; Pamela Jiles; Raúl Leiva; Andrés Longton; Catalina 
+Pérez; Luis Sánchez, y Leonardo Soto. (11-0-0).
+Letra f)
+f) Dato personal: cualquier información vinculada o referida a una 
+persona natural identificada o identificable. Se considerará identificable toda 
+persona cuya identidad pueda determinarse, directa o indirectamente, en 
+particular mediante uno o más identificadores, tales como el nombre, el 
+número de cédula de identidad, el análisis de elementos propios de la 
+identidad física, fisiológica, genética, psíquica, económica, cultural o social de 
+dicha persona, excluyendo aquellos casos en que el esfuerzo de identificación 
+sea desproporcionado.
+Se presentaron las siguientes indicaciones: 
+ 
+- De los diputados señores Leonardo Soto y Miguel Ángel Calisto: 
+En el numeral 4) que establece modificaciones al artículo 2°, numeral 
+uno) en la parte que reemplaza la letra f), elimínese la frase: “tales como el 
+nombre, el número de cédula de identidad, el análisis de elementos propios de 
+la identidad física, fisiológica, genética, psíquica, económica, cultural o social 
+de dicha persona, excluyendo aquellos casos en que el esfuerzo de identifica-
+ción sea desproporcionado”.
+- Del diputado señor Andrés Longton: 
+Para suprimir en la letra f) del artículo 2 del numeral 4) del artículo 
+único, la expresión “tales como el nombre, el número de cédula de identidad, el 
+análisis de elementos propios de la identidad física, fisiológica, genética, 
+psíquica, económica, cultural o social de dicha persona, excluyendo aquellos 
+casos en que el esfuerzo de identificación sea desproporcionado.”.
+El diputado señor Longton analiza que, si bien la expresión “tales 
+como” da cuenta de una redacción abierta, no taxativa, la ejemplificación 
+constituye para el intérprete -incluso en sede judicial- una restricción, porque 
+debe circunscribirse a las áreas señaladas, a pesar de que el concepto es 
+omnicomprensivo, amplio.
+13
+--- PÁGINA 14 ---
+Asimismo, pregunta cómo y quién determina la exclusión de aquellos 
+casos en que el esfuerzo de identificación sea desproporcionado.
+En la misma línea, el diputado señor Leonardo Soto expresa que la 
+definición es omnicomprensiva, completa, amplia, y no existiría la necesidad 
+de agregar un listado de identificadores específicos, incluso, alguno de ellos 
+puede quedar obsoleto con el paso del tiempo (por ejemplo, la cédula de 
+identidad) o dificultar la comprensión.
+Coincide con la inquietud planteada sobre la frase final, que puede 
+actuar como reductor, como una restricción del concepto.
+El señor Jackson (Ministro Secretario General de la Presidencia) 
+manifiesta que la expresión “tales como” en ningún caso es excluyente o 
+taxativa; la ejemplificación busca dotar de mayores elementos para la 
+interpretación (dar tangibilidad al concepto), particularmente, para la Agencia 
+de Protección de Datos que debe velar por el cumplimiento de la normativa. 
+Desde su perspectiva, la idea de la redacción es proteger al menos estas 
+áreas, que no puedan ponerse en cuestión como dato personal.
+En ese sentido, cuándo o qué es desproporcionado deberá ser 
+resuelto por la misma Agencia.
+Para mayor claridad, la diputada señora Jiles sugiere agregar al final 
+del párrafo “sin que esta enunciación sea taxativa”.
+Desde otra perspectiva, el diputado señor Sánchez observa que si se 
+le elimina el texto mencionado en las indicaciones la definición quedaría 
+excesivamente vaga.
+A continuación, la diputada señora Catalina Pérez expresa compartir 
+los objetivos de ambas indicaciones, pero no el mecanismo utilizado. Cree que 
+si se eliminan los ejemplos (buscando mayor amplitud) se pueda producir el 
+efecto contrario y limitar el alcance de la definición. Apunta que los ejemplos 
+permiten orientar respecto al criterio de aplicación, y la expresión “tales como” 
+es por esencia, en Derecho, una fórmula no taxativa.
+En la misma línea, el diputado señor Benavente concuerda que la 
+expresión “tales como” es meramente enunciativa y nunca taxativa.
+Secundando las palabras anteriores, el diputado señor Leiva refuerza 
+que la redacción es enunciativa y la ejemplificación permite ilustrar la posterior 
+interpretación de la norma.
+14
+--- PÁGINA 15 ---
+Finalmente, el diputado señor Ilabaca (Presidente Accidental de la 
+Comisión) se encuentra conteste con la idea de que la expresión “tales como” 
+se utiliza siempre con carácter ejemplar.
+Recoge la inquietud frente a la frase final, es equívoca y puede generar 
+conflicto.
+Luego del debate, ambas indicaciones son retiradas por sus 
+autores.
+Seguidamente, los diputados señores Marcos Ilabaca, Andrés 
+Longton y Leonardo Soto presentan indicación de consenso del siguiente 
+tenor:
+Para suprimir en la letra f) del artículo 2 del numeral 4) del artículo 
+único, la expresión “excluyendo aquellos casos en que el esfuerzo de 
+identificación sea desproporcionado”.
+Sometida a votación, la letra f) del numeral 4), con la indicación de 
+los señores Ilabaca, Longton y Leonardo Soto, es aprobada por la 
+unanimidad de los (las) diputados (as) señores (as) Marcos Ilabaca 
+(Presidente Accidental de la Comisión); Jorge Alessandri; Gustavo Benavente; 
+Felipe Camaño (por el señor Calisto); Camila Flores; Pamela Jiles; Raúl Leiva; 
+Andrés Longton; Catalina Pérez; Luis Sánchez; Leonardo Soto, y Gonzalo 
+Winter. (12-0-0).
+Letra nueva 
+ 
+- Indicación del diputado señor Raúl Leiva: 
+Para agregar en el artículo 2 una nueva letra g), pasando la actual a 
+ser h) y así sucesivamente:
+“g) Datos personales biométricos: sólo tendrán esta condición aquellos 
+datos personales que se obtienen a partir de un tratamiento técnico específico 
+relativos a las características físicas, fisiológicas o conductuales de una 
+persona y que se traten con el propósito de identificar inequívocamente a su 
+titular, tales como la huella digital, el iris, los rasgos faciales o de la mano y la 
+voz.”.
+El autor de la indicación explicita que, a su juicio, sería conveniente 
+definir los “datos personales biométricos” junto con las definiciones generales,
+15
+--- PÁGINA 16 ---
+extrayendo el concepto desde el artículo 16 ter propuesto por el proyecto de 
+ley.
+Sobre el punto, el señor Jackson (Ministro Secretario General de la 
+Presidencia) explica que dentro de los datos personales sensibles -definidos 
+en la letra g) del proyecto de ley- se encuentran aquellos referidos al perfil 
+biológico humano, siendo que la regulación más acabada se dispone en el 
+Párrafo Segundo del Título II del proyecto de ley, particularmente, el artículo 16 
+trata la regla general para el tratamiento de datos personales sensibles; el 
+artículo 16 bis aborda los datos personales relativos a la salud y al perfil 
+biológico humano, y el artículo 16 ter, los datos personales biométricos.
+Junto con lo anterior, advierte que incorporar la definición de “datos 
+personales biométricos”, y no otros conceptos contenidos en el párrafo 
+mencionado, podría generar cierta confusión, por lo tanto, sugiere analizar esta 
+definición al momento de debatir sobre los artículos 16, 16 bis y 16 ter.
+Se produce un intercambio de opiniones sobre la mejor ubicación 
+sistémica de la definición y su regulación en la estructura del articulado. 
+Finalmente, es consultado el señor Velásquez (abogado secretario de la 
+Comisión) quien coincide con la opinión del Ministro en torno a que se 
+complejizaría la estructura normativa al cambiar la ubicación de la disposición 
+y su regulación al artículo sobre definiciones generales.
+La indicación es retirada por su autor.
+Letra g) 
+ 
+g) Datos personales sensibles: sólo tendrán esta condición aquellos 
+datos personales que revelen el origen étnico o racial, la afiliación política, 
+sindical o gremial, hábitos personales, las convicciones ideológicas o 
+filosóficas, las creencias religiosas, los datos relativos a la salud, al perfil 
+biológico humano, los datos biométricos, y la información relativa a la vida 
+sexual, a la orientación sexual y a la identidad de género de una persona 
+natural.
+Se presentaron las siguientes indicaciones: 
+ 
+- Del Ejecutivo II (indicaciones presentadas el 6 de junio de 2022): 
+AL ARTÍCULO PRIMERO
+16
+--- PÁGINA 17 ---
+1) Para modificar el literal g) del artículo 2° del numeral uno) de su 
+numeral 4) en el siguiente sentido:
+a) Elimínase la palabra “sólo”. 
+ 
+b) Elimínase la expresión “hábitos personales,”. 
+ 
+c) Agrégase, a continuación del punto aparte, que pasa a ser seguido, 
+la frase: “Asimismo, tendrán la condición de datos personales sensibles los 
+hábitos referidos a datos personales sensibles.”.
+- Del diputado señor Andrés Longton: 
+Para intercalar en la letra g) del artículo 2 del numeral 4) del artículo 
+único, entre la expresión “personales” y “que” la frase “que se refieren a las 
+características físicas o morales de las personas o a hechos o circunstancias 
+de su vida privada o intimidad, tales como aquellos”.
+- De los diputados señores Leonardo Soto y Miguel Ángel Calisto: 
+En el numeral 4) que establece modificaciones al artículo 2°, numeral 
+uno) en la parte que reemplaza la letra g), para insertar a continuación de la 
+frase “hábitos personales,” la expresión “situación socioeconómica”.
+El diputado señor Leonardo Soto manifiesta la relevancia de 
+consignar los “hábitos personales” dentro de la categoría de “datos personales 
+sensibles”, pues, fortalece la protección de los titulares especialmente frente a 
+grandes empresas que manejan esta información.
+El diputado señor Sánchez comparte la preocupación de que se 
+elimine los “hábitos personales” de la definición, y se limiten -según la letra c) 
+de la indicación- a considerarlos como datos personales sensibles solo cuando 
+se refieren a éstos, pues la disposición no incorpora otros aspectos cotidianos, 
+por ejemplo, los datos relativos a la vida familiar.
+Sostiene que ello se resolvería al incorporar, conjuntamente, la 
+indicación del Ejecutivo con la de autoría del señor Longton, que agrega: “que 
+se refieren a las características físicas o morales de las personas o a hechos o 
+circunstancias de su vida privada o intimidad, tales como aquellos”. Es decir, 
+con ambas indicaciones quedaría bien resuelto el punto.
+En el mismo sentido, el diputado señor Leiva suscribe lo planteado 
+por el señor Sánchez, y subraya que, de todas formas, se podría clarificar la 
+redacción de la letra c), porque es tautológica y no se entiende con facilidad.
+17
+--- PÁGINA 18 ---
+El señor Jackson (Ministro Secretario General de la Presidencia) 
+explica que en la definición de “datos personales sensibles” se propone 
+eliminar la taxatividad de la numeración y establecer que los “hábitos 
+personales” sólo son datos personales sensibles cuando se refieren a éstos.
+Aclara que se recoge lo expresado en una de las exposiciones 
+(durante la discusión general) en el sentido de distinguir en los “hábitos 
+personales” aquellos que sí son datos sensibles, de otros que no lo son. Por 
+ejemplo, los hábitos personales sobre patrones de consumo –comprar comida 
+con cierta periodicidad- son datos personales (resguardados por esta ley) pero 
+no necesariamente son datos personales sensibles (conllevan una mayor 
+protección).
+Por ello, la letra c) de la indicación dispone  –aunque reconoce que se 
+podría aclarar la redacción- “Asimismo, tendrán la condición de datos 
+personales sensibles los hábitos referidos a datos personales sensibles.”.
+En otras palabras, enfatiza que todos los hábitos personales referidos 
+a los datos personales sensibles anteriormente descritos también serán 
+entendidos como datos personales sensibles.
+Sobre esta materia, la señora Gatica (experta, socia del estudio 
+Alessandri) hace presente que es relevante tener presente un elemento que 
+caracteriza a los datos personales sensibles, un elemento común entre ellos: 
+un factor de discriminación, lo que no se produce en el 100% de los hábitos 
+personales. Por lo anterior, coincide con lo expresado por el Ministro Jackson 
+en el sentido de que no todos los hábitos personales -per se- deben ser 
+considerados datos personales sensibles; sin duda, algunos sí revisten esta 
+condición en la medida que incluyan un dato sensible o que a raíz de un 
+tratamiento de datos se pueda concluir un dato sensible.
+A continuación, el señor Magliona (miembro del grupo legal de la 
+Asociación de Empresas Chilenas de Tecnología A.G.) comparte lo expresado 
+en torno a que no todos los hábitos personales son datos sensibles.
+Seguidamente, la señora Matus (de la ONG Datos Protegidos) cree 
+importante señalar que, respecto de los hábitos personales, en general, los 
+datos personales sensibles dicen relación con aspectos de la vida privada o 
+intimidad (ámbito que no se quiere que se encuentre al acceso de cualquiera), 
+por ello, cuando se habla de hábitos personales hay que circunscribirlos a esos 
+aspectos de vida privada o intimidad.
+18
+--- PÁGINA 19 ---
+El diputado señor Leonardo Soto expresa sus dudas en torno a la 
+eliminación de “los hábitos personales” de la definición porque con la redacción 
+actual será la Agencia la que tendrá que decidir, en cada caso, si un 
+determinado hábito pertenece o no a la intimidad de las personas. Para una 
+mayor protección de las personas, propone dejar la redacción tal como lo 
+propuso el Senado en esta materia.
+El diputado señor Longton concuerda con el Ministro en cuanto a que 
+no todos los hábitos personales son datos personales sensibles.
+Una propuesta de solución sería reponer la frase que se encuentra en 
+el texto vigente de la ley que habla de vida privada o intimidad (contenida en 
+su indicación), en la que también se agrega la expresión “tales como”, 
+reafirmando el carácter enunciativo de la disposición y, conjuntamente, aprobar 
+la indicación completa del Ejecutivo (corrigiendo la redacción de la letra c).
+En una nueva intervención, el señor Jackson (Ministro Secretario 
+General de la Presidencia) precisa que los hábitos personales recaen en una 
+categoría distinta a los datos personales enumerados en la definición (entre 
+otros, aquellos que revelen el origen étnico o racial, la afiliación política, 
+sindical o gremial, las convicciones ideológicas o filosóficas) ya que al hablar 
+de hábitos personales podría ser respecto de cualquiera de ellos o de otros 
+que no sean datos personales sensibles. Por eso, la indicación propone tratar 
+los hábitos personales en un inciso aparte, clarificando que los hábitos 
+personales referidos a los datos personales sensibles sí serán considerados 
+en tal condición. De todas formas, observa que, quizás, la redacción sea 
+redundante, tautológica como se dijo, y no sea necesario señalarlo.
+Enfatizando su postura y para la historia de la ley, reitera que, en 
+consideración a que cualquier tratamiento de los datos personales 
+mencionados anteriormente es considerado como dato personal sensible, todo  
+hábito personal referido a ellos deberá ser tratado, obviamente, como dato 
+personal sensible.
+Finalmente, el diputado señor Sánchez coincide que no sería 
+necesario aprobar la letra c) de la indicación del Ejecutivo dado que al 
+incorporar la expresión “hechos o circunstancias de su vida privada o 
+intimidad”, esta fórmula contiene, naturalmente, los hábitos personales sin 
+necesidad de hacer referencia expresa a ellos.
+Se acuerda votar las indicaciones en forma separada.
+19
+--- PÁGINA 20 ---
+Sometida a votación, la letra g) del numeral 4, con la indicación del 
+Ejecutivo II [N° 1, letra a)] es aprobada por la unanimidad de los (las) 
+diputados (as) señores (as) Marcos Ilabaca (Presidente Accidental de la 
+Comisión); Jorge Alessandri; Gustavo Benavente; Miguel Ángel Calisto; Raúl 
+Leiva; Andrés Longton; Catalina Pérez; Luis Sánchez; Leonardo Soto, y 
+Gonzalo Winter. (10-0-0).
+Puesta en votación las indicaciones del Ejecutivo II [N° 1, letra b)], 
+conjuntamente con la del señor Longton, son aprobadas por la 
+unanimidad de los (las) diputados (as) señores (as) Marcos Ilabaca 
+(Presidente Accidental de la Comisión); Jorge Alessandri; Gustavo Benavente; 
+Miguel Ángel Calisto; Raúl Leiva; Andrés Longton; Catalina Pérez; Luis 
+Sánchez; Leonardo Soto, y Gonzalo Winter. (10-0-0).
+En votación la indicación del Ejecutivo II [N° 1, letra c)], es 
+rechazada por la unanimidad de los (las) diputados (as) señores (as) Marcos 
+Ilabaca (Presidente Accidental de la Comisión); Jorge Alessandri; Gustavo 
+Benavente; Miguel Ángel Calisto; Raúl Leiva; Andrés Longton; Catalina Pérez; 
+Luis Sánchez; Leonardo Soto, y Gonzalo Winter. (10-0-0).
+Sobre la indicación de su autoría, el diputado señor Leonardo Soto 
+argumenta que la ley anti discriminación establece que una de las maneras de 
+infringir la igualdad ante la ley se relaciona con la condición de pobreza de las 
+personas, y el tratamiento de los datos de su caracterización socioeconómica, 
+por ejemplo, de los datos de la ficha de protección social. Por ello, la indicación 
+propone elevar los datos sobre “situación socioeconómica” a la categoría de 
+dato personal sensible.
+Puesta en votación la indicación de los señores Leonardo Soto y 
+Calisto es aprobada por la unanimidad de los (las) diputados (as) señores 
+(as) Marcos Ilabaca (Presidente Accidental de la Comisión); Jorge Alessandri; 
+Gustavo Benavente; Miguel Ángel Calisto; Raúl Leiva; Andrés Longton; 
+Catalina Pérez; Luis Sánchez; Leonardo Soto, y Gonzalo Winter. (10-0-0).
+Letra i) 
+ 
+i) Fuentes de acceso público: todas aquellas bases de datos o 
+conjuntos de datos personales, cuyo acceso o consulta puede ser efectuada 
+en forma lícita por cualquier persona, siempre que no existan restricciones o 
+impedimentos legales para su acceso o utilización, tales como listas de
+20
+--- PÁGINA 21 ---
+colegios profesionales, diario oficial, medios de comunicación o los registros 
+públicos que disponga la ley.
+- Indicación de los diputados señores Leonardo Soto y Miguel 
+Ángel Calisto:
+En el numeral 4) que establece modificaciones al artículo 2°, en la 
+parte que reemplaza al numeral i), para suprimir la letra i).
+El diputado señor Leonardo Soto expresa su inquietud frente a esta 
+norma, pues pone a disposición de las empresas de tratamiento de datos una 
+fuente inagotable, gratuita, de datos personales de origen público.
+Al consagrar las fuentes de acceso público, se estaría liberando estos 
+datos, entre otros, de las normas relativas al consentimiento del titular.
+Por su parte, el diputado señor Longton discrepa de lo planteado por 
+quien lo antecede, y señala que eliminaría la expresión “tales como”.
+Apunta que si son datos de fuentes de acceso público, y no tienen 
+impedimento o restricción legal, cómo se va a limitar; por ejemplo, que el 
+Ministerio Público acceda a ellos.
+El diputado señor Leiva comparte con el señor Soto que estos datos 
+deben estar regulados y no puede existir un acceso público a ellos.
+Sobre el punto, el señor Jackson (Ministro Secretario General de la 
+Presidencia) manifiesta que se tomó una decisión sobre este tema; en ese 
+sentido, hace presente la indicación efectuada a la letra b) del artículo 3, sobre 
+el principio de finalidad.
+Al efecto, el inciso segundo del literal referido señala que no se pueden 
+tratar los datos personales con fines distintos a los informados al momento de 
+la recolección, salvo ciertas hipótesis que menciona. Específicamente, se 
+propone suprimir de dichas fuentes de licitud la relativa a “los datos que 
+provengan de fuentes de acceso público”.
+Sin perjuicio de lo anterior, en las definiciones, no se va a eliminar la 
+definición de “fuentes de acceso público”, y cree que el debate planteado debe 
+remitirse al momento de tratar la norma citada.
+La discusión y votación de la letra i) del numeral 4 queda 
+pendiente.
+******
+21
+--- PÁGINA 22 ---
+Las intervenciones quedaron en registro de audio en la Secretaría de 
+la Comisión. Registro audiovisual de la sesión puede obtenerse en 
+http://www.democraciaenvivo.cl/ y en
+http://www.cdtv.cl/Programa.aspx?idPrograma=46. 
+ 
+Por haberse cumplido con su objeto, siendo las 17:12 horas, la 
+Presidenta levantó la sesión.
+PVW/mrl/ccr
+22

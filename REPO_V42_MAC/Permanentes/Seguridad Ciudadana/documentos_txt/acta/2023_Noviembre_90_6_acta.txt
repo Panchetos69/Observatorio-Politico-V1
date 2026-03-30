@@ -1,0 +1,1148 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=20102&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 08:22:19
+======================================================================
+
+--- PÁGINA 1 ---
+1
+SESIÓN 90ª, ORDINARIA, DE LA COMISIÓN DE SEGURIDAD 
+CIUDADANA, 
+CORRESPONDIENTE 
+AL 
+PERÍODO 
+LEGISLATIVO 2022-2026, CELEBRADA EL MIÉRCOLES 08 
+DE NOVIEMBRE DE 2023. SE ABRE A LAS 17:08 HORAS.
+SUMARIO.
+La sesión tiene por objeto continuar 
+la discusión y votación particular del 
+proyecto de ley, iniciado en mensaje de S. 
+E., el Presidente de la República, que 
+establece 
+una 
+Ley 
+Marco 
+sobre 
+Ciberseguridad e Infraestructura Crítica de 
+la Información, boletín N°14847-06 (S). Con 
+urgencia calificada de “suma”. En segundo 
+trámite constitucional y primer trámite 
+reglamentario.
+La Ministra del Interior y Seguridad 
+Pública, señora Carolina Tohá, junto al 
+Subsecretario del Interior, señor Manuel 
+Monsalve, 
+en 
+cuya 
+representación 
+concurren las asesoras de ciberseguridad 
+de dicha Cartera, señora asesoras, señoras 
+Michelle Bordachar y Lesly Covarrubias, 
+para participar en la discusión particular de 
+esta iniciativa legal.
+Asimismo, se encuentran invitados a 
+participar el abogado señor Felipe Harboe 
+y el Jefe Regional Latinoamericano GSMA, 
+señor Lucas Gallito.
+También 
+fueron 
+invitados 
+a 
+conectarse por zoom todas las personas 
+que 
+expusieron 
+sobre 
+este 
+proyecto 
+durante 
+la 
+discusión 
+general 
+para 
+responder consultas de las y los diputados.
+ASISTENCIA.
+Preside su titular el diputado señor Andrés Longton.
+Asisten las y los diputados señores Jorge Alessandri, Jaime Araya, José 
+Miguel Castro, Lorena Fries, Andrés Jouannet, Henry Leal, Raúl Leiva, Gloria 
+Naveillán, Maite Orsini, Luis Sánchez en reemplazo del diputado señor Cristián Araya, 
+Alejandra Placencia y Diego Schalper.
+Asiste además el diputado señor Hotuiti Teao.
+Actúan como Abogado Secretario de la Comisión el señor Álvaro Halabi 
+Diuana, como Abogada Ayudante la señora Carolina Salas Prüssing, y como 
+Secretaria Ejecutiva, la señorita Luz Barrientos Rivadeneira.
+Concurren, en representación del Subsecretario del Interior, señor Manuel 
+Monsalve, las asesoras de ciberseguridad de dicha Cartera, señoras asesoras,
+Firmado por Álvaro Juan Halabi
+Diuana
+Fecha 18/11/2023 01:11:15 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 6B25E3C4221BB839
+--- PÁGINA 2 ---
+2
+señoras Michelle Bordachar y Lesly Covarrubias, para participar en la discusión 
+particular de esta iniciativa legal.
+CUENTA.
+Se dio cuenta de los siguientes documentos: 
+ 
+1.- Proyecto iniciado en moción de la diputada señora Ximena Ossandón y de 
+los diputados señores Jorge Alessandri, Cristián Araya, José Miguel Castro, Andrés 
+Celis, Andrés Jouannet, Raúl Leiva, Andrés Longton, Hugo Rey y Diego Schalper, 
+que regula el uso de fentanilo y sanciona su producción, internación, distribución y 
+posesión no autorizadas, boletín N°16.403-25. 
+ 
+En estado de tabla.
+2.- Oficio de S.E. el Presidente de la República mediante el cual retira y hace 
+presente la urgencia calificada de “suma”, para el despacho del proyecto que 
+establece una Ley Marco sobre Ciberseguridad e Infraestructura Crítica de la 
+Información, boletín N°14.847-06 (S). 
+Se tuvo presente la urgencia.
+3.- Oficio de S.E. el Presidente de la República mediante el cual retira y hace 
+presente la urgencia calificada de “suma”, para el despacho del proyecto que crea el 
+Ministerio de Seguridad Pública, boletín N°14.614-07 (S). 
+Se tuvo presente la urgencia.
+4.- Oficio de S.E. el Presidente de la República mediante el cual retira y hace 
+presente la urgencia calificada de “suma”, para el despacho del proyecto que 
+establece plazo y condiciones para la inhumación respecto de funerales de riesgo 
+para la seguridad y orden público, y modifica otros cuerpos legales, boletín N°16.323-
+25. 
+ 
+Se tuvo presente la urgencia.
+5.- Reemplazo del diputado señor Luis Sánchez al diputado señor Cristián 
+Araya. 
+ 
+Se consignó el reemplazo.
+6.- Pareo de las y los diputados señores Andrés Jouannet y Raúl Leiva; Maite 
+Orsini y Gloria Naveillán, y Jaime Araya y Diego Schalper. 
+ 
+Se tuvieron presente los pareos.
+7.- Indicaciones al proyecto de ciberseguridad de diputadas y diputados 
+integrantes, como también del Ejecutivo al boletín N°14847-06. 
+ 
+Se puso a disposición de las señoras diputadas y los señores diputados. 
+ 
+ 
+PUNTOS VARIOS.
+El diputado señor Hotuiti Teao, expresó a la Comisión que la Embajada de 
+los Estados Unidos en Chile emitió una alerta este jueves pasado dirigida a los 
+ciudadanos norteamericanos que visiten las ciudades de Valparaíso y Viña del Mar 
+advirtiendo, sobre una creciente tendencia criminal en ambas comunas. Esta alerta 
+de la embajada es un mazazo a la economía local y afecta directamente los ingresos 
+que se perciben gracias al turismo y comercio de la zona, va que pone en cuestión 
+la capacidad del Gobierno para asegurar que las personas puedan recorrer nuestra 
+región de manera segura, generando que los extranjeros que se encuentran en 
+nuestro país, prefieran visitar otros lugares.
+--- PÁGINA 3 ---
+3
+Ante este escenario, solicitó a la Comisión que se invite a la ministra del 
+Interior, Carolina Tohá, para analizar esta situación y que se refieran a las medidas 
+que se están implementando para contener el alza de delitos.
+Por otra parte, la Fiscalía Regional de Tarapacá aseguró que el Tren de 
+Aragua ha utilizado a la V Región como medio para transportar drogas, hecho que 
+es extremadamente grave y confirma la urgente necesidad de fortalecer la seguridad 
+en todo el territorio, antes que los brazos de esta banda criminal se sigan 
+extendiendo aún más. Por esta razón, requirió el acuerdo de esta comisión para que 
+se cite a las autoridades regionales y nacionales, y pedimos que, además, 
+comparezca el fiscal nacional también a esta instancia, a fin de que no se informe 
+desde hace cuánto que esta información se sabía y qué se ha hecho hasta la fecha 
+para perseguir a los involucrados.
+Por último, hizo un llamado como parlamentario y ciudadano de la región de 
+Valparaíso a las autoridades locales y nacionales, porque resulta impresentable que, 
+ante un evidente descontrol delictual en Valparaíso, el alcalde Sharp salga 
+intentando empatar con tiroteos escolares propios de una problemática puntual que 
+vive EEUU. Se necesita que el alcalde de Valparaíso como el actual Gobierno dejen 
+de ser un espectador en esta materia y concentren esfuerzos y recursos en 
+devolverle la paz a toda nuestra comunidad, que hoy por la indolencia de las 
+autoridades, vive con temor a ser víctima de un robo e incluso un asesinato. 
+ 
+ 
+ACUERDOS. 
+ 
+ 
+La Comisión acordó:
+1.- Oficiar a la señora Ministra del Interior y Seguridad Pública, doña Carolina 
+Tohá, para que informe sobre las medidas y acciones que ha adoptado para acoger 
+y proteger a los ciudadanos cubanos, que a propósito de los Juegos Panamericanos 
+efectuados hace un par de días, han requerido a nuestro país refugio político.
+2.- En la sesión especial del lunes 20 de noviembre, invitar a la señora Ministra 
+del Interior y Seguridad Pública, doña Carolina Tohá, al señor Subsecretario del 
+Interior, don Manuel Monsalve y al señor Fiscal Nacional, don Ángel Valencia, para 
+que se refieran sobre el alza de los delitos más violentos en todo el país, en especial 
+en la Región de Valparaíso, específicamente en las comunas de Valparaíso y Viña 
+del Mar, en atención a la alerta dada por la embajada de Estados Unidos, lo que 
+habría provocado un daño a la economía local fomentada por el turismo.
+3.- En la sesión especial del lunes 20 de noviembre se iniciará la discusión y 
+votación particular del proyecto de ley que crea el Ministerio de Seguridad Pública 
+boletín N°14614-25.
+ORDEN DEL DÍA. 
+ 
+ 
+Se continuó la discusión y votación particular del proyecto de ley, 
+iniciado en mensaje de S. E., el Presidente de la República, que establece una 
+Ley Marco sobre Ciberseguridad e Infraestructura Crítica de la Información, 
+boletín N°14847-06 (S). Con urgencia calificada de “suma”. En segundo 
+trámite constitucional y primer trámite reglamentario. 
+ 
+ 
+Se da lectura al artículo 3 aprobado por el Senado: 
+ 
+ 
+“Artículo 3°. Principios rectores. En la aplicación de las disposiciones de esta 
+ley se deberán observar los siguientes principios:
+1. Principio de actualización de programas computacionales: los organismos 
+públicos e instituciones privadas adoptarán las medidas necesarias para la
+--- PÁGINA 4 ---
+4
+instalación de las actualizaciones de seguridad de los sistemas informáticos que 
+usen o administren, dando prioridad a aquellas que solucionen vulnerabilidades 
+graves.
+2. Principio de confidencialidad de los sistemas informáticos: la información 
+almacenada o transmitida por redes y sistemas informáticos deberá ser conocida y 
+accedida exclusivamente por personas o entidades autorizadas a tal efecto, las que 
+se encontrarán sujetas a las responsabilidades y obligaciones que señalen las 
+leyes.
+3. Principio de control de daños: frente a un ciberataque o a un incidente de 
+ciberseguridad, todos los organismos del Estado, así como las instituciones 
+privadas, deberán siempre actuar diligentemente, adoptando las medidas 
+necesarias para evitar la escalada del ciberataque o del incidente de ciberseguridad 
+y su posible propagación a otros sistemas informáticos.
+4. Principio de cooperación con la autoridad: los organismos del Estado y los 
+privados deberán cooperar con la autoridad competente para resolver los incidentes 
+de ciberseguridad y, si es necesario, deberán cooperar entre diversos sectores, 
+teniendo en cuenta la interconexión y la interdependencia de los sistemas y 
+servicios.
+5. Principio de disponibilidad de los sistemas informáticos: la información 
+almacenada o transmitida por redes y sistemas informáticos, y las redes y sistemas 
+informáticos deberán estar accesibles para su uso a demanda.
+6. Principio de igualdad y no discriminación: todas las personas tienen 
+derecho a participar de un espacio digital seguro y libre de violencia. El Estado 
+desarrollará acciones de prevención, promoción, reparación y garantía de este 
+derecho, otorgando especial protección a mujeres, niñas, niños, jóvenes, personas 
+de la tercera edad y disidencias sexogenéricas.
+7. Principio de integridad de los sistemas informáticos y de la información: la 
+información almacenada o transmitida por redes y sistemas informáticos, incluida la 
+configuración de éstos, sólo podrá ser modificada por personas autorizadas en el 
+ejercicio de sus funciones o por sistemas que cuenten con la autorización 
+respectiva.
+8. Principio de protección integral: se deberán determinar los riesgos 
+potenciales que puedan afectar a las redes y sistemas informáticos y aplicar las 
+medidas organizativas, de gestión y técnicas apropiadas para la protección de los 
+mismos.
+9. Principio de responsabilidad: aquel en cuya virtud la seguridad de las redes, 
+sistemas y datos es de responsabilidad de aquel que las provee, ofrece u opera, 
+con independencia de la naturaleza pública o privada del organismo.
+10. Principio de respuesta responsable: la aplicación de medidas para 
+responder a incidentes de ciberseguridad o ciberataques en ningún caso podrá 
+significar la realización de, o el apoyo a, operaciones ofensivas.
+11. Principio del cifrado: toda persona tiene derecho a adoptar las medidas 
+técnicas de seguridad informática que considere necesarias, incluyendo el cifrado. 
+Ninguna persona ni autoridad podrá afectar, restringir o impedir el ejercicio de este 
+derecho.”
+Al artículo 3, los diputados señores José Miguel Castro, Andrés Longton 
+y Diego Schalper, formularon la siguiente indicación N°23:
+Para sustituir el artículo 3º por el siguiente: 
+ 
+“Artículo 3º. Principios rectores. En la aplicación de las disposiciones de esta 
+ley se deberán observar los siguientes principios:
+1. 
+Principio de subsidiariedad regulatoria. Si una autoridad sectorial dicta 
+normativa más exigente que la contemplada en esta ley, se preferirá aquella por 
+sobre ésta;
+2. 
+Principio de especialidad sectorial. Frente a la existencia de una 
+autoridad sectorial que cuente con atribuciones establecidas por ley en el ámbito
+--- PÁGINA 5 ---
+5
+regulatorio, supervisor y sancionatorio, se respetará la prevalencia de las 
+potestades sectoriales en cada caso, en el ámbito de sus competencias. En caso 
+de duda, se privilegiará a la autoridad sectorial respectiva.
+3. 
+Principio de coordinación. De conformidad a lo dispuesto por el inciso 
+segundo del artículo 5º del DFL Nº1-19.653 que fija texto refundido, coordinado y 
+sistematizado de la ley Nº18.575, orgánica constitucional de Bases Generales de la 
+Administración del Estado, la Agencia y las autoridades sectoriales deberán cumplir 
+sus cometidos coordinadamente y propender a la unidad de acción, evitando la 
+duplicación o interferencia de funciones.
+Asimismo, para la dictación de actos administrativos, se tendrá especialmente 
+en cuenta lo dispuesto por el artículo en el artículo 37 bis de la Ley Nº19.880 que 
+establece bases de los procedimientos administrativos que rigen los actos de los 
+órganos de la Administración del Estado.”
+Al artículo 3, el diputado señor Jorge Alessandri, formuló la siguiente 
+indicación N°24:
+“Para sustituir, en el numeral 6 del artículo 3°, la frase “niñas, niños, jóvenes, 
+personas de la tercera edad y disidencias sexogenéricas”, por la siguiente: “niños, 
+niñas y adolescentes y personas de la tercera edad”.”. 
+ 
+ 
+Al artículo 3, los diputados señores Jorge Alessandri, José Miguel Castro 
+y Andrés Longton, formularon la siguiente indicación sustitutiva: 
+ 
+ 
+“Para reemplazar el artículo 3 por el siguiente:
+“Artículo 3. Principios rectores. Para alcanzar los objetivos de esta ley se 
+deberán observar los siguientes principios:
+1. Principio de control de daños: frente a un ciberataque o a un incidente de 
+ciberseguridad siempre se deberá actuar coordinada y diligentemente, adoptando 
+las medidas necesarias para evitar la escalada del ciberataque o del incidente de 
+ciberseguridad y su posible propagación a otros sistemas informáticos.
+2. Principio de cooperación con la autoridad: para resolver los incidentes de 
+ciberseguridad se deberá prestar la cooperación debida con la autoridad competente 
+y, si es necesario, cooperar entre diversos sectores, teniendo en cuenta la 
+interconexión y la interdependencia de los sistemas y servicios.
+3. Principio de coordinación: de conformidad a lo dispuesto por el inciso 
+segundo del artículo 5º del DFL Nº1-19.653 que fija texto refundido, coordinado y 
+sistematizado de la ley Nº18.575, orgánica constitucional de Bases Generales de la 
+Administración del Estado, la Agencia y las autoridades sectoriales deberán cumplir 
+sus cometidos coordinadamente y propender a la unidad de acción, evitando la 
+duplicación o interferencia de funciones.
+4. Principio de seguridad en el ciberespacio: es deber del Estado resguardar 
+la seguridad en el ciberespacio. El Estado velará porque todas las personas puedan 
+participar de un ciberespacio seguro otorgando especial protección a las redes y 
+sistemas informáticos que contengan información de aquellos grupos de personas 
+que suelen ser en mayor medida objeto de ciberataques.
+5. Principio de respuesta responsable: la aplicación de medidas para 
+responder a incidentes de ciberseguridad o ciberataques en ningún caso podrá 
+significar la realización de, o el apoyo a, operaciones ofensivas.
+6. Principio de seguridad informática: toda persona tiene derecho a adoptar 
+las medidas técnicas de seguridad informática que considere necesarias, incluyendo 
+el cifrado.
+7. Principio de racionalidad: las medidas para la gestión de incidentes de 
+ciberseguridad, las obligaciones de ciberseguridad y el ejercicio de las facultades de 
+la Agencia deberán ser necesarias y proporcionales al grado de exposición a los 
+riesgos, así como al impacto social y económico que tendría.
+--- PÁGINA 6 ---
+6
+8. Principio de seguridad y privacidad por defecto y desde el diseño: Los 
+sistemas informáticos, aplicaciones y tecnologías de la información deben diseñarse, 
+implementarse y gestionarse teniendo en cuenta la seguridad y la privacidad de los 
+datos personales que procesan.”.”
+La asesora legislativa del Ministerio del Interior, abogada señora 
+Michelle Bordachard, señaló que esta redacción viene a recoger lo sugerido en su 
+oportunidad tanto por la mesa técnica de trabajo como los expertos, dejando en su 
+mayoría principios que venían en el mensaje del presidente Sebastián Piñera, que 
+en gran parte fueron tomados de la ley de Estonia en la materia, procurando dejar 
+solamente los principios que no contenían obligaciones o derechos, entendiendo que 
+se trata solo de eso, de principios. Añadió, que se incorporaron, a la redacción del 
+mensaje, el principio de seguridad y privacidad; el de racionalidad, respecto a la 
+exposición de los regulados y sus capacidades económicas para cumplir con las 
+obligaciones que ley establece, y el de seguridad informática, para que todas las 
+personas puedan gozar de un ciberespacio seguro.
+Puesta en votación la indicación sustitutiva al artículo 3, de los diputados 
+señores Jorge Alessandri, José Miguel Castro y Andrés Longton, se aprueba 
+por unanimidad. Votan a favor las y los diputados señores Jorge Alessandri, José 
+Miguel Castro, Lorena Fries, Andrés Longton (presidente) y Alejandra Placencia. Sin 
+votos en contra ni abstenciones. (5-0-0).
+Por aprobarse recientemente la indicación sustitutiva del artículo 3, 
+reglamentariamente se rechazan, el artículo 3 aprobado por el Senado y las 
+indicaciones N°s 23 y 24.
+Se continuó con la votación de las letras del artículo 9 que ha pasado a 
+ser 11, que, en sesión del 18 de octubre, se dió lectura a cada una de ellas, y 
+se votó hasta la letra h).
+Se acordó leer, discutir y votar las letras i), j) y k) del artículo 9 que ha 
+pasado a ser 11, y sus indicaciones de manera conjunta.
+A las letras j) y k) del artículo 9 que ha pasado a ser 11, el Ejecutivo formuló 
+las siguientes primeras indicaciones N°s 12 y 13:
+“12. Para modificar el literal j) del artículo 9°, en el siguiente sentido: 
+ 
+   a. Elimínase, en el literal j), la frase “, así como los consagrados por la ley 
+N°19.628, sobre protección de la vida privada”.
+b. Agrégase, a continuación del punto final, la frase: “Cuando la información 
+a la que tenga acceso la Agencia incluya datos personales estos deberán ser 
+anonimizados siempre que ello sea posible y no entorpezca el ejercicio de las 
+funciones de la Agencia. En cualquier caso, los datos personales sólo podrán ser 
+tratados dando estricto cumplimiento a lo dispuesto en la ley 19.628.”.
+13. Para reemplazar el literal k) del artículo 9°, por el siguiente:  
+ 
+“k) Cooperar con organismos públicos e instituciones privadas, en materias 
+propias de su competencia, sin perjuicio de las atribuciones de otros organismos del 
+Estado. La Agencia servirá de punto de contacto con las autoridades nacionales de 
+ciberseguridad extranjeras o sus equivalentes y con los organismos internacionales 
+con competencia en materia de ciberseguridad.
+Cuando se trate de la cooperación con Estados y organizaciones 
+internacionales, dicha actividad deberá realizarse en coordinación con el Ministerio 
+de Relaciones Exteriores, en conformidad a lo previsto en el inciso primero del
+--- PÁGINA 7 ---
+7
+artículo 2 de la ley N°21.080.”.”.
+A la letra j) del artículo 9 que ha pasado a ser 11, los diputados señores José Miguel 
+Castro, Andrés Longton y Diego Schalper, formularon la siguiente indicación N°62:
+“Introdúcense las siguientes modificaciones al literal j) del artículo 9°: 
+ 
+i. 
+Intercálase entre las frases “instituciones privadas” y “cualquier 
+documento” la expresión “calificadas como operadores de importancia vital”;
+ii. 
+Suprímase la frase “incluyendo el acceso a redes y sistemas 
+informáticos, observando de manera estricta el deber de reserva que esta ley 
+impone, así como los consagrados por la ley N°19.628, sobre protección de la vida 
+privada”;
+iii. 
+Incorpórese el siguiente párrafo segundo, nuevo: Los requerimientos 
+realizados por la Agencia deberán ser fundados y expresar el objeto de la solicitud y 
+detallar claramente los documentos, antecedentes o información solicitada, según 
+corresponda. Queda prohibido a la Agencia formular solicitudes genéricas.”.
+A la letra j) del artículo 9 que ha pasado a ser 11, el diputado señor Jorge 
+Alessandri y la diputada señora Gloria Naveillán, formularon la siguiente 
+indicación N°63:
+“Para agregar al final de la letra j) del artículo 9, lo siguiente, a continuación 
+de N°19.628; “y a lo que define la presente ley y sus reglamentos”.
+A la letra j) del artículo 9 que ha pasado a ser 11, el diputado señor Jorge 
+Alessandri y la diputada señora Gloria Naveillán, formuló las siguientes 
+indicaciones N°s 34 y 35:
+34. Incorpórese en el literal j) del inciso primero del artículo 9° propuesto, 
+luego de “instituciones privadas”, la siguiente expresión “y públicas calificadas como 
+operadores de importancia vital”.
+35. Incorpórese en el literal j) del inciso primero del artículo 9°, luego del punto 
+final, que pasa a ser punto y aparte, lo siguiente:
+“Los requerimientos realizados por la Agencia deberán expresar el objeto de 
+la solicitud, estar debidamente fundamentados, detallar los documentos, 
+antecedentes o información solicitados y establecer un plazo razonable para su 
+entrega, según corresponda, para efectos de determinar el cumplimiento de la 
+normativa aplicable por parte del operador de importancia vital, y siempre y cuando 
+no se altere el normal desenvolvimiento de sus actividades.
+El requerimiento de acceso a redes o sistemas informáticos, así como la 
+restricción de su acceso o uso, podrá efectuarse previa resolución fundada dictada 
+por la Agencia, cuando resulte indispensable para fiscalizar el cumplimiento de la 
+normativa aplicable al operador de importancia vital o contrarrestar ciberataques o 
+incidentes de ciberseguridad, según corresponda. Se entenderá que el 
+requerimiento es indispensable cuando se cumpla con los siguientes requisitos:
+1.  Un incidente de ciberseguridad comprometa o dañe otra red o sistema 
+informático.
+2. El operador de importancia vital esté imposibilitado de contrarrestar las 
+amenazas originadas por el incidente de ciberseguridad.
+3. No es posible utilizar una medida menos gravosa que permita contrarrestar 
+el incidente de ciberseguridad.
+4. El acceso a la red o sistemas informáticos, así como la restricción de su 
+acceso o uso, según corresponda, no cause un daño desproporcional a terceros o al 
+titular de la red o sistema informático”.
+--- PÁGINA 8 ---
+8
+A la letra i), j) y k) del artículo 9 que ha pasado a ser 11, el Ejecutivo formuló 
+con fecha 25 de octubre, nueva propuesta, específicamente a lo referido a 
+aquellas letras, por no existir consenso al respecto:
+“Para reemplazar el literal i), j) y k) del actual artículo 9, que ha pasado a ser 
+artículo 11, por el siguiente:
+“i) Diseñar e implementar planes y acciones de formación ciudadana, 
+capacitación, fortalecimiento, difusión y promoción de la cultura en ciberseguridad.”
+j) Requerir a los organismos de la Administración del Estado y a las 
+instituciones privadas señaladas en el artículo 4 de la presente ley acceso a la 
+información estrictamente necesaria para prevenir la ocurrencia de incidentes de 
+ciberseguridad o para gestionar uno que ya hubiera ocurrido. Para lo anterior, podrá 
+requerir la entrega del registro de actividades de las redes y sistemas informáticos 
+que permitan comprender detalles de los incidentes de ciberseguridad que puedan 
+haber ocurrido.
+Para el ejercicio de esta atribución, la instrucción siempre tendrá carácter 
+particular, debiendo especificarse la información solicitada y fundarse debidamente. 
+Cuando la información referida en el inciso anterior pudiera incluir datos personales 
+estos deberán ser anonimizados, siempre que ello sea posible sin entorpecer la 
+gestión de incidentes. En cualquier caso, los datos personales sólo podrán ser 
+tratados dando estricto cumplimiento a lo dispuesto en la ley 19.628, y en particular, 
+al principio de finalidad, sin perjuicio de lo que define la presente ley y sus 
+reglamentos.
+Con todo, para efectos de lo dispuesto en esta ley, no se considerará que la 
+dirección IP sea un dato personal.”.
+k) Requerir, mediante instrucción de su Director o Directora, en casos de 
+incidentes de impacto significativo cuya gestión lo haga imprescindible, el acceso a 
+redes y sistemas informáticos. Este requerimiento deberá notificarse sin demora al 
+requerido a través de la dirección de correo electrónico que haya sido proporcionada 
+a la Agencia, de conformidad con lo establecido en el reglamento. Una vez notificado, 
+el requerido deberá proporcionar todas las facilidades de acceso que sean 
+necesarias. En caso de que el requerido sea una institución privada de las señaladas 
+en el artículo 4, podrá oponerse. Formulada la oposición la Agencia solo podrá 
+acceder previa autorización judicial conforme lo dispuesto en los párrafos siguientes 
+y no procederá el reclamo establecido en el artículo 37.
+Corresponderá a un ministro de la Corte de Apelaciones de Santiago conocer 
+del requerimiento. Anualmente, el Presidente de la Corte de Apelaciones de Santiago 
+deberá designar, por sorteo, a dos de sus miembros para cumplir esta labor. Si 
+ninguno de los ministros estuviere en funciones, corresponderá otorgar la 
+autorización al Presidente de la Corte o a quien lo subrogue. La autorización deberá 
+solicitarse por escrito y fundarse en hechos específicos que justifiquen la necesidad 
+del requerimiento. Para tales efectos todos los días y horas se entenderán hábiles.
+La resolución que autorice o deniegue el acceso a las redes y sistemas, 
+deberá dictarse previa audiencia en el más breve plazo en la que se escuchará a las 
+partes.
+En contra de la resolución que dicte el Ministro de Corte procederá el recurso 
+de apelación ante la Corte de Apelaciones de Santiago, que, en el caso de 
+interponerse en contra de la resolución que otorga el acceso solicitado, procederá 
+en el solo efecto devolutivo. La Corte de Apelaciones de Santiago podrá resolver la
+--- PÁGINA 9 ---
+9
+apelación en cuenta sin más trámite. Los autos se agregarán de manera 
+extraordinaria y con preferencia a la tabla del día siguiente; pero si este fuere inhábil, 
+deberá el tribunal funcionar extraordinariamente para el solo conocimiento del 
+recurso. Si producto de la interposición de recusaciones o implicancias no hubiere 
+tribunal, los autos serán conocidos el día siguiente, según las reglas precedentes.
+En caso de que se requiriera la restricción del acceso o uso de redes o 
+sistemas informáticos se estará a lo dispuesto en este literal. No obstante, la Agencia 
+deberá actuar conjuntamente con la autoridad sectorial correspondiente.
+El procedimiento dispuesto en los incisos precedentes también será aplicable 
+los requerimientos de acceso a redes y sistemas informáticos a que se refiere en el 
+inciso tercero del literal ñ) del presente artículo.”.”
+El presidente diputado señor Andrés Longton, señaló que, si bien 
+acordaron votar estar tres letras en una misma votación, respecto a la letra k), solicitó 
+votación separada respecto a un extracto que dice relación con la frase “procederá 
+en el solo efecto devolutivo”, ya que considera que debería ser “procederá en ambos 
+efectos”, de tal manera al ser esta la regla general, en caso de rechazarse esa frase 
+se entenderá que el recurso de apelación procederá en ambos efectos.
+Puesta en votación la frase “procederá en el solo efecto devolutivo” de 
+la letra k) de la indicación del Ejecutivo formulada en fecha 25 de octubre, se 
+rechaza por la mayoría de los votos. Votan a favor las diputadas señoras Lorena 
+Fries y Alejandra Placencia. Con votos en contra de los diputados señores Jorge 
+Alessandri, José Miguel Castro y Andrés Longton (presidente). Sin abstenciones.   
+(2-3-0).
+Puesta en votación las letras i), j) y k) de la indicación del Ejecutivo 
+formulada en fecha 25 de octubre, se aprueban por unanimidad. Votan a favor 
+las y los diputados señores Jorge Alessandri, José Miguel Castro, Lorena Fries, 
+Andrés Longton (presidente) y Alejandra Placencia. Sin votos en contra ni 
+abstenciones. (5-0-0).
+Por aprobarse las letras i), j) y k) de la indicación del Ejecutivo formulada 
+en fecha 25 de octubre, con la eliminación de la frase “procederá en el solo 
+efecto devolutivo”, reglamentariamente se rechazan, las letras i), j) y k) del 
+artículo 9 aprobado por el Senado y las indicaciones N°s 12 y 13 del Ejecutivo 
+y N°s 34, 35, 62 y 63 de parlamentarios.
+Luego, se continuó con la votación de las letras de la indicación 
+formulada por el Ejecutivo al artículo 9 que ha pasado a ser 11, de fecha 11 de 
+octubre, específicamente a lo referido a las letras l) y m):
+“l) Cooperar con organismos públicos e instituciones privadas, en materias 
+propias de su competencia, sin perjuicio de las atribuciones de otros organismos del 
+Estado.
+La Agencia servirá de punto de contacto con las autoridades nacionales de 
+ciberseguridad extranjeras o sus homólogos y con los organismos internacionales 
+con competencia en materia de ciberseguridad.
+Cuando se trate de la cooperación con Estados y organizaciones 
+internacionales, dicha actividad deberá realizarse en coordinación con el Ministerio 
+de Relaciones Exteriores, en conformidad con lo previsto en el inciso primero del 
+artículo 2 de la ley N°21.080.
+m) Prestar, cuando sus recursos humanos, técnicos y financieros así lo
+--- PÁGINA 10 ---
+10
+permitan, asesoría técnica a los organismos del Estado e instituciones privadas 
+afectados por un incidente de ciberseguridad que haya comprometido sus activos 
+informáticos críticos o afectado el funcionamiento de su operación, cautelando 
+siempre los deberes de reserva de información que esta ley le impone, así como los 
+consagrados por la mencionada ley N°19.628.”.
+Por  aprobarse las letras l) y m) de la indicación del Ejecutivo formulada 
+en fecha 11 de octubre, reglamentariamente se rechazan, las letras l) y m) del 
+artículo 9 aprobado por el Senado.
+Se continuó con la votación de la letra n) del artículo 9 que ha pasado a 
+ser 11.
+A la letra n) del artículo 9 que ha pasado a ser 11, el Ejecutivo primeramente 
+formuló la siguiente indicación N°14:
+“Para reemplazar el segundo párrafo del literal n) del artículo 9°, por el 
+siguiente:
+“Para el cumplimiento de su función fiscalizadora, la Agencia podrá 
+examinar sin restricción alguna y por los medios que estime pertinentes todas las 
+actividades, archivos y documentos de las entidades o actividades fiscalizadas o de 
+sus matrices, filiales o coligadas, y requerir de ellas o de sus administradores, 
+asesores o personal, los antecedentes y explicaciones que juzgue necesarios para 
+obtener información acerca de cualquier punto que convenga esclarecer para efectos 
+de determinar el cumplimiento de la normativa aplicable por parte de la entidad 
+fiscalizada. Asimismo, la Agencia podrá realizar inspecciones; auditorías; análisis de 
+seguridad o evaluar un sistema de gestión de seguridad de la información; requerir 
+el acceso a sistemas; citar a declarar a cualquier persona que, a cualquier título, 
+preste o haya prestado servicios para las entidades fiscalizadas y a toda otra persona 
+que hubiere ejecutado y celebrado con ellas actos y convenciones de cualquier 
+naturaleza; establecer  la  forma,  plazos  y  procedimientos  para que  las  entidades  
+fiscalizadas cumplan la obligación de presentar los antecedentes y explicaciones 
+referidos precedentemente; y, en general, requerir la adopción de todas las medidas 
+preventivas o correctivas que se estimen necesarias y sean pertinentes, 
+proporcionales y adecuadas para evitar o resolver incidentes de ciberseguridad. La 
+Agencia también podrá solicitar información de otros organismos públicos, la que en 
+caso de ser secreta o reservada.”.”.
+A la letra n) del artículo 9 que ha pasado a ser 11, el diputado señor Andrés 
+Jouannet, formuló la siguiente indicación N°36:
+“Reemplácese el párrafo segundo del literal n) del inciso primero del artículo 
+9° propuesto por el siguiente:
+“La Agencia contará con las facultades necesarias para el cumplimiento de su 
+función fiscalizadora, comprendiendo:
+1. Llevar a cabo inspecciones, incluyendo las realizadas por vía remota, por 
+medio de sus empleados o centros de certificación acreditados.
+En las inspecciones que la Agencia realice en el marco de la fiscalización, 
+podrá integrar su propio personal con el de la entidad fiscalizada.
+2. Realizar o establecer auditorías de seguridad periódicas o específicas, por 
+medio de sus empleados o centros de certificación acreditados.
+Los resultados de cualquier auditoría de seguridad específica se pondrán a 
+disposición de la Agencia. Los costos de dicha auditoría de seguridad específica 
+realizada por un centro de certificación acreditado serán costeados por la entidad 
+auditada, salvo en aquellos casos debidamente fundamentados en los que la 
+Agencia establezca lo contrario.
+Tras la evaluación de la información o del resultado de cualquier auditoría de
+--- PÁGINA 11 ---
+11
+seguridad la Agencia podrá dictar instrucciones particulares a la entidad auditada 
+para subsanar las deficiencias detectadas.
+3.  Realizar auditorías específicas, por medio de sus empleados, que estén 
+justificadas por la ocurrencia de un incidente de ciberseguridad que pueda tener 
+efectos significativos, de conformidad con el artículo 23, o una infracción a las 
+disposiciones de la presente ley.
+4. Realizar análisis de seguridad basados en criterios de evaluación de 
+riesgos objetivos, no discriminatorios, justos y transparentes, con la cooperación de 
+la entidad en cuestión cuando fuere necesario.
+5. Solicitar pruebas de la implementación de los planes de continuidad 
+operacional y ciberseguridad, referidos en la letra c) del artículo 6°.
+6. Citar a declarar a los socios, directores, administradores, representantes, 
+empleados y personas que, a cualquier título, presten o hayan prestado servicios 
+para las personas o entidades fiscalizadas y a toda otra persona que hubiere 
+ejecutado y celebrado con ellas actos y convenciones de cualquier naturaleza, 
+respecto de algún hecho cuyo conocimiento estime necesario para el cumplimiento 
+de sus funciones, incluyendo especialmente el conocimiento de la información 
+necesaria para prevenir, identificar, eliminar o contrarrestar un incidente de 
+ciberseguridad.
+No estarán obligadas a concurrir a declarar las personas indicadas en el 
+artículo 361 del Código de Procedimiento Civil, a las cuales la Agencia, para los fines 
+expresados en el párrafo precedente, deberá pedir declaración por escrito.
+7. Designar empresas de auditoría externa o centros de certificación 
+acreditados en las entidades fiscalizadas, para que realicen las tareas que 
+específicamente les encomiende, con las facultades que estime necesarias, 
+comprendiendo la supervisión, durante un período determinado, del cumplimiento 
+por parte de las entidades fiscalizadas de las obligaciones previstas en los artículos 
+5° y 6° de la presente ley.
+Para estos efectos, las empresas de auditoría externa o centros de 
+certificación acreditados designados por la Agencia deberán observar de manera 
+estricta el deber de reserva que esta ley impone, así como los consagrados por la 
+ley N°19.628, sobre protección de la vida privada, y serán remunerados por la 
+entidad fiscalizada. La remuneración gozará del privilegio establecido en el Nº4 del 
+artículo 2472 del Código Civil.
+8. Contratar o hacer contratar por las entidades fiscalizadas los servicios de 
+peritos o técnicos para los trabajos que les encomiende, los que serán de cargo de 
+dichas personas o entidades fiscalizadas.
+9. Adoptar o solicitar la adopción de las medidas tendientes a corregir las 
+deficiencias que observare, en general, en el ejercicio de sus atribuciones de 
+fiscalización.
+10. Solicitar a los centros de certificación acreditados que suspendan 
+temporalmente una certificación referente a una parte o la totalidad de los servicios 
+o actividades de que se trate prestados por la entidad fiscalizada, cuando esta no 
+adopte las medidas referidas en el párrafo tercero del número 2 o el número 10 
+anterior.
+11. Requerir a las entidades fiscalizadas que proporcionen al público, por las 
+vías que señale, información veraz, suficiente y oportuna sobre determinados 
+aspectos del incumplimiento de la presente ley de una manera específica. La 
+Agencia podrá efectuar directamente las publicaciones que fueren necesarias para 
+los fines precisados en este numeral, con cargo a las entidades fiscalizadas”.
+A la letra n) del artículo 9 que ha pasado a ser 11, los diputados señores 
+José Miguel Castro, Andrés Longton y Diego Schalper, formularon la siguiente 
+indicación N°64:
+“Introdúcense las siguientes modificaciones al literal n) del artículo 9°:  
+i. 
+Suprímase la expresión “coordinar”; 
+ii. 
+Suprímase la expresión “interagencialmente
+--- PÁGINA 12 ---
+12
+A la letra n) del artículo 9 que ha pasado a ser 11, el diputado señor Jorge 
+Alessandri, formuló la siguiente indicación N°65:
+“Para sustituir el artículo 9° literal n) inciso segundo del proyecto de ley, por el 
+siguiente:
+“Para el cumplimiento de su función fiscalizadora, la Agencia podrá realizar 
+inspecciones; auditorías; análisis de seguridad o evaluar un sistema de gestión de 
+seguridad de la información; requerir el acceso a sistemas; citar a declarar a 
+cualquier persona que, a cualquier título, preste o haya prestado servicios para las 
+entidades fiscalizadas y a toda otra persona que hubiere ejecutado y celebrado con 
+ellas actos y convenciones de cualquier naturaleza; establecer la forma, plazos y 
+procedimientos  para que las entidades fiscalizadas cumplan la obligación de 
+presentar los antecedentes y explicaciones referidos precedentemente, además de 
+las facultades que esta ley le  encomiende con el objeto evitar o resolver incidentes 
+de ciberseguridad”.
+A la letra n) del artículo 9 que ha pasado a ser 11, el diputado señor Jorge 
+Alessandri y la diputada señora Gloria Naveillán, formularon la siguiente 
+indicación N°66:
+“Para insertar en la letra n) del artículo 9°, a continuación de las palabras 
+“función fiscalizadora” lo siguiente: “de acuerdo a lo que define la presente ley y sus 
+reglamentos”.
+A la letra n) del artículo 9 que ha pasado a ser 11, de los diputados señores 
+José Miguel Castro, Andrés Longton y Diego Schalper, formularon la siguiente 
+indicación N°67:
+“Introdúcense las siguientes modificaciones al párrafo segundo del literal n) 
+del artículo 9°:
+i. 
+Sustitúyese la expresión “todas las facultades que fueren necesarias” 
+por “las facultades que le señale la ley”;
+ii. 
+Sustitúyese el siguiente la coma que sigue a la palabra “fiscalizadora” 
+por un punto seguido y el texto “entre otras, las de realizar inspecciones, auditorías, 
+análisis de seguridad o evaluar un sistema de gestión de seguridad de la información; 
+requerir el acceso a sistemas informáticos, datos, documentos e información para el 
+desempeño de sus funciones de supervisión, y citar a declarar a los socios, 
+directores, administradores, representantes, empleados y personas que, a cualquier 
+título, presten o hayan prestado servicios para las personas o entidades fiscalizadas 
+y a toda otra persona que hubiere ejecutado y celebrado con ellas actos y 
+convenciones de cualquier naturaleza, respecto de algún hecho cuyo conocimiento 
+estime necesario para el cumplimiento de sus funciones” por el que se indica a 
+continuación:
+“Para el cumplimiento de su función podrá: 
+ 
+1. Llevar a cabo inspecciones, incluyendo las realizadas por vía remota. 
+2. Realizar o establecer auditorías de seguridad periódicas o específicas, por 
+medio de sus empleados. Tras la evaluación de la información o del resultado de 
+cualquier auditoría de seguridad la Agencia podrá dictar instrucciones particulares a 
+la entidad auditada para subsanar las deficiencias detectadas.
+3. Realizar análisis de seguridad basados en criterios de evaluación de 
+riesgos objetivos, no discriminatorios, justos y transparentes, con la cooperación de 
+la entidad en cuestión cuando fuere necesario.
+4. Solicitar pruebas de la implementación de los planes de continuidad
+--- PÁGINA 13 ---
+13
+operacional y ciberseguridad, referidos en la letra c) del artículo 6°.
+5. Citar a declarar a los socios, directores, administradores, representantes, 
+empleados y personas que, a cualquier título, presten o hayan prestado servicios 
+para las personas o entidades fiscalizadas y a toda otra persona que hubiere 
+ejecutado y celebrado con ellas actos y convenciones de cualquier naturaleza, 
+respecto de algún hecho cuyo conocimiento estime necesario para el cumplimiento 
+de sus funciones, incluyendo especialmente el conocimiento de la información 
+necesaria para prevenir, identificar, eliminar o contrarrestar un incidente de 
+ciberseguridad.
+No estarán obligadas a concurrir a declarar las personas indicadas en el 
+artículo 361 del Código de Procedimiento Civil, a las cuales la Agencia, para los fines 
+expresados en el párrafo precedente, deberá pedir declaración por escrito.
+6. Adoptar o solicitar la adopción de las medidas tendientes a corregir las 
+deficiencias que observare, en general, en el ejercicio de sus atribuciones de 
+fiscalización.
+7. Requerir a las entidades fiscalizadas que proporcionen al público, por las 
+vías que señale, información veraz, suficiente y oportuna sobre determinados 
+aspectos del incumplimiento de la presente ley de una manera específica.”.”
+Al existir acuerdo por la mesa técnica de aprobar la letra n) 
+complementada a la indicación N°64, se puso en votación únicamente lo 
+referido a esa letra.
+Puesta en votación la letra n) de la indicación del Ejecutivo formulada en 
+fecha 11 de octubre, complementada a la indicación N°64, se aprueban por 
+unanimidad. Votan a favor las y los diputados señores Jorge Alessandri, José 
+Miguel Castro, Lorena Fries, Andrés Longton (presidente) y Alejandra Placencia. Sin 
+votos en contra ni abstenciones. (5-0-0).
+Por aprobarse la letra n) de la indicación del Ejecutivo formulada en 
+fecha 11 de octubre, complementada a la indicación N°64, reglamentariamente 
+se rechaza la letra n) del artículo 9 aprobado por el Senado y las indicaciones 
+N°s 14, 39, 65, 66 y 67.
+Por último, se continuó con la votación de las letras ñ) a la z) del artículo 
+9 que ha pasado a ser 11.
+A las letras ñ) a la z) del artículo 9 que ha pasado a ser 11, el Ejecutivo, 
+formuló la siguiente indicación N°15:
+“Para intercalar, en el literal r), entre la expresión “para estos efectos” y la 
+coma que le sigue, la frase “las instituciones que no siendo operadores de servicios 
+esenciales estarán obligadas a reportar incidentes de conformidad con lo dispuesto 
+en el artículo 7, así como”.”
+A las letras ñ) a la z) del artículo 9 que ha pasado a ser 11, el diputado señor 
+Andrés Jouannet, formuló las siguientes indicaciones N°s 37 y 38:
+37. “Incorpórese en el literal ñ) del inciso primero del artículo 9° propuesto, 
+luego de “instituciones públicas y privadas”, la siguiente expresión “calificadas como 
+operadores de importancia vital”.”.
+38. “Incorpórese los siguientes literales antepenúltimo y penúltimo al inciso 
+primero del artículo 9° propuesto, del siguiente tenor:
+“x) Formular las denuncias que correspondieren al Ministerio Público por los 
+hechos de que tomare conocimiento en el ejercicio de sus atribuciones y que 
+pudieren revestir caracteres de delito, sin perjuicio de los deberes generales que 
+sobre la materia determine la ley.
+--- PÁGINA 14 ---
+14
+y) Evacuar los informes que le requieran los fiscales del Ministerio Público que 
+estén dirigiendo investigaciones criminales, siempre que correspondan a materias 
+de su competencia y se refieran a información que esté disponible en sus archivos”.”.
+A las letras ñ) a la z) del artículo 9 que ha pasado a ser 11, los diputados 
+señores José Miguel Castro, Andrés Longton y Diego Schalper, formularon las 
+siguientes indicaciones N°s 68, 69 y 70:
+68. 
+“Intercálase en el literal ñ) del artículo 9°, entre las palabras “privadas” 
+y “respecto”, la frase “calificadas como operadores de importancia vital”.
+69. 
+“Intercálase en el literal p) del artículo 9°, entre la palabra “funciones” y 
+el punto aparte, lo siguiente: “dentro del ámbito de sus competencias.
+70. 
+“Suprímase el literal t) del artículo 9°.” 
+ 
+A la letra ñ) a la z) del artículo 9 que ha pasado a ser 11, el Ejecutivo formuló 
+con fecha 11 de octubre, la siguiente propuesta sustituta:
+“ñ) Fiscalizar el cumplimiento de las disposiciones de esta ley, sus 
+reglamentos, protocolos, estándares técnicos y las instrucciones generales y 
+particulares que emita la Agencia en ejercicio de las atribuciones conferidas en la 
+ley.
+Para el cumplimiento de su función fiscalizadora, la Agencia podrá realizar 
+inspecciones; instruir de manera particular auditorías por sí o mediante terceros 
+autorizados y análisis de seguridad basados en criterios de evaluación de riesgos 
+objetivos, los cuales deberán ser no discriminatorios, equitativos y transparentes. La 
+entidad fiscalizada deberá cooperar en todo momento con los funcionarios de la 
+Agencia o con los terceros autorizados por ella, según corresponda.
+Asimismo, la Agencia podrá requerir el acceso a sistemas informáticos, datos, 
+documentos y demás información que fuere necesaria para el desempeño de sus 
+funciones de supervisión y fiscalización; instruir de manera particular a los sujetos 
+obligados que realicen pruebas que demuestren la implementación de los planes de 
+continuidad operacional y ciberseguridad, referidos en la letra c) del artículo 8 °. 
+Adicionalmente, podrá citar a declarar, respecto de hechos cuyo conocimiento 
+estime necesario para el cumplimiento de sus funciones, a los socios, directores, 
+administradores, representantes, empleados, y cualquier persona que, a cualquier 
+título, preste o haya prestado servicios para las personas o entidades fiscalizadas, 
+así como a toda persona que hubiere ejecutado o celebrado con ellas actos o 
+convenciones de cualquier naturaleza. No obstante, no estarán obligadas a concurrir 
+a declarar las personas indicadas en el artículo 361 del Código de Procedimiento 
+Civil, a las cuales la Agencia, para los fines expresados en el párrafo precedente, 
+deberá pedir declaración por escrito.
+Para el ejercicio de esta atribución podrá establecer la forma, plazos y 
+procedimientos para que las entidades fiscalizadas cumplan la obligación de 
+presentar los antecedentes e informaciones referidos en los párrafos precedentes.
+o) Instruir el inicio de procedimientos sancionatorios y sancionar las 
+infracciones e incumplimientos en que incurran las instituciones obligadas por la 
+presente ley respecto de sus disposiciones, reglamentos e instrucciones generales 
+y particulares que emita la Agencia. Para tales efectos, y de manera fundada, podrá 
+citar a declarar, en los términos señalados en el literal n) de este artículo, entre otros, 
+a los representantes legales, administradores, asesores y dependientes de la 
+institución de que se trate, así como a toda persona que haya tenido participación o 
+conocimiento respecto de algún hecho que sea relevante para resolver el
+--- PÁGINA 15 ---
+15
+procedimiento sancionatorio. La declaración podrá tomarse presencialmente o por 
+otros medios que aseguren su integridad y fidelidad.
+p) Fomentar la investigación, innovación, capacitación y entrenamiento frente 
+a amenazas, vulnerabilidades e incidentes de ciberseguridad y, en conjunto con los 
+Ministerios de Economía, Fomento y Turismo, y de Ciencia, Tecnología, 
+Conocimiento e Innovación, diseñar planes y acciones que fomenten el desarrollo o 
+fortalecimiento de la industria de ciberseguridad local.
+q) Realizar el seguimiento y evaluación de las medidas, planes y acciones 
+elaborados en el ejercicio de sus funciones.
+r) Informar al CSIRT de la Defensa Nacional y a los CSIRT de los organismos 
+de la Administración del Estado los reportes o alarmas de incidentes de 
+ciberseguridad y de vulnerabilidades existentes, conocidas o detectadas en su sector 
+que considere relevantes, pudiendo sugerir determinados planes de acción.
+s) Determinar, conforme al informe técnico que el CSIRT Nacional elabore 
+para estos efectos, las categorías de incidentes o vulnerabilidades de ciberseguridad 
+que estarán eximidas de notificación.
+t) Certificar el cumplimiento de los estándares de ciberseguridad 
+correspondientes por parte de los organismos de la Administración del Estado.
+u) Otorgar y revocar las acreditaciones correspondientes a los centros de 
+certificación, en los casos y bajo las condiciones que establezca esta ley y el 
+reglamento respectivo.
+v) Establecer los estándares que deberán cumplir las instituciones que 
+provean bienes o servicios al Estado, y las normas de seguridad para el desarrollo 
+de los sistemas y programas informáticos que sean utilizados por los organismos del 
+Estado.
+w) Establecer estándares de ciberseguridad y deberes de información al 
+público sobre riesgos de seguridad de dispositivos digitales disponibles a 
+consumidores finales.
+x) Administrar la Red de Conectividad Segura del Estado (RCSE). 
+ 
+y) Coordinar anualmente durante el mes de octubre, un ejercicio nacional de 
+comprobación de capacidades de ciberseguridad, en cumplimiento de la ley N° 
+21.113, que declara el mes de octubre como el mes nacional de la ciberseguridad.
+z) Realizar todas aquellas otras funciones que las leyes le encomienden 
+especialmente.”.
+Puesta en votación desde la letra ñ) a la z) de la indicación del Ejecutivo 
+formulada en fecha 11 de octubre, se aprueban por unanimidad. Votan a favor 
+las y los diputados señores Jorge Alessandri, José Miguel Castro, Lorena Fries, 
+Andrés Longton (presidente) y Alejandra Placencia. Sin votos en contra ni 
+abstenciones. (5-0-0).
+Por aprobarse desde la letra ñ) a la z) de la indicación del Ejecutivo 
+formulada en fecha 25 de octubre, reglamentariamente se rechaza desde la 
+letra ñ) a la z) del artículo 9 aprobado por el Senado y las indicaciones N°s 15, 
+37, 38, 68, 69 y 70.
+Se da lectura al artículo 24 des texto aprobado por el Senado:
+--- PÁGINA 16 ---
+16
+“Artículo 24. Centros de Certificación Acreditados. Sin perjuicio de las 
+funciones y atribuciones de la Agencia, los únicos organismos autorizados para 
+certificar el cumplimiento de los estándares de ciberseguridad exigidos por la 
+autoridad competente serán aquellos que cuenten con una acreditación vigente 
+otorgada por la Agencia Nacional de Ciberseguridad, de conformidad con lo 
+dispuesto en esta ley y en su reglamento. En el caso de los organismos de la 
+Administración del Estado que estén sujetos a las obligaciones del artículo 6°, será 
+la Agencia la encargada de certificar el cumplimiento de dichos estándares.
+Estos centros serán los únicos habilitados para certificar que un determinado 
+ente cumple con los estándares y normas de seguridad que se exijan para la 
+prestación de servicios al Estado, y el desarrollo de los sistemas y programas 
+informáticos que sean utilizados por las instituciones públicas.
+Una vez contratados o comprados los servicios o programas informáticos, 
+será responsabilidad de los jefes de servicio velar por el cumplimiento de dichos 
+estándares y normas.
+Los organismos públicos en la celebración de sus contratos deberán evaluar 
+de mejor manera y dar preferencia a los productos y servicios calificados con un nivel 
+adecuado de seguridad por un centro certificador.
+Lo establecido en este artículo no será aplicable a la defensa nacional, sector 
+que no requerirá de la acreditación de la Agencia ni de certificación para prestar 
+servicios a otros organismos del Estado. Asimismo, el responsable por el 
+cumplimiento de los estándares y normas de seguridad del sector defensa será el 
+Estado Mayor Conjunto, del Ministerio de Defensa Nacional.”
+Al artículo 24 que ha pasado a ser 27, el Ejecutivo formuló la siguiente 
+indicación N°16:
+“Para reemplazar los incisos segundo, tercero y cuarto, del artículo 24, por el 
+siguiente inciso segundo, nuevo, readecuando el orden correlativo de los incisos 
+siguientes: “La Agencia podrá homologar certificaciones técnicas internacionales o 
+extranjeras sobre ciberseguridad mediante resolución fundada de su director o 
+directora.”.”
+Al artículo 24 que ha pasado a ser 27, el diputado señor Andrés Jouannet, 
+formuló las siguientes indicaciones N°39 y 40:
+39. 
+“Incorpórense el siguiente inciso tercero en el artículo 24° propuesto, 
+pasando el actual inciso tercero a ser cuarto y así sucesivamente, del siguiente tenor:
+“Asimismo, los centros de certificación acreditados serán los únicos 
+habilitados para homologar otros esquemas de certificación o certificaciones 
+internacionalmente reconocidas, acreditando que cumplen con los estándares y 
+normas de seguridad establecidos por esta ley y su normativa complementaria. Los 
+centros de certificación acreditados deberán certificar automáticamente los 
+esquemas de certificación o certificaciones internacionalmente reconocidas que se 
+encuentren homologadas y adoptadas por los entes que soliciten la certificación”.”
+40. 
+Reemplácese en el inciso cuarto del artículo 24°, que ha pasado a ser 
+quinto, la expresión “deberán” por “podrán”.”
+Al artículo 24 que ha pasado a ser 27, los diputados señores José Miguel 
+Castro, Andrés Longton y Diego Schalper, formularon la siguiente indicación 
+N°73:
+--- PÁGINA 17 ---
+17
+“Suprímase el artículo 24.” 
+ 
+Al inciso primero del artículo 24 que ha pasado a ser 27, los diputados 
+señores Jorge Alessandri, José Miguel Castro, Andrés Longton y Diego 
+Schalper, formularon la siguiente indicación que lo reemplaza:
+“Los operadores de importancia vital deberán obtener las certificaciones de 
+ciberseguridad que señala esta ley y las que determine la Agencia mediante 
+reglamento. Para estos efectos, sólo los organismos que sean parte del registro de 
+entidades certificadoras autorizadas, a cargo de la Agencia, estarán habilitadas para 
+emitir certificaciones válidas que esta ley exija. Para formar parte de este registro 
+bastará acreditar el cumplimiento de los requisitos que establezca el reglamento, 
+pudiendo mantenerse en tanto cumplan los referidos requisitos.”
+Al existir acuerdo por la mesa técnica de aprobar la indicación que 
+reemplaza el inciso primero del artículo 24 del texto aprobado por el Senado, 
+formulada por los diputados señores Jorge Alessandri, José Miguel Castro, 
+Andrés Longton y Diego Schalper, complementada a la indicación N°16 del 
+Ejecutivo, se puso en votación conjunta lo descrito.
+Puesta en votación la indicación que reemplaza el inciso primero del 
+artículo 24 del texto aprobado por el Senado, formulada por los diputados 
+señores Jorge Alessandri, José Miguel Castro, Andrés Longton y Diego 
+Schalper, complementada a la indicación N°16 del Ejecutivo, se aprueban por 
+unanimidad. Votan a favor las y los diputados señores Jorge Alessandri, José 
+Miguel Castro, Lorena Fries, Andrés Longton (presidente) y Alejandra Placencia. Sin 
+votos en contra ni abstenciones. (5-0-0).
+Por aprobarse la indicación que reemplaza el inciso primero del artículo 
+24 del texto aprobado por el Senado, formulada por los diputados señores 
+Jorge Alessandri, José Miguel Castro, Andrés Longton y Diego Schalper, 
+complementada con la indicación N°16 del Ejecutivo, reglamentariamente se 
+rechaza el artículo 24 del texto aprobado por el Senado y las indicaciones N°s 
+39, 40 y 73. 
+ 
+ 
+Los diputados señores Jorge Alessandri, José Miguel Castro y Andrés 
+Longton, formularon una indicación que incorpora los nuevos artículos 39, 40, 
+41, 42 y 43 siguientes:
+“Para incorporar los nuevos artículos 39 y siguientes:
+“Artículo 39. Procedimiento administrativo sancionador. El procedimiento 
+administrativo se regirá por lo prescrito por la ley Nº19.880, que establece bases de 
+los procedimientos administrativos que rigen los actos de los organismos de la 
+Administración del Estado, sin perjuicio de las siguientes disposiciones: 
+  
+a) Toda sanción deberá fundarse en un procedimiento que se iniciará con la 
+formulación precisa y fundada de los cargos y contendrá la descripción de los hechos 
+en los que se fundamentan y de cómo éstos constan en la investigación, la indicación 
+de por qué se consideran una infracción a la normativa, especificando la o las normas 
+que se estimen infringidas y el presunto responsable de la infracción. Además, se 
+designará al funcionario a cargo de la instrucción del procedimiento. Se fijará un 
+plazo para la formulación de descargos que no podrá ser inferior a quince ni superior 
+a treinta días. Las notificaciones del procedimiento deberán realizarse a la dirección 
+de correo electrónico que haya sido proporcionada a la Agencia, de conformidad al 
+reglamento.
+b) En los descargos deberán señalarse todas las circunstancias o 
+antecedentes de hecho y de derecho que eximan o atenúen la presunta 
+responsabilidad de la persona objeto de cargos, así como aquellas que nieguen la
+--- PÁGINA 18 ---
+18
+efectiva ocurrencia de los hechos, o que demuestren que éstos no constituyen 
+infracción. Todo ello, sin perjuicio de otras presentaciones o antecedentes 
+posteriores que se hagan valer en el curso del procedimiento sancionatorio con el 
+mismo objetivo. Asimismo, deberán solicitarse las diligencias probatorias que 
+correspondieren.
+c) Vencido el plazo para formular descargos, se abrirá un término probatorio 
+por un plazo no inferior a diez ni superior a veinte días, según la naturaleza y 
+complejidad del asunto. Dicho plazo podrá prorrogarse por una sola vez y hasta por 
+un máximo de quince días. Se podrá rendir prueba mediante cualquier medio 
+admisible en Derecho, los que se apreciarán de acuerdo a las reglas de la sana 
+crítica.
+d) Excepcionalmente, se realizarán las diligencias que, decretadas de oficio o 
+a petición de parte, se estimen estrictamente necesarias para la resolución del 
+asunto. Las diligencias podrán solicitarse dentro de los cinco días siguientes al 
+vencimiento del término probatorio.
+e) Una vez transcurrido el plazo mencionado en el literal previo, el 
+procedimiento deberá concluir. El instructor del procedimiento emitirá un informe en 
+el cual deberá incluir un análisis detallado de todas las defensas, alegatos y pruebas 
+presentadas durante el procedimiento sancionatorio a partir del cual se determinará 
+si se ha infringido la normativa vigente y si procede la imposición de la sanción 
+respectiva o la absolución de los cargos. El informe deberá emitirse dentro del plazo 
+de quince días.
+f) Una vez recibido el informe del instructor del procedimiento, corresponderá 
+al Subdirector de la Agencia resolver los procesos sancionatorios en el plazo de 
+quince días hábiles, dictando al efecto resolución fundada en la cual absolverá al 
+infractor o aplicará la sanción, en su caso. La resolución del Subdirector deberá 
+incluir el mismo contenido que el informe señalado en el literal precedente.
+Artículo 40. De los recursos. En contra de la resolución del Subdirector 
+mediante la cual se concluye el procedimiento administrativo procederán los 
+recursos que establezca la ley Nº19.880. El recurso deberá resolverse dentro del 
+plazo de quince días. La interposición del recurso suspenderá el plazo para reclamar 
+de ilegalidad, siempre que se trate de materias por las cuales procede dicho recurso.
+Artículo 41. Forma de pago de las multas. Las multas deberán pagarse dentro 
+de los diez días siguientes contados desde que el acto administrativo que las impone 
+quede firme. Vencido ese plazo, la resolución que establezca la sanción tendrá 
+mérito ejecutivo y se hará exigible por la Tesorería General de la República. Para su 
+cobro se aplicará el inciso segundo del artículo 35 del decreto ley N°1.263, de 1975, 
+orgánico de Administración Financiera del Estado.
+El pago de toda multa deberá ser acreditado ante la Agencia, dentro de los 
+diez días siguientes a la fecha en que ésta debió ser pagada.
+El retardo en el pago de estas multas devengará los intereses y reajustes 
+establecidos en el artículo 53 del Código Tributario.
+Artículo 42. Procedimiento simplificado. Tratándose de la formulación de 
+cargos por infracciones calificadas como leves en conformidad al artículo 39, la 
+Agencia estará facultada para proponer de manera inmediata la sanción a aplicar, la 
+cual quedará firme si el presunto infractor opta por allanarse a los cargos formulados 
+en su contra. En caso contrario, si el presunto infractor decide rechazar la imputación 
+y presentar descargos, se procederá conforme a lo indicado en el artículo 40 de la 
+presente ley.
+Artículo 43. Pronto pago. El sancionado que no interponga recurso alguno 
+podrá, dentro de los cinco días hábiles siguientes a que le sea notificada la resolución 
+del Subdirector que le impone la sanción, pagar directamente en la Tesorería
+--- PÁGINA 19 ---
+19
+General de la República en cuyo caso, el monto de la misma será reducido en un 
+veinticinco por ciento. Una vez ejercido este derecho, se entenderán renunciado 
+todos los recursos.
+Lo dicho en este artículo no será aplicable para el caso previsto en el artículo 
+anterior.”.”
+El presidente diputado señor Andrés Longton, manifestó la eliminación de 
+la expresión “hábiles” de la letra f) de la propuesta de artículo 39 nuevo, ya que el 
+artículo 30 de la ley N°19.880 sobre bases de los procedimientos administrativos que 
+rigen los actos de los órganos de la administración del Estado, establece que 
+siempre serán días hábiles, por ello es mejor no explicitarlo, ya que puede ocurrir 
+que en otro lugar de la ley no se exprese y se puede entender que en ese caso no 
+sería días hábiles.
+La asesora legislativa del Ministerio del Interior, abogada señora 
+Michelle Bordachard, indicó que efectivamente es como lo indica el presidente 
+Longton, ya que, en otros artículos de la ley, cuando se quiere que sean días corridos 
+se explicita, sin embargo, cuando no lo son se aplica la regla general, de los días 
+hábiles, por lo que se pone solo la palabra “días”. Por lo anterior, sugirió también, 
+que se elimine la palabra “hábiles”, de la letra f) del nuevo artículo 39 propuesto.
+Puesto en votación la indicación que incorpora los artículos 39, 40, 41, 42 
+y 43 nuevos, con la corrección de la letra f) de la propuesta del artículo 39, 
+formulada por los diputados señores Jorge Alessandri, José Miguel Castro y 
+Andrés Longton, se aprueban por unanimidad. Votan a favor las y los diputados 
+señores Jorge Alessandri, José Miguel Castro, Lorena Fries, Andrés Longton 
+(presidente) y Alejandra Placencia. Sin votos en contra ni abstenciones. (5-0-0).
+Se da lectura al artículo 46 del texto aprobado por el Senado: 
+ 
+“Artículo 46. Introdúcense las siguientes enmiendas en la ley N°21.459, que 
+establece normas sobre delitos informáticos, deroga la ley N°19.223 y modifica otros 
+cuerpos legales con el objeto de adecuarlos al Convenio de Budapest:
+1. Incorpórase, en el artículo 2°, los siguientes incisos finales, nuevos:  
+ 
+“No será objeto de sanción penal el que, realizando labores de investigación 
+en seguridad informática, hubiere incurrido en los hechos tipificados en el inciso 
+primero, siempre que se cumplan las siguientes condiciones:
+1) Haber reportado el acceso y las vulnerabilidades de seguridad detectadas 
+en su investigación al responsable de las redes y sistemas informáticos afectados, 
+en forma inmediata y a más tardar en el momento en que alerte a la Agencia Nacional 
+de Ciberseguridad;
+2) Haber dado cumplimiento a las demás condiciones sobre comunicación 
+responsable de vulnerabilidades que al efecto hubiere dictado la Agencia Nacional 
+de Ciberseguridad;
+3) Que el acceso no haya sido realizado con el ánimo de apoderarse o de 
+usar la información contenida en el sistema informático, ni con intención fraudulenta. 
+Tampoco podrá haber actuado más allá de lo que era necesario para comprobar la 
+existencia de una vulnerabilidad, ni utilizando métodos que pudieran conducir a 
+denegación de servicio, a pruebas físicas, utilización de código malicioso, ingeniería 
+social y alteración, eliminación, ex filtración o destrucción de datos, y
+4) No haber divulgado públicamente la información relativa a la potencial 
+vulnerabilidad.
+Tampoco será objeto de sanción penal la persona que comunique a la 
+Agencia información sobre una vulnerabilidad potencial de la que haya tomado 
+conocimiento en su contexto laboral o con ocasión de la prestación de sus servicios,
+--- PÁGINA 20 ---
+20
+ni se considerará que ha incumplido con ello su obligación de secreto profesional.”.
+2. Derógase el artículo 16.”.
+Al artículo 46, el diputado señor Andrés Joaunnet, formuló la siguiente 
+indicación N°50:
+“Suprímase el artículo 46 que incorpora modificaciones a la ley 21.459, que 
+establece normas sobre delitos informáticos, deroga la ley N°19.223 y modifica otros 
+cuerpos legales con el objeto de adecuarlos al Convenio de Budapest.”
+Al artículo 46, los diputados señores José Miguel Castro, Andrés Longton 
+y Diego Schalper, formularon la siguiente indicación N°89:
+“Suprímese el artículo 46.” 
+ 
+Al artículo 46, el diputado señor Jorge Alessandri y la diputada señora 
+Gloria Naveillán, formularon la siguiente indicación N°90:
+“Para eliminar el artículo 46.”
+Al numeral 1 del artículo 46, las y los diputados señores Jorge Alessandri, 
+José Miguel Castro, Lorena Fries, Andrés Longton y Alejandra Placencia, 
+formularon la siguiente indicación que lo reemplaza:
+“Para reemplazar el numeral 1 del artículo 46, por el siguiente: 
+ 
+1. Incorpórase, en el artículo 2°, los siguientes incisos finales, nuevos:  
+ 
+“No será objeto de sanción penal por haber incurrido en los hechos tipificados 
+en el inciso primero, el que habiendo accedido a un sistema informático cuyo 
+responsable tenga domicilio en Chile, lo hiciera cumpliendo con las siguientes 
+condiciones:
+1) Encontrarse inscrito en el registro que al efecto lleve la Agencia Nacional 
+de Ciberseguridad;
+2) Que el acceso se haya realizado habiendo informado previamente de ello 
+a la Agencia;
+3) Que el acceso y las vulnerabilidades de seguridad detectadas hayan sido 
+reportadas al responsable del sistema informático y a la Agencia, tan pronto se 
+hubiere realizado;
+4) Que el acceso no haya sido realizado con el ánimo de apoderarse o de 
+usar la información contenida en el sistema informático, ni con intención fraudulenta. 
+Tampoco podrá haber actuado más allá de lo que era necesario para comprobar la 
+existencia de una vulnerabilidad, ni utilizando métodos que pudieran conducir a 
+denegación de servicio, a pruebas físicas, utilización de código malicioso, ingeniería 
+social y alteración, eliminación, exfiltración o destrucción de datos;
+5) No haber divulgado públicamente la información relativa a la potencial 
+vulnerabilidad;
+6) Que se trate de un acceso a un sistema informático de un organismo del 
+Estado o sus proveedores de servicios de telecomunicaciones; infraestructura digital; 
+servicios digitales o servicios de tecnología de la información gestionados por 
+terceros. En el resto de los casos, requerirá del consentimiento del responsable del 
+sistema informático.
+7) Haber dado cumplimiento a las demás condiciones sobre comunicación 
+responsable de vulnerabilidades que al efecto hubiere dictado la Agencia.”.”
+La asesora legislativa del Ministerio del Interior, abogada señora 
+Michelle Bordachard, explicó que la norma sobre hacking ético que venía aprobada
+--- PÁGINA 21 ---
+21
+del Senado, había sido objeto de indicaciones y ciertos reparos, especialmente por 
+el tema del consentimiento. En esta redacción, señaló, busca que se notifiquen 
+siempre las vulnerabilidades de un sistema informático, esto es cuando un código 
+puede ser explotado para acceder a un sistema, y no así exigir la notificación de los 
+errores de código, ya que sería desproporcionado.
+Sí bien no se llegó a un acuerdo con la mesa técnica de trabajo de prescindir 
+del consentimiento de los privados, sí se logró consensuar agregar dos requisitos 
+nuevos, relativos a que las personas que hayan detectado la vulnerabilidad se hayan 
+inscrito previamente en un registro que al efecto lleva la Agencia, y además que 
+antes de explotar la vulnerabilidad le avisen a la Agencia.
+El presidente diputado señor Andrés Longton, expresó que desde un 
+comienzo no se estaba de acuerdo con el hacking ético, por una variedad de razones 
+que tiene que ver con la privacidad de ingresar a los sistemas informáticos de los 
+cuales no se tiene autorización con independencia de la responsabilidad que se 
+pueda tener aquellos organismos por la negligencia o eventual comisión de delito 
+por haber expuesto datos de personas que tenían a su cargo.
+El diputado señor José Miguel Castro, manifestó su acuerdo y consideró 
+un avance tener una lista y que se ejecute un aviso previo, sin embargo, no está de 
+acuerdo con la idea establecida en el numeral 6, sobre el auditar a las empresas que 
+presenten servicios a la administración del Estado, ya que se sobredimensiona el 
+objetivo.
+La Comisión llegó al acuerdo de aprobar la indicación de reemplazo al 
+numeral 1 del artículo 46, siempre y cuando se elimine de su número 6, la frase “o 
+sus proveedores de servicios de telecomunicaciones; infraestructura digital; servicios 
+digitales o servicios de tecnología de la información gestionados por terceros”, 
+además de reemplazar en el mismo numeral, la frase “de un organismo del Estado” 
+por la siguiente “de los organismos de la administración del Estado”.
+Puesto en votación el artículo 46 en conjunto con la indicación y sus 
+modificaciones que reemplaza su numeral 1, se aprueba por unanimidad. Votan 
+a favor las y los diputados señores Jorge Alessandri, José Miguel Castro, Lorena 
+Fries, Andrés Longton (presidente) y Alejandra Placencia. Sin votos en contra ni 
+abstenciones. (5-0-0).
+Por aprobarse el artículo 46 en conjunto con la indicación y sus 
+modificaciones que reemplaza su numeral 1, reglamentariamente se rechaza el 
+numeral 1 original del artículo 46 del texto aprobado por el Senado y las 
+indicaciones N°s 50, 89 y 90.
+***
+Habiéndose cumplido el objeto de la sesión, se levanta a las 19:00 horas.
+El detalle de las exposiciones realizadas y el debate suscitado en torno a 
+ellas quedan registrados en un archivo de audio disponible en la Secretaría de la 
+Comisión y en un video publicado en la página www.democraciaenvivo.cl
+ÁLVARO HALABI DIUANA
+--- PÁGINA 22 ---
+22
+Secretario Abogado de la Comisión

@@ -1,0 +1,479 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=12260&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:33:10
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 106ª, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+373ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 06 DE AGOSTO 2025, 
+DE 17.38 A 19:02 HORAS.
+SUMARIO: 1) Se continuó con la tramitación del proyecto de ley,
+originado 
+en 
+moción, 
+sobre 
+protección 
+de 
+los 
+neuroderechos y la integridad mental, y el desarrollo de 
+la investigación y las neurotecnologías (boletín N° 13828-
+19-S), en segundo trámite constitucional, y primero 
+reglamentario, con urgencia calificada de “simple”.
+2) Se analizó la plataforma informática para desarrollar 
+auditorías internas de manera más eficiente que la 
+Contraloría General de la República está poniendo a 
+disposición de las unidades de control interno de los 
+órganos de la Administración Pública, para conocer su 
+funcionamiento y la factibilidad de replicarlo en otras 
+reparticiones del Estado.
+3) Quedó pendiente recibir en audiencia al Presidente de 
+la Agrupación Nacional de Empleados Fiscales (ANEF), 
+señor José Pérez Debelli, quien dará a conocer 
+situaciones graves que ocurren dentro de la Comisión 
+Chilena de Energía Nuclear.
+I.- PRESIDENCIA
+Presidió la sesión, el diputado Eric Aedo (Presidente Titular), actuó como Abogada 
+Secretaria de la Comisión, la señora María Soledad Fredes Ruiz, como Abogada Ayudante, 
+la señora María Jesús Serey Sardá y como secretaria ejecutiva, la señora Teresita Sandoval 
+Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión señoras Paula Labra, Erika 
+Olivera, Marcela Riquelme y Gael Yeomans, y los diputados integrantes de la Comisión 
+señores Eric Aedo, Tomás Lagomarsino, Daniel Lilayu, Rubén Oyarzo y Hernán Palma.
+La diputada Marta Bravo fue reemplazada por la diputada Natalia Romero y la 
+diputada Helia Molina fue reemplazada por la diputada Carolina Tello.
+Concurrió al primer punto de la tabla, el Ministro de Ciencia, Tecnología, 
+Conocimiento e Innovación, señor Aldo Valle Acevedo. Lo acompañaron los asesores 
+Camila Aguayo y Sebastián Galaz.
+Concurrió al segundo punto de la tabla, la Contralora General de la República, 
+señora Dorothy Pérez Gutiérrez, y la Directora de la Secretaría de Modernización del Estado 
+del Ministerio de Hacienda, señora Isabel Millán Valdés.
+III.- ACTAS
+Las actas de las sesiones 103ª y 104ª se declararon reglamentariamente aprobadas.
+El acta de la sesión 105ª se puso a disposición de las señoras diputadas y señores 
+diputados.
+IV.- CUENTA
+Se recibieron los siguientes documentos:
+1.- Oficio de S.E. el Presidente de la República mediante el cual retira la urgencia 
+calificada de "suma", hecha presente para el despacho del proyecto de ley que regula los
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 13/08/2025 10:18:18 CLT
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 13D64C0153FDE7C8
+--- PÁGINA 2 ---
+sistemas de inteligencia artificial, la robótica y las tecnologías conexas, en sus distintos 
+ámbitos de aplicación (boletines N° 15869-19 y N° 16821-19, refundidos).
+A sus antecedentes
+2.- Oficio del Abogado Oficial Mayor de Secretaría de la Cámara de Diputados, por 
+el que remite a segundo trámite reglamentario el proyecto de ley que regula los sistemas 
+de inteligencia artificial (boletínes N° 15869-19 y N° 16821-19, refundidos), por haber sido 
+objeto de una indicación. Hace presente que la Sala aprobó en general el proyecto de ley 
+por 63 votos a favor, respecto de un total de 152 diputadas y diputados en ejercicio, con la 
+salvedad de su artículo 28, que fue rechazado en general, al no alcanzar el quórum 
+constitucional requerido.
+Quedó en estado de tabla
+3.- Comunicación suscrita por los jefes de los Comités Parlamentarios del Frente 
+Amplio e Independientes y del PPD e Independientes, por la que informan que la diputada 
+Helia Molina será reemplazada, en esta sesión, por la diputada Carolina Tello.
+Se tuvo presente
+4.- Comunicación del jefe de la Bancada de Diputados UDI, por la que informa que 
+la diputada Marta Bravo será reemplazada, en la presente sesión, por la diputada Natalia 
+Romero.
+Se tuvo presente
+5.- Correo electrónico de la Auditora General de Gobierno del Consejo de Auditoría 
+Interna General de Gobierno (CAIGG), señora Daniella Caldana Fulss, a través del cual 
+excusa su inasistencia a esta sesión por encontrarse fuera de Santiago y coincidir la hora 
+de su regreso con la hora de la invitación, por lo que le es imposible conectarse.
+Se tomó conocimiento
+6.- Oficio Ordinario N° 716 de la Directora del Servicio Nacional para la Prevención 
+y Rehabilitación del Consumo de Drogas y Alcohol (SENDA), mediante el cual, de acuerdo 
+con lo estipulado en la Ley de Presupuestos del Sector Público año 2025, informa sobre las 
+Glosas Presupuestarias y el Articulado 14, correspondientes al segundo trimestre y primer 
+semestre 2025, según se señala.
+Se tomó conocimiento
+7.- Informe elaborado por la Biblioteca del Congreso Nacional titulado "Nutracéutico 
+en la legislación chilena, la situación actual y desafíos regulatorios" cuyo objetivo es analizar 
+el tratamiento regulatorio en Chile de los productos denominados "nutracéuticos", 
+entendidos en la doctrina especializada como derivados de alimentos que aportan 
+beneficios para la salud más allá de su valor nutricional básico. El citado informe fue 
+solicitado por esta Comisión durante la sesión 103ª, celebrada el 2 de julio pasado.
+Se tomó conocimiento
+8.- Solicitudes de audiencia de las personas, instituciones u organizaciones civiles 
+que se enumeran a continuación, para exponer su opinión acerca del proyecto de ley sobre 
+protección de los neuroderechos y la integridad mental, y el desarrollo de la investigación y 
+las neurotecnologías (boletín N° 13828-19-S).
+a) A través del Sistema de la Ley del Lobby de la Cámara de Diputados, solicitud de 
+audiencia derivada por la diputada Helia Molina, requerida por la empresa Meta.
+b) Del científico experto en NeuroTecnología, señor Rafael Yuste, quien señala que 
+estuvo implicado en la creación y apoyo al proyecto de ley. Ofrece sus servicios y ayuda en 
+las discusiones actuales y contrarrestar alguno de los argumentos realizados por lobistas.
+c) Del Decano de la Facultad de Medicina de la Pontificia Universidad Católica de 
+Chile para la Subdirectora del Centro de Bioética UC, profesora Paulina Ramos Vergara.
+Se tomó conocimiento
+2
+--- PÁGINA 3 ---
+V.- ACUERDOS
+Se adoptaron los siguientes acuerdos:
+1.- Invitar a una próxima sesión, al Doctor Sebastián Cabrera, experto en cirugía 
+robótica, del Hospital Sótero del Río.
+2.- Invitar a una próxima sesión, al señor Jaime Ricardo San Martín, Premio Nacional 
+de Ciencias Exactas 2023.
+3.- Escuchar, en calidad de expertos, al Instituto de Salud Pública y al Ministerio de 
+Salud, dentro del marco de discusión del proyecto de ley, originado en moción, sobre 
+protección de los neuroderechos y la integridad mental, y el desarrollo de la investigación y 
+las neurotecnologías (boletín N° 13828-19-S).
+VI.- ORDEN DEL DÍA
+1) Se continuó con la tramitación del proyecto de ley, originado en moción, sobre 
+protección de los neuroderechos y la integridad mental, y el desarrollo de la 
+investigación y las neurotecnologías (boletín N° 13828-19-S), en segundo trámite 
+constitucional, y primero reglamentario, con urgencia calificada de “simple”.
+El señor Aldo Valle, ministro de Ciencia, Tecnología, Conocimiento e 
+Innovación, tras mencionar que su cartera considera necesario el proyecto en discusión, 
+destacó que el avance de las neurotecnologías representa riesgos evidentes para la 
+integridad mental y la dignidad humana, por lo cual es necesario establecer principios claros 
+que limiten posibles abusos. Sin embargo, aseveró que no deben establecerse regulaciones 
+excesivamente rígidas, dada la acelerada evolución tecnológica.
+En ese sentido, afirmó que resulta fundamental resguardar los principios sin 
+obstaculizar el desarrollo científico y que, por ello, es importante escuchar al Ministerio de 
+Salud, especialmente en lo referente a los conceptos contenidos en la norma, los cuales, 
+para convertirse en prescripciones legales, deben estar debidamente fundamentados.
+Finalmente, indicó que también es relevante conocer la opinión del Instituto de Salud 
+Pública, ya que el proyecto de ley le asigna funciones específicas que requieren análisis 
+técnico y revisión de las capacidades institucionales.
+La diputada Paula Labra coincidió con lo expresado por el ministro Valle y señaló 
+que consideran pertinente invitar a la Comisión a representantes del Ministerio de Salud y 
+del Instituto de Salud Pública, a fin de que den a conocer sus apreciaciones sobre los 
+aspectos técnicos y regulatorios que se abordan en el proyecto.
+El diputado Hernán Palma se refirió a la práctica común y creciente de consultar a 
+la inteligencia artificial (IA) sobre aspectos de la vida cotidiana, que se ha ido normalizando. 
+A modo de ejemplo, comentó que realizó el ejercicio de preguntar a la IA sobre los 
+neuroderechos y obtuvo como respuesta que los neuroderechos comprenden el derecho a 
+la identidad personal, el derecho al libre albedrío, el derecho a la privacidad mental, el 
+derecho al acceso equitativo y el derecho a la protección contra los sesgos.
+A continuación, manifestó que resulta fundamental recopilar información no solo 
+sobre los avances y aportes de la neurotecnología, sino también sobre sus posibles 
+impactos en el ámbito de los neuroderechos. En ese contexto, destacó que Chile es pionero 
+en legislar iniciativas de esta naturaleza y recordó que desde 2021 se ha intentado reactivar 
+el debate parlamentario en la materia.
+Enseguida, recordó los reparos que ha habido por parte del área de la salud sobre 
+esta temática y propuso volver a analizarlos, ya que, a su juicio, es posible que esta mirada 
+haya evolucionado de manera conjunta con la innovación tecnológica.
+Por último, se refirió a la necesidad de escuchar a autoridades competentes en la 
+materia, ya que no se considera avezado en estos asuntos. En el mismo sentido, relevó 
+que es fundamental contar con la opinión de académicos que sean especialistas en 
+neurotecnología.
+3
+--- PÁGINA 4 ---
+La diputada Gael Yeomans manifestó su satisfacción por la unanimidad en torno a 
+la necesidad de invitar a representantes del Ministerio de Salud y del Instituto de Salud 
+Pública (ISP). A continuación, formuló una consulta al Presidente de la Comisión, orientada 
+a conocer el estado de la tramitación del proyecto de ley en discusión.
+Asimismo, expresó que es fundamental convocar nuevamente a los autores de la 
+iniciativa, porque sus visiones son esenciales para orientar el debate. Además, planteó 
+dudas respecto de su vigencia, ya que, si se considera el tiempo que ha transcurrido desde 
+su presentación, es probable que no se encuentre actualizada al escenario tecnológico y 
+legislativo actual.
+El diputado Tomás Lagomarsino afirmó que el ministro Valle cuenta con todas las 
+credenciales necesarias para desempeñarse como titular de la cartera de Ciencia, pese a 
+las críticas difundidas en medios de comunicación.
+En ese contexto, lamentó que algunos de los esfuerzos del ministro de Ciencia sean 
+boicoteados, como ocurrió con el edificio que albergaría al Centro Interdisciplinario de 
+Neurociencia de Valparaíso (CINV). El diputado Lagomarsino comentó que el ministro Valle 
+fue uno de los impulsores de ese proyecto, cuyo objetivo es posicionar a Chile a la 
+vanguardia en esta área, pero que se vio gravemente afectado por decisiones del Consejo 
+de Monumentos Nacionales.
+En relación con el proyecto de ley en discusión, expresó que le resultó 
+particularmente ilustrativa la antepenúltima presentación realizada ante la Comisión, en la 
+que se abordó qué es la neurotecnología y qué aspectos se están regulando. A su juicio, la 
+iniciativa presenta una definición demasiado amplia, al punto de que incluso dispositivos 
+como un Apple Watch podrían considerarse neurotecnologías, lo que dificulta el análisis 
+legislativo y complejiza su encuadre en el contexto actual.
+En consecuencia, invitó a considerar este análisis más allá de las gestiones o 
+presiones políticas para incluir el proyecto en tabla y a realizar una evaluación basada en 
+el estado actual del desarrollo tecnológico.
+El diputado Eric Aedo, Presidente, como respuesta a la inquietud de la diputada 
+Gael Yeomans, dijo que ha habido dificultades, particularmente con el senador Francisco 
+Chahuán, relacionadas con la coordinación de los horarios y la disponibilidad de tiempo. A 
+ello agregó que, si bien ya expuso del exsenador Guido Girardi, se realizará un esfuerzo 
+para que el senador Chahuán pueda presentar su visión del proyecto.
+En cuanto a la iniciativa sobre inteligencia artificial, indicó que aún no hay certeza 
+de la posición que adoptará el Ejecutivo, pero espera recibir una señal clara sobre si el 
+gobierno presentará o no urgencia. En caso de que así sea, estimó que se deberán tramitar 
+ambos proyectos, el de neuroderechos y el de inteligencia artificial, en paralelo.
+Luego, explicó que el proyecto sobre inteligencia artificial demandará un tiempo 
+considerable de trabajo legislativo, dado que es previsible que se abra un período para 
+presentar indicaciones. Por lo mismo, afirmó que, probablemente, llegarán propuestas tanto 
+del Ejecutivo como de los miembros de la Comisión, lo que generará una discusión que es 
+necesaria.
+2) Análisis de Sistema de Auditoría Interna (SAI) de la Contraloría General de la 
+República y posibilidades de implementación en otras reparticiones del Estado.
+La señora Dorothy Pérez Gutiérrez, contralora general de la República, explicó, 
+vía telemática, que el Sistema de Auditoría Interna (SAI), lanzado en 2021, fue diseñado 
+para reemplazar costosos programas comerciales y procesos manuales carentes de 
+trazabilidad. Precisó que el SAI tiene por objetivo ser una herramienta informática para las 
+direcciones de control municipal y unidades de auditoría interna, especialmente de 
+municipios y servicios con recursos limitados.
+A continuación detalló que la estructura del software está compuesta por tres 
+módulos: módulo de planificación, mediante el cual es posible elaborar un plan anual de 
+auditoría y asignar tareas correspondientes a cada fiscalizador; módulo de auditoría, que
+4
+--- PÁGINA 5 ---
+define el programa de fiscalización, realiza un análisis de riesgos y un muestreo estadístico, 
+registra un respaldo documental de las respuestas del equipo auditado e incorpora 
+observaciones y recomendaciones de mejora, y, por último, módulo de seguimiento, que 
+está encargado de ejecutar observaciones y recomendaciones. También mencionó las 
+funciones transversales de reportabilidad, que son las que permiten a la autoridad, a la 
+jefatura de servicio y al auditor ministerial consultar tanto el número de auditorías realizadas 
+como la cantidad de hallazgos obtenidos.
+Recalcó que el software es gratuito y que la Contraloría ofrece el programa, así 
+como las capacitaciones necesarias y los servicios de mesa de ayuda para resolver dudas. 
+También destacó la posibilidad que ofrece el sistema de exportar informes al programa 
+Excel y de descargar masivamente cualquier documento que se haya generado.
+Del mismo modo, explicó que el SAI opera completamente en línea, pues no 
+requiere instalación local, y que se accede a él mediante Clave Única, lo que facilita el 
+trabajo remoto y colaborativo desde distintos lugares. Puntualizó que el sistema es 
+autogestionado por las unidades que realizan auditorías internas, permitiéndoles dar de alta 
+o de baja usuarios sin que se necesite la intervención de la Contraloría.
+En cuanto a las cifras, señaló que, desde noviembre de 2021, se han registrado 
+1.761 usuarios a nivel nacional, 528 unidades de auditoría interna y 8.622 auditorías 
+ingresadas al sistema. Asimismo, afirmó que se han hecho tres auditorías coordinadas: en 
+2022, sobre control de vehículos municipales; en 2023 y 2024, sobre control de 
+disponibilidades y que actualmente está en curso una auditoría conjunta sobre licencias 
+médicas.
+Enseguida, relató que, tras la dictación de la resolución exenta N° 2.120, de 2022, 
+que estableció la implementación del SAI en las unidades de auditoría interna de todas las 
+municipalidades, la adopción del sistema se ha extendido gradualmente a los servicios del 
+sector central y de regiones. Explicó que, de manera conjunta, se suscribieron convenios 
+piloto con diversas instituciones y que ya se han formalizado 182 acuerdos para operar el 
+sistema.
+No obstante, advirtió que, al analizar la base de datos del SAI, se constató que, de 
+las 8.618 auditorías iniciadas, 4.670 no avanzaron, porque numerosas investigaciones 
+quedaron incompletas en distintas etapas. Del mismo modo, informó que la división de 
+fiscalización y la división de gobiernos regionales y municipalidades de la Contraloría 
+General de la República identificaron problemas adicionales en ámbitos municipales y 
+regionales, por lo que, a su juicio, es imprescindible reforzar la capacitación y la difusión del 
+uso del sistema.
+A continuación, se refirió a la falta de personal en las unidades de control interno de 
+144 municipalidades, muchas de las cuales operan con solo una o dos personas, pese a 
+contar con grandes cantidades de recursos económicos. En ese sentido, dijo que, al margen 
+de que se instale el software, lo importante es saber con cuántas personas contarán las 
+municipalidades para efectuar la labor que se pretende, ya que si el personal es acotado, 
+se generará sobrecarga de trabajo, lo que impedirá que se efectúe un buen trabajo.
+Respecto del sector público, señaló que se ha detectado falta de incentivos para 
+que el personal utilice el Sistema de Auditoría Interna, dado que su uso es opcional en 
+muchos casos. También observó que, en el ámbito de los servicios públicos, el Consejo de 
+Auditoría Interna de Gobierno (Caigg) les pide muchos reportes, lo que genera tope de 
+funciones, tareas y sobrecarga.
+Luego, la contralora Dorothy Pérez exhibió un video de tres minutos, a fin de explicar 
+el funcionamiento del SIA.
+Concluida la exhibición del video, señaló que hoy el Sistema de Auditoría Interna 
+presenta una mejora significativa, lo que evidencian las más de 8.600 auditorías registradas 
+en él, y que cientos de instituciones lo utilizan, pero, como se trata de un sistema web, su 
+uso masivo ha sobrecargado la infraestructura tecnológica de la Contraloría, incluyendo 
+plataformas, repositorios y almacenamiento.
+5
+--- PÁGINA 6 ---
+Dicho aquello, mencionó que, en diciembre de 2023, se efectuó un diagnóstico de 
+los sistemas informáticos y las plataformas de la Contraloría, cuyo resultado fue que el 50 
+por ciento se encontraba en estado de obsolescencia. La contralora sostuvo que, pese a 
+que aquel es el motivo del crítico estado de los sistemas y las plataformas, no disponen de 
+recursos suficientes para mantenerlos y actualizarlos como es debido.
+Enseguida, informó que, desde aquel diagnóstico hasta junio de 2024, gracias a un 
+plan de ahorro interno y a algunos recursos menores entregados por el Ministerio de 
+Hacienda, se logró reducir la criticidad de ciertos sistemas y varias plataformas pasaron de 
+niveles altos de criticidad a estados más estables.
+A fin de ilustrar la situación, exhibió una imagen del estado inicial de una de las salas 
+de procesos de la Contraloría General de la República, que evidencia el desorden de 
+cableado existente cuando inició la subrogancia. Explicó que, a fin de solucionar aquello, 
+se ejecutó un gasto para bajar todos los sistemas y, después, proceder a organizar los 
+cables que, aunque importantes, representan una fracción mínima de los componentes 
+tecnológicos necesarios para la infraestructura de la institución.
+Asimismo, dio a conocer que se diseñó un plan de innovación tecnológica, a 
+desarrollar entre 2025 y 2030, cuyo objetivo es sumarse a la transformación digital. Precisó 
+que la idea es modernizar la infraestructura tecnológica para asegurar interoperabilidad, 
+escalabilidad, continuidad y rendimiento, e implementar la gobernanza de datos, el uso de 
+inteligencia artificial y altos estándares de ciberseguridad, entre otros fines.
+Además, informó que el plan descrito contempla etapas secuenciales, con 
+actividades vinculadas a cada uno de sus ejes, como el uso de ClaveÚnica por parte de 
+todos los funcionarios externos que requieran acceder a los sistemas, sin solicitudes 
+adicionales, y de la firmaGOB, en el caso de los funcionarios del Estado que deben firmar 
+documentos en plataformas de la Contraloría, tales como el Sistema de Información y 
+control del Personal del Estado (Siaper), el Sistema de Rendición Electrónica de Cuentas 
+(Sisrec), el Sistema de Contabilidad General de la Nación (Sicogen II) y el Sistema de 
+Auditoría Interna (SAI).
+A su vez, precisó que se está integrando el uso del Sistema de Tramitación de 
+Documentos (Sistradoc), en cumplimiento de la ley N° 21.180; del Domicilio Digital Único 
+(DDU), y de expedientes electrónicos trazables y seguros. Agregó que también se proyecta 
+la conexión con la red de Interoperabilidad del Estado PISSE 2.0, a fin de intercambiar 
+información entre entidades públicas y poner a disposición datos internos.
+Posteriormente, explicó que la Contraloría está trabajando en 64 soluciones 
+tecnológicas: 32 nacionales y 32 de apoyo. Destacó que cada una de ellas posee distintos 
+niveles de riesgo y carga operativa, y que si algunas de ellas no obtienen el financiamiento 
+adecuado, se corre el riesgo de caídas.
+En ese contexto, expuso, como ejemplo crítico, el caso del Sistema de Rendición 
+Electrónica de Cuentas (Sisrec), que se creó en 2020, con fondos de la ley de presupuestos, 
+considerando, en un inicio, que recibiría alrededor de 300.000 documentos, pero recepcionó 
+306.000 ese mismo año, más del doble en 2021, dos millones en 2022, cerca de tres 
+millones en 2023 y casi cinco millones en 2024, crecimiento que no vino acompañado de 
+un aumento de personal, infraestructura o licencias, entre otros elementos.
+Luego, comparó el Sisrec con el Sistema de Gestión Financiera del Estado (Sigfe), 
+que tiene más de 20 personas a cargo de su mantención, mientras que Sisrec solo tuvo 
+una persona y media hasta el año pasado, a pesar de que son del mismo tamaño e, incluso, 
+Sisrec podría ser más grande. Al respecto, sostuvo que la sobrecarga ha provocado la caída 
+del sistema en varias oportunidades, una de ellas el presente año, que duró cuatro días.
+En relación con lo anterior, explicó que el financiamiento solo permitió obtener un 10 
+por ciento del almacenamiento necesario. Además, explicó que, por tratarse de 
+adquisiciones públicas, se deben realizar licitaciones que tardan en ejecutarse y, en el 
+intertanto, el riesgo de caída permanece latente.
+6
+--- PÁGINA 7 ---
+Finalmente, afirmó que la Contraloría tiene toda la disposición a colaborar con la 
+Administración pública a través del sistema SAI, pero necesita recursos para garantizar su 
+funcionamiento.
+A continuación, manifestó su preocupación por otros sistemas en riesgo medio o 
+crítico, como el SAI, que ejecuta unas 800 auditorías anualmente, y el Siaper, en riesgo 
+crítico, que registra información clave del personal público, como licencias, contrataciones, 
+ceses, sumarios y otros procesos que afectan a cerca de un millón de personas.
+Explicó que el Siaper está compuesto por seis subsistemas y que, mediante un plan 
+de ahorro interno -sin recursos provenientes de Hacienda-, se logró destinar algunas horas 
+para una mantención de emergencia. Aseveró que, sin dicha intervención, el sistema habría 
+colapsado, paralizando el registro de movimientos de personal en todo el aparato público.
+En razón de lo descrito, recalcó que, para que esté a disposición de más 
+instituciones, como debe ser, Sieper requiere apoyo financiero. En ese sentido, reconoció 
+la existencia de restricciones fiscales, pero advirtió que la misma situación se replica en 
+otros sistemas, como es el caso del Sicogen II y el Sistema de Inspección de Acciones 
+Derivadas (SIAD), que han debido escalar rápidamente producto de nuevos hallazgos y 
+exigencias institucionales. Precisó que el SIAD debió expandirse drásticamente ante la 
+proliferación de sumarios vinculados a licencias médicas irregulares, ya que miles de casos 
+se registraron en una plataforma que no estaba dimensionada originalmente para ese 
+volumen.
+Luego, expresó su inquietud por los riesgos tecnológicos acumulados y el impacto 
+que podrían tener en términos de ciberseguridad. Indicó que la Contraloría recibe intentos 
+permanentes de ataques informáticos, los cuales han logrado contener hasta ahora. Sin 
+embargo, advirtió que, dado los niveles de vulnerabilidad actuales, existe el riesgo real de 
+caídas o infiltraciones.
+Sobre lo anterior, explicó que el crecimiento sostenido del aparato público ha 
+implicado un aumento exponencial de la tramitación documental, lo que ha exigido la 
+gestión de documentos mediante Sistradoc, que no ha crecido en términos de recursos, 
+licencias y personal técnico, lo que pone en riesgo su continuidad operativa.
+Para concluir, presentó los costos estimados de las mejoras en infraestructura digital 
+proyectadas el 2025. Además, detalló las iniciativas que proyecta el plan 2025-2030 por 
+año, las cuales están centradas en cubrir necesidades mínimas y urgentes que permitan a 
+la Contraloría seguir operando con seguridad y eficiencia.
+La diputada Marcela Riquelme dijo que le inquietaba la falta de protección del 
+sistema de la Contraloría General de la República.
+A partir de lo señalado por la contralora sobre la obsolescencia de los softwares, 
+planteó que los hardware también podrían estar presentando dificultades y preguntó en qué 
+medida la situación torna vulnerable el sistema. Consultó si implica carecer de soporte para 
+almacenar más información, que los sistemas pueden fallar o riesgo de intervención 
+externa, como el jaqueo.
+Hizo presente que, aunque se trata de preguntas delicadas, resultan necesarias 
+para transparentar la urgencia de invertir en la materia.
+La contralora general Dorothy Pérez respondió que el sistema de la Contraloría 
+General de la República enfrenta todos los riesgos planteados: caídas, demoras, falta de 
+capacidad operativa y vulnerabilidad ante intervenciones externas. Añadió que cerca del 50 
+por ciento de las plataformas está en estado de obsolescencia, lo que incrementa la 
+criticidad y la posibilidad de incumplimientos legales.
+Enseguida, explicó que la Contraloría debe cumplir obligaciones legales, como 
+recibir declaraciones de intereses y patrimonio, pero normas como la ley N° 21.634, que 
+moderniza la ley de compras públicas; la ley N° 21.592, que establece un estatuto de 
+protección en favor del denunciante, y la ley N° 21.643, conocida como ley Karin, entre 
+otras, imponen nuevas exigencias, pero no entregan presupuesto, lo cual puede llevar a las
+7
+--- PÁGINA 8 ---
+personas a incurrir en incumplimientos, a causa de fallas en la plataforma o pérdida de 
+información.
+Para terminar, agregó que, a pesar de que algunos sistemas siguen operativos, sus 
+lenguajes informáticos están obsoletos, lo que impide la interoperabilidad con las nuevas 
+plataformas del Estado.
+La diputada Paula Labra planteó que ha escuchado en muchas comisiones que la 
+Contraloría carece de recursos para infraestructura tecnológica y la próxima discusión de 
+la ley de presupuestos será la instancia propicia para que todos puedan impulsar la 
+asignación de los fondos que se requieren.
+A continuación, valoró que se disponga del Sistema de Auditoría Interna, del que 
+tuvo conocimiento en el marco de la labor de la comisión especial investigadora del uso de 
+licencias médicas en el sector público, y sostuvo que su disposición y uso se debe impulsar 
+en todos los órganos del Estado. A modo de ejemplo, mencionó que, cuando trabajó en el 
+Ministerio de Salud, replicaron el software de gestión documental de la Contraloría, lo que 
+permitió reducir costos, pues no fue necesario desarrollar uno nuevo.
+En su opinión, más instituciones deben incorporar el uso del SAI, ya que, como ha 
+demostrado la Contraloría, permite realizar una buena auditoría y fiscalizar desde las 
+unidades de control internas, pero aún existen falencias, como la alta demanda de reportes 
+por parte del Consejo de Auditoría Interna General de Gobierno (Caigg) y la falta de 
+coordinación.
+En razón de lo expuesto, señaló que la Secretaría de Modernización del Estado del 
+Ministerio de Hacienda debe actuar como ente articulador, pues no corresponde que esa 
+tarea recaiga en la Contraloría.
+El señor Eric Aedo, Presidente, informó que se encontraba presente la señora 
+Isabel Millán, directora de la Secretaría de Modernización del Estado del Ministerio de 
+Hacienda.
+El diputado Tomás Lagomarsino, luego de sumarse a lo planteado por la diputada 
+Labra, destacó la importancia de otorgar un mayor presupuesto a la Contraloría, 
+especialmente a la vista del trabajo que ha realizado en diversas materias.
+Asimismo, planteó una inquietud recurrente, la cual ha abordado en diversas 
+ocasiones con la Contraloría, el Ministerio de Hacienda y la Dirección de Presupuestos 
+(Dipres), a saber, si existe la posibilidad de acceder al Sistema de Rendición Electrónica de 
+Cuentas (Sisrec) como observador, es decir, sin la capacidad de modificar los datos.
+Al respecto, comentó que muchos parlamentarios están interesados en fiscalizar e 
+involucrarse más en áreas específicas. Por ejemplo, mencionó que le interesa indagar 
+sobre el programa de reforzamiento de la atención primaria de salud (Praps), porque, de 
+manera extraoficial, se sabe que existen irregularidades en la rendición de los fondos 
+entregados y, por tanto, el acceso a la información en forma directa le permitiría realizar un 
+rol fiscalizador más efectivo.
+Además, argumentó que si los parlamentarios acceden, con restricciones, a estos 
+sistemas, pueden revisar antecedentes de primera fuente, especialmente en áreas como la 
+salud. En particular, expresó su interés en revisar las rendiciones de cuentas de los 
+servicios de salud y los hospitales.
+La señora Isabel Millán, directora de la Secretaría de Modernización del Estado 
+del Ministerio de Hacienda, vía telemática, explicó que el rol principal del organismo que 
+lidera es articular la modernización del Estado y, para ello, colabora en la formulación y 
+seguimiento de las iniciativas de la agenda de modernización. Agregó que también 
+asesoran e impulsan la implementación de varios proyectos de dicha agenda.
+Respecto del SIA, reconoció que está alineado con el uso eficiente de los recursos 
+públicos. Destacó que la interfaz ofrece una solución común y un servicio compartido para 
+las entidades públicas, a propósito de sus procesos de auditoría interna. Insistió, sin 
+embargo, en que su equipo no participó en el diseño ni en el apoyo de la plataforma.
+8
+--- PÁGINA 9 ---
+A continuación, informó que el organismo competente en la materia es el Consejo 
+de Auditoría Interna General de Gobierno (Caigg) y en el futuro el responsable será el 
+Servicio de Auditoría Interna de Gobierno.
+Hizo presente, además, que el rol de la Secretaría de Modernización no involucra 
+plataformas en general, pero sí apoya proyectos específicos. Finalmente, expresó su 
+disposición a ofrecer más información sobre el trabajo que realizan en la Secretaría de 
+Modernización del Estado, si existe interés.
+El diputado Eric Aedo, Presidente, luego de agradecer a la señora Isabel Millán 
+por su intervención, mencionó que tanto él como los diputados presentes, incluida la 
+diputada Gael Yeomans, quien además integra la Comisión de Hacienda, tomaron nota de 
+la solicitud que la señora contralora realizó a propósito de la falta de recursos.
+La contralora general Dorothy Pérez, en respuesta al diputado Tomás 
+Lagomarsino, quien consultó sobre la posibilidad de que los parlamentarios accedan a los 
+sistemas, dijo que para la Contraloría es muy relevante que el sistema nacional de control 
+vuelva a ser robusto y, en ese sentido, la fiscalización parlamentaria, como parte de aquello, 
+es vital. Por eso, en su opinión, sería de gran importancia permitir el acceso de los diputados 
+a las plataformas.
+Sobre lo anterior, precisó que, tras analizar la factibilidad jurídica de la solicitud, se 
+confirmó que es posible el acceso a los sistemas con perfiles controlados, pero el principal 
+obstáculo radica en la falta de los recursos necesarios para generar los perfiles y las 
+funcionalidades específicas.
+Explicó que los datos contenidos en las plataformas tienen un tratamiento especial 
+y, por tanto, el perfil de usuario de los parlamentarios debe ser distinto al de los 
+fiscalizadores de la Contraloría: con un acceso más amplio que el de un ciudadano común, 
+pero restringido en comparación con el de un fiscalizador de la Contraloría.
+Por último, solicitó el apoyo de los parlamentarios para obtener fondos que permitan 
+concretar el particular, entre otras necesidades, mediante la ley de presupuestos 2026.
+El diputado Eric Aedo, Presidente agradeció a la señora Dorothy Pérez por su 
+exposición e hizo presente que se tendrá en consideración su solicitud.
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 19:02 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+9

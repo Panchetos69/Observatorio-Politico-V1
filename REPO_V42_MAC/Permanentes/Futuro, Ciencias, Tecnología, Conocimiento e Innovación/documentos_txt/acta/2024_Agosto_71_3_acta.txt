@@ -1,0 +1,2201 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=17070&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:34:40
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 71°, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+372ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 07 DE AGOSTO 2024, 
+DE 17:35 A 19:39 HORAS.
+SUMARIO: 
+Se continuó con el trámite de audiencias respecto del 
+proyecto de ley, de origen en un mensaje, que regula los 
+sistemas de inteligencia artificial (boletín Nº 16821-19) y 
+una moción, que regula los sistemas de inteligencia 
+artificial, la robótica y las tecnologías conexas, en sus 
+distintos ámbitos de aplicación (boletín Nº 15869-19), 
+refundidos, en primer trámite constitucional, con 
+urgencia calificada de “simple”.
+I.- PRESIDENCIA
+Presidió la sesión, el diputado Eric Aedo (Presidente Titular), actuó como Abogada 
+Secretaria de la Comisión la señora María Soledad Fredes Ruiz, como Abogada Ayudante 
+la señorita María Jesús Serey Sardá y como secretaria ejecutiva la señora Teresita 
+Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Marta Bravo, Helia 
+Molina, Erika Olivera, Marcela Riquelme y Gael Yeomans; y los diputados integrantes de la 
+Comisión, señores Eric Aedo, Johannes Kaiser, Tomás Lagomarsino y Rubén Oyarzo. El 
+diputado Daniel Lilayu fue reemplazado por el diputado Marco Antonio Sulantay.
+Concurrió a la orden del día, por el Ministerio de Ciencia, Tecnología, Conocimiento 
+e Innovación la asesora legislativa señorita Macarena Galaz; el Profesor Adjunto de la 
+Escuela de Derecho de la Facultad de Ciencias Sociales y Económicas de la Universidad 
+Católica del Maule, señor Roberto Navarro Dolmestch, incorporado recientemente como 
+académico en la Universidad de Tarapacá en Iquique; el Profesor Titular de Derecho 
+Privado de la Pontificia Universidad Católica de Chile, señor Carlos Amunátegui Perelló; el 
+Gerente de Asuntos Gubernamentales y Políticas Públicas para el Cono Sur (Chile-
+Argentina) de Salesforce, señor Marcelo Guajardo Torrealba.
+III.- ACTAS
+Las actas de las sesiones 67ª, 68ª y 69ª se declararon reglamentariamente 
+aprobadas.
+El acta de la sesión 70ª se puso a disposición de las señoras diputadas y señores 
+diputados.
+IV.- CUENTA:
+Se recibieron los siguientes documentos:
+1.- Oficio de S.E. el Presidente de la República mediante el cual retira y hace 
+presente la urgencia calificada de "simple" para el despacho del proyecto de ley que regula 
+los sistemas de inteligencia artificial, la robótica y las tecnologías conexas, en sus distintos 
+ámbitos de aplicación (boletín N° 15869-19) (refundido con boletín N° 16821-19).
+A sus antecedentes
+2.- Comunicación del Jefe de la Bancada de Diputados UDI, por la que informa que 
+el diputado Daniel Lilayú será reemplazado, en esta sesión, por el diputado Marco Antonio 
+Sulantay.
+Se tuvo presente
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 26/08/2024 18:37:25 CLT
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: E86B8CAE0FE91B96
+--- PÁGINA 2 ---
+3.- Oficio del Secretario General de la Cámara de Diputados, mediante el cual 
+comunica que la diputada Carolina Tello será reemplazada, en forma permanente en esta 
+Comisión, por la diputada Marcela Riquelme.
+Se tomó conocimiento
+4.- Correo electrónico de la secretaria de gabinete de la Ministra de Ciencia, 
+Tecnología, Conocimiento e Innovación, por medio del cual excusa la inasistencia de la 
+Ministra Aisén Etcheverry a esta sesión por compromisos adquiridos con anterioridad; no 
+obstante, informa que asistirá la asesora legislativa Macarena Galaz.
+Se tomó conocimiento
+5.- Oficio N° 18020 del Director General del Consejo para la Transparencia, señor 
+David Ibaceta Medina, a través del cual, en virtud de lo dispuesto en el literal f) del artículo 
+33 de la Ley de Transparencia de la Función Pública y de Acceso a la Información de la 
+Administración del Estado, aprobada por el artículo primero de la Ley N°20.285, que faculta 
+al Consejo para la Transparencia para proponer al Congreso Nacional, las normas, 
+instructivos y demás perfeccionamientos normativos para asegurar la transparencia y el 
+acceso a la información, y atendido que las materias que se tratan en él se vinculan con las 
+funciones y atribuciones de esa Corporación, y en cumplimiento del acuerdo del Consejo 
+Directivo de esa Corporación, adoptado en su sesión ordinaria N°1.456, solicita considerar 
+invitar al Consejo para la Transparencia en el marco de la tramitación legislativa del 
+proyecto de ley que regula los sistemas de inteligencia artificial (boletines Nº 16821-19 y Nº 
+15869-19, refundidos).
+Se tomó conocimiento
+V.- ACUERDOS
+Se adoptaron los siguientes acuerdos:
+1.- Oficiar a todas las Universidades del país, solicitando que remitan a esta 
+Comisión, un resumen de los proyectos de investigación que actualmente se están 
+desarrollando, que estén ligados al área de inteligencia artificial.
+2.- Votar el día 28 de agosto, en general, el proyecto de ley, de origen en un mensaje, 
+que regula los sistemas de inteligencia artificial (boletín Nº 16821-19) y una moción, que 
+regula los sistemas de inteligencia artificial, la robótica y las tecnologías conexas, en sus 
+distintos ámbitos de aplicación (boletín Nº 15869-19), refundidos, en primer trámite 
+constitucional, con urgencia calificada de “simple”.
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 19:39 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+2
+--- PÁGINA 3 ---
+COMISIÓN DE FUTURO, CIENCIAS, TECNOLOGIA, CONOCIMIENTO E
+INNOVACIÓN 
+Sesión 71ª
+Celebrada en miércoles 7 de agosto de 2024, de 17:35 a 19:39
+horas.
+I. APERTURA DE LA SESIÓN
+-Se abrió la sesión a las 17:35 horas.
+El señor AEDO (Presidente).- En el nombre de Dios y de la 
+Patria, se abre la sesión.
+II. ACTAS
+El señor AEDO (Presidente).- Las actas de las sesiones 67ª, 
+68a y 69a quedan reglamentariamente aprobadas.
+El acta de la sesión 70ª queda a disposición de las y los 
+integrantes de la Comisión.
+III.CUENTA
+El señor AEDO (Presidente).- La señora Secretaria dará 
+lectura a la Cuenta.
+-La señora FREDES, doña María Soledad (Secretaria), da 
+lectura a la Cuenta.
+El señor AEDO (Presidente).- Muchas gracias.
+Ofrezco la palabra sobre la cuenta.
+Ofrezco la palabra sobre puntos varios.
+Tiene la palabra el diputado Kaiser.
+El señor KAISER.- Muchas gracias, señor Presidente.
+Me interesa que a esta Comisión se haga llegar, de parte de 
+las distintas universidades que reciben dinero fiscal, un 
+resumen 
+de 
+los 
+proyectos 
+de 
+investigación 
+que 
+están 
+desarrollando en el área de la inteligencia artificial, si los 
+estuvieren desarrollando.
+Gracias, Presidente.
+3
+--- PÁGINA 4 ---
+El señor AEDO (Presidente).- Tiene la palabra la diputada 
+Yeomans.
+La señora YEOMANS (doña Gael).- Presidente, ¿el oficio es 
+para todas las universidades que reciben dinero del Estado, 
+como, por ejemplo, por concepto de gratuidad o algo así?
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Kaiser.
+El señor KAISER.- Me refiero a todas las universidades que 
+tengan que responder por aquellos recursos públicos que se les 
+estén entregando. Ello también incluye a aquellas que están 
+recibiendo dinero por gratuidad o lo que fuere.
+Tengo entendido que la Contraloría General de la República 
+ha determinado que, en ese caso, podemos oficiar para 
+determinar cuáles son sus actividades docentes en esta materia.
+Gracias, Presidente.
+El señor AEDO (Presidente).- Entonces, solo para clarificar, 
+entiendo que no solo hablamos de universidades estatales, sino 
+de todas las que reciban recursos públicos y que estén 
+desarrollando investigaciones sobre este tema, incluso las 
+privadas.
+¿Lo puede pedir, Secretaria?
+La señora FREDES, doña María Soledad (Secretaria).- Sí, 
+Presidente.
+El señor AEDO (Presidente).- ¿Alguien más quiere agregar algo 
+en puntos varios?
+Tiene la palabra la señora Galaz.
+La señora GALAZ, doña Macarena (asesora legislativa del 
+Ministerio 
+de 
+Ciencia, 
+Tecnología, 
+Conocimiento 
+e 
+Innovación).- Por su intermedio, Presidente, diputado Kaiser, 
+¿imagino que también es posible que las universidades privadas 
+que 
+estén 
+desarrollando 
+proyectos 
+relacionados 
+con 
+inteligencia artificial puedan hacer llegar voluntariamente la 
+información?
+El señor AEDO (Presidente).- Mejor pidamos todo.
+IV. ORDEN DEL DÍA
+4
+--- PÁGINA 5 ---
+REGULACIÓN PARA SISTEMAS DE INTELIGENCIA ARTIFICIAL, ROBÓTICA
+Y TECNOLOGÍAS CONEXAS (Primer trámite constitucional y 
+primero reglamentario. Boletines Nos 16821-19 y 15869-19,
+refundidos) (Continuación)
+El señor AEDO (Presidente).- Esta sesión ha sido citada con 
+objeto de continuar con el trámite de audiencias respecto del 
+proyecto de ley, originado en mensaje, que regula los sistemas 
+de inteligencia artificial (boletín Nº 16821-19), y una moción 
+que regula los sistemas de inteligencia artificial, la robótica 
+y las tecnologías conexas, en sus distintos ámbitos de 
+aplicación (boletín Nº 15869-19), refundidos, en primer trámite 
+constitucional, con urgencia calificada de “simple”.
+Para tal efecto, escucharemos a los siguientes invitados: al 
+profesor adjunto de la Escuela de Derecho de la Facultad de 
+Ciencias Sociales y Económicas de la Universidad Católica del 
+Maule, 
+señor 
+Roberto 
+Navarro 
+Dolmestch, 
+recientemente 
+incorporado como académico en la Universidad de Tarapacá, en 
+Iquique, quien se encuentra conectado vía telemática; al 
+profesor titular de derecho 
+privado de la Pontificia 
+Universidad Católica de Chile, señor Carlos Amunátegui Perelló; 
+al gerente de Asuntos Gubernamentales y Políticas Públicas para 
+el Cono Sur (Chile-Argentina) de Salesforce, señor Marcelo 
+Guajardo Torrealba; y a la asesora legislativa del Ministerio 
+de Ciencias, Tecnología, Conocimiento e Innovación, señorita 
+Macarena Galaz.
+Señor Navarro, tiene la palabra.
+El señor NAVARRO (expositor) [vía telemática].- Muchas 
+gracias, señor Presidente.
+Por su intermedio, saludo a todas las personas que están 
+participando en esta Comisión y agradezco la invitación.
+Solo quiero aclarar que me acabo de incorporar ahora a la 
+Universidad de Tarapacá, así que estoy desde Iquique 
+participando en esta sesión. Agradezco la gentileza de haber 
+permitido esta comparecencia a través de videoconferencia.
+En relación con el proyecto, señor Presidente, agradecería 
+que me autorice a compartir pantalla para mostrar una 
+presentación en PowerPoint.
+El señor AEDO (Presidente).- Sí, lo están autorizando.
+El señor NAVARRO (expositor) [vía telemática].- Gracias.
+En relación con la invitación que se me ha formulado, hay 
+algunas ideas que me gustaría compartir con esta Comisión y 
+con los honorables diputados que la componen. Al respecto, 
+parto diciendo, como una cosa introductoria, pero que es 
+necesario aclarar para efectos de lo que posteriormente se 
+dirá, que la principal característica de la inteligencia
+5
+--- PÁGINA 6 ---
+artificial es que es un conjunto variopinto de tecnologías que 
+permite que las máquinas ejecuten funciones que, hasta el 
+surgimiento de estas tecnologías, eran de monopolio exclusivo 
+de las personas. Atendiendo a nuestras capacidades cognitivas, 
+que solo nosotros podíamos desarrollar…
+El señor AEDO (Presidente).- Estimado, profesor, no estamos 
+viendo su presentación.
+El señor NAVARRO (expositor) [vía telemática].- Gracias, 
+señor Presidente.
+Entonces, lo que estaba diciendo es que esta característica 
+especial de las tecnologías de inteligencia artificial permite 
+que las máquinas hagan cosas que, en principio, solo nosotros 
+podríamos hacer, atendidas nuestras capacidades cognitivas.
+Esa característica de la tecnología permite que nosotros, 
+los seres humanos, podamos delegar a las máquinas algunas de 
+estas funciones que eran de nuestro monopolio exclusivo, como 
+tomar decisiones, hacer predicciones y llegar a conclusiones.
+Todas esas cosas que antes solo podíamos hacer nosotros ahora 
+podemos delegárselas, con diferentes niveles, a la inteligencia 
+artificial.
+En un estado futuro de la inteligencia artificial, teórico 
+por el momento, vamos a poder delegar, en principio, si no 
+todas, prácticamente todas las funciones que hoy desarrollan 
+personas. Por el momento, con el estado actual de desarrollo 
+de la tecnología, esa delegación es todavía limitada, 
+evidentemente, pero, de todos modos, es muy innovadora respecto 
+de la situación de hace treinta años solamente, por ejemplo.
+Por 
+tanto, 
+estos 
+desarrollos 
+tecnológicos 
+permiten 
+entregarles ciertas cualidades de autonomía a las máquinas, es 
+decir, de tomar cursos de acción en forma automatizada; ciertas 
+capacidades o cualidades de interactividad, es decir, de 
+vincularse bidireccionalmente con el medio en el que las 
+máquinas interactúan, y ciertas cualidades de adaptabilidad, 
+esto es, la capacidad de las máquinas de decidir cursos de 
+acción distintos en función de los estímulos que están 
+recibiendo del medio con el que están interactuando.
+Evidentemente, se ha producido una enorme inversión en 
+inteligencia artificial y esto ha producido un desarrollo 
+acelerado de este tipo de tecnologías. Este fenómeno comienza 
+después de los inviernos de inteligencia artificial, a finales 
+de la década de 1990 y a principios del siglo XXI, con una 
+fuerte inversión en inteligencia artificial destinada a usos 
+de defensa. Posteriormente, pasa al desarrollo de tecnologías 
+fuera del ámbito de defensa propiamente tal.
+Esta fuerte inversión en inteligencia artificial se explica, 
+básicamente, 
+porque 
+la 
+inteligencia 
+artificial 
+es 
+una 
+tecnología altamente funcional al sistema capitalista; es 
+decir, le sirve al sistema capitalista, y eso es probablemente
+6
+--- PÁGINA 7 ---
+lo que explica esta fuerte inversión en términos de 
+investigación y desarrollo sobre ella.
+La inteligencia artificial es un factor de disrupción, por 
+un lado, y de transformación, por otro. Es disruptiva porque 
+tiene la capacidad de modificar paradigmas, tiene la capacidad 
+de modificar las estructuras analíticas y de pensamiento sobre 
+las cuales hemos trabajado hasta el momento como especie. Por 
+tanto, tiene esta capacidad de modificar el mundo que conocemos 
+en términos de sus relaciones. Tienen, por ejemplo, la 
+capacidad de modificar las formas de comunicación, las formas 
+de gestión de proyectos o de grupos humanos.
+Pero, por otro lado, es también transformadora, porque tiene 
+la capacidad de profundizar los esquemas productivos y la 
+desregulación de capital propio del capitalismo. De hecho, un 
+grupo de autores habla de un capitalismo de inteligencia 
+artificial, que sería un modelo económico y de relaciones 
+sociales, culturales e ideológicas parecido al capitalismo 
+actual, pero profundizado; es decir, llevado a un extremo en 
+términos de, por ejemplo, la acumulación del capital. Se 
+plantearía una sobreacumulación de capital. En términos de la 
+relación de capital con trabajo, por ejemplo, se produciría 
+una sobretensión mucho mayor de la que se produce actualmente.
+Los proyectos de ley que esta comisión está abocada a conocer 
+y sobre la cual trata esta presentación están fuertemente 
+basados y han tomado como modelo el proyecto –ya ley- europeo 
+de inteligencia artificial.
+En este punto, me parece necesario, señorías, hacer una 
+primera advertencia: considero que no es del todo recomendable 
+adoptar la estrategia europea sin mayor crítica, porque nuestra 
+realidad es distinta a la europea.
+Desde el punto de vista jurídico, que es lo que a mí me 
+convoca, en el sistema europeo existe un robusto sistema de 
+protección de derechos fundamentales, de garantías de derechos 
+fundamentales, del cual nosotros carecemos. Por ejemplo, toda 
+la robusta protección europea sobre el derecho a la intimidad 
+o privacidad, del cual nosotros carecemos, y en general de 
+lógicas de derecho de los cuales nosotros también carecemos.
+Por tanto, los rendimientos que la ley europea pueda tener 
+en Europa, desde el punto de vista del fenómeno jurídico, no 
+necesariamente son trasplantables o extrapolables a nuestra 
+realidad. Dicho de otra manera, adoptar sin más instrumentos 
+adoptados por la ley europea e incorporarlos a nuestro 
+ordenamiento jurídico puede ser una estrategia que nos conduzca 
+a errores o a una ley que probablemente pueda no llegar a ser 
+efectiva, porque, por ejemplo, carecemos de este sistema de 
+garantías.
+Por tanto, para analizar y para pensar cuál sería la mejor 
+regulación 
+para 
+nosotros, 
+tenemos 
+que 
+considerar 
+necesariamente nuestro escaso nivel de “garantización” de 
+derechos. Nos sacamos mucho con establecer una regulación sobre 
+inteligencia artificial si todavía no tenemos consensos,
+7
+--- PÁGINA 8 ---
+legislativamente expresados, en qué significa la intimidad y 
+cómo se protege la intimidad, por ejemplo.
+Junto con ese escaso nivel de garantía de derechos, el 
+enfoque adecuado, a mi juicio, de una ley chilena sobre 
+inteligencia artificial tiene que considerar, además, una 
+segunda perspectiva, que es que entre nosotros no se ha 
+generado aún del todo un relativo consenso sobre la restricción 
+de derechos fundamentales.
+Ahí estamos al debe, porque hemos concentrado nuestros 
+esfuerzos, como comunidad política, en definir el contenido de 
+los derechos fundamentales y en tratar de hacerlos efectivos, 
+pero no hemos concentrado aún los esfuerzos en estudiar y 
+definir bajo qué criterios y bajo qué parámetros la restricción 
+de derechos fundamentales es legítima.
+En este sentido, por ejemplo, el desarrollo jurisprudencial 
+del tribunal constitucional, no ha terminado aún de ser 
+construido y existen todavía ciertos problemas cuando tenemos 
+que resolver casos en los que lo que debe decidirse es si una 
+restricción de derechos fundamentales es o no es legítima o 
+constitucionalmente admisible.
+Eso en Europa ya está más o menos avanzado, están más 
+adelantados que nosotros en el consenso sobre criterios de 
+restricción.
+Una primera crítica estructural que me gustaría compartir 
+con ustedes esta tarde, con relación a los proyectos de ley 
+que están ahora ya refundidos, es que, dado que estos 
+elementos: la ausencia de un sistema robusto de restricción de 
+derechos y la ausencia de consenso sobre la restricción de 
+derechos fundamentales, no son necesariamente considerados por 
+los proyectos de ley.
+No considerar esos dos elementos aumenta la probabilidad de 
+que una ley que llegue a aprobarse en los términos en los 
+cuales está actualmente redactada, se transforme en una ley 
+meramente declarativa y simbólica, sin muchas posibilidades de 
+aplicarse en forma práctica o sin muchas posibilidades de 
+resolver adecuadamente conflictos que se pudieran generar.
+La 
+inteligencia 
+artificial, 
+señorías, 
+puede 
+generar 
+relaciones conflictivas con el sistema democrático, con los 
+derechos fundamentales, con las estructuras económicas, es 
+decir, con una serie de ámbitos de la vida de las personas.
+Esas relaciones conflictivas se pueden analizar desde una 
+perspectiva, que yo llamo micro, que es, por ejemplo, el típico 
+análisis de cómo la inteligencia artificial puede afectar la 
+intimidad de las personas o cómo la inteligencia artificial 
+puede influir, manipular procesos electorales a través de la 
+decisión de los ciudadanos y ciudadanas. Sin embargo, para dar 
+cuenta adecuadamente de la realidad de la inteligencia 
+artificial, se necesita también una segunda perspectiva, que 
+podríamos llamar estructural.
+En el caso de la relación entre inteligencia artificial y 
+derechos 
+fundamentales, 
+por 
+ejemplo, 
+esta 
+perspectiva
+8
+--- PÁGINA 9 ---
+estructural muestra que la inteligencia artificial puede 
+alterar las condiciones necesarias para la vigencia de todos 
+los derechos fundamentales; no ya un derecho en particular, 
+sino todos los derechos fundamentales. Por lo tanto, hay que 
+tener conciencia de esta segunda forma de ver el problema.
+En el caso de la relación entre inteligencia artificial y 
+sistema político, el problema no es solo cómo la inteligencia 
+artificial puede ser utilizada para manipular a los electores 
+y electoras, sino también que la inteligencia artificial puede 
+incidir positiva o negativamente en el conjunto de relaciones 
+del sistema democrático.
+Por ejemplo, en la adhesión de los ciudadanos al propio 
+sistema democrático, o en cuestiones como, por ejemplo, la 
+anomia, es decir, esta falta de identificación de los 
+ciudadanos con el contenido de la norma y, por lo tanto, con 
+su vigencia.
+Una segunda crítica estructural, que a mí me parece relevante 
+compartir con ustedes, dice relación con que los proyectos de 
+ley que se están actualmente discutiendo en nuestro Congreso 
+Nacional están enfocados solamente en la relación entre la 
+inteligencia artificial y los derechos fundamentales, pero 
+omiten otros aspectos estructurales, como las relaciones 
+económicas, las relaciones sociales e incluso los aspectos 
+culturales que la inteligencia artificial puede poner en tela 
+de juicio.
+Por esa razón podría ser adecuado plantearse la posibilidad 
+de ampliar el foco de este proyecto de ley, para que no solo 
+esté vinculado con los derechos fundamentales, sino que también 
+contenga algunas normas sobre otros ámbitos de la vida en los 
+que influye la inteligencia artificial.
+En los proyectos de ley, particularmente el mensaje de su 
+excelencia el Presidente de la República, se incorpora, de una 
+u otra manera, tanto el aspecto, la perspectiva micro como la 
+perspectiva macro, pero no logra poner o no logra posicionarse 
+claramente en una u otra perspectiva, y eso genera algunos 
+problemas interpretativos que podrían producirse en el caso de 
+ser aprobada como ley.
+Por ejemplo, el artículo 1 de este mensaje define que los 
+sistemas de inteligencia artificial tienen que estar “al 
+servicio del ser humano”, porque tienen que ser “respetuosos 
+de los principios democráticos” del Estado de derecho.
+Si uno lee este artículo 1, uno podría decir o anticipar que 
+el proyecto completo adhiere a esta visión sistémica o a esta 
+visión macro de los riesgos, que genera la inteligencia 
+artificial.
+Lo mismo, por ejemplo, cuando este proyecto de ley, en su 
+artículo 5, literal a), define los sistemas de riesgo 
+inaceptable, los define como aquellos “incompatibles con el 
+respeto y garantía de los derechos fundamentales”, lo que 
+parece muy bien. Sin embargo, cuando el propio proyecto define,
+9
+--- PÁGINA 10 ---
+en el artículo 6, los sistemas de riesgo inaceptable, los 
+reduce a una numeración taxativa.
+Por lo tanto, es efectivo que todos estos casos que están 
+incluidos en el artículo 6 responden a esta idea matriz de la 
+incompatibilidad con los derechos fundamentales. Sin embargo, 
+no solo estos que están en el artículo 6 son incompatibles con 
+los derechos fundamentales. Dicho de otra manera, puede haber 
+casos de otros sistemas que sean incompatibles con los derechos 
+fundamentales y que no estarían dentro de esta clasificación, 
+de esta numeración taxativa del artículo 6 del proyecto.
+De hecho, si me lo permiten, puedo decir que la propia 
+definición de un sistema de inteligencia artificial de riesgo 
+inaceptable es una definición compleja, difícil de interpretar. 
+Porque la lógica que está detrás de esta iniciativa ¿significa 
+que acoge la tradicional distinción entre una restricción de 
+derechos fundamentales, que en general está permitida bajo 
+ciertos supuestos, versus una violación, es decir, una negación 
+definitiva del derecho fundamental que evidentemente está, en 
+un sistema democrático, prohibida?
+Para interpretar la definición de sistema de alto riesgo, 
+¿tenemos que recurrir al concepto de contenido esencial al que 
+se refiere el artículo 19, número 26° de la Constitución? Estas 
+preguntas no quedan del todo claras y necesariamente van a 
+generar 
+problemas 
+interpretativos. 
+¿Por 
+qué? 
+Porque 
+¿significan estas normas que son los sistemas de riesgo 
+inaceptable aquellos que violan derechos y, por lo tanto, por 
+eso están prohibidos, mientras que los de alto riesgo, que 
+están luego definidos en el proyecto, y de riesgo limitado son 
+aquellos que solo restringen derechos fundamentales?
+Eso no quedó del todo claro en la lógica en la que está 
+planteado en los proyectos. No hay un criterio para poder decir 
+este ámbito son los de riesgo inaceptable, este ámbito 
+específico son los de riesgo alto, y estos son los de riesgo 
+limitado, porque hay cruces entre ellos que no quedan del todo 
+limitados; además, porque, desde una perspectiva estructural, 
+prácticamente cualquier sistema de inteligencia artificial 
+puede llegar a ser incompatible con el respeto y garantías de 
+los derechos fundamentales.
+Por lo tanto, prácticamente cualquier sistema de inteligencia 
+artificial 
+podría 
+calzar 
+en 
+la 
+definición 
+de 
+riesgo 
+inaceptable, pero no está prohibido por no estar incluido en 
+la numeración taxativa del artículo 6. Además, porque, en la 
+lógica ecosistémica de la inteligencia artificial, sistemas 
+aparentemente inocuos pueden generar vulneraciones sistémicas 
+de los derechos fundamentales. Podría darse esta lógica de un 
+sistema que aparenta ser de un riesgo muy controlado o muy 
+limitado 
+y, 
+entonces, 
+eventualmente, 
+por 
+sí 
+mismo 
+o 
+interactuando 
+con 
+otros 
+sistemas, 
+podría 
+generar 
+esta 
+incompatibilidad con los derechos fundamentales.
+¿Pueden los sistemas de alto riesgo, es decir, aquellos que 
+se proponen que estén sometidos a un estricto control 
+administrativo, restringir lícitamente derechos fundamentales?
+10
+--- PÁGINA 11 ---
+Una respuesta interpretativa que uno podría ensayar es que sí, 
+porque si no pudieran afectar derechos fundamentales, serían 
+de riesgo inaceptable.
+Entonces, uno tiene que partir de la base de que los sistemas 
+de alto riesgo que están previstos en los proyectos son 
+sistemas que permiten restringir derechos fundamentales.
+Si eso es así, la siguiente pregunta lógica es ¿hasta qué 
+punto estos sistemas de alto riesgo pueden, lícitamente, 
+interferir en derechos fundamentales?
+Es decir, ¿cuáles son los criterios para delimitar hasta 
+dónde está permitido que esos sistemas restrinjan derechos 
+fundamentales? ¿Cómo hacemos esa medición? ¿Con qué criterio 
+determinamos qué está permitido y qué no? ¿Aplicamos para ello 
+el test de proporcionalidad, por ejemplo, que se ha 
+desarrollado 
+para 
+resolver 
+conflictos 
+entre 
+derechos 
+fundamentales?
+Esas son preguntas que no quedan del todo resueltas en los 
+proyectos, y a lo mejor sería conveniente incorporar alguna 
+disposición para tratar de enfrentar este tipo de dificultades.
+Es cierto que dentro de los proyectos se contempla un 
+criterio, que es el consentimiento informado en sistemas de 
+inteligencia artificial para fines terapéuticos. Hay ahí ya un 
+esbozo de criterio. Pero, evidentemente, este criterio para 
+resolver conflictos de derechos fundamentales con sistemas de 
+inteligencia artificial es un criterio específico para sistemas 
+de inteligencia artificial de carácter terapéutico. Habría que 
+pensar en la posibilidad de ampliar criterios como el de la 
+voluntariedad, que es el criterio que está aquí, a otros casos.
+También uno podría plantearse la pregunta de si sería 
+necesario o conveniente prever alguna garantía jurisdiccional, 
+algún mecanismo de protección de tipo jurisdiccional para las 
+personas frente a la inteligencia artificial.
+En el proyecto está regulado completamente un sistema de 
+control jurisdiccional frente al aparato administrativo, a 
+favor de las empresas desarrolladoras o de las empresas que 
+ponen en el mercado sistemas de inteligencia artificial. Hay 
+una regulación, una reclamación jurisdiccional frente al 
+aparato administrativo.
+La pregunta ahora es: ¿y a los ciudadanos quién los protege? 
+¿Será necesario regular una garantía específica? ¿Basta con 
+las garantías generales previstas en la Constitución, que son 
+las conocidas como recursos de amparo y protección? ¿O este 
+tipo de realidades requiere regulaciones distintas y, por 
+tanto, garantías diseñadas específicamente para resguardar los 
+derechos de los ciudadanos?
+Finalmente, me gustaría compartir con ustedes algunas 
+críticas técnicas -no exhaustivas, desde luego, porque 
+podríamos estar todo el día en eso- sobre estos proyectos de 
+ley.
+11
+--- PÁGINA 12 ---
+La primera es que -ya más o menos está dicho- no es una ley 
+sobre inteligencia artificial, sino que es una ley más bien de 
+protección de derechos fundamentales frente a la inteligencia 
+artificial. Si eso es así, entonces, a mi juicio, falta 
+desarrollar instrumentos y mecanismos de protección o falta 
+ampliar el foco de estos proyectos de ley para incorporar otros 
+aspectos de la vida en la regulación legal.
+¿Por qué? Porque los otros aspectos -como la política, los 
+aspectos económicos, los aspectos culturales, por ejemplo- que 
+podrían verse afectados por la inteligencia artificial 
+evidentemente requieren instrumentos distintos para proteger 
+adecuadamente a las personas frente a esta realidad. Regímenes 
+de responsabilidad, sistemas de integración política, en fin, 
+una serie de otros instrumentos que pudieran ser también 
+adecuados de considerar para incluir en esta regulación más 
+general sobre inteligencia artificial.
+Una segunda crítica es que la técnica legislativa de 
+distinguir tres niveles de riesgo puede ser poco efectiva, 
+porque -algo ya se ha adelantado- es un sistema que requiere 
+de una vasta interpretación jurídica y eso va a generar 
+decisiones 
+jurisdiccionales 
+diferentes, 
+problemas 
+de 
+aplicación de las regulaciones administrativas, etcétera. No 
+considera un enfoque estructural derechamente y no considera 
+riesgos acumulativos de la inteligencia artificial para 
+derechos fundamentales.
+¿Por qué? Porque la técnica de la tripartición de los riesgos 
+que está planteada en los proyectos supone que un sistema de 
+inteligencia artificial es uno individual y tiene sus propios 
+riesgos que es necesario gestionar. Pero en el mundo, en la 
+realidad, la tecnología se interrelaciona una con otra y, por 
+tanto, puede que esta idea de un sistema de inteligencia 
+artificial aislado no pueda llegar a ser aplicada en la 
+práctica.
+Por eso me parece oportuno proponer en este momento, como 
+idea para su consideración, adoptar técnicas adicionales para 
+regular la inteligencia artificial. En ese sentido, creo que 
+el punto central de la discusión está enfocado en dos aspectos: 
+por un lado, la pregunta sobre qué funciones vamos a permitir 
+delegar a la inteligencia artificial y, por otro, con qué nivel 
+o intensidad vamos a permitir esas delegaciones. Es decir, 
+¿vamos a permitir que las máquinas inteligentes lleguen a tomar 
+decisiones como disparar un arma frente a un detenido, por 
+ejemplo? ¿Vamos a permitir que la inteligencia artificial 
+gestione las camas de un hospital y, por tanto, pueda decidir 
+sobre la conexión o desconexión de pacientes en estado 
+terminal? Esas son las preguntas relevantes, creo que ahí es 
+donde hay que atacar. Una regulación jurídica debería poner el 
+acento en establecer límites sobre qué funciones vamos a 
+delegar en la inteligencia artificial y cuáles no estamos 
+dispuestos a permitir esa delegación.
+¿Vamos a delegar o a atribuir a la inteligencia artificial 
+la gestión de sistemas críticos, decisiones que restrinjan 
+derechos fundamentales, decisiones económicas que puedan
+12
+--- PÁGINA 13 ---
+producir un gran impacto? Recordemos que la inteligencia 
+artificial está siendo utilizada ampliamente en los mercados 
+financieros; por tanto, hay cada vez menos participación de 
+agentes humanos en transacciones e, inversamente, cada vez 
+mayor participación de máquinas.
+Entonces, tendríamos dos grupos: las funciones que no 
+podríamos delegar a la inteligencia artificial, para las cuales 
+habría una prohibición, y un segundo grupo con funciones que 
+sí son delegables a la inteligencia artificial, pero dentro de 
+ellas deberíamos establecer niveles de delegación en función 
+de criterios o parámetros de autonomía, interactividad y 
+adaptabilidad. Es decir, menos delegación o más delegación.
+Por ejemplo, sistemas que modifiquen la configuración 
+personal de las personas, sus cosmovisiones, sus referentes 
+identitarios, sus preferencias, estados de ánimo, etcétera; la 
+producción de la muerte o de lesiones físicas o psíquicas a 
+las personas; la alteración de patrones de conducta. En fin, 
+un catálogo de cuestiones sobre las que uno podría decir: 
+“Estas funciones no las vamos a delegar nunca a la inteligencia 
+artificial.”.
+Entonces, dentro de todos estos proyectos de ley podría 
+haber, por ejemplo, una disposición que establezca una primera 
+regla que sería prohibir delegar ciertas facultades o funciones 
+a la inteligencia artificial. Ahí he puesto un catálogo 
+meramente ejemplificativo, que uno puede discutir, porque 
+podría ser relativamente largo.
+Y una segunda disposición general de este proyecto de ley 
+que determina, en el caso de que determinadas funciones sí 
+puedan delegarse a sistemas de inteligencia artificial, 
+incorporar esta idea del test de proporcionalidad y decir: 
+“Esta delegación va a ser más o menos permitida, en términos 
+de su extensión, de su calidad, de su profundidad, en función 
+del beneficio que esa delegación va a poder producir, 
+considerando siempre que para ello hay que sacrificar otros 
+bienes jurídicos.”.
+Eso, señor Presidente, es lo que estaría en condiciones de 
+aportar, por el momento, a esta Comisión.
+Muchas gracias.
+El señor AEDO (Presidente).- Muchas gracias a usted por su 
+exposición.
+Tiene la palabra el diputado Kaiser.
+El señor KAISER.- Gracias, señor Presidente.
+Mi consulta va en dirección al recurso que se podría 
+interponer en contra de uno de estos sistemas, porque un 
+sistema no es una persona natural o una persona jurídica. 
+Tenemos el habeas corpus, tenemos recurso de protección, existe 
+incluso el habeas data a nivel internacional, pero no alcanzan 
+a cubrir aquello que estamos enfrentando en este momento.
+13
+--- PÁGINA 14 ---
+Personalmente, -como verá, estoy muy marcado por las 
+películas de los años noventa- creo que puede ser una amenaza 
+existencial para nuestras sociedades. Todavía no hemos hecho 
+el análisis en profundidad.
+Si mal no recuerdo, en la sesión antepasada vimos las 
+demandas civiles o penales, especialmente las civiles, se podía 
+recurrir contra toda la cadena, ¿contra quién se recurriría 
+personalmente…? Un recurso de protección contra inteligencia 
+artificial, pongámosle el nombre, ¿contra quién se recurriría 
+en esa materia? ¡Porque tú no puedes recurrir contra una 
+máquina! Puedes recurrir contra una persona, contra el 
+responsable, pero contra una máquina, un sistema o un sistema 
+de sistemas que estén interconectados, ¿cómo recurres? ¿Contra 
+quién recurres? ¿Sobre qué base?
+Muchas gracias, señor Presidente.
+El señor AEDO (Presidente).- Tiene la palabra el profesor 
+Navarro.
+El señor NAVARRO (expositor) [vía telemática].- Señor 
+Presidente, por su intermedio, comparto con el diputado los 
+temores que estas nuevas tecnologías plantean y también el 
+problema que usted ha relevado con su pregunta.
+Efectivamente, es un problema y ahí hay que ser cuidadosos 
+en las regulaciones jurídicas relativas, por ejemplo, a los 
+deberes de registro.
+En el consumo de productos alimenticios, por ejemplo, existen 
+deberes de registro, en términos de que uno si compra una 
+galleta, el paquete tiene que decir quién es el productor de 
+esa galleta y cuál es su domicilio, a efectos precisamente de, 
+por ejemplo, presentar una demanda si es que yo me enfermo 
+comiendo las galletas.
+En el caso de los sistemas de inteligencia artificial, y eso 
+está más o menos regulado en los proyectos presentados, hay 
+que ser cuidadosos con estos deberes de registro para que todos 
+sepamos quiénes son finalmente los responsables, en general, 
+no necesariamente jurídicos, pero quiénes son las personas 
+físicas o las empresas que están vinculadas con estos sistemas 
+de inteligencia artificial.
+Sin embargo, uno no puede perder la perspectiva de que 
+siempre hay un punto en el que las regulaciones nacionales 
+dejan de ser efectivas por una sencilla razón: los sistemas de 
+inteligencia artificial se desenvuelven perfectamente a través 
+de las redes de datos, por ejemplo, internet. Y las redes de 
+datos permiten la deslocalización de los fenómenos y, por 
+tanto, yo eventualmente podría ser afectado como ocurre hoy 
+por una inteligencia artificial que opera en otro país al que 
+la 
+jurisdicción 
+chilena 
+no 
+llega 
+por 
+problemas 
+de 
+extraterritorialidad, y es uno de los grandes problemas que la 
+doctrina ha identificado, en términos de que la inteligencia
+14
+--- PÁGINA 15 ---
+artificial en este contexto de interconexión informática 
+evidentemente también pone en tela de juicio la eficacia de 
+las jurisdicciones nacionales.
+Para ir concluyendo quiero agregar como antecedente que en 
+el derecho comparado hay un grupo importante de autores que, 
+incluso, ya están pensando en atribuirle personalidad jurídica 
+a la inteligencia artificial, es decir, considerarla como una 
+especie de persona -ficticia, desde luego, como son las 
+personas jurídicas- y, de hecho, hacerlas directamente 
+responsables. Yo no estoy convencido de esa opción, creo que 
+sería una estrategia esencialmente en contra del ser humano 
+andar reconociendo cosas ficticias como seres humanos, pero lo 
+doy como dato.
+Efectivamente, hay que ser muy riguroso en los sistemas de 
+registro y control administrativo para saber contra quién 
+recurrir frente a una agresión o una lesión de un derecho 
+fundamental por parte de un sistema de inteligencia artificial.
+El señor AEDO (Presidente).- La última pregunta, diputado 
+Kaiser, para luego seguir con las exposiciones, por favor.
+Tiene la palabra.
+El señor KAISER.- Señor Presidente, quiero plantear lo 
+siguiente.
+Estamos hablando de sistemas autónomos, los que no pueden, 
+en mi opinión, jamás ser ciento por ciento autónomos. Tiene 
+que existir una posibilidad tanto de quien está a cargo o quien 
+es su dueño, o como quieran, de desactivarlo, como de un 
+tercero. Es decir, un sistema autónomo tiene que poder ser 
+apagado, de manera análoga o de forma que el propio sistema 
+autónomo no se pueda sustraer a esa acción.
+La pregunta es si a través de lo que es el internet hoy en 
+día eso es factible y, si no es factible, entonces 
+evidentemente entramos en la lógica de las preguntas que había 
+planteado nuestro estimadísimo exponente, o sea, ¿en qué campos 
+no puede de ninguna manera, jamás, operar una inteligencia 
+artificial?, es decir, ¿dónde nos vamos a quedar análogos, 
+ciento por ciento análogos, por el riesgo que significaría una 
+inteligencia artificial desatada?
+Muchísimas gracias, señor Presidente.
+El señor AEDO (Presidente).- Profesor, ¿quiere agregar algo 
+respecto de lo que ha planteado el diputado Kaiser?
+Tiene la palabra.
+El señor NAVARRO (expositor) [vía telemática].- Señor 
+Presidente, solo quiero decir que estoy de acuerdo con el 
+diputado Kaiser.
+15
+--- PÁGINA 16 ---
+Efectivamente, esos son los riesgos de la inteligencia 
+artificial. Yo creo que, tal como lo ha apuntado, el tema 
+central está en decidir qué ámbitos vamos a delegar a la 
+inteligencia artificial y qué cosas nunca le vamos a entregar 
+a la inteligencia artificial.
+El señor AEDO (Presidente).- Perfecto, muchísimas gracias.
+A continuación, ofrezco la palabra al profesor Carlos 
+Amunátegui Perelló, profesor titular de Derecho Privado de la 
+Pontificia Universidad Católica de Chile.
+El señor AMUNÁTEGUI (expositor).- Muchísimas gracias, señor 
+Presidente.
+Buenos días, diputados y diputadas.
+Bien, vamos a hablar del proyecto de ley de inteligencia 
+artificial, de este proyecto refundido, una iniciativa 
+importante y sumamente interesante.
+Antes de todo, hice una minuta con unos comentarios sobre la 
+ley y distintos puntos que yo encuentro problemáticos. Propongo 
+en esta minuta redacciones alternativas, mi idea es básicamente 
+aportar cuando un punto no está bien. No voy a hablar de todos 
+los puntos, porque para eso hice un documento escrito y para 
+no darles la lata, entre otras cosas.
+En primer lugar, este es un proyecto de ley bastante 
+interesante desde mi humilde punto de vista. ¿Por qué? Es un 
+topos, un lugar sumamente común, decir que hay una alternativa 
+entre Estado y mercado, y la verdad es que esto no es cierto, 
+esto es una simpleza. Los mercados existen cuando hay 
+regulación; regular no es en sí mismo contrario al mercado, 
+puede ser positivo para este. A ver, ¿quién se compraría una 
+casa si no hubiera un Conservador de Bienes Raíces o una 
+regulación del contrato de compraventa o una regulación del 
+dinero o una regulación del crédito? La regulación permite el 
+mercado; lo que sucede es que una regulación asfixiante mata 
+un mercado, pero la anomia tampoco es buena para el mercado.
+En este sentido, creo que este proyecto de ley es un buen 
+punto de equilibrio. No es una iniciativa que vaya a afectar 
+el potencial de innovación y de atracción de industria de 
+inteligencia artificial al país, en un sentido negativo, pero 
+más bien, al otorgar reglas claras y un marco jurídico sensato, 
+permite que haya inversión y, en último término, desarrollo 
+económico. Tenemos muchas ventajas comparativas a nivel 
+continental: energía verde, buenos ingenieros -un poco caros, 
+pero buenos ingenieros-, una red 5G que funciona; contamos con 
+muchas ventajas comparativas y, en este sentido, este proyecto 
+de ley permite aprovecharlas. Voy a hacer una especial mención 
+a que, de hecho, ordena los sandbox regulatorios, lo que es un 
+avance.
+Aunque, en términos generales, lo encuentre un buen proyecto 
+de ley, en específico, cuando entramos a picar, yo creo que
+16
+--- PÁGINA 17 ---
+tiene problemas como todas las cosas del mundo. Todo puede ser 
+corregido y entiendo que, además, esa es la misión de la Cámara: 
+corregir estas cosas. Esta es la hora de las indicaciones.
+El proyecto de ley, básicamente, está armado de la siguiente 
+manera: la mayor parte del proyecto está tomado del Reglamento 
+de Inteligencia Artificial de la Unión Europea, recientemente 
+aprobado. Hay una parte relativa a principios que son, 
+esencialmente, la transposición de los principios Unesco, de 
+2021, los que están bastante bien redactados. No está mal. Y 
+existen algunas adendas que son sumamente interesantes.
+Para mí, el más destacable, el artículo 31, que establece 
+una suerte de derecho a entrenar. Permite entrenar modelos de 
+inteligencia artificial, porque, ¡ojo!, los modelos de 
+inteligencia artificial solo funcionan si tienes muchos datos 
+y si los entrenas con esos datos, y permite entrenar modelos 
+de inteligencia artificial de una manera bastante libre. En 
+concreto, este artículo, -yo no sabía de dónde lo habían 
+sacado, tuve que buscarlo- aparentemente provendría del 
+artículo 30/4 de la ley de copyright japonesa. De hecho, me 
+sorprendió muy para bien. En este punto se aleja de la 
+regulación europea pertinente, que solo establece un derecho a 
+la minería de datos muy restringido para investigación. Esta 
+es la directiva europea de 2019/790, artículos 3° y 4°.
+Ahora, ¿qué pienso que debería ser corregido? En primer 
+lugar, hay algunas correcciones en el ámbito de la aplicación 
+que podrían ser mejoradas, pero creo que uno de los defectos 
+más fuertes está en el campo de las definiciones.
+El Reglamento de Inteligencia Artificial de la Unión Europea 
+está construido para regir a 27 países distintos, los cuales 
+tienen 27 regímenes jurídicos diferentes, ergo, hay mucha 
+dispersión legislativa y dispersión jurídica. Por eso es que 
+el reglamento europeo requiere una cantidad alucinante de 
+definiciones. Nosotros tenemos un solo sistema jurídico y una 
+tradición 
+jurisprudencial, 
+no 
+la 
+desaprovechemos; 
+no 
+necesitamos todas estas definiciones que, en ocasiones, son 
+disruptivas con nuestra tradición.
+Un ejemplo de eso es la definición de riesgo. No es necesario 
+definir el riesgo, pues hay una larga tradición jurisprudencial 
+que lo hace, entre ellos ingentes textos de derecho civil. No 
+necesitamos recurrir a una definición legal, que es más 
+imperfecta que la que utiliza hoy día la jurisprudencia.
+Como dijo el jurista Javoleno: “Omnis definitio in iure 
+civili periculosa est”, Digesto 17202. Su traducción es “toda 
+definición en derecho civil es peligrosa”. Es decir, menos 
+definiciones sería bueno.
+Otro 
+tanto 
+tendríamos 
+con 
+la 
+definición 
+de 
+riesgo 
+significativo, que ni siquiera se usa dentro del cuerpo 
+legislado.
+Hay varias definiciones que no se usan. O sea, se definen, 
+pero después quedan en el aire, por lo que habría que borrarlas.
+17
+--- PÁGINA 18 ---
+Otra definición que presenta problemas es la de persona 
+afectada. ¿Para qué vamos a definir persona afectada?
+Esa es una definición que no se encuentra en el proyecto 
+europeo, es un poco innecesaria y limita, como persona 
+afectada, a la persona natural. ¿Por qué? ¿No se pueden afectar 
+los derechos de personas jurídicas? ¡En qué planeta! Sería una 
+discriminación arbitraria de rango legal.
+Hay más definiciones, como el sistema de reconocimiento de 
+emociones, pero pasaré a una más o menos grave.
+Incidente grave es probablemente la peor definición que 
+contiene el proyecto de ley, la cual se encuentra en el artículo 
+3, número 18. Esta definición fue tomada del artículo 3, número 
+(49), del reglamento europeo, pero se realizaron unas 
+variaciones que no son una buena idea.
+El artículo 3 del proyecto de ley señala que todo incidente 
+o defecto de funcionamiento de un sistema de IA que, directa o 
+indirectamente, tenga, pueda haber tenido o pueda tener alguna 
+de las siguientes consecuencias, y luego enumera dichas 
+consecuencias.
+Para contextualizar, en derecho civil normalmente un daño 
+tiene que ser causado por una acción. Cuando decimos directo, 
+entendemos que es causa directa. Muy excepcionalmente, en el 
+caso de los actos dolosos, se admite que las consecuencias 
+indirectas -cuando sean previsibles, cuando alguien las haya 
+podido imaginar- generen responsabilidad.
+El problema es que aquí estamos diciendo directo e indirecto; 
+tenga, pueda haber tenido o pueda tener alguna de las 
+siguientes consecuencias. Entendamos que aquí se rompe el 
+vínculo de causalidad. Esto equivale a decir que el carpintero 
+que hace la cama es responsable del adulterio -este es un 
+ejemplo típico del derecho penal- o que un cantante de 
+canciones aburridas es responsable de que el conductor se 
+duerma y atropelle a un peatón.
+Por favor, no nos perdamos del vínculo causal.
+Está bien la responsabilidad objetiva -yo soy un gran fan de 
+ella-, pero solo se desentiende de la culpa y del dolo. De 
+hecho, la utilizamos en el derecho aeronáutico y en un montón 
+de disposiciones, no es ajena a nuestro sistema jurídico. Lo 
+que pasa es que la responsabilidad objetiva mantiene un 
+estricto vínculo de causalidad, que es lo que tenemos que 
+mantener.
+Por lo mismo, les propongo una redacción alternativa: todo 
+incidente o defecto de funcionamiento de un sistema de IA que 
+directa, indirecta y previsiblemente tenga alguna de las 
+siguientes consecuencias.
+Hay varias cosas más que podría comentar, pero dejemos de 
+dar la lata con esto de las definiciones.
+Vamos a los principios.
+Los principios en general están bastante bien en el proyecto. 
+Son principios tomados de la Organización de las Naciones
+18
+--- PÁGINA 19 ---
+Unidas para la Educación, la Ciencia y la Cultura (Unesco), 
+los cuales están muy bien elaborados. Conozco a la gente que 
+los elaboró y están bien hechos, están de acuerdo con el 
+estándar internacional más alto. Hay solo un principio que 
+considero que debería ser modificado: el principio de 
+transparencia y explicabilidad.
+Es cierto que normalmente suele estar contenido en los 
+documentos 
+de 
+instructivos 
+éticos 
+sobre 
+inteligencia 
+artificial. Sin embargo, ¿cómo funciona hoy día un sistema de 
+inteligencia artificial? ¿Cómo funciona un modelo? Un modelo 
+se construye imitando cómo se pensaba que operaba el cerebro 
+por allá por 1943, se hacen neuronas artificiales que se 
+conectan en capas y el modelo se entrena con datos.
+Por ejemplo, ¿cuántos parámetros tiene un modelo? ChatGPT 3 
+tiene cien mil millones de parámetros. Cada neurona tiene unas 
+diez mil conexiones, así que cien mil millones partido por diez 
+mil, da una cifra bien grande. Por su parte, ChatGPT 4 tiene 
+un trillón estadounidense, o sea, un billón nuestro, y ChatGPT 
+5 
+-que 
+probablemente 
+sale 
+en 
+noviembre- 
+no 
+sabemos 
+específicamente cuántos parámetros tendrá, pero sí que será 
+una gran cantidad.
+Entonces, ¿qué significa que tenga un trillón de parámetros? 
+Significa que cuando toma una decisión, puede haber 750.000 
+razones para tomar esa decisión, pero cada una de esas razones 
+pesa 0,00002. ¿Alguien entiende esto? No. Un jurista no lo 
+entiende, pero un analista de datos tampoco. Nadie lo entiende 
+porque no es interpretable.
+Entonces, el problema de la explicabilidad es que tienes dos 
+alternativas: le das una explicación matemática incomprensible 
+aun para los mejores analistas de datos o cuentas un lindo 
+cuento.
+Nuestro sistema nervioso central funciona de manera parecida. 
+La diferencia es que nosotros nos podemos contar un cuento de 
+por qué hacemos las cosas, el cual es razonable y se condice 
+con nuestra conciencia. Sin embargo, si tuviésemos que explorar 
+un cerebro para intentar entender por qué tomó tal decisión, 
+sería incomprensible.
+Más que transparencia y explicabilidad, habría que pedir es 
+transparencia e identificación. Es decir, que se sepa que usted 
+está interactuando con un sistema de inteligencia artificial y 
+que el sistema de inteligencia artificial se identifique como 
+tal cuando interactúe con un ser humano. Creo que esto sería 
+más esperable y razonable.
+Hago la prevención de que esta es una opinión minoritaria 
+internacionalmente.
+Otro principio del proyecto es protección de derechos de 
+consumidores. Excelente principio, pero tengamos en cuenta lo 
+siguiente.
+La ley N° 19.496, que establece normas sobre protección de 
+los derechos de los consumidores, requiere que los contratantes 
+se graven económicamente, o sea, que tienen que ser actos
+19
+--- PÁGINA 20 ---
+jurídicos a título oneroso, como señala el artículo 1°, número 
+1. Es más, el reglamento que se aprobó en 2021, en su artículo 
+2°, señala que solo se protege a los consumidores cuando las 
+relaciones son bajo precio. ¿Cuál es el problema de esto? En 
+las relaciones digitales muchas veces hay una aparente 
+gratuidad. Les digo aparente porque, aunque el servicio se 
+presenta como gratuito, está captando datos a cambio de esto, 
+está explotando una posición.
+¿Cuál es el inconveniente de aquello? Aunque consagremos este 
+principio de protección a los consumidores, en la gran mayoría 
+de las relaciones que entablamos con inteligencias artificiales 
+no tenemos un estatuto de consumidores. No somos consumidores 
+de Instagram, WhatsApp, Facebook; no somos consumidores de 
+nada. ¿Por qué? Porque nuestra legislación de consumo está un 
+poco anticuada.
+Mi humilde consejo es: denles a los usuarios de inteligencia 
+artificial la misma protección que se les otorga a los 
+consumidores. Esto se puede hacer, simplemente se debería 
+alterar un poquito la redacción. Creo que podría ser una mejor 
+idea.
+¿Qué más les puedo comentar? Básicamente, se plantean cuatro 
+tipos de regulaciones para inteligencias artificiales según su 
+grado de riesgo. Algunos son sistemas de riesgo inaceptables, 
+es decir, sistemas que, por su operatividad, tienden a violar 
+derechos fundamentales.
+Ahora, hay algunos defectos acá. Por ejemplo, al sistema 
+de manipulación subliminal, cuya idea original está tomada 
+del reglamento europeo, se le agregaron algunos flecos que 
+no sirven para nada.
+Se menciona que se deben usar técnicas imperceptibles, lo 
+cual está bien, pero no que el objeto directo sea provocar 
+acciones del sujeto que causan daño. Por ejemplo, si con un 
+sistema de inteligencia artificial se intenta manipular por 
+mis opciones políticas para que vote por una persona distinta 
+a la que normalmente hubiera elegido, no se me está causando 
+un daño. Al exigir que haya daño, como perjuicio económico, 
+estamos 
+limitando 
+innecesariamente 
+los 
+sistemas 
+inaceptables. Esto no está en la regulación europea, de 
+hecho, no sé para qué la pusieron. Aquí propongo una 
+redacción alternativa.
+Sistemas de calificación social genérica. ¿Significa esto 
+que no vamos a poder usar Dicom? ¿Estamos prohibiendo Dicom? 
+Porque es un sistema de calificación social. ¿De verdad? Creo 
+que no. Creo que este artículo también merece ser 
+reconsiderado, de hecho, probablemente debería eliminarse.
+Los sistemas de evaluación de estados emocionales los 
+prohibimos en general, específicamente en fronteras, pero 
+creo que es el único caso en que sirven. Si alguien viene 
+nervioso porque trae cocaína, ¿podemos utilizar un sistema 
+de inteligencia artificial para detectar sus emociones?
+20
+--- PÁGINA 21 ---
+¿No sería mejor clasificarlo como un sistema de alto 
+riesgo? Claro, hay un potencial de afectar derechos 
+fundamentales, pero justamente los clasificamos como de alto 
+riesgo para que no los afecten. De hecho, el sentido es 
+vigilarlos, auditarlos, de manera que no restrinjan o afecten 
+los derechos fundamentales. O sea, debemos vigilar a los que 
+tienen un potencial de afectarlos.
+Algo que no se ha incluido es la opción de consultar al 
+Consejo Asesor de Inteligencia Artificial para determinar si 
+un sistema es de alto riesgo o no. Creo que esto podría ser 
+razonable.
+Después tenemos dos categorías: sistemas de riesgo limitado 
+y sistemas sin riesgo evidente.
+Entiendo su origen, nuevamente inspirado en el reglamento 
+europeo, pero, humildemente, creo que esto no es necesario. 
+Sería más sencillo fusionarlas, de modo que queden tres 
+categorías en lugar de cuatro. Estas categorías podrían 
+quedar con una regulación muy liviana, es decir, identificar, 
+por ejemplo, cuándo están interactuando con un ser humano.
+La regulación que estamos proponiendo ya es liviana. 
+Entonces, para lo poco, es mejor que quitemos la regulación 
+y permitamos que se desarrolle la industria.
+Tengo algunos comentarios adicionales.
+El Consejo Asesor de Inteligencia Artificial es una buena 
+idea, porque necesitamos un consejo experto. Sin embargo, la 
+inmensa mayoría de los miembros son designados directamente 
+por los ministerios, lo que me parece un poco desequilibrado. 
+Quizás sería bueno contar con una ratificación del Senado, 
+es decir, algo más que simplemente la buena voluntad del 
+ministro de turno.
+Está bien que el ministro de Ciencias, el ministro de 
+Economía y el ministro de Defensa propongan miembros, pero 
+sería simplemente porque los proponen y se nombran. Yo 
+dejaría un mecanismo más democrático y participativo.
+Tengo objeciones a que haya dos representantes de 
+organizaciones de la sociedad civil (OSC), porque estas 
+organizaciones no se auditan. O sea, no sabemos qué hay 
+detrás de ellas.
+Con eso estoy diciendo que muchas organizaciones de la 
+sociedad civil reciben financiamiento de las mismas grandes 
+plataformas que implementan estos sistemas. Entonces, si 
+otorgamos un asiento a una organización financiada por 
+quienes deben ser fiscalizados, sería mejor dar otro 
+representante a las empresas o -lo que considero aún mejor- 
+aumentar la representación de los académicos. En general, 
+creo que los académicos son útiles en esto.
+Un par de cosas más.
+La accionabilidad y los recursos. En los artículos 28 y 29 
+del proyecto de ley se establece un procedimiento sumario 
+para perseguir responsabilidad por daños causados por agentes
+21
+--- PÁGINA 22 ---
+artificiales. Esto está muy bien, ya que es un procedimiento 
+más breve y más sencillo, pero tal vez daría un paso hacia 
+la responsabilidad objetiva.
+Lo anterior es discutible, porque ¿quién responde? Responde 
+quien despliega el sistema. Hay un montón de categorías de 
+personas que son responsables, lo cual es adecuado, ya que 
+permite una amplia gama de cobertura.
+Es cierto que en Europa existen más reglamentos y 
+disposiciones que abordan temas como la protección de datos, 
+pero es un muy mal argumento desprendernos de una legislación 
+que podría proteger nuestros derechos bajo la excusa de que 
+no contamos con otras leyes similares. Es como negarse a 
+promulgar una ley que prohíbe el homicidio porque no tenemos 
+una que prohíbe el robo. Creo que es un pésimo argumento. Lo 
+que sí es necesario es acelerar la aprobación de otras leyes, 
+como la ley de protección de datos.
+No obstante, considero que este es un buen proyecto de ley 
+y no debemos darle la espalda. Hay detalles que se pueden 
+corregir. Les he dado una pequeña lista con estos detalles, 
+que espero que les sea útil.
+Agradezco profundamente que hayan tenido la paciencia de 
+escuchar todas mis tonteras.
+Gracias.
+El señor AEDO (Presidente).- Al contrario, profesor.
+Solo quiero hacer un comentario antes de pasar a las 
+consultas.
+Es interesante escuchar cómo usted se mueve entre el 
+liberalismo y el afán regulatorio, porque es una combinación 
+que no es fácil de encontrar en el mundo del derecho.
+Ofrezco la palabra.
+Tiene la palabra el diputado Tomás Lagomarsino.
+El señor LAGOMARSINO.- Señor Presidente, quiero plantear 
+una pregunta en torno a la flexibilidad de los sistemas de 
+alto riesgo, ya que uno de los temas en que se avanzó o 
+retrocedió -dependiendo del punto de vista- fue flexibilizar 
+la taxatividad de las aplicaciones de alto riesgo.
+En el proyecto original, tanto los sistemas de riesgo 
+inaceptable como los de alto riesgo estaban claramente 
+especificado en el proyecto de ley. Sin embargo, durante la 
+discusión en la primera etapa de este proyecto, uno de los 
+puntos que se nos propuso fue buscar un mayor grado de 
+flexibilidad, 
+dependiendo 
+del 
+dinamismo 
+de 
+la 
+misma 
+tecnología.
+En ese contexto, se eliminó la categorización taxativa de 
+las aplicaciones de alto riesgo, dejando esta clasificación
+22
+--- PÁGINA 23 ---
+en manos de un cuerpo más administrativo, como es el 
+reglamento.
+El profesor planteó la posibilidad de que algunos elementos 
+de riesgo inaceptable puedan ser rebajados a alto riesgo. 
+Sin embargo, esto es contrario a la flexibilidad en que se 
+avanzó en alto riesgo.
+Mi opinión -aunque también podría representar a otros- es 
+que lo que constituye un riesgo inaceptable debe estar 
+establecido en la ley. Es un límite en el que no se debe 
+retroceder, independientemente de que se haya dejado un 
+cuerpo administrativo.
+Me gustaría conocer la opinión del profesor respecto de si 
+es adecuado o no que esta categorización esté expresada de 
+manera taxativa, independiente de que pueda abrir una puerta 
+a otro. En el proyecto de ley original -que es de mi autoría- 
+estas categorías estaban claramente definidas, aunque se 
+dejaba una puerta abierta para otras consideraciones.
+En el fondo, quiero saber qué opina, grosso modo, sobre 
+esa flexibilidad versus no flexibilidad y, a la vez, de esta 
+movilidad que usted plantea. Pero en el contexto de una 
+aplicación de riesgo inaceptable que, de hecho, no estaba en 
+el proyecto original.
+En todo caso, concuerdo con usted, en el sentido de que tiene 
+que ser de alto riesgo.
+Esa es una primera pregunta.
+En segundo lugar, entiendo la visión del derecho civil sobre 
+la definición de incidente grave, pero yo vengo de otra área, 
+la medicina. Y, por ejemplo, en el área de la salud existe un 
+sistema de notificación de incidentes, que la diputada Molina 
+conoce muy bien, que es de las vacunas.
+Allí uno no puede establecer una causalidad muy directa, pero 
+dado el riesgo de la aplicación masiva de un producto tan, uno 
+dice, independiente de que no tengamos directo, notifiquémoslo 
+y levantemos el dato, porque, no necesariamente los incidentes 
+graves -en ninguno de los proyectos- plantean una sanción, 
+sino, más bien, una alerta a revisar, que es un poco el ánimo 
+que existe en el sistema de vacunación.
+Ahora, con respecto a la explicabilidad, creo que depende, 
+porque, efectivamente, en algunas áreas, incluso de alto riesgo 
+me atrevo a decir, no es necesario tener un cien por ciento de 
+explicabilidad de por qué se llega al resultado, ya que 
+simplemente 
+se 
+está 
+interactuando 
+con 
+un 
+sistema 
+de 
+inteligencia artificial, pero hay otras áreas en que la 
+explicabilidad tiene que ser, a mi modo de ver, la mayor 
+posible.
+Sí, puede haber algunas áreas de mayor o menor riesgo. Sin 
+embargo, ello tiene matices. Pero hay áreas donde la 
+explicabilidad, a mi modo de ver, no es una opción, sino que 
+incluso una exigencia en si misma. Es decir, independiente de 
+la complejidad del mismo sistema, por qué si tenemos un dato
+23
+--- PÁGINA 24 ---
+a) llegamos a una conclusión b), sobre todo en áreas en que se 
+utiliza y que son muy sensibles.
+En estos momentos hay un piloto en el centro mamográfico de la 
+Región Metropolitana que utiliza un sistema de inteligencia 
+artificial, y yo creo que a todos nos interesa el informe que 
+generen esos sistemas, a fin de que no tengamos dudas, y la 
+duda parte por la explicabilidad, o no de esto, de que el 
+informe que arrojen sea certero.
+Entonces, le pido que ahonde en eso, o que me refute. Creo que, 
+efectivamente, puede haber los dos principios que dijo, 
+transparencia e identificación. Puedo coincidir con que esos 
+pueden ser los principios mandantes en algunas aplicaciones, 
+pero hay otras, particularmente de las que yo provengo -el 
+sector salud- en que creo que la explicabilidad tiene que ser 
+prácticamente obligatoria.
+Muchas gracias, Presidente.
+El señor AMUNÁTEGUI (expositor).- Muy bien. Son hartas 
+preguntas, y son todas complejas.
+En principio, estoy totalmente de acuerdo: los sistemas de 
+riesgo inaceptable tienen que estar enumerados taxativamente, 
+sino tendríamos un problema de constitucionalidad, creo yo.
+Ahora, los de alto riesgo pueden no estarlo. Y aquí es donde 
+se me genera la duda, porque un sistema de control de emociones 
+en frontera, que es el caso que estaba planteando, si no se le 
+incluye en una lista, solo por la redacción del artículo que 
+define los sistemas de alto riesgo, debería quedar comprendido 
+ahí, 
+ya 
+que 
+tiene 
+el 
+potencial 
+de 
+afectar 
+derechos 
+fundamentales.
+Ahora, es probable que sea mejor no definirlos legalmente, pero 
+sí dejar que se definan a nivel reglamentario. ¿Por qué? Porque 
+es necesario que tengamos claridad. Así, por ejemplo, este 
+producto que yo traigo, ¿tengo que someterlo como un sistema 
+de alto riesgo o no? ¿Tengo que someterlo a las normas de alto 
+riesgo o no?
+Sería bueno, tal vez, dejar algún tipo de numeración, no 
+taxativa, pero probablemente no a nivel legal, ya que eso da 
+demasiada inmovilidad, creo yo, humildemente.
+Ahora, respecto del segundo problema, el de la causalidad de 
+los incidentes graves.
+El problema es que un incidente grave puede dar lugar a 
+sanciones, y las sanciones, que están en el artículo 25, son 
+de 20.000 UTM para infracciones gravísimas, y de 10.000 UTM 
+para infracciones graves.
+Así, pues, efectivamente, debilitar el vínculo causal puede 
+repercutir en sanciones administrativas. Pero, además, la 
+interpretación que los tribunales harán, casi con certeza, de 
+un incidente grave, es expandirlo a un sistema de asignación 
+de responsabilidad por daños y perjuicios que pueda causar una 
+inteligencia artificial. Y ahí vamos a tener un régimen donde
+24
+--- PÁGINA 25 ---
+estemos dejando de lado la causalidad y podamos pedir 
+perjuicios por cosas que no son estrictamente previsibles o 
+esperables. Creo que eso es tomar un riesgo demasiado grande.
+De hecho, el proyecto europeo, justamente, tenía consecuencias 
+directas o indirectas previsibles. Creo que deberíamos volver 
+a esa redacción.
+Finalmente, me referiré a la última pregunta, la de la 
+explicabilidad.
+A ver, el problema de la explicabilidad es que las 
+inteligencias 
+artificiales 
+modernas, 
+las 
+actuales, 
+se 
+comportan como cajas negras. Hay ámbitos donde nosotros debemos 
+saber cosas de ellas y ser capaces de auditarlas. Por ejemplo, 
+debemos saber que no contienen sesgos. ¿Cómo se controlan los 
+sesgos? Bueno, por ejemplo, si le doy un caso con una persona 
+de sexo masculino y otro con una persona de sexo femenino, si 
+me da el mismo resultado, entonces no tiene sesgo.
+Esto se puede hacer, esto se puede acreditar. Lo que se ve con 
+ese tipo de auditoría es que no contenga sesgos. No se busca 
+una explicación, porque la explicación pueda ser imposible, 
+pero a lo menos se busca que, entre las razones matemáticas 
+que 
+existan, 
+no 
+se 
+encuentre 
+ninguna, 
+en 
+principio, 
+discriminatoria.
+Creo que en la inteligencia artificial, por la naturaleza de 
+caja negra, vamos a tener que conformarnos con eso.
+Podemos pedir explicabilidad, pero también es como pedir la 
+luna. Ese es mi temor.
+Eso.
+El señor AEDO (Presidente).- Antes de ofrecer la palabra, 
+quiero hacer un alcance respecto de sacar cosas de la ley y 
+dejarlas en un reglamento.
+Creo que también en esto hay que aterrizarse. Es más, hoy en 
+la mañana tuvimos que aprobar una ley, para postergar una ley, 
+porque no existe un reglamento desde el gobierno del Presidente 
+Piñera y tampoco en este. Esto, en medioambiente.
+Entonces, como usted ha dicho todo el rato algo que me parece 
+muy interesante, que es, en términos futboleros, poner la 
+pelota al piso respecto del proyecto, yo también le quiero 
+expresar que, desde el mundo del derecho, uno de los aportes 
+que hace este proyecto de ley -en mi opinión- es que adelanta 
+situaciones que se supone que hipotéticamente no ocurren, pero 
+que en los hechos ocurren, como que los reglamentos al final 
+nunca salen, quedando esos temas absolutamente abiertos y, 
+finalmente, desregulados.
+Probablemente, si usted estuviese sometiéndome a un examen en 
+derecho, no aceptaría toda mi hipótesis, pero yo le podría 
+responder con lo que pasó hoy en la mañana.
+En efecto, mire el absurdo: una ley para postergar otra ley. 
+Eso votamos hoy en la mañana. En estricto rigor fue eso.
+25
+--- PÁGINA 26 ---
+Es más, hoy el diputado Leonardo Soto lo expresó claramente, 
+que uno de los puntos de una acusación constitucional contra 
+un ministro es, justamente, el incumplimiento de una ley. 
+Obviamente no se llegará a eso, pero es así. ¿Se fija? O sea, 
+esto es lo que pasa en la vida real.
+Tiene la palabra el diputado Kaiser.
+El señor KAISER.- Señor Presidente, quiero hacer un breve 
+comentario sobre el tema de la programación de los sesgos.
+Evidentemente, hay sesgos que no son sesgos, sino simplemente 
+datos, información. O sea, si yo pregunto, por ejemplo, quién 
+corre más rápido los 100 metros planos, un hombre o una mujer, 
+probablemente, de acuerdo a la información de que dispone, el 
+computador me diga que un hombre.
+Ahora, si usted entra en la lógica de tratar de impedir que el 
+computador dé una respuesta que sea, no sé, ofensiva para algún 
+grupo en algún momento, va a terminar con la inteligencia 
+artificial más estúpida del mundo.
+Eso puede suceder, y lo hemos visto. Hemos visto cómo ChatGPT 
+se ha caído tratando de implementar parámetros que no han sido 
+útiles desde el punto de vista del funcionamiento de la 
+plataforma y que solo han dejado en vergüenza a los 
+responsables.
+No obstante, pasando a una pregunta más específica. Este 
+proyecto de ley establece el entrenamiento de sistemas de 
+inteligencia artificial de manera muy liberal -usted lo planteó 
+como una de las ventajas de esta ley-, pero el tema es que los 
+datos con que se entrenarían estas inteligencias artificiales 
+hasta el momento no están protegidos. Es decir, las empresas 
+podrían recurrir a datos que son un commodity de terceros con 
+el fin de utilizarlas para un beneficio económico propio, sin 
+pagar por ellos y sin preguntar, y sin requerir tampoco de la 
+autorización de aquellos que están involuntariamente poniendo 
+a disposición ese commodity que son los datos.
+Por otro lado, tendríamos el tema de la propiedad intelectual, 
+porque muchos de los datos que se utilizan para entrenar una 
+inteligencia artificial están protegidos por la propiedad 
+intelectual.
+Puede ser que no se estén reproduciendo, pero, dado que se 
+están utilizando para un fin comercial, evidentemente que la 
+plataforma 
+que 
+los 
+está 
+utilizando 
+para 
+entrenar 
+su 
+inteligencia artificial tendría que solicitar su uso y pagar 
+por ellos.
+En este caso, no queda claro cómo esta ley regularía ese 
+defecto.
+Agradecería conocer al respecto la opinión del profesor 
+Amunátegui.
+Gracias, Presidente.
+26
+--- PÁGINA 27 ---
+El señor AEDO (Presidente).- Gracias, diputado Kaiser.
+Tiene la palabra el profesor Amunátegui.
+El 
+señor 
+AMUNÁTEGUI 
+(expositor).- 
+Presidente, 
+por 
+su 
+intermedio, le planteo al diputado Kaiser que son muy 
+interesantes todas sus observaciones.
+Primero, ojo, controlar los sesgos no significa hacer estúpida 
+la inteligencia artificial. No tiene por qué serlo. O sea, a 
+ver, todo se puede hacer de manera estúpida, por supuesto que 
+sí, y estoy del todo de acuerdo, pero… Controlar los sesgos…
+Por ejemplo, supongamos que se arma el típico ejemplo de 
+manual. Es uno de los ejemplos con que uno aprende a programar 
+inteligencias artificiales: el Titanic. Vamos a hacer una red, 
+una red simplecita, porque si no, no se entiende nada y no se 
+va a poder interpretar.
+Una red, qué sé yo, de cuatro capas con cuatro neuronas por 
+capa para intentar predecir quién sobrevive al hundimiento del 
+Titanic.
+Okey, fantástico. ¿Cómo se hace? Son 1.500 pasajeros. La lista 
+está en Amazon. Se baja, la partimos en dos, 800 para un lado, 
+700 para el otro, 700 para probarla, 800 para entrenarla.
+La entrena. ¿Qué puntos de datos tenemos? Nombre, sexo, edad, 
+clase -en qué clase viajaron- y puerto de destino.
+Después de un par de itineraciones, bueno, varía, porque esto 
+es como un arte, pero más o menos le da el 90 o 95 por ciento 
+de exactitud de quién sobrevive al hundimiento del Titanic, 
+cuando vemos la segunda lista, lo cual está bastante bien.
+Y uno dice: “¡Guau!, ¿cómo lo hizo?”.
+Si uno estudia las proporciones y los pesos, los weights and 
+biases que se están utilizando en las conexiones, uno llega a 
+la siguiente conclusión: se salvan en el Titanic las mujeres 
+de clase alta, que van en primera clase.
+Esto se ha hecho mil veces, ni siquiera el ejemplo original 
+mío. Yo lo hice después para probar si era verdad.
+¿Por qué se salvan en el Titanic las mujeres de clase alta? 
+Porque parece que era verdad: mujeres y niños primero. Sí, y 
+se salvaron.
+Si alguien era hombre y pobre, moría en el hundimiento del 
+Titanic.
+Esto no nos dice nada, salvo que la caballerosidad era un valor 
+que todavía operaba en 1912. Me parece fantástico.
+Ahora bien, si tomamos ese modelo y lo ocupamos para predecir 
+riesgos en contratos de seguro de transporte de pasajeros, 
+vamos a tener sesgo.
+El sesgo no está tanto…  Está mucho en el uso, en qué tipo de 
+uso se le va a dar a la inteligencia artificial.
+27
+--- PÁGINA 28 ---
+Claro. Por ejemplo, si yo entreno con los datos biométricos de 
+las selecciones argentinas desde 1950 hasta hoy una red para 
+predecir quién va a ser buen jugador de fútbol, si lo aplico 
+en Argentina me sirve; si lo aplico en Chile me sirve; si lo 
+aplico en Japón va a hacer barbaridades.
+O sea, no todo… No hay que estupidizarla, hay que considerar, 
+por ejemplo, que los datos que va a ocupar para entrenar sean 
+tan diversos como la población a la que va a aplicarse, y cosas 
+así.
+Si fuera solo cosa de estupidizarla, bueno, es que no 
+funcionaría, y la verdad es que nadie quiere modelos que no 
+funcionen.
+Queremos que funcionen sin hacer estupideces. Eso es todo.
+El segundo tema era el de los derechos de propiedad 
+intelectual.
+Si queremos resguardar los datos de las personas, tenemos que 
+aprobar la ley de protección de datos.
+No aprobar la ley de Inteligencia Artificial no quiere decir 
+que los datos vayan a quedar protegidos. Van a estar aún más 
+desprotegidos. Vamos a estar igual. O sea, va a estar 
+desprotegido en datos y en inteligencia artificial.
+No es un buen argumento decir: “Es que no hemos aprobado datos”. 
+No, porque en realidad necesitamos proteger todo. O sea, es un 
+buen argumento para apurar datos, pero no para retrasar esto.
+En cuanto al tema de la propiedad intelectual, este es un 
+problema de posiciones. Tengo grandes amigos que defienden la 
+posición completamente contraria.
+Yo creo que el derecho de propiedad intelectual, en concreto, 
+los derechos de autor, cubren un pequeño monopolio para 
+controlar la reproducción de los bienes protegidos por este 
+derecho. Es una especie de monopolio; de hecho, se inventó 
+junto con la imprenta. El primer derecho de autor que se 
+reconoce es en Venecia, en 1495, si no me engaña la cabeza.
+Entonces, eran pequeños derechos de monopolio. Les pusimos 
+propiedad, bueno, porque básicamente Andrés Bello optó por la 
+idea de derechos de autor, de la doctrina francesa, pero 
+podrían haber sido simplemente monopolios, como es la tradición 
+del copyright.
+Ahora, entrenar no es reproducir. O sea, es cierto que la 
+información se representa en las redes neuronales de un modelo, 
+pero cuando leo, también se representa en mis redes neuronales. 
+No veo que sea realmente reproducir.
+Ahora, lo importante es, básicamente, que los resultados, 
+que las obras que produzca no sean una suerte de pequeño plagio 
+de las obras con que fue entrenada. ¿Y cómo se logra esto? 
+Entrenando con la mayor cantidad de obras. Haciendo la mayor 
+cantidad posible de minería de textos.
+28
+--- PÁGINA 29 ---
+Desde mi punto de vista, el derecho a entrenar debiese 
+existir. Ahora, si no se aprueba este proyecto de ley, 
+igualmente existe, porque el artículo 71 O de la ley de 
+propiedad 
+intelectual, 
+lo 
+permite 
+para 
+realizar 
+investigaciones científicas, con tal que no se reproduzca.
+Creo que, si no hacemos nada, igual está, pero creo que, si 
+hacemos algo, lo consagramos mejor.
+Por último, consagrando un derecho a entrenar, tendríamos 
+una ventaja competitiva respecto a prácticamente todos los 
+países latinoamericanos para atraer inversión en inteligencia 
+artificial. Muchas compañías estarían interesadas en que un 
+régimen jurídico sólido, como el que esperamos que tenga Chile, 
+proteja este derecho y les permita entrenar modelos.
+Creo que tendría una conveniencia económica importante.
+Mi espíritu es liberal, completamente. Pero no me molestan 
+las regulaciones, cuando ayudan. Cuando no ayudan, bueno…
+El señor AEDO (Presidente).- Les pido algo, si escuchamos la 
+próxima presentación, porque nos quedan 25 minutos.
+Todo el mundo se va a ir a las 19:30 horas, entonces quiero 
+que exponga.
+Les pido que guardemos las consultas.
+Agradezco, Carlos, por la exposición.
+Marcelo Guajardo, le doy la posibilidad de exponer y 
+obviamente, que juntamos todas las consultas.
+El señor GUAJARDO (expositor).- Presidente, muy buenas tardes 
+a todas las y los diputados.
+Soy Marcelo Guajardo, gerente de asuntos gubernamentales y 
+oolíticas públicas para Salesforce Cono Sur, a cargo de Chile 
+y Argentina.
+Quisiera agradecer primero la oportunidad de exponer frente 
+a ustedes nuestra visión sobre este proyecto de ley, que es 
+muy interesante y posiciona a Chile dentro de la carrera de 
+regulación sobre inteligencia artificial.
+Me gustaría comenzar hoy presentando un poco qué es 
+Salesforce, que creo que es muy poco conocido acá en Chile, y 
+qué nos motiva a estar presentes el día de hoy.
+Salesforce es un proveedor líder de softwares en la nube, o 
+CRM, por su sigla en inglés, que ayuda a conectar a todas las 
+empresas de todos sus tamaños y de todas las industrias. 
+Incluso también ayuda a los gobiernos y a las ONG a conectarse 
+y relacionarse con sus clientes, con sus ciudadanos y con sus 
+beneficiarios, respectivamente, a través de formas nuevas y 
+más inteligentes.
+Fuimos fundados, como toda empresa con esa mística de Silicon 
+Valley, en un departamento en el año 1999; ahora es una gran
+29
+--- PÁGINA 30 ---
+empresa tecnológica en Estados Unidos y tenemos presencia en 
+más de cien países actualmente. Incluso expandimos nuestras 
+operaciones en 2022 a Chile; contamos con un equipo acá y 
+estamos muy contentos de que prontamente anunciaremos la 
+apertura de una oficina en Santiago.
+Ahora, Salesforce es una empresa que se caracteriza por sus 
+valores. Siempre volvemos a nuestros valores esenciales, que, 
+en el fondo, definen y fundamentan lo que hacemos respecto a 
+inteligencia artificial y respecto a los datos. Ellos son:
+La confianza, que es nuestro valor número uno y que significa 
+que actuamos con transparencia y seguimos nuestros estándares.
+Nos guiamos por la ética.
+Éxito del cliente, es decir, priorizamos el éxito de nuestros 
+clientes y el éxito de los clientes que ellos también atienden.
+Innovación, que es un motor. Queremos que todos nuestros 
+productos sean los más relevantes, los más fáciles de usar, 
+integrables, interoperables y globales que existen.
+La igualdad, nos comprometemos a crear un mundo más 
+igualitario; creemos que juntos podemos trabajar mejor.
+Por último, sostenibilidad, que es muy importante, porque 
+todo depende de un clima estable, por lo cual ayudamos a todas 
+las organizaciones a cumplir con sus metas de cero emisiones 
+netas de carbono y predicamos con el ejemplo.
+Ahí, en Salesforce, nos definimos como trailblazers. 
+Disculpen por el término en inglés; una definición un poquito 
+más precisa sería pioneros. Es decir, somos innovadores, somos 
+pioneros, 
+aprendices 
+de 
+por 
+vida, 
+por 
+definición, 
+y 
+aprovechamos al máximo las capacidades que tiene Salesforce, 
+para impulsar los cambios en sus carreras, en las comunidades, 
+en 
+las 
+empresas, 
+etcétera. 
+Son 
+nuestros 
+clientes, 
+colaboradores, miembros de la comunidad y socios. O sea, 
+cualquiera puede ser un pionero o trailblazer.
+Además, cuando comenzamos Salesforce, en 1999, innovamos en 
+un modelo bien pionero en términos de filantropía, que es el 
+modelo 1-1-1; es decir, comprometimos el 1 por ciento de 
+nuestra participación accionaria, el 1 por ciento de nuestro 
+tiempo y el 1 por ciento de nuestros productos para retribuir 
+a la sociedad, lo cual es muy importante. Este modelo ha 
+permitido que Salesforce pueda donar más de setecientos 
+millones de dólares, realizar más de 8,7 millones de horas de 
+trabajo voluntario y apoyar a más de 56.000 ONG, organizaciones 
+sin fines de lucro. Además, más de 18.000 empresas se han unido 
+a este modelo del 1-1-1.
+También hemos desarrollado el Net Zero Cloud, que ayuda a 
+las organizaciones a alcanzar el cero neto, y cofundamos, de 
+hecho, la organización 1t.org, que ayuda a conservar, restaurar 
+e incluso plantar un billón de árboles en esta década.
+Por último, Salesforce está comprometido, por supuesto, con 
+la agenda de los ODS que tiene la ONU para el 2030, por lo cual 
+la empresa ha adoptado más de diez ODS en las áreas en las que,
+30
+--- PÁGINA 31 ---
+por supuesto, creemos que podemos generar la diferencia y hacer 
+un aporte para transformar este mundo en beneficio de toda la 
+sociedad.
+Ahora bien, volviendo a la inteligencia artificial, sabemos 
+que estamos en una revolución de la inteligencia artificial, y 
+ahí Salesforce tiene una larga historia de ayuda a sus 
+clientes, transformando con la IA.
+Partimos, quizás el 2014, con una primera ola, la 
+inteligencia artificial predictiva; a principios de este año 
+entramos en una segunda ola, que tiene que ver con la 
+inteligencia artificial generativa, la mayoría ha interactuado 
+con modelos como ChatGPT, y ahora estamos entrando en una 
+tercera o incluso una cuarta ola, de nuevos modelos de nuevas 
+inteligencias artificiales.
+A medida que avanzamos a través de estas nuevas olas 
+tecnológicas, 
+nuestro 
+CRM, 
+nuestro 
+producto, 
+será 
+más 
+importante para ayudar a nuestros clientes, así seguiremos 
+ayudando a los clientes a navegar todas estas olas y las que 
+vengan de inteligencia artificial.
+Llevamos más de diez años, más de una década, activos en la 
+investigación y en el desarrollo de tecnología de inteligencia 
+artificial.
+En 2014 comenzó esta bonita historia, cuando fundamos un 
+equipo de investigación en el ámbito de inteligencia 
+artificial. En 2016, con Salesforce Einstein, integramos por 
+primera vez la inteligencia artificial a muchos de nuestros 
+productos, bajo esa marca.
+Salesforce AI Research ha publicado más de doscientos 
+artículos, también tiene registradas más de trescientas 
+patentes de inteligencia artificial. Un punto superimportante 
+en esta materia es que, en 2018, fuimos pioneros, porque, por 
+primera vez, establecimos una oficina de uso ético y humano de 
+tecnología, que se encarga de que, antes de lanzar cualquier 
+producto al mercado, este deba pasar por todos los filtros de 
+ética, de transparencia y de confianza de los datos, lo cual 
+fue bien pionero en su momento.
+También les quiero contar que hemos adherido a diversos 
+compromisos globales y hemos participado activamente en la 
+discusión global sobre ética de inteligencia artificial. Por 
+darles un ejemplo, recordarán que en 2023 el Presidente Biden 
+llamó a todo el sector tecnológico a cierta forma de compromiso 
+por una inteligencia artificial responsable, segura. Adherimos 
+a ese compromiso.
+En 2024 se ha citado mucho a la Unesco. Se creó un Consejo 
+Empresarial para la Ética de la Inteligencia Artificial, de la 
+Unesco, al cual nos invitaron a participar -del cual somos 
+parte- para promover una tecnología responsable.
+Para ponerlo en perspectiva, a veces esta discusión tiene 
+matices que van más allá de la inteligencia artificial. La 
+inteligencia artificial puede ser uno de los ejemplos de nuevas 
+tecnologías que van a seguir creándose. También colaboramos
+31
+--- PÁGINA 32 ---
+con gobiernos, con la industria, con la academia, con la 
+sociedad civil, en espacios como el G7, la OCDE, Estados 
+Unidos, la Unión Europea, etcétera. La lista es muy larga.
+¿Por qué nos importaba hoy? ¿Por qué solicitamos compartir 
+nuestra visión? Básicamente por tres puntos.
+Primero, ofrecer a la discusión pública, a ustedes, los 
+honorables diputados, toda la experiencia que hemos logrado a 
+través del mundo. Estamos disponibles para la colaboración 
+público-privada, para ese diálogo que permita aprobar la mejor 
+ley posible en beneficio de toda la sociedad.
+También estamos disponibles para desarrollar un buen marco 
+regulatorio que permita y genere todos los espacios necesarios 
+para el desarrollo de nuevas tecnologías. Ahí les traigo algo 
+que recién salió del horno, que tiene que ver con un documento 
+que aborda ciertas recomendaciones para generar un marco 
+normativo que aborde los distintos casos de uso de la 
+tecnología 
+e 
+inteligencia 
+artificial, 
+incluidas 
+las 
+aplicaciones destinadas a empresas, pero también de consumo 
+general o de uso general para cualquier persona. Ahí está el 
+QR. Lamentablemente, no les pude traer copias, debido al tema 
+de la sustentabilidad; pero ahí está, y se lo vamos a pasar a 
+la Secretaría de la comisión.
+Este documento parte con una base que es bien interesante, 
+que es una distinción entre, por un lado, tener inteligencia 
+artificial empresarial y, por otro, para usuarios particulares.
+Básicamente, la inteligencia artificial empresarial está 
+diseñada para contextos de trabajo específico, es decir, para 
+herramientas de productividad, gestión de relaciones con los 
+clientes. Esas aplicaciones se desarrollan en formatos 
+cerrados, en entornos controlados. Por ejemplo, en Salesforce, 
+nuestras soluciones de IA empresarial incluyen el número de 
+usuarios, incluyen todos los modelos que, por ejemplo, ayudan 
+a generar correos electrónicos, elaboran resúmenes de venta, 
+llamadas de servicio, y proporcionan información pertinente 
+durante las interacciones con los clientes. Todas esas labores 
+se generan en circuitos cerrados, con estándares muy altos de 
+seguridad, de transparencia, de ciberseguridad, etcétera.
+Por otro lado, como pueden ver ahí, está la inteligencia 
+artificial para usuarios particulares, que es un campo mucho 
+más flexible. Está diseñada para una amplia gama de 
+aplicaciones, como pueden ser ChatGPT, Gemini, todo lo que 
+conocemos, que, por ejemplo, permite generar imágenes, recrear 
+voces, 
+parecidos 
+físicos, 
+videos 
+hipermegarrealistas, 
+etcétera.
+De acuerdo con eso, este es un primer mensaje que quería 
+transmitirles hoy. Salesforce no desarrolla inteligencia 
+artificial para usuarios particulares, sino que está en el 
+ámbito de la inteligencia artificial empresarial. En eso nos 
+especializamos y generamos modelos de IA que ayudan a nuestros 
+clientes de forma bien segura y responsable, porque el fin 
+último es generar y desarrollar, desde el día uno, inteligencia 
+artificial de forma ética y responsable, sin comprometer la
+32
+--- PÁGINA 33 ---
+seguridad de los datos, que es algo superimportante para 
+nosotros.
+Este documento, para cualquier regulación que se quiera 
+generar en algún mundo, plantea cinco puntos.
+Primero, tener en cuenta una definición de los actores de 
+inteligencia artificial, dada la rápida, la frenética, 
+evolución del ecosistema de inteligencia artificial.
+Esas definiciones requieren un planteamiento matizado a la 
+hora 
+de 
+asignar 
+responsabilidades 
+a 
+cada 
+actor, 
+desarrolladores, desplegadores, distribuidores, etcétera.
+También promovemos un planteamiento basado en el riesgo. O 
+sea, los marcos de políticas públicas deberían estar basados 
+en el riesgo y valorar debidamente todos los peligros que puede 
+provocar cada sistema de inteligencia artificial. Por ejemplo, 
+ahí ponemos mucho énfasis -creo que se ha dicho un poco en esta 
+comisión a lo largo de las exposiciones- en las aplicaciones 
+de inteligencia artificial de alto riesgo. Ahí es donde hay un 
+tema bien importante a regular.
+Por otro lado, la transparencia, que es algo que la sociedad 
+-ustedes también lo han conversado- demanda bastante, la 
+importancia de tener la supervisión humana de la tecnología en 
+cualquier momento. Nosotros también promovemos eso.
+Por supuesto, una gobernanza. Celebramos que ya está a punto 
+de aprobarse la ley de protección de datos.
+Por último, marcos regulatorios interoperables e inclusivos. 
+Ya lo hemos conversado. En esto no estamos solos; estamos 
+dentro de muchos países que están tratando de regular la 
+inteligencia 
+artificial. 
+Por 
+supuesto, 
+para 
+seguir 
+posicionando Chile como líder en tecnología en temas de 
+inteligencia artificial, tenemos que conversar con los otros 
+bloques económicos.
+Por último, para entrar en específico al proyecto de ley, de 
+nuevo, nuestro norte es generar un uso ético y responsable de 
+la inteligencia artificial.
+Eso, en primer lugar, tiene que ver con precisar el alcance 
+de la revolución. Ahí he tratado de explicar que Salesforce 
+ayuda a sus clientes a crear inteligencia artificial altamente 
+personalizable.
+Entonces, si bien nosotros introducimos el modelo en el 
+mercado, estos sistemas son muy personalizables, en el sentido 
+de que nuestros clientes son quienes los usan, insertan sus 
+datos, usan las predicciones como estiman conveniente y, 
+finalmente, controlan los casos de uso, los que, por políticas 
+de privacidad, nosotros no supervisamos, porque no conocemos 
+esos datos.
+Esa situación nos ocurre a nosotros y a muchas otras empresas 
+que desarrollan inteligencia artificial. Por tanto, vemos que 
+quizás en el proyecto no se aborda explícitamente el contenido. 
+Tenemos la duda, y nos gustaría precisar o aclarar si, por 
+ejemplo, cuando dice actividades de desarrollo y sistemas de
+33
+--- PÁGINA 34 ---
+IA, antes de su introducción en el mercado o puesta en servicio, 
+significa que los sistemas de IA altamente personalizables 
+están excluidos de la regulación, porque cuando se trata de IA 
+de propósito general que puede ser personalizada por el 
+usuario, debería existir una designación clara entre los 
+proveedores y los usuarios de inteligencia artificial.
+Los 
+proveedores, 
+a 
+menudo, 
+crean 
+herramientas 
+muy 
+personalizables, cuyo propósito incluso es de bajo riesgo, y 
+depende del usuario final decidir cómo se emplean esas 
+herramientas. Eso significa que el usuario final es quien 
+controla en última instancia cuándo se usa el producto, cuáles 
+son los datos que se envían a la inteligencia artificial, cómo 
+se configura el sistema y, lo más crítico, por supuesto, cómo 
+se utilizan esas predicciones resultantes.
+Entonces, es el usuario, no el desarrollador, quien sabe qué 
+se ha divulgado de la persona afectada y cuál es el riesgo de 
+daño a la persona involucrada.
+En otro punto, queremos consultar si es posible ahondar en 
+las obligaciones de los proveedores.
+En el mismo sentido del punto anterior, consideramos la 
+distinción 
+entre 
+los 
+proveedores 
+de 
+IA, 
+operadores, 
+distribuidores, importadores y otras terceras partes, es decir, 
+una delimitación clara del ecosistema asociado. Eso podría 
+detallarse con mayor profundidad en el proyecto de ley, porque, 
+de nuevo, bajo ese escenario y dado que Salesforce desarrolla 
+IA empresarial, a diferencia de la IA para usuarios 
+particulares, esta IA personalizable no es de alto riesgo en 
+el momento que se introduce al mercado.
+Eso es un punto bien interesante.
+Por último, algo que también ha hecho eco en muchas sesiones 
+acá, que se ha comentado y lo han escuchado por las diferentes 
+exposiciones, es el Consejo Asesor Técnico de Inteligencia 
+Artificial.
+En el proyecto de ley se concibe como una entidad que se 
+encarga de proporcionar muchos antecedentes a la toma de 
+decisiones de la autoridad, en especial sobre materias 
+relativas a los sistemas de alto riesgo.
+Estas instancias existen en el mundo -hay experiencia al 
+respecto-, pero creemos que aspectos fundamentales para que 
+cumpla a cabalidad con su objetivo es que, especialmente en el 
+caso de los riesgos, puedan tener una retroalimentación 
+adecuada y suficiente tanto de la industria como del gobierno.
+De esta manera, nos parece necesario establecer ciertos 
+principios de funcionamiento y deferencia del Ejecutivo, en el 
+sentido 
+de 
+que, 
+por 
+ejemplo, 
+el 
+Consejo 
+cuente 
+con 
+herramientas, con directrices para promover la participación y 
+la retroalimentación de la industria, porque la verdad es que 
+estamos en un escenario tan dinámico, que eso requiere siempre 
+estar encima de los nuevos avances, de las cosas que van 
+saliendo, así como de los insumos y antecedentes de evaluación 
+necesarios de parte del Ejecutivo.
+34
+--- PÁGINA 35 ---
+Entonces, para ello proponemos, por ejemplo, agregar 
+principios o directrices de actuación, mediante algún artículo 
+nuevo o agregar un inciso al artículo 15, que nos parece la 
+vía más adecuada.
+Lo anterior permitiría que, con posterioridad, en el 
+reglamento correspondiente se detallen los procesos, los 
+deberes de escucha de los consejeros e incentivar esa 
+retroalimentación.
+Otro asunto -algo que se ha planteado en las audiencias- 
+tiene que ver con ampliar el número de representantes de la 
+industria, y ahí estamos muy de acuerdo. Parece ser una manera 
+de fortalecer e incentivar esa retroalimentación de la 
+industria. Nos parece la vía adecuada al menos duplicar la 
+representación 
+de 
+quienes 
+desarrollen 
+estos 
+modelos, 
+respetando los equilibrios en el proyecto de ley.
+Finalmente, quiero reiterar nuestro agradecimiento por la 
+invitación. He estado escuchando atentamente el debate y ha 
+sido una sesión muy enriquecedora con los diferentes puntos de 
+vista. Los felicito por tener ese espíritu de convocar a la 
+sociedad civil en su sentido amplio: la Academia, el sector 
+privado, el gobierno, ONG, etcétera; hay que escucharlos a 
+todos. Eso siempre nos pone muy contentos.
+Le haremos llegar esta presentación a la Comisión, también a 
+través de sus correos, y quedamos disponibles para cualquier 
+antecedente adicional. Desde Salesforce, felices.
+Muchas gracias.
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Kaiser.
+El señor KAISER.- Señor Presidente, tengo una pregunta que 
+quería hacer antes, pero sirve perfectamente aquí también.
+El producto de una inteligencia artificial, por ejemplo, de 
+ChatGPT, ¿a quién pertenece? Si yo, usuario, le solicito a 
+ChatGPT que escriba un poema, ¿ese poema a quién pertenece? 
+¿Me pertenece a mí como usuario? ¿Le pertenece al dueño de 
+ChatGPT? O, tercera alternativa, ¿no pertenece a nadie? Ese es 
+un punto que también debe quedar perfectamente clarificado. En 
+lo personal, tiendo a decir que no pertenezca a nadie, puesto 
+que, de otra manera, se desincentiva la producción de material 
+no generado a través de estas plataformas.
+Es una consulta que creo válida, porque, de otra manera, 
+también vamos a tener la situación en la cual las plataformas 
+van a terminar siendo dueñas de todo aquello que el usuario 
+demande.
+Muchísimas gracias, señor Presidente.
+El señor AEDO (Presidente).- Tiene la palabra el señor 
+Amunátegui.
+35
+--- PÁGINA 36 ---
+El señor AMUNÁTEGUI (expositor).- Gran pregunta.
+De hecho, hace unos años, antes de que estuviera tan de moda, 
+me di la lata de escribir un artículo sobre el tema y es muy 
+interesante.
+Partamos con una mirada un poquito comparada. En el compendio 
+de normas de copyright de Estados Unidos, que está actualizado 
+al 2017, me parece -no estoy citando de memoria, no lo tengo 
+aquí, pero bueno- que en el parágrafo 107 se establece 
+expresamente que solo se protegen con copyright las obras de 
+seres humanos. Punto.
+La legislación europea en esto no ha tomado partido. Pero, 
+aunque no tome partido, los distintos países miembros de la 
+Unión Europea parecen también partir de la idea de que tiene 
+que ser una producción de un ser humano. De hecho, si uno lee 
+la normativa española, la normativa francesa, la normativa 
+alemana, se encuentra siempre la referencia a una persona 
+natural.
+Nuestra propia ley -N° 17.336, si mal no recuerdo- también 
+habla de autor como persona natural. Ergo, mi conclusión es 
+que no deberían estar protegidas con copyright; deberían ser 
+de uso libre…
+Ahora, ¿podría, por ejemplo, una predicción estar protegida 
+por secreto industrial? Sí, podría ser, pero eso tiene efectos 
+relativos. Solamente en cuanto hay un contrato y una obligación 
+establecida de respetar ese secreto industrial, y abarca las 
+partes, o sea, no pasa contra terceros.
+Yo estoy de acuerdo. Creo que las producciones de 
+inteligencia artificial no deberían recibir derechos de autor. 
+¡Plenamente de acuerdo!
+El señor AEDO (Presidente).- ¿Alguien más quiere hacer alguna 
+consulta?
+Ofrezco la palabra.
+Ofrezco la palabra.
+Antes de despedir a nuestros invitados, porque faltan cuatro 
+minutos, quiero pedirles -y tengo plena conciencia de lo que 
+acordamos ayer en Salud- que nos reunamos de manera excepcional 
+en una sesión especial de la Comisión el próximo lunes a las 
+15:00 horas.
+Comprendo la situación. Lo que sucede es que vamos a tener 
+muchas dificultades, no nos van a dar la autorización para 
+sesionar mientras esté en paralelo la sesión del día martes, 
+porque hay que pedirlo por comité. O sea, no se puede.
+Pero el objetivo de la sesión del día lunes, comprendiendo 
+todas las situaciones, es escuchar a las organizaciones de 
+derechos de autor de Chile…
+Tiene la palabra le diputado Lagomarsino.
+36
+--- PÁGINA 37 ---
+El señor LAGOMARSINO.- Señor Presidente, sobre el punto.
+Hace dos sesiones -estaba la ministra Etcheverry cuando lo 
+planteé- había varios integrantes de la Comisión de Cultura, 
+Artes y Comunicaciones que querían plantear que este proyecto 
+de ley también pasara por su Comisión, a propósito del artículo 
+31 sobre derechos de autor. Eso, eventualmente, implica una 
+prolongación -más allá de lo razonable, a mi juicio- de este 
+proyecto de ley que ha tenido un curso bastante bueno en esta 
+Comisión, dada su presidencia.
+Yo había planteado anteriormente que, cuando lleguemos al 
+artículo 31 en la votación en particular, pudiéramos hacer una 
+sesión, o un par de sesiones, de Comisiones Unidas de Cultura 
+y Ciencias, a fin de que no pidan después en la Sala que el 
+proyecto de ley se vaya a Cultura.
+Entiendo las aprensiones a propósito de eso, y que obviamente 
+se necesita la unanimidad para que el proyecto se radique en 
+una segunda Comisión. El artículo 31 abrió un gap, un espacio 
+de enorme discusión donde hay mucha presión; es bueno responder 
+a eso y no bloquearlo eventualmente.
+El señor AEDO (Presidente).- Pero, diputado, ¿me permite 
+algo? Porque creo que estamos confundiendo los términos.
+Estoy absolutamente abierto y por eso estoy proponiendo una 
+sesión especial para reunir a las mismas personas con las que 
+usted se reunió. De hecho, están convocadas si efectivamente 
+hacemos esta sesión el día lunes. Están convocados todos.
+El señor LAGOMARSINO.- Presidente, a eso estaba tratando de 
+llegar, si me lo permite.
+Yo había planteado, y entiendo que -no estoy en un ciento 
+por ciento seguro- se había tomado como un acuerdo en la 
+Comisión, que a las organizaciones en materia de propiedad 
+intelectual las invitáramos en la discusión particular a 
+propósito del artículo 31, más que previo a votarlo en general. 
+Eso lo planteé, pero no sé si se habrá acordado finalmente. 
+Entiendo que sí.
+El señor AEDO (Presidente).- Como presido esta Comisión -y 
+aquí me va a salir el autoritario, no el liberal-, prefiero 
+escucharlos antes. Incluso estoy disponible para que veamos 
+una fecha y, luego de escucharlos, votar en general.
+Lo que se va a abrir cuando invitemos en artículo específico 
+es que no habrá argumento para que otros hagan la misma petición 
+en la discusión de otro artículo en específico. Como es el 
+razonamiento jurídico, a igual razón la misma disposición. 
+Entonces, eso es lo que me genera ruido: que luego, cuando 
+discutamos artículo a artículo, como hemos dado esto en el 
+artículo 31, con justa razón alguien, en otro artículo, me
+37
+--- PÁGINA 38 ---
+podría pedir la misma ronda de exposiciones. Por eso lo quiero 
+plantear, porque creo que se abre esa situación.
+Entonces, yo prefiero -y sé todo el afán que tenemos con 
+votar esto en general y me interesaba hacerlo el próximo 
+miércoles-, y quiero ser franco con los que quedamos de la 
+Comisión, vamos a entrar hacia adelante en un loop de 
+elecciones que se va a complejizar. O sacamos el proyecto de 
+esta Cámara ahora y lo enviamos antes de noviembre al Senado 
+o, si no, va a ser un bonito proyecto en las ideas.
+Tiene la palabra el diputado Kaiser.
+El señor KAISER.- Señor Presidente, no sé cómo está la 
+planificación, pero, ¿usted el miércoles quiere recibir todavía 
+invitados y cerrar votando? ¿Esa es la idea? ¿El miércoles 
+próximo? Porque si no fuese así el caso, este lunes va a ser 
+extremadamente complejo -por lo menos para mí- y yo, de todas 
+maneras, quiero asistir a esa sesión.
+Si fuese posible, dependiendo naturalmente de cómo usted lo 
+tiene estructurado, pero si el miércoles todavía vamos a 
+recibir invitados, ¿podríamos votarlo al final? En vez de votar 
+al principio de la sesión, recibir a los invitados de derechos 
+de autor y ahí votarlo, porque con eso cubriríamos, de alguna 
+manera, este tiempo en que usted sabe que estamos saturados de 
+comisiones.
+El 
+señor 
+AEDO 
+(Presidente).- 
+Tiene 
+la 
+palabra 
+la 
+representante del Poder Ejecutivo.
+La señora GALAZ, doña Macarena (asesora legislativa del 
+Ministerio 
+de 
+Ciencia, 
+Tecnología, 
+Conocimiento 
+e 
+Innovación).- Solo una pregunta.
+¿Eso implicaría que hubiera sesión especial el lunes?, ¿o 
+sería solo una sesión el miércoles?
+El señor AEDO (Presidente).- Tiene la palabra el diputado 
+Lagomarsino.
+El señor LAGOMARSINO.- Presidente, al menos yo no estoy de 
+acuerdo y quiero dejarlo expresado en el acta.
+Creo que la materia en torno a propiedad intelectual es tan 
+grande que van a empezar a llegar, porque el mundo de los 
+derechos de autor recién se está activando. O sea, así como 
+cuando ingresamos el proyecto de ley el mundo de la 
+inteligencia artificial o el mundo relacionado se activó 
+lentamente, hoy muchas personas quieren ser escuchadas a 
+propósito de una iniciativa que se presentó en mayo del año 
+pasado, con el delay que eso significa, igualmente el mundo de
+38
+--- PÁGINA 39 ---
+los derechos de autor se está recién activando con motivo de 
+esto al conocer el artículo 31.
+En ese sentido, salvo que a esta altura el Ejecutivo quiera 
+soltar el artículo 31, que es un punto que planteó aquí la 
+ministra, creo que es bueno dar la discusión a propósito de 
+dicho artículo, para que así nadie se sienta dejado de 
+escuchar.
+Muchas gracias.
+El señor AEDO (Presidente).- Vamos a hacer algo por el ancho 
+camino 
+del 
+medio 
+que 
+yo 
+represento, 
+porque 
+queremos 
+escucharlos. De hecho, una posibilidad es hacer esta audiencia 
+del miércoles y al final votar. Hay cinco invitados y tenemos 
+poco tiempo.
+Voy a tomar una decisión autoritaria. Vamos a recibir a los 
+invitados el día 14 de agosto, los vamos a escuchar a todos, y 
+vamos a votar el día 28. Y dígale a la ministra que yo me hago 
+cargo de esa decisión.
+Entonces, creo que ahí se da el espacio para que expongan, 
+no solo se han activado ahora, también en eso me gusta ser bien 
+transparente, se han activado hace mucho rato. O sea, a mí me 
+han llamado, se han reunido conmigo en el Congreso, no es que 
+se activaron ahora.
+En 
+resumen, 
+hagamos 
+lo 
+siguiente: 
+el 
+día 
+14, 
+con 
+tranquilidad, en el marco de esto, los recibimos a todos, los 
+escuchamos, y el 28 nos reunimos y votamos en general. Porque 
+obviamente ellos, como lo hacen todas las organizaciones y las 
+instituciones, 
+nos van a hacer llegar sugerencias de 
+indicaciones una vez que discutamos esto en particular.
+¿Habría acuerdo?
+El señor LAGOMARSINO.- A mí no me parece.
+El señor AEDO (Presidente).- Pero, ¿qué es lo que le parece? 
+No entiendo. ¿Usted quiere discutir el artículo 31? No le 
+entiendo.
+El señor LAGOMARSINO.- Usted, Presidente, planteó que iba a 
+ser autoritario, obviamente yo no estoy de acuerdo, pero si 
+usted quiere plantear eso, está en su derecho.
+El señor AEDO (Presidente).- Bueno, eso es lo que está 
+planteado, lo vamos a hacer de esa forma. No vamos a abrir una 
+discusión de derechos de autor cuando abramos el artículo 31 
+invitando gente, porque creo que con ese razonamiento 
+cualquiera me va a pedir en la discusión de cualquier artículo 
+que invite gente cuando discutamos ese artículo y, por tanto,
+39
+--- PÁGINA 40 ---
+el día 14 de agosto escuchamos a las organizaciones en este 
+punto y votamos en general el 28 del mismo mes.
+¿Les parece?
+Les agradezco que hayan participado.
+Por haber cumplido con su objeto, se levanta la sesión.
+-Se levantó la sesión a las 19:39 horas.
+MAURICIO CÉSPED MORA, 
+Redacción de Sesiones.
+40

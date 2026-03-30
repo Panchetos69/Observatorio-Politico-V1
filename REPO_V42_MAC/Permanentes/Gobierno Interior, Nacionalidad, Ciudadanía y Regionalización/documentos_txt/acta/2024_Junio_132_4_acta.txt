@@ -1,0 +1,932 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=22868&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 03:45:33
+======================================================================
+
+--- PÁGINA 1 ---
+COMISIÓN DE GOBIERNO INTERIOR, NACIONALIDAD, CIUDADANÍA Y
+REGIONALIZACIÓN 
+PERÍODO LEGISLATIVO 2022 – 2026
+372ª LEGISLATURA 
+ 
+ACTA DE LA 132ª SESIÓN, ORDINARIA, CELEBRADA EL MARTES 11 DE JUNIO DE 
+2024, DE 15.00 A 17.00 HORAS.
+SUMARIO: La Comisión se reunió con el objeto de abordar la siguiente Tabla:
+1) Iniciar la discusión general del proyecto de ley, de origen en mensaje, en 
+segundo trámite constitucional y con urgencia calificada de “suma”, que modifica 
+diversos cuerpos legales para perfeccionar el sistema electoral y realizar las elecciones 
+municipales y regionales del año 2024 en dos días (Boletín N°16.729-06).
+2) Continuar la discusión general del proyecto de ley, de origen en moción y que 
+cumple su primer trámite constitucional y reglamentario, que modifica la ley Nº18.603, 
+orgánica constitucional de los partidos políticos, para desincentivar la fragmentación 
+política, regular la participación en los comités parlamentarios y permitir la federación 
+de partidos políticos (Boletín Nº15.959-06).
+3) Continuar la discusión del proyecto de ley, iniciado en moción, que modifica la 
+ley Nº19.886, de Bases sobre contratos administrativos de suministro y prestación de 
+servicios, para establecer una excepción en caso de contratos vinculados a la 
+persecución del crimen organizado (Boletín Nº16.170-06).
+4) Continuar la discusión general del proyecto de ley, de origen en moción y que 
+cumple su primer trámite constitucional y reglamentario, que modifica la ley N°18.575, 
+orgánica constitucional de Bases Generales de la Administración del Estado, con el 
+objeto de establecer una inhabilidad para el ingreso a cargos públicos de cónyuges y 
+parientes de las autoridades que indica (Boletín Nº11.364-06).
+* El proyecto de ley consignado en el punto N°2 de la Tabla, quedó pendiente de 
+tratamiento para una próxima sesión.
+I.- PRESIDENCIA
+Presidió la sesión el diputado señor Rubén Oyarzo.
+Actuó como abogado secretario de la Comisión, el señor Juan Carlos Herrera; como 
+abogada ayudante, la señora Carolina Aqueveque; y como secretaria ejecutiva, la señorita 
+Marcela Requena.
+II.- ASISTENCIA
+Asistieron las diputadas señoras Danisa Astudillo, Camila Musante, Catalina Pérez, 
+Joanna Pérez y Carolina Tello; y los diputados señores Miguel Becker, Bernardo Berger, 
+Fernando Bórquez, Juan Fuenzalida, Cosme Mellado, José Carlos Meza, Rubén Oyarzo 
+(presidente) y Matías Ramírez.
+Además, asistieron los diputados no integrantes de la instancia, señora Marta González 
+y señor Felipe Donoso.
+Respecto del proyecto de ley consignado en el primer lugar de la Tabla (Boletín 
+N°16.729-06), asistió la subsecretaria general de la Presidencia, señora Macarena Lobos 
+Palacios; y el presidente del Consejo Directivo del SERVEL, señor Andrés Tagle.
+En cuanto a los proyectos consignados en tercer y cuarto lugar de la Tabla (boletines 
+Nos 16.170-06 y 11.364-06, respectivamente), se recibió en audiencia a la contralora general 
+de la República (S), señora Dorothy Pérez Gutiérrez.
+Firmado por Juan Carlos Herrera Infante
+Fecha 02/07/2024 10:33:35 CLT
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 817E4DA4E9911493
+--- PÁGINA 2 ---
+2
+Finalmente, en calidad de asistente permanente, concurrió la profesional de la 
+Biblioteca del Congreso Nacional (BCN), señora Gabriela Dazarola.
+III.- ACTAS1
+Las actas de las sesiones 130ª ordinaria y 131ª especial se colocaron a disposición de 
+las señoras y señores diputados.
+IV.- CUENTA2
+Se recibieron los siguientes documentos:
+1.- Oficio Nº713-372, de S. E. el presidente de la República, mediante el cual retira y 
+hace presente la urgencia, calificada de "discusión inmediata", para el despacho del proyecto 
+que modifica diversos cuerpos legales para perfeccionar el sistema electoral y realizar las 
+elecciones municipales y regionales del año 2024 en dos días (Boletín N°16.729-06).
+2.- Oficio Nº665-372, de S.E. el presidente de la República, mediante el cual retira y 
+hace presente la urgencia, calificada de "simple", para el despacho del proyecto de ley que 
+consagra funciones en materia de prevención social, situacional y comunitaria del delito, y de 
+apoyo y asistencia a víctimas, a los gobiernos regionales (Boletín N°16.132-06).
+3.- Oficio Nº15965, de la ministra del Interior y Seguridad Pública, en respuesta a un 
+requerimiento de esta Comisión en orden a informar respecto a la apreciación de esa Cartera 
+con relación a que las nuevas formas de delito tienen su origen en la comuna de Estación 
+Central, y luego se extienden al resto de las comunas y, vinculado a ello, si se han realizado 
+acciones específicas para analizar estas nuevas modalidades de criminalidad (Respuesta 
+Oficio N°212/6/2024).
+4.- Oficio Nº1099, de la ministra de Desarrollo Social y Familia, en respuesta a una 
+solicitud de esta Comisión en orden a informar acerca de los programas que ejecuta esa 
+Cartera en la región de Coquimbo para paliar los efectos socioeconómicos de la escasez 
+hídrica en las familias más vulnerables (Respuesta Oficio N°219/6/2024).
+5.- Oficio Nº568, del presidente de la Comisión de Deportes y Recreación, mediante el 
+cual solicita recabar el acuerdo de la Comisión de Gobierno Interior para que se coloque en 
+tabla, a la brevedad posible, el proyecto de ley iniciado en moción de los diputados Jaime 
+Mulet, Cosme Mellado, Hernán Palma, Víctor Pino, Marco Antonio Sulantay; y las diputadas 
+Camila Musante y Carolina Tello, que concede la nacionalidad por gracia al destacado 
+deportista y entrenador Ahmed Gamaleldin Hussein Solyman (Boletín N°16.187-06).
+6.- Oficio Nº237-24, del Senado, mediante el cual comunica que ha aprobado en primer 
+trámite constitucional el proyecto, iniciado en mensaje, que modifica diversos cuerpos legales 
+para perfeccionar el sistema electoral y realizar las elecciones municipales y regionales del 
+año 2024 en dos días (Boletín Nº16.729-06).
+7.- Proyecto de ley iniciado en moción del diputado señor Lee, que "Modifica la ley 
+N°21.325, de Migración y Extranjería, para imponer a extranjeros sujetos a la medida de 
+expulsión las medidas cautelares que indica (Boletín N°16.906-06).
+8.- Proyecto de ley iniciado en moción de los diputados señores Leal; Bórquez; Carter; 
+Coloma; Lilayu; Martínez; Moreira y Sulantay; y de las diputadas señoras Pérez, doña 
+Marlene, y Romero, doña Natalia, que modifica la ley N°21.325, de Migración y Extranjería, 
+para establecer la obligación de verificar e informar la situación migratoria del arrendatario 
+extranjero de inmuebles (Boletín N°16.909-06).
+1 Disponibles en https://www.camara.cl/legislacion/comisiones/sesiones.aspx?prmID=3314&prmIdTipo=2101
+2 Disponible en https://www.camara.cl/verDoc.aspx?prmID=314438&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 3 ---
+3
+9.- Oficio Nº19.566, del secretario general de la Cámara de Diputados, informando que 
+la diputada señora Santibáñez retira su patrocinio al proyecto que modifica la ley N°18.700, 
+orgánica constitucional sobre Votaciones Populares y Escrutinios, para eximir de la obligación 
+de sufragar a personas de 75 o más años, electrodependientes o que padezcan una 
+enfermedad invalidante (Boletín Nº16.789-06).
+10.- Correo electrónico del abogado señor Sebastián Soto mediante el cual hace llegar 
+sus excusas por no poder participar en la presente sesión, ya que se encontrará dando clases 
+en la universidad.
+11.- Correo electrónico del señor Patricio Santamaría, jefe de la Unidad de Formación 
+Ciudadana y Educación Cívica Electoral del Servicio Electoral, mediante el cual comunica 
+haber remitido la invitación recibida, en términos personales, al presidente del Consejo 
+Directivo de la institución, señor Andrés Tagle; y al director nacional de la misma, señor Raúl 
+García. Al respecto, se excusa de asistir considerando que, por su actual condición de 
+funcionario, no le corresponde dar opinión sobre un tema que, con seguridad, deberá fijar 
+posición el Servicio en el que se desempeña.
+12.- Correo electrónico de la jefa jurídica del Servicio Jesuita a Migrantes, señora 
+Gabriela Hilliger, mediante el cual solicita formalmente a la Comisión poder participar en las 
+sesiones donde se aborde el proyecto de ley que modifica la ley Nº21.325 para perfeccionar 
+el procedimiento de expulsión administrativa (boletín Nº16.836-06).
+13.- Correo electrónico del secretario del Consejo Directivo del Servicio Electoral 
+(SERVEL), señor Nelson Ortiz Villalobos, mediante el cual solicita se reciba al presidente 
+dicha instancia, señor Andrés Tagle, para explicar a la Comisión los fundamentos y datos 
+técnicos del proyecto de ley que modifica diversos cuerpos legales para perfeccionar el 
+sistema electoral y realizar las elecciones municipales y regionales del año 2024 en dos días 
+(Boletín N°16.729-06).
+14.- Correo electrónico de la diputada Paula Labra, solicitando a la Comisión poner en 
+Tabla el proyecto de ley que modifica la ley Nº18.918, orgánica constitucional del Congreso 
+Nacional, para establecer un plazo máximo de respuesta a los oficios parlamentarios de 
+fiscalización (Boletín Nº16.163-07), toda vez que su tramitación se encuentra paralizada 
+desde el pasado 2 de octubre de 2023.
+15.- Correo electrónico del diputado Felipe Donoso, solicitando a la Comisión adoptar el 
+acuerdo para que el proyecto de ley que modifica cuerpos legales que indica para derogar el 
+feriado en días de elecciones y plebiscitos (boletín Nº16.725-06), de su autoría, sea fusionado 
+con el proyecto de ley, de origen en mensaje, que modifica diversos cuerpos legales para 
+perfeccionar el sistema electoral y realizar las elecciones municipales y regionales del año 
+2024 en dos días (boletín Nº16.729-06), que se encuentra radicado en esta Comisión. Lo 
+anterior, debido a que el proyecto de ley del gobierno busca establecer que las elecciones 
+que se llevarán a cabo en noviembre de este año sean realizadas en dos días, y la iniciativa 
+de su autoría busca evitar que dicha medida afecte al comercio a causa del feriado legal que 
+procede actualmente con ocasión de elecciones y plebiscitos, y de la restricción que impide 
+el funcionamiento de centros o complejos comerciales administrados bajo una misma razón 
+social o personalidad jurídica, durante jornadas electorales.
+El diputado señor Meza solicitó dar curso a la petición de la diputada señor Labra, 
+consignada en el punto N°14 de la Cuenta.
+El diputado señor Oyarzo, presidente de la Comisión manifestó su disposición para 
+colocar en Tabla el proyecto a la brevedad posible, sin perjuicio de hacer notar que las 
+sesiones de la Comisión, en el pasado y en lo sucesivo, deberán destinarse de forma 
+prioritaria a las numerosas urgencias legislativas que ha hecho presente el Ejecutivo.
+--- PÁGINA 4 ---
+4
+V.- VARIOS
+La diputada señora Catalina Pérez solicitó colocar en Tabla los siguientes proyectos 
+de ley del listado proporcionado por la Secretaría (los dos últimos, de fácil despacho):
+1.- El que modifica diversos cuerpos legales para sancionar el acoso sexual en los 
+sectores de la Administración del Estado que indica e imponer a las municipalidades la 
+obligación de contar con protocolos internos para la prevención y sanción del acoso sexual 
+(boletín N°14.458-06).
+2.- El que modifica la ley N°18.695, orgánica constitucional de Municipalidades, para 
+exigir a los candidatos a alcalde la presentación de un programa de gobierno comunal (boletín 
+N°16.070-06).
+3.- El que modifica la ley N°18.695, orgánica constitucional de Municipalidades, para 
+exigir a los alcaldes incluir en su cuenta pública anual una relación detallada del uso de los 
+recursos provenientes del aporte fiscal asociado al royalty minero (boletín N°16.839-06).
+El diputado señor Oyarzo (presidente) manifestó que así se considerará.
+*****
+En otro orden de ideas, la diputada señora Tello planteó que, en la Comisión de 
+Mujeres y Equidad de Género, de la cual también es miembro, recibieron hace algunas 
+semanas al Movimiento de Mujeres del Sector Público (MOMUSEP), quienes expusieron la 
+necesidad de ser recibidas en esta Comisión para abordar la complejidad a la que se han visto 
+enfrentadas en relación con la aplicación de las modificaciones que se han aprobado al Código 
+del Trabajo a su sector.
+En la misma línea, la diputada señora Musante hizo presente que estas mujeres han 
+enfrentado un sinnúmero de desafíos a la hora de entender cómo opera la adecuación de sus 
+regímenes laborales (la gran mayoría de ellas trabaja en municipios) en relación con la 
+aplicación de la actual ley de conciliación de la vida personal, familiar y laboral. Incluso, se 
+han ingresado requerimientos a la Contraloría General de la República para que se pronuncie 
+sobre el particular, en el entendido que ha habido otros pronunciamientos (de la Dirección del 
+Trabajo, por ejemplo, respecto de la ley de las 40 horas) que han hecho extensibles ciertas 
+materias al sector público.
+En virtud de lo solicitado, el presidente de la Comisión, señor Oyarzo propuso recibirlas 
+en audiencia una vez que se tramiten las urgencias legislativas en curso, fijando una sesión 
+especial para ello. Así fue acordado.
+Para la misma sesión, y a sugerencia de la diputada señora Musante, se extenderá 
+también la invitación a la contralora general de la República (S).
+La diputada señora Marta González agradeció a quienes levantaron el punto acerca 
+del teletrabajo, destacando que este es un debate que viene desde la pandemia. Acotó que 
+hoy existe una ley de conciliación y teletrabajo para el sector privado, pero el sector público 
+ha quedado en desmedro, lucha que se viene dando desde el año pasado y que se pretende 
+despejar antes de iniciar la tramitación de la Ley de Presupuestos 2025. Si bien en algún 
+momento de habló sobre una “ley corta” para el teletrabajo en el sector público, no se han 
+tenido noticias sobre aquello, y la premura radica en la proximidad del invierno, donde el tema 
+de los cuidados se vuelve más complejo para las madres trabajadoras. La idea es que no 
+exista una discriminación entre los trabajadores del sector privado y del sector público, y si 
+bien la legislación actual faculta a los directores de servicio para pedir teletrabajo, muy pocos 
+lo han hecho, quedando las madres trabajadoras al arbitrio de una persona que decide sobre 
+el particular.
+--- PÁGINA 5 ---
+5
+*****
+Finalmente, el diputado señor Oyarzo (presidente) solicitó el acuerdo de la Comisión 
+para enviar a la Corte Suprema, en virtud del artículo 77 inciso segundo de la Constitución 
+Política, el proyecto de ley que modifica la ley de migración y extranjería y otros cuerpos 
+legales en la materia que indica (boletín N°16.072-06). Así fue acordado.
+VI.- ORDEN DEL DÍA
+1) Iniciar la discusión general del proyecto de ley, de origen en mensaje, en 
+segundo trámite constitucional y con urgencia calificada de “suma”, que modifica 
+diversos cuerpos legales para perfeccionar el sistema electoral y realizar las elecciones 
+municipales y regionales del año 2024 en dos días (Boletín N°16.729-06).
+Subsecretaria general de la Presidencia, señora Macarena Lobos Palacios
+La referida autoridad efectuó una presentación3 ante la Comisión, del siguiente tenor:
+El proyecto de ley de marras modifica distintos cuerpos legales, con dos objetivos 
+fundamentales: celebración de las elecciones municipales y regionales de octubre del 
+presente año en dos días; y perfeccionamiento del sistema electoral.
+Esta iniciativa fue acogida por el Ejecutivo, a propuesta del SERVEL, que es el órgano 
+técnico autónomo constitucional encargado de estas materias. La razón de ser es que, en 
+octubre de este año, ocurrirá un hecho inédito, ya que por primera vez se efectuará una 
+elección con voto obligatorio en que conjuntamente se elegirán cuatro cargos de 
+representación popular (Elecciones conjuntas de autoridades regionales y municipales: Leyes 
+Nos 18.695 y 19.175).
+Esto supone asumir el desafío de la duplicación del padrón electoral (en contraste con 
+el 2021: elección con voto voluntario de cuatro cargos de representación popular) y de 
+sancionar aproximadamente 20 mil candidaturas. Por tanto, el SERVEL, analizando distintas 
+propuestas y alternativas, por la unanimidad de su Consejo Directivo llegó a la conclusión de 
+que la forma más adecuada para garantizar que la ciudadanía pudiera concurrir a ejercer su 
+derecho a sufragio era con una elección en dos días, ya que, de lo contrario, el proceso 
+requeriría de 14 horas para recién poder iniciar el escrutinio (el promedio actual es de 9 horas 
+de funcionamiento).
+Acogiendo la voz técnica del SERVEL, el Ejecutivo presentó este proyecto de ley, cuyo 
+contenido es el siguiente:
+Celebración de las elecciones municipales y regionales de octubre del 2024 en dos días
+Estas se efectuarán el último sábado y domingo del mes de octubre (26 y 27 de ese 
+mes). 90 días antes de la elección, el SERVEL dictará una resolución con las normas e 
+instrucciones necesarias para el desarrollo de las elecciones. Por otra parte, la custodia de 
+las urnas corresponderá al delegado de la Junta Electoral y al SERVEL, en coordinación con 
+el Ministerio del Interior y Seguridad Pública, el Ministerio de Defensa Nacional, las FFAA y 
+Carabineros de Chile (tal como ocurrió con la experiencia de elecciones en dos días que hubo 
+en pandemia).
+Otras adecuaciones
+1.- Regulación del voto obligatorio en tanto no se dicte la ley de voto obligatorio
+La reforma constitucional que establece el voto obligatorio mandata a regular esa 
+materia por medio de una ley orgánica constitucional. Dicho proyecto de ley fue ingresado a
+3 Disponible en https://www.camara.cl/verDoc.aspx?prmID=314448&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 6 ---
+6
+tramitación por parte del Ejecutivo en octubre del año pasado, el cual se encuentra radicado 
+en la Comisión de Gobierno del Senado, pero este no se ha tramitado. Por tanto, de no 
+establecer en este proyecto una norma especial para las próximas elecciones, se daría un 
+voto obligatorio nominal, pues en la práctica no hay una sanción asociada.
+Desde esa perspectiva, el proyecto de ley replica el artículo 160 de la Constitución, que 
+reguló las sanciones, exenciones y procedimientos del voto obligatorio para el plebiscito de 
+diciembre de 2023. Esto significa que:
+a) La norma aplica los procedimientos ante los juzgados de policía local regulados en la 
+ley N°18.287, con una multa que puede ir de 0,5 a 3 UTM y con las causales de excepción 
+que ya se conocen, las que ponderará el juez de policía local.
+b) Excepcionalmente, se establece que todas las notificaciones se realizarán a los 
+correos electrónicos que informe el SERVEL (notificación electrónica). Para tales efectos, se 
+faculta a dicho órgano a suscribir convenios con el Servicio de Registro Civil, la TGR o SII.
+c) En todo caso, de resultar necesaria la notificación personal, tal diligencia no podrá 
+realizarse por Carabineros de Chile. Esto constituye una excepción al artículo 8 de la ley que 
+regula los juzgados de policía local, siguiendo el mandato del presidente de la República 
+quien, en la reciente Cuenta Pública, se refirió a la necesidad de no distraer las funciones de 
+las autoridades policiales en temas administrativos, como las notificaciones.
+2.- Adelanto de la presentación de gastos electorales
+Esta modificación no altera la rendición, sino la obligación de presentar uno o más 
+informas hasta el día antes de la elección para efectos de identificar ciertos gastos, y así evitar 
+que se puedan abultar innecesariamente en función del número de votos que se obtiene a 
+posteriori.
+Desde esa perspectiva, se incorpora el deber de informar los gastos hasta el día anterior 
+al inicio de la elección o plebiscito. Pero se trata sólo los gastos señalados en las letras c) y 
+d) del artículo 2 de la ley de gasto electoral, esto es, arrendamiento de bienes muebles o 
+inmuebles o la contratación de servicios, que sobrepasen las 30 UF. De tal manera que en la 
+cuenta general de ingresos y gastos solo podrán declararse aquellos gastos previamente 
+informados.
+3.- Regulación de la propaganda electoral en redes sociales, plataformas digitales y 
+canales de televisión locales y regionales
+Se incorpora como propaganda electoral a las redes sociales, plataformas digitales y 
+canales concesionarios de televisión local o regional, que haya sido contratada y pagada. A 
+todos aquellos se les aplica la prohibición de discriminar el cobro de sus tarifas y el deber de 
+informar al SERVEL sobre estas. Además, se incorpora el deber los medios de prensa, 
+radioemisoras, redes sociales y plataformas digitales de informar los contratos al SERVEL.
+4.- Modificación del procedimiento de designación de vocal de mesa
+Se establece un nuevo procedimiento de designación a través de un sorteo realizado 
+por un sistema computacional. SERVEL informará a las Juntas Electorales los electores que 
+pueden y no pueden ser vocales de mesa según las siguientes reglas:
+a) Los electores solo podrán ser designados como vocales de mesa por dos procesos 
+electorales (actualmente la regla es por 4 años).
+b) Cumplido lo anterior, los electores tendrán una prohibición de 8 años para volver a 
+ser vocales de mesa.
+--- PÁGINA 7 ---
+7
+5.- Simplificación del procedimiento de declaración de candidaturas y precisión de plazo 
+para formalizar pactos
+a) Separación del acto de declaración de candidaturas y presentación de sus 
+antecedentes, simplificando el procedimiento.
+b) Los antecedentes se presentarán 72 horas después del vencimiento del plazo 
+para la declaración de candidaturas.
+c) Digitalización del procedimiento de declaración de candidaturas a través de una 
+plataforma electrónica, por vía de autentificación telemática en la plataforma del SERVEL, sin 
+necesidad de tener que concurrir a un notario o a un oficial del Registro Civil, como ocurre hoy 
+en día.
+d) Las candidaturas podrán presentarse por cada territorio electoral (partidos 
+políticos o pactos electorales).
+e) Formalización de pactos se realizará hasta las 48 horas anteriores a la 
+declaración de candidaturas.
+6.- Aumento de locales de votación
+Se faculta al SERVEL a determinar como locales de votación tanto a los 
+establecimientos públicos como a los privados que correspondan a establecimientos 
+educacionales o deportivos.
+En definitiva, se amplía el número de inmuebles disponibles, facilitando que el SERVEL 
+cumpla con el mandato de la ley de georreferenciación a fin de acercar los locales a los 
+electores.
+7.- Facilidades para el acto eleccionario
+Se establecen las siguientes modificaciones al acto eleccionario:
+a) La obligación de contar con dos cámaras por cada mesa receptora (hoy es solo una 
+facultad).
+b) Que la votación solo se pueda realizar con lápiz pasta color azul.
+8.- Eliminación de la prohibición de la venta de alcohol los días de elecciones o procesos 
+eleccionarios
+A recomendación del SERVEL, se suprime de manera permanente la prohibición para 
+los establecimientos comerciales de expender bebidas alcohólicas durante el día de la 
+elección o plebiscito (entre las 05:00 am y dos horas después del cierre de la votación).
+La eliminación de este resabio que tiene nuestra ley electoral, relativa a la “ley seca”, 
+permitirá que efectivamente pueda funcionar el comercio.
+Todas las modificaciones antes expuestas tuvieron amplio respaldo y consenso 
+en la tramitación en el Senado.
+Sin embargo, hubo tres temas que generaron controversia, a saber:
+Modificaciones a la normativa laboral que permite hacer efectivo el derecho a sufragio 
+de los trabajadores
+En materia laboral se introducen las siguientes modificaciones:
+a) La prohibición de funcionamiento para centros comerciales que operan bajo a una 
+misma razón social (artículo 38 N°7 del Código del Trabajo) no se aplicará para ninguno de 
+los dos días en las elecciones de octubre de 2024.
+--- PÁGINA 8 ---
+8
+b) Se elimina, de forma permanente, dicha prohibición de funcionamiento establecida 
+en el artículo 38 N°7 del Código del Trabajo.
+c) Se amplía de 2 a 3 horas el permiso laboral de los trabajadores para ausentarse para 
+ir a votar o excusarse.
+Al respecto, presentó el siguiente cuadro comparativo:
+Sobre el punto, explicó que el artículo 38 N°7 del Código del Trabajo establece de 
+manera permanente la regla que los trabajadores del comercio que estén bajo una misma 
+razón social tienen feriado irrenunciable el día de las elecciones.
+El proyecto original no innovó respecto de este punto, y el hecho de haber elecciones 
+en dos días no dotaba del carácter de feriado irrenunciable al día sábado. Es decir, se 
+mantenía inalterable la norma relativa a los feriados.
+En efecto, en la discusión de este proyecto en el primer trámite constitucional, el 
+Ejecutivo planteó que el debate sobre el tema del feriado debía discutirse en la “ley larga”. 
+Además, con ocasión del plebiscito de diciembre de 2023 se presentó un proyecto en el 
+Senado para declarar renunciable el feriado electoral, el cual fue rechazado en general. Por 
+lo tanto, el Ejecutivo no innovó en esta materia entendiendo que aplicaba la restricción 
+establecida en el artículo 68 de la Constitución Política de la República, en el sentido que, 
+siendo rechazado un proyecto en general, no es posible legislar sobre la misma materia sino 
+transcurrido un año.
+Sin perjuicio de ello, los parlamentarios igualmente presentaron indicaciones al 
+respecto, y el proyecto de ley sometido a consideración de la Cámara establece la supresión 
+de la regla del artículo 38 N°7 del Código del Trabajo, de manera permanente; y también, de 
+forma transitoria, para las elecciones a realizarse en octubre próximo. En compensación a 
+aquello, se aprobó una ampliación de dos a tres horas del permiso para sufragar que 
+actualmente establece la ley electoral para los trabajadores.
+Propuesta sobre adecuaciones a las devoluciones de los partidos y candidatos (fue 
+rechazada)
+El mensaje del Ejecutivo contemplaba el siguiente artículo transitorio, el cual fue 
+rechazado por el Senado:
+"Artículo transitorio. Para las elecciones de Alcaldes, Gobernadores, Consejeros 
+Regionales y Concejales que se deban realizar en el año 2024, los valores señalados en el 
+artículo 17 de la ley N°19.884 Orgánica Constitucional sobre Transparencia, Límite y Control 
+del Gasto, cuyo texto refundido, coordinado y sistematizado se encuentra en el decreto con 
+fuerza de ley N°3, del 2017, del Ministerio Secretaria General de la Presidencia, se ajustarán 
+de acuerdo a las reglas siguientes:
+--- PÁGINA 9 ---
+9
+El de cuatro centésimas pasará a ser de veintiséis milésimas. En todo caso, la suma a 
+reembolsar a las candidaturas por voto obtenido en primera votación en la elección de 
+Alcaldes, Gobernadores, Consejeros Regionales y Concejales de 2024, no podrá ser inferior, 
+a las sumas de 253.747, 243.016, 245.794 y 243.695 unidades de fomento respectivamente, 
+divididas por la suma total de votos válidamente emitidos para cada una de las 
+correspondientes elecciones del año 2024, conforme a las reglas generales.
+El de quince milésimos será de un centésimo. En todo caso, la suma a reembolsar a los 
+partidos políticos por voto obtenido en primera votación en la elección de Alcaldes, 
+Gobernadores, Consejeros Regionales y Concejales de 2024, no podrá ser inferior, a las 
+sumas de 95.155, 91.131, 92.173 y 91.386 unidades de fomento respectivamente, divididas 
+por la suma total de votos válidamente emitidos para cada una de las correspondientes 
+elecciones del año 2024, conforme a las reglas generales.
+Por su parte el valor de cinco milésimas señalado en el artículo 15 de la misma ley será 
+de tres milésimas, para la segunda votación de gobernadores del año 2024.".
+El objetivo de esta norma era mantener los equilibrios previos al establecimiento del voto 
+obligatorio. Con voto obligatorio, sin duda, va a haber un aumento de la participación 
+ciudadana, lo que implicará que, de mantenerse los guarismos hoy establecidos en la ley 
+electoral, habrá un mayor desembolso para las candidaturas y un mayor gasto fiscal 
+(promedio estimado de 30 mil millones de pesos).
+De esa manera, con el ánimo de no generar ningún efecto negativo ni para los 
+candidatos ni para el erario nacional, se buscó implementar una norma fiscalmente neutra, 
+incorporando una regla transitoria que era solo aplicable a las elecciones de octubre de 2024. 
+Dicha regla modificaba sólo los factores señalados en el artículo 17 de la ley N°19.884 para 
+el reembolso a candidatos y partidos políticos, incorporando mecanismos que permitieran 
+mantener las cifras recibidas en el mismo nivel de la última elección con votación voluntaria.
+Para lo anterior, el factor que se utilizaba para calcular el valor del voto dependía del 
+número total de votos válidamente emitidos a nivel nacional para cada candidatura, en 
+relación con los obtenidos en la última elección con votación voluntaria.
+Al respecto, afirmó que la pretensión del Ejecutivo es reponer esta materia, pues a su 
+juicio es sumamente importante garantizar que, efectivamente, se siga manteniendo la lógica 
+de la neutralidad fiscal, no afectándose ni el erario fiscal ni los candidatos.
+Modificación al artículo 48 de la ley N°18.700
+En el mensaje, el Ejecutivo planteó una modificación al artículo 48 de la ley N°18.700, a 
+fin de sustituir la norma actual que mandata la publicación tanto de la nómina de vocales como 
+de los facsímiles de votos en los diarios de circulación nacional o regional. La idea era que 
+dicha publicación pudiera efectuarse en la página web del SERVEL.
+Si bien, en el transcurso de la discusión, el Ejecutivo se allanó a la conclusión de que 
+era relevante que los facsímiles pudieran estar a disposición de los electores, mantuvo la idea 
+de poder publicar la nómina de vocales de mesa por medio de la página web del SERVEL, 
+pues dicha plataforma recibió en el último proceso electoral del año pasado más de 38 
+millones de visitas, que corresponden a más de 14 millones de consultas por un mismo Rut. 
+Por lo tanto, en la práctica, la mayoría de las personas consulta a través de esta vía. Esto 
+supone, además, un ahorro importante de recursos, con los cuales se pueden financiar los 
+mayores gastos asociados a llevar a cabo las elecciones de octubre próximo en dos días.
+Esta modificación fue rechazada por el Senado, por lo que el Ejecutivo la repondrá en 
+este segundo trámite constitucional en la Cámara, solamente en lo relativo a la publicación de 
+la nómina de los vocales de mesa.
+--- PÁGINA 10 ---
+10
+Presidente del Consejo Directivo del SERVEL, señor Andrés Tagle
+El invitado destacó como uno de los principales contenidos de este proyecto de ley, la 
+sanción vinculada al voto obligatorio, el cual está regulado actualmente en la Constitución 
+Política de la República, pero sin sanción asociada. Al respecto, se refirió a un proyecto de 
+ley, iniciado en mensaje (boletín N°16.357-06), que se encuentra en primer trámite 
+constitucional en el Senado, pero que no ha avanzado en su tramitación como se quisiera. 
+Por lo tanto, el proyecto de ley en actual discusión lo que hace es reproducir las normas sobre 
+voto obligatorio que rigieron para el plebiscito constitucional del 2022, y para las elecciones 
+del 2023 de consejeros constitucionales y el plebiscito del mismo año. Sin estas normas, 
+afirmó, las elecciones en dos días no tendrían sentido, pues lo más probable es que se lograría 
+una participación similar a la de voto voluntario.
+En cuanto a las elecciones donde se ha aplicado el sistema de voto obligatorio con 
+sanción, los porcentajes de participación fueron los siguientes: El plebiscito constitucional del 
+2022 tuvo una participación de 86,02%; la elección del consejo constitucional, del 82,55%; y 
+el plebiscito constitucional de 2023, de un 85,03%.
+Debido a estos números es que se plantea como solución una elección en dos días, 
+pues por primera vez se tendrán cuatro elecciones locales juntas. Además, hay dos papeletas 
+de votación muy extensas (consejeros regionales y concejales). El SERVEL ha estimado en 
+5 minutos la demora de cada elector en la cámara: un minuto para los votos de alcalde y 
+gobernador; y un minuto y medio para los votos de consejero regional y de concejales. 
+Habiendo dos cámaras, en 5 minutos podrían estar votando dos electores, y considerando 
+una participación electoral del 85%, se necesitarían 14 horas y 10 minutos para la votación.
+Por lo tanto, de no adoptarse las medidas que plantea esta iniciativa, se proyecta una 
+elección con largas filas de espera, aglomeraciones en los locales, grandes demoras para 
+sufragar, muchos reclamos ciudadanos, incidentes, e incluso la posibilidad de que la elección 
+sea declarada nula por parte de los tribunales electorales, dado que, eventualmente, podría 
+estimarse que no votó un contingente importante de personas.
+En otro orden de ideas, hizo presente que el proyecto de ley regula un procedimiento 
+de custodia de los votos, muy similar al implementado en mayo de 2021, donde no hubo 
+ningún incidente. Básicamente, consiste en que los vocales, al concluir el primer día la 
+votación, sellan las urnas con sellos de calidad especial y la caja con los votos no utilizados y 
+otros materiales, y las entregan al delegado de local, quien las deposita en una sala especial 
+que él designa y que cierra con llave, evitando el acceso desde el exterior. Esa sala también 
+se sella con sellos especiales, y queda bajo custodia de las Fuerzas Armadas durante toda la 
+noche, junto con un asesor del delegado y una persona del SERVEL, y los apoderados que 
+lo deseen. Al día siguiente, el delegado abre la sala y reparte las urnas. Hizo presente que, 
+en Chile, las Fuerzas Armadas han custodiado los votos en los locales de votación desde el 
+año 1988, por lo menos, hasta la fecha. Por lo tanto, esto no es una novedad.
+En cuanto al aumento de los locales de votación, señaló que ese ha sido un tema que 
+también se ha conversado con las Fuerzas Armadas, pues ese aumento implicaría disponer 
+de menos personal en cada local y, por ende, menos seguridad en los recintos.
+En otra materia, el proyecto de ley incrementa las remuneraciones de los vocales de 
+mesa por vía adicional, y hay un aumento proporcional a todas las personas que cumplen 
+funciones en los locales de votación.
+Acotó que el SERVEL ha concluido que la mejor opción para los electores es permitirles 
+votar en dos días, y que ellos elijan libremente qué día hacerlo. Sin embargo, ello no significa 
+que no se hayan explorado diversas alternativas para hacer frente a esta situación.
+--- PÁGINA 11 ---
+11
+Por ejemplo, afirmó que aumentar el horario no es una solución al problema, pues la 
+elección, en ese caso, se extendería hasta aproximadamente las 23.00 horas del día domingo, 
+con todas las dificultades que eso implica.
+Por otra parte, aumentar los locales de votación tampoco es la solución. En realidad, la 
+solución es disminuir el número de electores por mesa, para aumentar el número de mesas, 
+lo que podría implicar un aumento del número de los locales de votación. Al respecto, precisó 
+que el SERVEL no tiene la posibilidad de disminuir los 400 electores por mesa, pues ello está 
+regulado en una norma legal de la ley de inscripciones electorales que quedó así fijada en la 
+ley de georreferenciación (originada en una moción). Por lo tanto, se requiere de un cambio 
+legal para ello.
+Al respecto, lo que el SERVEL estima es que, si la votación aumenta hasta llegar a un 
+85%, ello implicaría crecer en un 65% las 40 mil mesas que hoy día funcionan y en un 65% 
+los locales. Sin embargo, no existe esa cantidad de locales en Chile, ni tampoco habría la 
+capacidad de implementarlos en el poco tiempo que resta para la elección. De hecho, el 
+proyecto de ley contempla la facultad para el SERVEL de destinar cualquier establecimiento 
+educacional para local de votación, aunque sea privado, pues hoy la ley lo autoriza a destinar 
+un establecimiento privado solo si no hay públicos a disposición.
+En relación con la posibilidad de aumentar las cámaras secretas, existe el problema de 
+que el “cuello de botella” se generaría en la mesa, la cual, además, de manera paralela, 
+desarrolla otras funciones con otros electores (identificarlos, encontrarlos en el padrón, anotar 
+los números de los cuatro votos, proporcionarle el lápiz pasta azul, etc.). Por tanto, esta 
+alternativa solo trasladaría el problema hacia la mesa, la cual también tiene que recibir los 
+votos una vez que se haya emitido el sufragio.
+También se analizó la idea planteada por algunos senadores de separar las elecciones 
+en dos: hacer las regionales el 27 de octubre; y las municipales junto con la eventual segunda 
+vuelta de gobernadores, cuatro semanas después. Sin embargo, eso es obligar a los electores 
+a concurrir, con certeza, dos veces en el año, cuando la concurrencia para la segunda vuelta 
+de gobernadores es una posibilidad, y no una certeza. Además, separar el calendario electoral 
+en dos tiene una serie de implicancias de carácter político, que también deben considerarse. 
+Finalmente, esta alternativa no resuelve el problema, porque en la eventual segunda vuelta 
+de gobernadores regionales igualmente habría tres votos.
+Con todo, hizo ver que las elecciones en dos días se están legislando de manera 
+transitoria. Eso significa que, de aquí a los próximos cuatro años, incluso para las elecciones 
+en aquellas regiones que deberán elegir senadores (tres votos en total), el SERVEL tendrá 
+que adoptar medidas en cuanto a aumentar el número de mesas y locales, para lo cual se 
+espera contar con el tiempo necesario para hacerlo.
+En otras materias, el proyecto de ley propone también importantes medidas:
+1.- Mejora en la selección de los vocales, lo que fue solicitado por acuerdo de la Cámara 
+(dos procesos electorales, y no todas las elecciones que tengan lugar en cuatro años). Al 
+respecto, explicó que el problema de los últimos cuatro años fue la gran cantidad de 
+elecciones especiales que no estaban consideradas en el calendario normal.
+2.- Eliminación de la “ley seca”.
+3.- Incorporación de las redes sociales y las plataformas de internet a la misma 
+regulación que rige para la prensa y las radios. Esto se justifica porque las campañas se están 
+trasladando desde medios de radio, principalmente, e incluso desde la vía pública, hacia las 
+redes sociales y las plataformas de internet, respecto de las cuales no rigen las obligaciones 
+que sí rigen para los otros medios: informar lo contratado y tener tarifas parejas. 
+Adicionalmente, en el Senado se incorporó permitir propaganda electoral en canales
+--- PÁGINA 12 ---
+12
+concesionarios de televisión regional y local, novedad que no estaba considerada actualmente 
+en la ley.
+4.- Cambios en la declaración de candidaturas para parlamentarios y municipales. Dada 
+la experiencia del SERVEL, esto cobra relevancia sobre todo considerando la gran cantidad 
+de candidatos. La propuesta del proyecto es separar los procesos de declaración de 
+candidaturas y la presentación de los antecedentes. Además, la declaración de candidaturas 
+podrá hacerse digitalmente. Lo anterior implica que solo se entregarán los antecedentes de 
+quienes realmente lleguen a ser candidatos (aquellos efectivamente declarados por los 
+partidos).
+5.- Aumento del permiso laboral para concurrir a sufragar, de dos a tres horas.
+Finalmente, sobre el tema de la publicación de la nómina de vocales de mesa, explicó 
+que en la página web del SERVEL, a partir de los 22 días anteriores a la elección (misma 
+fecha en que se publican los vocales) entra a operar la “consulta de datos”. En el último 
+proceso electoral del año pasado se recibieron 38 millones de consultas, consultaron 14,2 
+millones de Rut diferentes, y votaron aproximadamente 13 millones de personas. Por tanto, 
+afirmaciones como que a las personas mayores se les iba a dificultar ubicar su mesa con este 
+sistema de consulta, quedaron desmentidas con estas cifras. Ellas, además, reafirman la 
+opinión del SERVEL de que la publicación de la nómina de los vocales de mesa en los diarios, 
+que tiene un costo de aproximadamente 4 mil 100 millones de pesos en un período de cuatro 
+años (ciclo electoral completo), se hace innecesaria. En efecto, es un gasto que no se justifica 
+desde el punto de vista electoral. Además, al ser alfabética dentro del local de votación, 
+siempre cambia la mesa asignada a los electores. Entonces, para conocer su mesa, estos 
+deben igualmente recurrir a la consulta en la página web del SERVEL, donde, entre otros 
+antecedentes relevantes, se publica si el elector es o no vocal de mesa.
+* Se deja constancia que el invitado dejó a disposición de la Comisión una minuta con 
+los fundamentos técnicos de la votación en dos días4, y otra con observaciones a este 
+proyecto de ley 5.
+*****
+Concluida las exposiciones de ambas autoridades, se generó el siguiente debate en el 
+seno de la Comisión:
+La diputada señora Astudillo consideró bueno el proyecto, en general. Sin embargo, 
+planteó dos dudas.
+En primer lugar, si bien es lógico realizar las elecciones en dos días en atención a la 
+gran cantidad de candidatos y cargos a elegir, se preguntó qué garantizará que el proceso no 
+colapse en un día, pensando en que los chilenos siempre hacen todo a última hora. Quizá 
+sería mejor idear un sistema donde se divida a la población para votar, u otro mecanismo más 
+eficiente.
+En otro orden de ideas, y pensando en las candidaturas más pequeñas y modestas, 
+preguntó cuál es el sentido de informar los gastos electorales el día previo a la elección, siendo 
+que, muchas veces, en ese tipo de candidaturas, el administrador, el jefe de campaña y el 
+que hace gran parte del trabajo es la misma persona. Desde esa perspectiva, generar esta 
+obligación adicional podría significar un gran perjuicio para ese tipo de candidaturas.
+Haciendo un poco de historia, la diputada señora Joanna Pérez recordó que, cuando 
+se legisló para reponer el voto obligatorio, en la Cámara se quiso legislar para implementar
+4 Disponible en https://www.camara.cl/verDoc.aspx?prmID=314484&prmTipo=DOCUMENTO_COMISION
+5 Disponible en https://www.camara.cl/verDoc.aspx?prmID=314506&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 13 ---
+13
+una sanción y hacerlo efectivo, pero el Senado no lo permitió. Y hasta el día de hoy, si no es 
+por SERVEL, el proyecto de ley que se ingresó para tal efecto, en actual tramitación, tampoco 
+se habría presentado. Por lo tanto, criticó que la regulación de esta materia se haya dejado 
+para último minuto.
+También hizo presente que, en la misma oportunidad en que se legisló el voto 
+obligatorio, se solicitaron más recursos para hacerse cargo del mayor costo que iba a implicar 
+una mayor participación ciudadana. Sin embargo, el argumento que se esgrimió fue que ello 
+no era necesario, porque el trabajo del SERVEL siempre se proyectaba sobre la base del 
+universo del padrón completo. Al respecto, pidió al gobierno que si hoy es otro criterio el que 
+impera, que se transparente.
+En otro orden de ideas, planteó la necesidad de extender la norma de financiamiento y 
+reembolso adicional de gastos electorales que rige actualmente, de manera transitoria, 
+respecto de las candidatas parlamentarias, también a las candidaturas de mujeres en las 
+elecciones de octubre próximo. Al respecto, hizo presente que hay un proyecto de ley en 
+tramitación que, en efecto, establece el incremento adicional no solo para las candidatas al 
+Parlamento, sino que también a alcaldesa, concejala y consejera regional. Sin embargo, este 
+proyecto de ley no se hace cargo de ese tema.
+Manifestó también su preocupación por las implicancias de este proyecto de ley en 
+relación con la “ley antidíscolos”, pues hay candidatos que renunciaron cumpliendo con todos 
+los plazos establecidos en la ley, pero teniendo en consideración una elección a realizarse el 
+día domingo 27 de octubre.
+En otra materia, manifestó haber recibido reclamos de los medios regionales escritos 
+por la digitalización en la publicación de la nómina de los vocales de mesa, pues si bien ello 
+implica un importante ahorro de recursos, también debe pensarse en aquellos chilenos que 
+no tienen acceso a la digitalización, como ocurre en muchos sectores de su distrito.
+Finalmente, opinó que, si bien estos son temas urgentes, se debe legislar con 
+responsabilidad, pues ha quedado de manifiesto un cambio de visión entre la administración 
+anterior y la actual en estas materias. Así también, criticó que el proyecto no venga 
+acompañado de un informe financiero.
+El diputado señor Meza hizo presente su preocupación por la votación en dos días. Al 
+respecto, señaló no estar convencido de que solo implementando este mecanismo se va a 
+solucionar el problema de la demora en el proceso de votación. A su juicio, nada asegura que 
+la votación se concentre solo el primer día, o solo el segundo día.
+Por otra parte, enfatizó que la reforma que aprobó el voto obligatorio es del 4 de enero 
+de 2023, por lo que no es aceptable que, un año después, el SERVEL haya hecho la 
+prevención de que la elección debía realizarse en dos días.
+Se preguntó, además, por qué no se ha presentado la reforma legal para disminuir el 
+número de electores por mesa, si ello podría ser la solución a este problema, al implicar la 
+necesidad de aumentar el número de mesas y, por ende, el número de locales de votación. 
+Llamó la atención, además, sobre lo afirmado por el presidente del Consejo Directivo del 
+SERVEL en el sentido que, para los próximos cuatro años, incluso para las elecciones en 
+aquellas regiones que deberán elegir senadores (tres votos en total), dicho organismo tendrá 
+que adoptar medidas en cuanto a aumentar el número de mesas y locales. Al respecto, se 
+preguntó por las razones para que eso sí se pueda materializar para un par de años más, 
+pero no se pueda hacer ahora. En definitiva, consideró endebles los argumentos esgrimidos 
+para justificar la elección en dos días.
+En otra materia, también planteó su inquietud porque este proyecto de ley no venga 
+aparejado de un informe financiero, pues es evidente que sí implica gasto.
+--- PÁGINA 14 ---
+14
+Respondiendo las interrogantes, la subsecretaria general de la Presidencia, señora 
+Lobos afirmó que, de acuerdo con la experiencia que ya hubo de elección en dos días, se 
+genera una auto regulación de la conducta de los electores en función de lo que van 
+mostrando las transmisiones de las elecciones en vivo por parte de la prensa. A pesar de 
+haberse planteado el tema en el Senado, consideró que es complejo establecer mecanismos 
+para segmentar a la población en un día u otro, pues ello podría generar más confusión y las 
+personas podrían terminar concurriendo dos días a votar si no se entienden bien las 
+instrucciones respecto a la distribución.
+Por otra parte, precisó que el proyecto de ley no innova en cuanto a la rendición de 
+gastos electorales, sino que solo se trata de la obligación de informar ciertos gastos hasta el 
+día anterior al inicio de la elección o plebiscito: arrendamiento de bienes muebles o inmuebles 
+o la contratación de servicios, que sobrepasen las 30 UF y con un solo proveedor. La idea de 
+esta propuesta, que se establece como una norma de transparencia, es evitar el abultamiento 
+de gastos que, en realidad, no se efectuaron, con el fin de obtener una devolución mayor de 
+gastos.
+En materia de voto obligatorio, hizo presente que el Ejecutivo presentó un proyecto de 
+ley en octubre del año pasado, el cual está radicado en la Comisión de Gobierno del Senado. 
+La idea era que, a esta fecha, ya estuviera legislado. Pero como ese proyecto no ha tenido 
+avances, surgió la necesidad de hacerse cargo de la coyuntura de las elecciones de este año 
+en el proyecto de ley que ahora se somete a consideración de la Cámara.
+En cuanto al tema del financiamiento a las candidatas mujeres, recordó que el artículo 
+primero transitorio de la ley N°19.884 estableció, solo para las elecciones parlamentarias de 
+2017, 2021, 2025 y 2029, que las diputadas y senadoras tendrían derecho a un reembolso 
+adicional a los gastos electorales con cargo fiscal de 0,01 UF por cada voto obtenido, de 
+conformidad a lo establecido en el artículo 15. Al respecto, lo que plantea la diputada señora 
+Joanna Pérez es poder extender esa norma a las candidatas mujeres que participarán en las 
+elecciones de octubre próximo. Sin embargo, ello tendría un impacto fiscal que no está 
+cuantificado en el informe financiero, por tanto, no está en condiciones de emitir una opinión 
+al respecto sin antes verificar el impacto financiero con la Dirección de Presupuestos.
+Finalmente, respecto de una preocupación manifestada tanto por la diputada señora 
+Joanna Pérez como por el diputado señor Meza, afirmó que este proyecto de ley sí tiene 
+aparejado un informe financiero pues, desde luego, implica gasto fiscal. Tal como ese informe 
+detalla, básicamente hay un costo asociado a gastos de personal por la elección en dos días: 
+vocales de mesa, delegados de Junta Electoral, personal asesor del delegado, personal de 
+enlace del SERVEL, facilitadores y ayudantes. Y, por otro lado, sellos y cintas; y formularios. 
+Lo anterior tiene un costo de 5 mil 286 millones de pesos. Adicionalmente, el hecho que se 
+eliminare en el Senado la adecuación de la devolución de votos por candidato implica un 
+desembolso fiscal, en promedio, de 30 mil millones adicionales, de no reponerse el artículo 
+que fue rechazado en el primer trámite constitucional.
+3) Continuar la discusión del proyecto de ley, iniciado en moción, que modifica la 
+ley Nº19.886, de Bases sobre contratos administrativos de suministro y prestación de 
+servicios, para establecer una excepción en caso de contratos vinculados a la 
+persecución del crimen organizado (Boletín Nº16.170-06).
+Contralora general de la República (S), señora Dorothy Pérez Gutiérrez
+La referida autoridad efectuó una presentación6 ante la Comisión, del siguiente tenor:
+6 Disponible en https://www.camara.cl/verDoc.aspx?prmID=314469&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 15 ---
+15
+Proyecto de modificación artículo 3° de la ley N°19.886
+“Agréguese en el artículo 3° de la ley N°19.886 un nuevo inciso tercero, del siguiente 
+tenor, pasando el actual inciso tercero a ser inciso cuarto:
+También se exceptuarán de la aplicación de esta ley las contrataciones sobre bienes 
+y servicios realizadas por Carabineros de Chile, la Policía de Investigaciones y Gendarmería 
+de Chile, cuando estas tuvieren por fundamento la adopción de medidas relacionadas a la 
+investigación y persecución de organizaciones criminales y delictivas. Dicha circunstancia 
+de reserva deberá ser debidamente calificada por Decreto Supremo expedido por el 
+Ministerio del Interior y Seguridad Pública, a proposición del General Director de Carabineros, 
+del Director General de Investigaciones, o del Director Nacional de Gendarmería de Chile, 
+según corresponda”.
+Comentarios
+1.- La letra f) del artículo 3° ya incluye los contratos que celebren las Fuerzas Armadas 
+o las Fuerzas de Orden y Seguridad Pública para la adquisición de vehículos de uso militar o 
+policial, equipos y sistemas de información de tecnología avanzada y emergente, y elementos 
+o partes de armamentos. Por tanto, la incorporación que propone el proyecto vendría a regular 
+nuevamente estas materias, que ya están consideradas como exceptuadas de la aplicación 
+de la ley de compras.
+Además, el inciso segundo del artículo 3° exceptúa las contrataciones para prevenir 
+riesgos excepcionales a la seguridad nacional o a la seguridad pública, calificados por decreto 
+supremo del Ministerio de Defensa Nacional, a proposición del Comandante en Jefe que 
+corresponda o del General Director de Carabineros o del Director de Investigaciones.
+Así, los bienes y servicios a que alude el nuevo inciso 3° deben entenderse referidos a 
+aquellos que se relacionen con medidas para la investigación y persecución de 
+organizaciones criminales y delictivas, y no a aquellos ya regulados en las normas antes 
+señaladas.
+2.- No se advierte porqué el proyecto alude a “Dicha circunstancia de reserva”, pues el 
+artículo 3° regula la contratación de bienes y servicios que podrán o no ser secretas. De hecho, 
+tal norma contiene diversas excepciones que no lo son.
+Al respecto, distinguió que una cosa es que esté reservado al escrutinio público lo que 
+se compró, y otra cosa distinta dice relación con el procedimiento a través del cual se compró, 
+esto es, licitación o trato directo, lo que es aplicación de la ley de compras.
+La idea, entonces, es tener claro si el objetivo del proyecto es excluir ciertos bienes de 
+la aplicación de la ley y sus procedimientos; o excluirlos de la información pública, quedando 
+bajo reserva.
+Por lo demás, el artículo 16 de la ley N°19.886 ya contiene una salvaguarda, al disponer 
+en su inciso final que: “No obstante, las Fuerzas Armadas y las de Orden y Seguridad Pública, 
+podrán mantener registros reservados o secretos, respecto de los bienes y servicios que se 
+exceptúan de esta ley, en conformidad con su legislación”. Es decir, la reserva ya tiene una 
+regulación en la ley de compras.
+A su vez, el artículo 20 inciso final señala que: “Las Fuerzas Armadas y las de Orden y 
+Seguridad cumplirán con esta obligación (publicar en el sistema de información), en 
+conformidad a su legislación vigente sobre manejo, uso y tramitación de documentación.”.
+Por último, si lo que se propone es mantener la reserva, debe considerarse que se trata, 
+en este punto, de una norma de quórum calificado, en virtud del artículo 8° de la Constitución
+--- PÁGINA 16 ---
+16
+Política (que establece la transparencia y publicidad en las actuaciones públicas, como regla 
+general).
+3.- En el caso de Gendarmería de Chile, la procedencia de la compra debiera calificarse 
+por el ministro de Justicia y Derechos Humanos, atendida su dependencia, lo que no se 
+consigna en el texto.
+4.- La naturaleza reservada de estas operaciones no obsta a las facultades de 
+fiscalización de la CGR, de acuerdo con el artículo 9° inciso cuarto de la ley N°10.336, que 
+precisa que: “Las normas que establezcan el secreto o reserva sobre determinados asuntos 
+no obstarán a que se proporcione a la Contraloría General la información o antecedente que 
+ella requiera para el ejercicio de su fiscalización, sin perjuicio de que sobre su personal pese 
+igual obligación de guardar tal reserva o secreto.”.
+5.- Respecto de Gendarmería, hay una discordancia entre la nueva norma y los fines de 
+esa institución, pues ella no tiene entre sus objetivos “la adopción de medidas relacionadas a 
+la investigación y persecución de organizaciones criminales y delictivas”. Según su ley 
+orgánica, “tiene por finalidad atender, vigilar y contribuir a la reinserción social de las personas 
+que, por resolución de autoridades competentes, fueren detenidas o privadas de libertad y 
+cumplir las demás funciones que le señale la ley.”.
+6.- Debe tenerse especialmente presente que la ley N°19.886 fue objeto de importantes 
+modificaciones introducidas por la ley N°21.634 (“Ley de Compras 2.0”), lo que obliga a 
+compatibilizar las compras que hoy se consideran exceptuadas con los nuevos estándares de 
+probidad introducidos en esa misma ley (Capítulo VII “sobre probidad y transparencia en la 
+contratación púbica”), sin disminuirlos. A saber:
+Artículo 35 quáter.- Ningún organismo del Estado podrá suscribir contratos 
+administrativos con el personal del mismo organismo, cualquiera que sea su calidad jurídica, 
+o con las personas naturales contratadas a honorarios por ese organismo, ni con sus 
+cónyuges o convivientes civiles, ni con las demás personas unidas por los vínculos de 
+parentesco en segundo grado de consanguinidad o afinidad, ni con sociedades de personas 
+o empresas de las que formen parte o sean beneficiarios finales que se indican en ese artículo.
+Artículo 35 quinquies. - Las autoridades y los funcionarios, independientemente de su 
+calidad jurídica, deberán abstenerse de intervenir en procedimientos de contratación pública 
+o ejecución contractual en los que puedan tener interés.
+Artículo 35 sexies. - Los contratos celebrados con infracción de lo dispuesto en el 
+presente Capítulo serán nulos.
+*****
+Concluida la exposición de la contralora general de la República (S), el diputado señor 
+Fuenzalida hizo presente que hay un problema patente dado por el incremento del crimen 
+organizado, por lo tanto, si bien coincidió con la invitada en cuanto a que la iniciativa requiere 
+de modificaciones, es crucial establecer mecanismos de control procurando no vulnerar el uso 
+de los recursos públicos, pero, a la vez, impedir que el crimen organizado, que hoy funciona 
+como una verdadera empresa, siga operando impunemente. Agregó que, por ejemplo, para 
+arrendar una casa destinada a un testigo protegido, la Fiscalía debe hacerlo a través de 
+Mercado Público, lo que no resulta razonable.
+La diputada señora Joanna Pérez manifestó su preocupación en relación con la 
+observación referida a Gendarmería de Chile. Al respecto, hizo presente que, de forma 
+reciente, se entregó a esa institución un rol coadyuvante en materia de investigación para con 
+la Fiscalía, y si no se considera ese aspecto entre sus funciones, ello implica que no se está 
+legislando adecuadamente.
+--- PÁGINA 17 ---
+17
+La contralora general de la República (S) reiteró que en el análisis que hicieron del 
+proyecto, se distinguió entre la aplicación de procedimientos de la ley de compras (por 
+ejemplo, licitar versus hacer trato directo) y la situación de la reserva. Respecto de esta última, 
+afirmó que, actualmente, en la legislación están dadas las condiciones jurídicas como para 
+hacer una adquisición como la que el diputado señor Fuenzalida ejemplificó, por la vía 
+reservada. Lo que ocurre es que, normalmente, las instituciones siguen la regla general, que 
+es la publicidad y la licitación, pero hay excepciones en razón de la seguridad nacional y la 
+seguridad pública que autorizan la adquisición de manera reservada.
+En otra materia, enfatizó que la Contraloría revisó la normativa vigente respecto de 
+Gendarmería de Chile, y la institución no tiene la función específica de “la adopción de 
+medidas relacionadas a la investigación y persecución de organizaciones criminales y 
+delictivas” en los términos que utiliza el proyecto. Con la incorporación de nuevas normas, 
+podría analizarse si es posible entender dicha finalidad de manera más amplia, pero en los 
+términos en que hoy está redactada la normativa, no es suficiente.
+4) Continuar la discusión general del proyecto de ley, de origen en moción y que 
+cumple su primer trámite constitucional y reglamentario, que modifica la ley N°18.575, 
+orgánica constitucional de Bases Generales de la Administración del Estado, con el 
+objeto de establecer una inhabilidad para el ingreso a cargos públicos de cónyuges y 
+parientes de las autoridades que indica (Boletín Nº11.364-06).
+Contralora general de la República (S), señora Dorothy Pérez Gutiérrez
+La referida autoridad efectuó una presentación7 ante la Comisión, del siguiente tenor:
+Proyecto de modificación artículo 54 de la ley N°18.575
+“Agréguese, en el artículo 54, la siguiente letra c) nueva, pasando la letra c) actual a ser 
+letra d):
+c) No podrán ingresar a los cargos en la Administración Pública, quienes tengan la 
+calidad de cónyuge, hijos, adoptados o parientes hasta el tercer grado de consanguinidad y 
+segundo de afinidad inclusive, respecto del presidente de la República, senadores, diputados, 
+alcaldes, consejeros regionales, intendentes, gobernadores, ministros y subsecretarios, con 
+excepción de aquellos cargos que son proveídos mediante el Sistema de Alta Dirección 
+Pública regulados por la Ley Nº19.882.”.
+Comentarios
+1.- Se advierte un problema de redacción en el encabezado de la nueva letra c), que 
+colisiona con el inicio del actual artículo 54 de la ley N°18.575, por lo que se sugiere concordar 
+los textos.
+Hoy esa norma señala: “Sin perjuicio de las inhabilidades especiales que establezca la 
+ley, no podrán ingresar a cargos en la Administración del Estado”. Y el proyecto pretende 
+agregar: “c) No podrán ingresar a los cargos en la Administración Pública (…)”.
+2. Pese a que la ley N°18.575 regula a la Administración del Estado y en el citado artículo 
+54 se refiere a una prohibición de ingreso a cargos en la misma, el proyecto alude a senadores 
+y diputados, quienes no forman parte de aquella, sino que de un Poder del Estado.
+3. Atendido que se mantiene la actual letra b) del artículo 54 de la ley N°18.575, se 
+produce una doble regulación de la misma materia:
+ACTUAL letra b): “Las personas que tengan la calidad de cónyuge, hijos, adoptados o 
+parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive respecto
+7 Disponible en https://www.camara.cl/verDoc.aspx?prmID=314469&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 18 ---
+18
+de las autoridades y de los funcionarios directivos del organismo de la administración civil del 
+Estado al que postulan, hasta el nivel de jefe de departamento o su equivalente, inclusive.”.
+PROPUESTA nueva letra c) “No podrán ingresar a los cargos en la Administración 
+Pública, quienes tengan la calidad de cónyuge, hijos, adoptados o parientes hasta el tercer 
+grado de consanguinidad y segundo de afinidad inclusive, respecto del Presidente de la 
+República, 
+Senadores, 
+Diputados, 
+Alcaldes, 
+Consejeros 
+Regionales, 
+Intendentes, 
+Gobernadores, Ministros y Subsecretarios, con excepción de aquellos cargos que son 
+proveídos mediante el Sistema de Alta Dirección Pública regulados por la Ley Nº19.882.”.
+Por tanto, de persistir en este proyecto, deben concordarse los dos textos, a fin de no 
+dar lugar a una reiteración en la regulación.
+4.- En tal contexto, si se pretende mantener la idea del proyecto, podría complementarse 
+la actual letra b) en el siguiente sentido:
+“b) Las personas que tengan la calidad de cónyuge, hijos, adoptados o parientes hasta 
+el tercer grado de consanguinidad y segundo de afinidad inclusive respecto de las autoridades 
+y de los funcionarios directivos del organismo de la administración civil del Estado al que 
+postulan, hasta el nivel de jefe de departamento o su equivalente, inclusive, así como respecto 
+del Presidente de la República, Senadores, Diputados, Alcaldes, Consejeros Regionales, 
+Intendentes, Gobernadores, Ministros y Subsecretarios, con excepción de aquellos cargos 
+que son proveídos mediante el Sistema de Alta Dirección Pública regulados por la Ley 
+Nº19.882”.
+En esta propuesta se elimina la alusión a los senadores y diputados, por lo previamente 
+explicado, por lo que estos deberían ser incluidos en otra regulación.
+5.- En todo caso, no resulta procedente la alusión al cargo de “Intendente” luego de la 
+promulgación de la ley N°21.073, por lo que debiera referirse a los “Gobernadores 
+Regionales”.
+6.- Además, debe ponderarse la incorporación de los “Delegados Presidenciales 
+Regionales” y/o los “Delegados Presidenciales Provinciales”.
+7.- Dado que la norma propuesta se refiere a cargos de elección popular y a cargos de 
+exclusiva confianza, además de empleos que ejercen sus competencias a nivel nacional, 
+regional y comunal, se advierte que la prohibición afectaría incluso a quienes pretenden 
+ejercer un cargo público en instituciones en que la persona electa o nombrada no tendría 
+incidencia en la designación del interesado.
+Por ejemplo, el hermano del alcalde de Arica no podría ser funcionario en la SEREMI 
+de Salud de Magallanes, o bien un sobrino de un consejero regional de Aysén no podría ser 
+analista financiero en el Banco Central, ni operador de torre de control de la DGAC.
+8.- La ley N°19.585 modificó el Código Civil en materia de filiación. A este respecto, 
+tanto el actual literal b) como el literal c) propuesto, contienen la mención de “adoptados” 
+concepto incluido en el de hijo. Por tanto, la redacción correcta no debería mencionar tal 
+calidad, bastando la referencia a “hijos”.
+9.- En atención a las modificaciones incorporadas por la ley N°20.830, es recomendable 
+incluir la mención a la calidad de “conviviente civil”. Por su parte, y dada la finalidad del 
+proyecto, también es pertinente considerar la incorporación del “conviviente de hecho”, toda 
+vez que lo que se pretende es prevenir los conflictos de interés en la designación de los cargos 
+y de las personas que ingresan a la Administración.
+10.- El término “ingresar” (al que se alude en la nueva letra c) que se propone) se refiere 
+a una acción posterior a la asunción de la autoridad o jefatura respectiva. Así, surge la duda
+--- PÁGINA 19 ---
+19
+respecto de la forma en que podría aplicarse la protección del artículo 64 de la ley N°18.575, 
+que indica: “Las inhabilidades sobrevinientes deberán ser declaradas por el funcionario 
+afectado a su superior jerárquico dentro de los diez días siguientes a la configuración de 
+alguna de las causales señaladas en el artículo 54. En el mismo acto deberá presentar la 
+renuncia a su cargo o función, salvo que la inhabilidad derivare de la designación posterior de 
+un directivo superior, caso en el cual el subalterno en funciones deberá ser destinado a una 
+dependencia en que no exista entre ellos una relación jerárquica”.
+*****
+Concluida la exposición de la contralora (S), el diputado señor Meza consideró 
+atingentes muchas de sus observaciones.
+Sin perjuicio de lo anterior, y de comprender la prevención que hace respecto de la 
+inclusión en el proyecto de los senadores y diputados, explicó que uno de los hechos que 
+funda este proyecto es, precisamente, que cada vez que hay un cambio de gobierno, la 
+Administración “se llena” de parientes de estas autoridades.
+En relación con la doble regulación que podría darse entre la actual letra b) del artículo 
+54 de la ley N°18.575 y la nueva letra c) que se propone, manifestó que, a su entender, el 
+literal b) prohíbe las relaciones de jerarquía entre familiares. En cambio, el proyecto de ley 
+prohíbe el ingreso en cualquier circunstancia (tengan o no relación de jerarquía). Por otra 
+parte, casos como los que la señora contralora explicitó en su presentación son los que, 
+precisamente, busca evitar el proyecto.
+La diputada señora Joanna Pérez previno que en los últimos años se ha aprobado 
+bastante legislación en materia de probidad, transparencia y conflicto de intereses. Por lo 
+tanto, se debe procurar que este proyecto de ley, que data del 2017, no colisione con esa 
+nueva normativa.
+Por otra parte, hizo un llamado a no generalizar, pues hay muchas autoridades que no 
+tienen ningún pariente en ningún cargo en la Administración del Estado.
+La contralora general de la República (S) explicó que el proyecto de ley incide 
+específicamente en la ley N°18.575, que es la columna vertebral de la Administración Pública. 
+Por tanto, si se quiere regular esta materia en relación con los senadores y diputados, lo más 
+adecuado sería hacerlo en la ley orgánica constitucional del Congreso Nacional. En definitiva, 
+más que una observación de fondo es de técnica legislativa, relativa a cuál es la ley donde 
+debería incorporarse la modificación.
+Por otra parte, destacó que en su presentación se dejó a disposición de la Comisión una 
+propuesta que une las regulaciones establecidas en la actual letra b) del artículo 54 de la ley 
+N°18.575 y la nueva letra c) que se propone, pero evitando la duplicidad de regulación.
+* Se deja constancia que el presidente de la Comisión, diputado señor Oyarzo 
+solicitó la unanimidad para votar en general este proyecto de ley en la presente sesión. Sin 
+embargo, ella no fue otorgada (oposición del diputado señor Meza).
+VII.- ACUERDOS8
+1.- Celebrar una sesión especial (sin fecha determinada) para recibir a las 
+representantes del Movimiento de Mujeres del Sector Público (MOMUSEP), con el propósito 
+de abordar las complejidades que han debido enfrentar en relación con la aplicación de la ley 
+de conciliación de la vida personal, familiar y laboral a su sector. Para tal efecto, se invitará 
+además a la contralora general de la República (S).
+8 Los oficios despachados por acuerdo de la Comisión y sus respuestas se encuentran disponibles en el siguiente 
+enlace: https://www.camara.cl/legislacion/comisiones/oficios_enviados.aspx?prmID=3314
+--- PÁGINA 20 ---
+20
+2.- Oficiar al presidente de la excelentísima Corte Suprema con el propósito de remitirle, 
+según lo dispuesto en el inciso segundo del artículo 77 de la Constitución Política, el proyecto 
+de ley, de origen en mensaje, en primer trámite constitucional y con urgencia calificada de 
+“suma”, que modifica la ley N°21.325, de Migración y Extranjería, y otros cuerpos legales, en 
+las materias que indica (Boletín Nº16.072-06); específicamente en lo relativo a la modificación 
+del artículo 135 de la citada ley. Se adjunta copia del proyecto en referencia (Oficio 
+N°252/6/2024, de fecha 11 de junio de 2024).
+El debate habido en esta sesión queda archivado en un registro de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento. Asimismo, se encuentra 
+contenido en el registro audiovisual9 de la misma.
+JUAN CARLOS HERRERA INFANTE
+Abogado secretario de la Comisión
+9 Disponible en https://www.democraciaenvivo.cl/player.aspx?id=78061

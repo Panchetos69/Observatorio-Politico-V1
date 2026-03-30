@@ -1,0 +1,520 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=20297&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : ACTA DE LA 2a. SESION, ORDINARIA, DE LA LEGISLATURA EXTRAORDINARIA, 1994-1995, DE LA COMISION INVESTIGADORA DE LA CANCELACION DE LA PERSONAÑLIDAD JURIDICA DE COLONIA DIGNIDAD, CELEBRADA EL MIERCOLES 15 DE MARZO, DE 18.30 A 19.15 HORAS.
+AUTOR    : CONGRESO NACIONAL-Proyecto de Modernización
+EXTRAIDO : 2026-03-29 03:59:58
+======================================================================
+
+--- PÁGINA 1 ---
+COMISIÓN DE GOBIERNO INTERIOR, NACIONALIDAD, CIUDADANÍA Y
+REGIONALIZACIÓN 
+PERÍODO LEGISLATIVO 2022 – 2026
+370ª LEGISLATURA 
+ 
+ACTA DE LA 9ª SESIÓN, ESPECIAL, CELEBRADA EL LUNES 30 DE MAYO DE 2022, DE 
+15.06 A 16.11 HORAS.
+SUMARIO: La Comisión se reunió con el objeto de votar en general y en particular el 
+proyecto de ley, de origen en mensaje y en segundo trámite constitucional, que 
+modifica diversos cuerpos legales en materia de Transformación Digital del Estado 
+(boletín N°14.969-06 (S).
+I.- PRESIDENCIA
+Presidió la sesión la diputada señora Marta González.
+Actuó como abogado secretario de la Comisión, el señor Juan Carlos Herrera; como 
+abogada, la señora Carolina Aqueveque; y como secretaria ejecutiva (accidental), la señora 
+Mariel Camprubi (los dos primeros presencialmente; y la última por vía telemática).
+II.- ASISTENCIA
+Concurrieron presencialmente a la Comisión los diputados (as) Miguel Ángel Becker, 
+Bernardo Berger, Juan Fuenzalida, Marta González, Cosme Mellado, Javiera Morales, 
+Rubén Oyarzo, Joanna Pérez, Clara Sagardia, Carolina Tello y Renzo Trisotti.
+Respecto del proyecto de ley en Tabla (boletín N°14969-06 (S), participó en el debate 
+la subsecretaria general de la Presidencia, señora Macarena Lobos Palacios, quien concurrió 
+presencialmente a la Comisión, acompañada en forma telemática por el jefe de la División de 
+Gobierno Digital de la Cartera, señor José Inostroza.
+III.- ACTAS1
+El acta de la sesión 7ª ordinaria se declaró aprobada por no haber sido objeto de 
+observaciones.
+El acta de la sesión 8ª ordinaria se puso a disposición de las señoras y señores 
+diputados.
+IV.- CUENTA2
+Se recibieron los siguientes documentos:
+1.- Proyecto de ley, de origen en moción de la diputada señora Barchiesi, y de los 
+diputados señores De la Carrera; Irarrázaval; Kaiser; Meza; Moreno; Ojeda; Romero, don 
+Agustín; Sánchez y Urruticoechea, que modifica diversos cuerpos legales para sancionar 
+penalmente el fraude a las normas sobre transparencia, límite y control del gasto electoral 
+(Boletín Nº 14.998-06).
+2.- Correo electrónico de la asesora legislativa de la Asociación Chilena de 
+Municipalidades (ACHM), quien por especial encargo del señor Miguel Moreno, Subsecretario 
+Ejecutivo de esta asociación, solicita ser considerados en la discusión del proyecto de ley que 
+modifica diversos cuerpos legales para sancionar el acoso sexual en los sectores de la 
+Administración del Estado que indica, e imponer a las municipalidades la obligación de contar 
+con protocolos internos para la prevención y sanción del acoso sexual (Boletín Nº 14.458-06).
+3.- Informes elaborados por el analista del Área de Políticas Sociales de la Biblioteca 
+del Congreso Nacional (BCN), don Pedro Guerra Araya, sobre “Evaluación del impacto de
+1 Disponibles en https://www.camara.cl/legislacion/comisiones/sesiones.aspx?prmID=3314&prmIdTipo=2101
+2 Disponible en https://www.camara.cl/verDoc.aspx?prmID=251878&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 2 ---
+2
+género en los proyectos de ley, regulación y experiencia comparada”, y “Transversalización 
+del enfoque de género en la legislación, aspectos teóricos y compromisos internacionales”.
+4.- Correo de la ex presidenta del Tribunal Constitucional y profesora de Derecho 
+Constitucional, señora Marisol Peña, por el cual agradece la invitación de esta Comisión para 
+exponer en la sesión de mañana; pero aclara que el tema del acoso sexual no se encuentra 
+dentro de los que haya abordado en su actividad profesional, razón por la cual excusa su 
+participación en dicha sesión. Sin perjuicio de ello, sugiere (si la Comisión lo tiene a bien) se 
+invite a la profesora y doctora en derecho señora Ximena Marcazzolo, académica de la UDD 
+y exfiscal del Ministerio Público, especialista en derecho penal y derecho procesal penal.
+Respecto de la solicitud consignada en el N°2 de la Cuenta, se acordó recibir a la 
+Asociación Chilena de Municipalidades (ACHM) en audiencia en la sesión de mañana, martes 
+31 de mayo, junto con los demás invitados ya considerados para tal efecto.
+V.- VARIOS
+La diputada señora Joanna Pérez y el diputado señor Renzo Trisotti plantearon 
+diversas solicitudes de audiencias, las cuales, por haberse acordado sin debate previo y por 
+unanimidad por parte de la Comisión, se consignan en el acápite final de la presente acta.
+VI.- ORDEN DEL DÍA
+La Comisión se reunió con el objeto de votar en general y en particular el proyecto 
+de ley, de origen en mensaje y en segundo trámite constitucional, que modifica diversos 
+cuerpos legales en materia de Transformación Digital del Estado (boletín N°14.969-06 
+(S).
+Subsecretaria General de la Presidencia, señora Macarena Lobos Palacios
+La señora Lobos expuso una presentación3 ante la Comisión en virtud de la cual partió 
+señalando que, la ley N°21.180, de transformación digital del Estado -que aplica a más de 900 
+servicios públicos, incluidas las municipalidades- estableció un plazo de vigencia a partir del 
+9 de junio del año 2022 y hasta noviembre del año 2024 (2,5 años para la implementación 
+total), pero sin hacerse cargo en el período intermedio de la dictación de una serie de 
+normativas necesarias para su aplicación. Tanto es así que, al asumir el nuevo gobierno, se 
+percataron que recién el 10 de marzo habían ingresado a la Contraloría General de la 
+República las normas técnicas necesarias para su implementación, las cuales fueron 
+reparadas por el ente contralor. Y al día de hoy, aún no están vigentes las normas técnicas a 
+que deben sujetarse los servicios públicos para hacerse cargo de las exigencias de la ley.
+Adicionalmente, este gobierno solicito un informe al Banco Interamericano de Desarrollo 
+(BID) el cual ratificó sus aprensiones, en el sentido que no están dadas las condiciones 
+habilitantes, organizativas y técnicas necesarias para la entrada en vigencia de la ley el 
+próximo 9 de junio.
+Estas incapacidades se deben, principalmente, a dos razones:
+1.- Durante el período de pandemia los servicios debieron focalizarse, obviamente, en 
+hacerse cargo de ese tema.
+2.- La División de Gobierno Digital (DGD), dependiente del Ministerio Secretaría General 
+de la Presidencia, encargada de brindar el apoyo en materia digital a todo el gobierno, tuvo 
+que focalizar sus esfuerzos en garantizar también las herramientas necesarias para el período 
+de pandemia, tales como Clave Única, Comisaría Virtual, etc., lo que impidió que pudiera
+3 Disponible en https://www.camara.cl/legislacion/comisiones/documentos.aspx?prmID=3314
+--- PÁGINA 3 ---
+3
+desarrollar todos los instrumentos necesarios para efectos de cumplir con los plazos 
+establecidos por la ley N°21.180.
+Además, considerando que hay una ausencia de institucionalidad pues, de acuerdo a la 
+visión del Ministerio SEGPRES, no se cuenta con una institucionalidad de gobierno digital con 
+las funciones y atribuciones rectoras que se requieren para liderar adecuadamente este 
+desafío, es que se propone este proyecto de ley que, por una parte, pretende diferir la entrada 
+en vigencia de esta ley, pero además, crear una nueva Fase de Preparación a fin de generar 
+una cierta nivelación respecto de los distintos servicios, especialmente en los municipios -
+donde hay un mayor rezago- para efectos de poder llevar a cabo la transformación digital de 
+manera coherente y ordenada. En este contexto, agregó que el gobierno del presidente Boric 
+considera que la transformación digital es muy importante en cuanto esta acerca a la 
+ciudadanía y le permite facilitar sus trámites, pero para que ello ocurra, debe hacerse de forma 
+adecuada.
+En conclusión, recalcó que hoy existe imposibilidad técnico-organizativa para desarrollar 
+todos los procesos de adaptación en los plazos iniciales cumpliendo estándares normativos y 
+garantizando derechos ciudadanos.
+Por ello, lo que el proyecto propone es permitir a los órganos de la Administración del 
+Estado generar condiciones habilitantes para la ley, posponiendo su fecha final de 
+implementación desde el 11 de noviembre de 2024 al 31 de diciembre de 2027. Por otra parte, 
+se pretende otorgar mayor gradualidad y un orden distinto de las fases, modificando el DFL 
+N°1, de 2020, del MINSEGPRES, estableciendo un período legal de preparación entre 2022 
+y 2023, y modificando las fases según la Tabla de Fases que se muestra a continuación:
+Acotó que la ley N°21.180 divide en grupos a los servicios: primero los ministerios, 
+subsecretarías y servicios públicos; luego los gobiernos regionales y los municipios más 
+grandes, y; en tercer lugar, los municipios más pequeños. Por otra parte, dicha ley establece 
+seis fases.
+El proyecto de ley crea una Fase de Preparación, la que tiene por objeto identificar todos 
+los procedimientos que están sujetos a notificación electrónica. Adicionalmente, altera el 
+orden de las fases contemplado actualmente en el DFL N°1, de 2020, del MINSEGPRES, que 
+complementa la normativa vigente de la ley N°21.180.
+--- PÁGINA 4 ---
+4
+Sobre el punto, agregó que fue un error en el diseño del proyecto que dio lugar a la ley 
+N°21.180 haber considerado como Primera Fase la notificación electrónica, que es un tema 
+más sensible, porque es un procedimiento administrativo que vela por el debido 
+emplazamiento para garantizar el principio de la bilateralidad de la audiencia y el debido 
+proceso.
+Respecto de los cambios que introduce el proyecto, hizo presente que la Fase 
+Preparatoria parte este mismo año. Por otra parte, al alterar el orden de las fases, se deja 
+para el final la de la Notificación, que es la más sensible, y se incorpora como Primera Fase 
+las comunicaciones oficiales de los servicios que tengan que hacerse por vía electrónica. 
+Luego, la Segunda Fase (Notificaciones) pasa al final, debiendo todos los ministerios, 
+subsecretarías y servicios estar cumpliendo con ella para el año 2027. La Tercera Fase está 
+vinculada al ingreso de las solicitudes en formulario en formato electrónico. La fase N°4 
+corresponde a los expedientes administrativos que sean en fase electrónica. La N°5 dice 
+relación con la digitalización de todas las solicitudes y formularios y; finalmente, la N°6, relativa 
+a la interoperabilidad, que es clave, y por ello se adelantó, a fin de garantizar un mejor servicio 
+a la ciudadanía.
+Además de lo que establece el proyecto, de acuerdo a lo ya explicado, subrayó que a 
+juicio de la SEGPRES es muy importante llevar a cabo acciones complementarias que 
+permitan garantizar la buena implementación de esta ley, a saber:
+1.- Fortalecimiento de una Gobernanza de Datos al interior de la DGD. Precisamente 
+para garantizar una adecuada interoperabilidad, se ha creado la figura del Director de Datos.
+2.- Desarrollo de una plataforma transversal para el análisis y registro de los 
+procedimientos administrativos (CIPA), justamente porque se detectó que ni siquiera los 
+propios servicios tienen identificado cuales son los procedimientos que debían operativizar 
+desde un punto de vista electrónico. Al respecto, puso en conocimiento de la Comisión que, 
+como anexo a la presentación, se adjuntan algunos resultados de una encuesta realizada a 
+231 servicios, dando cuenta de esta y otras materias.
+3.- Acciones para el fortalecimiento de la equidad digital. Si la ciudadanía deberá 
+relacionarse vía electrónica con el Estado, se debe disminuir las brechas que hoy día existen. 
+Por eso, complementariamente, a través de la SUBTEL, se está trabajando con el proyecto 
+de Internet Servicio Público, Conectividad para Todos, proyectos para zonas rezagadas, etc.
+4.- Foco municipios: debe realizarse un trabajo mancomunado entre la SUBDERE y la 
+División de Gobierno Digital (DGD), pues aquí es donde existe el mayor rezago para cumplir 
+adecuadamente la ley. De hecho, en el trámite en el Senado, se incorporó un inciso final al 
+artículo segundo transitorio de la ley N°21.180, estableciendo el compromiso del gobierno 
+central, a través de la División de Gobierno Digital, de brindar apoyo técnico a los municipios 
+disponibilizando activos y servicios digitales para tal efecto.
+5.- Fortalecimiento de las medidas de ciberseguridad de los servicios transversales de 
+la ley.
+6.- Conforme a las recomendaciones del BID, se adoptarán acciones para fortalecer la 
+institucionalidad en materia de datos. En efecto, se cree necesario avanzar hacia una agencia 
+independiente que se haga cargo de esta materia para efectos de garantizar su debido 
+funcionamiento. Agregó que esta materia es clave, pues se puede generar un ahorro muy 
+importante y facilitar la vida de la ciudadanía, pero para ello se debe contar con la 
+institucionalidad adecuada, para lo cual ya hay un compromiso en el mediano plazo en orden 
+a avanzar en esa línea.
+*****
+--- PÁGINA 5 ---
+5
+Concluida la exposición de la subsecretaria Lobos, la diputada señora Marta González 
+(presidenta) consultó en qué aspectos se pudo avanzar y cuáles vieron dificultada su 
+implementación, desde la promulgación de la ley.
+En otro plano, solicitó a la subsecretaria profundizar en materia de acciones a desarrollar 
+para el fortalecimiento de la equidad digital, de acuerdo a lo señalado al final de su 
+presentación.
+La subsecretaria Lobos hizo presente que, en época de pandemia, se presentó una 
+dualidad, pues si bien ella representó una oportunidad para avanzar en los temas de 
+digitalización (361 millones de permisos individuales o salvoconductos, 395 millones de 
+permisos únicos colectivos, etc.), por otra parte, dicho avance se centró en la contingencia, 
+esto es, las demandas propias de la pandemia. Por tanto, la energía de recursos tanto técnicos 
+como humanos –y tanto de los distintos servicios como de la División de Gobierno Digital- se 
+focalizó en esa coyuntura, quedando rezagadas las inversiones y la dedicación necesaria para 
+preparar las fases de implementación contempladas en la ley original.
+Recalcó que la ley N°21.180 contempló un plazo de implementación de 2,5 años, que 
+ya es muy corto, si se observa lo que ocurre en derecho comparado. Pero, además, no 
+descontó el plazo necesario para la dictación de las normas técnicas específicas a que deben 
+sujetarse los distintos servicios para poder garantizar ciertos estándares en esta materia. Tal 
+como señaló en su presentación, ellas aún no están dictadas, y por eso es tan importante la 
+Fase Preparatoria que crea el proyecto de ley, así como el instrumento: el Notificador, para 
+que los servicios puedan identificar cuáles son los procedimientos que, efectivamente, deben 
+someter a tramitación electrónica, garantizando de esa manera una adecuada implementación 
+de la ley.
+En cuanto a la segunda consulta, admitió que dicha temática escapa a los temas a cargo 
+de su Cartera, pero comentó que han estado trabajando directamente con la SUBTEL en base 
+a dos ejes, principalmente: la regulación de la conectividad (proyecto de ley en tramitación 
+para garantizar el Internet como servicio público); y la infraestructura digital (proyecto de 
+Última Milla, Conectividad para la Educación, Fibra Óptica Nacional, Austral y Tarapacá, Wifi 
+Chile Gob y el despliegue del 5G). También se está haciendo un trabajo focalizado con los 
+municipios más vulnerables que comprenden zonas rezagadas entre sus territorios, las 
+llamadas “Zonas Rojas”, donde la conectividad no puede llegar por temas de seguridad. La 
+idea es garantizar el acceso digital en esas zonas, y también mayor capacitación para generar 
+alfabetización digital para la ciudadanía que no está tan involucrada en los temas digitales.
+La diputada señora Sagardia se manifestó a favor del proyecto. Por otro lado, relevó 
+la necesidad de capacitar a la ciudadanía en materia digital.
+El diputado señor Berger también apoyó la iniciativa, destacando la alianza entre los 
+municipios y la SUBDERE en los temas técnicos y financieros.
+La diputada señora Tello se pronunció en la misma línea, considerando razonables los 
+motivos por los cuales se modifica el orden y plazos de implementación de las fases previstas 
+en la ley N°21.180. Por otra parte, valoró que se le haya dado la importancia que merece el 
+tema de la notificación electrónica, pues ella es clave para tomar conocimiento respecto del 
+inicio de un procedimiento y, por tanto, para poder ejercer una debida defensa. Finalmente, 
+celebró que se quiera avanzar responsablemente en materia tecnológica, a fin de reducir lo 
+más posible los reclamos que se puedan generar de parte de la ciudadanía.
+En una segunda intervención, la diputada señora Marta González (presidenta) solicitó 
+profundizar en cuanto a las medidas de ciberseguridad que se van a adoptar para la protección 
+de los datos.
+--- PÁGINA 6 ---
+6
+Por otra parte, propuso al Ejecutivo informar a esta Comisión respecto del estado de 
+avance de cada una de las etapas de implementación que contempla la ley, a fin de contar 
+con una retroalimentación sobre esta materia.
+En cuanto a la capacitación para los usuarios, consultó si habrá un tratamiento especial 
+respecto de los adultos mayores.
+Finalmente, consultó si la implementación de la ley contempla una disminución de 
+funcionarios en razón de la digitalización que ella supone.
+La diputada señora Javiera Morales también solicitó conocer las medidas que se 
+adoptarán, particularmente, para ese grupo etario, una vez que la ley ya esté implementada.
+La diputada señora Joanna Pérez recordó que, cuando se tramitó el proyecto de ley 
+que dio origen a la ley N°21.180, se hizo ver al Ejecutivo de entonces los problemas que 
+existían en el país en materia de conectividad, por lo que este tema representa un gran 
+desafío. Agregó que hay zonas del país que, por problemas de seguridad, se quedan sin 
+conectividad, pues las empresas no quieren acercarse a los territorios por falta de resguardo 
+policial. Por otra parte, hay servicios que también han tenido inconvenientes con la tramitación 
+digital de sus procesos, como, por ejemplo, el Servicio de Impuestos Internos con la Operación 
+Renta, por lo que cabe preguntarse qué problemas tendrán los servicios más pequeños si el 
+SII, que es uno de los más modernos, presenta igualmente deficiencias.
+Resolviendo las interrogantes, la subsecretaria Lobos afirmó que, además del apoyo 
+al sector municipal, se está trabajando en disminuir la brecha digital que existe en la 
+ciudadanía, alfabetizando digitalmente a la población a fin de que adquiera las herramientas 
+necesarias para garantizar una adecuada conexión con el Estado y una mayor facilidad en los 
+trámites que debe realizar. En ese contexto, recordó que la ley N°21.180 establece un proceso 
+de transformación digital con la idea que, una vez en régimen, todos los trámites se hagan de 
+manera digital, lo que supone un compromiso y un esfuerzo de parte del Estado para hacerse 
+cargo de los grupos rezagados, especialmente los adultos mayores, a fin de poder 
+garantizarles la utilización de una herramienta que facilite su interacción con el Estado, y no 
+que se transforme en una traba para el ejercicio real de sus derechos.
+Agregó que, dentro del trabajo que se está haciendo en el marco del plan de Brecha 
+Digital Cero que está llevando a cabo el gobierno a través de la SUBTEL, el programa básico 
+de Conectividad Para Todos se hace cargo de la realidad planteada por la diputada Joanna 
+Pérez, respecto de las llamadas “zonas rojas”, adoptándose diversas medidas para garantizar 
+el acceso al servicio.
+En cuanto a la ciberseguridad, consideró que este es un tema clave para garantizar la 
+seguridad de los datos. Añadió que, en el plano normativo, hay algunas iniciativas importantes 
+en tramitación: proyecto de ley de protección de datos personales, en segundo trámite 
+constitucional en la Comisión de Constitución; y ratificación del Convenio de Budapest en 
+materia de Ciberseguridad. Por otro lado, se ha desplegado una línea de trabajo en cada uno 
+de los servicios para efectos de ir avanzando en esta materia.
+Respecto de la consulta acerca de los funcionarios, precisó que lo que la ley mandata 
+es una transformación digital del Estado, una de cuyas etapas consiste en la digitalización de 
+todos los documentos, lo que supone que los trámites seguirán haciéndose, pero de una 
+manera distinta.
+En otro orden de ideas, se comprometió con la propuesta de la señora presidenta en 
+orden a rendir cuenta a la Comisión del estado de avance de cada una de las etapas que la 
+ley N°21.180 contempla.
+--- PÁGINA 7 ---
+7
+Por último, y complementando la intervención de la subsecretaria en materia de 
+ciberseguridad, el jefe de la División de Gobierno Digital de la SEGPRES, señor José 
+Inostroza señaló que, en ese ámbito, la autoridad pertinente es el Ministerio del Interior, y la 
+División de Gobierno Digital es complementaria a los esfuerzos que hace dicha Cartera. 
+Agregó que, respecto de los sistemas informáticos compartidos que desarrolla la División de 
+Gobierno Digital y que son de su responsabilidad (por ejemplo, Clave Única, el Notificador 
+Electrónico, el sistema de interoperabilidad, etc.) el esfuerzo principal consistirá en colocar 
+diseños más específicos y capacidad más relevante desde el punto de vista del monitoreo en 
+cuanto a temas de ciberseguridad. Así también, se hará un esfuerzo de inversión especial y 
+de fortalecimiento de las capacidades técnicas de la División en esa materia pues, 
+actualmente, la repartición tiene un profesional a cargo de estos temas, pero ello es 
+claramente insuficiente dada la envergadura de los desafíos que se están enfrentando.
+*****
+VOTACIÓN GENERAL
+Sometida a votación la idea de legislar, esta fue aprobada por unanimidad. 
+Participaron en la votación las diputadas señoras Marta González (presidenta), Javiera 
+Morales, Joanna Pérez y Carolina Tello; y los diputados señores Miguel Ángel Becker, 
+Bernardo Berger, Juan Fuenzalida, Cosme Mellado, Rubén Oyarzo y Renzo Trisotti (10-0-0).
+*****
+VOTACIÓN PARTICULAR
+El texto despachado por el Senado consta de dos artículos, del siguiente tenor:
+Artículo 1°. - Introdúcense las siguientes modificaciones en los artículos transitorios que 
+a continuación se indican de la ley Nº 21.180, de Transformación Digital del Estado:
+1.- Reemplázase el inciso segundo de su artículo segundo transitorio, por los siguientes:
+“En todo caso, esta ley se aplicará gradualmente, de acuerdo a las fases establecidas 
+en el decreto con fuerza de ley N° 1, de 2020, del Ministerio Secretaría General de la 
+Presidencia, y no podrá extenderse para ningún órgano de la Administración del Estado más 
+allá del 31 de diciembre del año 2027.
+A fin de facilitar la implementación de la presente ley en el sector municipal, el gobierno 
+central, a través de la División de Gobierno Digital, disponibilizará activos y servicios digitales, 
+así como el apoyo técnico necesario.”.
+Artículo segundo (transitorio). - La presente ley entrará en 
+vigencia ciento ochenta días después de la última de las publicaciones 
+en el Diario Oficial a que se refiere el artículo cuarto transitorio.
+En todo caso, la gradualidad en la aplicación de esta ley, según 
+lo establecido en el numeral 1 del artículo primero transitorio, no podrá 
+extenderse para ningún órgano de la Administración del Estado más 
+allá del plazo de cinco años, contado desde la publicación de esta ley.
+2. Sustitúyese en el artículo tercero transitorio, la expresión “a su entrada en vigencia”, 
+por la siguiente frase: “a la entrada en vigencia de las respectivas fases a que se refiere el 
+inciso segundo del artículo anterior”.
+Artículo tercero (transitorio). - Las disposiciones de esta ley sólo 
+se aplicarán respecto de los procedimientos administrativos que se 
+inicien con posterioridad a su entrada en vigencia. Respecto de todos 
+aquellos que se hubieren iniciado con anterioridad y respecto de los 
+cuales no se afectaren a los interesados o terceros, los órganos de la 
+Administración podrán cambiar su tramitación a medios electrónicos. En 
+caso contrario, los órganos de la Administración podrán optar por
+--- PÁGINA 8 ---
+8
+cambiar su tramitación a medios electrónicos previo consentimiento 
+dado por todos los interesados o terceros por escrito en soporte de 
+papel o electrónico.
+3. Reemplázase en su artículo sexto transitorio, la frase “Durante el plazo de cinco años 
+contado desde la publicación de la ley” por “Hasta el 31 de diciembre del año 2027”.
+Artículo sexto (transitorio).- Durante el plazo de cinco años 
+contado desde la publicación de esta ley, quienes carezcan de los 
+medios tecnológicos, no tengan acceso a medios electrónicos o sólo 
+actuaren excepcionalmente a través de ellos, podrán realizar 
+presentaciones en el procedimiento administrativo en soporte de papel 
+y solicitar que la notificación se practique mediante carta certificada 
+dirigida al domicilio designado en la presentación, de acuerdo a lo 
+contemplado en el inciso quinto del artículo 18 de la ley Nº 19.880 y al 
+pronunciamiento respecto de esta solicitud establecido en el inciso 
+segundo del artículo 46 de la ley Nº 19.880.
+Artículo 2°. – Modifícase el decreto con fuerza de ley N° 1, de 2020, del Ministerio 
+Secretaría General de la Presidencia, en los siguientes términos:
+1. Agrégase, en el inciso segundo del artículo 6°, el siguiente numeral 1) nuevo, pasando 
+el actual numeral 1) a ser 2), y así sucesivamente:
+“1) Fase de Preparación: Cada órgano de la Administración deberá identificar y 
+describir las etapas de los procedimientos administrativos que desarrolla, y en particular la 
+necesidad de notificación en cada uno de ellos.
+La División de Gobierno Digital del Ministerio Secretaría General de la Presidencia 
+entregará las orientaciones técnicas respecto de esta fase.”.
+Artículo 6º.- A los órganos de la Administración del Estado a los 
+que se refiere el artículo precedente se le aplicarán gradualmente las 
+disposiciones del artículo 1º de la ley Nº 21.180, según se indica en el 
+inciso siguiente.
+La aplicación gradual del artículo 1º de la ley Nº 21.180 se 
+realizará respecto de las materias comprendidas en las siguientes 
+fases:
+1) Fase 1: Las comunicaciones oficiales entre los órganos de la 
+Administración serán registradas en una plataforma electrónica 
+destinada al efecto, en virtud de lo dispuesto en el inciso sexto del 
+artículo 19 de la ley Nº 19.880.
+2) Fase 2: Las notificaciones se practicarán por medios 
+electrónicos, en virtud de lo dispuesto en los artículos 30 y 46 de la ley 
+Nº 19.880.
+3) Fase 3: El ingreso de las solicitudes, formularios o 
+documentos, se hará mediante documentos electrónicos o por medio 
+de formatos electrónicos a través de las plataformas de los órganos de 
+la Administración del Estado, en virtud de lo dispuesto en el inciso 
+cuarto del artículo 18, y en el inciso cuarto del artículo 30 de la ley Nº 
+19.880.
+4) Fase 4: El procedimiento administrativo deberá constar en 
+expedientes electrónicos, en virtud de lo dispuesto en el inciso segundo 
+del artículo 1º, en el artículo 5º, en el inciso cuarto del artículo 16 bis, en 
+los incisos tercero y sexto del artículo 18, en el artículo 19 y en el artículo 
+25 inciso final de la ley Nº 19.880.
+5) Fase 5: Las solicitudes, formularios o escritos presentados en 
+soporte de papel serán digitalizados e ingresados al expediente 
+electrónico inmediatamente por el funcionario correspondiente, en 
+virtud de lo dispuesto en los artículos 18 y 19 bis de la ley Nº 19.880.
+6) Fase 6: Aplicación del principio de interoperabilidad, en virtud 
+de lo dispuesto en los incisos segundo y quinto del artículo 16 bis de la 
+ley Nº 19.880.
+--- PÁGINA 9 ---
+9
+2. En el artículo 7°:
+a) Reemplázase la tabla contenida en el inciso primero, por la siguiente:
+GRUPO C 
+Fase 
+por 
+implementar 
+2022 
+Preparación Preparación Preparación 
+2023 
+1 
+Preparación Preparación 
+2024 
+3 
+1 
+1 
+2025 
+6 
+3 y 6 
+3 
+2026 
+2, 4 y 5 
+4 y 5 
+4 y 6 
+2027 
+ 
+2 
+2 y 5
+Año 
+GRUPO A 
+Fase 
+por 
+implementar
+GRUPO B 
+Fase 
+por 
+implementar
+b) Suprímense sus incisos segundo y tercero.
+c) En su inciso cuarto, que pasa a ser inciso segundo, sustitúyese la expresión “en 
+los incisos precedentes”, por la siguiente: “en el inciso precedente”.”.
+Artículo 7º.- Gradualidad
+La implementación de las disposiciones introducidas por el 
+artículo 1º de la ley Nº 21.180 a la ley Nº 19.880 se sujetará a la 
+siguiente gradualidad considerando los grupos establecidos en el 
+artículo 5º de este decreto con fuerza de ley, y las fases señaladas en 
+el artículo precedente, de acuerdo a la siguiente tabla:
+Año de 
+implementación
+GRUPO C 
+Fase 
+por 
+implementar 
+Año 1 
+Fase 1 
+Fase 1 
+ 
+Año 2 
+Fase 2 y
+GRUPO A 
+Fase 
+por 
+implementar
+GRUPO B 
+Fase 
+por 
+implementar
+Fase 2 y
+Fase 1 y
+fase 2 
+Año 3 
+Fase 4, fase
+fase 3
+fase 3
+Fase 4 y
+Fase 3 y
+fase 4 
+Año 4 
+ 
+Fase 6 
+Fase 5 y
+5 y fase 6
+Fase 5
+fase 6
+Para los efectos de lo dispuesto en este artículo, el año 1 de 
+implementación se entenderá como el período que va desde la entrada 
+en vigencia de la ley Nº 21.180 hasta el 31 de diciembre de ese mismo 
+año. A partir del año 2, se computará el período que va desde el 1 de 
+enero al 31 de diciembre de cada año; salvo la última anualidad, cuyo 
+cómputo se realizará hasta el día 11 de noviembre de 2024.
+En caso de que la entrada en vigencia de la ley Nº 21.180 se 
+produzca durante el año 2022, el primer año comprenderá a los años 1 
+y 2 señalados en el inciso primero de este artículo; el segundo año 
+comprenderá al año 3; y el tercer año comprenderá al año 4 hasta el día 
+11 de noviembre de 2024.
+Lo dispuesto en el artículo 3º se aplicará gradualmente según lo 
+señalado en los incisos precedentes y, para estos efectos, los 
+numerales 1, 2, 3 y 4 de dicho artículo estarán comprendidos dentro de 
+las fases 1, 2, 4 y 6 respectivamente.
+La Comisión, en un solo acto, aprobó por unanimidad el articulado del proyecto, 
+por el mismo quorum precedente (10-0-0).
+VII.- ACUERDOS
+1.- Agregar a la Asociación Chilena de Municipalidades (ACHM) al listado de audiencias 
+que se recibirán en la sesión de mañana, martes 31 de mayo, por el proyecto de ley que 
+modifica diversos cuerpos legales para sancionar el acoso sexual en los sectores de la
+--- PÁGINA 10 ---
+10
+Administración del Estado que indica, e imponer a las municipalidades la obligación de contar 
+con protocolos internos para la prevención y sanción del acoso sexual (Boletín Nº 14.458-06).
+2.- Invitar (sin fecha determinada) al subsecretario de Desarrollo Regional y 
+Administrativo con el objeto que proporcione información sobre las zonas de rezago y, 
+especialmente, acerca de los criterios e indicadores que se considerarán para efectos de 
+determinar aquellas comunas que califican para ser declaradas como tal. * A solicitud de la 
+diputada señora Joanna Pérez.
+3.- Invitar al presidente del Consejo Directivo del SERVEL a la sesión del martes 7 de 
+junio, con el propósito de:
+a) Que se refiera, por una parte, a las medidas que ha dispuesto ese organismo 
+en orden a informar a la ciudadanía acerca de la realización del plebiscito del 4 de septiembre 
+de este año, y cómo se está fiscalizando el cumplimiento de las normas sobre propaganda 
+electoral respecto a dicho evento. * A solicitud de la diputada señora Joanna Pérez.
+b) Por otro lado, que señale las gestiones y coordinaciones que ha efectuado el 
+SERVEL con el Ministerio de Justicia para efectos de asegurar el ejercicio del derecho a 
+sufragio de las personas privadas de libertad. * A solicitud del diputado señor Renzo 
+Trisotti.
+4.- Designar como informante del proyecto de ley que modifica diversos cuerpos legales 
+en materia de Transformación Digital del Estado (boletín N°14.969-06 (S) a la diputada señora 
+Carolina Tello.
+El debate habido en esta sesión queda archivado en un registro de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento. Asimismo, se encuentra 
+contenido en el registro audiovisual4 de la misma.
+JUAN CARLOS HERRERA INFANTE
+Abogado secretario de la Comisión
+4 Disponible en https://www.democraciaenvivo.cl/player.aspx?id=3314&name=PROGC018803.mp4

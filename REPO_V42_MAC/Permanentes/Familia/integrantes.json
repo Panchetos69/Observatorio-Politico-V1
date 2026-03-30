@@ -1,0 +1,58 @@
+{
+  "comision": "Familia",
+  "prmID": "4898",
+  "integrantes": [
+    {
+      "nombre": "Sr. Juan Irarrázaval Rossel",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1133"
+    },
+    {
+      "nombre": "Sr. Roberto Celedón Fernández",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1184"
+    },
+    {
+      "nombre": "Sr. Eduardo Durán Salinas",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1028"
+    },
+    {
+      "nombre": "Sra. Lorena Fries Monleón",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1127"
+    },
+    {
+      "nombre": "Sr. José Antonio Kast Adriasola",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1218"
+    },
+    {
+      "nombre": "Sr. Benjamín Lorca Inzunza",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1221"
+    },
+    {
+      "nombre": "Sra. Francesca Muñoz González",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1054"
+    },
+    {
+      "nombre": "Sra. Ximena Naranjo Pinto",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1231"
+    },
+    {
+      "nombre": "Sra. Paula Olmos Contreras",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1236"
+    },
+    {
+      "nombre": "Sr. Álvaro Ortiz Vera",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1238"
+    },
+    {
+      "nombre": "Sra. Zandra Parisi Fernández",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1240"
+    },
+    {
+      "nombre": "Sra. Lorena Pizarro Sierra",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1159"
+    },
+    {
+      "nombre": "Sr. César Valenzuela Maass",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1260"
+    }
+  ]
+}

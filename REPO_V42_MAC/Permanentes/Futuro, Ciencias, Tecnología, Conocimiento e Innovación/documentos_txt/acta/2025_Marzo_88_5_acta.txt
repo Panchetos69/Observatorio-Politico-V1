@@ -1,0 +1,457 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=16584&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:33:55
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 88°, ESPECIAL, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+373ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 12 DE MARZO 2025, 
+DE 08:40 A 09:48 HORAS.
+SUMARIO: 
+Se continuó con la votación en particular de los 
+proyectos de ley boletines 16821-19 y 15869-19, 
+refundidos, en primer trámite constitucional, con 
+urgencia “suma”.
+I.- PRESIDENCIA
+Presidió la sesión, la diputada Érika Olivera (Presidenta Accidental), actuó como 
+Abogada Secretaria de la Comisión, la señora María Soledad Fredes Ruiz, como Abogada 
+Ayudante, la señora María Jesús Serey Sardá y como secretaria ejecutiva, la señora 
+Teresita Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Marta Bravo, Paula 
+Labra, Helia Molina, Erika Olivera, Marcela Riquelme y Gael Yeomans, y los diputados 
+integrantes de la Comisión, señores Johannes Kaiser, Tomás Lagomarsino, Daniel Lilayu, 
+Rubén Oyarzo y Hernán Palma.
+Concurrió, para la orden del día, la Ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, señora Aisén Etcheverry Escudero, acompañada por las asesoras legislativas 
+Camila Aguayo, Paloma Herrera y Gladys Pierola.
+III.- ACTAS
+El acta de la sesión 85ª se declaró reglamentariamente aprobada.
+Las actas de las sesiones 86ª y 87ª se pusieron a disposición de las señoras 
+diputadas y señores diputados.
+IV.- CUENTA
+Se recibió el siguiente documento:
+1.- Oficio de S.E. el Presidente de la República mediante el cual hace presente la 
+urgencia calificada de “suma”, para el despacho del proyecto de ley que regula los sistemas 
+de inteligencia artificial (boletín N° 15869-19, refundido con boletín N° 16821-19).
+A sus antecedentes.
+V.- ORDEN DEL DÍA
+Se continuó con la votación en particular de los proyectos de ley boletines 16821-19 
+y 15869-19, refundidos, en primer trámite constitucional, con urgencia “suma”.
+Artículo 6, letra e)
+e) Identificación biométrica remota en espacios de acceso público en tiempo real: 
+sistemas de IA utilizados para el análisis de imágenes de vídeo en espacios de acceso 
+público que emplean sistemas de identificación biométrica remota en tiempo real.
+Esta prohibición no será aplicable, en caso de que el sistema de IA sea utilizado 
+estrictamente por las autoridades y órganos encargados de la seguridad pública y 
+organismos de persecución penal, con el objetivo de prevenir, investigar, detectar y, 
+eventualmente, ejecutar sanciones penales, incluidas la protección y prevención frente a 
+amenazas para la seguridad pública, de conformidad con la ley.”.
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 19/03/2025 11:27:07 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 07B946981323C5D8
+--- PÁGINA 2 ---
+Indicaciones:
+22 C) De la diputada Labra para agregar, en el inciso párrafo de la letra e), a 
+continuación del punto final, que pasa a ser punto seguido, lo siguiente:
+“Asimismo, esta prohibición no será aplicable cuando el sistema de IA sea utilizado 
+por organismos privados para prestar apoyo a las autoridades y órganos encargados de la 
+seguridad pública, velando siempre por el resguardo de los datos personales de 
+conformidad a las leyes aplicables.”.
+Esta indicación fue retirada por su autora.
+22 D) Del diputado Tomás Lagomarsino para modificar la letra e) de la indicación 
+22B) del Ejecutivo:
+a) En el párrafo primero, reemplazar la expresión “espacios de acceso público” por 
+“bienes nacionales de uso público, salvo que una ley especial la autorice”.
+b) En el párrafo segundo, incorporar, entre las expresiones “no será aplicable” y “en 
+caso de que”, la frase “siempre que medie una autorización de un juzgado de garantía”.
+La señora Paloma Herrera, asesora legislativa del Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación, dijo que la identificación biométrica en tiempo 
+real implicaba un riesgo elevado y desafíos globales, pero, en el marco de la agenda de 
+seguridad del gobierno y dada la importancia de las nuevas tecnologías en la materia, se 
+estableció la excepción contenida en el inciso segundo, que permitirá el uso de 
+identificación biométrica en espacios públicos por parte de los encargados de la seguridad 
+pública y los organismos de persecución penal, a fin de aplicar sanciones penales y prevenir 
+amenazas, de conformidad con el marco legal.
+Además, informó que dicho uso estaba operando, en formato piloto, mediante la 
+puesta en marcha del proyecto del Ministerio del Interior y Seguridad Pública denominado 
+Sistema Integrado de Teleprotección con Inteligencia Artificial (Sitia), que se estaba 
+utilizando para reconocer placas patentes de vehículos, pero podría extenderse a la 
+identificación de personas.
+El diputado Johannes Kaiser manifestó su preocupación por el uso de sistemas de 
+IA para vigilancia, más aún por parte del Estado. Señaló que permitir que el Estado 
+monitoree a las personas en todo momento y lugar no resolvía los problemas de seguridad 
+actuales. A modo de prueba, dijo que dichos problemas no existían antes de la 
+implementación masiva de cámaras y tecnologías que permiten, supuestamente, la 
+persecución del crimen y que, en el pasado, métodos tradicionales, respetuosos de la 
+privacidad, habían sido suficientes para controlar el crimen.
+El parlamentario advirtió que se otorgaba al Estado el derecho, que no le asiste, de 
+conocer la ubicación y las actividades de todos los ciudadanos en espacios públicos, y no 
+solo de quienes cometen delitos, lo cual los convierte en sujetos de control.
+Por ello, instó a los demás miembros de la Comisión a rechazar lo dispuesto en el 
+inciso, porque vulnera derechos fundamentales y consolida un poder desproporcionado del 
+Estado. A su juicio, se abría la puerta a un sistema de vigilancia similar a los de regímenes 
+autoritarios, como en China, porque se estaba creando una infraestructura para facilitar el 
+control absoluto de la población.
+Finalmente, el diputado Kaiser afirmó que la transparencia debía exigirse al Estado 
+y a sus funcionarios y no a los ciudadanos, que no deben ser tratados como ganado.
+La diputada Paula Labra expresó que compartía la postura del diputado Johannes 
+Kaiser, pero desde un enfoque distinto.
+En ese contexto, dijo que el uso de sistemas de inteligencia artificial e identificación 
+biométrica en espacios públicos implicaba una alta complejidad, debido a la necesidad de 
+resguardar los datos personales, pero que ello se podía garantizar mediante las leyes 
+vigentes o una futura nueva ley sobre protección y tratamiento de datos personales.
+Según la parlamentaria, no era adecuado excluir a los privados del uso de sistemas 
+de identificación biométrica, porque podían colaborar con las autoridades estatales en
+2
+--- PÁGINA 3 ---
+tareas de seguridad, siempre que se sometieran a una regulación estricta, con estándares 
+equivalentes a los aplicados al Estado. Por tanto, su indicación incorporaba a los actores 
+privados en la excepción establecida en el inciso segundo.
+Por último, señaló que la regulación debía ser equitativa para ambos sectores, a fin 
+de garantizar un combate eficaz contra el crimen, sin comprometer los derechos 
+ciudadanos.
+El diputado Tomás Lagomarsino dijo que su indicación y la de la diputada Paula 
+Labra iban en la misma línea, pero respecto de ámbitos distintos, porque, a su juicio, en 
+calles y plazas, es decir, en bienes nacionales de uso público, no se debía permitir el uso 
+de sistemas de identificación biométrica remota en tiempo real.
+Asimismo, señaló que los elementos comprendidos en el inciso segundo no 
+garantizaban el cumplimiento de la disposición y que la excepción debía proceder solo si 
+había autorización judicial, al menos.
+Finalmente, el diputado manifestó que no consideraba problemático el uso de 
+identificación biométrica en espacios privados de acceso público, como malls, pues el 
+ingreso es voluntario y, además, puede contribuir a la seguridad, dado el contexto actual.
+La diputada Marcela Riquelme coincidió con el diputado Kaiser en que era 
+indispensable contar con una base de datos biométrica para realizar identificación 
+biométrica, lo cual implicaba que los ciudadanos autorizaran el almacenamiento de sus 
+datos.
+Además, planteó que no era competencia de la Comisión el uso de identificación 
+biométrica en seguridad pública, pero que, si se abordaba, había que conocer las opiniones 
+de las policías. Por último, anunció que no votaría a favor, si se mantenía la redacción 
+actual.
+El diputado Johannes Kaiser informó que el Servicio de Registro Civil e 
+Identificación estaba elaborando una base de datos biométrica en la cual se almacenará 
+información de todos los ciudadanos, y que el empadronamiento biométrico iba a ser 
+obligatorio.
+Explicó, además, que el sistema de identificación biométrica en tiempo real operará 
+en espacios públicos controlados por el Estado, pero que pertenecen a los ciudadanos, lo 
+que, a su juicio, hacía problemática su implementación.
+Respecto de los malls mencionó que estas entidades privadas tendrán dificultades 
+para contar con bases de datos biométricas, si el Estado no les permite acceder a dicha 
+información, salvo que los clientes les entreguen voluntariamente sus datos. También 
+comentó que el establecimiento de este sistema en centros comerciales podría afectar 
+negativamente sus ventas.
+Sostuvo que se está forzando la implementación del sistema porque se quiere 
+obtener el control total de la sociedad y aseguró que se está avanzando en el 
+empadronamiento de todas las personas y en la puesta en marcha de biometría en estadios 
+y aeropuertos.
+En la misma línea, manifestó su preocupación por el uso de inteligencia artificial no 
+solo para detectar delitos, sino también para registrar las actividades de los ciudadanos en 
+espacios públicos, incluso comportamientos moralmente cuestionables, pero legales.
+Hizo presente que lo descrito constituía un gran riesgo para la libertad del ser 
+humano, el cual era mayor si el sistema estaba en manos del Estado, pues poseía el poder 
+coercitivo.
+Por lo tanto, a su juicio, en el inciso segundo no se debía exceptuar al Estado de la 
+prohibición, ya que es precisamente al Estado al que debe negarse el uso de sistemas 
+biométricos de forma masiva.
+La diputada Paula Labra concordó con la diputada Riquelme en que la Comisión 
+podía no ser la instancia técnica adecuada para abordar el uso de identificación biométrica 
+e inteligencia artificial en seguridad, lo que evidenciaba, como ha sido su opinión, que el
+3
+--- PÁGINA 4 ---
+proyecto requiere un análisis más profundo y extenso, la creación de mesas de trabajo y la 
+introducción de modificaciones en otras normativas, pues implica diferentes materias.
+En ese sentido, sostuvo que no hay que olvidar que el foco del debate eran los usos 
+prohibidos de sistemas de inteligencia artificial, contenidos en las letras del artículo 6, 
+porque se estaba legislando en muchas materias.
+A modo de conclusión, recordó que, el día anterior, la Cámara había despachado a 
+ley, con 113 votos a favor, el proyecto que autoriza la implementación de tecnología para la 
+autentificación de datos biométricos en aeropuertos, el cual iba en la misma línea de la 
+iniciativa en discusión. En ese sentido, hizo presente la importancia de aplicar la futura 
+regulación en coordinación con el Estado y los privados.
+El diputado Tomás Lagomarsino aclaró que lo analizado el día anterior no se 
+parecía a lo que se votaba en ese momento. Según explicó, la identificación biométrica ya 
+aprobada correspondía a un sistema en el que alguien puede presentarse voluntariamente 
+ante una cámara para ser identificado. En cambio, el sistema en discusión implicaba la 
+conexión de múltiples cámaras, ubicadas en diversos lugares, a un servidor con inteligencia 
+artificial, el cual identificaría a las personas en cada una de esas cámaras y almacenaría 
+datos sobre sus movimientos y horarios.
+Agregó que compartía la postura de la diputada Paula Labra y, si bien reconoció que 
+la Presidenta de la Comisión tenía la potestad de decidir, recomendó que se postergara la 
+votación de esa disposición para permitir una discusión más amplia en otra sesión.
+El diputado Johannes Kaiser propuso dividir la votación del punto e) en dos partes, 
+dado que este contenía dos incisos; mientras el primero prohibía el uso de identificación 
+biométrica remota en espacios de acceso público en tiempo real, el segundo planteaba una 
+excepción a dicha prohibición. Entonces, se manifestó de acuerdo con impedir estos 
+sistemas sin salvedades, por lo cual votaría a favor la prohibición y en contra de la 
+excepción, con el fin de evitar su implementación sin importar quién los utilizara.
+El diputado Tomás Lagomarsino propuso dividir la votación en dos partes, ya que 
+el diputado Kaiser estaría de acuerdo con la primera y en contra de la segunda.
+Explicó que el objetivo de la primera parte era sustituir la expresión “espacios de 
+acceso público” por “bienes nacionales de uso público”, así como permitir que una ley 
+especial autorice su uso en casos específicos.
+En cuanto a la segunda parte, dijo que la idea era exigir la autorización de un juzgado 
+de garantía para el uso de identificación biométrica remota, argumentando que esta 
+tecnología no debía emplearse indiscriminadamente, sino solo cuando estuviera realmente 
+justificada.
+El diputado Johannes Kaiser pidió una aclaración sobre la indicación. Preguntó si 
+la prohibición quedaría establecida para la identificación biométrica remota en bienes 
+nacionales de uso público en tiempo real y para los sistemas de inteligencia artificial 
+utilizados en el análisis de imágenes y videos en espacios de acceso público, salvo que 
+existiera una autorización judicial. Además, cuestionó si la autorización del tribunal de 
+garantía se aplicaría específicamente para la búsqueda de personas o si tenía otro 
+propósito.
+El diputado Tomás Lagomarsino respondió que su propuesta se basaba en 
+conceptos recogidos de la ley de inteligencia artificial de la Unión Europea, la cual establece 
+criterios aún más estrictos para el uso de esta tecnología. Agregó que la autorización judicial 
+solo se concedía en casos de alto riesgo para la seguridad interior del Estado, como el 
+terrorismo o la búsqueda de personas desaparecidas.
+Puso como ejemplo la posibilidad de aplicar esta normativa en eventos de gran 
+magnitud, como los Juegos Olímpicos, donde podría existir alto riesgo de atentados 
+terroristas. En tales circunstancias, argumentó que un juzgado de garantía podría autorizar, 
+de manera excepcional, la identificación biométrica remota en tiempo real en áreas 
+específicas, como la villa olímpica respectiva o los recintos donde se desarrollaran las 
+competencias. Sin embargo, enfatizó que, para ello, las autoridades tendrían que presentar 
+antecedentes sólidos que justificaran su implementación.
+4
+--- PÁGINA 5 ---
+El diputado Johannes Kaiser expresó su preocupación por el uso de estos 
+sistemas, ya que, una vez creada la infraestructura y la base de datos biométrica, resultaría 
+difícil controlar su aplicación. Recordó que en la Región de La Araucanía se había 
+mantenido un estado de excepción por varios años, evidenciando cómo las medidas 
+excepcionales pueden extenderse indefinidamente.
+Añadió que, una vez instalados los sistemas, la tentación por utilizarlos para 
+diversos fines, tanto positivos como negativos, sería muy difícil de contener. Advirtió que su 
+expansión progresiva podría derivar en un modelo de vigilancia total, asemejándose a un 
+sistema de crédito social, donde se utilizaría la tecnología para monitorear y controlar el 
+comportamiento ciudadano.
+Según explicó, a medida que aumentan las incivilidades la sociedad tiende a exigir 
+mayores niveles de control, pero en la actualidad este se ejerce mediante el uso de 
+máquinas e inteligencia artificial. En su opinión, esto no contribuye necesariamente a 
+reducir la delincuencia, pero sí incrementa la vigilancia, lo cual podría terminar creando 
+exactamente el tipo de sociedad que se pretende evitar.
+En ese sentido, una vez instalada la infraestructura, para un gobierno que no respete 
+los derechos fundamentales de los ciudadanos sería más sencillo restringir libertades y 
+cerrar el sistema de vigilancia. Por lo tanto, expresó su rechazo a la idea de facilitarle el 
+trabajo a un régimen que eventualmente pudiera poner fin a la historia de libertades del 
+país.
+Finalmente, sostuvo que no era partidario de establecer una infraestructura de 
+seguridad que permita al Estado monitorear en tiempo real a los ciudadanos, ya que esto 
+altera la relación entre ambos, invirtiendo los roles naturales en una república. Argumentó 
+que el Estado debe ser un sirviente de los ciudadanos y no su tutor o guardián, y que dicha 
+infraestructura los transformaría en meros súbditos de quienes ostenten el poder, sean o 
+no electos. Así, concluyó reiterando su desacuerdo con este enfoque de control estatal.
+La señora Aisén Etcheverry, ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, intervino para realizar dos comentarios en relación con la indicación del 
+diputado Tomás Lagomarsino al literal e) del artículo 6 del proyecto de ley.
+En primer lugar, expresó que el Ejecutivo tenía dudas sobre la expresión “bienes 
+nacionales de uso público”, pues consideraba que podía resultar restrictiva en comparación 
+con la frase “espacios de acceso público”. Comentó que intentaron recopilar información al 
+respecto, pero aún no tenían clara la diferencia entre ambos conceptos.
+En segundo lugar, mencionó la inclusión de una autorización por parte de un tribunal 
+de garantía, destacando que esta medida era coherente con otras legislaciones vigentes. 
+En consecuencia, el Ejecutivo no manifestaba oposición a dicha incorporación.
+La diputada Gael Yeomans planteó inquietudes sobre el procedimiento de votación, 
+señalando que primero debía resolverse la solicitud de votar por separado ambos párrafos 
+de la letra e). Luego, dependiendo del resultado, se analizaría la indicación presentada por 
+el diputado Lagomarsino.
+Manifestó sus dudas con respecto a la complejidad del tema y advirtió que una 
+legislación apresurada podría generar conflictos con otras normativas, como la Ley de 
+Ciberseguridad. Asimismo, reconoció que no estaba segura de que todos los involucrados 
+manejaran los términos en el mismo sentido.
+Mencionó que el diputado Lagomarsino había integrado elementos de la discusión 
+desarrollada en la Unión Europea, lo cual le parecía interesante. No obstante, enfatizó que, 
+aunque su intención no era retrasar la votación, consideraba que el tema era delicado y no 
+estaba convencida de respaldar completamente la propuesta.
+Añadió que, tras escuchar la postura del Ejecutivo, le preocupaba que la indicación 
+fuera demasiado restrictiva y sugirió alternativas, como dejar la autorización exclusivamente 
+en manos de los jueces de garantía, establecer una ley específica o delimitar ciertas 
+materias en las que la habilitación sería pertinente.
+5
+--- PÁGINA 6 ---
+Concluyó expresando su inquietud sobre el posible uso de esta normativa en 
+distintos gobiernos y circunstancias, dado que implicaba un control exhaustivo de las 
+libertades personales. Por ello, consideró que la discusión debía abordarse con mayor 
+detenimiento.
+El diputado Johannes Kaiser recordó su participación en la tramitación de la ley 
+sobre inteligencia y enfatizó que en dicha legislación cualquier medida con un alto nivel 
+intruso, como las autorizadas por la inteligencia artificial en la norma en discusión, siempre 
+requería una autorización judicial previa. Destacó que, en este caso, el control operaría de 
+manera automática y permanente, y que la intervención del tribunal solo se produciría 
+posteriormente para autorizar la búsqueda de una persona, lo que, a su juicio, representaba 
+una complicación.
+En cuanto a la indicación del Ejecutivo que sustituía el artículo original, Kaiser 
+subrayó la necesidad de establecer parámetros claros sobre cuándo se podía otorgar una 
+autorización y cuándo no. Advirtió que, si se delegaba esa facultad a los tribunales, la 
+normativa debía especificar los criterios para su aplicación.
+Asimismo, hizo hincapié en que el texto original contemplaba que la prohibición del 
+uso de inteligencia artificial no aplicaría al Estado en casos relacionados con la sanción de 
+crímenes o simples delitos. Desde su perspectiva, esto implica, en la práctica, que la 
+inteligencia artificial asumirá un rol en la imposición de sanciones penales.
+En un tono crítico, cuestionó si era el único que veía paralelismos con escenarios 
+distópicos descritos en la literatura, mencionando obras de Aldous Huxley y de George 
+Orwell, en particular “1984”, señalando que dicho libro no debía interpretarse como un 
+manual de instrucciones.
+Expresó su preocupación por el nivel de intrusión de la norma, argumentando que 
+la inteligencia artificial tenía la capacidad de monitorear no solo la presencia de las 
+personas, sino también su estado emocional, mediante la medición de la temperatura 
+corporal y sus variaciones.
+En relación con la necesidad de este tipo de control, el diputado Kaiser sostuvo que 
+la mayoría de los delincuentes en Chile son detenidos en múltiples ocasiones y que el 
+problema no radica en su identificación, sino en la falta de sanciones efectivas. En 
+consecuencia, se preguntó por qué era necesario implementar un nuevo sistema de 
+identificación, cuando los delincuentes ya eran reconocidos y arrestados repetidamente. 
+Según planteó, la medida terminaría afectando a la ciudadanía honesta.
+También expresó su desconfianza con respecto al uso que el Estado podría dar a 
+este tipo de herramientas, argumentando que, si él propusiera una medida similar al llegar 
+a la Presidencia de la República, la izquierda lo consideraría un peligro para la democracia 
+y la libertad. Enfatizó la importancia de la coherencia política y recordó que sistemas 
+similares fueron condenados por organizaciones de derechos humanos tras su aplicación 
+en China, donde se utilizaban para encarcelar disidentes.
+Además, advirtió que un sistema de esta naturaleza, al integrarse con el sistema 
+bancario y el Registro Civil, podría facilitar la eliminación de una persona de la vida 
+económica y social, sin necesidad de encarcelarla, bastando con un simple comando para 
+restringir su capacidad de transporte y movimiento.
+Finalmente, afirmó que confiaba en que sus colegas presentes hayan ingresado a 
+la política con la intención de buscar el bienestar de la ciudadanía, aunque con distintas 
+perspectivas. No obstante, hizo un llamado a la izquierda a reflexionar sobre la propuesta, 
+insistiendo en que apoyar una medida de este tipo implicaba traicionar los principios que 
+históricamente habían defendido.
+Luego, explicó que el concepto de “bien nacional de uso público” era relativamente 
+limitado, ya que no incluía, por ejemplo, las propiedades municipales. Mencionó que las 
+calles sí entraban en esta categoría, pero subrayó que la definición era más restringida en 
+comparación con la noción más amplia de bienes de acceso público de propiedad pública.
+6
+--- PÁGINA 7 ---
+Enseguida, dijo que los bienes nacionales de uso público eran exclusivamente 
+aquellos definidos como tales y no consideraban, por ejemplo, bienes pertenecientes a 
+municipalidades o empresas del Estado.
+El diputado Tomás Lagomarsino aseguró que tenía presente el planteamiento del 
+diputado Kaiser y dio una explicación acerca las diferencias entre distintos tipos de bienes, 
+a saber, bienes públicos, bienes nacionales de uso público, bienes nacionales y bienes 
+privados, los cuales podían pertenecer tanto a particulares como al Estado en calidad de 
+dominio privado. Como ejemplo de este último caso, indicó que el Congreso Nacional 
+quedaría excluido de la discusión, ya que, aunque era propiedad fiscal, se consideraba un 
+bien privado.
+La diputada Marcela Riquelme explicó que el debate tenía un trasfondo jurídico y 
+que la disposición en debate constituía esto una excepción de la excepción, lo que 
+complicaba su comprensión. En términos simples, señaló que la norma prohibía el uso de 
+identificación biométrica, pero permitía una excepción si un juez de garantía lo autorizaba, 
+pero agregó que el inciso primero del artículo 6 no especificaba si se trataba de bienes 
+públicos o privados.
+Precisó que con lo que proponía la primera indicación del diputado Tomás 
+Lagomarsino la prohibición se aplicaría a los bienes nacionales de uso público, es decir, 
+calles y plazas, donde la identificación biométrica no podría utilizarse salvo que un juez de 
+garantía lo autorizara y que excluía cualquier tipo de espacio privado o de acceso público, 
+pero de propiedad privada, como estadios o centros comerciales. Esto significaba que, 
+incluso si un juez de garantía otorgaba una autorización, la norma seguiría sin aplicarse en 
+estos lugares.
+Finalmente, analizó el inciso segundo, donde se establecía la posibilidad de 
+autorización por parte del juez de garantía. Reafirmó que esta autorización solo aplicaría a 
+los bienes nacionales de uso público mencionados en el inciso primero, lo que implicaba 
+que en espacios privados o de acceso público, pero de propiedad privada, ni siquiera con 
+una autorización judicial podría implementarse la identificación biométrica.
+La diputada Gael Yeomans señaló que la situación era compleja, ya que se había 
+acordado votar ambas partes de la indicación por separado. Expresó que era muy probable 
+que se rechazara la segunda parte del literal e) y manifestó su intención de votar en contra 
+del segundo párrafo.
+Advirtió que se estaba llevando a cabo un debate que eventualmente podría resultar 
+innecesario si luego se eliminaba dicha parte del texto. Reconoció que, desde un punto de 
+vista procesal, las indicaciones debían votarse primero, razón por la cual estaban votando 
+la propuesta del diputado Tomás Lagomarsino.
+Dicho eso, cuestionó la utilidad de este procedimiento si posteriormente se decidiría 
+eliminar el segundo párrafo, lo que afectaría parte de la indicación en discusión.
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que tomara la votación de la primera parte de la indicación presentada por el diputado 
+Tomás Lagomarsino.
+La diputada Marcela Riquelme explicó que se abstenía en la votación por 
+considerar que la propuesta excedía el ámbito de estudio del proyecto de ley y debía ser 
+materia de la Comisión de Seguridad Ciudadana.
+Puesta en votación la primera parte de la indicación 22 D) fue rechazada por 
+mayoría de votos. Votaron a favor la diputada Érika Olivera y el diputado Tomás 
+Lagomarsino. Votaron en contra las diputadas Marta Bravo, Paula Labra, Helia Molina, Gael 
+Yeomans y los diputados Johannes Kaiser, Rubén Oyarzo y Hernán Palma. Se abstuvo la 
+diputada Marcela Riquelme (2-7-1).
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que tomara la votación del primer párrafo de la indicación del Ejecutivo.
+Puesto en votación, el primer párrafo de la indicación fue aprobado por mayoría, 
+con los votos a favor de los diputados Johannes Kaiser, Tomás Lagomarsino, Rubén
+7
+--- PÁGINA 8 ---
+Oyarzo, Hernán Palma y de las diputadas Marta Bravo, Paula Labra, Helia Molina, Gael 
+Yeomans y Érika Olivera. Se abstuvo la diputada Marcela Riquelme (9-0-1).
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que diera lectura a la nueva indicación de la diputada Paula Labra.
+22 E) De la diputada Labra para reemplazar el párrafo segundo del artículo 6 letra 
+e) del proyecto por lo siguiente:
+“Esta prohibición no será aplicable, en caso de que el sistema de lA sea utilizado 
+estrictamente por las autoridades y órganos encargados de la seguridad pública y 
+organismos de persecución penal, con el objetivo de prevenir, investigar, detectar y, 
+eventualmente, ejecutar sanciones penales, incluidas la protección y prevención frente a 
+amenazas para la seguridad publica, de conformidad con la ley. Asimismo, esta prohibición 
+no será aplicadle cuando el sistema de lA sea utilizado por organismos privados para 
+prestar apoyo a las autoridades y órganos encargados de la seguridad pública, velando 
+siempre por el resguardo le los datos personales de conformidad a las leyes aplicables.”.
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que tomara la votación de la indicación de la diputada Paula Labra para reemplazar el 
+segundo párrafo del proyecto en discusión.
+El diputado Johannes Kaiser fundamentó su voto en contra, argumentando que la 
+prohibición del uso de sistemas de inteligencia artificial en tiempo real buscaba evitar el 
+control permanente de las personas. A su juicio, la excepción planteada permitiría que el 
+Estado o los privados implementaran dichos sistemas, lo que, en la práctica, desvirtuaba el 
+espíritu del primer párrafo del proyecto.
+La diputada Marcela Riquelme reiteró su decisión de abstenerse, señalando 
+nuevamente que la discusión del tema debía ser abordada en la Comisión de Seguridad 
+Ciudadana.
+Puesta en votación, la indicación fue rechazada por no alcanzar el quorum de 
+aprobación. Votaron a favor las diputadas Marta Bravo, Paula Labra y el diputado Rubén 
+Oyarzo. Votaron en contra las diputadas Helia Molina, Gael Yeomans y los diputados 
+Johannes Kaiser y Hernán Palma. Se abstuvieron las diputadas Marcela Riquelme, Érika 
+Olivera y el diputado Tomás Lagomarsino (3-4-3).
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que diera lectura a la segunda parte de la indicación del diputado Tomás Lagomarsino.
+La señora María Soledad Fredes, Secretaria, procedió a dar lectura a la parte 
+pertinente de la indicación presentada por el diputado Tomás Lagomarsino, que proponía 
+incorporar la exigencia de autorización judicial para la aplicación de la disposición.
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que tomara la votación.
+La diputada Paula Labra fundamentó su voto señalando que su intención era que 
+tanto los privados como el Estado pudieran realizar esta labor con todas las regulaciones 
+necesarias. Sin embargo, dado que este punto no quedó reflejado en la indicación 
+rechazada, decidió abstenerse.
+La diputada Marcela Riquelme reiteró su abstención, manteniendo los argumentos 
+expuestos previamente respecto de la Comisión de Seguridad Ciudadana.
+La diputada Gael Yeomans explicó que, aunque consideraba positiva la posibilidad 
+de incorporar la autorización judicial, decidió abstenerse en la votación, ya que previamente 
+había votado en contra el segundo párrafo.
+Puesta en votación, la indicación fue rechazada por no alcanzar el quorum de 
+aprobación. Votaron a favor el diputado Tomás Lagomarsino y la diputada Érika Olivera. 
+Votaron en contra los diputados Johannes Kaiser, Rubén Oyarzo, Hernán Palma y la 
+diputada Helia Molina. Se abstuvieron las diputadas Marta Bravo, Paula Labra, Marcela 
+Riquelme y Gael Yeomans (2-4-4).
+8
+--- PÁGINA 9 ---
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que tomara la votación del segundo párrafo de la indicación del Ejecutivo.
+El diputado Tomás Lagomarsino justificó su voto en contra señalando que, al no 
+haberse incorporado la autorización del juzgado de garantía, medida que consideraba clave 
+para cumplir los objetivos del proyecto, prefería rechazar la indicación.
+Puesto en votación, el segundo párrafo de la indicción del Ejecutivo fue rechazado 
+por mayoría de votos. Votaron a favor las diputadas Marta Bravo y Érika Olivera. Votaron 
+en contra los diputados Johannes Kaiser, Hernán Palma, Tomás Lagomarsino y las 
+diputadas Helia Molina, Marcela Riquelme y Gael Yeomans. Se abstuvieron las diputadas 
+Paula Labra y Rubén Oyarzo (2-6-2).
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 09:48 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+9

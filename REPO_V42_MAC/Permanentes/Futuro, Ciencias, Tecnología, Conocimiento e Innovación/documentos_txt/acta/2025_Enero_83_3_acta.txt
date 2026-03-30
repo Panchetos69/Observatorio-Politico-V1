@@ -1,0 +1,611 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=15063&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:34:08
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 83, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+372ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 15 DE ENERO 2025, DE 
+08:38 A 09:48 HORAS.
+SUMARIO: 
+Se continuó con la votación en particular del proyecto de 
+ley que regula los sistemas de inteligencia artificial 
+(boletines Nos 16821-19 y 15869-19, refundidos), en primer 
+trámite constitucional, con urgencia “suma”.
+I.- PRESIDENCIA
+Presidió la sesión, el diputado Eric Aedo (Presidente Titular), actuó como Abogada 
+Secretaria de la Comisión, la señora María Soledad Fredes Ruiz, como Abogada Ayudante, 
+la señora María Jesús Serey Sardá y como secretaria ejecutiva, la señora Teresita Sandoval 
+Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Marta Bravo, Paula 
+Labra, Helia Molina, Marcela Riquelme y Gael Yeomans, y los diputados integrantes de la 
+Comisión, señores Eric Aedo, Johannes Kaiser, Tomás Lagomarsino, Daniel Lilayu, Rubén 
+Oyarzo y Hernán Palma.
+Concurrió, para la orden del día, la Ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, señora Aisén Etcheverry Escudero, acompañada de las asesoras legislativas 
+Paloma Herrera y Camila Aguayo.
+Participaron, en calidad de expertos, la Investigadora Principal del Centro Nacional 
+de Inteligencia Artificial (CENIA) y miembro del Grupo de Trabajo en Ética de CENIA, señora 
+Claudia López Moncada; la Coordinadora Ejecutiva de la Iniciativa de Datos e Inteligencia 
+Artificial (IDIA) de la Universidad de Chile, señora Dominique Varela Hermosilla.
+III.- ACTAS
+El acta de la sesión 81ª se declaró reglamentariamente aprobada.
+El acta de la sesión 82ª se puso a disposición de las señoras diputadas y señores 
+diputados.
+IV.- CUENTA
+No se recibieron documentos para la cuenta.
+V.- ORDEN DEL DÍA
+Se continuó con la votación en particular del proyecto de ley que regula los sistemas 
+de inteligencia artificial (boletines Nos 16821-19 y 15869-19, refundidos), en primer 
+trámite constitucional, con urgencia “suma”.
+La señora Aisén Etcheverry, ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación agradeció el trabajo del equipo técnico por el intenso esfuerzo realizado en las 
+discusiones de la última sesión y destacó que se había llegado a un acuerdo sobre la 
+incorporación de los usos y sus definiciones. Asimismo, mencionó que la diputada Gael 
+Yeomans había presentado una indicación que recogía muchas de las preocupaciones 
+planteadas y que sería fundamental para mejorar la coherencia del proyecto.
+La diputada Paula Labra comentó que, en la sesión anterior, la ministra había 
+propuesto una definición de “uso” que le parecía adecuada y que, de haber sido presentada 
+en ese momento, se podría haber resuelto el tema. Además, sugirió que se permitiera a los
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 25/03/2025 11:12:36 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: C646E4A2E43B93A3
+--- PÁGINA 2 ---
+diputados citar a expertos adicionales, ya que algunos de los expertos consultados 
+previamente no habían respondido.
+El diputado Johannes Kaiser solicitó que, dado que la indicación presentada había 
+sido consensuada entre los equipos técnicos de todos los parlamentarios, se permitiera que 
+los diputados que lo desearan también la firmaran.
+Artículo 5
+Artículo 5.- Clasificación de los sistemas de IA. Los usos de los sistemas de IA se 
+clasificarán, de acuerdo con su riesgo, en las siguientes categorías: 
+a) Sistemas de IA de riesgo inaceptable:  Agrupa a sistemas de IA incompatibles con el 
+respeto y garantía de los derechos fundamentales de las personas, por lo que su 
+introducción en el mercado o puesta en servicio se encuentra prohibida. 
+b) Sistemas de IA de alto riesgo: Agrupa a sistemas de IA autónomos o componentes de 
+seguridad de productos que pueden afectar negativamente a la salud y la seguridad de las 
+personas, sus derechos fundamentales o el medio ambiente, así como los derechos de los 
+consumidores especialmente si fallan o se utilizan de forma impropia.  
+c) Sistemas de IA de riesgo limitado: Agrupa a sistemas de IA que presentan riesgos no 
+significativos de manipulación, engaño o error, producto de su interacción con personas 
+naturales. 
+d) Sistemas de IA sin riesgo evidente: Agrupa a todos los demás sistemas de IA que no 
+entran en las categorías mencionadas en los literales precedentes.
+Indicaciones:
+16) Del diputado Kaiser para sustituir el artículo 5, por el siguiente:
+“Artículo 5.- Clasificación del uso de los sistemas de IA. Los usos de los sistemas 
+de IA se clasificarán, de acuerdo con su riesgo, en las siguientes categorías:
+a) Uso de Sistemas de IA de riesgo inaceptable: Agrupa a usos de sistemas de IA 
+incompatibles con el respeto y garantía de los derechos fundamentales de las personas, 
+por lo que su introducción en el mercado o puesta en servicio se encuentra prohibida.
+b) Uso de Sistemas de IA de alto riesgo: Agrupa a usos de sistemas de IA 
+autónomos o componentes de seguridad de productos que pueden afectar negativamente 
+a la salud y la seguridad de las personas, sus derechos fundamentales o el medio ambiente, 
+así como los derechos de los consumidores, especialmente si fallan o se utilizan de forma 
+impropia.
+c) Uso de Sistemas de IA de riesgo limitado: Agrupa a usos de sistemas de IA que 
+presentan riesgos no significativos de manipulación, engaño o error, producto de su 
+interacción con personas naturales.
+d) Uso de Sistemas de IA sin riesgo evidente: Agrupa a todos los demás usos de 
+sistemas de IA que no entran en las categorías mencionadas en los literales precedentes.”.
+Esta indicación fue retirada por su autor.
+16 bis) De la diputada Olivera para reemplazar el artículo 5 por el siguiente:
+Artículo 5.- Clasificación de los usos de sistemas de IA. Los usos de los sistemas de 
+IA se clasifican, de acuerdo con su riesgo, en las siguientes categorías:
+a) Usos de riesgo inaceptable: Agrupa a sistemas de IA incompatibles con el respeto 
+y garantía de los derechos fundamentales de las personas, por lo que su introducción en el 
+mercado o puesta en servicio se encuentra prohibida.
+b) Usos de alto riesgo: Agrupa a sistemas de IA autónomos o componentes de 
+seguridad de productos cuya utilización puede afectar negativamente los derechos 
+fundamentales de las personas, especialmente si éstos sistemas fallan o se utilizan de 
+forma impropia.
+c) Uso de riesgo limitado: Agrupa a sistemas de IA que cuyo uso presenta riesgos 
+no significativos de manipulación, engaño o error, producto de su interacción con personas.
+2
+--- PÁGINA 3 ---
+d) Usos sin riesgo evidente: Agrupa a todos los demás sistemas de IA, cuyos usos, 
+que no entran en las categorías mencionadas en los literales precedentes.”.
+16 ter) Del diputado Palma para reemplazar el artículo 5° del proyecto por el 
+siguiente:
+“Artículo 5.- Clasificación de los usos de sistemas de IA. Los usos de los sistemas 
+de IA se clasificarán, de acuerdo con su riesgo, en las siguientes categorías:
+a) Uso de riesgo inaceptable: Agrupa a sistemas de IA incompatibles con el respeto 
+y garantía de los derechos fundamentales de las personas, por lo que su introducción en el 
+mercado o puesta en servicio se encuentra prohibida.
+b) Uso de alto riesgo: Agrupa a sistemas de IA autónomos o componentes de 
+seguridad de productos cuya utilización puede afectar negativamente a la salud y la 
+seguridad de las personas, sus derechos fundamentales o el medio ambiente, así como los 
+derechos de los consumidores, especialmente si fallan o se utilizan de forma impropia.
+c) Uso de riesgo limitado: Agrupa a sistemas de IA que cuyo uso presentan riesgos 
+no significativos de manipulación, engaño o error, producto de su interacción con personas.
+d) Uso sin riesgo evidente: Agrupa a todos los demás sistemas de IA, cuyos usos, 
+que no entran en las categorías mencionadas en los literales precedentes.”.
+Esta indicación fue retirada por su autor.
+16 quater) De la diputada Paula Labra para reemplazar el artículo 5° por el 
+siguiente:
+“Artículo 5°- Clasificación de los sistemas de IA. Los sistemas de lA se clasifican, de 
+acuerdo con su riesgo, en las siguientes categorías:
+a) Sistemas de lA de riesgo inaceptable: Agrupa a sistemas de lA incompatibles con 
+el respeto y garantía de los derechos fundamentales de las personas, establecidos en el 
+artículo 6° de la presente ley, por lo que su introducción en el mercado o puesta en servicio 
+se encuentra prohibida.
+b) Sistemas de lA de alto riesgo: Agrupa a sistemas de lA autónomos o componentes 
+de seguridad de productos cuya utilización puede afectar negativamente los derechos 
+fundamentales de las personas, especialmente si estos sistemas fallan o se utilizan de 
+forma impropia.
+c) Sistemas de lA de riesgo limitado: Agrupa a sistemas de lA que presentan riesgos 
+no significativos de manipulación, engaño o error, producto de su interacción con personas.
+d) Sistemas de lA sin riesgo evidente: Agrupa a todos los demás sistemas de lA que 
+no entran en las categorías mencionadas en los literales precedentes.”.
+17) Del Ejecutivo al artículo 5 para modificarlo en el siguiente sentido:
+a) Intercálase en el epígrafe del artículo entre las frases “clasificación de los” y 
+“sistemas de IA”, la expresión “usos de”.
+b) Elimínase en el literal b) la expresión “Sistemas de IA” por el vocablo “Uso”.
+c) Reemplázase en el literal b) la frase “que pueden” por “cuya utilización puede”.
+d) Elimínase en el literal c) la frase “Sistema de” por la palabra “Uso”.
+e) Reemplázase en el literal c) el vocablo “que” por la frase “cuyo uso”.
+f) Elimínase en el literal d) la frase “Sistema de IA” por la expresión “Uso sin”.
+g) Intercálase entre las frases “los demás sistemas de IA” y “no entran en las 
+categorías mencionadas”, la frase “cuyos usos”.
+18) De la diputada Labra al artículo 5º:
+i. Letra a), para agregar, a continuación de la primera coma, la frase “establecidos 
+en el artículo 6º de la presente ley,”.
+ii. Letra c), para eliminar la palabra “naturales”.
+3
+--- PÁGINA 4 ---
+19) De la diputada Olivera para agregar en el artículo 5 literal b) del proyecto, a 
+continuación de la palabra “consumidores” y antes de la coma, la siguiente frase “o los 
+derechos de autor y conexos”.
+20) Del diputado Lagomarsino para agregar la frase “o derechos de autor y 
+conexos” en la letra b) del artículo 5 a continuación de la expresión “consumidores”.
+16 quinquies) De las diputadas y los diputados Yeomans, Palma, Aedo, Labra, 
+Kaiser, para sustituir el artículo 5° por el siguiente:
+“Artículo 5.- Clasificación de los usos de sistemas de IA. Los usos de los sistemas 
+de lA se clasifican, de acuerdo con su riesgo, en las siguientes categorías:
+a) Usos de riesgo inaceptable: Agrupa a sistemas de lA incompatibles con el respeto 
+y garantía de los derechos fundamentales de las personas, establecidos en el artículo 6°, 
+por lo que su distribución, introducción en el mercado o puesta en servicio se encuentra 
+prohibida.
+b) Usos de alto riesgo: Agrupa a sistemas de lA autónomos o componentes de 
+seguridad de productos cuya utilización puede afectar negativamente los derechos 
+fundamentales de las personas, especialmente si éstos sistemas fallan o se utilizan de 
+forma impropia.
+c) Uso de riesgo limitado: Agrupa a sistemas de lA que cuyo uso presenta riesgos 
+no significativos de manipulación, engaño o error, producto de su interacción con personas.
+d) Usos sin riesgo evidente: Agrupa a todos los demás sistemas de lA, cuyos usos 
+no entran en las categorías mencionadas en los literales precedentes.".
+Para los efectos de esta ley, se entenderá por "uso" el desarrollo, prueba y validación 
+de los sistemas de lA, así como su distribución, introducción en el mercado, puesta en 
+servicio, o cualquier actividad realizada por un operador.”.
+El diputado Tomás Lagomarsino solicitó que se votara por separado la letra b) del 
+proyecto.
+La diputada Paula Labra mencionó que, inicialmente, le parecía más adecuado 
+utilizar el término “aplicación” en lugar de “uso”, dado que es un concepto ampliamente 
+empleado. Sin embargo, reconoció que “uso” también es común en la regulación 
+internacional y que, aunque pensaba que podía prestarse a confusión con “usuario final”, la 
+definición propuesta aclaraba correctamente el término. Finalmente, dijo que apoyaba la 
+propuesta y que votaría a favor de la indicación.
+El diputado Eric Aedo, Presidente, solicitó a la Secretaria de la Comisión que 
+procediera a tomar la votación de la indicación al artículo 5.
+Puesta en votación la disposición, con excepción de la letra b), fue aprobada por 
+unanimidad, con los votos a favor de las diputadas Marta Bravo, Paula Labra, Helia Molina, 
+Marcela Riquelme y Gael Yeomans y de los diputados Eric Aedo, Johannes Kaiser, Tomás 
+Lagomarsino y Hernán Palma (9-0-0).
+letra b)
+Enseguida, la Comisión se abocó al debate de la letra b) del artículo 5, para la cual 
+se había pedido votación separada.
+El diputado Tomás Lagomarsino cuestionó la idea de afectar negativamente los 
+derechos fundamentales y agregó que estos no pueden ser vulnerados parcialmente, sino 
+que simplemente se transgreden o no se transgreden.
+Luego, indicó que los derechos de autor y conexos no son reconocidos como 
+derechos fundamentales en el marco jurídico actual. Por esta razón, advirtió que, al adoptar 
+una definición centrada únicamente en los derechos fundamentales, se les estaría 
+excluyendo.
+El diputado Johannes Kaiser manifestó su acuerdo con el diputado Lagomarsino 
+en relación con el concepto de transgresión y sugirió la posibilidad de ajustar la redacción 
+del texto para mayor claridad.
+4
+--- PÁGINA 5 ---
+Respecto a los derechos accesorios, señaló que estos ya están protegidos por la 
+legislación específica en la materia. Por lo tanto, las violaciones a estos derechos pueden 
+ser perseguidas mediante las normas vigentes.
+Después, señaló que, si con el uso de la inteligencia artificial se transgreden 
+derechos como el de autor o el de propiedad, la responsabilidad recaerá en el usuario que 
+emplee la inteligencia artificial, pudiendo ser sancionado según las disposiciones legales ya 
+establecidas.
+El diputado Tomás Lagomarsino planteó que existe una discusión jurídica no 
+resuelta sobre los derechos fundamentales y su relación con los derechos de autor y 
+conexos. Agregó que los derechos fundamentales están consagrados en el artículo 19 de 
+la Constitución, por lo que es esa disposición la que debiese tenerse a la vista para resolver 
+la duda de si los derechos de autor y conexos son o no derechos fundamentales.
+El diputado Johannes Kaiser afirmó que los derechos de autor y de propiedad ya 
+están protegidos y reconocidos como derechos fundamentales, incluso en la Carta de 
+Derechos Humanos de las Naciones Unidas. Destacó que, bajo ese contexto, dichos 
+derechos ya se encuentran adecuadamente cubiertos.
+La diputada Gael Yeomans coincidió en que el derecho de propiedad se encuentra 
+reconocido como un derecho fundamental, pero también entendió la observación del 
+diputado Lagomarsino.
+A continuación, propuso evaluar si en las reuniones previas con expertos y asesores 
+se abordó este tema y si existieron deliberaciones específicas sobre la inclusión de los 
+derechos de autor y conexos.
+Finalmente, consideró importante profundizar en la discusión para determinar si 
+estos derechos deben ser incorporados al marco de protección propuesto.
+El diputado Eric Aedo, Presidente, sobre el punto, pidió la opinión del Ejecutivo.
+El diputado Johannes Kaiser abordó la cuestión de los riesgos asociados al uso de 
+la inteligencia artificial y los derechos de propiedad, destacando los aspectos clave en los 
+que debería enfocarse la regulación.
+Dicho eso, indicó que ya existen normativas civiles, penales y de derechos de autor 
+para abordar las violaciones a la propiedad, lo que hace innecesario establecer 
+restricciones adicionales que puedan limitar el funcionamiento de los sistemas de 
+inteligencia artificial, y resaltó que dichos sistemas actúan según la programación que 
+reciben.
+El parlamentario agregó que, si se busca que la inteligencia artificial acceda a 
+información disponible en internet, es necesario sancionar las conductas lesivas al derecho 
+de propiedad, pero sin impedir el funcionamiento del sistema en su conjunto. Señaló que 
+las violaciones de derechos de autor ocurren incluso en interacciones cotidianas con Twitter 
+o YouTube y explicó que estas plataformas suelen manejar tales situaciones mediante 
+mecanismos como la desmonetización o la transferencia de ingresos al propietario del 
+contenido.
+Concluyó expresando que, para evitar por completo las transgresiones a los 
+derechos de propiedad en internet, sería necesario excluir a los humanos de este espacio, 
+algo que consideró inviable y contrario a los objetivos de desarrollo tecnológico y social.
+La diputada Paula Labra concordó con la postura del diputado Kaiser, en cuanto a 
+que los derechos fundamentales ya incluyen la protección de los derechos de propiedad 
+sobre datos intelectuales.
+Asimismo, destacó que el surgimiento de la inteligencia artificial generativa introduce 
+un nuevo concepto que merece atención. Según explicó, esta rama específica de la 
+inteligencia artificial se dedica a la creación de contenido nuevo a partir de textos, imágenes, 
+videos y audios de diversos autores, como escritores y músicos.
+Además, abordó la importancia del TDM (Test and Data Management) en el 
+entrenamiento de los sistemas de inteligencia artificial, y señaló que, si se regula de manera
+5
+--- PÁGINA 6 ---
+estricta, como se propone en el artículo en discusión, se podrían limitar los entrenamientos 
+de los algoritmos y los sistemas de inteligencia artificial.
+Finalmente, abogó por evitar una regulación demasiado genérica o estricta y sugirió 
+que más adelante se especifiquen conceptos clave, como el de la inteligencia artificial 
+generativa o transformativa.
+El diputado Tomás Lagomarsino destacó la relevancia de los derechos de autor y 
+los derechos conexos. Explicó que, si bien los derechos de autor se consideran 
+fundamentales, los derechos conexos, que incluyen elementos como el estilo de un artista, 
+no siempre han recibido el mismo tratamiento, y enfatizó en la importancia de la protección 
+de ambos tipos de derechos.
+Luego, ilustró cómo estos derechos pueden ser vulnerados en el contexto de la 
+inteligencia artificial. Al respecto, mencionó el caso de un pintor o un músico que publica su 
+obra en plataformas como Instagram, donde un sistema generativo podría recopilar datos 
+abiertos de la red y permitir a un usuario crear una obra utilizando el estilo de dichos artistas.
+En relación con las ideas planteadas por el diputado Kaiser, señaló que 
+herramientas como ChatGPT han comenzado a establecer precedentes en la transparencia 
+del uso de datos. Ejemplificó que, en sus versiones más recientes, esta aplicación muestra 
+automáticamente las fuentes de información al generar contenido.
+Por último, expresó que las normas son limitadas cuando se trata de inteligencia 
+artificial generativa y que los derechos de autor y conexos de los artistas dejan una brecha 
+importante en la regulación y protección de estos derechos en el ámbito creativo. Por ello, 
+sugirió adoptar un enfoque más exhaustivo y cuidadoso en la protección de los derechos 
+en este contexto emergente.
+La diputada Gael Yeomans señaló que entendía la solicitud planteada y consideró 
+adecuado reflexionar nuevamente sobre la regulación de los derechos de autor en el 
+proyecto de ley en discusión.
+Reconoció que este tema tiene particularidades que ameritan un análisis detenido, 
+aunque manifestó que no creía que el momento adecuado para ello fuera en la etapa actual 
+de clasificación de riesgos.
+Según explicó, abordar un tema tan específico en este contexto podría resultar 
+inapropiado y perjudicar su tratamiento adecuado al intentar ajustarlo a las clasificaciones 
+ya establecidas.
+En consecuencia, propuso que la discusión sobre este asunto se desarrolle en las 
+etapas restantes del proceso legislativo.
+La ministra Aisén Etcheverry expresó que compartía el enfoque planteado por la 
+diputada Yeomans y otros intervinientes, aclarando que los derechos de autor están 
+comprendidos dentro de los derechos fundamentales, específicamente en el número 25° 
+del artículo 19 de la Constitución. Señaló que esta es una discusión compleja y abierta a 
+nivel internacional, la cual se ha abordado reiteradamente cuando surge el tema de 
+derechos de autor.
+Mencionó que, en la primera parte del proyecto de ley, se hizo referencia a la 
+regulación vigente en esta materia, y que esto se revisaría nuevamente en el artículo 4, 
+relacionado con los principios.
+Hizo hincapié en que adelantarse en tomar una posición sobre este tema podría 
+generar impactos, tanto positivos como negativos, para los creadores de contenido y los 
+desarrolladores de inteligencia artificial, luego de lo cual explicó que, al mantener los 
+derechos de autor dentro del marco de los derechos fundamentales, no se altera el estándar 
+de protección vigente; en cambio, se introduce una advertencia adicional, pues el impacto 
+de clasificar un riesgo radica únicamente en la adopción de medidas para mitigarlo, sin 
+implicar otras consecuencias jurídicas.
+Enseguida, señaló que esto permite preservar el régimen actual de protección 
+mientras se añade un elemento de seguridad adicional al asociar los derechos de autor con
+6
+--- PÁGINA 7 ---
+usos de alto riesgo, evitando entrar en detalles sobre estándares específicos de protección. 
+Finalmente, reafirmó que este era el enfoque adoptado por el Ministerio.
+El diputado Johannes Kaiser planteó que, conforme con lo expuesto previamente, 
+consideraba adecuado utilizar el término “transgredir”, en la redacción propuesta, por 
+considerarlo más estricto, siempre y cuando la diputada Gael Yeomans estuviera de 
+acuerdo. Solicitó a la Secretaría que, con el consentimiento de la diputada, se realizara esa 
+modificación.
+En cuanto al tema de los derechos de autor, indicó que este incluye diversas 
+perspectivas, como la del uso justificado transformativo, lo que genera inevitablemente un 
+elemento de tensión. Destacó que las nuevas creaciones siempre se construyen a partir de 
+lo ya existente, lo que añade complejidad al debate.
+El diputado Eric Aedo, Presidente, luego de consultar si había acuerdo sobre 
+incorporar la palabra “transgredir”, recomendada por el diputado Kaiser, y de recibir la 
+aprobación de los miembros de la Comisión, procedió a poner en votación la letra b) del 
+artículo 5.
+Puesta en votación la disposición, fue aprobada por mayoría, con los votos a favor 
+las diputadas Paula Labra, Helia Molina y Gael Yeomans, y de los diputados Eric Aedo, 
+Johannes Kaiser, Daniel Lilayu, Rubén Oyarzo y Hernán Palma. No hubo votos en contra. 
+Se abstuvieron la diputada Marta Bravo y el diputado Tomás Lagomarsino (8-0-2).
+Artículo 4, letra a)
+Artículo 4.- Principios aplicables a los sistemas de IA. Todos los operadores que entren en 
+el ámbito de aplicación de la presente ley deberán observar los siguientes principios 
+generales:  
+a) Intervención y supervisión humana: los sistemas de IA se desarrollarán y utilizarán como 
+una herramienta al servicio del ser humano, que respete la dignidad humana y la autonomía 
+personal, y que funcione de manera que pueda ser controlada y vigilada adecuadamente 
+por seres humanos.
+Indicaciones
+9 ter) Del diputado Palma para reemplazar la letra a) del artículo 4° del proyecto 
+por el siguiente:
+“a) Intervención y supervisión humana: los sistemas de IA se desarrollarán y 
+utilizarán como una herramienta al servicio del ser humano, que respete la dignidad humana 
+y la autonomía personal, y que funcione de manera que pueda ser controlada y vigilada 
+adecuadamente por seres humanos.”.
+El diputado Tomás Lagomarsino, Presidente accidental, puso en votación la 
+indicación 9 ter), para reemplazar la letra a) del artículo 4, del diputado Hernán Palma.
+Puesta en votación, la indicación fue aprobada por unanimidad, con los votos a 
+favor de las diputadas Marta Bravo, Paula Labra, Helia Molina y Gael Yeomans, y de los 
+diputados Eric Aedo, Johannes Kaiser, Tomás Lagomarsino, Daniel Lilayu, Rubén Oyarzo 
+y Hernán Palma (10-0-0).
+letra b)
+b) Solidez y seguridad técnica: los sistemas de IA se desarrollarán y utilizarán de manera 
+que se minimicen los daños previsibles, siendo resistentes técnicamente frente a fallas 
+imprevistas como frente a intentos de modificación del uso o rendimiento del sistema de IA 
+con fines ilícitos por parte de terceros.
+Indicaciones
+9 ter) Del diputado Palma para reemplazar la letra b) del artículo 4° del proyecto 
+por el siguiente:
+“b) Solidez y seguridad técnica: los sistemas de IA se desarrollarán y utilizarán de 
+manera que se minimicen los daños previsibles, siendo resistentes técnicamente frente a
+7
+--- PÁGINA 8 ---
+fallas imprevistas como frente a intentos de modificación del uso o rendimiento del sistema 
+de IA con fines ilícitos por parte de terceros.”.
+El diputado Eric Aedo, Presidente, sometió a votación la indicación.
+Puesta en votación, la indicación fue aprobada por unanimidad, con los votos a 
+favor de las diputadas Marta Bravo, Paula Labra, Helia Molina y Gael Yeomans, y de los 
+diputados Eric Aedo, Johannes Kaiser, Tomás Lagomarsino, Daniel Lilayu, Rubén Oyarzo 
+y Hernán Palma (10-0-0).
+letra c)
+c) Privacidad y gobernanza de datos: los sistemas de IA se desarrollarán y utilizarán de 
+conformidad con las normas vigentes en materia de privacidad y protección de datos, y sólo 
+tratarán datos que cumplan con la normativa en términos de calidad e integridad. Del mismo 
+modo, se procurará que los datos que utilicen sean interoperables.
+Indicaciones
+9 ter) Del diputado Palma para reemplazar la letra c) del artículo 4° del proyecto 
+por el siguiente:
+“c) Privacidad y gobernanza de datos: los sistemas de IA se desarrollarán y utilizarán 
+de conformidad con las normas vigentes en materia de privacidad y protección de datos, y 
+sólo tratarán datos que cumplan con la normativa en términos de calidad e integridad. Del 
+mismo modo, se procurará que los datos que utilicen sean interoperables.”.
+10) Del diputado Kaiser para sustituir en el artículo 4, el literal c), por el siguiente:
+“c) Privacidad y gobernanza de datos: los sistemas de IA se desarrollarán y utilizarán 
+de conformidad con los más altos estándares normativos internacionales vigentes (RPDP) 
+en materia de privacidad y protección de datos, y sólo tratarán datos que cumplan con la 
+normativa en términos de calidad e integridad. Del mismo modo, se procurará que los datos 
+que utilicen sean interoperables.”.
+10 bis) De la diputada Labra para reemplazar el artículo 4 letra c) por el siguiente:
+“c) Privacidad y gobernanza de datos: los sistemas de IA se desarrollarán y utilizarán 
+de conformidad con las normas vigentes en materia de privacidad y protección de datos 
+personales y propiedad intelectual, y sólo tratarán datos que cumplan con la normativa en 
+términos de calidad e integridad. Del mismo modo, se procurará que los datos que utilicen 
+sean interoperables.”. Retirada.
+11) De la diputada Labra al artículo 4º:
+i. Letra c), para incorporar, a continuación de la palabra “datos”, la frase “personales 
+y propiedad intelectual”. Retirada.
+El diputado Johannes Kaiser argumentó que someter los sistemas de inteligencia 
+artificial a los “más altos estándares normativos internacionales vigentes (RPDP)” ofrece 
+garantías en materia de privacidad y protección de datos.
+Sostuvo que este enfoque no solo garantiza la calidad de los sistemas al integrar 
+automáticamente las mejores experiencias internacionales sobre el particular, sino que 
+también permite que nuestros tribunales avancen alineados con dichas normativas, porque, 
+probablemente, el control sería de carácter transnacional, dado que los sistemas operan 
+bajo esa lógica.
+Además, dijo estar al tanto de que el Ejecutivo tenía reparos respecto de la mención 
+del Reglamento General de Protección de Datos y expresó su disponibilidad para eliminar 
+aquella referencia a la normativa europea.
+La ministra Aisén Etcheverry señaló que era efectivo que el Ejecutivo había 
+sostenido una larga discusión al respecto, porque, en la actualidad, Chile cuenta con una 
+regulación vigente en materia de datos personales y privacidad, y agregó que, a partir de lo 
+anterior, surgía la preocupación por la mención de “los más altos estándares normativos 
+vigentes internacionales" y la alusión a la normativa europea, ya que podrían generar dudas 
+sobre si es aplicable la legislación internacional o la propia.
+8
+--- PÁGINA 9 ---
+La autoridad dijo que, por ello, y a pesar de entender el punto del diputado Kaiser, 
+la propuesta del Ejecutivo es solo hacer referencia a la legislación chilena, en particular, a 
+la nueva ley sobre protección de datos personales, recientemente publicada.
+El diputado Tomas Lagomarsino manifestó no comprender del todo el objetivo de 
+la indicación del diputado Johannes Kaiser y cuestionó la necesidad de remitirnos a 
+regulaciones internacionales, pues en Chile ya existe una ley vigente sobre la materia, que 
+fue aprobada hace poco.
+Asimismo, planteó la dificultad que conlleva calificar el estándar de las distintas 
+normativas internacionales en materia de protección de datos, ya que la valoración depende 
+de la perspectiva: algunos prefieren el modelo estadounidense, mientras otros consideran 
+superior el europeo.
+Por eso, concluyó que lo más objetivo es citar la ley de protección de datos 
+personales vigente en el país.
+La diputada Paula Labra explicó que la segunda indicación de su autoría corregía 
+la redacción de la primera, que había sido retirada, pero, como la privacidad y protección 
+de datos había estado en discusión, estaba de acuerdo con indicación del diputado Hernán 
+Palma y había decidido retirar la suya.
+El diputado Johannes Kaiser planteó, a propósito del Título I, que, dado que en 
+Chile no se desarrollan sistemas de inteligencia artificial, la evolución de las leyes sobre la 
+materia que rigen en los países donde se desarrollan debe ser un principio rector que 
+complemente nuestra legislación. El diputado advirtió que, de lo contrario, Chile deberá 
+modificar constantemente sus leyes para adaptarse al avance tecnológico, y la velocidad 
+con que progresan los sistemas de inteligencia artificial supera ampliamente la capacidad 
+del Congreso Nacional.
+El diputado Eric Aedo, Presidente, puso en votación la indicación 10), del diputado 
+Johannes Kaiser.
+Puesta en votación, la indicación fue rechazada por mayoría de votos. Votó a favor 
+el diputado Johannes Kaiser. Votaron en contra las diputadas Helia Molina, Marcela 
+Riquelme y Gael Yeomans, y los diputados Eric Aedo, Tomás Lagomarsino, Rubén 
+Oyarzo y Hernán Palma. Se abstuvieron la diputada Paula Labra y el diputado Daniel 
+Lilayu (1-7-2).
+A continuación, el Presidente sometió a votación la indicación 9 ter), del diputado 
+Hernán Palma.
+Puesta en votación la indicación, fue aprobada por unanimidad, con los votos a 
+favor de las diputadas Paula Labra, Helia Molina, Marcela Riquelme, Gael Yeomans y Marta 
+Bravo, y de los diputados Eric Aedo, Johannes Kaiser, Tomás Lagomarsino, Daniel Lilayu, 
+Rubén Oyarzo y Hernán Palma (11-0-0).
+letra d)
+d) Transparencia y explicabilidad: los sistemas de IA se desarrollarán y utilizarán facilitando 
+una trazabilidad y explicabilidad adecuadas, de modo tal que los seres humanos puedan 
+conocer de forma clara y precisa y sean conscientes de que se comunican o interactúan 
+con un sistema de IA, en aquellos casos en los que dicho conocimiento les ayudaría a tomar 
+decisiones sobre sus derechos, seguridad o privacidad, informando a sus destinatarios, 
+cuando corresponda, cómo el sistema ha obtenido sus predicciones o resultados, así como 
+también sobre las capacidades y limitaciones de dicho sistema de IA.
+Indicaciones
+9 ter) Del diputado Palma para reemplazar la letra d) del artículo 4° del proyecto 
+por la siguiente:
+“d) Transparencia e identificación: Los sistemas de IA se desarrollarán y utilizarán 
+facilitando una trazabilidad adecuada, evitando los sesgos prohibidos por el ordenamiento 
+jurídico. Deberán, además, identificarse como agentes artificiales en cada oportunidad en
+9
+--- PÁGINA 10 ---
+que interactúen con seres humanos de modo tal que estos puedan conocer de forma clara 
+y precisa y sean conscientes de que se comunican o interactúan con un sistema de IA.”.
+11) De la diputada Labra al artículo 4º:
+ii. Letra d), para reemplazarla por lo siguiente:
+“d) Transparencia e identificación: Los sistemas de IA se desarrollarán y utilizarán 
+facilitando una trazabilidad adecuada, evitando los sesgos prohibidos por el ordenamiento 
+jurídico. Deberán, además, identificarse como agentes artificiales en cada oportunidad en 
+que interactúen con seres humanos de modo tal que estos puedan conocer de forma clara 
+y precisa y sean conscientes de que se comunican o interactúan con un sistema de IA.
+Cuando los sistemas de IA utilicen contenidos protegidos por derechos de autor, 
+deberán identificar claramente el titular de todos aquellos contenidos que se hayan utilizado 
+en la formación, diseño o funcionamientos de dichos sistemas o modelos.”. Retirada.
+El diputado Tomás Lagomarsino opinó que si se agregaba “Deberán, además, 
+identificarse como agentes artificiales en cada oportunidad en que interactúen con seres 
+humanos de modo tal que estos puedan conocer de forma clara y precisa y sean 
+conscientes de que se comunican o interactúan con un sistema de IA.”, como sucede en 
+ambas indicaciones, se incorpora una norma en un título que tiene por propósito establecer 
+principios.
+Además, sostuvo que el objetivo del texto que se agrega está contemplado en la 
+propuesta del Ejecutivo, la cual establece que las personas deben ser conscientes de que 
+están interactuando con un sistema de inteligencia artificial, en casos donde dicho 
+conocimiento sea relevante para la toma de decisiones sobre sus derechos, por lo cual el 
+debate sobre el particular debería darse cuando se discuta sobre los sistemas de alto riesgo 
+y demás categorías.
+Según el diputado Lagomarsino, cabe considerar, además, que la disposición del 
+Ejecutivo introduce flexibilidad, pues solo se exige que se explicite la interacción con una 
+IA en aquellos casos en que la falta de dicha información pueda vulnerar derechos 
+fundamentales o conducir a decisiones erróneas. Por lo expuesto, sostuvo que no era 
+necesario modificar el artículo 4.
+La diputada Gael Yeomans calificó de relevante un aspecto de la letra d) del artículo 
+4 de la propuesta por el Ejecutivo, a saber, el deber de informar a los destinatarios, cuando 
+corresponda, “cómo el sistema ha obtenido sus predicciones o resultados, así como 
+también sobre las capacidades y limitaciones de dicho sistema de IA.”. Señaló que es 
+importante mantener ese elemento, porque, aunque es esencial, no está incorporado en las 
+indicaciones en discusión.
+La diputada Paula Labra dijo que las indicaciones del diputado Palma y la suya eran 
+casi idénticas, pero que la de su autoría abordaba el derecho a la protección de datos y la 
+propiedad intelectual, materias que ya habían sido objeto de discusión, por lo cual retiraba 
+la suya.
+Asimismo, señaló que, en la letra d) del artículo 4, se establece, como principio, la 
+explicabilidad, el cual se traduce en la obligación de informar a los usuarios el modo en que 
+el sistema de inteligencia artificial obtiene sus predicciones o resultados, lo que considera 
+impracticable.
+Desde su punto de vista, la indicación del diputado Palma es más adecuada, pues 
+apunta a la transparencia, pero reemplaza la expresión “explicabilidad” por “identificación”. 
+Para la diputada Labra, el que los sistemas de IA deban identificarse como agentes 
+artificiales cada vez que interactúan con humanos, sin necesidad de entrar en detalles 
+técnicos sobre su funcionamiento, es la solución más práctica.
+El diputado Johannes Kaiser indicó que no estaba de acuerdo ni con la redacción 
+original ni con la indicación del diputado Palma.
+Respecto de la indicación, calificó de problemática la frase “evitando los sesgos 
+prohibidos por el ordenamiento jurídico”, porque no conocía sesgos prohibidos por el
+10
+--- PÁGINA 11 ---
+ordenamiento jurídico. A juicio del diputado, se estaba ante un vacío jurídico que abría la 
+puerta a diferentes interpretaciones, lo cual era complejo.
+En relación con el término “explicabilidad”, el parlamentario manifestó que no 
+necesariamente corresponde en todos los casos, pero sí debe considerarse una obligación 
+cuando la IA interactúa con técnicos o profesionales del área, porque es fundamental que 
+puedan analizar y comprobar cómo funciona el sistema, lo cual no queda cubierto por 
+ninguna de las dos redacciones propuestas.
+Agregó que, para una persona promedio comprender, el funcionamiento de un 
+sistema de IA podía requerir años de estudio, pero para un profesional del rubro debía ser 
+evidente.
+El diputado Tomás Lagomarsino manifestó su comprensión a la preocupación 
+planteada por la diputada Labra sobre cómo las exigencias de explicabilidad podrían 
+condicionar el desarrollo de la inteligencia artificial en el país al desincentivar su avance. En 
+consecuencia, propuso votar por separado una frase del proyecto para limitar la información 
+requerida a las capacidades y limitaciones del sistema, en lugar de una explicabilidad 
+exhaustiva.
+La diputada Gael Yeomans mencionó que la propuesta de la diputada Labra 
+apuntaba a un cambio en el concepto de explicabilidad hacia la identificación. Subrayó la 
+importancia de que los sistemas de inteligencia artificial identifiquen la fuente de su 
+información, resaltando su utilidad para verificar la veracidad de los datos. Relató 
+experiencias personales con ChatGPT, en las cuales la información proporcionada resultó 
+ser incorrecta, y concluyó que contar con datos verídicos es crucial para temáticas como la 
+memoria y la historicidad.
+El diputado Tomás Lagomarsino recordó que, al inicio del debate sobre el proyecto 
+de ley, compartía la preocupación de la diputada Yeomans sobre la necesidad de una 
+explicabilidad absoluta. No obstante, tras escuchar a desarrolladores de IA, llegó a la 
+conclusión de que exigir demasiada explicabilidad podría restringirla. En ese sentido, 
+propuso que los proveedores informen sobre las capacidades y limitaciones del sistema, en 
+lugar de detallar exhaustivamente la procedencia de los datos, permitiendo así un avance 
+más fluido de la inteligencia artificial.
+La ministra Aisén Etcheverry explicó que el Ejecutivo apoyaba la propuesta de 
+separar la transparencia e identificación de la explicabilidad en el texto del proyecto de ley, 
+aliviando así la redacción, tal como sugirió el diputado Lagomarsino. También abordó la 
+discusión sobre el sesgo en los sistemas de IA, indicando que este ya estaba contemplado 
+en el principio de diversidad y no discriminación, y propuso mejorar la redacción para lograr 
+un consenso en la mesa.
+Se presentó la siguiente indicación nueva:
+11 bis) De la diputada Labra y del diputado Palma, para sustituir el literal d) del 
+artículo 4), por el siguiente:
+“d) Transparencia e identificación: Los sistemas de IA se desarrollarán y utilizarán 
+facilitando una trazabilidad adecuada de acuerdo con lo dispuesto en el ordenamiento 
+jurídico vigente. Deberán, además, identificarse como agentes artificiales en cada 
+oportunidad en que interactúen con seres humanos, de modo tal que estos puedan conocer 
+de forma clara y precisa y sean conscientes de que se comunican o interactúan con un 
+sistema de IA.”.
+El diputado Tomás Lagomarsino expresó que prefería la redacción original del 
+Ejecutivo, ya que consideraba que promovía la transparencia en función del riesgo de las 
+interacciones con inteligencia artificial. Según explicó, este enfoque permitía establecer 
+diferentes niveles de regulación (medio, alto o sin riesgo evidente) y decidir cuándo la 
+transparencia era necesaria. Sin embargo, señaló que la nueva redacción imponía un 
+principio de obligatoriedad, exigiendo siempre la identificación del uso de inteligencia 
+artificial, lo cual consideró excesivo.
+Comentó que había pasado de apoyar una regulación más estricta en el proyecto 
+inicial a entender que no todo debía regularse. Por ejemplo, mencionó que no veía
+11
+--- PÁGINA 12 ---
+necesario transparentar el uso de inteligencia artificial en casos como la selección de 
+productos en una sandbox o los chatbots de aplicaciones de delivery. No obstante, 
+consideró imprescindible garantizar transparencia en desarrollos que involucraran 
+inteligencia artificial con aplicaciones de acompañamiento psicosocial o terapéuticas.
+Finalmente, reiteró su preferencia por la redacción original, pues no era absolutista 
+y permitía ajustar las regulaciones según los distintos niveles de riesgo.
+El diputado Eric Aedo, Presidente, solicitó a la señora María Soledad Fredes, 
+Secretaria, que pusiera en votación la nueva indicación ingresada al artículo 4, literal d).
+Puesta en votación, la indicación fue aprobada por mayoría, con los votos a favor 
+de las diputadas Marta Bravo, Paula Labra, Gael Yeomans y Marcela Riquelme, y de los 
+diputados Eric Aedo, Daniel Lilayu, Rubén Oyarzo y Hernán Palma. Votó en contra el 
+diputado Tomás Lagomarsino (8-0-1).
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 09:48 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+12

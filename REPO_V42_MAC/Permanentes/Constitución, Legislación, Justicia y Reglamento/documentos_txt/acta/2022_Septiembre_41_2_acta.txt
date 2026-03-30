@@ -1,0 +1,1239 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=11074&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : Margarita Maria Risopatron Lemaitre
+EXTRAIDO : 2026-03-29 04:39:01
+======================================================================
+
+--- PÁGINA 1 ---
+COMISIÓN DE CONSTITUCIÓN, LEGISLACIÓN, JUSTICIA Y
+REGLAMENTO 
+PERÍODO LEGISLATIVO 2022-2026 
+Acta de la sesión 41ª, ordinaria, mixta/ 370ª Legislatura 
+Celebrada el martes 27 de septiembre del año 2022, de 15:09 a 16:59 hrs.
+Con el propósito de continuar con la discusión y votación en particular 
+del proyecto de ley que “Regula la protección y tratamiento de datos 
+personales y crea la Agencia de Protección de Datos Personales”, en 
+segundo trámite constitucional, Boletines refundidos N°s 11.144-07 (S) y 
+11.092-07 (S). Urgencia suma. 
+- Discusión particular: Se despachó del numeral 7) el artículo 14 ter (con 
+modificaciones) y el artículo 14 quáter (con modificaciones), página 58 del 
+comparado.  
+- Se retiró indicación del diputado Leonardo Soto al artículo 14 ter (página 16 
+del acta y 53 a 56 del comparado). 
+- Se encuentra pendiente la indicación del diputado Soto, numeral ii) al artículo 
+14 ter, que remplaza en su literal d) la frase final “y los tratamientos que se 
+basan en la satisfacción de intereses legítimos”, por: “; la sabe de legitimidad 
+del tratamiento; y en caso de tratamientos que se basan en la satisfacción de 
+intereses legítimos, cuáles serían estos” (página 54 del comparado).
+ASISTENCIA 
+ 
+Asisten, presencialmente, los siguientes miembros de la Comisión, 
+diputados (as) señores (as) Karol Cariola (Presidenta de la Comisión), 
+Miguel Ángel Calisto, Marcos Ilabaca, Pamela Jiles, Raúl Leiva, Andrés 
+Longton, Catalina Pérez, Leonardo Soto y Gonzalo Winter.
+Asisten, telemáticamente, el diputado señor Jorge Alessandri y la 
+diputada señora Camila Flores.
+Concurre, en calidad de invitado, la Ministra Secretaria General de la 
+Presidencia, señora Ana Lía Uriarte, acompañada de la señora Lizzi Seaman, 
+asesora de la División Jurídica – Legislativa del Ministerio Secretaría General 
+de la Presidencia. Confirman su asistencia los siguientes expositores, en 
+calidad de oyentes: la señora Bárbara Martinez, en representación del Servicio 
+Nacional del Consumidor; el señor Bruno Gencarelli, Jefe de la Unidad de 
+Protección y Flujo de Datos Internacionales en la Comisión Europea; la señora 
+Paulina Silva, de la Alianza Chilena de Ciberseguridad; la señora Macarena 
+Gatica, abogada experta en protección de datos personales, socia del estudio 
+jurídico Alessandri; la señora Romina Garrido, investigadora asociada GobLab 
+Universidad Adolfo Ibáñez Escuela de Gobierno; la señora Jessica Matus, de la 
+ONG Datos Protegidos; el señor Pablo Trigo, investigador CEDI Universidad de
+1
+--- PÁGINA 2 ---
+Chile; el señor Marcelo Drago, ex Presidente del Consejo para la 
+Transparencia; por la Asociación de Bancos e Instituciones Financieras de 
+Chile, los señores José Manuel Mena, presidente y Luis Opazo, gerente 
+general; el señor Juan Esteban Laval, fiscal, y Matías Bernier, gerente de 
+Estudios; el señor Claudio Magliona, miembro del grupo legal de la Asociación 
+de Empresas Chilenas de Tecnología de la Información A.G.; el señor Luis 
+Alberto Jara, de la Asociación Gremial de Empresas Fintech;
+Está presente, en calidad de abogado secretario, el señor Patricio 
+Velásquez Weisse y el abogado señor Fernando García Leiva; de forma 
+remota la secretaria señora Cecilia Césped Riquelme.
+RESUMEN DE LA VOTACIÓN EN PARTICULAR
+• Despachado artículo 14 ter, con las siguientes modificaciones:
+“Artículo 14 ter.- Deber de información y transparencia. El responsable de 
+datos debe facilitar y mantener permanentemente a disposición del 
+público, en su sitio web o en cualquier otro medio de información 
+equivalente, al menos, la siguiente información:”:
+a) La política de tratamiento de datos personales que haya adoptado, la 
+fecha y versión de la misma;
+b) La individualización del responsable de datos y su representante legal y la 
+identificación del encargado de prevención, si existiere;
+c) El domicilio postal, la dirección de correo electrónico, el formulario de 
+contacto o la identificación del medio tecnológico equivalente de uso común y 
+fácil acceso mediante el cual se le notifican las solicitudes que realicen los 
+titulares;
+d) Las categorías, clases o tipos de datos que trata; la descripción genérica 
+del universo de personas que comprenden sus bases de datos; los 
+destinatarios a los que se prevé comunicar o ceder los datos, las finalidades de 
+los tratamientos que realiza y los tratamientos que se basan en la satisfacción 
+de intereses legítimos [pendiente indicación de dip. Soto];
+e) La política y las medidas de seguridad adoptadas para proteger las bases 
+de datos personales que administra;
+f) El derecho que le asiste al titular para solicitar ante el responsable, acceso, 
+rectificación, supresión, oposición y portabilidad de sus datos personales, de 
+conformidad a la ley, y
+g) El derecho que le asiste al titular de recurrir ante la Agencia, en caso que 
+el responsable rechace o no responda oportunamente las solicitudes que le 
+formule.
+2
+--- PÁGINA 3 ---
+h) En su caso, la transferencia de datos personales a un tercer país u 
+organización internacional y si estos ofrecen o no un nivel adecuado de 
+protección. En caso de que no cuenten con un nivel adecuado de 
+protección, se deberán informar si existen garantías que justifiquen tal 
+transferencia.
+i) El periodo durante el que se conservará los datos personales. 
+j) La fuente de la cual provienen los datos personales y, en su caso, si 
+proceden de fuentes de acceso público;
+k) cuando el tratamiento está basado en el consentimiento del titular, la 
+existencia del derecho a retirar el consentimiento en cualquier momento, 
+sin que ello afecte a la licitud del tratamiento basado en el consentimiento 
+previo a su retirada;
+l) la existencia de decisiones automatizadas, incluida la elaboración de 
+perfiles. En tales casos, información significativa sobre la lógica aplicada, 
+así como las consecuencias previstas de dicho tratamiento para el 
+titular.”.
+- 
+Diputado Leonardo Soto retiró indicación al Artículo 14 ter que constaba 
+de 4 numerales romanos (página 53 a 56 del comparado). 
+- 
+Durante la discusión, se ingresaron dos indicaciones nuevas que 
+resultaron aprobadas. La primera modificó el encabezado del artículo 14 
+Ter, mientras la segunda agregó nuevos literales desde la g) hasta la l).
+• Despachado Artículo 14 quáter, con las siguientes modificaciones:
+“Artículo 14 quáter: Deber de protección desde el diseño y por defecto. Con la 
+finalidad de cumplir los principios y los derechos de los titulares establecidos en 
+esta ley, el responsable debe aplicar medidas técnicas y organizativas 
+adecuadas desde el diseño con anterioridad y durante el tratamiento de los 
+datos personales. Las medidas a aplicar deberán tener en consideración el 
+estado de la técnica; los costos de implementación; la naturaleza, ámbito, 
+contexto y fines del tratamiento de datos; así como los riesgos asociados a 
+dicha actividad. 
+Asimismo, el responsable de datos deberá aplicar medidas técnicas y organiza-
+tivas para garantizar que, por defecto, sólo sean objeto de tratamiento los datos 
+personales específicos y estrictamente necesarios para dicha actividad. Pa-
+ra ello, se tendrá en consideración el número de datos recogidos, la extensión 
+del tratamiento, el plazo de conservación y su accesibilidad.”.
+3
+--- PÁGINA 4 ---
+- 
+La redacción final del artículo 14 quáter es resultado de la aprobación de 
+la indicación del diputado señor Sánchez (página 57 comparado) y de los 
+diputados Soto y Calisto (página 58 comparado)
+ACTAS
+Las actas de las sesiones 38 y 39 se dan aprobadas por no haber sido 
+objeto de observaciones.
+El acta de la sesión 40 quedan a disposición de las señoras y señores 
+diputados.
+Actas disponibles:  
+https://www.camara.cl/legislacion/comisiones/sesiones.aspx?prmID=1724
+CUENTA 
+ 
+El señor abogado secretario da cuenta de los documentos llegados a 
+la Comisión:
+1. Oficio de S.E. el Presidente de la República, por el cual retira y hace
+presente la urgencia calificada de “suma”, para el despacho del 
+proyecto de ley que “Regula la protección y el tratamiento de los datos 
+personales y crea la Agencia de Protección de Datos Personales”, 
+Boletín N° 11144-07(S) y 11092-07(S) refundidos. 
+- 
+Se tiene presente. 
+ 
+2. Oficio de S.E. el Presidente de la República por el cual retira y hace
+presente la urgencia calificada de “simple”, para el despacho del 
+proyecto de ley que “Suprime o modifica la intervención de notarios en 
+trámites, actuaciones y gestiones determinadas”, Boletín N° 13535-07. 
+- 
+Se tiene presente. 
+ 
+3. Se han recibido las siguientes mociones:
+• Proyecto iniciado en moción de la diputada señora Barchiesi, y de los
+diputados señores Araya, don Cristián; Júrensen; Kaiser; Moreno; 
+Ojeda; Romero, don Agustín; Romero, don Leonidas; Sánchez y
+4
+--- PÁGINA 5 ---
+Urruticoechea, que “Sanciona la divulgación masiva de datos 
+personales”, Boletín N° 15353-07.
+• Proyecto iniciado en moción de los diputados señores Irarrázaval;
+Araya, don Cristián; Kaiser; Meza; Moreno; Ojeda; Romero, don 
+Agustín; Romero, don Leonidas, y Sánchez; y de las diputadas señora 
+Barchiesi, que “Modifica el Código Procesal Penal para otorgar fuero a 
+funcionarios de la Policía de Investigaciones y de Carabineros de Chile”, 
+Boletín N° 15359-07. 
+- 
+A sus antecedentes.
+4. Se envía para conocimiento de la Comisión, copia de licencia médica
+enviada por el diputado señor Gustavo Benavente. 
+- 
+Se tiene presente. 
+ 
+5. Se han recibido las siguientes confirmaciones para la sesión de hoy:
+En calidad de oyentes han confirmado:
+• Sr. Bruno Gencarelli, Jefe de la Unidad de Protección y Flujo de Datos
+Internacionales en la Comisión Europea. 
+• Sra. Macarena Gatica, Abogada experta en protección de datos. 
+• Sra. Romina Garrido, Investigadora asociada GobLab UAI Escuela de
+Gobierno. 
+• Sra Paulina Silva, por  AMCHAM (Cámara Chilena Norteamericana). 
+• Sra. Andrea Ruiz, Profesora Derecho Administrativo UAH 
+• Sr. Luis Alberto Jara, Asociación Gremial de Empresas Fintech. 
+• Sr. Alejandro González, Jefe (S) de Unidad Normativa y Regulación del
+Consejo para la Transparencia.  Le acompaña el analista del Consejo, 
+Carlo Benussi. 
+• Sr. Pablo Trigo, Investigador CEDI U de Chile. 
+• Sr. Alberto Jara, Asociación Gremial de Empresas Fintech. 
+• Sr. Marcelo Drago, Ex Presidente del Consejo para la Transparencia. 
+• Sra. Bárbara Martínez, en representación del Sernac. 
+Asociación de Bancos e Instituciones Financieras de Chile.
+• Sr. José Manuel MENA, Presidente.
+• Sr. Luis Opazo R., Gerente General.
+• 
+Sr. Juan Esteban Laval Z., Fiscal
+• 
+Sr. Matías Bernier Bórquez, Gerente de Estudios Asociación de Bancos.
+5
+--- PÁGINA 6 ---
+Asociación de Empresas Chilenas de Tecnología A.G.
+• Sra. Bárbara Reyes Espinoza, Abogada Licenciada en Ciencias
+Jurídicas Pontificia Universidad Católica de Valparaíso. 
+• Sr. Claudio Magliona, miembro del grupo legal de ACTI. 
+ 
+6. Ord. N° 5160 del Ministerio de Justicia, por el cual responde a oficio de
+la Comisión referido a situación de Cárcel Río Bueno. 
+- 
+A sus antecedentes. 
+ 
+7. Correo electrónico del Equipo Nuevo Camino, por el cual remite Guía
+Básica para que Chile tenga una nueva y mejor Constitución. 
+- 
+Se tiene presente. 
+ 
+8. Se ha recibido, vía Ley de Lobby, la siguiente solicitud:
+Comisión Constitución
+A través del Sistema de la Ley del Lobby de la Cámara de Diputados se ha 
+recibido una solicitud de audiencia para vuestra Comisión. La información del 
+solicitante es la siguiente:
+• 
+Nombre del solicitante: CON TODO SPA
+• 
+Email del solicitante: hola@nuevocamino.cl
+• 
+Teléfono del solicitante: 56977679731
+• 
+Persona, organización o entidad representada: CON TODO SPA
+• 
+Materia específica a tratar: Gracias al análisis de más de 300.000 
+comentarios y respuestas de encuestas online pudimos recabar 
+información que nos permitió entender cómo quieren los chilenos que sea 
+el proceso para que tengamos una nueva y mejor Constitución. Nos 
+gustaría presentarles nuestros principales resultados y conclusiones que 
+se resumen en el siguiente texto: https://noticias.nuevocamino.cl/ctgt-
+home-view/htmlArticle/10
+• 
+Decisión que se desea obtener: Que consideren esta información 
+como un insumo clave para el proceso constituyente que aún 
+estamos viviendo como país.
+Atentamente, H.D. Marcos Ilabaca Cerda.
+- 
+Se tiene presente.
+6
+--- PÁGINA 7 ---
+9. Correo electrónico del señor Lorenzo Silva Águila, funcionario de carrera
+del Servicio Nacional de Aduanas, por el cual pone en conocimiento 
+situación particular relacionada con el contralor del Ñuble y contraloría 
+de Puerto Montt. 
+- 
+Se tiene presente. 
+ 
+10. Correo electrónico del señor Vicente Piel Fritz, por el cual remite
+propuestas para mejorar la representación indígena en una futura 
+convención constitucional. 
+- 
+Se tiene presente. 
+ 
+11. Comunicación del Movimiento Unido de Ciudadanos, por la cual
+solicitan dar respuestas rápidas a las demandas en relación a la 
+administración de sus fondos provisionales, intención de votos para un 
+nuevo retiro y retiro del 100%. 
+- 
+Se tiene presente.
+ACUERDOS
+Durante la sesión, se adoptaron los siguientes acuerdos:
+1. Oficiar a Ministra de Justicia, Subsecretario de Justicia y Director 
+General de Gendarmería de Chile para que tengan a bien informar el detalle 
+de las más de 100 bandas criminales que, según declaraciones del propio 
+Subsecretario de Justicia en distintos medios de comunicación, operarían 
+desde los recintos penitenciarios en la actualidad, con datos que otorguen la 
+individualización de los reos involucrados y los recintos penitenciarios donde 
+operarían cada una de estas bandas. Toda esta información circunscrita al año 
+2022.
+En el mismo sentido, se solicita informe si existen iniciativas para 
+poner límites a la realización de estos delitos, desde el interior de las cárceles, 
+a través del uso de telefonía celular, el número de centros penitenciarios que 
+cuentan con el sistema de control de bodycam y si actualmente Gendarmería 
+cuenta con las facultades legales y reglamentarias suficientes para hacer 
+frente a este método delictual.
+Por último, solicita que informe si existe presupuesto asignado para la 
+implementación de las medidas necesarias para detener estos delitos, si es 
+que los hubiere.
+7
+--- PÁGINA 8 ---
+2. Oficiar a la Ministra de Justicia y Derechos Humanos, para que 
+informe el estado de avance en el cumplimiento del acuerdo al que se arribó 
+en sesión del 10 de mayo del presente en ésta Comisión, en orden a ingresar 
+un mensaje que aborde la temática de la Defensoría de las Víctimas, con el 
+objeto de entregar a las mismas una adecuada representación judicial y no 
+solo asesorías.
+Al respecto, se hace presente que la tramitación del proyecto de ley ini-
+ciado en mensaje, que “Crea el Servicio Nacional de Acceso a la Justicia y la 
+Defensoría de Víctimas de Delitos”, Boletín N° 13.991-07, quedo suspendida a 
+la espera del ingreso del prometido mensaje.
+-----
+PUNTOS VARIOS
+La señorita diputada Cariola (Presidenta) agradece la presencia de la 
+Ministra Secretaria General de la Presidencia, dándole la bienvenida a la 
+Comisión, deseándole un trabajo legislativo exitoso.
+La señora diputada Jiles igualmente saluda a la Ministra presente, 
+alegrándose de que por fin el Ejecutivo halla recogido su solicitud de mantener 
+de forma permanente una participación en la Comisión. Con todo, recordó que 
+es obligación del colegislador siempre estar presente, en cumplimiento de sus 
+funciones.
+De la misma forma, el diputado señor Soto extendió sus saludos a la 
+Ministra, sobre quien expresó tener plena seguridad de que su labor 
+fortalecerá el trabajo legislativo, manifestando su buena voluntad de trabajar 
+en conjunto.
+En el mismo plano, solicito considerar una sesión especial para que el 
+Ejecutivo pueda exponer a la Comisión su agenda legislativa, tanto en corto, 
+mediano y largo plazo.
+En otros asuntos, el diputado señor Ilabaca indicó que recientemente el 
+Subsecretario de Justicia, a través de medios de comunicación masivos, 
+informó que han identificado más de cien bandas criminales que operan desde 
+dentro de las cárceles, sólo durante el 2022. Al respecto, le llama la atención 
+dicha información, porque da cuenta de una situación grave que sucede en los 
+recintos penitenciarios del país, donde ahora la violencia de las bandas 
+criminales no solo se da en los barrios, sino también desde el interior de las 
+propias cárceles.
+8
+--- PÁGINA 9 ---
+Por lo anterior, solicita que la Comisión tenga a bien oficiar a la Ministra 
+de Justicia y Derechos Humanos, al Subsecretario de la cartera y al Director 
+de Gendarmería de Chile, con la finalidad de que informen en detalle la 
+individualización de esas más de 100 bandas, con dato de sus miembros y de 
+las cárceles desde donde estarían operando.
+En el mismo sentido, solicita que informen si el personal de 
+Gendarmería cuenta con bodycam, información que les sería útil para conocer 
+que tipo de procedimientos de control están llevando a cabo, y las iniciativas o 
+estrategias que han considerado para ponerle un pare a este tipo de delitos 
+intrapenitenciarios, que se desarrollan a través de teléfonos celulares.
+Por último, recuerda que en otras ocasiones el Ejecutivo ha respondido 
+a consultas similares argumentando no tener presupuesto suficiente para llevar 
+a cabo medidas de control más efectivas, por lo que solicita se pronuncien 
+sobre la materia, indicando su disponibilidad presupuestaria y la suficiencia o 
+no de la misma.
+La diputada señorita Cariola (Presidenta) solicita agregar al acuerdo la 
+invitación al Subsecretario de Justicia para que venga a informar de lo 
+requerido a la Comisión, idea que fue resistida por la diputada señora Jiles, 
+quien se manifestó de acuerdo con oficiar más no con invitar a dicha autoridad.
+Por último, el diputado señor Soto solicito agregar al oficio una pregunta 
+en el siguiente sentido: solicita saber si Gendarmería cuenta con las facultades 
+legales y reglamentarias suficientes para intervenir a este tipo de bandas 
+criminales y adoptar procedimientos parapoliciales. Al respecto, cree que es 
+difícil amenazar a alguien que ya se encuentra privado de libertad con irse 
+preso.
+El oficio, en dichos términos, sin la invitación al Subsecretario de 
+Justicia, es ACORDADO por unanimidad de los presentes. Dieron la 
+unanimidad los señores y señoras diputadas y diputados Karol Cariola 
+(Presidenta), Camila Flores (online), Marcos Ilabaca, Catalina Pérez, Luis 
+Sánchez, Leonardo Soto y Gonzalo Winter.
+El diputado señor Longton, a riesgo de ser reiterativo, solicita oficiar a 
+la Ministra de Justicia y Derechos Humanos para que informe a la Comisión 
+sobre el estado en que se encuentra el mensaje que supuestamente ingresaría 
+el Ejecutivo hace cuatro meses atrás en materia de defensa de las víctimas de 
+delitos.
+Al respecto, recuerda que en mayo la Comisión puso en tabla un 
+proyecto que ya viene desde la administración anterior, Boletín n° 13.991-07,
+9
+--- PÁGINA 10 ---
+iniciado en mensaje, y que “crea el Servicio Nacional de Acceso a la Justicia y 
+la Defensoría de Víctimas de Delitos”, cuya tramitación fue suspendida a 
+solicitud de la propia Ministra de Justicia, debido a que informó que estaban 
+trabajando en un nuevo proyecto que dividía al Servicio Nacional de Acceso a 
+la Justicia de la figura de la defensoría de las víctimas, aumentar los recursos 
+fiscales y mantener conversaciones con las corporaciones de asistencia 
+judicial.
+Ese compromiso no se ha cumplido, y le extraña que a sabiendas de las 
+precarias condiciones de seguridad por la que transita Chile, las víctimas no 
+tengan un lugar. Además, es un proyecto que contará con un amplio respaldo 
+de los parlamentarios, en caso de que se presente el proyecto en buenas 
+condiciones.
+Siendo así, solicita que la Comisión oficie a la Ministra de Justicia y 
+Derechos Humanos para que tenga a bien cumplir con su compromiso y 
+presentar el respectivo proyecto de ley a la brevedad.
+El diputado señor Ilabaca, sobre el punto, refiere ser un proyecto que se 
+ha discutido desde hace mucho tiempo, y que el proyecto que se presento 
+durante el Gobierno del Presidente Piñera era muy malo, porque unía todo el 
+sistema integral de justicia en la Corporación de Asistencia Judicial sin 
+entregarles ni un peso.
+En ese contexto, efectivamente el Ejecutivo se comprometió en esta 
+Comisión en dividir los proyectos para entregarles una solución integral. 
+Refiere que el diputado Longton esta en lo cierto, porque el tema de la 
+Defensoría de las Víctimas tiene apoyo transversal.
+Con todo, la Ministra de Justicia se comprometió de traer una propuesta 
+de los tribunales de ejecución de pena, sobre el cuál ya lleva hablando cuatro 
+años, siendo necesaria la implementación de un mecanismo de judicialización 
+de los procesos que existen después de que el penado ingresa a los recintos 
+penitenciarios.
+En ese sentido, solicita volver a poner en tabla el proyecto de ley que 
+nace de la bancada del Partido Socialista y que propone un control cruzado de 
+cumplimiento de pena, Boletín N° 12.213-07. Como bien saben, este proyecto 
+ya se debatió en general y se recibieron invitados al respecto, y aunque la 
+iniciativa no es lo más optimo, si se la ha reconocido como un avance 
+alternativo sustancial.
+El diputado señor Longton refiere que sobre lo que el Ejecutivo ha dado 
+luces es sobre el proyecto del Servicio Nacional de Acceso a la Justicia, y no 
+sobre la defensoría, ya que lo que se busca con las víctimas es entregarle una 
+representación judicial efectiva y no una asesoría. Además, el proyecto de la
+10
+--- PÁGINA 11 ---
+administración Piñera fue discutido e inclusivo votado en general en esta 
+Comisión.
+Siendo así, reitera que se pueda oficiar a la ministra para que cumpla 
+con su compromiso.
+La diputada señora Jiles interviene para refrendar lo indicado por el 
+diputado Longton, en el sentido de que fue la Ministra de Justicia la que se 
+comprometió con la Comisión en su oportunidad, proponiendo la división del 
+proyecto en tramitación en dos, el primero sobre Defensoría de las Víctimas, y 
+un segundo sobre el Servicio Nacional de Acceso a la Justicia, además de otro 
+compromiso que adquirió con la diputada relativo a entregar información sobre 
+niños, niñas y adolescentes fallecidos bajo la protección del Estado.
+También la diputada quiere que la Comisión acuerde una formula para 
+poder exigirle el ingreso del proyecto dentro de un plazo, de manera tal que 
+como están las cosas pueda cumplir con sus compromisos antes que, ni Dios 
+lo quiera, abandone el Ministerio de Justicia.
+La diputada señorita Cariola (Presidenta), haciendo un recuento de lo 
+solicitado, refiere que efectivamente ese proyecto se puso en tabla a solicitud 
+del diputado Longton, y que presentó en su tramitación las deficiencias que se 
+les han señalado, en temas presupuestarios y de coordinación con las 
+corporaciones.
+Explica a la Ministra Uriarte que la formación de la tabla de la Comisión 
+se rige, en primer lugar, por las urgencias, y en segundo lugar por los 
+proyectos de ley que cuenten con mayoría de solicitudes de puesta en tabla. 
+En este caso, no han podido avanzar en el proyecto
+Frente a eso, el proyecto de Defensoría de las Víctimas estuvo en tabla 
+el 10 de mayo del presente año, concurriendo las ministras de Justicia y del 
+Interior, adquiriendo dichos compromisos.
+Han transcurrido cuatro meses, lo que es un tiempo bastante prudente 
+para tener alguna noticia, y pide el acuerdo para oficiar a la Ministra de Justicia 
+y Derechos Humanos en el sentido que han solicitado los diputados y 
+diputadas.
+Además, como hecho relevante para la historia de la ley, hace presente 
+que ni el Gobierno anterior ni el que actualmente administra, han incorporado 
+recursos fiscales al boletín en cuestión que permitan materializarlo, razón 
+principal por la cuál el proyecto no ha podido avanzar.
+Siendo así, solicita el acuerdo para oficiar a la Ministra de Justicia y 
+Derechos Humanos con el objeto de que informe el estado de avance del 
+proyecto de ley que sería presentado en remplazo del Boletín N° xxxxxx, que
+11
+--- PÁGINA 12 ---
+crea el Servicio Nacional de Acceso a la Justicia y la Defensoría de las 
+Víctimas.
+- 
+Se acuerda por unanimidad. Otorgan su consentimiento las 
+diputadas Cariola, Flores, Jiles y Pérez, y los diputados Alessandri, 
+Ilabaca, Leiva, Sánchez y Soto. 
+ 
+Respecto a la solicitud del diputado Ilabaca de poner en tabla el 
+proyecto de ley de control de penas, refiere ser uno de los proyectos 
+considerados como prioritarios luego de despachar los dos proyectos que, 
+hasta el momento, ocupan la tabla de la Comisión por ser calificados con 
+urgencias.
+El diputado señor Sánchez solicita nuevamente poner en tabla el 
+proyecto de ley de reforma constitucional que garantiza el derecho a la 
+vivienda.
+Estima que el proyecto se hace cargo de una necesidad creciente, 
+sobre todo en la región de Valparaíso costa, donde la cantidad de 
+campamentos es abismante, de dar seguridad a los comités de las viviendas 
+de que sus esfuerzos tendrán como resultado la adquisición en dominio de una 
+vivienda.
+Recuerda que el origen de la necesidad de dejar claro en la Constitución 
+que el domino sobre una propiedad es un derecho, deviene de la redacción de 
+la propuesta fallida de nueva Constitución, la que no lo garantizaba.
+Sabe que los materiales de construcción están muy caros, y que el 
+Ministerio de Vivienda hace un esfuerzo por cumplir con la demanda de casas 
+sociales, pero resultaría del todo relevante sacar adelante esta reforma 
+constitucional, de la cuál no se puede obviar por parte del poder legislativo.
+Por último, estima que seria bonito hacerse cargo de las necesidades de 
+la gente, y no tanto de hacer una política abstracta, la que cree que no es 
+comprendida por la ciudadanía. Cada día se hace más difícil para las clases 
+medias adquirir una vivienda propia, por lo que el Estado tiene un rol relevante 
+desde la política de viviendas sociales y subsidios.
+Hay que hacerse cargo de que las políticas de vivienda sobre las cuales 
+funciona el sistema de entrega de viviendas sea justo, y respete derechos 
+básicos por el de la propiedad.
+ORDEN DEL DÍA
+Boletines refundidos N°s 11.144-07 (S) y 11.092-07 (S).
+12
+--- PÁGINA 13 ---
+Entrando en el orden del día, corresponde continuar con la discusión 
+particular del proyecto de ley que “Regula la protección y el tratamiento de 
+los datos personales y crea la Agencia de Protección de Datos 
+Personales”, en segundo trámite constitucional, con urgencia calificada 
+de “Suma”.
+Ver oficio de ley; comparado de indicaciones; comparado de 
+observaciones.
+La diputada Cariola (Presidenta) da inicio al orden del día, 
+agradeciendo la presencia de la Ministra Secretaria General de la Presidencia, 
+y de la abogada asesora Lizzy Seaman, quien ha llevado a cabo el proceso de 
+negociaciones en la mesa técnica.
+Indica que, al inicio de la tramitación, se acordó permitir que, durante la 
+votación en particular, pudieran estar presentes de forma telemática los 
+expertos que participaron en la discusión, con la finalidad de que, se algún 
+diputado o diputada tenía dudas, pudiera consultarles.
+Sin embargo, en la última sesión fue emplazada por uno de esos 
+expertos a través de redes sociales por no haberle otorgado la palabra cuando 
+la solicitó, siendo una situación lamentable si consideramos que se recibieron 
+más de treinta y cinco expositores.
+De todas maneras, estando ellos presentes y siendo una contribución 
+relevante al debate, solicitó reformular el acuerdo, en el sentido de que puedan 
+ir incorporando la opinión de los expertos durante el debate cuando ellos 
+mismos lo soliciten, pero de forma criteriosa, con un máximo de dos palabras 
+por cada votación para quienes la soliciten primero.
+El diputado señor Winter recuerda que el reglamento de la corporación 
+es claro en este sentido, y sólo permite la intervención de expositores hasta 
+antes de la votación en general y, excepcionalmente durante el debate en 
+particular, pero nunca durante la votación. Lo anterior, basado en la idea de 
+que sí todos los invitados o expertos quisieran hacerlo, la votación se 
+extendería en demasía.
+Considerando lo anterior, el diputado estaría de acuerdo con la 
+propuesta de la Presidenta, en la medida de que los diputados estén de 
+acuerdo en escuchar al invitado, pero en el entendido de que de ninguna 
+manera significa que adquieran el derecho a hacer uso de la palabra, otorgada 
+excepcionalmente por la Presidenta de la Comisión.
+13
+--- PÁGINA 14 ---
+La diputada señorita Cariola (Presidenta) indicó que efectivamente el 
+reglamento permite, excepcionalmente, y cuando se debaten materias técnicas, 
+escuchar al experto, y en base de aquello es que han tomado el acuerdo 
+vigente que permite la participación de los presentes.
+Quiere mejorar la relación con ellos, y así evitar que, por otras vías o 
+medios, se diga que en una actitud arbitraria se diga que no se toma en 
+consideración la opinión valiosa de los expertos.
+El diputado señor Leiva solidariza con la Presidenta por en incidente 
+sucedido en la última sesión en que se discutió el proyecto, donde un expositor 
+la acusó injustamente y se arrogó la facultad de destetarla, estando además 
+presente aquí en la sesión. Circunstancia que quedo aclarada, en el orden de 
+que los demás asistentes no compartían en lo más mínimo esas acusaciones.
+Sin perjuicio de lo cual, el proyecto tiene una lata tramitación, con más 
+de treinta y cinco opiniones, con una valiosa opinión, la que en algunos 
+expositores representa la opinión, legítima, de los intereses de sus clientes 
+corporativos.
+Sumado a aquello, el trabajo legislativo ha sido intenso entre los 
+asesores y el Ejecutivo, con una mesa de trabajo, y vamos avanzando 
+lentamente en el proyecto.
+Considerado esto, solicita mantener el acuerdo vigente, esto es, que 
+cuando algún diputado solicite aclaración de un aspecto dudoso, sólo recién 
+ahí puedan opinar.
+La diputada señorita Cariola (Presidenta) constata que no habría 
+acuerdo, e indica que lo que harán es que en aquellos puntos que exista 
+complejidad en la discusión, los parlamentarios podrán solicitar la opinión de 
+los expertos. Además, si un experto quiera manifestar su opinión, pueden 
+levantar la mano y se evaluará en su momento si algún parlamentario quiere 
+escucharla.
+VOTACIÓN EN PARTICULAR
+“ARTÍCULO PRIMERO, continuación
+Introdúcense las siguientes modificaciones en la ley Nº 19.628, sobre 
+protección de la vida privada:
+Numeral 7) 
+7) Reemplázase el Título II por el siguiente:
+“Título II
+14
+--- PÁGINA 15 ---
+Del tratamiento de los datos personales y de las categorías especiales de
+datos
+Párrafo Primero 
+Del consentimiento del titular, de las obligaciones y deberes del responsable
+y del tratamiento de datos en general
+Artículo 14 ter
+Artículo 14 ter.- Deber de información y transparencia. El responsable de 
+datos debe mantener permanentemente a disposición del público, en su sitio 
+web o en cualquier otro medio de información equivalente, al menos, la 
+siguiente información:
+a) La política de tratamiento de datos personales que haya adoptado, la 
+fecha y versión de la misma;
+b) La individualización del responsable de datos y su representante legal y la 
+identificación del encargado de prevención, si existiere;
+c) El domicilio postal, la dirección de correo electrónico, el formulario de 
+contacto o la identificación del medio tecnológico equivalente mediante el cual 
+se le notifican las solicitudes que realicen los titulares;
+d) Las categorías, clases o tipos de datos que trata; la descripción genérica 
+del universo de personas que comprenden sus bases de datos; los 
+destinatarios a los que se prevé comunicar o ceder los datos, las finalidades de 
+los tratamientos que realiza y los tratamientos que se basan en la satisfacción 
+de intereses legítimos;
+e) La política y las medidas de seguridad adoptadas para proteger las bases 
+de datos personales que administra;
+f) El derecho que le asiste al titular para solicitar ante el responsable, acceso, 
+rectificación, cancelación, oposición y portabilidad de sus datos personales, de 
+conformidad a la ley, y
+g) El derecho que le asiste al titular de recurrir ante la Agencia, en caso que 
+el responsable rechace o no responda oportunamente las solicitudes que le 
+formule.
+- 
+Indicación del Ejecutivo, en el siguiente sentido:
+15
+--- PÁGINA 16 ---
+Para modificar el artículo 14 ter del numeral 7) en el siguiente sentido: 
+“a) Agrégase, en su literal c), a continuación de la palabra “equivalente” la 
+expresión “de uso común y fácil acceso”.
+b) Sustitúyese, en su literal f), la palabra “cancelación” por la palabra 
+“supresión”.”
+La diputada señorita Cariola (Presidenta) propone que en primer lugar 
+se vote la indicación del Ejecutivo y luego la del diputado Soto, considerando 
+que ambas con compatibles al modificar distintos incisos y numerales del 
+articulo 14 ter. 
+ 
+ 
+El diputado señor Soto refiere que, por orden correlativo, dicho artículo 
+en su inciso primero tiene un encabezado y luego numerales, y la primera de 
+sus indicaciones modifica dicho encabezado, que entiende que se debatió en la 
+mesa técnica, por lo que debería partirse votando su indicación. 
+ 
+ 
+La diputada señorita Cariola (Presidenta) indicó que se votará primero la 
+del Ejecutivo, considerando el orden del comparado, y que el orden de los 
+factores no altera el producto, otorgándole la palabra a la Ministra. 
+ 
+ 
+La señora Ana Lía Uriarte (Ministra Secretaria General de la 
+Presidencia) agradece la bienvenida y palabras de buena crianza de los 
+miembros de la Comisión.  
+ 
+Refiere estar en proceso de conocer del estado de todos los proyectos 
+del Ejecutivo que están siendo discutidos en el Congreso Nacional, y que en 
+este caso en particular son dos indicaciones sencillas al artículo 14 ter, pero 
+que preferiría no errar en su fundamento y solicita otorgarle a palabra a su 
+asesora, quien además es la que dirige la mesa negociadora. 
+ 
+ 
+La señora Lizzy Seaman (asesora del Departamento Jurídico – 
+Legislativo del Ministerio Secretaría General de la Presidencia) funda ambas 
+indicaciones del Ejecutivo al artículo 14 ter, y que dicen relación con la 
+concordancia al debate que se ya se ha dado en la Comisión.  
+ 
+Así, la indicación a) agrega que la identificación de medio tecnológico 
+por medio del cual se le notifica a los titulares, debe serlo de uso común y fácil 
+de usar por parte de ellos. 
+ 
+La indicación b) es solo una adecuación en conformidad a lo ya votado 
+en el artículo 7 del proyecto, esto es, sustituir la palabra cancelación por 
+supresión.
+16
+--- PÁGINA 17 ---
+Sometido a votación las indicaciones a) y b) del Ejecutivo, que 
+modifican el literal c) y f) del artículo 14 ter, son aprobadas por unanimidad. 
+Otorgaron su unanimidad los señores diputados Jorge Alessandri, Marcos 
+Ilabaca, Raúl Leiva y Andrés Longton, y las diputadas señoras Karol Cariola y 
+Catalina Pérez (8-0-0).
+- 
+Indicación diputado Leonardo Soto (posteriormente retirada por su 
+autor) 
+En el numeral 7) que reemplaza el Título II, al artículo 14 ter propuesto, 
+para:
+i) 
+“Reemplazar el inciso primero del artículo 14 ter por el siguiente:
+“Artículo 14 ter.- Deber de información y transparencia. El responsable 
+de datos debe entregar al titular de los datos, y asimismo mantener per-
+manentemente a disposición del público, en su sitio web o en cualquier 
+otro medio de información equivalente, al menos, la siguiente informa-
+ción:”. 
+ii) En la parte final del literal d) reemplazar todo lo que viene después de 
+“las finalidades de los tratamientos que realiza” por lo siguiente: “; la base de 
+legitimidad del tratamiento; y en caso de tratamientos que se basan en la satis-
+facción de intereses legítimos, cuáles serían estos;
+iii) Agregar los siguientes literales:  
+ 
+“h) en su caso, la intención del responsable de transferir datos personales a 
+un tercer país u organización internacional y si estos ofrecen o no un nivel ade-
+cuado de protección. En caso de que no cuenten con un nivel adecuado de 
+protección, se deberán informar cuales son las garantías que justificarían tal 
+transferencia.
+i)   el plazo durante el cual se conservarán los datos personales o, cuando 
+no sea posible, los criterios utilizados para determinar este plazo;
+j) la fuente de la cual provienen los datos personales y, en su caso, si proce-
+den de fuentes de acceso público;
+k) cuando el tratamiento esté basado en el consentimiento del titular, la exis-
+tencia del derecho a retirar el consentimiento en cualquier momento, sin que 
+ello afecte a la licitud del tratamiento basado en el consentimiento previo a su 
+retirada;
+17
+--- PÁGINA 18 ---
+l) cuando la comunicación de datos personales sea un requisito legal o con-
+tractual, o un requisito necesario para suscribir un contrato, el hecho de estar 
+obligado el titular a facilitar los datos personales y las posibles consecuencias 
+de que no facilitar tales datos;
+m)   la existencia de decisiones automatizas, incluida la elaboración de perfi-
+les, y, al menos en tales casos, información significativa sobre la lógica aplica-
+da, así como la importancia y las consecuencias previstas de dicho tratamiento 
+para el titular.
+n) Cuando el responsable del tratamiento proyecte el tratamiento ulterior de 
+datos personales para un fin que no sea aquel para el que se recogieron, pro-
+porcionará al titular, con anterioridad a dicho tratamiento ulterior, información 
+sobre ese otro fin y cualquier información adicional pertinente al tenor del pre-
+sente artículo.”.
+iv) Agregar un inciso final, del siguiente tenor:  
+La información sobre el tratamiento de los datos personales, referida prece-
+dentemente, se deberá entregar a los titulares en el momento en que se obten-
+gan de ellos o, si se obtienen de otra fuente, en un plazo razonable, depen-
+diendo de las circunstancias del caso, pero en cualquier caso, tan pronto le sea 
+posible y a más tardar en el momento de la primera comunicación con el titular 
+o dentro de un mes contado desde  que se obtuvieron los datos personales, 
+cualquiera de las dos circunstancias ocurra primero. Con todo, si estuviera pre-
+visto comunicar los datos a otro destinatario, el titular deberá recibir la señalada 
+información a más tardar en el momento en que los datos personales sean co-
+municados por primera vez.”. 
+ 
+ 
+El diputado señor Soto funda su indicación indicando que busca mejorar 
+y profundizar la idea de transparencia y el deber de información de los 
+responsables de datos, que es una obligación de carácter permanente, 
+independiente de los derechos arcos de los dueños de los datos. 
+ 
+La diferencia entre el encabezado aprobado en el Senado y su 
+indicación es que la primera habla de que los responsables de datos tienen el 
+deber de información y transparencia, y se cumple con el mismo, manteniendo 
+permanentemente a disposición del público, al menos la siguiente información, 
+la que luego es enumerada. 
+ 
+La frase “mantener permanente a disposición del público” sugiere la 
+notificación de la política que tiene cada responsable y también los cambios en 
+la misma. Es decir, si cambian las políticas de uso de datos el responsable 
+tendría que publicarlo en su sitio, lo que califica de insuficiente, ya que no
+18
+--- PÁGINA 19 ---
+permite advertir a los usuarios de esos cambios, los que además le son 
+imponibles.
+Siendo así, propone hacer obligatoria la entrega o notificación de esos 
+cambios al dueño de los datos personales, pensando en lo más fácil para las 
+personas.
+Argumenta que muchas veces los datos personales están almacenados 
+en cientos de dispositivos o bases, y las personas no tienen porque estar 
+recurriendo a cada uno de ellos para informarse del cambio de políticas que 
+pudiera haber.
+Por lo anterior, cree que la mejor opción es que la empresa proveedora 
+notifique a cada usuario de los cambios en sus políticas, como ocurre algunas 
+veces con nuestros dispositivos celulares.
+Finalmente, indicó que, si uno no se entera de los cambios de las 
+políticas de privacidad, no tiene cómo ejercer los derechos Arco.
+El diputado señor Sánchez, indicó que le parece razonable la propuesta 
+del diputado Soto, en el sentido de que la máxima es siempre llegar con la 
+información a todos los usuarios.
+En este sentido, el hecho de que el artículo proponga que la información 
+debe mantenerse a disposición de las personas es complejo, porque la realidad 
+nos dice que, aunque esa información se suba a la plataforma, muchas veces 
+es de difícil acceso o difícil de encontrar. Basta con intentar encontrar 
+información pública en las ventanas de transparencia de cualquier servicio 
+público o ministerio.
+Con todo, y más allá de eso, le preocupa la indicación del diputado Soto 
+cuando las empresas, sobre todo pequeñas, no tienen toda la información del 
+usuario o del titular de datos personales, que les permita notificarlo, sea porque 
+cambio el mail o el celular. Podríamos estar fijando estándares legales 
+imposibles de cumplir por muchas empresas en la práctica.
+También tiene dudas de cuál es el estándar de cumplimiento de esta 
+obligación, ¿es de medio o de resultado?
+Por cierto, que esta sería una obligación muy difícil de ejecutar, y 
+podríamos estar creando una ola masiva de incumplimientos legales 
+insalvables, por lo que cree que debe buscarse una forma que minimice el 
+riesgo.
+La señora Lizzy Seaman, da cuenta que al Ejecutivo también le 
+preocupa la factibilidad práctica de exigir el cumplimiento de una medida como 
+la propuesta por el diputado Soto, es decir, como un deber de entrega, la que 
+será muy difícil de cumplir en los casos de tratamiento masivo de casos o en
+19
+--- PÁGINA 20 ---
+aquellos casos donde la base de licitud del tratamiento de datos no sea el 
+consentimiento del titular (tratadas en el artículo 13 del proyecto).
+En ese aspecto, es necesario distinguir. Cuando la base de licitud del 
+tratamiento de datos personales sea el consentimiento, frente a cualquier 
+cambio en la política de tratamiento de datos se debe informar al titular, 
+circunstancia que el proyecto ya prevé y hace exigible.
+El diputado señor Soto entiende que la frase “deber de entregar 
+información” como él propone, en algunos casos, es difícil de cumplir. Las 
+empresas que manejan datos disponen de varios medios para informar, sea 
+correos electrónicos, avisos cuando vas a utilizar la aplicación, o banner es sus 
+páginas web. Quizás se podría matizar su indicación, considerando ambos 
+supuestos (fuente de licitud el consentimiento y las que no), permitiendo que en 
+los casos en que exista controversia sobre si se debe notificar o no, sea la 
+Agencia de Datos la que resuelva.
+Así, dentro de los márgenes dados por la frase “poner a disposición” y 
+“entregar”, sería el ente regulador quien pudiera resolver y aclarar cuando se 
+trate de uso de datos personales sensibles o el tratamiento de datos 
+personales a gran escala.
+La línea roja que no se debe cruzar sería el establecer un deber de 
+transparencia e información que no pueda ser pesquisado por la persona, 
+porque significa colocar al titular de los datos como único responsable de 
+informarse de los cambios de políticas de las empresas.
+La señora Uriarte (Ministra Secretaria General de la Presidencia) está 
+de acuerdo que en es difícil que el titular de los datos se entere de los cambios 
+en la política de uso de datos personales de las empresas con el solo hecho de 
+que se mantengan en la página web, porque no es algo habitual que uno 
+realice, y propone que, habiéndose aceptado la indicación del diputado Soto, la 
+comisión técnica pudiera concordar una mejor redacción, donde conste la 
+obligación de entregar al titular los datos, siempre que sea posible, y en caso 
+de duda que lo determine la Agencia, además de mantener la obligación de 
+ponerlo a disposición.
+La diputada señorita Cariola (Presidenta) refiere que le hace sentido la 
+indicación del diputado Soto, porque no cree correcto que la publicidad o no de 
+los cambios de las políticas quede a mano del responsable, siendo necesario 
+resguardar la situación de las personas o públicos depositarias de esta 
+situación, por lo que hay que revisar el encabezado.
+Siendo así, solicita poder escuchar a los expertos que han levantado la 
+mano.
+20
+--- PÁGINA 21 ---
+La señora Jéssica Matus (ONG Datos Protegidos) indicó que, cuando 
+se habla del deber de información para el tratamiento de datos personales, 
+todo responsable debe informar debidamente al titular del tratamiento que hará, 
+cuál es el responsable, su identificación, la finalidad para la cuál se utilizará, 
+etc… Pero toda esa información se entrega de una manera clara y legible. De 
+hecho, la forma en que esta escriturada la información debiera ser en un 
+lenguaje natural, es decir, que una persona de 12 años pudiera entender.
+Ahora, cuando hablamos de mantener a disposición del público las 
+políticas de privacidad – que es de lo que estamos hablando ahora -, no hay 
+que confundirlo con el momento en que se capturan los datos, que es cuando 
+se le entrega esta información al titular, y que generalmente ocurre en un 
+formulario donde la persona anota sus datos personales con un propósito 
+declarado.
+Cuando una persona consiente en el uso de sus datos, en esta especie 
+de contrato que autoriza su tratamiento, cualquier cambio sustancias requiere 
+nuevamente un consentimiento, por lo que no es que las empresas puedan 
+modificar unilateralmente las condiciones.
+Siendo así, cree que lo que están proponiendo vía indicación del 
+diputado Soto es una nueva obligación de “entregar”, cuando sabemos que 
+desde hace años ese deber de información, que hoy se llama de transparencia, 
+lealtad y licitud ya lo considera.
+Entonces, la nueva redacción que se está proponiendo podría enredar 
+las cosas, no solo para las grandes empresas, sino también para aquellos 
+casos en que responsables y controladores de datos que tratan información lo 
+hace a la base de un consentimiento informado.
+El diputado Señor Longton esta muy de acuerdo con Jessica Matus, 
+porque no estamos hablando del contenido de los datos personales, sino del 
+deber de transparencia que deben poner a disposición de los usuarios y del 
+público en general, para que puedan ejercer sus derechos.
+Además, sería una carga onerosa para las Pymes y una molestia para 
+los usuarios que podrían recibir una carga constante de información cada vez 
+que se modifique el correo electrónico, un domicilio postal, el formulario de 
+contacto, etc… todos elementos que no tienen razón de ser con la finalidad del 
+proyecto, que el regular el tratamiento de los datos personales, resguardas su 
+base de licitud en el consentimiento y velar por que sus derechos no sean 
+vulnerados.
+Ha quedado claro con la intervención de la señora Matus que cuando 
+existe una afectación o intervención sustancial en las condiciones que afecten
+21
+--- PÁGINA 22 ---
+el dato personal del usuario, debe ser nuevamente ratificado por el titular, a 
+través de un nuevo consentimiento.
+Considerando aquello, la propuesta del Senado es correcta, y la 
+indicación del diputado Soto enredaría más las cosas.
+El diputado señor Soto insiste en su indicación, porque además entiende 
+que de esa misma forma la recoge el reglamento de la Unión Europea. 
+Aprovechando que se encuentra conectado don Bruno Gencarelli, solicita 
+poder entregarle la palabra para vuestra mejor ilustración.
+El señor Bruno Gencarelli (Jefe de la Unidad de Protección y Flujo de 
+Datos Personales e Internacionales de la Unión Europea) agradece a la 
+Comisión, e indicó que efectivamente la transparencia y el deber de publicidad 
+esta presente en el Reglamento de la Unión Europea, a la base de los 
+siguientes puntos.
+- 
+La Transparencia es esencial, y no solo lo es para logar un 
+consentimiento informado.  
+- 
+La obligación de transparencia y, por tal, de poner a disposición las 
+políticas de uso de datos personales de cada empresa, no se hace 
+por cada individuo, sino que se busca que sea conocida por toda la 
+comunidad. 
+- 
+La obligación de informar a sus usuarios del cambio de políticas 
+sustanciales no se deja expresado en una sola vía posible de hacer, 
+existiendo múltiples medios, sea por correos privados, publicaciones 
+masivas, a través de las propias aplicaciones. En fin, existen 
+múltiples formas que dependen de cada empresa y de su modelo de 
+negocios. 
+ 
+Ahora bien, hay que distinguir dos situaciones: 1. cuando la información 
+personal es proporcionada directamente por el individuo, sea expresando su 
+consentimiento o con la aceptación de contrato; y 2. Cuando la información no 
+fue obtenida de forma directa. 
+ 
+En este sentido, el principio de transparencia regula estas situaciones, 
+realizando una distinción en razón de la real posibilidad de lograr notificar a la 
+persona titular de los datos personales. Obviamente, en los casos en que los 
+datos son obtenidos de primera fuente o de forma directa, es fácil para las 
+empresas entregarles dicha información, pero cuando hablamos de uso masivo 
+de datos 
+obtenidos 
+indirectamente, entonces 
+se 
+contemplas 
+ciertas 
+excepciones al principio de transparencia, particularmente cuando la ubicación 
+del individuo es imposible.
+22
+--- PÁGINA 23 ---
+Así, considerando estos elementos, cree posible balancear la obligación 
+de proveer de información al individuo cuando su ubicación o forma de contacto 
+es posible, de las otras situaciones cuando resulta imposible o poco probable 
+de hacer. 
+ 
+ 
+La señora Macarena Gatica (Abogada experta en Derechos Digitales, 
+Socia del Estudio Alessandri y académica en varias universidades) indicó que 
+el reglamento de la Unión Europea utiliza la palabra “facilitar”. En este sentido, 
+cuando existe una medida desproporcionada y pueda ser muy difícil la entrega 
+de la información a su titular, cobra sentido hablar del principio de 
+transparencia como un deber de poner a disposición la información necesaria 
+para que todas las personas puedan tener acceso. 
+ 
+La base de licitud no solo es el consentimiento. Hoy con el proyecto de 
+ley se tendrá como base de licitud la indirecta, por lo que no existirá un 
+consentimiento manifestado de forma directa. A modo de ejemplo, lo vemos 
+con el tratamiento de datos que utilizan los Estados, quienes con fines 
+legítimos manejan una enorme cantidad de datos personales, y que aún siendo 
+capaz de localizar a la persona, no siempre se podrá mantener contacto con la 
+misma.  
+ 
+Muchas veces será impracticable hacer la entrega material de la 
+información, y por eso se habla de poner a disposición o facilitar. El 
+Reglamento Europeo dice “El responsable de tratamiento tomará las medidas 
+oportunas para facilitar al interesado toda información indicada en los artículos 
+13 y 14, así como cualquier información relativa al tratamiento” y habla de 
+oportunas para facilitad. 
+ 
+Considerando lo anterior, con la indicación del diputado Soto se estarían 
+apartando de la regulación europea y tomando una conducta que obligue al 
+responsable una transparencia activa, aunque sea imposible contactar al titular 
+de datos. 
+ 
+ 
+El diputado señor Soto entiende el debate que se abre. Aclara que 
+cuando una notificación se hace imposible o impracticable por falta de 
+antecedentes están libres de dicha obligación, porque a lo imposible nadie está 
+obligado. Por tanto, los ejemplos dados al respecto deberían ser corregidos a la 
+base de esa regla universal. 
+ 
+En segundo lugar, con su indicación no quiere que Chile tenga un nivel 
+de exigencia mayor a la regulación de la Unión Europea. Llama la atención 
+que, de la exposición del señor Gencarelli, no puede ser obligación del titular 
+de datos buscar las políticas de privacidad y sus cambios.
+23
+--- PÁGINA 24 ---
+Por tanto, y para que tome nota el Ejecutivo, la propuesta de “facilitar la 
+información al interesado” le parece un punto intermedio entre la obligación de 
+entregar y sólo mantener a disposición del público.
+El diputado señor Sánchez pregunta al Ejecutivo si existe la posibilidad 
+de que la normativa sea aplicable a pequeñas y medianas empresas, porque 
+de imponer un estándar de notificación personal podría ser muy duro para una 
+empresa de menor tamaño versus a una multinacional.  
+ 
+Siendo así, considera que no se puede fijar la misma vara para grandes 
+empresas, las que con un botón notifican a todos sus usuarios, que con una 
+empresa pequeña. 
+ 
+ 
+La señora Uriarte (Ministra Secretaria General de la Presidencia), 
+respecto de las intervenciones de los expertos, rescata que en muchas 
+ocasiones no se puede entregar la información. Al contrario, en aquellas 
+ocasiones en las que sí se puede, regirá la notificación directa, y cuando no se 
+pueda entregar, entraría dentro de la categoría de información imposible de 
+cumplir. 
+ 
+Siendo así, cree que la propuesta intermedia debe considera que la 
+obligación de notificación debe regir en todos aquellos casos en que el titular 
+sea localizable, y en los demás casos la información debe ser puesta a 
+disposición. En caso de duda, deberá aclararlo la Agencia. 
+ 
+Lo que al final buscamos es facilitarle la vida al titular, no al responsable. 
+Y en materia de pequeñas y medianas empresas, todos podremos convenir en 
+que ellas no manejan bases de datos, en términos de volumen, y que 
+generalmente manejan una lista de sus proveedores y clientes, por lo que 
+frente a cualquier cambio en la política de tratamiento de datos tendrían todos 
+los correos disponibles, pero en caso de no tenerlos, entonces resolverá al 
+Agencia. 
+ 
+Por último, se excusa porque debe concurrir a al Senado para participar 
+del debate en Sala del proyecto de ley que renueva el Estado de Excepción 
+Constitucional. 
+ 
+ 
+La diputada señorita Cariola (Presidenta) agradece la presencia de la 
+ministra, y solicita que su presencia se repita en las futuras sesiones, 
+particularmente para dedicar una sesión completa a conocer la agenda 
+legislativa del Ejecutivo, la que espera tome en consideración las solicitudes de 
+los parlamentarios en materia de defensa de las víctimas y de control del 
+cumplimiento de las penas, las respuestas pendientes de otros ministerios y 
+una evaluación en conjunto de las urgencias, ya que son estas últimas las que 
+determina al final la tabla.
+24
+--- PÁGINA 25 ---
+La señora Seaman, respondiendo a las consultas del diputado Sánchez, 
+indica que las reglas si se aplican a las Pymes, pero se contempla reglas 
+especiales en materia de entrada en vigencia y algunas circunstancias 
+atenuantes y agravantes en consideración al tamaño de la empresa tratante de 
+datos. 
+ 
+Ahora, sobre la modificación que ahora propone el propio diputado Soto 
+al artículo 14 ter, en el sentido de sustituir del encabezado la palabra “disponer” 
+por “facilitar”, es correcta y sería una buena solución intermedia. 
+ 
+ 
+El diputado señor Sánchez indicó que la intensión es ingresar una nueva 
+indicación para votarla ahora, cree que debería considerarse el establecer una 
+regla distinta para las Pymes. Al respecto, manifestó no quedar conforme con 
+la respuesta de la ministra, ya que en los tiempos que vivimos, las personas 
+con tiendas online tienen una gran cantidad de clientes, pero siguen siendo 
+negocios sencillos que no están a la misma altura que negocios como los de 
+Estados Unidos u otros nacionales multimillonarios.
+Las Pymes si manejan bases de datos, porque ya no es como 
+antiguamente se pensaba que las tiendan tenían una libretita con los nombres 
+de los clientes. El cielo es el límite para muchos negocios, y cuando se esta 
+empezando un negocio y tienen una cantidad de personal basa y están al 
+límite, tienen que pensar bien en que se les va a obligar a cumplir en materia 
+de estándar de transparencia y notificaciones, porque, aunque sí puedan 
+identificar al titular de datos, el costo de hacerlo para ellos es mayor, porque no 
+cuentan con personal especializado que se dedique solo a ello.
+Hace el llamado de no poner obstáculos a los emprendedores, que por 
+el contrario necesitan toda la facilidad posible para generar empleos, no 
+pudiendo juzgar con la misma mano a estas pequeñas empresas. A modo de 
+ejemplo, si la empresa no tiene un sistema automatizado de correos, tiene que 
+notificarlos uno por uno, lo que seria una ardua labor para una pequeña 
+empresa.
+La 
+diputada 
+señorita 
+Cariola 
+(Presidenta) 
+solicitó 
+discutir 
+inmediatamente el numeral romado ii) de la indicación del diputado Soto.
+La señora Seaman indicó que, en la mesa técnica, ubo acuerdo 
+respecto de esta indicación de autoría del diputado Soto. De todas maneras, y 
+teniendo en consideración el espíritu de la indicación, se hace presente que, 
+con la aprobación de la misma, así como está, eliminaría la palabra “las 
+finalidades”, que es algo que no busca la indicación y que seguramente se 
+debe a un error de técnica legislativa, la que se solicita corregir.
+25
+--- PÁGINA 26 ---
+El diputado señor Longton sostiene que el objeto de las mesas de 
+trabajo es llegar a acuerdos, y así despejar dudas y avanzar de forma más 
+rápida y eficiente, especialmente en este proyecto que es muy largo.
+Al respecto, entiende que sobre la primera indicación del diputado Soto, 
+que sustituye el encabezado del artículo 14 ter, hubo mayoría para su rechazo. 
+Entonces, ahora en la segunda parte de su indicación, volvemos sobre lo 
+mismo, porque entiende que tampoco hubo acuerdo para aprobarla.
+La diputada señorita Cariola (Presidenta) refiere comprender su punto 
+de vista, pero que cada diputado tiene el derecho de insistir con su indicación, 
+debiendo entonces abrir el debate respectivo. Fruto del mismo, ahora el 
+diputado Soto nos ha presentado una indicación, que entiende contaría con el 
+acuerdo del Ejecutivo.
+- 
+Nueva propuesta de indicación del diputado Soto, Ilabaca y Cariola, al 
+encabezado del artículo 14 ter, en el siguiente sentido: 
+“Artículo 14 ter. Deber de información y transparencia. El responsable de 
+datos debe facilitar y mantener permanentemente a disposición del público, 
+en su sitio web o en cualquier otro medio de información equivalente, al 
+menos, la siguiente información:”
+• 
+Se deja constancia que, en el mismo acto de presentación de la nueva 
+indicación, el diputado Soto retira su indicación original, y que proponía 
+una redacción nueva al encabezado del artículo 14 ter, por considerar 
+que esta nueva propuesta recoge de mejor manera el sentir mayoritario 
+de la Comisión. 
+ 
+ 
+La señora Seaman, y a propósito del comentario del diputado Longton, 
+indicó que la mesa llego a acuerdo en todos los artículos, salvo el actual en 
+discusión. 
+ 
+Ahora, sobre la indicación presentada, y que cambia la palabra 
+“entregar” por “facilitar” manifiesta que también se discutió en la mesa técnica, 
+pero no existió unanimidad para tomar el acuerdo, razón por la cuál no se 
+presentó como acuerdo en la Comisión. 
+ 
+ 
+Sometida a votación la nueva indicación de la diputada Cariola y los 
+diputados Ilabaca y Soto, que remplaza el encabezado del artículo 14 ter, 
+resultó aprobada por la mayoría. Votaron por la afirmativa los diputados y 
+diputadas Karol Cariola (Presidenta), Miguel Ángel Calisto, Camila Flores, 
+Marcos Ilabaca, Catalina Pérez, Raúl Soto. En contra los diputados Jorge
+26
+--- PÁGINA 27 ---
+Alessandri, Andrés Longton, Luis Sánchez. Se abstuvo el diputado Raúl Leiva 
+(6-3-1).
+Fundamento de la votación: 
+ 
+El diputado señor Longton estimó que modificar la palabra a “facilitar” 
+no ayuda a aclarar la hipótesis, pudiendo enredar más las cosas y ser incluso 
+objeto de judicialización, poniendo una carga excesiva a las personas y los 
+pequeños y mediamos empresarios, particularmente de los emprendedores. 
+Además, no se condice con el fondo del proyecto que dice relación con el 
+contenido de los datos personales y no con el deber de información que tiene 
+que estar a disposición. Será una carga imposible de cumplir, y la 
+interpretación de la palabra facilitar será compleja.
+El diputado señor Sánchez voto en contra por las mismas razones 
+expuestas por el diputado Longton, porque la palabra facilitar tiene una 
+interpretación compleja, poniendo las manos al fuego de que será objeto de 
+judicialización. No entiende porque se hace distinción entre facilitar y mantener 
+a disposición, siendo complejo identificar una diferencia en su interpretación, 
+por lo que prefiere quedarse con la redacción que viene desde el Senado.
+El diputado señor Soto fundamenta su voto a favor indicando que el 
+principio de transparencia es fundamental para que el sistema de derechos 
+Arco funcione. Si los titulares no tienen conocimiento de los cambios de las 
+políticas de uso de datos, es imposible que puedan ejercer sus derechos.
+Por lo anterior, la forma correcta es poner de cargo del responsable del 
+tratamiento de datos la obligación de establecer la transparencia necesaria 
+para que opere el sistema.
+Su indicación original obligaba a los responsables a entregar, uno a uno, 
+la información sobre las políticas de privacidad y sus cambios, lo que entiende 
+que puede ser complicado. Por lo mismo, acaba de presentar una indicación 
+que cambia su redacción y establece el deber de facilitar la información y 
+mantener a disposición en sus sitios web la información, con todas las 
+menciones que más adelante se indican.
+Siendo así, el distingue dos obligaciones. La primera, en los parámetros 
+de transparencia que se usan en la administración pública, seria de 
+transparencia activa, y que aquí sería mantener a disposición de las personas 
+las políticas en la página web. La segunda, es facilitar la información, que se 
+cumple a través de medios electrónicos como los correos, avisos, banner, etc.  
+Además, cuando existan dificultades, será la Agencia la que dirima.
+27
+--- PÁGINA 28 ---
+Entre la defensa de los derechos de los responsables de datos y el de 
+las personas, esta Comisión opta siempre por defender el derecho de las 
+personas.
+- Nueva indicación de la diputada Cariola, Ilabaca y Soto (ingresada 
+en sesión – indicación de consenso con mesa técnica).
+Para agregar, en el inciso primero del artículo 14 ter, a continuación del 
+literal g), los siguientes literales:
+“h) En su caso, la transferencia de datos personales a un tercer país u 
+organización internacional y si estos ofrecen o no un nivel adecuado de 
+protección. En caso de que no cuenten con un nivel adecuado de protección, 
+se deberán informar si existen garantías que justifiquen tal transferencia.
+i) 
+El periodo durante el que se conservará los datos personales. 
+ 
+j) La fuente de la cual provienen los datos personales y, en su caso, si 
+proceden de fuentes de acceso público; 
+ 
+k) cuando el tratamiento está basado en el consentimiento del titular, la 
+existencia del derecho a retirar el consentimiento en cualquier momento, 
+sin que ello afecte a la licitud del tratamiento basado en el 
+consentimiento previo a su retirada; 
+ 
+l) la existencia de decisiones automatizadas, incluida la elaboración de 
+perfiles. En tales casos, información significativa sobre la lógica aplicada, 
+así como las consecuencias previstas de dicho tratamiento para el 
+titular.”. 
+ 
+ 
+La señora Seaman indica que esta corresponde a una redacción de 
+indicación en consenso por la mesa técnica, adecuando aspectos formales, al 
+mismo tiempo que elimina otros numerales de la indicación original del 
+diputado Soto (la número romano iii) que ya se contenían en reglas generales 
+del proyecto, manteniendo el contenido de la indicación del diputado Soto pero 
+simplificando su comprensión y redacción.
+El diputado señor Longton mencionó estar informado de que no fue un 
+acuerdo unánime, existiendo oposición por un grupo de asesores, lo que 
+solicita que sea ratificado por el Ejecutivo.
+28
+--- PÁGINA 29 ---
+La señora Seaman respondió que, en la oportunidad en que se discutió 
+sí existió acuerdo unánime.
+Siendo así, la diputada señorita Cariola (Presidenta) deja en claro que la 
+indicación suscrita, y que se pone en votación, no fue entonces un acuerdo 
+unánime de la mesa.
+Sometida a votación la nueva indicación que agrega, en el inciso 
+primero del artículo 14 ter, a continuación del literal g), nuevos literales, 
+resultó aprobada por mayoría. Votaron a favor los diputados y diputadas Karol 
+Cariola (Presidenta), José Miguel Calisto, Marcos Ilabaca, Raúl Leiva, Catalina 
+Pérez, Raúl Soto y Gonzalo Winter. En contra la diputada Camila Flores y los 
+diputados Andrés Longton y Luis Sánchez (7-3-0).
+Fundamento del voto: 
+ 
+La diputada señora Flores fundó su voto en contra porque, a su juicio, la 
+indicación genera un exceso o carga regulatoria excesiva, la que por cierto 
+debe haberse redactado de buena fe, pero que no apoyará.
+Sometido a votación el resto del artículo 14 ter que no ha sido objeto 
+de indicaciones, fue aprobado por unanimidad. Se encuentran presentes, y 
+dieron unanimidad, las diputadas Karol Cariola (Presidenta), Camila Flores y 
+Catalina Pérez, y los diputados Jose Miguel Calisto, Marcos Ilabaca, Raúl 
+Leiva,  Andrés Longton, Luis Sánchez, Raúl Soto y Gonzalo Winter (10-0-0).
+Artículo 14 quáter
+“Artículo 14 quáter: Deber de protección desde el diseño y por defecto. El 
+responsable debe aplicar medidas técnicas y organizativas apropiadas con 
+anterioridad y durante el tratamiento de datos con el fin de cumplir los principios 
+del tratamiento de datos y los derechos de titular establecidos en esta ley. Las 
+medidas deben ser adoptadas considerando el estado de la técnica, los costos 
+de implementación y la naturaleza, ámbito, contexto y fines del tratamiento de 
+datos, así como los riesgos.
+El responsable de datos deberá aplicar las medidas técnicas y organizativas 
+para garantizar que, por defecto, sólo sean objeto de tratamiento los datos 
+personales que sean necesarios para los fines específicos y determinados del 
+tratamiento. Esta obligación se aplicará al número de datos recogidos, a la
+29
+--- PÁGINA 30 ---
+extensión del tratamiento, al plazo de conservación de los datos y a su 
+accesibilidad.
+- 
+Indicación del diputado Sánchez: 
+Sustitúyase el artículo 14 quáter, por el siguiente: 
+“Artículo 14 quáter.- Deber de protección desde el diseño y por defecto. Con 
+la finalidad de cumplir los principios y los derechos de los titulares establecidos 
+en esta ley, el responsable debe aplicar medidas técnicas y organizativas 
+adecuadas desde el diseño con anterioridad y durante el tratamiento de los 
+datos personales. Las medidas a aplicar deberán tener en consideración el 
+estado de la técnica; los costos de implementación; la naturaleza, ámbito, 
+contexto y fines del tratamiento de datos; así como los riesgos asociados a 
+dicha actividad.
+Asimismo, el responsable de datos deberá aplicar medidas técnicas y 
+organizativas para garantizar que, por defecto, sólo sean objeto de tratamiento 
+los datos personales específicos y necesarios para dicha actividad. Para ello, 
+se tendrá en consideración el número de datos recogidos, la extensión del 
+tratamiento, el plazo de conservación y su accesibilidad.”.
+- 
+Indicación de los diputados Leonardo Soto y Calisto: 
+En el numeral 7) que reemplaza el Título II, al artículo 14 quáter pro-
+puesto, para insertar, en el inciso segundo, a continuación de la frase los “datos 
+personales que sean” la palabra “estrictamente”.
+La señora Seaman hace presente que existe acuerdo de la mesa 
+técnica para aprobar ambas indicaciones, por lo que su recomendación va en 
+ese sentido.
+La diputada Cariola (Presidenta), considerando lo anterior, y el hecho de 
+que el artículo 14 quater no tiene más indicaciones, propone votar las dos 
+indicaciones (del diputado señor Sánchez y la de los diputados Soto y Calisto) 
+más el resto del artículo 14 quáter.
+Sometido a votación, es aprobado por unanimidad. Se encuentran 
+presentes, y otorgan la unanimidad, las diputadas señoras Karol Cariola 
+(Presidenta), Camila Flores y Catalina Pérez, y los diputados señores José 
+Miguel Calisto, Marcos Ilabaca, Raúl Leiva, Andrés Longton, Luis Sánchez, 
+Leonardo Soto y Gonzalo Winter (10-0-0).
+******
+30
+--- PÁGINA 31 ---
+Las intervenciones quedaron en registro de audio en la Secretaría de 
+la Comisión. Registro audiovisual de la sesión puede obtenerse en 
+http://www.democraciaenvivo.cl/ y en
+http://www.cdtv.cl/Programa.aspx?idPrograma=46. 
+ 
+Por haberse cumplido con su objeto, siendo las 16:59 horas, la 
+Presidenta levantó la sesión.
+PVW/fgl/mrl/ccr
+31

@@ -1,0 +1,633 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=17453&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:36:04
+======================================================================
+
+--- PÁGINA 1 ---
+COMISIÓN DE FUTURO, CIENCIAS, TECNOLOGÍA,
+CONOCIMIENTO E INNOVACIÓN
+LEGISLATURA 371ª
+ACTA DE LA 38ª SESIÓN, ORDINARIA, CELEBRADA EN MIÉRCOLES 23 DE
+AGOSTO DE 2023, DE 17.30 A 19.26 HORAS.
+SUMA
+Exposiciones 
+en 
+relación 
+al 
+proyecto de ley, originado en 
+moción, que regula los sistemas 
+de 
+inteligencia 
+artificial, 
+la 
+robótica 
+y 
+las 
+tecnologías 
+conexas, 
+en 
+sus 
+distintos 
+ámbitos de aplicación, boletín 
+N°15.869-19, en primer trámite 
+constitucional 
+y 
+primero 
+reglamentario.
+Presidió la sesión el diputado señor Eric Aedo Jeldres.
+Actuó, en calidad de Abogado Secretario el señor John Smok 
+Kazazian; como abogada ayudante, la señorita Elizabeth Cangas Shand; y como 
+secretaria ejecutiva la señora Teresita Sandoval Lagos, todos de manera 
+presencial.
+I. 
+ASISTENCIA.
+Asistieron, de manera presencial, los diputados integrantes 
+señores Tomás Lagomarsino Guzmán, Gaspar Rivas Sánchez, la diputada 
+integrante señora Helia Molina Milman, y el ya mencionado presidente de la 
+Comisión diputado Eric Aedo Jeldres
+Asistieron, de manera telemática, las diputadas integrantes 
+señoras Paula Labra Besserer, Erika Olivera De La Fuente, Marta Bravo Salinas, 
+Daniela Serrano Salazar, y los diputados integrantes señores Rubén Oyarzo 
+Figueroa, Daniel Lilayu Vivanco y Matías Ramírez Pascal.
+El diputado integrante señor Luis Sánchez Ossa fue reemplazado 
+por el diputado señor José Carlos Meza Pereira.
+Participaron, en calidad de invitados, el Director de Iniciativa de 
+Datos e Inteligencia Artificial de la Facultad de Ciencias Físicas y Matemáticas de 
+la Universidad de Chile, señor Felipe Tobar; y el Profesor Asistente del Instituto de
+Firmado por John Alexander Smok
+Kazazian
+Fecha 30/08/2023 13:22:01 CLT
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 088E3D6951C043A3
+--- PÁGINA 2 ---
+2
+Éticas Aplicadas (IEA) de la Pontificia Universidad Católica de Chile, señor Abel 
+Wajnermann.
+También concurrieron el asesor experto de la Biblioteca del 
+Congreso Nacional señor Raimundo Roberts y el coordinador legislativo de la 
+Ministra de Ciencia, Tecnología, Conocimiento e Innovación, señor Matías 
+Edwards Zamora.
+II. 
+ACTAS
+El acta se la sesión 36ª se dio por aprobada, por no haber sido 
+objeto de observaciones.
+El acta de la sesión 37a se puso a disposición de los diputados y 
+diputadas integrantes de la Comisión.
+III. 
+CUENTA
+El Secretario informó que se recibieron los siguientes documentos 
+para la cuenta:
+1. Ordinario N° 1594/2023 de la Ministra del Trabajo y Previsión 
+Social, mediante el cual, conforme la Ley de Presupuestos del Sector Público Año 
+2023, remite la información del segundo trimestre del año 2023, correspondiente a 
+la Glosa 03: Ocurrencia de incidentes y ataques informáticos registrados en los 
+Servicios Dependientes, así como el cumplimiento del o los protocolos de 
+respaldo.
+* El archivo correspondiente a “Información de Servicios 
+Dependientes (Glosa N° 3.1 Ciberseguridad.xlsx)” queda a disposición de los 
+señores diputados en la Secretaría de la Comisiónpor estar en formato excel.
+- Se tomó conocimiento.
+2.- Comunicación del Jefe de la Bancada de Diputados del Partido 
+Repúblicano, por la que informa que el diputado Luis Sánchez será reemplazado, 
+en esta sesión, por el diputado José Carlos Meza.
+- Se tuvo presente.
+3.- Oficio N° 2427/2023 del Subsecretario de Desarrollo Regional y 
+Administrativo, mediante el cual, de acuerdo con lo establecido en la Ley de 
+Presupuestos del Sector Público año 2023, informa sobre las Glosas Comunes del 
+Ministerio del Interior y Seguridad Pública: Glosa 05 - Incidentes, correspondiente 
+al segundo trimestre del año 2023; Glosa 05 - Vulneraciones, correspondiente al 
+primer semestre del año 2023.
+* Los archivos en formato excel quedan a disposición de los 
+señores diputados en la Secretaría de la Comisión.
+- Se tomó conocimiento.
+--- PÁGINA 3 ---
+3
+4.- Informe de la visita inspectiva que realizó esta Comisión al 
+Observatorio Cerro Paranal, con el objeto de observar in situ el trabajo de la 
+Organización Europea para la Investigación Astronómica en el Hemisferio Austral 
+(ESO), y a la Planta Solar Desierto de Atacama.
+- Se tomó conocimiento.
+5.- Oficio O.I.C. (UTyPC) Nº 0025-2023 de la Unidad de 
+Participación Ciudadana de la Oficina de Informaciones de la Cámara de 
+Diputados, mediante el cual se remite el informe de la participación ciudadana 
+recibida en la plataforma Congreso Virtual acerca del proyecto de ley que regula 
+los sistemas de inteligencia artificial, la robótica y las tecnologías conexas, en sus 
+distintos ámbitos de aplicación (boletín N° 15869-19), el que estuvo publicado en 
+la plataforma entre el 3 de julio y el 7 de agosto de 2023.
+- Se tomó conocimiento.
+6.- Correo electrónico de la profesora asistente del Instituto de 
+Éticas Aplicadas (IEA) y del Instituto de Ingeniería Matemática y Computacional 
+(IMC) de la Pontificia Universidad Católica de Chile, e Investigadora del Centro 
+Nacional de Inteligencia Artificial (CENIA), señora Gabriela Arriagada Bruneau, 
+quien excusa, por segunda vez, su inasistencia a esta sesión por compromiso 
+previo inamovible. Queda atenta a futuras sesiones.
+- Se tuvo presente.
+7.- 
+Nueva 
+comunicación 
+del 
+Presidente 
+del 
+Centro 
+Interdisciplinario de Neurociencia de Valparaíso, señor Juan Carlos Sáez Carreño, 
+a través de la cual solicita audiencia con la Comisión a fin de dar a conocer el 
+quehacer científico de ese centro de investigación, albergado en la Universidad de 
+Valparaíso. (Cuenta anterior: Sesión 37ª, de 2 de agosto de 2023).
+- Se tuvo presente y se adoptó el acuerdo que se consigna al final 
+de esta acta.
+8.- Correo electrónico de la Ejecutiva de Gestión de Socios de la 
+Asociación Chilena de Empresas de Tecnologías de Información A.G. (ACTI), 
+quien en nombre de la mesa de trabajo de inteligencia artificial de la ACTI solicita 
+audiencia con la Comisión para la organización, a fin de pueda exponer su postura 
+respecto del proyecto de ley boletín N°15.869-19, en tabla.
+Hace presente que la ACTI es la principal organización que reúne 
+a las empresas del sector privado de la industria tecnológica y de 
+telecomunicaciones en Chile.
+- Se tuvo presente y se adoptó el acuerdo que se consigna al final 
+de esta acta.
+9.- Correo electrónico del director jurídico de la Asociación para el 
+Desarrollo de la Industria del Marketing y la Publicidad Interactiva (IAB CHILE), 
+señor Raúl Arrieta Cortés, por medio del cual solicita audiencia con la Comisión a
+--- PÁGINA 4 ---
+4
+fin de que esa Asociación pueda entregar su parecer respecto del proyecto de ley 
+boletín N°15.869- 19, en tabla.
+- Se tuvo presente y se adoptó el acuerdo que se consigna al final 
+de esta acta.
+10.- Octogésimo tercer número del Boletín “Coyuntura Económica 
+Nacional y Escenario Internacional”, elaborado por el Área Economía de la 
+Asesoría Técnica Parlamentaria de la Biblioteca del Congreso Nacional.
+- Se tomó conocimiento.
+IV. 
+ORDEN DEL DÍA
+Exposiciones en relación al proyecto de ley, originado en 
+moción, que regula los sistemas de inteligencia artificial, la 
+robótica y las tecnologías conexas, en sus distintos ámbitos 
+de 
+aplicación, 
+boletín 
+N°15.869-19, 
+en 
+primer 
+trámite 
+constitucional y primero reglamentario.
+El señor Felipe Tobar, Director de Iniciativa de Datos e 
+Inteligencia Artificial de la Facultad de Ciencias Físicas y Matemáticas de la 
+Universidad de Chile, basándose en la siguiente presentación VER, expuso su 
+visión sobre la iniciativa legal en estudio.
+Tras una breve introducción sobre su formación y experiencia 
+profesional, enseñó fotografías de herramientas con distintos niveles de 
+sofisticación, entre ellas, un auto, un martillo, un teléfono celular, una calculadora, 
+e invitó a reflexionar sobre si pueden ser consideradas malas o buenas en sí 
+mismas o si aquello dependerá de su uso e impacto.
+Algunas herramientas más sofisticadas gozan de una propiedad 
+denominada Inteligencia Artificial (IA), que es la capacidad que exhiben para 
+realizar tareas que requieren inteligencia, como si fuesen realizadas por humanos. 
+Esta definición de IA es independiente de los componentes de la herramienta, lo 
+relevante es la tarea que ejecuta. También, es independiente de su aplicación y, 
+usualmente interactúa con otras herramientas para formar un sistema mayor.
+La IA en Chile entrega oportunidades, pero también desafíos. 
+Entre las primeras, destacó las siguientes: posibilidad de migrar de una economía 
+extractiva a una basada en conocimiento; tiene un potencial único para aumentar 
+el bien social; y el avance científico y político que Chile requiere para ser líder 
+regional en IA.
+Respecto a los desafíos, relevó la necesidad de usar la IA para 
+disminuir brechas, no aumentarlas. Se requiere desarrollar una soberanía 
+tecnológica, pasar de ser consumidores a productores de IA. Además, se necesita
+--- PÁGINA 5 ---
+5
+alfabetización digital para todos los ciudadanos que entienden y usan la IA. Así 
+como también se requiere la instalación de capacidades en la función pública, ya 
+que el Estado debe ser uno de los actores principales en el desarrollo y beneficio 
+de estas herramientas.
+En Chile y el mundo hay un avance y una preocupación sobre la 
+IA. De la experiencia comparada destacó tres hitos relevantes. Hace casi dos años 
+se lanzó la política nacional de IA que da lineamientos en cuanto a sus factores 
+habilitantes y sus impactos. Es una guía de ruta, aunque no establece ninguna 
+institucionalidad. Luego, en abril de 2021 la Unión Europea (UE) redactó una 
+propuesta de Reglamento, que es el primer intento por regular la IA. Finalmente, 
+en julio de 2023, la Cámara de Representantes de Estados Unidos avanza un 
+poco más allá de la regulación, reconociendo a la IA como un factor necesario 
+para alcanzar el desarrollo. En este último documento se acuñó el término 
+“CREATE AI” acrónimo en inglés para “Creando recursos para que cada 
+americano experimente con la IA”. Así, los países están reconociendo que se está 
+creando una brecha entre los que hacen y no hacen IA, y están preocupados de 
+que grandes actores vengan a tomar recursos de los propios países para 
+desarrollar IA.
+En particular, sobre el boletín N°15.869-19 en análisis, manifestó 
+que, de sus antecedentes y fundamentos, se reconoce su inspiración en la 
+regulación propuesta en la UE, basada en un modelo de riesgos y disposiciones 
+para ellos. En términos generales, hizo presente los siguientes nudos críticos:
+● El proyecto de ley no visualiza meta-objetivos. Es muy 
+importante lo que menciona en cuanto a la protección de los derechos 
+fundamentales de los ciudadanos, pero no abarca otras materias relevantes, como 
+el efecto que este tipo de regulación puede tener en el desarrollo, promoción y 
+adopción de la IA.
+● 
+La 
+propuesta 
+de 
+gobernanza 
+que 
+propone 
+es 
+una 
+institucionalidad rígida, similar al proceso de solicitud de patentes, que es un 
+proceso largo, caro y que margina a las pymes.
+● Categoriza el riesgo de una herramienta en función de su 
+aplicación, siendo que las herramientas son multiaplicación, según decide el 
+usuario.
+● Desconexión entre la realidad UE y Chile. En la UE hay un 
+volumen de producción de sistemas de inteligencia artificial, no comparable con 
+Chile, que llama a una regulación. En nuestro país hay una “llamita” que se está 
+encendiendo en la creación de un ecosistema de IA, que podría extinguirse con 
+una regulación de esta magnitud, teniendo presente que Chile necesita 
+urgentemente crecer en el desarrollo de la IA.
+En particular, respecto a su texto normativo, procedió a observar lo 
+siguiente:
+--- PÁGINA 6 ---
+6
+1. Artículo 1. Definición. La definición está basada netamente en la 
+naturaleza de las herramientas utilizadas y no en su capacidad. Es tan amplia que 
+cualquier programa computacional entra en esta definición. Previno que hay otros 
+sistemas no basados en IA que pueden presentar riesgos similares o mayores, 
+reiterando que el enfoque debe estar en el uso y no en la herramienta.
+2. Artículo 4. Calificación de alto riesgo. En coherencia con lo 
+expresado anteriormente, sugirió legislar sobre el riesgo en cada aplicación, no 
+desde la herramienta. Riesgos pueden venir de sistemas básicos o “inteligentes”.
+3. Artículos 5 y 6. Creación de la Comisión Nacional de 
+Inteligencia Artificial. Sostuvo que una comisión evaluadora de esta naturaleza es 
+impracticable, por las siguientes razones:
+● No existen dichos expertos, afirmación que realiza basada en su 
+experiencia en el área.
+● No se sabe cómo evaluar. La evaluación de si el despliegue de 
+estas herramientas es seguro supone una investigación que precisamente se 
+encuentra en desarrollo.
+● La mera capacidad de riesgo no debe ser indicador de 
+prohibición.
+A su juicio, se necesita invertir en entender cómo funcionan los 
+sistemas de IA, su relación con la discriminación, sesgo y alineación con las 
+respuestas humanas. Se requiere investigación, no prohibición.
+Finalmente, reiteró que la IA es oportunidad de desarrollo en Chile, 
+que se encuentra bien posicionado para aprovecharla, tanto científica como 
+políticamente.
+Entre las propuestas al proyecto de ley mencionó las siguientes:
+● En atención a que hay riesgos asociados al despliegue de la IA, 
+se necesita comprenderlos mediante educación y avance científico a fin de sacar 
+provecho de estas herramientas.
+● Potenciar la posibilidad de desarrollo que el uso de la IA puede 
+generar para un país como Chile.
+● Se requiere una institucionalidad flexible y promotora desde el 
+Estado en ámbitos tales como minería, ciencia, clima, género.
+● Advirtió consecuencias inexploradas de legislar en esta materia. 
+Se estima que una regulación de esta naturaleza podría significar una caída de al 
+menos el 20 por ciento en el uso de estas herramientas, y un costo billonario en 
+EUR.
+● No hay referencia al uso por agentes del Estado de los datos o 
+sistemas de IA.
+--- PÁGINA 7 ---
+7
+● Si bien el enfoque garantista es necesario, la idea es que una 
+ley de IA no posicione a Chile solo como receptor de esta tecnología, sino que 
+también como proveedor.
+A continuación, las parlamentarias y parlamentarios presentes 
+procedieron a hacer consultas sobre lo expuesto.
+Sobre los nudos críticos que identificó en la moción, se le consultó 
+sobre sugerencias para salvarlos. Recomendó clarificar los meta-objetivos de la 
+iniciativa. Del texto se desprende que busca establecer el marco de acción de 
+ciertos sistemas de inteligencia artificial y la forma como podrían afectar a los 
+consumidores, pero no basta con la protección. Uno de los objetivos que falta es la 
+promoción, con conciencia y reconocimiento de que la IA ya está enraizada en 
+nuestro quehacer. La regulación solo desde la mirada de las barreras se puede 
+tornar impracticable. De la mano de la protección y garantía de los derechos 
+fundamentales se debe explicitar un espíritu de potenciar el desarrollo local de la 
+IA. De esa forma, como sociedad, podríamos estar más instruidos respecto al uso 
+de estas tecnologías para naturalmente eliminar los riesgos asociados como, por 
+ejemplo, la creencia que estos sistemas dicen la verdad. En consecuencia, una 
+promoción como desarrolladores de frontera de IA junto a una alfabetización 
+temprana de la sociedad son claves para poder liar con los posibles peligros.
+Sobre la utilización de estos sistemas en aplicaciones de alto 
+riesgo o críticas, tales como priorización de listas de espera o detección de 
+enfermedades en el ámbito de la salud, y formas de garantizar su buen uso, 
+manifestó que hay ciertos criterios que se pueden exigir en el despliegue de estos 
+mecanismos autónomos, que pueden ser o no IA, considerando que hay software 
+que pueden ser construidos sin IA que igualmente pueden discriminar. Uno de los 
+estándares que se pueden incluir es la trazabilidad de la responsabilidad, es decir, 
+considerar la posibilidad de recurrir al ser humano que decidió desplegar un 
+sistema de IA que opera autónomamente y que genera sistemáticamente ciertas 
+discriminaciones. Es importante entender los criterios de ese mecanismo de IA, 
+que deben ser criterios humanos. Muchas veces estos algoritmos no respetan 100 
+por ciento el criterio humano, por la forma en que son construidos. En ese sentido, 
+cobra relevancia la necesidad de aprender a construir herramientas de IA que den 
+garantías de estar alineadas con el criterio humano. Eso no existe actualmente, 
+por eso cobra relevancia la inversión en una mejor ciencia que pueda dar 
+garantías fehacientes de que estos sistemas no fallen, al nivel de una calculadora.
+Teniendo como referencia la obra teatral de ciencia ficción RUR 
+Robots Universales Rossum, escrita por el checo Karel Čapek, estrenada en el 
+año 1921, que masificó el término robots (esclavo en checo), fue consultado sobre 
+las posibilidades de que en varios años más se le atribuyan derechos a la IA o que 
+ésta tome conciencia de sí misma y se rebele contra el ser humano para 
+reemplazarlo, creando una realidad distópica. Reflexionó que hay algunos 
+pensadores que creen que la IA y los robots son el siguiente paso evolutivo de la 
+especie humana, que hasta ahora ha sido solo biológica. A su juicio, de ser así,
+--- PÁGINA 8 ---
+8
+las constantes de tiempo para que eso ocurra están muy por sobre el legado que 
+cada uno de los presentes pueda dejar en la sociedad, aunque no por eso son 
+problemas respecto de los cuales no vale la pena reflexionar. Es muy relevante 
+identificar qué elementos pueden ser sujetos de derecho. Una de las discusiones 
+que ha convergido es si los sistemas de IA pueden ser declarados éticos, en tanto 
+no se puede declarar responsabilidad a un software, lo que se vincula a la 
+necesidad de establecer mecanismos de trazabilidad de la responsabilidad al ser 
+humano que los despliega. Le es difícil imaginar un escenario en que se atribuyan 
+derechos a estas herramientas.
+En cuanto a si las máquinas podrían reemplazar a las personas, 
+manifestó que, con el estado actual de la tecnología, se está muy lejos de aquello, 
+tanto en términos prácticos como conceptuales. La obsesión del ser humano por 
+dominar el planeta le es intrínseca, desde sus orígenes, y está en él la decisión de 
+codificar eso en las máquinas.
+Ahora, en cuanto a la forma cómo se interactúa con estas 
+disciplinas, explicó que antropomorfizar la tecnología es un problema que nos lleva 
+precisamente a estas reflexiones, como pedirle la ChatGPT las cosas por favor. 
+No se debe perder de vista que se trata de una herramienta, y las características 
+humanas que detentan les han sido dadas por el ser humano para servirlo. Hay 
+problemas documentados de salud mental debido a la interacción humanizada con 
+estas tecnologías. En su opinión, hay brechas enormes que salvar antes de llegar 
+a la distopia que la obra mencionada propone. Invitó a pensar en una utopía, 
+donde las máquinas nos reemplazan en las cosas en que queremos ser 
+reemplazados, tales como, trabajos peligrosos, tediosos o exploratorios, a fin de 
+disfrutar más la vida. Nada nos puede reemplazar en disfrutar la vida o en el 
+placer de hacer las cosas que nos gustan.
+El diputado Lagomarsino, en calidad de autor de la moción, 
+manifestó que los avances regulatorios, tanto de la UE como de Estados Unidos, 
+son referencias para Chile, que debe generar una regulación propia que responda 
+a su realidad y permita ponderar adecuadamente la promoción y desarrollo de la 
+IA con la garantía de protección y cuidado de los usuarios.
+Rescató de la exposición la mirada de que los sistemas de IA son 
+herramientas, cuyos riesgos derivan de la utilización y aplicación de las mismas.
+En cuanto a la crítica de la gobernanza que la moción propone, 
+señaló que desde el inicio de la tramitación reconoció que se necesitan recursos 
+para implementar esta nueva institucionalidad y espera que el Ejecutivo patrocine 
+el proyecto de ley presentando el informe financiero correspondiente. Coincidió 
+también en la necesidad de flexibilizar el proceso, hacerlo más fluido. Hay un 
+espacio importante para mejorar el proyecto de ley y ponderar adecuadamente el 
+rol que debe tener el Estado.
+--- PÁGINA 9 ---
+9
+Asimismo, reconoció que una de las carencias de la moción está 
+en cómo promueve el desarrollo de capacidades de IA en Chile y cómo alfabetizar 
+a la población.
+En cuanto al nudo crítico de la definición, señaló que una de las 
+formas de resolverlo, vía indicación, podría ser dejárselo a la institucionalidad que 
+se crea o, eventualmente, al Ministerio de Ciencia, Tecnología, Conocimiento e 
+Innovación (CTCI) para que pueda ser actualizada de forma más sencilla. De 
+todas maneras, hizo presente que la definición del proyecto de ley es 
+prácticamente la misma que la de la UE.
+En cuanto al meta-objetivo principal de la moción y la 
+recomendación de explicitarlo, aclaró que es dar tranquilidad y seguridad a las 
+chilenas y chilenos de que en cada oportunidad que se utilicen sistemas de 
+inteligencia artificial, especialmente en ámbitos de alto riesgo o críticos, se hará de 
+la mejor forma posible.
+El señor Abel Wajnermann, Profesor Asistente del Instituto de 
+Éticas Aplicadas (IEA) de la Pontificia Universidad Católica de Chile, antes de 
+entrar en su exposición, dio su opinión sobre lo que se estaba reflexionando 
+respecto a la necesidad de no sofocar a través de iniciativas legales nacionales 
+tecnologías emergentes potencialmente beneficiosas para diferentes ámbitos 
+claves de la sociedad, como en salud o educación. Coincidió sobre el punto 
+reconociendo que es una preocupación muy grande de la comunidad científica, sin 
+perjuicio de considerar igualmente necesaria una regulación para que el desarrollo 
+de las tecnologías tienda a asegurar que efectivamente contribuyan al mejor 
+desarrollo de la sociedad. Desde su área de experticia, vinculada a la ética, 
+siempre se enfrenta con este cuestionamiento desde las comunidades científicas 
+que ven a la ética como un marco que, a veces, pone restricciones innecesarias al 
+desarrollo científico. Por lo mismo, su interés es poder analizar este tipo de 
+regulaciones y reflexiones ético–jurídicas en torno a la tecnología como maneras 
+de guiar el desarrollo, más que aplacarlo o limitar su aplicación.
+En particular, sobre el texto de la moción, compartió algunas 
+observaciones.
+1. Articulo 2. Definiciones. Sobre la definición de “usuario” como 
+“toda persona natural o jurídica que utilice un sistema de IA”, sugirió indicar si las 
+obligaciones incluyen o excluyen aplicaciones personales, no profesionales, lo que 
+se vincula con la necesidad de determinar la trazabilidad de la responsabilidad que 
+se mencionó en la exposición anterior.
+Por otra parte, en la definición de “datos biométricos” como “los 
+datos personales obtenidos a partir de un tratamiento técnico específico, relativos 
+a las características físicas, fisiológicas o conductuales de una personas natural 
+que permitan o confirmen la identificación única de dicha persona, como imágenes 
+faciales o datos dactiloscópicos”, observó que se definen como datos personales,
+--- PÁGINA 10 ---
+10
+en circunstancias que en procesamiento de datos por medio de IA muchos de 
+estos datos están anonimizados o pseudo anonimizados, pero aun así son 
+sensibles. La regulación de la UE rescata esto con el concepto de “sistema de 
+categorización biométrica” que asigna a las personas naturales categorías 
+especificas en base a sexo, edad, características físicas, etnia, entre otras, sobre 
+la base del análisis de diferentes tipos de datos biométricos, que no son 
+personales. Consideró importante su inclusión, porque son datos que están 
+involucrados en muchas de las aplicaciones que en la propuesta están 
+categorizadas como de alto riesgo o como de riesgo inaceptable, porque los 
+perfiles que se pueden construir por medio de este tipo de análisis pueden 
+utilizarse para tomar decisiones sobre contrataciones, solicitudes crediticias o de 
+seguros de salud, aun cuando el analista mismo no tenga acceso a la identidad 
+del usuario.
+2. Artículo 3. Sistemas de IA de riesgo inaceptable. En primer 
+lugar, respecto a la primera categoría “aquel que se sirva de técnicas subliminales 
+que trasciendan la conciencia de una persona para alterar de manera sustancial 
+su comportamiento de un modo que provoque o sea probable que provoque 
+perjuicios físicos o psicológicos a esa persona o a otra”, previno que algunos de 
+estos daños no se manifiestan en el comportamiento, por ejemplo, formas de 
+sufrimiento o dolencias que el sujeto podría enmascarar conductualmente para 
+evitar estigmatización o discriminación. Dado el avance de la neuro tecnología, es 
+de esperar la posibilidad de acceder a este tipo de perjuicios sin la mediación de 
+evidencia conductual. Sugirió separar la posibilidad de afectar la conducta de las 
+personas de la generación de daños o perjuicios psicológicos o físicos.
+Por otra parte, reflexionó sobre la exigencia de la norma de que se 
+generen efectivamente daños o perjuicios físicos o psicológicos para considerar 
+inaceptables ciertas aplicaciones de estas tecnologías, porque podría haber 
+alteraciones de la conducta en contextos socialmente relevantes, por ejemplo, un 
+proceso de elección presidencial, por el mero hecho de que se manipule la 
+voluntad pública, a través de aplicaciones que generen desinformación o atenten 
+contra la estabilidad social por medio de discursos de odio, aunque no generen 
+daños físicos o psicológicos. En su opinión, son casos a los que debe prestarse 
+atención, sin caer en una sobre regulación, ya que hay aplicaciones que alteran 
+legítimamente la conducta por medio de la persuasión, como en el caso de la 
+publicidad.
+Sobre la hipótesis contenida en el numeral 4 “aquel de 
+identificación biométrica remota en tiempo real o diferido en espacios de acceso 
+público (…)”, se cuestionó sobre qué se considerará espacios de acceso público, y 
+si la identificación o clasificación por medio de perfiles de personas en plataformas 
+sociales contará como espacio público o privado. Esta discusión se dio en el 
+contexto de la ley de plataformas digitales, sobre la equivalencia o no entre el 
+espacio público físico y ciertos espacios digitales de público acceso. Consideró 
+importante considerar la vigilancia digital en estos espacios públicos digitales.
+--- PÁGINA 11 ---
+11
+Sobre la norma en general señaló que, en su opinión, falta 
+mencionar algunos casos que fueron tematizados recientemente por el Future of 
+Life Institute que realizó una moratoria sobre el desarrollo de los grandes modelos 
+de lenguaje y se refirió a ciertos casos que eventualmente podrían poner en riesgo 
+la seguridad nacional, como aplicaciones que asisten en la construcción de 
+explosivos, medicamentos o sustancias prohibidas, armas biológicas, planificación 
+de robos u otras actividades delictivas.
+3. Artículo 4. Clasificación de los sistemas de IA de alto riesgo. Al 
+respecto, recomendó incluir algunas hipótesis vinculadas al ámbito de la salud, ya 
+que hay una serie de aplicaciones que ya están en el mercado, con diferentes 
+grados de validación, específicamente orientadas a la salud mental, que ofrecen 
+un terapeuta. Si bien no está seguro sobre su calificación de riesgo, consideró que 
+debiesen tener mayor control del tienen hoy en día. Mencionó otras vinculadas al 
+diagnóstico o tratamiento de enfermedades, en que hay varios casos 
+documentados de sesgos. Otras se están comenzando a usar para generar de 
+manera interactiva y con consentimiento informado en pacientes, que puede 
+mejorar mucho el proceso de consentimiento, pero que también involucra riesgos 
+que habría que atender. Hay aplicaciones que están empezando a generar 
+cambios en el ámbito laboral, progresivamente sustituyendo puestos de trabajo o 
+reduciendo las horas de trabajo asignadas.
+En términos generales, se refiere a aplicaciones que puedan 
+cambiar de manera significativa el mercado laboral o que puedan sustituir al ser 
+humano en tareas que se considera valiosas que realice una persona, por 
+ejemplo, cuando se usan aplicaciones antropomorfizadas en asilos para 
+acompañar a las personas mayores. No se refiere a prohibirlas sino a tomar 
+ciertas precauciones en su aplicación.
+Rescató de la regulación de la UE el establecimiento de una 
+definición general de alto riesgo como “sistemas que ponen en riesgo la salud, la 
+seguridad o algún otro derecho fundamental” a fin de identificar casos nuevos que 
+no fueron previstos inicialmente en el texto legal. Al poner el foco en los derechos 
+resguardados es más fácil identificar potenciales aplicaciones que los pongan en 
+riesgo. Es importante identificar cuáles son los valores o derechos cuyo riesgo o 
+vulneración definirá que una determinada aplicación sea calificada de alto riesgo.
+4. Artículo 5. Comisión Nacional de IA. Se manifestó favorable a la 
+creación de una institucionalidad. Sólo sugirió, respecto a la función de “desarrollar 
+recomendaciones para mejorar la regulación de los sistemas de IA”, incluir algún 
+tipo de iniciativa de vinculación, en inglés “engagement”, es decir, nivel de 
+compromiso que tienen los consumidores y usuarios con una marca. No se trata 
+solamente de alfabetización, de algo que va desde los expertos hacia las 
+personas, sino en la otra dirección. Una vinculación que recoja la perspectiva de 
+diferentes 
+actores 
+consumidores, 
+desarrolladoras, 
+proveedores, 
+mediante 
+entrevistas, focus group o metodologías similares en la medida que la toma de 
+decisiones involucre la perspectiva de las personas que pueden ser 
+potencialmente afectadas. Esto es algo que en el desarrollo de otras tecnologías 
+emergentes no se hizo, donde se desarrollaron iniciativas legales que estaban 
+bastantes desconectadas de las perspectivas de los diferentes actores relevantes,
+--- PÁGINA 12 ---
+12
+y fue un error estratégico clave para la aceptación de la legislación y para el 
+desarrollo de un texto que represente a los diferentes actores involucrados.
+5. Artículo 8. Riesgo Inaceptable. Dispone que la Comisión no 
+autorizará el desarrollo, distribución, comercialización ni utilización de sistemas de 
+IA cuyo riesgo sea inaceptable. Consideró importante que al tomar decisiones 
+para calificar sistemas como de riesgo inaceptable la Comisión u otro organismo 
+acompañe su mejoramiento u optimización para que dejen de presentar tales 
+riesgos porque, tal como se reflexionó, es peligroso sofocar tecnologías que 
+igualmente van a ocurrir. Precisamente en el contexto de moratoria del Future of 
+Life Institute, una de las críticas apuntaba a que si se prohíbe el desarrollo de 
+ciertos modelos de lenguaje por miedo a ciertos efectos pueden ocurrir dos cosas 
+malas. Primero, una pérdida de control y transparencia ante la eventualidad de 
+que estos modelos se muevan a la clandestinidad o, peor, a otros países, 
+poniéndonos en desventaja estratégica y, segundo, se podría ralentizar el 
+desarrollo de aplicaciones potencialmente beneficiosas para la humanidad.
+En palabras finales, en relación al antropomorfismo, señaló que 
+efectivamente hay personas que se confunden cuando interactúan con IA, y por 
+eso es recomendable cierta trasparencia o un etiquetado cognitivo para que el 
+usuario siempre recuerde que está comunicándose con una IA. Algo clave en el 
+ámbito de su especialidad, vinculada a la psicología y neurociencia, es no prohibir 
+o no ser demasiado restrictivo con el desarrollo de modelos que tengan 
+características antropomórficas por diseño, ya que el desarrollo de interacciones 
+de tipo humanas es clave y puede traer muchos beneficios para el bienestar social 
+y para la accesibilidad de ciertos tipos de salud. Entonces, en la evaluación de 
+algo riesgoso es importante tener cierta flexibilidad respecto de esta opacidad 
+ontológica que tiene la IA.
+Se le solicitó profundizar respecto a maneras concretas para 
+plasmar en el proyecto de ley una forma de acompañamiento a la industria para no 
+sofocar las tecnologías emergentes. Manifestó que la idea es que la Comisión esté 
+en condiciones de ofrecer recomendaciones o guías respecto a cómo salir de la 
+categoría de alto riesgo o riesgo inaceptable. A su entender, es crucial que exista 
+un protocolo para acompañar a los desarrolladores en este sentido, en línea de 
+salvar las criticas que se han hecho a las moratorias a las que hizo referencia. Se 
+trata de buscar un equilibrio entre los potenciales beneficios con los potenciales 
+riesgos.
+El diputado Lagomarsino agradeció las dos miradas bastante 
+complementarias que han planteado los expositores sobre el proyecto de ley, que 
+permiten ponderar adecuadamente la materia que se discute.
+Consideró atendible lo señalado en cuanto a la categorización 
+biométrica y los perfiles, que no descarta ingresarlo vía indicación.
+Sobre los eventuales daños no detectables en la conducta, 
+independientemente de compartir el trasfondo de lo planteado, consideró complejo 
+de resolver respecto a su verificación.
+--- PÁGINA 13 ---
+13
+Respecto a la definición general de alto riesgo, hizo ver que se 
+encuentra contemplada en el inciso final del artículo 4, que reza: “Igualmente, 
+serán calificados como sistemas de IA de alto riesgo aquellos que conlleven el 
+riesgo de causar un perjuicio a la salud y la seguridad, o el riesgo de tener 
+repercusiones negativas para los derechos fundamentales, cuya gravedad y 
+probabilidad sean equivalentes o mayores de los riesgos de perjuicio o de 
+repercusiones negativas asociados a los sistemas de IA señalados en el inciso 
+primero de este artículo.”.
+Consultó a ambos invitados cuál de los dos modelos se ajusta más 
+a la realidad de Chile, si el estadounidense que tiende más a la auto regulación de 
+la industria o el de la UE basado en un modelo de identificación de riesgos.
+El señor Tobar manifestó que la auto regulación no es el camino, 
+ya que los grandes actores en el desarrollo de las técnicas de la IA tienen un 
+objetivo claro: el lucro. Tienen un negocio y quieren que el negocio sea lucrativo. 
+El Estado debería abogar por el uso y desarrollo de la IA para el bien social. En 
+Chile se ha construido institucionalidad para encargarse de temas prioritarios y 
+críticos en diferentes ámbitos, de los desastres naturales, inclusión de perspectiva 
+de género, a través del Ministerio de la Mujer y Equidad de Género, ciencias y 
+tecnología, a través de Ministerio de CTCI. Entendiendo la IA como una actividad 
+crítica y prioritaria, es imposible pensar que desde la auto regulación se va a 
+alcanzar el beneficio homogéneo de la ciudadanía.
+El señor Wajnermann coincidió con lo señalado, aunque la 
+regulación no puede ser exclusivamente de arriba hacia abajo. Tal como señaló en 
+su exposición, se debe incorporar la perspectiva de actores claves, que incluye a 
+los empresarios de manera central, para que también puedan apropiarse de 
+muchos de los principios que se articulan en la legislación, entendiéndolos como 
+factores que pueden jugar a su favor, como certificaciones por parte del Estado 
+que puedan apoyar la confianza por parte de los usuarios de este tipo de 
+productos.
+V. 
+ACUERDOS
+La Comisión adoptó los siguientes acuerdos:
+1. Acceder a las solicitudes de audiencia para la discusión del 
+proyecto de ley que regula los sistemas de inteligencia artificial, la robótica y las 
+tecnologías conexas, en sus distintos ámbitos de aplicación, boletín N°15.869-19, 
+contenidos en los puntos 8 y 9 de la cuenta, en fechas por determinar.
+2. Recibir en audiencia al Presidente del Centro Interdisciplinario 
+de Neurociencia de Valparaíso, señor Juan Carlos Sáez Carreño, en fecha por 
+determinar, a fin de dar a conocer a la Comisión el quehacer científico de 
+investigación albergado en la Universidad de Valparaíso.
+--- PÁGINA 14 ---
+14
+3. Invitar a la Ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, en fecha por determinar, a fin de que explique las razones del rechazo 
+a la invitación que el Gobierno de Israel formuló a nuestro país para participar de 
+un proyecto de exploración conjunta a la luna, en el marco de los avances y 
+proyectos en el ámbito aeroespacial que desarrolla Chile.
+4. Invitar a la Ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación y al Ministro de Relaciones Exteriores, en fecha por determinar, con el 
+objeto de analizar la posibilidad de que Chile se incorpore como Estado miembro 
+de la Organización Europea para la Investigación Astronómica en el Hemisferio 
+Austral (ESO).
+Asimismo, con el fin de estudiar la posibilidad de suscribir un 
+acuerdo con China para llevar a cabo esfuerzos conjuntos, inversión de recursos y 
+negociaciones colaborativas para potenciar el desarrollo astronómico de Chile.
+**********
+Se hace presente que la sesión se realizó en formato mixto; 
+presencial y vía telemática, a través de la plataforma Zoom.
+Las intervenciones y exposiciones de diputadas, diputados y 
+asistentes a esta sesión, en lo pertinente y en lo que no fueren de carácter 
+reservado, constan en un registro de audio y video, en conformidad con lo 
+dispuesto en el inciso primero del artículo 257 del Reglamento de la Corporación1.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a 
+las 19.26 horas.
+JOHN SMOK KAZAZIAN 
+Abogado Secretario de la Comisión
+1 https://www.democraciaenvivo.cl/player.aspx?id=75509

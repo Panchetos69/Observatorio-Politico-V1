@@ -1,0 +1,809 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=15570&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : Soporte Camara de Diputados Chile
+EXTRAIDO : 2026-03-29 04:38:16
+======================================================================
+
+--- PÁGINA 1 ---
+COMISIÓN DE CONSTITUCIÓN, LEGISLACIÓN, JUSTICIA Y REGLAMENTO
+LVI PERÍODO LEGISLATIVO 2022-2026
+Legislatura N° 370
+Sesión 59ª ordinaria mixta, martes 13 de diciembre de 2022, desde 15:08 a
+16:50 horas.
+Continuar con la discusión y votación en   
+particular del proyecto de ley que “Regula la 
+protección y tratamiento de datos personales 
+y crea la Agencia de Protección de Datos 
+Personales”, 
+en 
+segundo 
+trámite 
+constitucional, 
+Boletines 
+refundidos 
+N°s 
+11.144-07 (S) y 11.092-07 (S). Urgencia 
+suma.
+SUMARIO:
+Resumen: se continuó con la votación en particular, despachando los artículos 37 a 41, con 
+modificaciones, y dejando pendiente de votación el artículo 35.
+ASISTENCIA
+Asisten, presencialmente, los siguientes miembros de la Comisión, 
+diputados (as) señores (as) Karol Cariola (Presidenta), Jorge Alessandri, Gustavo 
+Benavente, Miguel Ángel Calisto, Marcos Ilabaca, Pamela Jiles, Raúl Leiva, Andrés 
+Longton, Catalina Pérez, Luis Sánchez, Leonardo Soto y Gonzalo Winter.
+Concurre, en calidad de invitada, la señora Lizzy Seaman, asesora de la 
+División Jurídica – Legislativa del Ministerio Secretaría General de la Presidencia, 
+quien lidera la mesa técnica de asesores parlamentarios y de Gobierno, encargados 
+de elaborar propuestas para el avance del presente proyecto.
+Concurren, en calidad de oyentes y de forma telemática, el señor Bruno 
+Gencarelli, Jefe de la Unidad de Protección y Flujos Internacionales de Datos en la 
+Comisión Europea. la señora Andrea Ruiz, profesora de Derecho Administrativo de 
+la Universidad Alberto Hurtado; el señor Rodrigo Gonzalez, por el Consejo para la 
+Transparencia; el señor Alberto Jara, de la Asociación Gremial de Empresas 
+Fintech; el señor Muriel Sciaraffia, Gerente Gremial, Cámara Nacional de Comercio, 
+Servicios y Turismo; Por la Asociación de Bancos e Instituciones Financieras, la 
+abogada Margarita Olavarría; el señor Marcelo Drago, ex presidente del Consejo 
+para la Transparencia; la señora Romina Garrido Iglesias, Sub Directora de 
+GobLab, Escuela de Negocios de la Universidad Adolfo Ibáñez; Por el Servicio 
+Nacional del Consumidor, María Caatlina Giraudo y Gonzalo Vergara; la señora
+1
+--- PÁGINA 2 ---
+Carolina Cruzat Vega, por la Fiscalía Nacional (Ministerio Público); la señora 
+Macarena Gatica, abogada socia del Estudio Alessandri y académica; y la señora 
+Paulina Silva, por la Cámara Chilena Norteamericana – AMCHAM.
+Está presente, en calidad de abogado secretario, el señor Patricio 
+Velásquez Weisse y el abogado señor Fernando García Leiva; de forma remota la 
+abogada Margarita Risopatrón Lemaître y la secretaria señora Silvia Rivas Mena.
+ACTAS
+Las actas de las sesiones 53, 54 y 55 se dan por aprobadas, por no haber 
+sido objeto de observaciones.
+Las actas de las sesiones 56 y 57 quedan a disposición de los señores y 
+señoras diputadas
+Actas disponibles:  
+ 
+https://www.camara.cl/legislacion/comisiones/sesiones.aspx?prmID=1724
+CUENTA 
+ 
+El señor abogado secretario da cuenta de los documentos llegados a la 
+Comisión:
+1.- Mensaje de S. E. el Presidente de la República por el cual da inicio a la 
+tramitación del proyecto que "Modifica el Código Penal para agravar la pena del 
+delito de secuestro en el caso que indica". BOLETÍN N° 15558-07. (236-370).
+- 
+Se tiene presente.
+2.- Mensaje de S. E. el Presidente de la República por el cual da inicio a la 
+tramitación del proyecto que "Modifica el Código Penal para sancionar la 
+conspiración para cometer el delito de homicidio calificado por premio, promesa 
+remuneratoria o ánimo de lucro". BOLETÍN N° 15559-07. (237-370).
+- 
+Se tiene presente.
+3.- Mensaje de S. E. el Presidente de la República por el cual da inicio a la 
+tramitación del proyecto que "Modifica la ley N°17.798, sobre control de armas, para 
+aumentar la pena del delito de porte de armas en lugares altamente concurridos". 
+BOLETÍN N° 15560-07. (235-370).
+- 
+Se tiene presente.
+2
+--- PÁGINA 3 ---
+4.- Mensaje de S. E. el Presidente de la República por el cual da inicio a la 
+tramitación del proyecto que "Refuerza las competencias de Gendarmería de Chile 
+y crea un delito general de extorsión". BOLETÍN N° 15561-07. (234-370).
+- 
+Se tiene presente.
+5.- Proyecto iniciado en moción de las diputadas señoras Ahumada y 
+Naveillan; y de los diputados señores Araya, don Jaime; Arroyo; Castro; Lee y Pino, 
+que "Modifica la Carta Fundamental para incorporar el estado de excepción 
+constitucional de protección permanente". BOLETÍN N° 15556-07.
+- 
+Se tiene presente.
+6.- Proyecto iniciado en moción de los diputados señores Longton; Becker; 
+Beltrán; Berger; Castro; Mellado, don Miguel; Rathgeb y Schalper; y de las 
+diputadas señoras Cid y Flores, que "Establece una nueva ley sobre conductas 
+terroristas, dispone medidas especiales para su investigación y deroga la ley 
+N°18.314". BOLETÍN N° 15545-07.
+- 
+Se tiene presente.
+7.- Proyecto iniciado en moción de los diputados señores Camaño; Barría; 
+Bernales; Bianchi; Cifuentes; Malla y Ulloa; y de las diputadas señoras Cordero y 
+Pérez, doña Joanna, que "Modifica la Carta Fundamental a fin de agregar el 
+requisito de residencia para ser elegido Presidente de la República o Senador". 
+BOLETÍN N° 15547-07.
+- 
+Se tiene presente.
+8.- Proyecto iniciado en moción de las diputadas señoras Olivera; Bravo, doña 
+Ana María; Concha; Muñoz; Pizarro y Schneider, y de los diputados señores 
+Donoso; Palma y Saffirio, que "Modifica cuerpos legales que indica en materia de 
+inhabilitación perpetua para cargos y empleos en educación o de relación habitual 
+y directa con menores de edad". BOLETÍN N° 15562-07.
+- 
+Se tiene presente.
+9.- Proyecto iniciado en moción de los diputados señores Oyarzo y Barría, 
+que "Modifica la Carta Fundamental para incorporar nuevas causales de cesación 
+en el cargo de diputado o senador". BOLETÍN N° 15564-07.
+- 
+Se tiene presente.
+10.- Proyecto iniciado en moción de los diputados señores Leal; Alessandri; 
+Bórquez; Coloma; Donoso; Labbé; Moreira; Sulantay y Von Mühlenbrock; y de la 
+diputada señora Romero, doña Natalia, que "Modifica el Código Orgánico de 
+Tribunales para otorgar, al juzgado de letras y garantía de Toltén, competencia 
+sobre la comuna de Teodoro Schmidt". BOLETÍN N° 15565-07.
+- 
+Se tiene presente.
+3
+--- PÁGINA 4 ---
+11.- Comunica que la Cámara de Diputados accedió a la solicitud de la 
+Comisión de Constitución, Legislación, Justicia y Reglamento, en orden a fusionar, 
+y en consecuencia tratar conjuntamente, los proyectos de reforma constitucional, 
+iniciados en moción, en primer trámite constitucional, correspondientes a los 
+boletines Nos. 14.862-07, 15.506-07 y 15.549-07.
+- 
+Se tiene presente.
+12.- Oficio de S. E. el Presidente de la República mediante el cual hace 
+presente la urgencia "simple", para el despacho del proyecto que "Establece un 
+nuevo Código Penal". BOLETÍN N° 14795-07. (1037-370).
+- 
+Se tiene presente.
+13.- Carta del diputado Gustavo Benavente, mediante la cual solicita que se 
+someta a votación una declaración de condena al apoyo entregado por la diputada 
+Cariola a la ex Presidenta Cristina Fernández de Kirchner, de manera de demostrar 
+como Comisión el absoluto respeto por las resoluciones judiciales -cualquiera sea-
+, sobre todo tratándose de un tribunal de otro país, por cuanto señala que no 
+corresponde que ninguna autoridad chilena se inmiscuya en asuntos que no le 
+competen.
+- 
+Se tiene presente.
+El diputado señor Benavente, en razón del último punto de la cuenta, 
+correspondiente a una misiva de su autoría, indicó que no le parece correcto las 
+declaraciones de la Presidenta de la Comisión, máxima si se trata de situaciones 
+delicadas que corresponden a competencia de tribunales extranjeros.
+La consigna final de la entrevista a la que alude indica “si nos tocan a una, 
+nos tocan a todas”, y en coherencia con esa posición que dice tener la señorita 
+Presidenta, espera que el día de mañana asista a la sesión de Comisión de 
+Desarrollo Social, oportunidad en que participará la ex seremi Patricia Hidalgo, la 
+que ha sido hostigada notoriamente por el Ministro Jackson.
+Sumado a lo anterior, el diputado señor Alessandri expresa que no son días 
+normales para Latino América. Existe una condena en Argentina que sentencia a 
+la Vicepresidenta Fernández a pena de cárcel de seis años, un golpe de Estado en 
+Perú y una cuña de la Ministra Tohá sobre modificar o cambiar al Congreso 
+Nacional, declaración última que, si bien tiene su contexto, nos recuerda a las 
+declaraciones de la ex Ministra Izkia Siches sobre el Wallmapu.
+Cuando se ostenta el cargo de Presidenta de Comisión y se opina sobre 
+cuestiones propias de tribunales de justicia, se justifica la solicitud que hiciera el 
+diputado Benavente de solicitarle se retracte, porque inviste la calidad de vocera de 
+la Comisión, por lo que sus aseveraciones nos alcanzan a todos los miembros.
+Cree que de esa forma se evita una posible molestia del Presidente de la 
+Corte Suprema Argentina, quien podría cuestionar el porque la Presidenta de la 
+Comisión de Constitución de la Cámara de Diputados de Chile cuestiona la 
+legalidad de su procedimiento judicial.
+4
+--- PÁGINA 5 ---
+El diputado señor Soto cree que lo que la solicitud de la bancada UDI 
+refleja una actitud totalitaria, porque todos tenemos derecho a pensar como 
+queramos, siendo parte de las libertades del ser humano.
+A pesar de no compartir la opinión de la Presidenta de lo que ocurre en 
+Argentina, cree que se debe respetar su opinión.
+La Presidenta sólo representa a la Comisión cuando se está sesionando y 
+mientras esté sentada en su testera. Lo demás, ya es persecución política que 
+pretende limitar su libertad de expresión.
+En respuesta al diputado Soto, el diputado señor Benavente indica que no 
+busca limitar el derecho de opinión de la Presidenta, explicando su posición 
+comparando con el rol de un hincha de un equipo que luego pasa a cumplir labores 
+de dirección con mayor responsabilidad.
+Cree que con estos comentarios de la Presidenta se puede generar 
+molestia en Argentina, por lo que insiste en su postura.
+El diputado señor Winter refiere que la carta del diputado Benavente no se 
+justifica bajo ningún punto de vista.
+En primer lugar, refiere que le gustaría tener los niveles de confianza que 
+han expresado los diputados Benavente y Alessandri en el sistema judicial 
+argentino, porque él no lo tiene.
+En segundo lugar, cree que no se está entendiendo el rol de los 
+parlamentarios. El Congreso Nacional es una institución política, y aquí se llega, 
+principalmente, por las opiniones políticas.
+Es justamente por la necesidad de resolver problemas a través de la política 
+que, la opinión política, la campaña política y la militancia son factores 
+imprescindibles.
+La diputada señorita Cariola (Presidenta), al igual que los demás 
+parlamentarios presentes, tienen una opinión política, y el hecho de que sea 
+presidente no lo inhabilita para expresarlas. No son funcionarios públicos que 
+deben ejercer su rol con neutralidad.
+De ahí que el cargo de presidente sea electo por los propios 
+parlamentarios, y no es una asignación de un funcionario técnico, como sí lo es el 
+cargo de secretario de comisión.
+Siendo así, la carta es una intromisión en la libertad de pensamiento y 
+expresión de una parlamentaria.
+El diputado señor Longton refiere llamarle la atención que el Presidente 
+Boric nada dijo en sus redes sociales sobre la materia, pero cree que la opinión de 
+la máxima autoridad política queda clara cuando el diputado Winter refiere que “le 
+gustaría tener más fe en la justicia argentina”, ya que él normalmente representa la 
+opinión del Presidente de la República, por su cercanía.
+A su juicio, de la intervención que le precedió, el Gobierno no compartiría 
+el hecho de que un tribunal imparcial haya juzgado a una vicepresidenta que, desde 
+hace varios años, está procesada por delitos de corrupción. Siendo así, el silencio 
+del Presidente de la República le causaba muchas sospechas, pero gracias a la
+5
+--- PÁGINA 6 ---
+posición demostrada ahora por el diputado Winter queda claro que ni el Gobierno 
+ni su coalición respaldan la decisión de un tribunal.
+Cree que la opinión de la Presidenta de la Comisión fue desafortunada, 
+porque ella cumple un rol político relevante en la comisión más importante, y 
+cuando existen hechos condenables internacionalmente, es importante que esa 
+condena sea transversal, sea de derecha o de izquierda.
+En respuesta a las alusiones, el diputado señor Winter solicita al señor 
+Longton que se retracte de parte de lo dicho, particularmente cuando se atribuye a 
+sus palabras la posición de un Estado y de un determinado Gobierno o del 
+Presidente de la República, le falta el respeto a su condición de parlamentario.
+Refiere que no es representante de nadie, y no tiene otro cargo más que 
+diputado, electo democráticamente, y exige que eso se respete.
+El diputado señor Leiva cree importante que en las discusiones de temas 
+complejos seamos capaces de separar las funciones que uno ejerce. Cuando uno 
+ostenta un cargo se le atribuyen determinadas responsabilidades y competencias, 
+sobre todo en lo relacionado a las responsabilidades del Presidente de la 
+República, que es quien conduce las relaciones internacionales.
+Cuando al Presidente se le atribuye cierta responsabilidad por lo que dice 
+o no dice, independiente de la legítima opinión política, es injusto que se le atribuya 
+a otra persona (en el caso el diputado señor Winter) un rol de vocero que no le 
+corresponde.
+El diputado señor Ilabaca no comparte la forma en que el diputado 
+Benavente ha expresado su solicitud, pues se estaría utilizando la cuenta para 
+discutir temas que no corresponden a dicha instancia.
+Sobre lo que sucede en Argentina, hay múltiples opiniones y todas son 
+válidas. Ahora, pedirle luego a la Presidenta de la Comisión que se inhiba de 
+manifestar cualquier tipo de opinión no corresponde, porque es diputada y tiene el 
+derecho de decir lo que le plazca, y serán sus votantes quienes luego la evaluarán.
+No es menester de esta Comisión discutir sobre estos asuntos, menos aún 
+cuando se tiene una agenda legislativa pendiente de consideración.
+La diputada señora Jiles entiende que de lo que originalmente se habla es 
+una petición del diputado Benavente de que la Presidenta se retractarse de sus 
+dichos, o de lo contrario que presente su renuncia.  Cree que se critica una opinión 
+o un comportamiento, y no es un ataque a la persona.
+Con todo, cree que es una buena instancia para acordar los 
+comportamientos deseables de un Presidente de Comisión. Habrá quienes, en 
+tanto presidentes de comisiones, decidirán no participar activamente en un proceso 
+electoral, marcar o no casa, declaraciones o no, etc.
+En nuestro Reglamento existe una descripción de comportamientos 
+deseables, y de las actitudes que no, donde existe – en su rol de miembro 
+permanente de la Comisión de Ética – una tendencia a olvidar cuales son las líneas 
+de comportamiento explícitas, más allá de las otorgadas por el buen criterio.
+6
+--- PÁGINA 7 ---
+Firmar una carta que contraviene una decisión judicial extranjera es opinable. 
+El buen o mal criterio político, los intereses detrás de eso, las razones que llevan a 
+firmar esa carta y a nombre de quien, no queda claro, porque lo que dice la firma 
+es simplemente “Karol Cariola”, por lo que no se conoce en qué calidad se firmó.
+Por tanto, cree que se puede aprovechar la oportunidad para unificar 
+criterios.
+El diputado señor Longton acoge parcialmente la solicitud del diputado 
+Winter, porque considera un exceso el atribuirle una representación que no inviste. 
+Con todo, le parece que debería tener un grado mayor de responsabilidad, porque 
+representa a una bancada que es de la coalición del Gobierno. Siendo así, cuando 
+declara no tener fe en la justicia argentina, de alguna manera puede ser 
+representativo bajo su rol de liderazgo.
+El diputado señor Sánchez cree que, sin perjuicio de que el diputado 
+Longton tiene derecho a retractarse, tiene un punto verídico. La cercanía del 
+diputado Winter con el Presidente de la República no debe ser puesta en duda, 
+porque es un hecho cierto.
+Sobre lo que sucede en Argentina, considera que el Presidente Boric ha sido 
+prudente al guardar silencio, y si no va a manifestar su acuerdo con la sentencia 
+judicial es correcto guardar silencio.
+Cree que es buena idea la propuesta de la diputada Jiles, e invita a 
+considerar que reglas o criterios de comportamiento debería tener un presidente de 
+comisión, ya que en ese cargo se tiene una responsabilidad mayor.
+Es un hecho que nuestras declaraciones, por muy políticas que sean, 
+pueden llegar a tener un impacto en las relaciones internacionales, y desde ahí 
+todos deberíamos ser más prudentes, sin pasar a llevar las relaciones diplomáticas 
+con otros Estados, menos poniendo en duda las sentencias judiciales.
+La diputada señorita Cariola (Presidenta), en respuesta a las 
+intervenciones y a la solicitud del diputado Benavente, refiere que el artículo 244 
+del Reglamento de la Cámara de Diputados establece de forma clara las funciones, 
+obligaciones y atribuciones del presidente de comisión. En ese sentido, la única 
+forma de sugerir nuevas conductas es a través de un proyecto de ley.
+Ahora, en ninguna parte del artículo 244 se establece que la comisión puede 
+limitar las posiciones políticas de su presidente o presidenta. Con todo, agradece 
+las opiniones constructivas y las tomará en consideración.
+Indica que siempre se ha caracterizado por tomas sus propias decisiones 
+políticas, y al asumir la presidencia de la comisión lo ha hecho con la máxima 
+responsabilidad, y con apego al reglamento.
+Ha vertido opinión política en otras materias, sobre las cuales se tendrán 
+legítimas diferencias, y no cree que hecho de asumir el cargo implique un límite a 
+emitirlas.
+La carta que firmó es a título personal, tal y como lo hizo hace algunos años 
+atrás en el caso del juicio del ex Presidente Lula (Brasil), y si no consideran que 
+está cumplimiento con las obligaciones del cargo lo invita a utilizar las vías 
+reglamentarias prescritas.
+7
+--- PÁGINA 8 ---
+Por último, y para cerrar el punto, el diputado señor Calisto invita a cuidar 
+las formas. Las opiniones políticas no son elementos para generar la cancelación 
+de la opinión.
+Si es que se configuran elementos para solicitar censura, tiene que estar 
+sujetos a argumentos sólidos y no por una mera opinión de la contingencia.
+ACUERDOS 
+ 
+Durante la sesión, la Comisión acordó, por unanimidad, suspender la 
+votación del artículo 35 del proyecto de ley hasta la próxima sesión.
+----
+ORDEN DEL DÍA
+Boletines refundidos N°S 11.144-07 (S) Y 11.092-07 (S). 
+“Proyecto de ley que regula la “protección y tratamiento de datos personales y
+crea la Agencia de Protección de Datos Personales”
+Ver oficio de ley; comparado de indicaciones; comparado de 
+observaciones.
+Indicación del Ejecutivo (04.10.2022) 
+Indicación del Ejecutivo (21.11.2022)
+VOTACIÓN EN PARTICULAR
+ARTÍCULO PRIMERO, continuación del Numeral 12)
+Artículo 35
+“Artículo 35.- Sanciones. Las sanciones a las infracciones en que incurran los 
+responsables de datos serán las siguientes:
+a) Las infracciones leves serán sancionadas con amonestación escrita o multa de
+1 a 100 unidades tributarias mensuales. 
+ 
+b) Las infracciones graves serán sancionadas con multa de 101 a 5.000 unidades
+tributarias mensuales. 
+ 
+c) Las infracciones gravísimas serán sancionadas con multa de 5.001 a 10.000
+unidades tributarias mensuales.
+En cada caso, la Agencia señalará las medidas tendientes a subsanar las 
+causales que dieron motivo a la sanción, las que deberán ser adoptadas en un 
+plazo no mayor a 60 días, de lo contrario se impondrá un recargo de 50% a la multa 
+cursada, sin perjuicio de lo establecido en el artículo 51. En caso de que exista
+8
+--- PÁGINA 9 ---
+reincidencia, de conformidad al literal a) del inciso segundo del artículo 36, la 
+Agencia podrá aplicar una multa de hasta tres veces el monto asignado a la 
+infracción cometida”.
+Iniciando el orden del día, la diputada señorita Cariola (Presidenta), 
+recuerda que ha queda pendiente de votación el artículo 35 del proyecto de ley, 
+sobre el cuál la comisión técnica ha solicitado suspender su votación hasta la 
+próxima sesión. 
+ 
+ 
+La señora Semana refiere que en la mesa no existe acuerdo respecto de la 
+votación del artículo 35, y que entiende que los asesores de algunos diputados de 
+oposición tenían la expectativa de presentar una indicación.
+Los diputados señores Soto y Longton, en conocimiento de dicha solicitud, 
+manifestaron la conveniencia de someterlo en votación en esta misma sesión, pero 
+que en el reconocimiento de la buena fe a la base de la cuál funciona la comisión 
+técnica de asesores de los parlamentarios y del Ejecutivo, no tendrían 
+inconveniente en suspender su votación hasta la próxima sesión.
+El diputado señor Soto hizo especial hincapié en la importancia del artículo 
+que versa sobre sanciones, porque se debe tomar la decisión si se castigará al 
+infractor con penas que representan porcentajes de sus utilidades, como se hace 
+en los países más desarrollados en la protección de datos personales, o sólo con 
+multas, las que muchas veces representan solo una pequeña parte del patrimonio 
+de las grandes empresas que hacen mal uso de estos datos.
+En la misma línea, el diputado señor Sánchez agregó que la solicitud de 
+suspensión tiene su fuente en la intención de su coalición de ingresar una indicación 
+al artículo 35, por lo que solicita acceder a la solicitud formulada. 
+ 
+ 
+Finalmente, sobre este punto, la presidenta Cariola en uso de sus 
+facultades de dirección del debate, accede a la solicitud de suspensión de la 
+votación del artículo 35, sobre el cuál se volverá en la próxima sesión, solicitando 
+el acuerdo.
+- 
+Se acuerda por la unanimidad. Consistieron lo(a)s diputado(a)s 
+señore(a)s Karol Cariola (Presidenta), Gustavo Benavente, Miguel Ángel 
+Calisto, Raúl Leiva, Catalina Pérez, Andrés Longton, Luis Sánchez y 
+Leonardo Soto (8-0-0).
+9
+--- PÁGINA 10 ---
+Artículo 37 
+ 
+“Artículo 37.- Determinación del monto de las multas. Para la determinación del 
+monto de las multas señaladas en esta ley, la Agencia deberá aplicar 
+prudencialmente los siguientes criterios:
+1. La gravedad de la conducta.
+2. Si la conducta fue realizada con falta de diligencia o cuidado en aquellos casos
+que no se consideran estos elementos en la configuración de la infracción.
+3. El perjuicio producido con motivo de la infracción, especialmente el número de
+titulares de datos que se vieron afectados.
+4. El beneficio económico obtenido con motivo de la infracción, en caso de que lo
+hubiese.
+5. Si el tratamiento realizado incluye datos personales sensibles o datos
+personales de niños, niñas y adolescentes.
+6.  La capacidad económica del infractor.
+7.  Las sanciones aplicadas con anterioridad por la Agencia en las mismas
+circunstancias.
+8.  Las circunstancias atenuantes y agravantes que concurran.
+En caso de que una conducta dé origen a dos o más infracciones, o cuando una 
+infracción sea medio para cometer otra, se impondrá una sola multa, considerando 
+siempre la gravedad de la infracción más grave. En caso de que se verifiquen dos 
+o más conductas infraccionales, independientes entre sí, se acumularán las 
+sanciones correspondientes a cada una de ellas.
+Las multas deberán ser pagadas en la Tesorería General de la República, a 
+través de los medios presenciales o digitales que ella disponga, dentro del plazo de 
+diez días hábiles contado desde que la resolución de la Agencia se encuentre firme. 
+El comprobante de pago correspondiente deberá ser presentado a la Agencia 
+dentro del plazo de diez días hábiles contados desde que se hubiere efectuado el 
+pago”.
+Al artículo 37, se ingresó la siguiente indicación (en sesión de hoy): 
+ 
+- 
+Indicación del diputado Benavente, al numeral 3° del artículo 37, para 
+remplazarlo por el siguiente: “3. El número de titulares de datos que se vieron 
+afectados”.
+10
+--- PÁGINA 11 ---
+El diputado señor Benavente ha ingresado una indicación al numeral 3° del 
+artículo en debate, debido a que considera que la actual redacción no es adecuada 
+y no es consistente con las facultades que tendrá la Agencia. En efecto, cree que 
+no puede tomarse como base para la determinación del monto de la multa el 
+“perjuicio producido con motivo de la infracción”, toda vez que esa materia será 
+resuelta en sede judicial con posteridad a la infracción, a través de una sentencia 
+judicial, que es la instancia competente. 
+ 
+ 
+Secunda la misma observación el diputado señor Sánchez, quien además 
+cree que, si se aprueba el numeral tercero, así como está, puede provocar un riesgo 
+real muy complejo para la judicatura, ya que con la multa que imponga la Agencia 
+o el órgano controlador, se estaría anticipando una evaluación de daños o 
+perjuicios, que seguramente será utilizado como un antecedente en la causa civil 
+donde se discuta el perjuicio. 
+ 
+Por último, indico que el último numeral (octavo) indica circunstancias 
+atenuantes o agravantes, y recuerda que el proyecto no las incorpora. 
+ 
+ 
+Sobre la última observación del diputado Sánchez, Secretaría de la Comisión 
+aclaró que las circunstancias atenuantes o agravantes están incorporadas en el 
+artículo 36 del proyecto. 
+ 
+ 
+El diputado señor Soto defendió los numerales del artículo 37 que propone 
+el proyecto, ya que son de máxima relevancia para fijar las multas.  
+ 
+Aclara también al diputado Sánchez que el artículo 36 establece 5 
+circunstancias agravantes y 3 atenuantes. 
+ 
+Por último, cree que estos numerales constituyen parámetros muy útiles para 
+el trabajo de control de la Agencia. Si el controlado no esta confirme con los 
+argumentos que se pueda dar, tienen su derecho a recurrir a los tribunales. 
+ 
+ 
+La señora Seaman refiere no estar en acuerdo con la indicación del diputado 
+Benavente. Agregó también que efectivamente las circunstancias atenuantes y 
+agravantes están reguladas en el artículo 36 del proyecto de ley. 
+ 
+ 
+Por último, el diputado señor Longton expresó su preocupación por las 
+facultades de la Agencia, ya que se le trata como si tuviera estatuto de 
+superintendencia, en circunstancias que no lo es. A raíz de aquello, pregunta cómo 
+funcionará en la práctica. 
+ 
+ 
+ 
+Frente a las consultas, la señora Seaman respondió que estamos frente a 
+una norma necesaria para resguardar el criterio de proporcionalidad de las multas, 
+particularmente el del numeral tercero, y así se ha establecido a través de la 
+jurisprudencia el propio Tribunal Constitucional. 
+ 
+Además, hace presente que las reglas que se expresan son para multas, y 
+no la indemnización de perjuicios de los afectados, lo que será determinado por 
+tribunales.
+11
+--- PÁGINA 12 ---
+En el mismo sentido, el beneficio económico o perjuicio producido por la 
+infracción es una regla que los organismos que imponen multas, por regla general, 
+disponen. 
+ 
+Ahora, en respuesta a la consulta del diputado Longton, expresó que no es 
+necesario que sea una superintendencia para contar con esas atribuciones. Lo 
+hace el Consejo para el Mercado Financiero, y no tiene naturaleza jurídica de 
+superintendencia, pero se trata de organismos que regulan y fiscalizan actividades 
+relevantes y que requieren de una protección especial en consideración a los 
+derechos de los particulares. 
+ 
+Sumado a lo anterior, y tal como lo hace Sernac, la Agencia tendrá la facultad 
+de dictar normas de carácter general o directivas que establezcan criterios de 
+aplicación de las sanciones. Al respecto, el numeral 7° del artículo dispone una 
+suerte de criterio vinculante. 
+ 
+ 
+Sometida a votación la indicación del diputado Benavente, que sustituye el 
+numeral 3° del artículo 37, resultó rechazada. Votaron a favor de la indicación los 
+diputados señores Gustavo Benavente y Luis Sánchez. En contra, lo(a)s 
+diputado(a)s señore(a)s Karol Cariola (presidenta), Marcos Ilabaca, Catalina Pérez, 
+Leonardo Soto y Miguel Ángel Calisto. Se abstiene el diputado Andrés Longton (2-
+5-1) 
+ 
+ 
+Fundó su voto en contra el diputado señor Longton, a quien le pareció que 
+cuando se provoca un perjuicio en contra de un particular por la vulneración de las 
+reglas de protección de datos personales, a la autoridad no le puede parecer 
+irrelevante el número de afectados y el perjuicio.  
+ 
+Eliminar el factor perjuicio es un error, porque se desprotege a la gente. 
+ 
+ 
+Sometido a votación el artículo 37, resultó aprobado. Votaron a favor lo(a)s 
+diputado(a)s señore(a)s Karol Cariola (presidenta), Miguel Ángel Calisto, Marcos 
+Ilabaca, Catalina Pérez, Andrés Longton y Leonardo Soto. Se Abstuvieron los 
+diputados señores Gustavo Benavente y Luis Sánchez (6-0-2)
+Artículo 38
+“Artículo 38.- Sanciones accesorias. En caso que se impongan multas por 
+infracciones gravísimas reiteradas, en un período de veinticuatro meses, la Agencia 
+podrá disponer la suspensión de las operaciones y actividades de tratamiento de 
+datos que realiza el responsable de datos, hasta por un término de treinta días.
+Durante este período el responsable deberá adoptar las medidas necesarias con 
+el objeto de adecuar sus operaciones y actividades a las exigencias dispuestas en 
+la resolución que ordenó la suspensión.
+Si el responsable no da cumplimiento a lo dispuesto en la resolución de 
+suspensión temporal, esta medida se podrá prorrogar indefinidamente, por
+12
+--- PÁGINA 13 ---
+períodos sucesivos de treinta días, hasta que el responsable cumpla con lo 
+ordenado.
+Cuando la suspensión afecte a una entidad sujeta a supervisión por parte de un 
+organismo público de carácter fiscalizador, la Agencia deberá previamente poner 
+los antecedentes en conocimiento de la autoridad regulatoria correspondiente, para 
+los efectos de cautelar los derechos de los usuarios de dicha entidad”.
+Se presentaron las siguientes indicaciones al artículo 38:
+- Del Ejecutivo (6/06/2022): 
+29) Para modificar el inciso primero del artículo 38 de su numeral 12) en el 
+siguiente sentido:
+a) Agrégase, a continuación del punto aparte, que pasa a ser seguido, la frase: 
+“Esta suspensión no afectará el almacenamiento de datos por parte del 
+responsable.”.
+b) Agrégase el siguiente inciso segundo, nuevo:
+“La suspensión que disponga la Agencia como sanción accesoria podrá ser 
+parcial o total, y no podrá decretarse cuando con ello se afecten los derechos de 
+los titulares.”.
+- De los diputados Leonardo Soto y Calisto:
+En el numeral 12) que intercala los Títulos VI, VII y VIII, nuevos, en el artículo 
+38 propuesto, en su inciso tercero, para agregar a continuación de la frase “por 
+períodos sucesivos de” la expresión “máximo”. 
+ 
+ 
+Ofrecida la palabra al Ejecutivo, la señora Seaman indicó que la redacción 
+del artículo 38 que viene del Senado obligaría a los responsables de datos eliminar 
+los datos bloqueados, lo que es contradictorio con un bloqueo temporal, porque 
+además será muy costoso recuperarlos y puede, inclusive, vulnerar los derechos 
+del titular. 
+ 
+De ahí que, cuando sólo se suspenda el tratamiento de datos, no se involucre 
+el almacenamiento, pero si todo lo demás. 
+ 
+ 
+Sometida a votación el inciso primero del artículo 38, en conjunto con las 
+indicaciones del Ejecutivo a dicho inciso, resultaron aprobadas por unanimidad. 
+Consintieron los diputados señores Karol Cariola (presidenta), Gustavo Benavente, 
+Miguel Ángel Calisto, Marcos Ilabaca, Catalina Pérez, Andrés Longton, Luis 
+Sánchez y Leonardo Soto (8-0-0). 
+ 
+ 
+El diputado señor Soto, respecto a la indicación de su autoría, indicó que 
+aclara un poco más la norma que viene en el inciso tercero del artículo 38, y que 
+se pone en el caso de que el responsable no cumple con su suspensión temporal, 
+permitiendo a la Agencia realizar suspensiones menores a 30 días.
+13
+--- PÁGINA 14 ---
+La señora Seaman, sobre lo mismo, refiere que la indicación armoniza el 
+inciso cuarto con el actual inciso tercero, buscando proporcionalidad en la 
+infracción. Si el responsable de datos se adecúa a lo indicado por la Agencia, la 
+suspensión podría ser menor a 30 días. 
+ 
+ 
+Sometido a votación el inciso segundo (que pasó a ser tercero), el tercero 
+(que pasó a ser cuarto) y final, en conjunto con la indicación de los diputados Soto 
+y Calisto, resulto aprobada por unanimidad. Consintieron los diputados señores 
+Karol Cariola (presidenta), Gustavo Benavente, Marcos Ilabaca, Catalina Pérez, 
+Andrés Longton, Luis Sánchez y Leonardo Soto (7-0-0).
+Artículo 39
+“Artículo 39.- Registro Nacional de Cumplimiento y Sanciones. Créase el 
+Registro Nacional de Cumplimiento y Sanciones, administrado por la Agencia. El 
+registro será público y su acceso gratuito. Se consultará y llevará en forma 
+electrónica.
+En este registro se deberán consignar a los responsables de datos que hayan 
+sido sancionados por infringir los principios y obligaciones establecidos en esta ley, 
+distinguiéndose según la gravedad de la infracción. Adicionalmente, se deberá 
+consignar la conducta infraccionada, las circunstancias atenuantes y agravantes de 
+responsabilidad y la sanción impuesta. También se deberá consignar, los 
+responsables que adopten modelos certificados de prevención de infracciones y a 
+aquellos a quienes se les haya revocado la certificación.
+Las anotaciones en el registro serán de acceso público por el período de cinco 
+años, a contar de la fecha en que se practicó la anotación”.
+Al artículo 39, se presentaron las siguientes indicaciones:
+- Del diputado Luis Sánchez:  
+Sustitúyase el artículo 39 por el siguiente:  
+ 
+“Artículo 39.- Registro Nacional de Sanciones y Cumplimiento. Créase el 
+Registro Nacional de Sanciones y Cumplimiento, administrado por la Agencia. El 
+registro será público y su acceso gratuito. Se consultará y llevará en forma 
+electrónica.
+En este registro se deberán consignar a los responsables de datos que hayan 
+sido sancionados por infringir los derechos y obligaciones establecidos en esta ley, 
+distinguiéndose según la gravedad de la infracción. Adicionalmente, se deberá 
+consignar la conducta infraccionada, las circunstancias atenuantes y agravantes de 
+responsabilidad y la sanción impuesta. También se deberá consignar, los 
+responsables que adopten modelos certificados de prevención de infracciones, con 
+carácter vigente.
+14
+--- PÁGINA 15 ---
+Las anotaciones en el registro serán de acceso público por el período de cinco 
+años, a contar de la fecha en que se practicó la anotación”.
+- De los diputados Leonardo Soto y Calisto: 
+En el numeral 12) que intercala los Títulos VI, VII y VIII, nuevos, en el artículo 39 
+propuesto, en su inciso segundo, frase final, para suprimir la coma que está a 
+continuación de la palabra “consignar”.
+- Del Ejecutivo: 
+Para eliminar en el inciso segundo del artículo 39 de su numeral 12) la expresión 
+“y a aquellos a quienes se les haya revocado la certificación” [indicación 7 del 
+comparado].
+Sobre la indicación del diputado señor Sánchez, la señora Seaman informa 
+que existe un acuerdo para su aprobación por parte de la comisión técnica, porque 
+considera las indicaciones del diputado Soto y del propio Ejecutivo. Nuevamente 
+creen que es un desincentivo que la revocación se encuentre consignada en el 
+registro público, pudiendo ser suficiente que en el registro sólo estén los que si se 
+encuentran certificados.
+Sometido a votación la indicación del diputado Sánchez, que remplaza en 
+su totalidad al artículo 39, es aprobada por unanimidad. Votaron a favor los 
+diputados señores Karol Cariola (Presidenta), Gustavo Benavente, Miguel Ángel 
+Calisto, Marcos Ilabaca, Catalina Pérez, Andrés Longton, Luis Sánchez y Leonardo 
+Soto (8-0-0). 
+ 
+ 
+Por consiguiente, el artículo 39 propuesto por el proyecto más la indicación 
+de los diputados Soto y Calisto y la indicación del Ejecutivo, se entienden 
+rechazadas por ser incompatibles con el texto aprobado.
+Artículo 40
+“Artículo 40.- Prescripción. Las acciones para perseguir la responsabilidad por 
+las infracciones previstas en esta ley prescriben en el plazo de cuatro años, contado 
+desde la ocurrencia del hecho que originó la infracción.
+En caso de infracciones continuadas, el plazo de prescripción de las referidas 
+acciones se contará desde el día en que la infracción haya cesado.
+Se interrumpe la prescripción con la notificación del inicio del procedimiento 
+administrativo correspondiente.
+Las sanciones que se impongan por una infracción a la presente ley prescriben 
+en el plazo de tres años, contado desde la fecha en que la resolución que impone 
+la sanción quede ejecutoriada”.
+15
+--- PÁGINA 16 ---
+El artículo 40 cuenta con las siguientes indicaciones:
+- Del diputado Luis Sánchez:  
+ 
+1.- Intercálese en el inciso segundo del artículo 40, entre la expresión “que la” la 
+palabra “infracción”, la palabra “última” [retirada]
+2.- Sustitúyase en el inciso segundo la frase “En caso de infracciones 
+continuadas,” por “En caso de una infracción continuada” [ingresada en sesión de 
+hoy].
+La señora Seaman refiere que en la mesa técnica no existió acuerdo con la 
+indicación que hiciere el diputado Sánchez, porque ellos entienden que en el caso 
+de infracciones continuadas existe sólo una infracción prolongada en el tiempo, y 
+no es correcto hablar de última infracción. 
+ 
+ 
+El diputado señor Sánchez propone entonces hablar de una infracción 
+continuada, y no infracciones continuadas. Frente a esa propuesta, el Ejecutivo -  a 
+través de la señora Seaman-, no está de acuerdo. Si fuera por ello, debería 
+modificarse el inciso primero también, pero insiste en que es una sola infracción. 
+ 
+ 
+El diputado señor Soto está de acuerdo con la respuesta del Ejecutivo, ya 
+que las infracciones continuadas no admiten división. En cuanto a su pluralidad, 
+también cree que debería hablarse de “infracciones”.
+Sometida a votación la indicación del diputado Sánchez que sustituye 
+parcialmente el inciso segundo del artículo 40, es rechazada. Votaron a favor de la 
+indicación los diputados Gustavo Benavente, Andrés Longton y Luis Sánchez. 
+Votaron en contra lo(a)s diputado(a)s señore(a)s Karol Cariola (Presidenta), Miguel 
+Ángel Calisto, Marcos Ilabaca, Catalina Pérez y Leonardo Soto (3-5-0).
+Sometido a votación el artículo 40, resultó aprobado. Votaron a favor lo(a)s 
+diputado(a)s señore(a)s Karol Cariola (Presidenta), Gustavo Benavente, Miguel 
+Ángel Calisto, Marcos Ilabaca, Catalina Pérez, Andrés Longton, Leonardo Soto. Se 
+abstuvo el diputado señor Luis Sánchez.
+Artículo 41 
+Párrafo Segundo 
+De los procedimientos administrativos
+16
+--- PÁGINA 17 ---
+Artículo 41.- Procedimiento administrativo de tutela de derechos. El titular de 
+datos podrá reclamar ante la Agencia cuando el responsable le haya denegado una 
+solicitud realizada de conformidad al artículo 11 de la presente ley, o no hubiere 
+dado respuesta a dicha solicitud dentro del plazo legal establecido en ese artículo.
+La reclamación presentada se tramitará conforme a las siguientes reglas: 
+ 
+a) Deberá ser presentada por escrito, en formato físico o electrónico dentro del 
+plazo de quince días hábiles contado desde que reciba la respuesta negativa del 
+responsable de datos o haya vencido el plazo que disponía el responsable para 
+responder el requerimiento formulado por el titular. La reclamación deberá señalar 
+la decisión impugnada en caso de rechazo u omisión de respuesta y acompañar 
+todos los antecedentes en que aquella se funda e indicar un domicilio postal o una 
+dirección deagregué correo electrónico u otro medio electrónico equivalente donde 
+se practicarán las notificaciones.
+b) Junto con la interposición del reclamo, a petición fundada del titular y sólo en 
+casos justificados, la Agencia podrá suspender el tratamiento de los datos 
+personales que conciernen al titular y que son objeto de la reclamación, debiendo 
+previamente oír al responsable de datos.
+c) Recibido el reclamo, la Agencia, dentro de los diez días hábiles siguientes, 
+deberá determinar si éste cumple con los requisitos establecidos en la letra anterior 
+para ser acogido a tramitación. En caso de que no se acoja a trámite la reclamación, 
+la resolución de la Agencia debe ser fundada y se notificará al titular. En todo caso, 
+se entenderá acogido a tramitación el reclamo si la Agencia no se pronuncia en el 
+término indicado precedentemente.
+d) Acogido el reclamo a tramitación, la Agencia notificará al responsable de datos, 
+quien dispondrá de un plazo de 15 días hábiles para responder la reclamación, 
+acompañando todos los antecedentes que estime pertinentes. Las notificaciones 
+que se practiquen al responsable se realizarán a su domicilio postal, dirección de 
+correo electrónico u otro medio electrónico equivalente a que alude la letra c) del 
+artículo 14 ter.
+e) Vencido este plazo, haya o no contestado el responsable de los datos y, sólo 
+si existen hechos sustanciales, pertinentes y controvertidos, la Agencia podrá abrir 
+un término probatorio de diez días hábiles en el cual las partes pueden hacer valer 
+todos los medios de prueba que estimen convenientes.
+f) El responsable de datos en su respuesta podrá allanarse a la reclamación, en 
+cuyo caso deberá acompañar los antecedentes o testimonios que acrediten esta 
+circunstancia. Verificado lo anterior y notificado el titular de datos, la Agencia 
+procederá al archivo de los antecedentes, previa aplicación de la sanción, cuando 
+correspondiere.
+g) La Agencia tendrá amplias facultades para solicitar antecedentes o informes 
+que contribuyan a su resolución. Podrá convocar a las partes a una audiencia e
+17
+--- PÁGINA 18 ---
+instarlas a alcanzar un acuerdo. Las opiniones que puedan expresar los 
+funcionarios de la Agencia en esta audiencia, no los inhabilitará para seguir 
+conociendo del asunto en caso que no se alcance un acuerdo. Logrado el acuerdo 
+se archivarán los antecedentes.
+h) La resolución del reclamo deberá dictarse por la Agencia y deberá ser fundada. 
+El procedimiento administrativo de tutela de derechos no podrá superar los seis 
+meses.
+i) La resolución de la Agencia que no acoge a tramitación un reclamo y la 
+resolución que resuelve la reclamación, podrán ser impugnadas judicialmente 
+dentro del plazo de quince días hábiles contados desde su notificación, a través del 
+procedimiento establecido en el artículo 43.
+Las reclamaciones y las solicitudes de suspensión del tratamiento formuladas en 
+caso de rechazo de una solicitud de bloqueo temporal, deberán ser resueltas por la 
+Agencia en el más breve plazo, sin necesidad de oír previamente a las partes”.
+El artículo 41 recibió las siguientes indicaciones: 
+ 
+- De los diputados Leonardo Soto y Calisto: 
+En el numeral 12) que intercala los Títulos VI, VII y VIII, nuevos, en el artículo 41 
+propuesto para reemplazar la expresión “deagregué” por la palabra “de”.
+- De los diputados Leonardo Soto y Calisto: 
+En el numeral 12) que intercala los Títulos VI, VII y VIII, nuevos, en el artículo 41 
+propuesto, en su letra f) para reemplazar su frase final por la siguiente: “Verificado 
+lo anterior, será notificado el titular de datos quien tendrá 10 días para hacer valer 
+sus derechos. Cumplido el plazo, la Agencia procederá al archivo de los 
+antecedentes, previa aplicación de la sanción y/o instrucción al responsable de 
+datos, cuando correspondiere”.
+- Del diputado señor Longton, al inciso final del artículo 41 para sustituir la 
+frase “En el más breve plazo” por la siguiente: “En el plazo máximo de tres días 
+hábiles”.
+El diputado señor Soto defiende sus indicaciones, indicando que la primera 
+es de redacción, y que la segunda precisa la citación producida con el allanamiento 
+o aceptación de la demanda, exigiendo que se le informe al titular de datos, 
+otorgando 10 días adicionales.
+La señora Seaman indica que la norma resguarda la bilateralidad de la 
+audiencia, cuando el titular quiera realizar algún allanamiento.
+El diputado señor Longton cree que no establecer un plazo determinado, 
+genera discrecionalidad, por lo que hay que agregarle uno determinado.
+18
+--- PÁGINA 19 ---
+La señora Seaman estima útil la imposición de un plazo, y que debería ser 
+breve, proponiendo 3 días
+Sometido a votación el artículo 41 con todas las indicaciones de los 
+diputados señores Soto, Calisto y Longton, es aprobado por unanimidad. Votaron 
+a favor los señores diputados Karol Cariola (Presidenta), Gustavo Benavente, 
+Miguel Ángel Calisto, Marcos Ilabaca, Andrés Longton, Luis Sánchez y Leonardo 
+Soto (7-0-0).
+****** 
+ 
+Las intervenciones quedaron en registro de audio en la Secretaría de la 
+Comisión. 
+Registro 
+audiovisual 
+de 
+la 
+sesión 
+puede 
+obtenerse 
+en 
+http://www.democraciaenvivo.cl/ y en
+http://www.cdtv.cl/Programa.aspx?idPrograma=46. 
+ 
+Por haberse cumplido con su objeto, siendo las 16:50 horas, la Presidenta 
+levantó la sesión.
+PVW/FGL
+19

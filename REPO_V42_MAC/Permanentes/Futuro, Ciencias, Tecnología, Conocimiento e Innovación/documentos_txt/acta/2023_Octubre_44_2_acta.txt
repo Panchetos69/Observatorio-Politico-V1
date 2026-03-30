@@ -1,0 +1,666 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=11931&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:35:48
+======================================================================
+
+--- PÁGINA 1 ---
+COMISIÓN DE FUTURO, CIENCIAS, TECNOLOGÍA,
+CONOCIMIENTO E INNOVACIÓN
+LEGISLATURA 371ª
+ACTA DE LA 44ª SESIÓN, ESPECIAL,  
+CELEBRADA EN LUNES 23 DE OCTUBRE DE 2023, DE 15.08 A 16.56 HORAS.
+SUMA
+Exposiciones 
+en 
+relación 
+con 
+el 
+proyecto de ley, originado en moción, 
+que regula los sistemas de inteligencia 
+artificial, la robótica y las tecnologías 
+conexas, en sus distintos ámbitos de 
+aplicación, 
+boletín 
+N°15.869-19, 
+en 
+primer trámite constitucional y primero 
+reglamentario.
+Presidieron accidentalmente la sesión la diputada señora Paula 
+Labra Besserer y el diputado señor Tomás Lagomarsino Guzmán.
+Actuó, en calidad de Abogado Secretario el señor John Smok 
+Kazazian, como abogada ayudante, la señorita Elizabeth Cangas Shand, y como 
+secretaria ejecutiva, la señora María Alejandra Fernández Troncoso.
+I. 
+ASISTENCIA
+Asistieron, de manera presencial, los diputados integrantes 
+señores Rubén Oyarzo Figueroa, Eric Aedo Jeldres, las diputadas Daniela 
+Serrano y Helia Molina Milman, y los ya mencionados presidentes accidentales de 
+la Comisión diputado Tomás Lagomarsino Guzmán y diputada Paula Labra 
+Besserer.
+Participaron en reemplazo el diputado Cristhian Moreira Barros por 
+el diputado Daniel Lilayu Vivanco, el diputado Sergio Bobadilla Muñoz por la 
+diputada Marta Bravo Salinas y el diputado Miguel Ángel Calisto Águila por la 
+diputada Erika Olivera De La Fuente.
+Participaron, en calidad de invitados, el señor Pablo Trigo 
+Kramcsák, del Centro de Estudios en Derecho Informático (CEDI) de la 
+Universidad de Chile; el señor Matías Concha Bidegain, Mentor pro bono para 
+High-Tech Startup en Startup Chile, y la señora Constanza Pasarin, Asociada del 
+Grupo Compliance Tech de Albagli Zaliasnik.
+Firmado por John Alexander Smok
+Kazazian
+Fecha 08/11/2023 12:28:43 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 7BF00C67171D6E21
+--- PÁGINA 2 ---
+2
+II. 
+ACTAS
+El acta se la sesión 42ª se dio por aprobada, por no haber sido 
+objeto de observaciones.
+El acta de la sesión 43a se puso a disposición de los diputados y 
+diputadas integrantes de la Comisión.
+III. 
+CUENTA
+El Secretario Abogado informó que se recibieron los siguientes 
+documentos para la cuenta:
+1. Oficio 18.915 del Secretario General de la Corporación, 
+mediante el cual comunica que la sala tomó conocimiento de la nota enviada por 
+la diputada Paula Labra Besserer, mediante la cual informa que ha decidido retirar 
+su firma del proyecto de ley que establece la paridad de género en la adjudicación 
+de proyectos de investigación y otorgamiento de becas en las áreas de Ciencias, 
+Tecnología, Ingenierías y Matemáticas, correspondiente al boletín N°15.264-19.
+- Se tomó conocimiento.
+2.- Nota del Jefe de Bancada del partido Unión Demócrata 
+Independiente por la cual informa que en la Comisión de Futuro, Ciencias, 
+Tecnología, Conocimiento e Innovación el diputado Cristhian Moreira Barros 
+reemplazará al diputado Daniel Lilayu Vivanco en la sesión del día 23 de octubre 
+de 2023.
+- Se tuvo presente.
+3.- Nota del Jefe de Bancada del partido Unión Demócrata 
+Independiente por la cual informa que en la Comisión de Futuro, Ciencias, 
+Tecnología, Conocimiento e Innovación el diputado Sergio Bobadilla reemplazará 
+a la diputada Marta Bravo en la sesión del día 23 de octubre de 2023.
+- Se tuvo presente.
+4.- Nota de la Jefa del Comité Comité Partido de la Gente, 
+Demócratas e Independientes por la cual informa que en la Comisión de Futuro, 
+Ciencias, Tecnología, Conocimiento e Innovación el diputado Miguel Ángel Calisto 
+Águila reemplazará a la diputada Erika Olivera De La Fuente en la sesión del 23 
+de octubre de 2023.
+- Se tuvo presente.
+5.- Comunicación de la diputada señora Labra por la cual informa 
+que retira su patrocinio al proyecto que "Establece la paridad de género en la 
+adjudicación de proyectos de investigación y otorgamiento de becas en las áreas 
+de Ciencias, Tecnología, Ingenierías y Matemáticas". BOLETÍN N°15.264-19.
+- Se tomó conocimiento.
+--- PÁGINA 3 ---
+3
+6.- Correo de la señora Catherine Muñoz, abogada, máster en 
+Derecho Internacional, consultora legislativa y en diseño de políticas públicas en 
+materia de tecnología, innovación e inversiones en Latinoamérica. Directora de la 
+ONG Optia y socia de la consultora Idonea, miembro del Global AI Ethics 
+Consortium y colaboro en el Núcleo Milenio FAIR. Trabaja desde hace más de 14 
+años en materias relacionadas con regulación de tecnologías y en particular en los 
+últimos años en materia de inteligencia artificial. Solicita ser recibida en audiencia 
+a fin de presentar sus puntos de vista sobre el proyecto de ley que regula la IA, en 
+particular, desde la perspectiva de la discriminación algorítmica y cómo debiera 
+relacionarse con otros cuerpos normativos, y para explicar el contexto social y 
+jurídico de la discriminación algorítmica en el derecho comparado. Adjunta su CV y 
+documentos de su autoría relacionados con esta temática.
+- Se tuvo presente y se adoptó el acuerdo que se consigna al final 
+de esta acta.
+IV. 
+ORDEN DEL DÍA
+Exposiciones en relación con el proyecto de ley, originado en 
+moción, que regula los sistemas de inteligencia artificial, la 
+robótica y las tecnologías conexas, en sus distintos ámbitos 
+de 
+aplicación, 
+boletín 
+N°15.869-19, 
+en 
+primer 
+trámite 
+constitucional y primero reglamentario.
+El señor Pablo Trigo Kramcsák, del Centro de Estudios en 
+Derecho Informático (CEDI) de la Universidad de Chile, sobre la base de la 
+siguiente presentación VER , tras una breve presentación de su experiencia 
+profesional, se refirió a la moción en estudio y reflexionó sobre las razones que 
+justifican regular la IA.
+Señaló que los sistemas de IA permiten realizar tareas complejas 
+en una fracción de tiempo; prometen resultados uniformes y fiables; procesan 
+grandes cantidades de datos de forma eficiente; complementan los procesos 
+humanos de toma de decisiones; identifican relaciones no evidentes y, en general, 
+facilitan la realización de muchas tareas. Por otra parte, como se ha mencionado 
+durante la discusión, presentan también riesgos, ya sea para la seguridad de 
+consumidores y usuarios y, eventualmente, en el ejercicio de los derechos 
+fundamentales.
+En ese sentido, los sistemas de IA conducen a ciertas 
+interrogantes en relación con la suficiencia de los distintos marcos regulatorios 
+aplicables. Una primera respuesta que se ha dado en foros internacionales ha sido 
+la “etificación”, es decir, la proliferación de principios que buscan abordar los 
+desafíos de esta tecnología. El problema de la discusión de estos principios éticos 
+es que muchos de ellos son impulsados por la propia industria, con ausencia de 
+debate democrático y representatividad suficiente en el debate, tomando en
+--- PÁGINA 4 ---
+4
+cuenta que estos principios son voluntarios. Eso genera la falsa expectativa de 
+que el mero cumplimiento de estos principios éticos por parte de una empresa 
+supone que necesariamente está haciéndose cargo de todos los riesgos que el 
+uso de estos sistemas implica. El primer elemento que impulsa el debate 
+legislativo o regulatorio en torno a la IA es el control democrático sobre esta 
+tecnología, es decir, que en las instancias democráticas se dé un debate con 
+distintos actores respecto a los riesgos de los sistemas de IA para alcanzar 
+fórmulas que aborden adecuadamente los riesgos asociados a esos sistemas.
+Los sistemas de IA presentan, a su vez, riesgos para la 
+autonomía, libertad y derechos. Los derechos claves que se ven afectados son: 
+protección de datos, privacidad, no discriminación, protección del consumidor, 
+buena administración, seguridad social, derecho a la justicia, libertad de expresión, 
+educación, condiciones de trabajo justas y equitativas, acceso a la salud, entre 
+otros. Además, surge como elemento transversal uno de los principales riesgos, 
+que es el de abuso, manipulación y discriminación por los sesgos y errores que los 
+resultados y decisiones de estos sistemas conllevan. El principal de estos riesgos 
+es la categorización errónea a partir de un perfilamiento discriminatorio, debido 
+fundamentalmente al sesgo en los datos de entrenamiento, falta de diversidad en 
+el desarrollo de la IA y discriminación algorítmica del sistema, lo que se aprecia 
+con mucha claridad en materia de “scoring” crediticio, sistema que determina que 
+ciertos sectores de la sociedad pueden tener aparejado un riesgo crediticio mayor 
+que otros. Otro factor de riesgo es la falta de transparencia en la explicabilidad de 
+las decisiones automatizadas (ADM), debido a lo que se denomina “caja negra” de 
+los sistemas de IA, que dificulta, incluso para su desarrollador, explicar y entender 
+por qué un sistema de IA llega a determinada decisión.
+De lo anterior, surge la inquietud sobre si los mecanismos 
+regulatorios tradicionales del derecho son suficientes para abordar estos riesgos. 
+En primer término, se debe reconocer la complejidad técnica y escalabilidad que 
+estos sistemas presentan, que el derecho muchas veces no tiene la capacidad de 
+adaptación o reacción para abordar. Otro elemento importante es la 
+responsabilidad, puesto que la IA, en lo que respecta a la eventual generación de 
+daños, desafía los conceptos “tradicionales” de responsabilidad, debido a sus 
+características propias: hiperconectividad, falta de transparencia, multiplicidad de 
+actores implicados en el ciclo de vida del sistema (productores, proveedores, 
+operadores, usuarios). Asimismo, en derecho de consumo, han proliferado las 
+prácticas comerciales agresivas, influencia indebida y manipulación alimentadas 
+por estos sistemas de IA que aumentan la eficacia en orden a impulsar a los 
+consumidores a adoptar ciertas decisiones de consumo que, sin mediar el uso de 
+los mismos, no habrían adoptado. También se debe tener en cuenta que las 
+decisiones automatizadas dificultan la impugnabilidad de las decisiones adoptadas 
+mediante el uso de estos sistemas, especialmente de aquellos con problema de 
+“caja negra”, por la falta de explicabilidad que presentan. Lo anterior afecta la 
+reversibilidad de esta clase de decisiones, lo que hace necesario establecer un 
+derecho de intervención humana. Finalmente, otro elemento por considerar es el
+--- PÁGINA 5 ---
+5
+componente transfronterizo, puesto que muchos de los desarrolladores y 
+proveedores de sistemas de IA están localizados en el extranjero, lo que dificulta 
+hacer efectiva su responsabilidad frente a los riesgos y daños que eventualmente 
+puedan generar.
+Sobre la base de lo expuesto, señaló que es posible vislumbrar 
+cuáles son los desafíos regulatorios de la IA, destacando los siguientes:
+1. Acceso a la información y explicabilidad del sistema, para 
+comprender por qué arriba a una decisión determinada.
+2. Rol de las plataformas/intermediarios. Muchas veces tienen 
+poder de mercado, lo que les permite imponer e impulsar ciertos sistemas de IA y 
+que dificulta hacer frente adecuadamente a los riesgos que conllevan.
+3. Complejidad de los aspectos técnicos. Hace necesario 
+establecer ciertos modelos de certificación, estándares técnicos y parámetros que 
+propendan al uso seguro de los sistemas.
+4. Enforcement (aplicación). En caso que se produzca algún riesgo 
+o daño es muy difícil acceder a información o documentación sobre el uso de los 
+sistemas, que muchas veces ni el proveedor tiene. Además, muchas veces los 
+componentes de los sistemas están amparados por secretos comerciales o 
+propiedad intelectual de manera que es muy difícil realizar auditorías o 
+fiscalizaciones por las autoridades de control.
+5. Enforcement transfronterizo. Muchas veces los proveedores y 
+desarrolladores de estos sistemas están localizados en el extranjero, lo que 
+dificulta hacerles exigible responsabilidad ante riesgos o daños.
+6. Derecho a objetar. El problema de no poder objetar las 
+decisiones automatizadas de estos sistemas, por no contar con los elementos 
+necesarios de impugnación, conlleva a un problema de acceso a la justicia frente a 
+eventuales vulneraciones de derechos, especialmente de aquellos sistemas que 
+tienen un impacto significativo en la vida de las personas.
+A partir de los elementos mencionados, surge la necesidad de una 
+regulación comprensiva de los sistemas de IA. En los lugares donde se está 
+haciendo el esfuerzo de regular se presentan algunas condiciones basales. En 
+primer lugar, hay un análisis de la suficiencia del ecosistema regulatorio vigente 
+para abordar comprensivamente este fenómeno y saber de qué manera se 
+requiere nueva legislación que se haga cargo de las brechas o vacíos regulatorios. 
+En Chile se deben considerar ciertas reglas especiales que abordan la materia, 
+por cuanto existe normativa sectorial que actualmente regula ciertos aspectos 
+vinculados al uso de los sistemas de inteligencia artificial, como el artículo 152 
+quinquies E del Código del Trabajo1 que prohíbe la discriminación por 
+   
+1 Artículo 152 quinquies E.- Prohibición de discriminación por mecanismos automatizados de toma de 
+decisiones. En la implementación de los algoritmos, la empresa de plataforma digital de servicios deberá 
+respetar el principio de igualdad y el de no discriminación. Para ello, tomará todas las medidas y resguardos 
+que sean necesarios con el fin de evitar cualquier tipo de discriminación entre los trabajadores, 
+particularmente en la asignación de trabajo, oferta de bonos e incentivos, cálculo de remuneraciones, entre
+--- PÁGINA 6 ---
+6
+mecanismos automatizados de toma de decisiones, y la resolución exenta N°33, 
+del Director del Servicio Nacional del Consumidor, de enero de 2022, que aprueba 
+la circular interpretativa sobre protección de los consumidores frente al uso de 
+sistemas de IA en las relaciones de consumo, que aborda ciertos riesgos que se 
+derivan del uso de la IA en el ámbito del consumo. Además, existen compromisos 
+internacionales asumidos por Chile en materia de IA, en particular, el Digital 
+Economy Partnership Agreement (DEPA), suscrito entre Nueva Zelanda, Singapur 
+y Chile, que en su artículo 8.2 establece ciertos principios que los Estados 
+miembros se comprometen a seguir en el momento de abordar las problemáticas 
+que surgen del uso de los sistemas de IA. El pilar fundamental que se debe tener 
+en cuenta al regular la IA es la gobernanza de datos, en tanto el tratamiento de 
+datos personales está presente en todo el ciclo de vida de los sistemas de IA. 
+Para ello se debe contar con una regulación robusta del tratamiento de datos 
+personales como requisito indispensable para avanzar en una regulación de IA.
+Los datos personales son un “insumo esencial” de la IA, puesto 
+que esta tecnología depende del acceso y uso de datos personales, recolección, 
+copia, almacenamiento, cruce y procesamiento de big data, facilitado por nuevas 
+herramientas tecnológicas, con la finalidad de poder desarrollarse. Todas esas 
+constituyen actividades que deben someterse a la normativa sobre protección de 
+datos personales. La gobernanza de datos regula aspectos fundamentales, tales 
+como bases de licitud, consentimiento informado, interés público, transparencia, 
+finalidad, proporcionalidad, seguridad, privacidad desde diseño y por defecto, 
+anonimización, oposición a las decisiones automatizadas y perfilamiento, entre 
+otras.
+En particular, sobre la moción en estudio, teniendo en cuenta lo 
+mencionado, reiteró la necesidad de contar con ciertas condiciones basales. Se 
+refirió al caso de Brasil, que avanzó en una regulación de IA, teniendo como 
+referencia el modelo europeo, pero con una normativa más compendiada basada 
+en principios, pero, a diferencia de Chile, cuenta con una condición normativa 
+basal: una normativa moderna de protección de datos personales y sobre esa 
+base esta construyendo su normativa de IA.
+También se debe considerar la situación doméstica: análisis de 
+desarrollos, riesgos y necesidades a nivel local y determinar cuáles son las 
+brechas regulatorias para abordar esta materia.
+Advirtió, además, que el modelo de regulación que la moción usa 
+como referencia se encuentra actualmente en discusión, y que el texto original ya 
+ha experimentado cambios relevantes, por ejemplo, respecto a la definición de IA.
+Finalmente, en cuanto al enfoque del proyecto de ley basado en 
+riesgos, observó que si bien hay una determinación de ciertos riesgos, en 
+   
+otros. 
+También será considerada discriminación la conducta del empleador aparentemente neutra, y cuyo resultado 
+afecte desproporcionadamente a uno o más trabajadores. 
+La empresa de plataforma digital de servicios deberá informar a sus trabajadores sobre los mecanismos y 
+procedimientos que adopte con el fin de dar cumplimiento a esta norma.
+--- PÁGINA 7 ---
+7
+definitiva el tratamiento que se le da a los distintos sistemas de IA parece ser 
+unitario, por ejemplo, la autorización a los sistemas de IA parece ser aplicable a 
+todos los sistemas de IA, sin un enfoque en riesgo. Tampoco distingue los roles, 
+obligaciones y responsabilidades de los distintos actores que están presentes a lo 
+largo del ciclo de vida de la IA. Faltan medidas de apoyo a la innovación en 
+comparación con la propuesta europea que se refiere extensamente a los 
+espacios controlados de prueba para IA para dar espacio para el desarrollo de la 
+tecnología y contempla reglas especiales respecto a las PYMES.
+Consultado sobre si Chile forma parte del Digital Economy 
+Partnership Agreement (DEPA) respondió que sí, fue uno de los primeros 
+acuerdos ratificados en materia de economía digital.
+Respecto a la necesidad de contar con una robusta regulación de 
+protección de datos previo a regular la IA, señaló que la regulación de la Unión 
+Europea de IA hace referencia a la normativa de protección de datos porque 
+asume que la gobernanza de IA tiene su base de desarrollo en ella, como aspecto 
+fundamental, e incluso contempla normas que modifican la regulación de datos 
+para permitir el desarrollo seguro de sistemas de IA cuando exista un interés 
+público comprometido.
+Sobre qué modelo regulatorio –estadounidense, europeo o chino– 
+debiese tener Chile como referente, manifestó que el foco de la Unión Europea 
+puesto en los derechos humanos y seguridad de los productos es adecuado, 
+teniendo en cuenta que está fundamentado en un ecosistema de gobernanza de 
+datos, regulación de los servicios y mercados digitales y de los sistemas de IA. 
+Muchos de los conceptos y estructuras que propone son más familiares a la 
+regulación chilena y, por lo mismo, parece el paso natural a seguir, sin perjuicio de 
+considerar las peculiaridades de nuestro país.
+El señor Matías Concha Bidegain, Mentor pro bono para High-
+Tech Startup en Startup Chile, basándose en la siguiente presentación VER, 
+expuso sobre los alcances de la IA, particularmente sobre su impacto económico e 
+inversión.
+A modo de introducción, compartió un video del gerente general 
+de Microsoft en el que se plantea que se está viviendo un momento de inflexión de 
+la IA, donde todas las piezas del rompecabezas comienzan a calzar, básicamente 
+porque hay 4 cosas que confluyen para ello. En primer lugar, hay más información 
+que hace 70 años y más capacidad computacional para procesar esta información. 
+Además, ha habido avances científicos relevantes, especialmente a partir del año 
+2017, con el uso de una tecnología que se llama Transformer, que permite que las 
+máquinas entiendan mucho mejor a los seres humanos, lo que ha gatillado un 
+aumento de inversión. Todo lo anterior ha generado un punto de inflexión 
+realmente exponencial en el desarrollo de estas tecnologías.
+--- PÁGINA 8 ---
+8
+Durante los últimos 70 años la tecnología de IA analizaba datos y 
+predecía probabilidades. Hoy, con la tecnología Transformer, columna vertebral de 
+estos sistemas, se puede generar información y contenido, tales como textos, 
+códigos, imágenes, audios, modelos 3D, entre otros. Básicamente, cualquier cosa 
+que necesite una compañía. Estos casos de usos son tremendamente relevantes 
+en términos de su impacto económico.
+Se estima que el impacto económico de la IA va a ser 
+aproximadamente de 15.7 trillones de dólares para el año 2030, como referencia 
+equivale al 15% del PIB mundial y principalmente la fuente de crecimiento 
+económico va a ser la automatización de tareas que generará una mayor 
+productividad del tiempo de las personas.
+Actualmente, 
+los 
+mayores 
+inversionistas 
+en 
+IA 
+son 
+los 
+inversionistas en fondos de capital de riesgo que principalmente están invirtiendo 
+en compañías que son muy pequeñas (70%), que están bajo el radar, muy poco 
+conocidas. El destino de mayor inversión es Estados Unidos (47.36%), en 4 focos 
+de desarrollo. China y Europa, lugares donde se ha avanzado en regulación de IA, 
+están muy por debajo.
+Enseñó un gráfico sobre cómo las personas sopesan los 
+beneficios de utilizar IA versus los costos, desagregado por regiones: América y El 
+Caribe, Sudeste Asiático, Estados Unidos y Europa. Sobre esa base, se muestra 
+que el desarrollo de los sistemas se hará en los dos últimos y su uso a nivel de 
+consumidores va a ser en los dos primeros.
+Sobre la moción en análisis, señaló que la mayoría de los 
+sistemas de IA que se van a utilizar en Chile en la próxima década son diferentes 
+de los modelos que se utilizaron previamente, es decir, modelos de IA generales 
+que pueden hacer tareas para las cuales no están entrenados, de función 
+mundana, pero también crítica. Por lo mismo, mostró preocupación por la 
+definición que entrega el proyecto y sugirió poner el foco en la aplicación de los 
+modelos de IA.
+Previno que la toma de decisiones sobre el desarrollo de estos 
+sistemas no va a ser modificada por la opinión de los chilenos. El mercado chileno 
+es infinitamente pequeño y estos modelos están siendo desarrollados por las 
+grandes compañías tecnológicas del mundo.
+Sobre la Comisión Nacional de Inteligencia Artificial, advirtió 
+problemas por el hecho de que su composición y selección no está especificada 
+en la moción. Teniendo en cuenta que en el año 2022 la inversión de IA fue 
+equivalente al presupuesto nacional de Chile, es preocupante que la regulación 
+del uso de los sistemas de IA quede en manos de un pequeño grupo de personas. 
+Que no se especifique cuantos miembros o cómo será electa sugiere una 
+comprensión no a cabalidad de la magnitud del crecimiento del campo de la IA. A 
+modo de ejemplo, mencionó que en Reino Unido las 24 mejores universidades a 
+solo 6 meses desde el lanzamiento del ChatGPT adoptaron un modelo de
+--- PÁGINA 9 ---
+9
+principios para la educación de IA para apoyar la alfabetización de esta tecnología 
+para estudiantes, personal y modificar todas las mallas curriculares de las carreras 
+del país. Esa es la complejidad de la que se ha tomado conciencia en el mundo 
+europeo. Además, hace poco menos de un mes Reino Unido aprobó el primer 
+modelo de terapeuta de IA para salud mental, que se está aplicando en un tercio 
+de las clínicas de salud mental del país.
+Un punto crucial de la moción es que omite casos sensibles, como 
+la regulación de la IA en la educación; hace referencia a la evaluación y selección 
+–cuya aplicación es marginal-, pero no al proceso educativo. Tampoco considera 
+como caso sensible la biología sintética que se utiliza, entre otras cosas, para 
+generar proteínas o enzimas que pueden degradar plástico. Tampoco hace 
+mención de un modelo de cumplimiento de normas en las empresas que decidan 
+usar IA en Chile.
+Como señaló, el gran desarrollo de la IA ocurre y seguirá 
+ocurriendo en Estados Unidos, Europa y China, y se va a utilizar en países como 
+Chile. Es por ello por lo que el uso de la IA debe estar debidamente normado. 
+Además, permite la utilización de IA en campañas políticas que muestran gran 
+nivel de persuasión en las personas. A su juicio, hacer política con IA es 
+tremendamente delicado.
+La ausencia de estas directrices para aspectos problemáticos 
+plantea interrogantes sobre cómo se abordarán y regularán en el futuro estos 
+sistemas, y lo que parece aun más preocupante es que los modelos de IA, como 
+el ChatGPT, se van a usar en múltiples ámbitos, con buenos o malos fines, por lo 
+que el ejercicio de la legislación chilena tiene que estar enfocado en la aplicación 
+de los modelos de IA más que en su desarrollo. En su opinión, parece un ejercicio 
+inerte tratar de alterar el desarrollo de estos modelos generalistas por su alto costo 
+de desarrollo.
+En resumen, Chile está encaminado a convertirse, al menos en el 
+corto plazo, en un consumidor de tecnología de IA más que en un desarrollador 
+relevante en este campo, y los recursos que se plantean en esta iniciativa legal 
+para el control del desarrollo y aplicación de la IA, refiriéndose a la Comisión 
+Nacional de Inteligencia Artificial, son francamente insuficientes y podría generar 
+un desincentivo para la innovación en el país para las compañías que decidan 
+desarrollar IA, así como obstáculos significativos para las startups chilenas que 
+deseen probar sus modelos en empresas nacionales. El enfoque de la propuesta 
+legislativa está en modelos especializados, pero no aborda adecuadamente el 
+modelo general, como el ChatGPT, que se pueden usar con diversos fines.
+Sugirió revisar el modelo, que es insuficiente para los desafíos de 
+la próxima década, y que se considere la creación de un nuevo organismo que 
+permita a Chile adaptarse a esta nueva tecnología en constante evolución y que 
+dé abasto para poder revisar el volumen de inversión que se está ingresando en 
+este campo. Además, la propuesta debiese reconocer como país una visión a 
+largo plazo para no quedarse atrás en esta revolución tecnológica y que permita a
+--- PÁGINA 10 ---
+10
+Chile tener un rol protagónico como política de Estado dada nuestras ventajas 
+culturales hacia la IA, alta conectividad a internet y digitalización de la población, y 
+el ecosistema emprendedor de Chile, que es de primer nivel.
+Consultado sobre el modelo regulatorio de Estados Unidos –que 
+presenta la mayor inversión en IA– y los fundamentos de la baja inversión que 
+presenta la Unión Europea –que podría interpretarse como un desincentivo como 
+consecuencia 
+de 
+su 
+regulación–, 
+explicó 
+que 
+el 
+modelo 
+regulatorio 
+estadounidense es claramente más liviano y está basado en un acuerdo de 
+buenas prácticas, lo que atrae capital y talento. Mencionó a modo de ejemplo una 
+compañía que se está transformando en el gran modelo de IA independiente, para 
+evitar sesgos en sus resultados. La compañía está fundada por un ingeniero 
+francés que emigró a los Estados Unidos, porque su país no tenía un ambiente 
+propicio para generar este tipo de compañías, debido al marco regulatorio 
+imperante.
+Aclaró, además, que la data utilizada en el gráfico de inversiones 
+que presentó es del año 2022, previa al lanzamiento del ChatGPT. La explosión 
+de inversión de IA no ha ocurrido en Europa, lo que puede deberse a diversos 
+motivos, pero según su experiencia con las compañías inversoras y 
+emprendedores de primer nivel, el marco regulatorio genera problemas. Además, 
+hay un factor estratégico, porque parte de las inversiones que se han generado en 
+Alemania y Reino Unido son para desarrollar modelos de IA grandes por el temor 
+de tener que mandar data sensible a Estados Unidos. Intuye que el mismo gráfico 
+con data 2023 presentará una diferencia mucho mayor a favor de Estados Unidos.
+Sobre la elección de los países que la gráfica de inversión de IA 
+muestra, entre los que se encuentra Argentina, aclaró que el estudio midió 
+aproximadamente a 170 países, incluido Chile, pero no está en el ranking de las 
+principales compañías. Reconoció que también llamó su atención que estuviese 
+Argentina, pero como se trata de inversión privada que corresponde a la inversión 
+de fondos de capital de riesgo más los fondos de inversión corporativa, puede 
+deberse a que dicho país tiene una corporación gigante que es Mercado Libre y 
+que está invirtiendo en IA en optimización de logística.
+La señora Constanza Pasarin, Asociada del Grupo Compliance y 
+Tecnología Albagli Zaliasnik, basándose en la siguiente presentación VER, tras 
+una breve presentación de su currículo académico y profesional, compartió su 
+mirada del proyecto de ley desde su experiencia práctica en materia de protección 
+de datos, ciberseguridad y regulación de la tecnología en general en el sector 
+privado.
+Sobre qué es la IA, aclaró en primer lugar que no es algo nuevo, 
+sino que nace hace muchos años con machine learning y las redes neuronales. 
+Con el tiempo ha ido evolucionando y hoy, al igual que la inteligencia humana, es 
+un concepto complejo de definir. Aún no existe una definición formal y
+--- PÁGINA 11 ---
+11
+universalmente aceptada. La Comisión Europea, con el objeto de regularla, la ha 
+definido como “un campo de la informática que se enfoca en crear sistemas que 
+puedan realizar tareas que normalmente requieren inteligencia humana, como el 
+aprendizaje, el razonamiento y la percepción. Estos sistemas pueden percibir su 
+entorno, razonar sobre el conocimiento, procesar la información derivada de los 
+datos y tomar decisiones para lograr un objetivo dado”.
+Así, la IA se encuentra en constante evolución, y su principal 
+fuente de aprendizaje radica en los datos, en su gran mayoría personales.
+En cuanto a los aspectos positivos de la IA, destacó entre muchos 
+otros los siguientes: automatiza procesos, agiliza la toma de decisiones, mejora la 
+precisión, reduce el error humano, aumenta la productividad, democratiza el uso 
+de la tecnología. Invitó a la Comisión a tenerlos presente y no enfocarse sólo en 
+sus riesgos, puesto que la IA presenta muchos beneficios que ayudan a los seres 
+humanos en su quehacer diario.
+Respecto a los riesgos, identificó los siguientes: sesgo en la toma 
+de decisiones, privacidad y seguridad de los datos, falta de transparencia en la 
+toma de decisiones, responsabilidad y rendición de cuentas, vulneraciones en 
+ciberseguridad que afectan la fiabilidad del sistema; y “superinteligencia” de la IA, 
+entendida como la posibilidad de que la IA pueda aprender más que los seres 
+humanos y destruir el mundo.
+Sobre la regulación de la tecnología en Chile, señaló que hay 
+leyes que se han implementado en el sector privado, tales como ley de Delitos 
+Informáticos, ley FINTEC –que promueve la competencia e inclusión financiera a 
+través de la innovación y tecnología en la prestación de servicios financieros–, ley 
+sobre protección de datos personales y el proyecto de ley marco de 
+ciberseguridad. Todas ellas se vinculan con la IA y consideró especialmente 
+complejo que la tecnología se regule parceladamente, a través de leyes “islas”. No 
+se visualiza un orden y se corre el riesgo de sobrerregular o de que se presenten 
+superposiciones normativas.
+En su opinión, teniendo en cuenta lo señalado, los fundamentos o 
+bases de la regulación de los sistemas de IA debiesen estar en dos iniciativas 
+legales actualmente en tramitación: el proyecto que modifica la ley sobre 
+protección de datos personas (boletines refundidos Nos11.144-07 y 11.092-07) y el 
+proyecto de ley que establece una Ley Marco sobre Ciberseguridad e 
+Infraestructura Crítica de la Información (boletín N°14.847-06).
+En cuanto a los beneficios del proyecto de ley que modifica la ley 
+sobre protección de datos personales, destacó los siguientes:
+• Obliga a las empresas a transparentar la existencia de 
+decisiones automatizadas.
+• Concede a los titulares el derecho de oponerse a las decisiones 
+automatizadas y a solicitar explicaciones, además de otros derechos, como el 
+acceso a la información.
+--- PÁGINA 12 ---
+12
+• Obliga a realizar evaluaciones de impacto cuando en caso de 
+decisiones automatizadas, como la elaboración de perfiles o en caso de 
+tratamiento masivo de datos.
+En consecuencia, el referido proyecto de ley presenta indicios que 
+ayudarán a regular la IA y, además, permitirá contar con la experiencia práctica de 
+la autoridad de protección de datos en estas materias, porque es probable que su 
+criterio influya mucho en las decisiones que se tomen luego con casos de IA.
+En cuanto al proyecto de ley que establece una Ley Marco sobre 
+Ciberseguridad e Infraestructura Crítica de la Información, explicó que su 
+relevancia radica en que regula la interacción de sistemas donde hay información 
+que no siempre va a afectar a las personas a través de sesgos algorítmicos, pero 
+que terceros maliciosamente podrían alterar en el entrenamiento de los sistemas e 
+inducir en la toma de decisiones. El proyecto de IA de la Unión Europea ha 
+tomado como una arista relevante la ciberseguridad, porque es necesario 
+garantizar la fiabilidad del sistema para confiar en su resultado.
+Este año la Agencia de la Unión Europea para la Ciberseguridad 
+(ENISA) publicó un informe con la principal finalidad de proporcionar una 
+perspectiva integral acerca de los diversos estándares vigentes y futuros 
+aplicables a la ciberseguridad de la inteligencia artificial, donde se analizan tanto 
+los aspectos ya abordados como aquellos que aún no han sido estandarizados.
+En consecuencia, ampliar los pilares de ciberseguridad permitirá 
+mayor confidencialidad, integridad, disponibilidad, fiabilidad, lo que implica solidez, 
+supervisión, exactitud, rastreabilidad, explicabilidad y transparencia.
+El informe de ENISA “Securing Machine Learning Algorithms” 
+describe la relación multidimensional entre la IA y la ciberseguridad desde la 
+perspectiva de la Ciberseguridad de la IA, es decir, la falta de robustez y las 
+vulnerabilidades de los modelos y algoritmos de inteligencia artificial. Dicho 
+informe incluye consideraciones sobre la ciberseguridad de la IA desde una 
+perspectiva más amplia y extendida. La razón es que las relaciones entre la 
+ciberseguridad y la confiabilidad son complejas y no se pueden pasar por alto: los 
+requisitos de confiabilidad complementan y a veces se superponen con los de la 
+ciberseguridad de la IA para garantizar un funcionamiento adecuado. Como 
+ejemplo, la supervisión es necesaria no solo para el monitoreo general de un 
+sistema de IA en un entorno complejo, sino también para detectar 
+comportamientos anómalos debido a ciberataques.
+Sobre la base de lo expuesto, reconoció que no sabe si es el 
+momento adecuado para regular la IA, precisamente porque no están las bases 
+para hacerlo y que, a su entender, podrían encontrarse en las materias que 
+regulan los proyectos de ley antes mencionados.
+En particular, sobre la Comisión Nacional de Inteligencia Artificial 
+que la moción propone, señaló que es importante tener en cuenta que los 
+proyectos de ley en trámite a los que hizo mención suponen la creación de
+--- PÁGINA 13 ---
+13
+diferentes autoridades de control (Comisión de Ciberseguridad y Agencia de 
+Protección de Datos Personales), sumado a las autoridades vigentes (Comisión de 
+Mercado Financiero (ley FINTEC) y Servicio Nacional del Consumidor), los cuales 
+podrían compartir intereses sobre la misma materia. Esto podría dar lugar a la falta 
+de certeza jurídica, duplicidad de competencias, interpretaciones divergentes, 
+entre otros posibles problemas.
+Con todo, en su opinión, la mejor forma de avanzar en regulación 
+de IA es:
+1. Finalizar la tramitación de los proyectos de ley que actualmente 
+están en debate, los cuales establecerán los cimientos de la regulación 
+tecnológica en nuestro país y proporcionarán la experiencia necesaria para 
+abordar la legislación en el ámbito de la inteligencia artificial.
+2. Prevenir la excesiva regulación y la creación de múltiples 
+autoridades de control en un ámbito que todavía se encuentra en proceso de 
+evolución.
+3. Sensibilizar, concientizar y educar sobre los beneficios y el buen 
+uso de la inteligencia artificial como herramienta para mejorar la vida de las 
+personas.
+Sin embargo, si se decide perseverar en una ley de IA, sugirió que 
+el enfoque regulatorio se base en los siguientes elementos:
+a) 
+Principios, 
+tales 
+como 
+responsabilidad, 
+transparencia, 
+explicabilidad, ciberseguridad, desarrollo sostenible, entre otros.
+b) Autoridades de control sectorial o bien entregar las facultades 
+de fiscalización a la futura Agencia de Protección de Datos.
+c) Ciclo de vida de la IA, con la finalidad de que todos quienes 
+participan en el proceso asuman sus respectivas responsabilidades.
+Consultada sobre cuánto debiese esperar Chile para regular la IA, 
+teniendo en cuenta las observaciones realizadas, la velocidad de su desarrollo y 
+los riesgos asociados a la misma, reconoció que el momento es difícil de 
+determinar. En su opinión, la Unión Europea también se está adelantando, como 
+lo hicieron con la regulación de datos personales, que les generó problemas 
+posteriores de implementación con las pequeñas y medianas empresas, incluso 
+con las grandes empresas que prefirieron pagar las multas antes que cumplir la 
+ley. Si bien entiende que Chile quiera ser pionero, lo cierto es que necesitamos 
+primero la experiencia práctica de otras legislaciones que son la base, a las que 
+refirió. En Chile falta concientización y experticia en materia de datos personales y 
+ciberseguridad, a nivel profesional y de la población en general.
+Sobre cuál sería la autoridad de control idónea para evitar la 
+multiplicidad de fiscalización y las dificultades asociadas a ello, reiteró que si bien 
+las autoridades vigentes y las que se proponen en las distintas iniciativas tienen 
+distintos intereses o líneas de fiscalización, se corre un alto riesgo de
+--- PÁGINA 14 ---
+14
+superposición de controles y sanciones, lo que podría afectar a las empresas 
+desarrolladoras y desincentivar la inversión de empresas extranjeras. Aunque 
+reconoció que es complejo determinar cuál sería la más idónea –porque se 
+requiere previamente avanzar en otras aristas a las que refirió en su exposición-, 
+se inclinó por la Agencia de Protección de Datos o la Comisión de Ciberseguridad.
+El diputado Lagomarsino, en calidad de autor de la moción, 
+señaló que si bien los proyectos de ley sobre datos personales y ciberseguridad 
+tienen puntos de encuentro con el proyecto de ley en estudio, lo cierto es que 
+tienen objetivos distintos y siempre quedará a salvo la facultad del Presidente de 
+la República que plantea el artículo 64, inciso 5, de la Constitución Política de la 
+República, en orden a fijar el texto refundido, coordinado y sistematizado de las 
+leyes cuando sea conveniente para su mejor ejecución.
+Respecto al mejor momento para regular, observó que el proyecto 
+de ley que modifica la ley de datos personales, a que se ha hecho mención, lleva 7 
+años de discusión en el Congreso Nacional, misma suerte que podría correr esta 
+moción, por lo que no parece negativo avanzar en su discusión. Sin lugar a dudas 
+la referida iniciativa será ley antes y podrá nutrir el debate legislativo de regulación 
+de IA desde su implementación.
+Sobre la multiplicidad de autoridades de control, agradeció la 
+observación, puesto que efectivamente puede significar un gran obstáculo para las 
+empresas que quieran desarrollar IA en Chile desde el punto de vista de su 
+interlocución con los diferentes agentes fiscalizadores.
+V. 
+ACUERDOS
+La Comisión adoptó los siguientes acuerdos:
+1. Acceder a la solicitud del punto 6 de la Cuenta en orden a 
+incorporar a la señora Catherine Muñoz Gutiérrez, Directora de la ONG Optia y 
+socia de la consultora Idónea, en el listado de audiencias de la discusión del 
+proyecto de ley que regula los sistemas de inteligencia artificial, la robótica y las 
+tecnologías conexas, en sus distintos ámbitos de aplicación, boletín N°15.869-19.
+2. Invitar a la Ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación a la sesión del día miércoles 25 de octubre a fin de que exponga ante 
+la Comisión sobre los efectos de la decisión de la empresa Sinovac de no instalar 
+una planta en Chile. Por unanimidad de los presentes la Comisión acordó recibir la 
+exposición preferentemente en modo presencial, pero, si no fuese posible, 
+autorizaron desde ya su participación vía telemática.
+3. Solicitar a la Comisión de Constitución, Legislación, Justicia y 
+Reglamento del Senado que tengan a bien dar premura a la tramitación del 
+proyecto de ley que regula la protección y el tratamiento de los datos personales y 
+crea la Agencia de Protección de Datos Personales, boletines refundidos 
+Nos11.144-07 y 11.092-07, en tercer trámite constitucional.
+--- PÁGINA 15 ---
+15
+***
+Las intervenciones y exposiciones de diputadas, diputados y 
+asistentes a esta sesión, en lo pertinente y en lo que no fueren de carácter 
+reservado, constan en un registro de audio y video, en conformidad con lo 
+dispuesto en el inciso primero del artículo 257 del Reglamento de la Corporación2.
+Habiéndose cumplido el objeto de la esta sesión especial, se 
+levantó a las 16.56 horas.
+JOHN SMOK KAZAZIAN 
+Abogado Secretario de la Comisión
+2 https://www.democraciaenvivo.cl/player.aspx?id=76084

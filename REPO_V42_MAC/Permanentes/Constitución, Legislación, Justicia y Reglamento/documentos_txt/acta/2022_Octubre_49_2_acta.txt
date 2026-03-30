@@ -1,0 +1,1273 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=49&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : Soporte Camara de Diputados Chile
+EXTRAIDO : 2026-03-29 04:38:42
+======================================================================
+
+--- PÁGINA 1 ---
+COMISIÓN DE CONSTITUCIÓN, LEGISLACIÓN, JUSTICIA Y
+REGLAMENTO 
+PERÍODO LEGISLATIVO 2022-2026 
+Acta de la sesión 49ª, ordinaria, mixta/ 370ª Legislatura 
+Celebrada el martes 25 de octubre del año 2022, de 15:06 a 16:58 hrs.
+Con el propósito de continuar con la discusión y votación en particular del 
+proyecto de ley que “Regula la protección y tratamiento de datos 
+personales y crea la Agencia de Protección de Datos Personales”, en 
+segundo trámite constitucional, Boletines refundidos N°s 11.144-07 (S) y 
+11.092-07 (S). Urgencia suma. 
+- Discusión particular: Se despacharon los artículos 19, 20, 21, 22, 23, 25, 26, 
+27, 28 (incisos primero y segundo), 29, 33, 34 y 34 bis.  
+- Quedaron pendientes el artículo 24; incisos tercero y cuarto del artículo 28; 
+artículos 30, 31 y 32, sobre los cuales se acordó prorrogar su votación hasta que 
+la mesa técnica presente una propuesta.
+ASISTENCIA 
+ 
+Asisten, presencialmente, los siguientes miembros de la Comisión, 
+diputados (as) señores (as) Karol Cariola (Presidenta de la Comisión), Felipe 
+Donoso (en representación del diputado Jorge Alessandri), Gustavo Benavente, 
+Alberto Undurraga (en representación del diputado Miguel Ángel Calisto), 
+Marcos Ilabaca, Pamela Jiles, Raúl Leiva, Andrés Longton, Catalina Pérez, Luis 
+Sánchez, Leonardo Soto y Gonzalo Winter.
+Concurre, en calidad de invitadas, la señora Macarena Lobos, 
+Subsecretaria de la Secretaría General de la Presidencia, acompañada de la 
+señora Lizzy Seaman, asesora de la División Jurídica – Legislativa del Ministerio 
+Secretaría General de la Presidencia.
+Concurren, en calidad de oyentes, la señora Paulina Silva, de la Alianza 
+Chilena de Ciberseguridad; la señora Macarena Gatica, abogada experta en 
+protección de datos personales, socia del estudio jurídico Alessandri; la señora 
+Romina Garrido, investigadora asociada GobLab Universidad Adolfo Ibáñez 
+Escuela de Gobierno; la señora Jessica Matus, de la ONG Datos Protegidos; el 
+señor Pablo Trigo, investigador CEDI Universidad de Chile; el señor Marcelo 
+Drago, ex Presidente del Consejo para la Transparencia; por la Asociación de 
+Bancos e Instituciones Financieras de Chile, los señores José Manuel Mena, 
+presidente y Luis Opazo, gerente general; el señor Juan Esteban Laval, fiscal, y 
+Matías Bernier, gerente de Estudios; el señor Claudio Magliona, miembro del
+1
+--- PÁGINA 2 ---
+grupo legal de la Asociación de Empresas Chilenas de Tecnología de la 
+Información A.G.; el señor Luis Alberto Jara, de la Asociación Gremial de 
+Empresas Fintech; y la señora Carolina Cruzar, abogada asesora de la Fiscalía 
+Nacional del Ministerio Público.
+Está presente, en calidad de abogado secretario, el señor Patricio 
+Velásquez Weisse y el abogado señor Fernando García Leiva; de forma remota 
+la abogada Margarita Risopatrón Lemaître y la secretaria señora Cecilia Césped 
+Riquelme.
+ACTAS
+Las actas de las sesiones 43, 44 y 45 se dan por aprobadas por no haber 
+sido objeto de observaciones
+Las actas de las sesiones 46, 47 y 48 quedan a disposición de los señores 
+diputados y señoras diputadas.
+Actas disponibles:  
+https://www.camara.cl/legislacion/comisiones/sesiones.aspx?prmID=1724
+CUENTA 
+ 
+El señor abogado secretario da cuenta de los documentos llegados a la 
+Comisión:
+1.- Se han recibido los siguientes remplazos para la sesión de hoy:
+- 
+El diputado Alberto Undurraga Vicuña reemplazará al diputado Miguel 
+Ángel Calisto Águila. 
+- 
+El diputado Felipe Donoso Castro reemplazará al diputado Jorge 
+Alessandri Vergara.
+- 
+Se tienen presentes. 
+ 
+2.- Oficio de la Excma., Corte Suprema, por el cual remite opinión 
+respecto del proyecto, iniciado en moción, que “Modifica cuerpos legales que 
+indica con el fin de adecuar el procedimiento civil a los estándares de la 
+Convención Interamericana sobre la Protección de los Derechos Humanos de 
+las Personas Mayores”, Boletín N° 15273-07.
+- 
+A sus antecedentes.
+2
+--- PÁGINA 3 ---
+3.- Se han recibido las siguientes mociones.
+Proyecto iniciado en moción de los diputados señores Trisotti; Coloma; 
+Cornejo; Donoso; Fuenzalida; Labbé; Lilayu y Von Mühlenbrock; y de la diputada 
+señora Romero, doña Natalia, que “Modifica la Carta Fundamental para 
+consagrar el deber de respeto a las Fuerzas Armadas y de Orden y Seguridad 
+Pública, y a sus emblemas institucionales”, Boletín N° 15448-07.
+Proyecto iniciado en moción de los diputados señores Matheson; 
+Alessandri: Arroyo; Benavente: Calisto; Mellado, don Miguel; Sánchez y 
+Undurraga, don Francisco, y de las diputadas señoras Ahumada y Flores, que 
+“Modifica la Ley N° 18.918, Orgánica Constitucional del Congreso Nacional, para 
+sancionar la falta de respuesta a oficios de fiscalización dirigidos por la Cámara 
+de Diputadas y Diputados de Chile”, Boletín N° 15452-07.
+Proyecto iniciado en moción de los diputados señores Labbé; Alessandri; 
+Benavente; Bobadilla; Carter; Coloma; Cornejo; Donoso y Ramírez, don 
+Guillermo, y de la diputada señora Romero, doña Natalia, que “Modifica el 
+Código Penal para agravar las penas por los delitos de daños cometidos contra 
+bienes destinados a implementar medidas de seguridad pública”, Boletín N° 
+15456-07.
+- 
+Se tienen presentes.  
+ 
+4.- Correo electrónico del particular, señor Ernesto Lemus Castro, por el 
+cual hace sus descargos por el actuar de la justicia, frente a situación particular 
+referida a accidente sufrido, con motivo de una colisión, el sábado 2 de abril del 
+2022, alrededor de las 04:30 horas, mientras tomaba pasajeros en su taxi, en 
+calle San Pablo, en la comuna de Lo Prado, cuando fue otro taxi el que lo 
+colisionó por la parte trasera de su vehículos.
+- 
+Se tiene presente.  
+ 
+5.- Se han recibido las siguientes confirmaciones para la sesión de hoy: 
+Ministerio Secretaría General de la Presidencia. En forma presencial.
+• Srta. Macarena Lobos, Subsecretaria. 
+• Srta. Lizzy Seaman, Asesora.  
+ En calidad de oyentes vía Zoom
+• Sra. Macarena Gatica, Abogada experta en protección de datos.
+3
+--- PÁGINA 4 ---
+• Sra. Romina Garrido, Investigadora Asociada GobLab UAI. 
+• Sra Paulina Silva, por  AMCHAM (Cámara Chilena Norteamericana). 
+• Sra. Jessica Matus, ONG Datos Protegidos. 
+• Sr. Alejandro González, Jefe (S) de Unidad Normativa y Regulación
+del Consejo para la Transparencia.  Le acompaña el analista del 
+Consejo, Carlo Benussi. 
+• Sr. Pablo Trigo, Investigador CEDI, Universidad de Chile. 
+• Sr. Emilio Oñate, Decano Facultad de Derecho y Humanidades,
+Universidad Central
+Fiscalía Nacional del Ministerio Público
+• Sra. Carolina Cruzat, abogada asesora.
+Asociación de Bancos e Instituciones Financieras de Chile.
+o Sr. José Manuel MENA, Presidente. 
+• Sr. Luis Opazo R., Gerente General. 
+• Sr. Juan Esteban Laval Z., Fiscal. 
+• Sr. Matías Bernier Bórquez, Gerente de Estudios Asociación de
+Bancos. 
+ 
+- 
+Se tienen presentes.
+ACUERDOS
+Durante la sesión, se adoptaron los siguientes acuerdos: 
+ 
+1.- La Comisión acordó, por unanimidad, incorporar las votaciones a favor 
+de la diputada Pamela Jiles, Felipe Donoso (en representación del diputado 
+Jorge Alessandri) y el diputado Gonzalo Winter en el numeral 9), que modifica 
+el artículo 19, y en los artículos 20 y 21. Y del diputado Marcos Ilabaca en las 
+votaciones de los artículos 20 y 21.
+2.- Postergar la votación en particular del Artículo 24 del proyecto.
+3.- Postergar la votación en particular de los artículos 30 al 32 del proyecto 
+de ley, con el objeto de dar tiempo a la mesa técnica constituida por asesores 
+parlamentarios y representantes del Ejecutivo, para presentar una propuesta de 
+redacción conjunta, si es que se pudiera.
+----
+4
+--- PÁGINA 5 ---
+ORDEN DEL DÍA
+Boletines refundidos N°s 11.144-07 (S) y 11.092-07 (S). 
+ 
+Entrando en el orden del día, corresponde continuar con la discusión 
+particular del proyecto de ley que “Regula la protección y el tratamiento de 
+los datos personales y crea la Agencia de Protección de Datos 
+Personales”, en segundo trámite constitucional, con urgencia calificada de 
+“Suma”. 
+ 
+ 
+Ver oficio de ley; comparado de indicaciones; comparado de 
+observaciones.
+VOTACIÓN EN PARTICULAR
+ARTÍCULO PRIMERO, , continuación
+Numeral 9), Artículo 19
+“9) Modifícase el artículo 19 de la siguiente forma: 
+ 
+a) Reemplázase, en el inciso primero, la referencia al “artículo 12”, por otra al 
+“artículo 4°”.
+b) Reemplázanse, en el inciso segundo, la frase “o banco de datos”, por la 
+expresión “o base de datos”, y la frase “al banco de datos” por “a la base de 
+datos”.
+c) Sustitúyese, en el inciso final, la frase “de acuerdo a lo previsto en el artículo 
+16”, por la siguiente: “de conformidad a lo dispuesto en el Título VII de esta ley”.”
+La señora Macarena Lobos (Subsecretaria de la Secretaría General de 
+la Presidencia) hizo presente que el acuerdo de la Comisión era aprobar por 
+unanimidad aquellos artículos que no tuvieran indicaciones, con la finalidad de 
+concentrar el debate en aquellos que sí lo tuvieren, y el resultado del trabajo de 
+la mesa técnica.
+5
+--- PÁGINA 6 ---
+La diputada señorita Cariola (Presidenta) refiere que efectivamente 
+existe ese acuerdo, aunque se tomó sólo respecto de un título del proyecto cuya 
+votación en particular ya terminó. Con todo, al ser un artículo sin indicaciones, 
+propone a la Comisión votarlo por unanimidad.
+Sometido a votación en numeral 9) del Artículo 1, que modifica el 
+actual artículo 19 de la Ley N° 19.628, es aprobado por la unanimidad. Votaron 
+a favor lo(a)s diputado(a)s señore(a)s Karol Cariola (Presidenta), Felipe Donoso 
+(en representación del diputado Alessandri), Gustavo Benavente, Marcos 
+Ilabaca, Pamela Jiles, Andrés Longton, Luis Sánchez, Leonardo Soto, Alberto 
+Undurraga (en representación de diputado Miguel Angel Calisto) y Gonzalo 
+Winter (10-0-0).
+Numeral 10)
+10) Reemplázase el Título IV por el siguiente:
+“Título IV 
+Del tratamiento de datos personales por los órganos públicos
+Artículo 20
+Artículo 20.- Regla general del tratamiento de datos por órganos públicos. Es 
+lícito el tratamiento de los datos personales que efectúan los órganos públicos 
+cuando se realiza para el cumplimiento de sus funciones legales, dentro del 
+ámbito de sus competencias, de conformidad a las normas establecidas en la 
+ley, y a las disposiciones previstas en este Título. En esas condiciones, los 
+órganos públicos actúan como responsables de datos y no requieren el 
+consentimiento del titular para tratar sus datos personales.
+- Indicación de los diputados Leonardo Soto y Calisto: 
+En el numeral 10) que reemplaza el Título IV, al artículo 20 propuesto, para 
+agregar, a continuación de la frase “dentro del ámbito de sus competencias,” la 
+expresión:
+“respetando las garantías fundamentales establecidas en el artículo 19, N° 4, 
+de la Constitución Política de la República”.
+La señora Lobos (Subsecretaria SegPres) refiere que la indicación 
+refuerza el principio de legalidad que rige a los organismos públicos, señalando 
+que los organismos públicos deben respetar las garantías constitucionales del
+6
+--- PÁGINA 7 ---
+artículo 19 N°4, de la vida privada y protección de derechos personales, por lo 
+que existe un acuerdo en la mesa técnica para su aprobación.
+El diputado señor Longton indica que esta por aprobar, pero cuando se 
+incorpora normas constitucionales en textos legales no le parece que sea una 
+técnica legislativa adecuada, lo anterior porque la supremacía constitucional rige 
+para todas las normas, sea que las leyes hagan o no hagan expresa mención de 
+aquellas garantías que deben respetar.
+Indicó que, de perseverar en el uso de esta técnica legislativa, se corre el 
+riesgo de que se llegue a interpretar que, si no está expresamente referida como 
+un límite la garantía constitucional que se quiere sea respetada, se entienda 
+entonces que no es aplicable esta supremacía constitucional.
+En definitiva, esa técnica legislativa no le parece apropiada.
+La Subsecretaria Lobos comprende las razones esgrimidas por el 
+diputado Longton, y las comparte. Aunque no está demás mencionar las 
+garantías constitucionales, efectivamente si no se hiciera, de igual forma estas 
+actúan como un límite al actuar de todos los organismos del Estado y, por cierto, 
+de los particulares.
+La diputada señorita Cariola (Presidenta) pregunta al Ejecutivo cuáles 
+serían las razones por las cuales la mesa técnica recomienda aprobar la 
+indicación, si al parecer no sería necesaria y sería una superposición de normas.
+La Subsecretaria Lobos refiere que no existiría una superposición 
+propiamente tal, y entienden que la indicación no entorpece, sino que fortalece, 
+pero comparte la tesis del diputado Longton en cuanto a que no es necesaria y 
+podría provocar conflictos interpretativos no deseados.
+El diputado señor Soto, coautor de la indicación, señaló que lo que 
+busca es reforzar los derechos de las personas. En este caso, el artículo otorga 
+una facultad al Estado, y a través de él, a los gobiernos - los que cambian cada 
+cuatro años -, para que puedan intervenir en datos personales. Por lo anterior, 
+les pareció importante reforzar los límites del Estado del respeto de los derechos 
+fundamentales, particularmente en la Honra y Vida Privada de las Personas.
+Ese espacio de intimidad de las personas merece un reforzamiento 
+especial, aún más cuando deviene de una Constitución tan cuestionada por lo 
+es el Texto Constitucional de 1980.
+Con todo, y dada la insistencia del diputado Longton, no tendría problemas 
+en retirar la indicación o, votar el texto como estaba desde el Senado.
+7
+--- PÁGINA 8 ---
+El diputado señor Undurraga, que se encuentra remplazando al 
+diputado señor Calisto, también retira la indicación en su representación.
+- 
+Se retira la indicación1.
+Sometido a votación el artículo 20, sin indicaciones, es aprobado por la 
+unanimidad de los presentes. Votaron a favor los señores diputados Karol 
+Cariola (Presidenta), Felipe Donoso (en representación del diputado Alessandri), 
+Gustavo Benavente, Marcos Ilabaca, Pamela Jiles, Andrés Longton, Luis 
+Sánchez, Leonardo Soto, Alberto Undurraga (en representación de diputado 
+Miguel Angel Calisto) y Gonzalo Winter (10-0-0).
+Artículo 21
+Artículo 21.- Principios y normas aplicables al tratamiento de datos de los 
+órganos públicos. El tratamiento de los datos personales que realicen los 
+órganos públicos se rige por los principios establecidos en el artículo 3° de esta 
+ley y los principios generales que rigen la Administración del Estado, 
+especialmente los principios de coordinación, probidad y eficiencia.
+En virtud del principio de coordinación los organismos públicos deben alcanzar 
+un alto grado de interoperabilidad y coherencia, de modo de evitar 
+contradicciones en la información almacenada y reiteración de requerimientos 
+de información o documentos a los titulares de datos. Conforme al principio de 
+eficiencia se debe evitar la duplicación de procedimientos y trámites entre los 
+organismos públicos y entre éstos y los titulares de la información.
+Sin perjuicio de las demás normas establecidas en el presente Título, son 
+aplicables al tratamiento de datos que efectúen los órganos públicos, las 
+disposiciones establecidas en los artículos 2°, 14, 14 bis, 14 ter, 14 quáter, 14 
+quinquies, 14 sexies y 15 bis, los artículos del Párrafo Segundo y Tercero del 
+Título II, los artículos del Título V y los artículos del Título VII de esta ley. 
+Asimismo, le son aplicables los artículos 4°, 5°, 6°, 7° y 8°, en conformidad a lo 
+dispuesto en el artículo 23.
+1Indicación de los diputados Leonardo Soto y Calisto: En el numeral 10) que reemplaza el Título 
+IV, al artículo 20 propuesto, para agregar, a continuación de la frase “dentro del ámbito de sus 
+competencias,” la expresión “respetando las garantías fundamentales establecidas en el artículo 
+19, N° 4, de la Constitución Política de la República”.
+8
+--- PÁGINA 9 ---
+El diputado señor Sanchez solicita saber la opinión del Gobierno, porque 
+en coherencia de la anterior votación, en el último párrafo entiende que se repite 
+esta técnica legislativa que expresamente refuerza el límite constitucional, la que 
+sería innecesaria por hacer expresa mención a un principio general de 
+interpretación, ya que la coherencia interpretativa de las leyes es un principio 
+general del derecho.
+La Subsecretaria Lobos responde que es una situación distinta, porque 
+el capítulo es específico sobre tratamiento de datos personales entre organismos 
+públicos, donde no se aplica toda esta normativa contemplada en la ley, y por 
+tanto es necesario identificar expresamente aquellos límites que se aplicarán.
+Sometido a votación el artículo 21, es aprobado unanimidad de los 
+presentes. Votaron a favor lo(a)s señore(a)s diputado(a)s Karol Cariola 
+(Presidenta), Felipe Donoso (en representación del diputado Alessandri), 
+Gustavo Benavente, Marcos Ilabaca, Pamela Jiles, Andrés Longton, Luis 
+Sánchez, Leonardo Soto, Alberto Undurraga (en representación de diputado 
+Miguel Angel Calisto) y Gonzalo Winter (10-0-0).
+Artículo 22 
+ 
+Artículo 22.- Comunicación o cesión de datos por un órgano público. Los 
+órganos públicos están facultados para comunicar o ceder datos personales 
+específicos, o todo o parte de sus bases de datos o conjuntos de datos, a otros 
+órganos públicos, siempre que la comunicación o cesión de los datos resulte 
+necesaria para el cumplimiento de sus funciones legales y ambos órganos 
+actúen dentro del ámbito de sus competencias. La comunicación o cesión de los 
+datos se debe realizar para un tratamiento específico y el órgano público receptor 
+no los podrá utilizar para otros fines.
+Asimismo, se podrá comunicar o ceder datos o bases de datos personales 
+entre organismos públicos, cuando ellos se requieran para un tratamiento que 
+tenga por finalidad otorgar beneficios al titular, evitar duplicidad de trámites para 
+los ciudadanos o reiteración de requerimientos de información o documentos 
+para los mismos titulares.
+El órgano público receptor de los datos sólo puede conservarlos por el tiempo 
+necesario para efectuar el tratamiento específico para el cual fueron requeridos, 
+luego de lo cual deberán ser cancelados o anonimizados. Estos datos se podrán
+9
+--- PÁGINA 10 ---
+almacenar por un tiempo mayor cuando el órgano público requiera atender 
+reclamaciones o impugnaciones, realizar actividades de control o seguimiento, o 
+sirvan para dar garantía de las decisiones adoptadas.
+Para los efectos de poder comunicar o ceder datos personales a personas o 
+entidades privadas, los organismos públicos deberán contar con el 
+consentimiento del titular, salvo que la comunicación o cesión de datos sea 
+necesaria para cumplir las funciones del organismo público en materia de 
+fiscalización o inspección.
+Cuando se trate de comunicar o ceder datos personales en virtud de una 
+solicitud de acceso a la información formulada con arreglo a lo establecido en el 
+artículo 10 de la ley N° 20.285, los organismos públicos deberán contar con el 
+consentimiento del titular obtenido en la oportunidad prevista en el artículo 20 de 
+dicha ley.
+Respecto de la comunicación de los datos relativos a infracciones penales, 
+civiles, administrativas y disciplinarias, se aplicará lo dispuesto en el artículo 25.
+Los organismos públicos deberán informar mensualmente a través de su 
+página web institucional los convenios suscritos con otros organismos públicos 
+y con entidades privadas relativos a cesión o transferencia de datos personales. 
+Esta obligación será fiscalizada por la Agencia.
+- Indicación de los diputados Leonardo Soto y Calisto: 
+En el numeral 10) que reemplaza el Título IV, al artículo 22 propuesto, en su 
+inciso segundo, para agregar a continuación de la frase “organismos públicos,” 
+la palabra “exclusivamente”.
+- Indicación del Ejecutivo: 
+19) Para reemplazar, en el inciso tercero del artículo 22 del numeral 10), la 
+palabra “cancelados” por la palabra “suprimidos”.
+La Subsecretaria Lobos refiere que las indicaciones de los diputados 
+Soto y Calisto fue acogida en mesa técnica, ya que solo refuerza la idea de acotar 
+los casos en que Estado puede transferir datos.
+En cuanto a la indicación del Ejecutivo, es meramente adecuatoria, 
+conforme se ha venido haciendo en los artículos anteriores.
+10
+--- PÁGINA 11 ---
+La diputada señorita Cariola (Presidenta) solicita escuchar al 
+representante del Consejo para la Transparencia, señor Alejandro Gonzalez.
+El señor Alejandro Gonzalez, representante del Consejo para la 
+Transparencia, indicó tener observación acotada en el inciso quinto del artículo 
+22, y que indica lo siguiente: “Cuando se trate de comunicar o ceder datos 
+personales en virtud de una solicitud de acceso a la información formulada con 
+arreglo a lo establecido en el artículo 10 de la ley N° 20.285, los organismos 
+públicos deberán contar con el consentimiento del titular obtenido en la 
+oportunidad prevista en el artículo 20 de dicha ley”.
+Al respecto, y sin perjuicio de estar de acuerdo con la disposición, quieren 
+realizar una propuesta, en caso que la tenga a bien la Comisión. Considerando 
+que el Consejo para la Transparencia realiza un gran manejo de datos 
+personales, y en rigor siempre terminan solicitando la opinión del tercero – 
+efectuando el traslado respectivo -, les gustaría que al momento en que la 
+Agencia dictara la instrucción respectiva respecto a este punto en especial, se 
+escucha al Consejo para la Transparencia para que exista una coordinación 
+efectiva en el manejo de datos personales.
+En ese sentido, propone establecer dentro del mismo inciso la obligación 
+de requerir al Consejo para la Transparencia “en aquellos casos que se deba 
+aplicar o interpretar esta disposición, el cual se ajustará a las reglas dispuestas 
+en el artículo 31 del mismo cuerpo legal, y que dice relación con la coordinación 
+que debe existir entre la Agencia y el Consejo”.
+La Subsecretaria Lobos entiende que esta propuesta ya está 
+consagrada en el principio de coordinación general de los organismos del 
+Estado, no siendo necesario su incorporación expresa, para no sobre 
+dimensionar ni repetir normas que ya se aplican supletoriamente, y que 
+responden a normas generales.
+El diputado señor Soto, para proceder a votación, respecto de su 
+indicación que agrega la palabra “exclusivamente” cuando se autoriza a 
+organismos públicos a participar en las sesiones de bases de datos entre 
+organismos, esa palabra refuerza el cumplimiento de las finalidades donde se 
+permiten las transferencias de datos para que deba ser interpretada 
+estrictamente, porque no le parece que el Estado tenga amplias facultades en la 
+materia.
+Respecto de la observación del Consejo para la Transparencia, 
+concuerda con el Ejecutivo, ya que está operando el principio de coordinación 
+en el artículo 31. No le parece necesario ni sano hacer mención expresa, cada 
+vez que surja una dualidad de funciones de organismos en el proyecto, hacer
+11
+--- PÁGINA 12 ---
+mención al principio de coordinación, porque corremos el riesgo de que, cuando 
+no lo hagamos, se entienda que no aplica.
+Con todo, sí cree que están viendo desde ya contradicciones entre la 
+Agencia y el Consejo para la Transparencia, cuestión propia que se produce 
+cuando existen organismos distintos en materia de transparencia y datos 
+personales. A modo de ejemplo, cuando al Consejo le soliciten datos de 
+funcionarios públicos, para poder obtener la autorización tendrá que pedirla a la 
+Agencia de Datos, la que tendrá que resolver si lo entrega o no, según sus 
+propios criterios, los que pueden ser distintos.
+Al final, se producirá una incoherencia y un choque entre ambas 
+normativas o reglamentos de ambos organismos. Lo peligroso será, entonces, 
+cuando existan estos criterios distintos, porque no existe un organismo que lo 
+resuelva, cuestión que aún está pendiente de resolver.
+Sometido a votación el artículo 22, en conjunto a la indicación del 
+Ejecutivo y la indicación de los diputados Soto y Calisto, es aprobado por la 
+unanimidad de los presentes. Votaron a favor lo(a)s señore(a)s diputado(a)s 
+Karol Cariola (Presidenta), Felipe Donoso (en representación del diputado 
+Alessandri), Marcos Ilabaca, Pamela Jiles, Luis Sánchez, Leonardo Soto, Alberto 
+Undurraga (en representación de diputado Miguel Angel Calisto) y Gonzalo 
+Winter (8-0-0)
+La diputada señora Jiles, solicita poner a consideración de la 
+Comisión, agregar su votación a favor en las disposiciones que se hayan 
+votado sin la presencia de ella, en el entendido que han sido todos votados 
+por unanimidad y, por tal, su incorporación no modificaría el resultado de 
+las votaciones.
+En el mismo sentido, el diputado Marcos Ilabaca solicitó incorporar 
+su votación a favor en los artículos 20 y 21, en los que él se encontraba 
+fuera de la sala de sesión.
+Finalmente, el diputado Gonzalo Winter y el diputado Felipe Donoso 
+realiza idéntica solicitud.
+- 
+Sometido a consideración, la Comisión acordó por unanimidad 
+incorporar las votaciones a favor de la diputada Pamela Jiles, 
+Felipe Donoso (en representación del diputado Jorge Alessandri) 
+y el diputado Gonzalo Winter en el numeral 9, que modifica el 
+artículo 19, y los artículos 20 y 21. Y del diputado Marcos Ilabaca 
+en las votaciones de los artículos 20 y 21. Con el acuerdo de lo(a)s
+12
+--- PÁGINA 13 ---
+señore(a)s diputad(a)os Karol Cariola (Presidenta), Felipe Donoso (en 
+representación del diputado Alessandri), Alberto Undurraga (en 
+representación del diputado Calisto), Marcos Ilabaca, Pamela Jiles, 
+Andrés Longton,  Luis Sánchez, Leonardo Soto, y Gonzalo Winter (9-
+0-0).
+Artículo 23
+Artículo 23.- Ejercicio de los derechos del titular, procedimiento administrativo 
+de tutela y reclamo de ilegalidad. El titular de datos podrá ejercer ante el órgano 
+público los derechos de acceso, rectificación y oposición que le reconoce esta 
+ley. El titular también podrá oponerse a un tratamiento específico cuando éste 
+sea contrario a las disposiciones de este título. El titular podrá ejercer el derecho 
+de cancelación en los casos previstos en el inciso tercero del artículo anterior.
+Los organismos públicos no acogerán las solicitudes de acceso, rectificación, 
+oposición, cancelación o bloqueo temporal de los datos personales en los 
+siguientes casos:
+a) Cuando con ello se impida o entorpezca el cumplimiento de las funciones 
+fiscalizadoras, investigativas o sancionatorias del organismo público, y 
+cualquiera de los derechos que le reconoce esta ley. La reclamación se sujetará 
+a las normas previstas en el procedimiento administrativo de tutela de derechos 
+establecido en el artículo 41.
+b) Cuando con ello se afecte el deber de secreto o reserva establecido en la 
+ley.
+El ejercicio de los derechos del titular se deberá realizar de acuerdo al 
+procedimiento establecido en el artículo 11 de esta ley, dirigiéndose al jefe 
+superior del servicio.
+El titular podrá reclamar ante la Agencia cuando el organismo público le haya 
+denegado, en forma expresa o tácita, una solicitud en que ejerce
+- Indicación del Ejecutivo: 
+20) Para modificar el artículo 23 de su numeral 10) en el siguiente sentido:
+13
+--- PÁGINA 14 ---
+a) Reemplázase, en su inciso primero, la palabra “cancelación” por la palabra 
+“supresión”.
+b) Reemplázase, en el encabezado de su inciso segundo, la palabra 
+“cancelación” por la palabra “supresión”.
+- Indicación de los diputados Leonardo Soto y Calisto [Retirada]: 
+En el numeral 10) que reemplaza el Título IV, al artículo 23 propuesto, para 
+suprimir su letra b). 
+ 
+ 
+El diputado señor Soto funda su indicación, describiéndola más bien 
+como una votación separada, respecto del deber de reserva que tienen varios 
+funcionarios públicos. Es un área donde los temas de transparencia entran en 
+colisión con una Agencia separada, y por ello solicitaron la supresión. 
+ 
+Con todo, en la mesa de trabajo se llegó a un acuerdo que mejora su 
+propuesta, por lo que se ha permitido firmar la propuesta de indicación. Por 
+último, solicita escuchar al representante del Consejo para la Transparencia.
+- 
+Indicación de los diputados Karol Cariola y Leonardo Soto (a 
+propuesta de la mesa técnica): 
+ 
+Para reemplazar el literal b) del inciso segundo del artículo 23 del numeral 10) 
+por el siguiente:
+“b) Cuando con ello se afecte el carácter secreto de la información, establecido 
+por la ley.”. 
+ 
+ 
+La diputada señora Jiles, solicitando punto de reglamento, indicó que 
+la Subsecretaria Segpres ha solicitado la palabra. La Presidenta de la 
+Comisión, haciendo presente que existía una solicitud previa de palabra, le 
+otorga la palabra al representante del Consejo para la Transparencia y luego a 
+la Subsecretaria Lobos.
+El señor Alejandro González (Consejo para la Transparencia), no tiene 
+reparo a la supresión del literal b) y su modificación en el sentido que indica el 
+diputado Soto.
+La Subsecretaría Lobos detalló que la indicación viene a aclarar la 
+naturaleza de la información, y no al deber que pesa sobre ciertos funcionarios 
+de guardar reserva sobre ciertas situaciones, como lo establece el artículo 35
+14
+--- PÁGINA 15 ---
+del Código Tributario o la Ley N° 20.255 respecto de los datos previsionales, 
+entre otras.
+Sometida a votación el artículo 23, junto con las dos indicaciones del 
+Ejecutivo y la indicación de los diputados Soto y Cariola, es aprobada por 
+unanimidad. Votaron a favor lo(a)s diputado(a)s señore(a)s Karol Cariola 
+(Presidenta), Felipe Donoso (en representación del diputado Alessandri), 
+Gustavo Benavente, Alberto Undurraga (en representación del diputado Calisto), 
+Pamela Jiles, Andrés Longton, Luis Sánchez, Leonardo Soto, y Gonzalo Winter 
+(9-0-0).
+Artículo 24
+Artículo 24.- Regímenes especiales. El tratamiento, comunicación o cesión de 
+datos personales, realizado por órganos públicos competentes en las materias 
+que a continuación se indican, estarán sujetos exclusivamente al régimen de 
+regulación especial establecido en este artículo:
+a) Aquellos que se realicen con fines de prevención, investigación, detección 
+o enjuiciamiento de infracciones penales o de ejecución de sanciones penales, 
+incluidas las actividades de protección y prevención frente a las amenazas y 
+riesgos contra la seguridad pública.
+b) Aquellos en materias relacionadas directamente con la seguridad de la 
+Nación, la defensa nacional y la política exterior del país.
+c) Aquellos realizados con el objeto exclusivo de atender una situación de 
+emergencia o catástrofe, declarada de conformidad a la ley y sólo mientras 
+permanezca vigente esta declaración.
+d) Aquellos que se encuentren protegidos por normas de secreto, reserva o 
+confidencialidad, establecidas en sus respectivas leyes. Dentro de esta 
+excepción se entienden también comprendidos los datos que, en cumplimiento 
+de una obligación legal, los órganos públicos deban ceder a otro órgano público 
+o a terceros, debiendo en tal caso el receptor tratarlos manteniendo la misma 
+obligación de secreto, reserva o confidencialidad.
+Los órganos públicos correspondientes podrán tratar, ceder y comunicar datos 
+personales de forma lícita, siempre y cuando se realice para el cumplimiento de 
+sus funciones legales, dentro del ámbito de sus competencias y respetando las
+15
+--- PÁGINA 16 ---
+garantías fundamentales establecidas en el artículo 19, N° 4, de la Constitución 
+Política de la República y los principios establecidos en el artículo 3°.
+Con el objeto de realizar los tratamientos, cesiones y comunicaciones de datos 
+para la finalidad prevista en las letras a), b) y c) anteriores, los órganos públicos 
+y sus autoridades estarán obligadas a intercambiar información y proporcionar 
+los datos personales que les sean requeridos para estos fines, siempre que se 
+refieran a tratamientos que se realicen con una finalidad específica autorizada 
+por ley o, cuando esto no sea posible, el requerimiento sea una medida necesaria 
+y proporcional.
+El Consejo podrá, oyendo previamente a los órganos competentes, dictar 
+instrucciones para especificar la forma de aplicar las referidas garantías y 
+principios a los casos mencionados, de manera de asegurar su resguardo y 
+permitir el debido cumplimiento de las funciones legales de los órganos 
+correspondientes.
+- Indicación del diputado Andrés Longton: 
+Para suprimir las letras a) y b) del artículo 24 del numeral 10) del artículo único.
+- Indicación del diputado Luis Sánchez [retirada]:  
+Reemplázase en el inciso final del artículo 24, la expresión “El Consejo” por la 
+expresión “La Agencia”.
+El diputado señor Sánchez retira su indicación.
+La Subsecretaria Lobos solicita a la Comisión posponer la votación del 
+artículo 24, ya que esta materia aun estáZ  siendo abordada por la mesa técnica, 
+a la espera de llegar a un acuerdo.
+La diputada señorita Cariola (Presidenta) recuerda que se ha arribado 
+al acuerdo de que, aquellas indicaciones que no tengan indicaciones de la mesa 
+técnica, pero que estuvieren trabajando en construir acuerdos, pudieran ser 
+pospuestas en su votación, por lo que le pregunta a los miembros de la Comisión 
+su parecer.
+El diputado señor Soto segunda idea, porque se trata del manejo de 
+datos personales en contexto de investigaciones penales, y entiende que la 
+mesa técnica ya inicio trabajo con el Ministerio Público y hay reunión pendiente 
+con ellos a concretarse próximamente.
+16
+--- PÁGINA 17 ---
+- 
+Se acuerda, por unanimidad, prorrogar la votación del artículo 24 y 
+las indicaciones respectivas.
+Artículo 25
+Artículo 25.- Datos relativos a infracciones penales, civiles, administrativas y 
+disciplinarias. Los datos personales relativos a la comisión y sanción de 
+infracciones penales, civiles, administrativas y disciplinarias sólo pueden ser 
+tratados por los organismos públicos para el cumplimiento de sus funciones 
+legales, dentro del ámbito de sus competencias y en los casos expresamente 
+previstos en la ley.
+En las comunicaciones que realicen los organismos públicos, con ocasión del 
+tratamiento de estos datos personales, deberán velar en todo momento porque 
+la información comunicada o hecha pública sea exacta, suficiente, actual y 
+completa.
+No podrán comunicarse o hacerse públicos los datos personales relativos a la 
+comisión y condena de infracciones penales, civiles, administrativas o 
+disciplinarias, una vez prescrita la acción penal, civil, administrativa o disciplinaria 
+respectiva, o una vez que se haya cumplido o prescrito la pena o la sanción 
+impuesta, lo que deberá ser declarado o constatado por la autoridad pública 
+competente. Lo anterior es sin perjuicio de la incorporación, mantenimiento y 
+consulta de esta información en los registros que llevan los órganos públicos por 
+expresa disposición de la ley, en la forma y por el tiempo previsto en la ley que 
+establece la obligación específica correspondiente. Las personas que se 
+desempeñen en los órganos públicos están obligadas a guardar secreto respecto 
+de esta información, la que deberá ser mantenida como información reservada.
+Cuando la ley disponga que la información relativa a la comisión y sanción de 
+infracciones penales, civiles, administrativas y disciplinarias deba hacerse 
+pública a través de su incorporación en un registro de sanciones, o su publicación 
+en el sitio web de un órgano público o en cualquier otro medio de comunicación 
+o difusión, sin fijar un período de tiempo durante el cual deba permanecer 
+disponible esta información, se seguirán las siguientes reglas:
+a) Respecto de las infracciones penales, los plazos de publicidad se regirán 
+por las normas particulares que rigen para este tipo de infracciones.
+17
+--- PÁGINA 18 ---
+b) Respecto de las infracciones civiles, administrativas y disciplinarias, 
+permanecerán accesibles al público por el período de cinco años.
+Se prohíbe el tratamiento masivo de los datos personales contenidos en los 
+registros electrónicos de infracciones penales, civiles, administrativas y 
+disciplinarias que lleven los organismos públicos. El incumplimiento de esta 
+prohibición constituye una infracción gravísima de conformidad a esta ley.
+Exceptúense de la prohibición de comunicación los casos en que la 
+información sea solicitada por los tribunales de justicia u otro organismo público 
+para el cumplimiento de sus funciones legales y dentro del ámbito de su 
+competencia, quienes deberán mantener la debida reserva.
+No obstante lo dispuesto en el inciso tercero del presente artículo, los datos 
+personales relativos a la comisión y sanción de infracciones penales revisten 
+carácter reservado y, salvo las disposiciones legales que autorizan su 
+tratamiento, no podrán ser comunicados o cedidos a terceras personas por los 
+organismos públicos que los posean.
+La diputada señorita Cariola (Presidenta), solicita a la Comisión votar el 
+presente artículo por la unanimidad, habida consideración de la ausencia de 
+indicaciones.
+La diputada señora Jiles solicita, en primer lugar, dar lectura al artículo 
+25, lo que se realiza por el señor Secretario Velásquez.
+Sometida a votación el artículo 25, es aprobado por la unanimidad de los 
+presentes. Votaron a favor lo(a)s diputado(a)s señore(a)s Karol Cariola 
+(Presidenta), Felipe Donoso (en representación del diputado Alessandri), 
+Gustavo Benavente, Alberto Undurraga (en representación del diputado Calisto), 
+Pamela Jiles, Raúl Leiva, Andrés Longton, Luis Sánchez, Leonardo Soto, y 
+Gonzalo Winter (10-0-0).
+ARTÍCULO 26
+Artículo 26.- Reglamento. Las condiciones, modalidades e instrumentos para 
+la comunicación o cesión de datos personales entre organismos públicos y con 
+personas u organismos privados, se regularán a través de un reglamento
+18
+--- PÁGINA 19 ---
+expedido por el Ministerio Secretaría General de la Presidencia y suscrito por el 
+Ministro de Hacienda, previo informe de la Agencia. En este mismo reglamento 
+se regularán los procedimientos de anonimización de los datos personales, 
+especialmente los datos personales sensibles.
+Con todo, este reglamento no será aplicable a aquellas cesiones en las que 
+tenga participación alguno de los órganos a los que se refiere el Título VIII de 
+esta ley.”.
+- Indicación del Ejecutivo: 
+Para agregar, en el inciso primero del artículo 26 del numeral 10), a 
+continuación de la expresión “por el Ministro de Hacienda” la expresión “y por el 
+Ministro de Economía, Fomento y Turismo”.
+La Subsecretaria Lobos fundó la indicación en el hecho de que el 
+reglamento trata las condiciones y modalidades de transferencias, comunicación 
+y sesión de datos personales entre organismos públicos, y se entendió que era 
+una materia de competencia compartida con el Ministerio de Economía, Fomento 
+y Turismo, debiendo entonces ser suscrito por ambas carteras.
+El diputado señor Soto refiere que durante esta tramitación se han 
+revisado los aspectos que tienen que ver con los datos de carácter civil o de 
+protección de los derechos de las personas, y en pocos casos en materia penal 
+con los datos que maneja el Ministerio Público, pero para hacer estos 
+reglamentos se incluye al Ministerio de Hacienda, pero ahora se incorpora al 
+Ministerio de Economía.
+Cree que se introduce una perspectiva económica productiva que no cree 
+apropiada para la materia que se está tratando. Indicó que no sabe cuál es la 
+razón para incluir un ministerio que ha tenido tan poca influencia en la generación 
+de este proyecto de ley, como también en su tramitación.
+Por su parte, la diputada señorita Cariola (Presidenta) entiende que la 
+motivación para incluir al Ministerio de Economía radicaría sólo en una cuestión 
+de competencias de las materias que se regularán.
+La Subsecretaria Lobos indico que, si bien el tema institucional es aún 
+una cuestión en pleno debate, la propuesta original del proyecto establece que 
+la Agencia se relaciona con el Presidente de la República a través del Ministerio 
+de Economía, Fomento y Turismo, más allá de su autonomía. Por lo mismo, es 
+necesario que en el reglamento participe esta cartera.
+19
+--- PÁGINA 20 ---
+Sometido a votación el artículo 26 con la indicación del Ejecutivo, es 
+aprobada por la unanimidad. Votaron a favor lo(a)s diputado(a)s señore(a)s 
+Karol Cariola, (Presidenta), Felipe Donoso (en representación del diputado 
+Alessandri), Gustavo Benavente, Alberto Undurraga (en representación del 
+diputado Calisto), Pamela Jiles, Raúl Leiva, Andrés Longton, Luis Sánchez, 
+Leonardo Soto, y Gonzalo Winter (10-0-0).
+Numeral 11), Artículo 27
+11) Reemplázase el Título V por el siguiente:
+“Título V 
+De la transferencia internacional de datos personales 
+ 
+Artículo 27.- Regla general de autorización. Cumpliéndose los requisitos que, 
+de conformidad a esta ley, confieren licitud al tratamiento de datos, son lícitas las 
+operaciones de transferencia internacional de datos en los siguientes casos:
+a) Cuando la transferencia se realice a una persona, entidad u organización 
+pública o privada, sujeta al ordenamiento jurídico de un país que proporcione 
+niveles adecuados de protección de datos personales, de conformidad a lo 
+dispuesto en el artículo 28.
+b) Cuando la transferencia de datos quede amparada por cláusulas 
+contractuales u otros instrumentos jurídicos suscritos entre el responsable que 
+efectúa la transferencia y el que la recibe, y en ellas se establezcan los derechos 
+y garantías de los titulares, las obligaciones de los responsables y los medios de 
+control.
+c) Cuando el responsable que efectúa la transferencia y el que la recibe, 
+adopten un modelo de cumplimiento o autorregulación vinculante y certificado de 
+acuerdo a la legislación aplicable para cada uno de ellos.
+d) Cuando exista consentimiento expreso del titular de datos para realizar una 
+transferencia internacional de datos específica y determinada.
+20
+--- PÁGINA 21 ---
+e) Cuando se refiera a transferencias bancarias, financieras o bursátiles 
+específicas y que se realicen conforme a las leyes que regulan estas 
+transferencias.
+f) Cuando la transferencia se efectúe entre sociedades o entidades que 
+pertenezcan a un mismo grupo empresarial, empresas relacionadas o sujetas a 
+un mismo controlador en los términos previstos en la Ley de Mercado de Valores, 
+siempre que todas ellas operen bajo los mismos estándares y políticas en 
+materia de tratamiento de datos personales. El responsable que efectúe la 
+transferencia de datos asumirá la responsabilidad por cualquier infracción a los 
+estándares y políticas corporativas vinculantes en que incurra algunos de los 
+miembros del grupo empresarial. El responsable sólo podrá exonerarse de esta 
+responsabilidad cuando acredite que la infracción no fue imputable al miembro 
+del grupo empresarial correspondiente.
+g) Cuando se deban transferir datos para dar cumplimiento a obligaciones 
+adquiridas en tratados o convenios internacionales que hayan sido ratificados 
+por el Estado chileno y se encuentren vigentes.
+h) Cuando la transferencia resulte necesaria por aplicación de convenios de 
+cooperación, intercambio de información o supervisión que hayan sido suscritos 
+por órganos públicos para el cumplimiento de sus funciones y en el ejercicio de 
+sus competencias.
+i) 
+Cuando la transferencia de datos realizada por una persona natural o 
+jurídica, pública o privada, haya sido autorizada expresamente por la ley 
+y para una finalidad determinada.  
+j) Cuando la transferencia sea efectuada con el objeto de prestar o solicitar 
+colaboración judicial internacional.
+k) Cuando la transferencia sea necesaria para la celebración o ejecución de 
+un contrato entre el titular y el responsable, o para la ejecución de medidas 
+precontractuales adoptadas a solicitud del titular.
+l) Cuando sea necesario adoptar medidas urgentes en materia médica o 
+sanitaria, para la prevención o diagnóstico de enfermedades, para tratamientos 
+médicos o para la gestión de servicios sanitarios o de salud.
+- Indicación del diputado Luis Sánchez:  
+Al numeral 11), en el inciso primero del artículo 27: 
+1.- Reemplazase la expresión “confieren licitud” por “autorizan”.
+21
+--- PÁGINA 22 ---
+2.-Incorporase 
+a 
+continuación 
+entre 
+las 
+expresiones 
+“transferencia 
+internacional de datos en” y “los siguientes casos:” la expresión “cualquiera de”.
+- Indicación del Ejecutivo: 
+Para modificar el inciso primero del artículo 27 de su numeral 11) en el 
+siguiente sentido:
+a) Modifícase su literal b) en el siguiente sentido: 
+ 
+i. Reemplázase la expresión “y el que la recibe” por la expresión “y el 
+responsable o tercero mandatario que la reciba”.
+ii. Agrégase, a continuación de la expresión “de los responsables”, la 
+expresión “y terceros mandatarios”.
+b) Reemplázase, en el literal c), la expresión “y el que la recibe” por “y el 
+responsable o tercero mandatario que la reciba".
+La Subsecretaria Lobos detalla que la indicación del diputado Sánchez 
+tiene por objeto precisar que la posibilidad de transferencia de datos 
+internacionales se podrá realizar en cualquiera de las hipótesis que se detallan 
+a continuación del encabezado del artículo 27.
+Por su parte, las indicaciones del Ejecutivo tienen que ver con la 
+armonización respecto de la nomenclatura que internacionalmente se utiliza en 
+materia de tratamiento de datos, cómo, por ejemplo, en vez de hablar de persona 
+que lo recibe, se habla de responsable o tercero mandatario que lo reciba.
+Con todo, existe un acuerdo de la Mesa en el orden de aprobar las 
+indicaciones.
+La diputada señorita Cariola (Presidenta), solicita escuchar la opinión 
+del experto Pablo Trigo.
+El señor Pablo Trigo (investigador CEDI Universidad de Chile) señalo 
+que existe un elemento no abordado adecuadamente, desde el punto de vista de 
+la protección de los derechos del titular de datos, y también con mira a que el día 
+de mañana Chile sea aceptado como un país adecuado en materia de legislación 
+de transferencia y protección de datos personales.
+En particular, expresó preocupación por el literal b) y c) del artículo 27, 
+que se refieren a las cláusulas contractuales para exportación de datos, y los
+22
+--- PÁGINA 23 ---
+modelos de cumplimiento y autorregulación, respectivamente, no se encuentran 
+sujetos a alguna aprobación o visación por parte de la Agencia.
+Aquello conlleva a un gran riesgo, que es que las cláusulas no cumplan 
+con el estándar de la nueva normativa chilena, que estará en un estándar más 
+alto.
+Lamenta que el representante de la Unión Europea no se encuentre en 
+estos momentos, porque sería bueno escuchar su opinión en cuanto a que, esta 
+omisión limitaría la posibilidad de que Chile pueda ser calificado como un país 
+adecuado. A su entender, cree que podría haber un problema para su obtención.
+La señora Macarena Gatica, académica y abogada socia del Estudio 
+Alessandri, refiere que efectivamente antes, en la Unión Europa, con la Directiva 
+95 se establecía que se requería autorización del órgano de control cuando un 
+país no era considerado puerto seguro. Luego, esto ha ido migrando hacia la 
+autorregulación, por lo que establecer un requisito adicional es una carga para 
+los organismos públicos, y por ello lo que se intenta hacer es reforzar las medidas 
+de autorregulación y del plan de cumplimiento, siendo recomendable que tanto 
+el importador como el exportador de datos se sometan a uno de ellos.   
+ 
+ 
+La Subsecretaria Lobos refiere que, tal y como lo planteaba la abogada 
+Gatica, uno de los objetivos del proyecto que se ha tenido a la vista es el de 
+autorregulación. La evolución que ha tenido la normativa europea en esta 
+materia ha sido el estándar que se ha observado para ingresar las propuestas, 
+por lo que cree que aprobando las indicaciones y el articulado de la forma 
+propuesta se cumpliría dicho objeto. 
+ 
+ 
+El diputado señor Soto refiere comprender la observación que se realiza 
+por el experto señor Trigo. Se establece un modelo de cumplimiento de 
+autorregulación vinculante y certificado, quedando habilitado para el tratamiento 
+de datos internacionales, pero no se establece un modelo específico que se 
+recomiende por parte del Estado, para poder ajustarse a aquel, el que debería 
+ser visado por la Agencia. 
+ 
+Por lo anterior, sugiere avanzar aprobando todo el articulado, pero con el 
+compromiso por parte del Ejecutivo, antes que se despache el proyecto, pueda 
+establecer una norma que quizás estableciera un estándar desde lo público que 
+orientara a todos estos modelos de cumplimiento privados, que pueden ser 
+múltiples.
+El diputado señor Sanchez califica la redacción del artículo como 
+incoherente. Lo anterior porque, en primer lugar, el artículo dispone que la 
+Agencia establecerá la lista de países que contemplan niveles adecuados de
+23
+--- PÁGINA 24 ---
+protección, pero en el párrafo penúltimo indica que, por simple resolución, podrán 
+autorizar la transferencia de datos a otras entidades que, a pesar de estar 
+constituidos dentro de países que no estén calificados como adecuados, 
+otorguen garantías adecuadas de protección.
+Siendo así, le preocupa que se le esté dando un ancho de manga 
+demasiado grande a la Agencia, al permitirles establecer autorizaciones 
+excepcionales a empresas que no cumplen con el estándar requerido por la 
+propia ley.
+La Subsecretaria Lobos, respondiendo a las inquietudes, es que el 
+artículo lo que hace es establecer, en primer lugar, que los estándares de 
+seguridad deben estar cumplidos por el país de origen, y en el artículo 28 se 
+establece una norma de carácter general en que la Agencia pondrá a disposición 
+de los interesados el listado de países adecuados y modelos tipos de cláusulas 
+contractuales y otros instrumentos jurídicos para la transferencia. Por tanto, no 
+será una certificación ex post, caso a caso, pero va a establecer ex antes, 
+digamos, los parámetros a los cuales deben sujetarse para hacer la 
+transferencia.
+De esa forma, entiende que se cumple el objetivo del resguardo, sin poner 
+la carga adicional que plantea Macarena Gatica.
+La diputada señorita Cariola (Presidenta), solicita dar lectura al artículo 
+28 del proyecto, porque cree que teniendo en consideración su contenido, será 
+más fácil comprender el artículo 27.
+El señor Velázquez, Secretario Abogado de la Comisión, dio lectura al 
+artículo 28.
+La diputada señorita Cariola (Presidenta) entiende que el listado de 
+países y normas de origen es un punto vinculado en ambos artículos, y siendo 
+así propone votar el artículo 27 con todas las indicaciones ingresadas.
+Sometido a votación el artículo 27, junto con las indicaciones del 
+Ejecutivo y del diputado señor Sánchez, es aprobado por unanimidad. 
+Votaron a favor lo(a)s diputado(a)s señore(a)s Karol Cariola, (Presidenta), Felipe 
+Donoso (en representación del diputado Alessandri), Gustavo Benavente, 
+Marcos Ilabaca, Alberto Undurraga (en representación del diputado Calisto), 
+Raúl Leiva, Andrés Longton, Luis Sánchez, Leonardo Soto, y Gonzalo Winter 
+(10-0-0).
+24
+--- PÁGINA 25 ---
+Artículo 28
+Artículo 28.- Regla de determinación de países adecuados y demás normas 
+aplicables a la transferencia internacional de datos. Se entiende que el 
+ordenamiento jurídico de un país posee niveles adecuados de protección de 
+datos, cuando cumple con estándares similares o superiores a los fijados en esta 
+ley. La Agencia determinará fundadamente los países que poseen niveles 
+adecuados de protección de datos considerando, a los menos, lo siguiente:
+a) El establecimiento de principios que rigen el tratamiento de los datos 
+personales.
+b) La existencia de normas que reconozcan y garanticen los derechos de los 
+titulares de datos y la existencia de una autoridad pública jurisdiccional o 
+administrativa de control o tutela.
+c) La imposición de obligaciones de información y seguridad a los 
+responsables del tratamiento de los datos.
+d) La determinación de responsabilidades en caso de infracciones.
+La Agencia pondrá en su página web a disposición de los interesados modelos 
+tipo de cláusulas contractuales y otros instrumentos jurídicos para la 
+transferencia internacional de datos.
+Cuando no se verifique ninguna de las circunstancias señaladas en el artículo 
+anterior, la Agencia podrá autorizar, mediante resolución fundada, la 
+transferencia internacional de datos siempre que el transmisor y el receptor de 
+los datos otorguen las garantías adecuadas en relación con la protección de los 
+derechos de las personas que son titulares de estos datos y la seguridad de la 
+información transferida. La Agencia podrá imponer condiciones previas para que 
+se verifique la transferencia.
+Corresponderá al responsable de datos que efectuó la transferencia 
+internacional de datos, acreditar que ésta se practicó de conformidad a las reglas 
+establecidas en esta ley.
+- Indicación del Ejecutivo: 
+Para agregar, en el literal c) del artículo 28 de su numeral 11), a continuación 
+de la expresión “a los responsables” la expresión “y terceros mandatarios”.
+25
+--- PÁGINA 26 ---
+- Indicación del Ejecutivo: 
+Para intercalar, en el inciso segundo del artículo 28 de su numeral 11), a 
+continuación de la palabra “interesados”, la expresión “un listado de países 
+adecuados y”.
+- 
+Indicación del diputado Sánchez: para eliminar el inciso tercero.
+La señora Lizzy Seaman, asesora del Ministerio Secretaría General de la 
+Presidencia y encargada de liderar la mesa técnica, destaca que ambas 
+indicaciones modifican la expresión “los responsables” por “y terceros 
+mandatarios”, adicionándola en conformidad con los artículos 14 y 15 como ya 
+se realizó anteriormente. Además, se agrega al inciso antepenúltimo la 
+obligación de la Agencia de publicar una lista de países adecuados para la 
+transferencia de datos internacionales.
+El diputado señor Sánchez refiere que, con lo recientemente señalado, 
+le hace ruido que una norma permita baipasear el criterio establecido en los dos 
+primeros incisos del artículo 28. Es razonable un control estricto Inter fronterizo 
+de datos personales, no debería ser algo flexible o fácil, y por tanto la Agencia o 
+entidad que tiene bajo su deber el resguardo de los datos personales debe, 
+efectivamente, determinar que países de ajustan a ese nivel de protección, pero 
+no le parece bien que, por resolución fundada, que es un acto administrativo 
+simple, establezca que ese país es seguro.
+Por lo mismo, ha ingresado una indicación con la finalidad de rechazar el 
+inciso tercero.
+La señora Lizzy Seaman refiere que para un mejor análisis hay que hacer 
+una distinción. La primera parte del artículo se refiere a la regla de determinación 
+de países adecuados, y los literales van fijando esos requisitos. Por otro lado, el 
+inciso tercero no se refiere a la declaración de un país adecuado, sino al caso en 
+que en países donde no se cumpla dichos requisitos, y para casos particulares, 
+la Agencia podría autorizar la transferencia de esos datos.
+Así, cuando autoricen, deberán establecer para ese caso una serie de 
+garantías que permitan – no declaran el país adecuado – sino para dar seguridad 
+de la protección de los derechos de los titulares.
+El diputado señor Undurraga consulta al ejecutivo si, en resumidas 
+cuentas, estaríamos no frente a una excepción, sino simplemente frente a una 
+condición distinta.
+26
+--- PÁGINA 27 ---
+La señora Lizzy Seaman aclara que es correcto, y que se tratará de una 
+trasferencia específica, caso a caso, donde se aceptarán o autorizarán 
+transferencias de datos a países que no son declarados como adecuados, bajo 
+ciertos requisitos de seguridad imponibles.
+El diputado señor Sánchez solicita precisar. Se estaría hablando no 
+sobre la posibilidad de que el país ingrese al catálogo de adecuados, sino que 
+se puede autorizar transferencia de datos caso a caso, pero a la larga es lo 
+mismo. Se puede ir autorizando caso a caso hasta convertirse en una regla 
+general.
+Insiste en que no le gusta la idea de que la Agencia determine, libremente, 
+cuáles son los casos en que se exceptúa, y prefiere una norma estrecha y 
+estricta, y si el país no está en el catálogo, no se le puede transferir datos.
+La diputada señorita Cariola (Presidenta) solicita más rigurosidad. El 
+proyecto no dice que da lo mismo si el país no está dentro de la lista de 
+adecuados, sino que se trata de una autorización puntual y excepcional, previa 
+revisión de garantías de seguridad.
+Entiende el punto del diputado Sánchez de preferir taxatividad, pero 
+también hay que tener en claro que al eliminarlo estaríamos frente a una norma 
+inflexible que imposibilita la configuración de transferencias que pueden ser 
+beneficiosas.
+El diputado señor Undurraga solicita ejemplificar al ejecutivo. Si se trata 
+de un conjunto de países que cumplen con la norma, se encontrarían dentro del 
+supuesto que regula el inciso primero, pero de lo contrario, no entiende porque 
+se debería autorizar una transferencia de datos en aquellos países que no 
+cumplen las exigencias.
+El diputado señor Longton, luego de dar lectura al inciso tercero, 
+pregunta ¿cuáles son las garantías adecuadas? Si tenemos certeza de donde 
+están regladas, tendremos más certeza a la hora de determinar si se aprueba o 
+no este artículo.
+La señora Lizzy Seaman indica que el control previo que puede realizar 
+la Agencia y su estándar de garantías adecuadas están fijadas en la propia 
+norma, a saber, los derechos y obligaciones en materia de seguridad de datos, 
+deberes de transparencia y de información. Si bien, por supuesto, la Agencia 
+cuenta con cierto margen de discrecionalidad – como todos los organismos de
+27
+--- PÁGINA 28 ---
+la Administración – ese margen está cercado por los derechos y deberes que 
+establece el propio proyecto de ley.
+Del hecho de que un responsable, esto es, el receptor y el trasmisor de 
+datos, puedan dar estas garantías, no se sigue necesariamente que el país 
+tendrá dentro de su ordenamiento jurídico todos estos requisitos para ser 
+declarados como adecuados.
+El diputado señor Soto refiere que se está hablando de situaciones muy 
+particulares, como empresas o personas que tratan datos con países como 
+Corea del Norte, que no tiene relación con Chile. Siendo así, pregunta si 
+enfrentados a un caso así, cuáles serían las condiciones que impondría la 
+Agencia y cómo se materializa las garantías.
+La señora Lizzy Seaman respondió a las consultas, indicando que en 
+redacción del inciso tercero del artículo 28, las obligaciones son impuestas al 
+receptor y trasmisor de datos, no a los países que reciben o trasmiten los datos.
+El diputado señor Donoso le hace mucho ruido que un funcionario 
+público, cualquiera sea su nivel, y luego de que ningún país cumple el estándar, 
+tomar la decisión de que, frente a una presión de una potencia extranjera, pueda 
+exceptuarlo. Cree que esta norma cae en un exceso de inocencia al pretender 
+que un solo funcionario público puede hacer valer el respeto de garantías fuera 
+del territorio nacional.
+El diputado señor Benavente también refiere incomodidad con la norma 
+propuesta. En primer lugar, los requisitos que se exige son los mínimos, pues 
+señala “a lo menos los siguientes…”. Por otro lado, le parece que la norma del 
+inciso final indica que la Agencia mediante resolución fundada, “y siempre que le 
+otorguen garantías adecuadas”.
+Refiere que no se le ocurre que otras garantías de las que ya se 
+encuentran en la norma pueda otorgar. Además, es irrisorio pensar que ese 
+receptor de datos me pueda prestar las garantías, porque para que aquello sea 
+efectivo, deberían estar consagradas como obligaciones dentro de la legislación 
+de su país.
+Siendo así, apoya la idea de eliminar ese inciso.
+El diputado señor Ilabaca, revisando la norma, indicó que se establece 
+una excepción extraña, y no existiría acuerdo en estos momentos para poder 
+aprobar esta parte del articulado.
+Manifiesta que le gustaría conocer los fundamentos para saltarse la propia 
+regulación que se está creando, saltando las condiciones impuestas.
+28
+--- PÁGINA 29 ---
+Solicita a mesa técnica revisar esta parte, para que traigan propuesta.
+La señora Macarena Gatica, a modo de ejemplo, indica que Chile 
+respecto de la Unión Europea no califica como un país adecuado, y siendo así, 
+no debería de existir un flujo de datos entre ambos países. Ahora, en la práctica, 
+si hay flujos de datos, esto porque existe un sistema que permite acreditar de 
+que, pese a que somos un país no adecuado, la empresa si otorga la adecuada 
+protección conforme al reglamento europeo.
+Se permite recordar que el reglamento de la Unión Europea en la materia 
+contiene el principio de la extraterritorialidad, y nuestra legislación también. No 
+pensemos que quedaremos exentos de fiscalización, porque el exportador es 
+chileno y estará siempre bajo el control y fiscalización del organismo de control.
+Como otro ejemplo, indica que Chile ya cuenta con regulación en materia 
+de protección de datos personales, pero no así Costa Rica. Con todo, existe una 
+afiliar de una empresa chilena, y por tal con un estándar común en cuanto al 
+cumplimiento.
+A nivel de las empresas esta regulación común se da, siendo muy difícil 
+tener niveles de cumplimiento diferenciados.
+El señor Marcelo Drago, ex presidente del Consejo para la Transparencia, 
+refuerza lo indicado por la señora Gatica, en el sentido de que, el artículo 28, 
+antes de este inciso tercero, establece el reconocimiento entre países, lo que 
+implica libre flujo de datos para todas las empresas o entidades, sin chequeo.
+Por su parte, lo que permite el inciso tercero es que, en aquellas 
+jurisdicciones no declarada como adecuadas, como una empresa india a la cual 
+debemos encargarle vacunas (por ejemplo), podría indicar que cumple con 
+estándares de seguridad europeos, permitiendo el intercambio de datos entre 
+Chile y esa empresa.
+Si no existe, se bloquea la posibilidad de intercambiar datos a la espera de 
+su declaración, que es lo que le pasa a Chile, que aún no es considerado como 
+país adecuado.
+La diputada señorita Cariola (Presidenta) propone resolver el artículo en 
+la mesa técnica, para revisarlo bien. Le parece posible precisarlo con mayor 
+rigurosidad.
+El diputado señor Soto indica que la norma está bien, pero si hay algunos 
+que dudan, es bueno que lo revisen. Con todo, solicita orientación sobre la 
+observación que quieren hacer, porque esta es una norma espejo a la norma 
+europea, que es la que casi todo el mundo quiere.
+29
+--- PÁGINA 30 ---
+Entonces, si lo que se quiere tener es una legislación distinta a la mayoría 
+que utiliza el mundo, es necesario precisar que es lo que se quiere.
+La diputada señorita Cariola (Presidenta) solicita tener a bien pedirle, 
+como Comisión, la opinión a don Bruno Gencarelli, quien justamente es el 
+encargado de Datos Personales de la Unión Europea. Don Bruno ha estado en 
+dos ocasiones exponiendo en la Comisión y ha participado en las sesiones vía 
+telemática, y sin duda puede clarificarnos en la materia.
+El diputado señor Ilabaca indico entender que estamos en presencia de 
+una contra excepción en materia de transmisión de datos, pero el concepto de 
+garantías adecuadas es un concepto válvula, porque nada dice por sí solo. ¿A 
+qué nos referimos con garantías adecuadas? Podría quedar solo al criterio de la 
+autoridad de turno, sobre todo en aquellos países no adecuados, siendo un 
+peligro, por lo que deberíamos establecerlo de forma expresa.
+El diputado señor Sánchez le parece adecuado lo expresado por quien 
+le presidió la palabra, y solicita a la mesa establecer cuáles son las garantías 
+adecuadas, sea en remisión a otro artículo de la misma norma, porque no es 
+claro si se refiere a estos mismos estándares. Y también que se evalúe el “podrá” 
+por un “deberá” en la parte final del inciso tercero.
+El diputado señor Longton, sobre el punto, a pesar de la claridad de la 
+explicación de los invitados y del ejecutivo, y para que lo pueda trabajar la mesa 
+técnica, propone que al terminar la frase se agregue lo siguiente: “de acuerdo a 
+lo establecido en la presente ley”.
+La diputada señorita Cariola (Presidenta) propone votar el resto del 
+artículo, dejando pendiente el inciso tercero y cuarto y la respectiva indicación 
+del diputado Sánchez.
+En ese mismo sentido, si la mesa técnica estimase que para mejorar la 
+redacción debería modificarse todo el articulado o parte del mismo, deberíamos 
+estar abiertos para reabrir el debate.
+Sometido a votación el artículo 28, con excepción de los incisos tercero 
+y cuarto, junto con las indicaciones del Ejecutivo, fue aprobado por 
+unanimidad. Votaron a favor lo(a)s diputado(a)s señore(a)s Karol Cariola, 
+(Presidenta), Felipe Donoso (en representación del diputado Alessandri), 
+Gustavo Benavente, Marcos Ilabaca, Alberto Undurraga (en representación del 
+diputado Calisto), Raúl Leiva, Andrés Longton, Catalina Pérez, Luis Sánchez, 
+Leonardo Soto (10-0-0).
+30
+--- PÁGINA 31 ---
+Artículo 29
+Artículo 29.- Fiscalización.- La Agencia fiscalizará las operaciones de 
+transferencia  internacional de datos, pudiendo formular recomendaciones, 
+adoptar 
+medidas 
+conservativas 
+y 
+en 
+casos 
+calificados, 
+suspender 
+temporalmente el envío de los datos.”.
+Sometido a votación el artículo 29, se aprobada por unanimidad. Votaron 
+a favor lo(a)s diputado(a)s señore(a)s Karol Cariola, (Presidenta), Felipe Donoso 
+(en representación del diputado Alessandri), Gustavo Benavente, Marcos 
+Ilabaca, Alberto Undurraga (en representación del diputado Calisto), Raúl Leiva, 
+Andrés Longton, Catalina Pérez, Luis Sánchez, Leonardo Soto (10-0-0).
+Título VI 
+Artículos 30, 31 y 32. 
+ 
+Respecto de los artículos que componen el título VI, la representante del 
+Ejecutivo, señora Seaman, solicita aplazar o prorrogar su votación a la espera 
+de un acuerdo de la mesa técnica. Siendo así, sugiere continuar con la votación 
+en particular desde el artículo 33.
+La diputada señorita Cariola (Presidenta) realiza la consulta a la 
+Comisión.
+- 
+Se acuerda dejar pendiente de votación los artículos 30 al 32 del título 
+sexto.
+Artículo 33
+Título VII 
+De las infracciones y sus sanciones, de los procedimientos y de las
+responsabilidades 
+ 
+Artículo 33.- Régimen general de responsabilidad. El responsable de datos, 
+sea una persona natural o jurídica, de derecho público o privado, que en sus 
+operaciones de tratamiento de datos personales infrinja los principios, derechos 
+y obligaciones establecidos en esta ley, será sancionado de conformidad con las 
+normas del presente Título.
+31
+--- PÁGINA 32 ---
+- Indicación del diputado Luis Sánchez [Retirada]:  
+Suprímase en el artículo 33, la expresión “principios”.
+La señora Seaman refiere que en el título que se verá (título VII) existen 
+varias indicaciones del diputado Sánchez en el mismo sentido, esto es, para 
+eliminar la expresión “principio”. El alcance de la expresión principio fue discutida 
+por la Comisión, y se adoptó una decisión en el artículo tercero, y se sugiere que, 
+en vez de eliminarla, se sustituya por “los principios establecidos en el artículo 
+tercero de la presente ley”.
+El diputado señor Sánchez cree que es una solución razonable y de 
+coherencia, y solo resta preguntar a la mesa si retira la suya e ingresa una nueva.
+Teniendo a la vista la nueva redacción, entonces retira su indicación original.
+El diputado señor Soto recuerda que el debate fue intenso en su 
+oportunidad, porque parte de la mesa de la Comisión no aceptaba que los 
+principios del proyecto son obligatorios. Cuando se escuchó a todos los expertos 
+y expertas, se convencieron de que el respeto a los principios es el corazón de 
+la ley, sobre todo por la multiplicidad de situaciones que abarca, las que son 
+inconmensurables, y que en el fondo se enfrentan en todo el mundo a través del 
+cumplimiento de los principios.
+En lo que si recuerda tenia un punto el diputado Sánchez es que, cuando se 
+establecía en el texto en votación solamente la frase “principios” quedaba 
+expresado de forma general, y se debía acotar a los contenidos en esta ley.
+- 
+Indicación de los diputados Karol Cariola, Marcos Ilabaca y Luis 
+Sánchez (a propuesta de la mesa técnica): 
+Para agregar en el artículo 33 del numeral 12, a continuación de la palabra 
+“principios” la expresión “establecidos en el artículo 3 de la presente ley”.
+Sometido a votación el artículo 33, con la indicación de los diputados 
+Karol Cariola, Marcos Ilabaca y Luis Sánchez, es aprobado por unanimidad. 
+Votaron a favor lo(a)s diputado(a)s señore(a)s Karol Cariola, (Presidenta), Felipe 
+Donoso (en representación del diputado Alessandri), Marcos Ilabaca, Alberto 
+Undurraga (en representación del diputado Calisto), Raúl Leiva, Andrés Longton, 
+Catalina Pérez, Luis Sánchez, Leonardo Soto (9-0-0).
+Artículo 34
+32
+--- PÁGINA 33 ---
+Párrafo Primero 
+De la responsabilidad, las infracciones y las sanciones aplicables a las
+personas naturales o jurídicas de derecho privado
+Artículo 34.- Infracciones leves, graves y gravísimas. Las infracciones 
+cometidas por los responsables de datos a los principios, derechos y 
+obligaciones establecidos en esta ley se califican, atendida su gravedad, en 
+leves, graves y gravísimas.
+Las responsabilidades en que incurra una persona natural o jurídica por las 
+infracciones establecidas en esta ley, se entienden sin perjuicio de las demás 
+responsabilidades legales, civiles o penales, que pudieran corresponderle.
+- Indicación del diputado Luis Sánchez:  
+Suprímase en el artículo 34, la expresión “principios” [Retirada]. 
+ 
+El diputado señor Sánchez realiza retiro de su indicación, habida 
+consideración de la existencia de una indicación de consenso que se presenta.
+- 
+Indicación de los diputados Karol Cariola y Luis Sánchez (a propuesta 
+de la mesa técnica): 
+Para agregar en el inciso primero del artículo 34 del numeral 12, a 
+continuación de la palabra “principios” la expresión “establecidos en el artículo 
+3 de la presente ley”.
+Sometida a votación el artículo 34, con la indicación de la diputada 
+Karol Cariola y del diputado Luis Sánchez, es aprobado por la unanimidad. 
+Votaron a favor lo(a)s diputado(a)s señore(a)s Karol Cariola, (Presidenta), Felipe 
+Donoso (en representación del diputado Alessandri), Marcos Ilabaca, Alberto 
+Undurraga (en representación del diputado Calisto), Raúl Leiva, Andrés Longton, 
+Catalina Pérez, Luis Sánchez, Leonardo Soto (9-0-0).
+Artículo 34 bis
+Artículo 34 bis.- Infracciones leves. Se consideran infracciones leves, las 
+siguientes:
+33
+--- PÁGINA 34 ---
+a) Incumplimiento total o parcial del deber de información y transparencia, 
+establecido en el artículo 14 ter.
+b) Carecer de la individualización del domicilio postal, correo electrónico o 
+medio electrónico equivalente que permita comunicarse con el responsable de 
+datos o su representante legal, actualizado y operativo, a través del cual los 
+titulares de datos puedan dirigir sus comunicaciones o ejercer sus derechos.
+c) Omitir la respuesta, responder en forma incompleta o fuera de plazo, las 
+solicitudes formuladas por el titular de datos en conformidad a esta ley.
+d) Omitir el envío a la Agencia de las comunicaciones previstas 
+obligatoriamente en esta ley o sus reglamentos.
+e) Incumplimiento de las instrucciones generales impartidas por la Agencia en 
+los casos que no esté sancionado como infracción grave o gravísima.
+f) Cometer cualquier otra infracción a los derechos y obligaciones establecidas
+en esta ley, que no sea calificada como una infracción grave o gravísima.
+- Indicación del diputado Luis Sánchez:  
+Intercálese en el artículo 34 bis la siguiente letra f) nueva, pasando la actual a 
+ser letra g):
+f) Entregar información incompleta en el proceso de registro o certificación del 
+modelo de prevención de infracciones.
+La señora Lizzy Seaman, sobre indicación de Sánchez, refiere que 
+básicamente lo que propone es agregar al artículo 34 bis una infracción leve el 
+entregar información incompleta en el proceso de registro o certificación del 
+modelo de prevención de infracciones.
+Si uno va a las infracciones gravísimas, artículo 34 quater, se contempla 
+en su literal j) ya la obligación y sanción por información incompleta. Siendo así, 
+traspasaría esa infracción desde el grado de gravísima a leve.
+El ejecutivo, en el artículo 34 quater presentó indicación para agregar “a 
+sabiendas” a dicho artículo, quedando entonces como una infracción gravísima 
+solo cuando se haga a sabiendas.
+34
+--- PÁGINA 35 ---
+Así, cuando no es a sabiendas, deberá ser infracción leve, y con será 
+gravísima.
+El diputado señor Undurraga refiere que, considerando la indicación del 
+Ejecutivo en el artículo 34 bis, una infracción que no sea a “sabiendas” quedaría 
+en el aire, siendo entonces conveniente aprobar la indicación del diputado 
+Sánchez.
+El diputado señor Sánchez reafirma que la intención es que los errores 
+que se cometan, involuntariamente, en el proceso de registro o certificación del 
+modelo de prevención de infracción, sean considerados como infracciones leves 
+y no gravísimas, como si lo consideraba originalmente el proyecto, lo que le 
+parece desproporcionado.
+Cree prudente la propuesta del Gobierno de hacer la distinción a través 
+del dolo, por lo que cree que debería aprobarse su indicación y luego la 
+indicación del Ejecutivo en el artículo 34 quáter.
+Sometido a votación el artículo 34 bis, con la indicación del diputado 
+señor Sánchez, es aprobado por la unanimidad. Votaron a favor lo(a)s 
+diputado(a)s señore(a)s Karol Cariola, (Presidenta), Felipe Donoso (en 
+representación del diputado Alessandri), Marcos Ilabaca, Alberto Undurraga (en 
+representación del diputado Calisto), Raúl Leiva, Andrés Longton, Catalina 
+Pérez, Luis Sánchez, Leonardo Soto (9-0-0).
+****** 
+ 
+Las intervenciones quedaron en registro de audio en la Secretaría de la 
+Comisión. 
+Registro 
+audiovisual 
+de 
+la 
+sesión 
+puede 
+obtenerse 
+en 
+http://www.democraciaenvivo.cl/ y en
+http://www.cdtv.cl/Programa.aspx?idPrograma=46. 
+ 
+Por haberse cumplido con su objeto, siendo las 16:58 horas, la 
+Presidenta levantó la sesión.
+35
+--- PÁGINA 36 ---
+PVW/fgl/ccr
+36

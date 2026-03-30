@@ -1,0 +1,201 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=582&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : Soporte Camara de Diputados Chile
+EXTRAIDO : 2026-03-29 05:12:52
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN ORDINARIA 93ª DE LA COMISÍON DE HACIENDA, CORRESPONDIENTE 
+AL PERIÓDO LEGISLATIVO 2022-2026, CELEBRADA EL DÍA MARTES 14 DE 
+MARZO DE 2023 15.00 A 17.00 HORAS
+SUMARIO
+Esta sesión tiene por objeto elegir a 
+su Presidente, por mayoría de votos; 
+y continuar la discusión, del proyecto 
+de ley con la presentación del 
+Ejecutivo, 
+del proyecto de ley, 
+iniciado en Mensaje, que Fortalece la 
+resiliencia del sistema financiero y 
+sus 
+infraestructuras, 
+Boletín 
+N°15322-05, con urgencia calificada 
+de Suma.
+Se dio inicio a la sesión a las 15:00 
+horas.
+1. ASISTENCIA
+Asistieron los diputados:  
+ 
+Barrera, Boris, Cid, Sofía; Cifuentes, Ricardo; Mellado, Miguel; Naranjo, 
+Jaime; Ramírez, Guillermo; Rojas, Camila; Romero, Agustín; Sáez Jaime; Sepúlveda, 
+Alexis; Soto, Raúl; Von Mühlenbrock, Gastón; Yeomans, Gael. Otros: diputado Teao, 
+Hotuiti.
+Asisten por el Banco Central de Chile, el Presidente Subrogante, señor 
+Alberto Naudon junto con el Fiscal, señor Juan Pablo Araya y la Gerenta de la División de 
+Política Financiera, señorita Rosario Celedón. Asimismo, de la Comisión para el Mercado 
+Financiero, la Presidenta, señora Solange Berstein, junto con el Director General de 
+Regulación Prudencial, señor Luis Figueroa de la Barra y la Encargada de Asuntos 
+Institucionales, señora Marcela Gómez Aguirre.
+Actuó como Secretario Abogado de la Comisión la señora María 
+Eugenia Silva Ferrer y como abogado ayudante el señor Sebastián Flores Cuneo y la 
+señora María Jesús Serey Sardá.
+--- PÁGINA 2 ---
+2. CUENTA
+Se recibieron los siguientes documentos:
+1.- La diputada Camila Rojas Valderrama reemplaza de forma 
+permanente al diputado Alejandro Bernales Maldonado.
+2.- La diputada Sofía Cid Verlasovic reemplaza de forma permanente al 
+diputado Frank Sauerbaum Muñoz.
+3.- Oficio de S.E. el Presidente de la República por el cual hace presente 
+la urgencia calificada de "discusión inmediata", para el despacho del proyecto que 
+"Impulsa la participación de las energías renovables en la matriz energética nacional". 
+Boletín N°14755-08. (1436-371).
+3. ORDEN DEL DÍA
+El diputado Naranjo presentó su renuncia, solicitó unanimidad para 
+hacer la elección de nuevo presidente inmediatamente.
+El diputado Naranjo propuso a la diputada Yeomans. El diputado 
+Ramírez propuso a la diputada Cid. A continuación, se procedió a la votación para elegir 
+la presidencia de la Comisión. Fue electa como Presidenta de la Comisión de Hacienda la 
+diputada Gael Yeomans por 8 votos. La diputada Cid obtuvo 5 votos.
+El señor Alberto Naudon, Consejero del Banco Central, se refirió en 
+grandes términos, a las atribuciones del Banco Central que son relevantes para esta 
+discusión.
+Luego, inició su presentación señalando que el acceso a los sistemas de 
+pagos y de gestión de liquidez del BCCh a las entidades seleccionadas depende 
+principalmente de objetivos de estabilidad financiera, competencia y neutralidad de 
+acceso.
+Debido a que en el nuevo esquema se extiende la provisión de todos los 
+servicios del BCCh a la Cooperativas de Ahorro y Crédito (CACs), el PdL considera
+--- PÁGINA 3 ---
+perfeccionamientos a Ley General de Cooperativas (LGC) con el fin de robustecer a las 
+CACs que accedan a dichos servicios en consistencia con las exigencias a la banca.
+Fortalecimiento del marco legal para operaciones Repo que puede 
+realizar el BCCh con entidades financieras que son usuarias del sistema de pagos 
+(Anexo)
+• El BCCh gestiona la liquidez en sus diversas herramientas a través de 
+operaciones con Pacto de Retrocompra (Repos) realizados tradicionalmente con el 
+sistema bancario.
+• Adicionalmente facilita la gestión de su política monetaria a través de 
+Operaciones de Mercado Abierto (a través de su sistema SOMA). En este sistema 
+participan administradoras de fondos, compañías de seguro, y otros intermediarios 
+financieros.
+• En este caso, el PdL incorpora como una herramienta adicional la 
+posibilidad para el BCCh de realizar Repos con las entidades que integran el Sistema 
+SOMA, en condiciones excepcionales en las cuales existan riesgos para la estabilidad 
+financiera, que deberán ser aprobadas por el Consejo del BCCh.
+- 
+Este tipo de financiamientos solo podrán ser a través de Repos (no 
+califican líneas de crédito u otras operaciones).  
+- 
+Deberán ser destinados a grupos o segmentos de empresas (se 
+excluyen operaciones bilaterales, pero no se obliga a ofrecer a todos 
+los participantes del SOMA) que requieran provisión de liquidez de 
+manera excepcional y que sean relevantes para el normal 
+desenvolvimiento del sistema financiero. 
+ 
+Perfeccionamiento del marco legal para operaciones Repo realizadas 
+entre entidades del sector privado
+• Los Repos son contratos de financiamiento, en que se intercambian 
+instrumentos por efectivo con el principal objetivo de administración de liquidez de corto 
+plazo. En la práctica los Repos son una forma de crédito colateralizado (i.e. con garantía) 
+de corto plazo.
+• Si bien las operaciones de Repos son habituales en el marco de las 
+facilidades de liquidez que el BCCh puede proporcionar al sistema bancario en Chile , las 
+operaciones de Repos entre bancos y otras instituciones financieras o entidades son 
+acotadas (anexo), lo cual hace menos eficiente la transmisión de liquidez a través del 
+sistema financiero.
+• Una preocupación del BCCh es que la gestión de liquidez se propague 
+más eficientemente desde el sistema bancario al resto del sistema financiero.
+• Para conseguir esta mayor eficiencia se busca facilitar un mayor 
+desarrollo de Repos entre entidades privadas, para lo cual el PdL propone conferir 
+tratamiento jurídico de estas operaciones similar al que existe, por ejemplo, en EE.UU.
+• Esencialmente se trata de aumentar el grado de certeza respecto al 
+saldo neto deudor resultante del conjunto de obligaciones recíprocas entre 2 contrapartes, 
+considerándolas legalmente “obligaciones conexas” tal como en el caso de derivados (art.
+--- PÁGINA 4 ---
+140 Ley N° 20.720.). Este tipo de certeza es fundamental en caso que una de las 
+entidades se vuelva insolvente (anexo).
+El PdL resuelve aspectos necesarios para concretar el objetivo del 
+BCCh de avanzar hacia una mayor internacionalización del peso y así contar con un 
+mercado cambiario más profundo y seguro.
+• El BCCh autorizó las transacciones transfronterizas con pesos chilenos 
+en enero de 2021: autoriza a agentes no residentes a realizar transacciones en pesos – 
+sostener cuentas, pedir y otorgar créditos.
+• Los principales objetivos del BCCh:  
+- 
+Mayor competencia en el mercado cambiario, al aumentar las 
+posibilidades para que entidades financieras internacionales puedan 
+ofrecer servicios financieros en Chile.  
+- 
+Aumentar el desarrollo y sofisticación del mercado local por una 
+mayor demanda de servicios financieros desde el exterior.  
+- 
+Aumentar la liquidez en moneda extranjera.  
+- 
+Mejorar el proceso de formación de precios en el mercado spot.  
+• Sin embargo, para cumplir estos objetivos es necesario que los bancos 
+locales habiliten cuentas corresponsales en pesos a bancos internacionales.(anexo)
+- 
+Materializar la apertura de estas cuentas ha involucrado ajustes 
+regulatorios por parte del BCCh y CMF, resultando pertinente 
+clarificar la forma de reportar estas operaciones al SII lo cual se 
+resuelve en este PdL. (anexo).
+Conclusión  
+• El Banco Central valora positivamente el Proyecto de ley para 
+fortalecer la resiliencia del sistema financiero y sus infraestructuras, que incluye un 
+conjunto de modificaciones legales que representan mejoras importantes para aumentar 
+la capacidad del BCCh de gestionar la liquidez del sistema financiero en Chile, tanto en 
+tiempos normales como en situaciones de estrés financiero.
+• Con este propósito, el PdL realiza perfeccionamientos en varias 
+dimensiones, permitiendo abordar brechas identificadas por las autoridades financieras y 
+organismos internacionales, incluyendo las siguientes medidas vinculadas directamente 
+con el mandato legal del BCCh:
+- 
+ Aumenta el acceso a sistemas de gestión de liquidez y de 
+liquidación del BCCh, para infraestructuras de los mercados 
+financieros y entidades que son proveedoras de medios de pago.  
+- 
+ Permite desarrollar mercado de Repos como mecanismo de gestión 
+de liquidez, tanto de aquellos en los cuales el BCCh podría ser 
+contraparte como herramienta ante situaciones de estrés financiero 
+como de aquellas realizados entre entidades del sector privado (por 
+ejemplo, entre bancos comerciales y sus clientes)  
+- 
+ Facilita el cumplimiento del objetivo del BCCh de promover una 
+mayor internacionalización del peso, al clarificar el tipo de
+--- PÁGINA 5 ---
+información que se deberá reportar al SII sobre operaciones 
+realizadas en cuentas corresponsables en pesos que puedan abrir 
+bancos locales a bancos internacionales. 
+ 
+El diputado Mellado preguntó si los emisores de tarjeta iban a tener 
+acceso a estos servicios, puesto que hay emisores de tarjeta tan grandes que tienen 
+bancos y otros que no.
+El señor Alberto Naudon, Consejero del Banco Central, sostuvo que el 
+proyecto es específico al señalar que instituciones tendrían acceso a los servicios del 
+Banco Central, debiendo distinguirse entre los servicios de proveer cuentas de liquidación, 
+y los servicios de acceso de liquidez del Banco Central, siendo las únicas entidades que 
+podrán acceder, las entidades de contraparte central y algunas Cooperativas de Ahorro y 
+Crédito que cumplan con ciertas condiciones.
+4. ACUERDOS
+1.- Invitar en una fecha próxima a la asociación de funcionarios de la 
+Unidad de Análisis Financiero y a las autoridades de este mismo servicio, para tratar las 
+denuncias que ha formulado el gremio.
+2.- Invitar a las asociaciones gremiales de líneas aéreas, cuando se 
+discuta el proyecto de ley que establezca impuestos verdes.
+3.- Oficiar al Banco Central para que remita la información consultada 
+durante la sesión del 14 de marzo, relativa al cobro de intereses en operaciones que 
+duran menos de un día.
+4.- Continuar con la exposición del Banco Central y de la CMF, relativas 
+al proyecto de ley en tabla.
+Las presentaciones de los expositores se encuentran disponibles en 
+formato digital en:
+http://www.camara.cl/legislacion/comisiones/documentos.aspx?prmID=3
+307
+Por haberse cumplido el objeto de esta sesión, se levantó a las 16:55 
+horas.
+MARÍA EUGENIA SILVA FERRER
+Secretaria de la Comisión

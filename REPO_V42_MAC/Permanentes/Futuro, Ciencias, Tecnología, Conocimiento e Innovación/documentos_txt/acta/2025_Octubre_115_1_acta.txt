@@ -1,0 +1,179 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=12637&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:32:48
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 115°, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+373ª LEGISLATURA, CELEBRADA EL DÍA LUNES 27 DE OCTUBRE 2025, DE 
+14.57 A 15:37 HORAS.
+SUMARIO: Inició la discusión del proyecto de ley, de 
+origen en moción de los diputados y diputadas Gael 
+Yeomans (A), Lorena Fries, Andrés Giordano, Javiera 
+Morales, Ericka Ñanco, Camila Rojas, Patricio Rosas, 
+Jaime Sáez, Emilia Schneider y Carolina Tello, que regula 
+la creación y difusión de imitaciones digitales realistas de 
+la imagen, cuerpo o voz de las personas, generadas 
+mediante inteligencia artificial (boletín N° 17795-19), en 
+primer trámite constitucional, con urgencia calificada de 
+“simple”.
+I.- PRESIDENCIA
+Presidió inicialmente la sesión el diputado Érika Olivera (Presidenta Accidental), 
+actuó como Abogado Secretario Accidental de la Comisión, el señor Mathías Lindhorst, 
+como Abogada Ayudante, la señora María Jesús Serey Sardá y como secretaria ejecutiva, 
+la señora Paula Batarce.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Helia Molina, Érika 
+Olivera, Marcela Riquelme, Gael Yeomans, y los diputados integrantes de la Comisión, 
+señores Rubén Oyarzo,  Hernán Palma.
+La diputada Marta Bravo fue reemplazada por el diputado Cristhian Moreira.
+III.- ACTAS
+El acta de la sesión 113ª se declaró reglamentariamente aprobada. 
+El acta de la sesión 114ª se puso a disposición de las señoras Diputadas y señores 
+Diputados.
+IV.- CUENTA:
+Se recibieron los siguientes documentos:
+1.- Oficio de S. E. el Presidente de la República mediante el cual hace presente la 
+urgencia calificada de "simple", para el despacho del proyecto que "Regula la creación y 
+difusión de imitaciones digitales realistas de la imagen, cuerpo o voz de las personas, 
+generadas mediante inteligencia artificial". BOLETÍN N° 17795-19. (1150-373).
+A sus antecedentes
+2.- Comunicación del Jefe de Bancada de la UDI, por medio de la cual informa que 
+el diputado Cristhian Moreira reemplazará en esta sesión a la diputada Marta Bravo
+Se tuvo presente
+3.- Correo electrónico de la diputada Helia Molina, por el que solicita tomar 
+conocimiento de correo que adjunta, del investigador del Subcomité de América Latina y el 
+Caribe para el International Anti-Corruption Court y estudiante de Derecho de la Universidad 
+de Concepción, señor Sebastián Hernández Ortiz, dando lectura a su contenido en sesión, 
+en el que solicita ser recibido en audiencia.
+Se tomó conocimiento
+4.- Correo electrónico del analista de la Biblioteca del Congreso Nacional Raimundo 
+Roberts Molina, a través del cual hace llegar un informe que describe brevemente 
+conceptos clave de las actuales tecnologías cuánticas y su desarrollo, incluyendo los 
+avances nacionales en la materia. Señala que este tema es uno de los priorizados para 
+trabajar durante el 2025 por un grupo de diputadas y diputados, y miembros del Senado, y 
+se entrega anticipando requerimientos en la materia.
+1
+Firmado por Mathias Claudius Lindhorst Fernández
+Fecha 03/11/2025 16:13:44 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: D859937F5C5A1488
+--- PÁGINA 2 ---
+Se tomó conocimiento
+5.- Correo electrónico del señor Jorge Avilés Rojas, por medio del cual invita a la 
+Comisión a participar en la preconferencia de la Asociación Chilena de Investigadores en 
+Comunicación (INCOM), titulada "Regulación de la convergencia digital: evidencia científica 
+para la política pública", organizada por el equipo de Regulación Convergente, liderado por 
+la profesora de la Facultad de Comunicación e Imagen de la Universidad de Chile, Chiara 
+Saéz, con la colaboración logística de la Facultad de Comunicación y Letras de la 
+Universidad Diego Portales (UDP), a realizarse el día martes 04 de noviembre de 8.30 a 
+14.00 horas, en el auditorio de la Facultad de Comunicación y Letras de la Universidad 
+Diego Portales.
+Se tomó conocimiento
+V.- ORDEN DEL DÍA:
+Inició la discusión del proyecto de ley, de origen en moción de los diputados y 
+diputadas Gael Yeomans (A), Lorena Fries, Andrés Giordano, Javiera Morales, Ericka 
+Ñanco, Camila Rojas, Patricio Rosas, Jaime Sáez, Emilia Schneider y Carolina Tello, 
+que regula la creación y difusión de imitaciones digitales realistas de la imagen, 
+cuerpo o voz de las personas, generadas mediante inteligencia artificial (boletín N° 
+17795-19), en primer trámite constitucional, con urgencia calificada de “simple”.
+La diputada Érika Olivera, Presidenta accidental, informó que la sesión tenía por 
+objeto comenzar el estudio en general del proyecto de ley, iniciado en moción de las 
+diputadas Lorena Fries, Javiera Morales, Ericka Ñanco, Camila Rojas, Emilia Schneider, 
+Carolina Tello y Gael Yeomans y de los diputados Andrés Giordano y Patricio Rosas, que 
+regula la creación y difusión de imitaciones digitales realistas de la imagen, cuerpo o voz 
+de las personas, generadas mediante inteligencia artificial, boletín N° 17795-19, en primer 
+trámite constitucional, con urgencia calificada de simple.
+La diputada Gael Yeomans inició su presentación señalando que el proyecto de ley, 
+en el fondo, regulaba las deepfakes, que definió como imitaciones digitales realistas de 
+imagen, cuerpo o voz de personas, creadas con inteligencia artificial.
+Explicó que estas representaciones hiperrealistas suponen graves riesgos éticos y 
+prácticos, porque se puede suplantar personas. Sostuvo que, en el ámbito económico, 
+facilitan fraudes como promociones falsas y ejemplificó con el uso no autorizado de la 
+imagen del actor Tom Hanks para publicitar un plan dental. En este caso, aseguró, el actor 
+debió aclarar la situación.
+También destacó el problema del uso post mortem, donde se manipula la imagen 
+de fallecidos para hacerles decir cosas que nunca expresaron en vida, con lo que se 
+distorsiona el registro histórico. En este contexto, indicó que su iniciativa busca establecer 
+un marco legal que proteja la identidad y el consentimiento de las personas frente a estos 
+usos maliciosos.
+Luego, fundamentó la regulación de deepfakes en dos riesgos principales. En el 
+ámbito político, destacó que esta tecnología permite manipular declaraciones de 
+contrincantes y citó como ejemplo lo que ocurre con el candidato Marco Enríquez-Ominami 
+en su actual franja presidencial. En el ámbito netamente delictivo, señaló un grave caso de 
+pornografía no consentida, creada con imágenes de niñas. Enfatizó que este tipo de uso, 
+constituye una afrenta a la honra y dignidad, al vulnerar el consentimiento y manipular la 
+identidad de las personas.
+Respecto de los avances internacionales, explicó que Estados Unidos tiene 
+iniciativas legislativas estancadas desde 2018, mientras que China implementó, en 2020, 
+la obligación de etiquetar los videos que utilizan deepfakes como tal. Agregó que otros 
+países, como Reino Unido y Canadá, abordan el tema dentro de legislaciones generales de 
+inteligencia artificial, y que Dinamarca propone tratar la imagen como propiedad intelectual, 
+enfoque que consideró inviable para nuestro país.
+Seguidamente, detalló el contenido de su iniciativa. En este sentido, indicó que el 
+objetivo central es proteger la identidad e integridad de las personas frente al uso de
+2
+--- PÁGINA 3 ---
+deepfakes. Para ello, se establece el derecho a autorizar la reproducción de la imagen, 
+cuerpo o voz mediante inteligencia artificial, autorización que podría extenderse hasta 
+cincuenta años después de la muerte de la persona, requiriendo para ello el consentimiento 
+de sus herederos.
+Además, precisó que el proyecto contempla excepciones para fines que sean de 
+sátira, crítica o información, siempre que el contenido se identifique claramente como irreal, 
+para evitar desinformación. Asimismo, incluyó consideraciones especiales para figuras 
+públicas y destacó que el consentimiento de la persona es el pilar fundamental de toda la 
+propuesta legislativa.
+Por otro lado, explicó que el proyecto de ley contemplaba multas de entre cien hasta 
+mil unidades tributarias mensuales (UTM), indemnizaciones por daño moral y patrimonial y 
+medidas cautelares que permitan el retiro inmediato de un contenido cuando se haga mal 
+uso de una imagen o voz mediante inteligencia artificial.
+A continuación, precisó que, a diferencia de la iniciativa que se tramitó anteriormente 
+en la Comisión, donde los principales responsables eran los operadores, desarrolladores o 
+proveedores, en este proyecto de ley se establecía que los responsables serán los usuarios 
+finales y las plataformas que permitan un uso indebido de las tecnologías.
+Para finalizar, solicitó que se invite a académicos y a representantes del Ministerio 
+de Ciencia a participar en futuras sesiones.
+La diputada Marcela Riquelme consultó, primero, si los juzgados civiles serán los 
+órganos encargados de aplicar las multas mencionadas y, segundo, cómo se hará efectiva 
+la posible responsabilidad de las plataformas digitales y si se contemplaba la obligación de 
+que cuenten con un domicilio o representación legal en territorio nacional.
+El diputado Hernán Palma preguntó quién o quiénes podrán invocar esta futura ley 
+con el objeto de reclamar los derechos de aquellas personas fallecidas cuya imagen o voz 
+haya sido utilizada.
+La diputada Érika Olivera, Presidenta accidental, señaló que, tal como mencionó 
+la diputada Yeomans, era común ver videos donde se usa el rostro de personas para ofrecer 
+negocios u otros fines, lo que plantea la necesidad de saber cómo se garantizará que 
+realmente las multas y sanciones sean aplicadas.
+La diputada Gael Yeomans respondió que la propuesta legislativa contempla que 
+serán los juzgados civiles los órganos que podrán conocer este tipo de causas, ya que se 
+trataría de acciones personales.
+En el caso del uso post mortem de una imagen o voz, precisó que los herederos o 
+representantes legales de la persona fallecida podrán accionar en su nombre.
+Respecto de la obligación de domicilio en Chile para las plataformas, indicó que la 
+idea es exigirlo, tomando como ejemplo a la empresa tecnológica Google, que sí tiene 
+domicilio en el país.
+Por último, sobre la fiscalización, explicó que se propone establecer una 
+coordinación con la Agencia de Protección de Datos Personales. Sin embargo, precisó que 
+la responsabilidad de denunciar y llevar adelante el procedimiento recaerá en la persona 
+afectada.
+La diputada Érika Olivera, Presidenta accidental, pidió a los parlamentarios que 
+enviaran un listado de personas que desearan invitar a las próximas sesiones.
+El señor Mathías Lindhorst, Secretario accidental, informó que el proyecto de ley 
+estaba calificado con urgencia simple, pero que era posible realizar más audiencias.
+La diputada Érika Olivera, Presidenta accidental, manifestó que era fundamental 
+escuchar al Ejecutivo y a los representantes de las instituciones que los diputados deseen 
+invitar.
+*******
+3
+--- PÁGINA 4 ---
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 15:37 horas.
+MATHÍAS CLAUDIUS LINDHORST FERNÁNDEZ
+Abogado Secretario de la Comisión
+4

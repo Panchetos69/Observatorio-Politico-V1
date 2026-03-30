@@ -1,0 +1,58 @@
+{
+  "comision": "Salud",
+  "prmID": "4894",
+  "integrantes": [
+    {
+      "nombre": "Sr. Andrés Celis Montt",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1021"
+    },
+    {
+      "nombre": "Sr. Roberto Arroyo Muñoz",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1102"
+    },
+    {
+      "nombre": "Sra. María Francisca Bello Campos",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1107"
+    },
+    {
+      "nombre": "Sra. Lilian Betancurt Delgado",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1192"
+    },
+    {
+      "nombre": "Sra. Catalina Del Real Mihovilovic",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1025"
+    },
+    {
+      "nombre": "Sr. Matías Fernández Hartwig",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1209"
+    },
+    {
+      "nombre": "Sr. Daniel Lilayu Vivanco",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1140"
+    },
+    {
+      "nombre": "Sr. Daniel Manouchehri Lobos",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1142"
+    },
+    {
+      "nombre": "Sr. Cristian Mella Andaur",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1224"
+    },
+    {
+      "nombre": "Sr. Agustín Romero Leiva",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1165"
+    },
+    {
+      "nombre": "Sra. Macarena Santelices Cañas",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1251"
+    },
+    {
+      "nombre": "Sra. Alejandra Valdebenito Torres",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1257"
+    },
+    {
+      "nombre": "Sr. Fernando Zamorano Peralta",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1264"
+    }
+  ]
+}

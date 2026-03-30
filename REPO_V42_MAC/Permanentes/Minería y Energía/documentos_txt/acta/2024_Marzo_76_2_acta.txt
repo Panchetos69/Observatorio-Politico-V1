@@ -1,0 +1,709 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=14352&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : Milenka Kegevic
+EXTRAIDO : 2026-03-29 06:40:34
+======================================================================
+
+--- PÁGINA 1 ---
+COMISIÓN DE MINERÍA Y ENERGÍA
+372ª LEGISLATURA
+Acta de la sesión 76ª, especial, celebrada en martes 19 de marzo de 2024, de 10:24 a
+12:51 horas.
+SUMARIO
+Se continuó con la discusión general, del proyecto de ley, iniciado en 
+mensaje, que modifica diversos cuerpos legales, en materia de estabilización 
+tarifaria, (boletín N° 16.576-08 (S)), en segundo trámite constitucional y primero 
+reglamentario, con urgencia calificada de discusión inmediata. Se aprobó en 
+general. Se recibió al Gerente General de Generadoras de Chile, señor Camilo 
+Charme Ackermann, junto al Director de Estudios de Generadoras de Chile, 
+señor Francisco Muñoz Espinoza; al Gerente General de la Federación Nacional 
+de Cooperativas Eléctricas (FENACOPEL), señor Patricio Molina Muñoz; a la 
+Directora Ejecutiva de la Asociación Chilena de Energías Renovables y 
+Almacenamiento A.G. (ACERA), señora Ana Lía Rojas Loyola, y al Académico 
+del Departamento de Ingeniería Eléctrica de la Universidad de Santiago de 
+Chile, señor Humberto Verdejo Fredes. Asimismo, asistió el Ministro de 
+Energía, señor Diego Pardow Lorenzo.
+- Se abrió la sesión a las 10:24 horas.
+ASISTENCIA
+Presidió la sesión, la titular, diputada Yovana Ahumada Palma.
+Asistieron los miembros de la Comisión: las diputadas Yovana Ahumada 
+Palma y Marcela Riquelme Aliaga, y los diputados Álvaro Carter Fernández, José 
+Miguel Castro Bascuñán, Andrés Celis Montt, Christian Matheson Villán, Benjamín 
+Moreno Bascur, Jaime Mulet Martínez, Patricio Rosas Barrientos, Marco Antonio 
+Sulantay Olivares, Cristián Tapia Ramos y Sebastián Videla Castillo.
+Actuó de Secretaria Abogada de la Comisión María Cristina Díaz 
+Fuenzalida, de Abogada Ayudante Macarena Correa Vega y de Secretaria Ejecutiva 
+Sherry Peña Bahamondes.
+En calidad de invitados asistieron: el Gerente General de Generadoras de 
+Chile, señor Camilo Charme Ackermann, junto al Director de Estudios de 
+Generadoras de Chile, señor Francisco Muñoz Espinoza; el Gerente General de la 
+Federación Nacional de Cooperativas Eléctricas (FENACOPEL), señor Patricio
+--- PÁGINA 2 ---
+2
+Molina Muñoz; la Directora Ejecutiva de la Asociación Chilena de Energías 
+Renovables y Almacenamiento A.G. (ACERA), señora Ana Lía Rojas Loyola, 
+acompañada por Constanza Suárez Sánchez, y el Académico del Departamento de 
+Ingeniería Eléctrica de la Universidad de Santiago de Chile, señor Humberto Verdejo 
+Fredes. También participó en la discusión el Ministro de Energía, señor Diego 
+Pardow Lorenzo, junto a los asesores legislativos señoras Ana Lya Uriarte e Ignacia 
+García, señor Fernando Monsalve y de comunicaciones, señor Andrés Muñoz. 
+Asimismo, asistió el Director Ejecutivo de la ONG Fundación Energía para Todos, 
+señor Javier Piedra Fierro.
+ACTAS
+El acta de la sesión 74, se dio por aprobada por no haber sido objeto de 
+observaciones.
+El acta de la sesión 75, quedó a disposición de las diputadas y los 
+diputados.
+CUENTA1
+Se recibieron los siguientes documentos:
+1.- Nota del Comité Frente Amplio RD, Comunes y Convergencia Social, 
+de fecha 18 de marzo de 2024, mediante el cual comunican que la diputada Javiera 
+Morales Alvarado reemplazará a la diputada Marcela Riquelme Aliaga, durante la 
+sesión especial que se realizará el jueves 21 de marzo de 2024, en Magallanes. SE 
+TOMÓ CONOCIMIENTO.
+2.- Correo del Académico del Departamento de Ingeniería Eléctrica de la 
+Universidad de Santiago de Chile, señor Humberto Verdejo Fredes, de fecha 18 de 
+marzo, por el cual solicita la posibilidad de presentar su exposición vía zoom, debido 
+a que tiene un compromiso adquirido con anterioridad, lo que le impide viajar a 
+Valparaíso. Sin embargo, hace presente que tiene preparada la presentación y 
+ajustado el contenido al tiempo indicado en la invitación. SE ACCEDIÓ A LO 
+SOLICITADO.
+3.- Correo del representante de la Asociación de Transmisores de Chile 
+A.G., señor Juan Pablo Moreno, de fecha 18 de marzo, mediante el cual excusa la 
+asistencia, a la sesión de hoy, del Director Ejecutivo de la Asociación de 
+Transmisores de Chile, señor Javier Tapia, debido a que tenía comprometida su 
+asistencia a exponer en un seminario del sector eléctrico el día de hoy. Por lo que 
+solicita pueda ser invitado en una nueva fecha. SE TOMÓ CONOCIMIENTO.
+1 https://www.camara.cl/verDoc.aspx?prmID=304228&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 3 ---
+3
+4.- Indicación del diputado José Miguel Castro Bascuñán, de fecha 19 de 
+marzo de 2024, al proyecto de ley Boletín Nº16.576-08 (S). A SUS ANTECEDENTES.
+ACUERDOS
+Se acordó por unanimidad de las y los diputados presentes:
+1.- Oficiar al Sernageomin, con el objeto de que tenga a bien remitir 
+mayores antecedentes sobre el accidente fatal ocurrido en la División Radomiro 
+Tomic de Codelco el 8 de marzo recién pasado, tal es el caso de los informes previos, 
+informes de mantenimiento, fiscalizaciones, medidas adoptadas, la situación del 
+Comité Paritario, entre otras.
+De igual modo, se le solicita informar, en detalle, sobre el lamentable y 
+nuevo accidente fatal, acaecido días después, el 14 de marzo, en la Mina Lorena en 
+la Región de Antofagasta.
+A mayor abundamiento, se le pide ahondar en el desempeño de sus 
+funciones y medidas adoptadas por el Servicio, especialmente en la Región de 
+Antofagasta.
+2.- Remitir al Ministerio de Energía un listado de las pymes que mantienen 
+deudas con las diversas generadoras de electricidad del país, a fin de que agilizar y 
+resolver los pagos. Oficio condicionado la entrega de antecedentes por parte de los 
+parlamentarios.
+3.- Celebrar una sesión especial el lunes 1 de abril, para tramitar la 
+iniciativa de la suma hasta su total despacho. El plazo para presentar indicaciones se 
+fijó hasta el viernes 22 de marzo.
+VARIOS
+El Ministro de Energía, señor Diego Pardow ante consultas sobre el 
+Mecanismo de Estabilización de Precios de Los Combustibles (MEPCO) y el alza su 
+precio, manifestó su plena disposición para abordarlo, en caso de así requerirlo esta 
+instancia, en una próxima sesión.
+ORDEN DEL DÍA
+Iniciando el Orden del Día, el Gerente General de Generadoras de Chile, 
+señor Camilo Charme expuso apoyado en una presentación2.
+2 https://www.camara.cl/verDoc.aspx?prmID=304229&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 4 ---
+4
+Inició su intervención expresando que, la iniciativa viene a hacerse cargo 
+de un compromiso asumido por el Presidente de la República de hacer frente al alza 
+del costo de la vida de las personas y que en su elaboración se contó con la 
+colaboración de dos grupos de expertos del Sistema Eléctrico Nacional, quienes 
+diseñaron un borrador de la arquitectura del mismo, posteriormente entregado al 
+equipo del Ministerio de Energía y a la CNE para la redacción de su texto definitivo.
+El proyecto está enfocado en tres conceptos principales o pilares.
+El primer pilar consiste en un subsidio a familias vulnerables, que toma en 
+cuenta la deuda acumulada del sistema eléctrico con las empresas de generación. Se 
+trata de una estructura que permite mitigar el alza que está establecida en la ley 
+vigente; y también encaminado a normalizar la deuda histórica de las empresas de 
+generación desde el año 2019. A su juicio, este eje tiene un gran atributo porque por 
+primera vez en Chile se crea un subsidio enfocado a las familias vulnerables, que 
+según información del Ministerio alcanzaría a 1.600.000 familias, es decir, entre 
+2.000.000 y 3.000.000 de personas. A mayor abundamiento, el subsidio cubre a nivel 
+regional a todas las familias de extrema pobreza y total pobreza del Registro Social 
+de Hogares (RSH) y también al 40% (todo el primer tramo de ese Registro).
+Exhibió un gráfico sobre la distribución regional de las familias vulnerables 
+que podrían ser beneficiadas por el subsidio:
+Fuente: Elaboración propia en base a datos de plataforma de datos DataSocial del Ministerio de 
+Desarrollo Social y Familia.
+El segundo pilar dice relación con el pago gradual de la deuda acumulada, 
+es decir, la mitigación. La ley vigente que en un Estado de Derecho se tiene que
+--- PÁGINA 5 ---
+5
+cumplir, se aplica a través de los decretos de Precio Nudo Promedio (PNP) de 
+carácter semestral, que tal como indica el informe definitivo de la CNE implicaría que 
+en el tercer tramo las tarifas podrían aumentar hasta un 88%. Resaltó que en ese 
+segmento es donde están las pymes, y que con la mitigación que propone el proyecto 
+de ley se reduce al alza a la mitad.
+Es así que, en la región de Antofagasta beneficiaría a 14.563 clientes, 
+equivalente al 60% de la energía regulada consumida en la región; y en la región de 
+Valparaíso beneficiaría a 43.271 clientes, equivalente al 52% de la energía regulada 
+consumida en la región, lo que catalogó como muy positivo.
+El tercer pilar dice relación con la normalización tarifaria que permitirá 
+volver a reflejar las cualidades de un sistema eléctrico saludable. La iniciativa 
+formaliza la deuda histórica, que data de 2019, que se tiene con la industria de 
+generación, es decir, se reconoce el dinero que se debió haber pagado a la industria. 
+En este punto, destacó que la industria de generación se encuentra retirando las 
+centrales de carbón a su cuenta y cargo, y al mismo tiempo está invirtiendo en cada 
+una de las regiones para estar presente tanto en proyectos de energía solar como 
+eólica, sin perjuicio de que se avecina la inversión en almacenamiento para hacer 
+más óptimo la gestión del sistema eléctrico y donde las energías renovables pueden 
+satisfacer de mejor manera tanto en cantidad y calidad las demandas de las personas 
+y la industria.
+Con este pilar, no solo se reconoce la deuda, sino que se otorga 
+predictibilidad y reputación en el cumplimiento de los contratos y actualiza la 
+confianza del sistema financiero en la inversión en la transición energética. En los 
+últimos 10 años, Chile ha sido de los países más importantes en la transición 
+energética, siendo la generación de energías renovables la base de esa transición y 
+del desarrollo económico del país, enfatizó.
+La industria de generación tiene que estar sana financieramente para que 
+las personas o empresas puedan proyectar su futuro. En caso contrario, es decir, si 
+sus contratos están en duda, ello no ocurrirá.
+Se requiere más de 45.000 millones de dólares de inversión en energías 
+renovables en la próxima década, para dar cumplimiento a la ley marco de cambio 
+climático y ser carbono neutral. Para tener una idea de la magnitud que ello implica, 
+detalló que se debe doblar la capacidad solar invertida, sextuplicar la capacidad 
+eólica y quintuplicar la capacidad de almacenamiento. Como referencia, precisó que 
+en los últimos 10 años la industria de generación ha invertido 30.000 millones de 
+dólares en Chile, lo que representa un 10% del PIB. Lo que se proyecta invertir hasta 
+el año 2040 son alrededor de 45.000 millones de dólares.
+Expresó que se discute un proyecto razonable, cuyo subsidio focalizado a 
+familias vulnerables y distribuido en las diferentes regiones del país, está alineado 
+con las prácticas internacionales. Además, de que el mecanismo de normalización 
+tarifaria mitigará un alza abrupta de tarifas de clientes regulados y volverá a reflejar 
+los costos de suministro propios de un sistema eléctrico saludable.
+--- PÁGINA 6 ---
+6
+Destacó que ningún mecanismo de normalización de tarifas será efectivo 
+si los decretos siguen presentando retrasos. Además, reiteró la importancia de la 
+estabilidad regulatoria que permitirá a la industria continuar invirtiendo en energías 
+renovables, almacenamiento y cumplir los objetivos de carbono neutralidad fijados 
+por el Estado de Chile.
+Llamó a aprobar la iniciativa lo antes posible para que el Ejecutivo pueda 
+implementar desde ya las medidas para ejecutarlo, y de ese modo puedan empezar a 
+fluir los beneficios a las familias y los flujos a las empresas para seguir en la senda 
+de la transición energética e ir cumpliendo los hitos intermedios de control para el 
+cumplimiento de la agenda de carbono neutralidad.
+Consultado sobre el precio de las cuentas, respondió que la tarifa está 
+integrada por tres componentes: energía, transmisión y distribución, que varían según 
+la región, dependiendo, por ejemplo, de la densidad de la red (red más densa implica 
+costos medios más bajos). Se trata de un tema que se podría conversar de buena 
+manera en una mesa tecnológica y legislativa que instó a conformar.
+En relación a las deudas que tendrían algunas pymes con las generadoras 
+que habría llevado a las primeras a la quiebra, respondió que empatizan con la 
+gravedad de la situación y por lo mismo es que Generadoras de Chile ha desarrollado 
+un protocolo de desarrollo continuo de mejora para trabajar con sus asociados, 
+mejorando la capacidad de las empresas para relacionarse con los proveedores 
+locales. Aclaró que, las empresas que son parte de la Asociación de Generadores de 
+Chile, no tienen ningún caso de deuda con proveedores locales. Recordó que hay 372 
+empresas de generación en el país.
+Precisó que los expertos que participaron en la iniciativa son el profesor 
+académico de la Universidad de Santiago de Chile, señor Humberto Verdejo Fredes y 
+el grupo de consultores Valgesta, señores Ramón Galaz Arancibia y Andrés Romero 
+Celedón.
+Asimismo, aclaró que el subsidio no será recibido por las empresas de 
+generación, sino que va a ser entregado directamente a las cuentas de las personas.
+Expresó 
+la 
+importancia 
+de 
+discutir 
+materias 
+de 
+competencia 
+y 
+transparencia del sistema eléctrico, en vez de ir al pasado, porque los contratos se 
+adjudicaron en momentos y circunstancias concretas, además, de que en Chile el 
+sistema de contratos licitados permite dar tranquilidad a las personas, a diferencia de 
+otros países como Inglaterra, España, Estados Unidos, entre otros, cuyas tarifas 
+bajan y suben. Es más, expertos de la Unión Europea, señalan que Chile debe 
+proteger su sistema de contratos de licitación, porque les ha permitido resguardar a 
+los clientes finales y ha dado señales de largo plazo para las inversiones en energías 
+renovables. Se trata de un sistema que se puede ir mejorando, tal como se ha hecho. 
+Instó a trabajar en cómo mejorar de aquí hacia adelante porque hay que preocuparse 
+de los clientes actuales y de los futuros, además, de la estabilidad del sistema porque 
+si no, esto va a repercutir en las licitaciones futuras.
+--- PÁGINA 7 ---
+7
+En relación a la deuda, recordó que se trata de una deuda del sistema con 
+las empresas generadoras, pero no por iniciativa de éstas, que han prestado el 
+suministro de electricidad de forma continua y permanente desde el año 2019. Luego 
+las empresas generadoras no tomaron la iniciativa ni son responsables de la 
+situación.
+Aclaró que la deuda de los 5.500 millones de dólares es principalmente 
+capital. Es decir, corresponde al monto de los contratos adjudicados a las empresas 
+de generación que debió haberse pagado y no se hizo. La proporción más o menos 
+es de 4.800 millones de dólares de capital y 1.200 millones en intereses, en un 
+periodo que se está acumulando desde el primer semestre del año 2019. Se generan 
+intereses del orden de 3 millones de dólares diarios, insistió, por una energía ya se 
+consumió y se entregó en calidad y en tiempo. No hay que pensar que se está 
+pagando por algo que no se entregó, sino que sí se entregó, como tampoco es un 
+beneficio extraordinario para las empresas de generación, porque éstas cumplieron 
+su parte del contrato y no han recibido su contraprestación, que es el pago completo.
+Por otra parte, expresó que las empresas en el sistema regulatorio chileno 
+son libres de elegir un sistema de indexación, postulan y es la CNE la que al final 
+decide cuál es la oferta más barata; por lo tanto, los contratos adjudicados en cada 
+periodo siempre fueron los más baratos que en ese momento se pudo haber 
+adjudicado. En esa línea, explicó que interés no es lo mismo que indexación. Ésta 
+consiste en un sistema de reajuste que tienen los contratos en el sistema normativo 
+chileno y que las empresas voluntariamente optan por uno u otro y así todos eligen. 
+Los intereses es lo que proviene de la deuda según la negociación con el sistema 
+financiero.
+Complementó su exposición el Director de Estudios de Generadoras de 
+Chile, señor Francisco Muñoz quien se refirió al impuesto a las emisiones, y en ese 
+sentido destacó que Chile es el único país del mundo que tiene un impuesto a las 
+emisiones de gas de efecto invernadero que es solo recaudatorio, no es correctivo. 
+De hecho, Generadoras de Chile apoya una modificación de este impuesto y un alza 
+gradual en el tiempo.
+En ese sentido, el Ministerio de Hacienda ha estado trabajando en una 
+propuesta de impuestos correctivos que está, dentro del paquete de la reforma 
+tributaria, que se encuentra respaldado por un informe del Fondo Monetario 
+Internacional, porque si se llega a gatillar un alza del impuesto vigente, que no es un 
+impuesto correctivo, sino recaudatorio, lo único que se va a lograr van a ser alzas de 
+tarifas sin rebajar las emisiones.
+La Directora Ejecutiva de la Asociación Chilena de Energías 
+Renovables y Almacenamiento A.G. (ACERA), señora Ana Lía Rojas intervino 
+apoyada en una presentación3.
+3 https://www.camara.cl/verDoc.aspx?prmID=304231&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 8 ---
+8
+Expresó que representa a las empresas de la industria eléctrica, que 
+persiguen la transformación de la referida industria, con empresas generadores, 
+transmisoras, tecnólogos, fabricantes de equipos y proveedores de servicios de toda 
+índole, que están desarrollando, construyendo y operando proyectos de energías 
+renovables y de almacenamiento. Se trata de tecnología clave para este año en el 
+desarrollo equilibrado del Sistema Eléctrico Nacional.
+Acotó que representan a todas las tecnologías: solares, eólicas, mini 
+hidroeléctricas, geotermia, concentración solar de potencia y almacenamiento de 
+todos los tipos. Cuentan con 156 empresas socias de todos los giros, tamaños y 
+naturalezas, comprometidas con la transición energética, entre ellas, un banco 
+internacional.
+En ACERA se encuentra representado el 55% de las centrales eléctricas 
+de energías renovables no convencionales del Sistema Eléctrico Nacional – el 
+sistema eléctrico tiene 15.832 MW de potencia instalada ERNC- y el 51% de la 
+inversión en curso en energía renovable y almacenamiento, que alcanza a 28.559 
+MW.
+Agradeció a la Comisión por haberla recibido como representante de las 
+empresas en toda la cadena de valor de las energías renovables, desde grandes 
+empresas hasta pymes, comprometidas con la transición energética de Chile, que 
+tiene por objetivo abandonar la generación de electricidad en base a combustibles 
+fósiles y reemplazarlos por energías renovables sin emisiones.
+Precisó que, de los 2.000 MW que el año pasado se construyeron y 
+entraron en operación, el 98% corresponde a energías renovables no convencionales, 
+y estos proyectos están siendo realizados por todas las empresas desarrolladoras o 
+generadoras del país, independiente de su pasado térmico o fósil, ya se está viviendo 
+una profunda transformación del sector eléctrico en el país. En efecto, del total de 
+inversiones en generación eléctrica que hay al día de hoy, 98% son en base a 
+energías renovables no convencionales y almacenamiento.
+En mérito de lo anterior, expresó que el complejo proyecto de ley en 
+discusión cumple con tres objetivos fundamentales para el sector eléctrico nacional y 
+para el desarrollo de esta industria estratégica para la economía nacional.
+En efecto, en 2023 el segmento de la generación renovable registró 
+inversiones equivalentes a 1.718 millones de dólares, y al sumar los proyectos en 
+construcción que se instalarán en 2024 y 2025, se alcanzó la cifra económica más 
+importante después de la minería del cobre, con 6.733 millones de dólares.
+Los objetivos que este proyecto cumple son:
+1) Busca la protección sostenible de los clientes regulados, a través de la 
+estabilización de tarifas eléctricas, mitigando las alzas tarifarias proyectadas en los 
+informes de Precio de Nudo del primer semestre de 2023 en su versión preliminar 
+(agosto 2023) y en su versión definitiva (enero 2024), protegiendo a los consumidores 
+más vulnerables del país, mediante la implementación de un subsidio de carácter
+--- PÁGINA 9 ---
+9
+transitorio, que les permitiría a los beneficiarios, correspondientes a 850.000 familias, 
+percibir una reducción de un 35% en su cuenta con respecto a un escenario sin 
+proyecto de ley.
+2) Se hace cargo, a la vez, del necesario sinceramiento de los precios de 
+la energía que se han mantenido congelados desde el 2019, a través de mecanismos 
+de estabilización transitorios aprobados mediante la ley PEC I (N° 21.185) y PEC II 
+(N° 21.472).
+3) Perfecciona el mecanismo de pago de la deuda acumulada originado 
+por la ley PEC II, denominado “el cargo MPC”, para subsanar la deuda con los 
+prestadores del suministro eléctrico del país y las empresas generadoras, que aún 
+permanece impaga.
+En efecto, el congelamiento de las tarifas desde el 2019, que se hizo con 
+mérito y razones totalmente atendibles para ese momento -el estallido social y 
+posteriormente la protección a los consumidores en la pandemia- originó una deuda 
+de los consumidores con los generadores de energía que ya asciende a 6.000 
+millones de dólares, por lo que la ley de estabilización tarifaria, tal cual está 
+planteada, facilitará su pago, que es un compromiso legítimo y una realidad 
+ineludible, sobre todo para entregar una señal económica de que en Chile, los 
+contratos se respetan y que se puede confiar en instrumentos en donde el Estado 
+actúa como pivote de una licitación.
+Resaltó que, el gran salto cuántico del desarrollo de energías renovables 
+no convencionales y almacenamiento en el país se debe justamente al valor de los 
+contratos de energía licitados por el Estado de Chile, desde 2014 en adelante, donde 
+generadoras venden su energía a distribuidoras, pero con un marco legal donde el 
+Estado es el garante del proceso. El Estado no compra ni vende esa energía, pero sí 
+establece el marco jurídico y legal de los contratos que se suscriben entre privados, y 
+que hoy está permitiendo la transformación de lo fósil a lo renovable, en tiempo y 
+forma.
+Es así que, no tener una solución a la deuda de los mecanismos PEC I y 
+PEC II, representa un obstáculo al financiamiento de proyectos renovables vigentes y 
+futuros y una desprotección a los consumidores vulnerables para quienes se está 
+diseñando un subsidio. Además, realzó que la iniciativa debe mantener su espíritu 
+original, es decir, buscar soluciones para las tarifas eléctricas para consumidores 
+finales, estabilización y subsidios, e ir resolviendo el pago de la deuda, equivalente a 
+cinco puntos porcentuales del presupuesto nacional, que se adeuda a los 
+generadores.
+Expresó que, cualquier otra moción, que no esté contenida en el proyecto 
+original del Ejecutivo, seguro deberá ser estudiada y discutida, con el consiguiente 
+alargue en la discusión parlamentaria, y consecuentemente, impactará al consumidor 
+final, pues demorará la aplicación de la estabilización que se busca para ser aplicada 
+en abril de 2024, a la vez que retrasará aún más el acceso a los fondos para el pago 
+de la deuda con los generadores, todos activos impulsores de la transición energética
+--- PÁGINA 10 ---
+10
+de Chile, como ya mencionó.  Se trata de generadores renovables que han invertido 
+previa adjudicación de contratos con las distribuidoras de electricidad en un marco de 
+alta competencia, que se verían seriamente afectados si el trámite de este proyecto 
+de ley se dilata, aseguró.
+En relación con la posición de renegociación de contratos “denominados 
+caros”, explicó que lo más complejo de esa propuesta es el impacto en el 
+debilitamiento en la certeza jurídica de los contratos entre generadores y 
+distribuidoras de energía, establecidos en las denominadas licitaciones a clientes 
+regulados y que, hasta ahora, han sido la clave para atraer inversiones para la 
+anhelada transición energética que las empresas persiguen y particularmente las 
+socias de ACERA.
+En esa línea, mencionó que un contrato de energía asegura, por un lado, 
+la obligación del suministro de energía por parte del generador a las distribuidoras y 
+por intermedio de éstas, a los clientes finales. Por otro lado, la generadora se 
+asegura de recibir el pago de una tarifa, en un periodo de 15 o 20 años, para financiar 
+la infraestructura que mantiene, construye y/u opera con este propósito.
+A mayor abundamiento, comentó que a los mismos agentes y empresas 
+eléctricas a las que se les pide renegociar contratos, son las que hoy están 
+solicitando financiamiento para la nueva infraestructura que reemplazará aquellas en 
+base a fósiles y la banca, nacional o extranjera, están muy alertas de que los 
+contratos de energía, aunque suscritos en el pasado, tengan una modificación de 
+condiciones, ya que de inmediato, sube la percepción de riesgo para el futuro. En 
+este caso, implica asumir que los nuevos contratos también pueden ser sujetos a 
+modificaciones o cambios y por ende que los ingresos que el generador debía 
+obtener a través de los precios suscritos sufran cambios que no aseguren el pago de 
+las deudas.
+A raíz de lo expuesto, solicitó, que el proyecto de ley se mantenga 
+enmarcado en el trabajo legislativo y las recomendaciones de la mesa de trabajo que 
+se abocan a la estabilización de la componente tarifaria de generación, el pago de la 
+deuda a los generadores que están invirtiendo en la transición energética y la 
+componente tarifaria de distribución.
+Aseguró que la iniciativa permitirá otorgar mayores beneficios a los 
+hogares de Chile en el corto, mediano y largo plazo. Además, de proporcionar 
+señales positivas a la banca e inversionistas internacionales para que sigan 
+invirtiendo en la transición energética de Chile con una industria generadora de 
+energía renovable, sana y competitiva. Sin perjuicio de lo anterior, llamó a tener en 
+consideración los ajustes al proyecto de ley, desde el Ejecutivo, que eviten una 
+posible sobre recaudación para evitar alzas de cuentas innecesarias.
+--- PÁGINA 11 ---
+11
+El Gerente General de la Federación Nacional de Cooperativas 
+Eléctricas (FENACOPEL), señor Patricio Molina expuso apoyado en una 
+presentación4.
+Precisó que representa a la Federación Nacional de Cooperativas 
+Eléctricas que distribuye energía a los sectores más complejos del país, 
+esencialmente en los sectores rurales. Se encuentra integrada por diferentes 
+cooperativas que abastecen de suministro eléctrico desde Curicó hasta Llanquihue y 
+por un periodo en promedio de 70 años.
+Afirmó que las cooperativas son distintas al resto de las distribuidoras, lo 
+que se refrenda en la propia iniciativa al diferenciarlas. Estas diferencias dicen 
+relación con:
+1) Los dueños son clientes con el 100% de capitales chilenos, es decir, 
+les afectan las decisiones como empresa y como clientes.
+2) Cumplen un importante rol social y económico en la zona rural, llegan a 
+las zonas donde nadie quiso llegar y apoyan a la industria agroindustrial. Se radican 
+en los sectores rurales y extra-rurales, es decir, están presentes en el extremo 
+cordillera y extremo mar.
+3) Como consecuencia de lo anterior, los beneficios que consiguen son 
+muy pocos, pero se reinvierten en la red para un mejor servicio. Enfatizó que se 
+enfocan en su rol social y en prestar un mejor servicio, lo que se ha visto reflejado en 
+los rankings de calidad, donde en los últimos 10 años, al menos cinco de las 
+cooperativas que integran la Federación, ocupan los primeros 10 lugares.
+En relación a la rentabilidad, expresó que entre el 2016 y el 2020 
+obtuvieron una rentabilidad promedio de 2,08%. Y para los años 2020, 2021 y 2022, 
+en promedio fue de un 2,98%. Se trata de rentabilidades bajas porque ningún estudio 
+tarifario se ha hecho cargo de la realidad de las cooperativas. Es más, de las siete 
+cooperativas que integran FENACOPEL, cuatro están con rentabilidades menores al 
+1%, incluso ha habido algunos años en los cuales las rentabilidades han sido 
+negativas.
+Precisó que las cooperativas abastecen el 2,5% de los clientes a nivel 
+nacional, entregando o distribuyendo un volumen de energía cercano al 2%. Sin 
+embargo, a nivel de redes de distribución, tienen del orden de 23.000 kilómetros de 
+redes, o sea, son dueños del 12% de todas las redes a nivel nacional. En otras 
+palabras: pocos clientes y poca energía, pero muchas redes.
+Por ejemplo, si se comparan con Enel, en Santiago, FENACOPEL tiene 
+casi un 30% más de redes que debe mantener y operar. Ahora, si se quiere hacer un 
+cálculo por densidad para entender lo que se enfrenta al distribuir energía en los 
+sectores rurales o cuántos clientes en promedio tiene por kilómetro cuadrado, señaló
+4 https://www.camara.cl/verDoc.aspx?prmID=304458&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 12 ---
+12
+que las cooperativas en promedio tienen un 7,5%, algunas están en torno al 4% y 
+otras el 15%.
+En consecuencia, las cooperativas tienen una realidad única y se 
+distinguen del resto por todo lo que ya señaló.
+A continuación, ahondó en la situación económica de las cooperativas, 
+precisando que sus ingresos están dados por las tarifas que se mantienen 
+congeladas desde el año 2019 (ley N° 21.194) y que no han permitido ni siquiera 
+traspasar la sustancial variación del IPC (+30%). A mayor abundamiento, les 
+aplicaron leyes que fomentaron el no pago -efectos colaterales de las medidas 
+adoptadas, que coincidió en que eran necesarias, por ejemplo, la ley de servicios 
+básicos-. Lo anterior, en un contexto de alza en el delito de hurto.
+Posteriormente, la recaudación de la deuda que se generó en el período, 
+se acordó pagarla en cuotas, en hasta cuatro años (ley N° 21.249), y peor aún, les 
+endosaron los costos de toda la cadena de producción al deber absorber saldos 
+impagos al final de la medida (ley N° 21.243), lo que no compartieron ni comparten.
+Adicionalmente, los costos de las cooperativas han sido crecientes 
+producto de la pandemia y de los efectos inflacionarios (la mano de obra aumento un 
+60% y los materiales un 90%), encareciendo la prestación del servicio de distribución 
+de electricidad.
+A mayor abundamiento, el atraso del proceso tarifario 2020-2024, -por 
+primera vez se estaba estudiando la realidad de las cooperativas e iban a tener 
+costos o tarifas que recogían la realidad de las cooperativas eléctricas en la 
+prestación de sus servicios- les ha impedido recibir por primera vez recursos 
+necesarios y acordes para prestar el servicio de distribución en las zonas rurales que 
+abastecen. A ello se suma una agravante que son los eventos naturales catastróficos 
+del año 2023, que significaron gastos no presupuestados por sobre los $1.800 
+millones, que han debido solventar sin ninguna ayuda del Estado, ni reconocimiento 
+tarifario.
+Todo lo anterior, redundó en que los ingresos de las cooperativas se 
+fueran para abajo y los costos se dispararán. De ahí que, desde hace ya varios 
+meses los acotados márgenes de algunas cooperativas se han transformado en 
+déficits que van creciendo de manera rápida e importante, que hoy las tiene en una 
+compleja situación financiera.
+Acentuó, por un lado, que caer en insolvencia económica afectará el 
+normal suministro eléctrico de más de 800.000 personas ubicadas en los sectores 
+rurales del país, comprometiendo de manera directa e indirecta el trabajo de más de 
+2.000 personas.
+Por otro lado, la disminución de recursos en las cooperativas las ha 
+llevado a: disminuir los planes de inversión proyectados; privilegiar labores 
+esenciales de operación, mantención y administración para la prestación del servicio 
+eléctrico; suspender pagos a parte de los proveedores de energía eléctrica,
+--- PÁGINA 13 ---
+13
+afectando la cadena de pago (generadores); restringir las obras de mejoramiento de 
+las redes eléctricas; emplear recursos de otras actividades ajenas al servicio 
+eléctrico, y endeudarse con la banca.
+Sobre la iniciativa, realzó que es necesario que se tramite a la brevedad, 
+ya que:
+1) Se hace cargo de deudas que por factores mayormente imprevisibles 
+(pandemia, guerras, tipo de cambio, etc.) generaron importantes alzas tarifarias que 
+fueron contenidas en beneficio de la ciudadanía, afectando el normal desarrollo del 
+sector eléctrico por años.
+2) Permite avanzar en normalizar la coherencia tarifaria, es decir, que las 
+tarifas eléctricas reflejen los reales costos involucrados en la prestación del servicio 
+eléctrico.
+3) Establece un subsidio para los clientes vulnerables, que ayuda a 
+familias que requieren de acompañamiento durante el período de normalización 
+tarifaria.
+4) Si bien están consciente de los diversos planteamientos en la 
+búsqueda de soluciones óptimas, el gran problema hoy en día es la tardanza en 
+enfrentar las consecuencias de las decisiones tomadas, vivir en una realidad tarifaria 
+extemporánea y no asumir que se tiene poco tiempo para evitar profundizar aún más 
+los actuales efectos. Por ello, el proyecto de ley constituye una solución válida y 
+razonable para regularizar la operación del sector eléctrico, considerando un plazo 
+que mitiga los efectos en los clientes, estableciendo además un mecanismo de 
+ayuda (subsidio) para aquellos que más la necesiten.
+5) Recoge la urgencia de atender la frágil situación financiera de las 
+Cooperativas y el riesgo que ello implica, al establecer un tratamiento diferenciado 
+del resto de empresas distribuidoras.
+En consecuencia, la iniciativa efectivamente constituye una solución que 
+es válida y razonable para regularizar la operación del sistema eléctrico, afirmó.
+A continuación, entregó los siguientes comentarios finales:
+1) El mercado de contratos para los clientes regulados (licitaciones) ha 
+sido un proceso trasparente y exitoso que ha permitido en el último tiempo la masiva 
+llegada de las energías renovables que han posibilitado contar con bajos precios 
+futuros de la energía. Se debe mantener la imagen país y respetar los acuerdos 
+tomados, sin perjuicio, de aprender de las condiciones de borde enfrentadas en los 
+últimos años.
+2) Los decretos de Precio de Nudo Promedio así como los tarifarios, 
+generan distorsiones y efectos nocivos al mercado sino entran en vigencia en las 
+fechas que corresponden, más aún en el caso de los decretos tarifarios cuando es 
+esperable que, ante igualdad de exigencias, las tarifas a clientes finales bajen por el
+--- PÁGINA 14 ---
+14
+reconocimiento de eficiencias. Por ello, debe procurarse la adecuada tramitación de 
+los decretos, tanto en tiempo como en forma.
+3) El congelamiento de tarifas impide el traspaso de las variaciones 
+experimentadas en los precios de la energía, dando señales erróneas a los clientes y 
+afectando además los normales flujos de las empresas para un adecuado desarrollo 
+del sector eléctrico. Por ello, es necesario que las tarifas siempre reflejen los costos 
+involucrados.
+5) Tan importante como el monto del subsidio es el mecanismo que 
+permita su entrega al cliente que realmente lo necesita. Un mecanismo exitoso será 
+aquel que lo reparte en un alto porcentaje a los beneficiarios seleccionados.
+El Ministro de Energía, señor Diego Pardow consultado sobre los 
+plazos, respondió que el decreto que implementa la ley vigente tiene un retraso de 
+un año y que todo el espacio de discusión técnica respecto de ese decreto tarifario 
+ya está concluido desde enero de este año. Eso significa que, si se retrasase la 
+aprobación de este proyecto, debe firmar el decreto y enviarlo a la Contraloría.
+En razón de ello, es que este proyecto tiene asignada urgencia de 
+discusión inmediata. Se apunta precisamente a limitar el crecimiento de la deuda de 
+3 millones de dólares al día y atender a la situación de las cooperativas. A mayor 
+abundamiento, también da cuenta de la necesidad de evitar la situación de decretos 
+que están permanentemente atrasados y darle una calendarización que permite 
+recuperar aquello.
+En particular, sobre si el subsidio puede ser mayor en su monto o con 
+otros plazos, aclaró que lo que hay actualmente refleja el acuerdo político respecto 
+de las formas de financiamiento. Teniendo el subsidio en régimen hacerlo crecer o 
+aumentarlo en el tiempo, es algo que se puede discutir, afirmó. Ello, una vez que se 
+tenga el acuerdo político sobre sus formas de financiamiento, aspecto donde 
+confluyen diferencias bien profundas. Una parte de las fuerzas políticas 
+representadas en el Congreso apunta a un tipo de impuesto que, no convence a la 
+otra parte, que cree que reduciendo el gasto público con distintas formas de 
+eficiencia se podría financiar. Entonces, las formas de financiamiento requieren la 
+construcción de consensos políticos y eso toma tiempo.
+En consecuencia, la propuesta del Ejecutivo es que se apruebe este 
+proyecto de ley en las condiciones que está, y que permite empezar en junio de este 
+año pagando un subsidio que contiene simultáneamente la implementación de un 
+calendario de pago. Y las discusiones futuras, ya sea en esta mesa de trabajo o en 
+las siguientes leyes de Presupuestos del Sector Público, permitirán construir los 
+consensos políticos detrás de cómo se financia y cómo crece el subsidio.
+Invitó a atender la iniciativa con la urgencia que supone, porque lo 
+contrario, esto es, implementar la ley vigente implica que los altos consumos, que no 
+necesariamente coindicen con altos ingresos, o sea, APRs, pymes, hogares 
+vulnerables que comparten medidor, van a ver duplicada el valor de su cuenta entre
+--- PÁGINA 15 ---
+15
+abril y mayo. Tal como ejemplificó en su exposición anterior, si en abril el minimarket 
+pagaba $250.000, en mayo va a pagar $500.000.
+El Académico del Departamento de Ingeniería Eléctrica de la 
+Universidad de Santiago de Chile, señor Humberto Verdejo expuso con base a 
+una presentación5.
+Inició su exposición abordando, los fundamentos del proyecto de ley, 
+consistentes en:
+1) No acumular más deuda. Actualmente la deuda de los usuarios 
+sometidos a fijación de precios supera los 5.000 millones de dólares.
+2) Retomar la cadena de pagos al transparentar los costos reales del 
+precio de la energía. Como es sabido, lo que actualmente se aplica en las tarifas 
+reguladas no corresponde a lo definido en los contratos de suministros resultantes de 
+las licitaciones que coordinó la CNE.
+3) Proteger a los usuarios vulnerables, con independencia del nivel de 
+consumo.
+4) Pagar la deuda en el mediano plazo y evitar elevar las tarifas de manera 
+importante en un solo semestre. La ley N° 21.472 establece que solo para el 2023 las 
+tarifas debiesen subir sobre un 100% para los usuarios que pagan hoy más de 
+$65.000.
+Las tarifas deben subir sí o sí, pues como ya señaló actualmente los 
+precios de la energía que se aplican a los pliegos tarifarios no son los reales y existe 
+una deuda de los usuarios por no pagar los precios reales de energía. Se deben 
+transparentar los precios, aun cuando existirán alzas en las tarifas, pero estas serán 
+acotadas, aseguró.
+En términos generales, precisó que el proyecto define tres tipos de 
+usuarios. El primer tramo que corresponde a quienes consumen hasta 350 kWh, es 
+decir, quienes pagan hasta $45.000. La iniciativa protege a este grupo del incremento 
+(primer semestre 2024).
+El segundo tramo que atañe al grupo que tendrá la mayor alza producto de 
+estar más lejos del precio real, cuyo consumo es superior a 350 kWh y hasta 500 
+kWh, que pagan $65.0000 mil pesos en su cuenta.
+Y, el tercer tramo que concierne al grupo que consume sobre los 500 kWh 
+y paga sobre los $65.000, acá se centra principalmente todo el sector productivo 
+nacional.
+En consecuencia, la iniciativa, va a proteger a los tres grupos de una u 
+otra manera, con especial énfasis para el tercero que, con la ley vigente y con el
+5 https://www.camara.cl/verDoc.aspx?prmID=304232&prmTipo=DOCUMENTO_COMISION
+--- PÁGINA 16 ---
+16
+decreto que el Ministro debiese firmar -si es que este proyecto no se tramita a la 
+brevedad- la tarifa le debiese subir un 100%.
+Expresó que el proyecto denota que las tarifas tienen que subir de todos 
+modos. No hay forma de que bajen, en atención a la gran deuda producto de los dos 
+mecanismos de estabilización que no funcionaron.
+Para ilustrar la situación de una mejor forma, para el primer semestre de 
+2024, exhibió el siguiente ejemplo:
+Explicó que actualmente, los tres grupos están pagando el valor en pesos, 
+dependiendo del nivel de consumo. El grupo uno por 250 kWh $33.641, el grupo dos 
+por 450 kWh $64.384 y el tercero por 650 kWh paga $98.824.
+Luego, siguiendo con el fundamento de la iniciativa -en el sentido de 
+transparentar los precios de electricidad-; si se llevan los precios de la energía a lo 
+que efectivamente está firmado en los contratos de suministros, habría un alza en los 
+tres tramos en torno al 8%, 17% y 10%, respectivamente según se trate del grupo 
+uno, dos o tres.
+Pero, adicionalmente, como se debe comenzar a pagar la deuda, producto 
+de los mecanismos que no funcionaron, los incrementos por tramos, para el primer 
+semestre de 2024, estarían en torno al 8% para el grupo uno, 32% para el grupo dos 
+y un 25% para el grupo tres. El primer grupo no tiene un alza tan importante, puesto 
+que, de acuerdo a lo que está definido en el proyecto de ley, su actualización va a ser 
+solamente por el IPC para el primer semestre de este año. Insistió que, si se aplicase 
+la ley vigente, debió haberse estado aplicándose un alza en torno al 100% para los 
+usuarios que pagan sobre $65.000.
+Ahora, para graficar la situación del segundo semestre de 2024, haciendo 
+el mismo ejercicio, exhibió el siguiente ejemplo:
+--- PÁGINA 17 ---
+17
+Hizo presente que, si en el segundo semestre se está en los precios 
+reales, se visualiza el beneficio de las licitaciones de suministro. Por lo tanto, los 
+grupos dos y tres ya hubiesen visto una baja, sin perjuicio que se tiene que devolver 
+todo lo que no se pagó por el mecanismo PEC y el MPC.
+Entonces para el segundo semestre 2024, habría un alza acumulada del 
+18% para el primer grupo y un 5% para el segundo y tercer grupo. Si se mira el año 
+completo, el primer grupo va a tener una variación total de 26%, el segundo grupo un 
+37% y el tercer grupo un 30%, que sin duda son mucho mejores que asumir alzas que 
+podrían superar el 100%. De tal manera, que la iniciativa protege a las pymes, a las 
+familias numerosas y particularmente a la gran cantidad de usuarios de bajo 
+consumo, aseveró.
+Lo anterior, sin perjuicio de que hay que sumar un par de millones de 
+euros que están pendientes y que, en caso de que se implementase la norma de 
+acuerdo al informe técnico definitivo de la CNE, habría un incremento de 4%, 
+adicional para los tres tramos.
+Insistió en que: 1) sin el proyecto de ley el grupo 3 experimentará un alza 
+de más del 100% en un año, producto del atraso de las tarifas y la obligación de 
+comenzar a devolver la deuda y 2) la implementación del esquema de subsidio 
+permitirá proteger a los usuarios vulnerables que se encuentran en los tres tramos de 
+consumos definidos en la ley N° 21.472. El esquema propuesto considera proteger de 
+acuerdo a la información del RSH y no solamente por nivel de consumo. Por primera 
+vez se implementará un subsidio focalizado que tendrá impacto en la tarifa para el 
+año 2024, en función de la proyección de precios de energía con el siguiente impacto: 
+el grupo uno tendrá una reducción en la cuenta de 8%, el grupo dos tendrá un alza de 
+17% y el tres de 16%.
+Destacó que lo más relevante en el diseño del subsidio es que no es por 
+consumo de electricidad, como ocurre en muchas partes del mundo. El diseño 
+presentado considera la componente socioeconómica y con ello se eliminan los 
+“falsos positivos”, en otras palabras, la idea de que los que consumen mucho son de
+--- PÁGINA 18 ---
+18
+altos ingresos y los que consumen poco son de bajos ingresos. El beneficio estará 
+asociado al RSH y permitirá -de una u otra manera- favorecer y abarcar una cobertura 
+para las familias de pocos ingresos, pero también para aquellas familias que son 
+numerosas o que derechamente comparten un medidor.
+En general, a nivel nacional, el alza para el grupo uno en el primer 
+semestre estará en un 8%, por ejemplo, Rancagua y Calama. Para el segundo el alza 
+oscilará entre un 20%, 25% y 30%, y para el tercer grupo como máximo ascenderá en 
+torno al 25% para el primer semestre.
+Por último, instó a tramitar a la brevedad la iniciativa y de ese modo no 
+seguir acumulando deuda; sin perjuicio que, urge retomar la cadena de pago y que -
+por primera vez- se implementará un subsidio que efectivamente apoya a las familias 
+vulnerables, pero no en términos de un indicador de energía, sino de vulnerabilidad 
+socioeconómica conforme al RSH.
+*****
+VOTACIÓN GENERAL
+A continuación, la Comisión sometió a votación general el proyecto de ley, 
+el que fue aprobado por unanimidad de votos (10-0-0), de las diputadas Yovana 
+Ahumada (Presidenta) y Marcela Riquelme, y de los diputados José Miguel Castro, 
+Andrés Celis, Christian Matheson, Benjamín Moreno, Jaime Mulet, Patricio Rosas, 
+Marco Sulantay y Cristián Tapia.
+El diputado Andrés Celis hizo presente que confía en que el subsidio 
+fiscal va a aumentar.
+La diputada Marcela Riquelme expresó no caberle duda que se requiere 
+un mayor esfuerzo del Fisco en relación al subsidio, al menos, comprometerlo para el 
+próximo año. De igual modo, se requiere de la voluntad de las empresas eléctricas y 
+generadoras.
+El diputado Jaime Mulet instó a avanzar en un esfuerzo para que, en esta 
+etapa de transición, el impacto a los consumidores, especialmente a los más 
+modestos sea el menor posible.
+*****
+--- PÁGINA 19 ---
+19
+El desarrollo en extenso del debate se encuentra en el archivo de audio 
+digital, según lo dispuesto en el artículo 256 del Reglamento de la Cámara de 
+Diputados.
+El video de la sesión se encuentra disponible en la siguiente dirección 
+electrónica: 
+https://www.camara.cl/prensa/Reproductor.aspx?prmCpeid=3309&prmSesId=77399
+Se levantó la sesión a las 12:51 horas.
+MARÍA CRISTINA DÍAZ FUENZALIDA
+Abogada Secretaria de la Comisión

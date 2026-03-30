@@ -1,0 +1,853 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=10987&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 05:03:55
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN ORDINARIA N°301 DE LA COMISIÓN DE HACIENDA, CORRESPONDIENTE 
+AL PERIODO LEGISLATIVO 2022-2026, CELEBRADA EL MIÉRCOLES 16 DE ABRIL 
+DE 2025, CITADA DE 15:00 A 17:00 HORAS.
+SUMARIO
+Esta sesión tiene por objeto recibir al 
+Director del Servicio de Impuestos 
+Internos para presentar los resultados 
+del Estudio de Evasión Tributaria 
+corregido, así como las principales 
+medidas de fiscalización que están 
+tomando para disminuir esta evasión. 
+ 
+Se inició la sesión a las 15:05. 
+ 
+1. ASISTENCIA
+Diputados asistentes: Barrera, Boris (Presidente); Bianchi, Carlos; 
+Cifuentes, Ricardo; Donoso, Felipe; Mellado, Miguel; Naranjo, Jaime; Rojas, Camila; 
+Romero, Agustín; Sáez, Jaime; Sauerbaum, Frank; Von Mühlenbrock, Gastón; Yeomans, 
+Gael.
+Se escuchó en audiencia el Servicio de Impuestos Internos, el Director, 
+señor Javier Etcheberry junto con la Subdirectora de Fiscalización, señora Carolina Saravia, 
+el Subdirector Gestión Estratégica y Estudios Tributarios (S), señor Eduardo Pantoja y el 
+Asesor del Servicio de Impuestos Internos, señor Michel Jorratt.
+Actuó como Secretaria Abogado de la Comisión la señora María Eugenia 
+Silva Ferrer y como abogada ayudante Gabriela Carvajal Andrade.
+2. CUENTA
+Se han recibido los siguientes documentos:
+1.- La Biblioteca del Congreso Nacional remite Boletín N°101 Informe de 
+“Coyuntura Económica Nacional y Escenario Internacional” surge de la necesidad de contar 
+con información confiable sobre la dinámica de la economía nacional, incluyendo 
+información agregada y regional, e incorporando análisis de indicadores relevantes tales 
+como índice de empleo, IMACEC, IPC, tasa de política monetaria, tipo de cambio nominal, 
+intercambio comercial y algunos aspectos generales del contexto económico internacional.
+2.- En cumplimiento de la Ley de Presupuestos del Sector público se han 
+recibido:
+3.- Of. N°756 Servicio de Impuestos Internos, en relación con la Glosa N° 
+07 de la Ley N° 21.722 de Presupuestos del año 2025, se remiten los resultados del estudio
+1
+Firmado por María Eugenia Silva Ferrer
+Fecha 30/04/2025 12:51:26 CLT
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 56075929FBAD726F
+--- PÁGINA 2 ---
+de "Estimación de la Brecha de Cumplimiento en el IVA y el Impuesto a la Renta de Primera 
+Categoría mediante el Método del Potencial Teórico Usando Cuentas Nacionales".
+4.- Of. N°4424 Servicio Nacional del Consumidor – SERNAC remite 
+Informe sobre Art. 14.11: Gastos por tipo de compra, correspondiente al primer trimestre 
+del año en curso.
+3. ORDEN DEL DÍA 
+La Comisión escuchó la exposición del Director Nacional del 
+Servicio de Impuestos Internos (SII), señor Javier Etcheberry, quien asistió junto con 
+la Subdirectora de Fiscalización, señora Carolina Saravia, el Subdirector Gestión 
+Estratégica y Estudios Tributarios (S), señor Eduardo Pantoja y el Asesor del SII, 
+señor Michel Jorratt.
+El Director Nacional del Servicio de Impuestos Internos, señor Javier 
+Etcheberry contextualizó su presentación, expresando que se trata de una continuación de 
+una sesión previa en que se solicitó por parte de los parlamentarios información sobre un 
+informe encargado a Michel Jorrat. Recordó que en dicha instancia recién había asumido 
+el cargo de Director y no había tenido tiempo de revisar el informe en detalle. Además 
+recordó que en la instancia se le consultó sus planes para fiscalizar y asegurar el 
+cumplimiento de la ley tributaria. Por lo tanto, expresó que esta sesión es un compromiso 
+previamente asumido, explicando que se busca aclarar aspectos relativos al informe para 
+un mejor entendimiento. El Director del SII destacó la importancia de identificar las brechas 
+de cumplimiento para dirigir la fiscalización y reducirlas. Reconoció que es imposible lograr 
+un cumplimiento del 100% debido a diversas razones, como la falta de conocimiento o la 
+creencia de que no serán sorprendidos, siendo un desafío común para todos los servicios 
+de impuestos internos en el mundo, por lo que es crucial medir la evasión.
+El señor Michel Jorratt, Asesor del SII, comenzó exponiendo la 
+estructura del informe de Mapas de Brechas de Cumplimiento Tributario (IVA, Impuesto de 
+Primera Categoría e Impuesto a la Renta Personal) que incluye un resumen ejecutivo y 
+distintos capítulos. Detalló que el primer capítulo es una introducción que define conceptos 
+y presenta cifras históricas de estimaciones del impuesto interno. El segundo capítulo 
+aborda el IVA, describiendo metodologías de estimación de la evasión basadas en cuentas 
+nacionales, como el método del valor agregado y el método del IVA no deducible. También 
+se incluyen metodologías para estimar la evasión por informalidad, ventas sin boletas, 
+facturas falsas y manipulación de la proporcionalidad del IVA. Se presentan mapas de 
+brechas del IVA, que sintetizan la distribución de la evasión. Continuó explicando que el 
+tercer capítulo se enfoca en el impuesto de primera categoría (IDPC), describiendo el 
+método de estimación general y los resultados de la medición de informalidad. Se incluyen 
+estimaciones de brechas y mapas que muestran cómo la evasión del IVA se traslada a 
+primera categoría. Además, se presenta una metodología para encontrar inconsistencias 
+entre registros administrativos y contables de las empresas, y mapas de brechas del 
+impuesto de primera categoría. Añadió que el capítulo cuatro aborda el impuesto a la renta 
+personal, incluyendo el global complementario y segunda categoría. Se describen 
+metodologías para medir la evasión en el sector formal y por informalidad, y se presentan
+2
+--- PÁGINA 3 ---
+mapas de brechas en el impuesto a la renta personal. Finalmente, el informe concluye con 
+un capítulo quinto con un resumen y conclusiones.
+Continuó explicando algunas definiciones claves para entender la 
+medición de la evasión en los sectores formal e informal. Se define la informalidad en el 
+contexto del IVA y la primera categoría como aquellas personas que realizan actividades 
+económicas gravadas pero que en la encuesta reportan no estar registradas en el servicio 
+de impuestos internos. Para el impuesto a la renta personal, se identifican dos grupos de 
+contribuyentes informales: aquellos que trabajan por cuenta propia o como empleadores y 
+no están registrados en el SII, y aquellos que declaran recibir rentas del trabajo dependiente 
+pero cuyos empleadores no pagan las cotizaciones previsionales, y por tanto no retienen el 
+impuesto de segunda categoría.  A su vez, explicó que se mencionan brechas de evasión 
+con un lenguaje más coloquial, como la brecha por venta sin boleta, que se refiere a 
+cualquier subdeclaración de ventas al consumidor final, por cualquier medio, siendo la venta 
+sin boleta la más común. La brecha por facturas falsas se refiere a créditos de IVA utilizados 
+sin que haya una contraparte que declare los débitos correspondientes.
+El señor Jorratt continuó exponiendo sobre la brecha de cumplimiento 
+en el IVA y presentó un gráfico que muestra la tasa de incumplimiento del IVA desde 2018 
+hasta 2023
+Destacó que el estudio abarca principalmente los años 2018 a 2021, pero 
+para el IVA se utilizó una metodología adicional, llamada IVA no deducible, que permite 
+obtener cifras preliminares hasta 2023. El gráfico revela que la tasa de incumplimiento del 
+IVA fue del 20.8% en 2018, descendiendo a 17.1% en 2020, y luego a 13% en 2021, antes 
+de estabilizarse en torno al 17-18% en los últimos años. Destacó que todos los métodos de 
+medición de evasión muestran una baja considerable en 2021, pero esta debe ser 
+interpretada con precaución, pues podría deberse a la pandemia, ya que los años 2020 y 
+2021 fueron años de turbulencias económicas. Continuó señalando que una hipótesis es 
+que la reducción de la evasión se debe a los recursos inyectados en la economía, que
+3
+--- PÁGINA 4 ---
+probablemente fueron gastados en comercios formales, grandes y menos propensos a la 
+evasión. Otra hipótesis sugiere que la calidad de las cuentas nacionales podría haber sido 
+afectada por las condiciones extraordinarias de esos años, dificultando la captura precisa 
+de los efectos de la inyección de recursos. De todas maneras, aludió a que se observó un 
+fenómeno similar en la Unión Europea, donde se realizan mediciones anuales de evasión.
+El Diputado Bianchi sobre la baja del 13% consultó que es lo que se 
+afirma en el resto del mundo, pues en el contexto mundial, la informalidad laboral ha sido 
+un tema de preocupación y estudio en muchos países a propósito de lo ocurrido durante 
+los años 2020 y 2021 en el contexto de la pandemia de COVID-19, la que tuvo un impacto 
+considerable en las economías globales,
+El Señor Jorratt expresó que, según la Unión Europea, en su informe del 
+año 2022 o 2023, se observó un fenómeno donde las personas consumieron y pagaron 
+principalmente con medios electrónicos, lo que dificultó la evasión fiscal. Además, mencionó 
+que los apoyos gubernamentales evitaron quiebras y reforzaron el cumplimiento tributario, 
+lo que contrasta con la expectativa de que la evasión aumente durante una recesión 
+económica. Señaló que la Unión Europea planteó una segunda hipótesis al año siguiente, 
+sugiriendo que las cuentas nacionales pudieron haber perdido precisión estadística o 
+calidad debido a las turbulencias de la época, lo que podría haber afectado la 
+representación de la realidad económica. Sin embargo, destacó que no hay certeza 
+absoluta sobre estas hipótesis.
+El Diputado Cifuentes, a propósito de la lámina expuesta, consultó sobre 
+el cuadro debajo de la gráfica, en que se distingue una unidad teórica, una unidad efectiva 
+y una brecha. Señaló que era curioso que, después del año 2021, la brecha mostrara un 
+salto tan significativo, constatando una disminución de la brecha desde el año 2020 al 2021, 
+pero un aumento muy significativo desde el año 2021 al 2022. Solicitó que se aclarara en 
+qué consistían la unidad teórica y la unidad efectiva, y por qué la brecha se movía tanto en 
+el año 2021 en comparación con el año 2022.
+El Señor Jorratt respondió que el IVA teórico o recaudación teórica es lo 
+que se habría recaudado con un 100% de cumplimiento, mientras que el efectivo es lo que 
+realmente se recauda, y la brecha es la diferencia entre ambos. Mencionó que en el año 
+2021 hubo un salto significativo no solo en la brecha, sino también en la recaudación teórica 
+y efectiva. Indicó que estos datos están en pesos nominales y que hubo un aumento 
+importante en el consumo de los hogares en el año 2021, lo cual se mantuvo 
+posteriormente. Además, señaló que la inflación de esos años también contribuyó a este 
+aumento. Explicó que estos dos fenómenos, el aumento del consumo de los hogares y la 
+inflación, son los que explican el incremento observado.
+Continuó su exposición, detallando que, aparte de esa estimación global, 
+también se miden las brechas o incumplimientos por diferentes categorías, como la 
+formalidad e informalidad, y las diferentes formas de incumplir el IVA, por lo cual expuso un 
+cuadro que expresa en porcentajes la evasión total:
+4
+--- PÁGINA 5 ---
+Explicó que el recuadro describe la brecha de cumplimiento en el IVA por 
+año y por tipo de cumplimiento. Destacó que del 100% de la evasión total en 2018 hubo un 
+84,2% proveniente del sector formal y el 15,8% viene de la economía informal, que se 
+analizará más adelante. Se entiende por sector formal a aquellas empresas que han 
+efectuado el inicio de actividades, no significando que necesariamente cumplan con todas 
+las obligaciones, pues, por ejemplo, podrían en una operación no entregar boleta o 
+incorporar una factura falsa, con lo cual hay una maniobra de evasión, pero del sector 
+formal. Por su parte, explicó que por sector informal se entiende que comprenden las 
+personas que no tienen inicio de actividades.
+El Director del SII enfatizó que se encuentran fiscalizando a las 
+denominadas “mafias” y que han descubierto que incluso las más importantes tienen inicio 
+de actividades y hacen declaraciones de impuestos, pero emiten boleta por un porcentaje 
+pequeño de sus operaciones.
+El Diputado Bianchi expresó su preocupación por el comercio chino, al 
+cual calificó como una parte significativa de la economía. Mencionó que ha insistido 
+repetidamente al Director y a la Subdirectora de Fiscalización del SII, presentes en la 
+sesión, que se informe sobre la fiscalización que se realiza a este comercio. Aunque 
+algunos comercios han sido clausurados en ciertos lugares del territorio nacional, señaló la 
+falta de un análisis exhaustivo. Solicitó que el Director del Servicio de Impuestos Internos 
+efectúe un análisis detallado de todo el comercio chino establecido a lo largo de Chile y los 
+efectos que ha tenido en el comercio formal, que sí entrega boletas. Comentó que todos 
+con quienes ha conversado señalan un alto nivel de evasión del pago del IVA en las boletas.
+5
+--- PÁGINA 6 ---
+El señor Jorratt continuó con su presentación, atendiendo a lo que 
+expone el recuadro, el que distingue en el año 2018, que el 84% de la evasión está en el 
+sector formal, distinguiendo dentro de la formalidad lo que es ventas finales sin 
+comprobante (o sin boleta) explicaría casi el 30% de la evasión de IVA, lo que se desagrega 
+por producto o actividad. Luego existe un 17% de la evasión que se detecta en facturas 
+falsas y un 20% la evasión que se da por concepto de manipulación de la proporcionalidad 
+del IVA, que se dan en el caso de los contribuyentes con ventas gravadas y exentas de 
+forma simultánea. Destacó que en la última fila es un “residuo” y no una imputación directa, 
+tratándose de un 17,3% que se imputa tanto a compras no acreditables o compras 
+personales a nombre de una empresa para el pago de menos IVA, así como ventas sin 
+factura.
+El Diputado Mellado destacó que en la presentación habría una fuerte 
+disminución de las ventas finales sin comprobante de los años 2018 a 2021, bajando del 
+21% al 9,8% y consultó como se explica la baja tan fuerte.
+El señor Jorrat recordó lo previamente expresado respecto del año 2021, 
+siendo difícil sacar conclusiones pues aumenta mucho la informalidad y la evasión de IVA 
+baja fuertemente a 13%, por lo que llamó a no usar aquel dato para sacar las conclusiones.
+Continuó haciendo presente la tabla de brecha de cumplimiento en el IVA 
+en el sector informal, destacando que igualmente los datos se encuentran desagregado por 
+actividades económicas, y que se tiene por base la encuesta suplementaria de ingresos.
+Frente a la solicitud de explicación en detalle del año 2021 por parte del 
+Diputado Mellado, señaló que el año 2021 presentó problemas que también se observaron 
+en otros países del mundo. Mencionó que las cuentas nacionales aparentemente 
+subestimaron la economía total, lo que resultó en una baja inesperada de la evasión global 
+del IVA al 13%. Indicó que, a medida que la evasión global disminuye, la informalidad tiende 
+a aumentar proporcionalmente. Reconoció que, en términos de monto, la evasión también 
+aumentó, como mencionó el diputado, llegando a representar un 25%. Explicó que se cree 
+que en ese año no hubo tanta informalidad, y una hipótesis que no pueden validar es que, 
+al igual que las cuentas nacionales, el levantamiento de encuestas también pudo haber 
+perdido calidad. Recordó que la Encuesta Suplementaria de Ingresos se realiza entre 
+septiembre y noviembre de cada año, y durante el periodo de pandemia no se sabe con 
+certeza qué tan bueno fue ese levantamiento, por lo que da para un análisis sobre qué es 
+lo que refleja la economía informal en esa encuesta, pudiendo haber problemas tanto en el 
+levantamiento de información como en la realidad de una mayor informalidad. Finalmente,
+6
+--- PÁGINA 7 ---
+reiteró que el año 2021 fue un año muy especial tanto para el levantamiento de encuestas 
+como para las cuentas nacionales.
+El Diputado Romero expresó dudas al revisar la información expuesta, 
+mencionado que en la página 5 se observaba que la tasa de incumplimiento completa 
+bajaba del 20,8% en 2018 al 13% en 2021, lo cual había sido explicado claramente. Sin 
+embargo, al revisar la última página, donde se presentaban los montos en pesos, no le 
+cuadraba que la tasa de incumplimiento bajara tanto. Señaló que, al analizar los factores 
+individuales como ventas finales, facturas falsas y manipulación de proporcionalidad, se 
+observaba que comparado con 2018 en 2021 subía. Además, mencionó que la imputación 
+de compras no acreditadas y ventas sin factura también aumentaba de 800 en 2018 a 810 
+en 2021. Cuestionó por qué no se mantenía una misma tendencia en todos los factores y 
+solicitó una explicación sobre este fenómeno, preguntando si había llamado la atención del 
+expositor.
+El señor Jorratt explicó que se utilizan distintas metodologías para cada 
+aspecto consultado. Mencionó que hay una metodología base que son las cuentas 
+nacionales, y esta metodología arroja una tasa de evasión muy baja en el año 2021, que 
+tiene problemas. En cambio, la metodología utilizada para medir la evasión por 
+proporcionalidad en el IVA no usa las cuentas nacionales, sino que se basa principalmente 
+en información efectiva y mezcla algunos factores de las cuentas nacionales. Esta es la 
+explicación fundamental de por qué una puede subir y la otra no, ya que no está ligada a 
+las cuentas nacionales, que son las que tienen el problema. Recordó que la base tiende a 
+expandirse en general, y si la economía crece, las bases son más grandes, insistiendo en 
+la idea de que el año 2021 tiene muchos problemas.
+Continuando con su exposición, presentó los resultados respecto de la 
+Brecha en el impuesto de primera categoría (IDPC), presentando un ejercicio fundamental 
+para entender las tasas de evasión de primera categoría:
+De acuerdo a lo expuesto, el ejercicio plantea la pregunta de ¿qué tasa 
+de incumplimiento del impuesto de primera categoría es compatible con una de IVA entorno 
+al 20%?. El ejercicio muestra una empresa promedio, basada en la estructura de ingresos 
+y costos de acuerdo a las cuentas nacionales. Según las estadísticas, y es lo que se aprecia 
+en la columna “sin incumplimiento” una empresa promedio podría vender 100, con compras 
+de 58, resultando en un valor agregado de 42, que es la base del IVA. Además de las
+7
+--- PÁGINA 8 ---
+compras, las empresas tienen otros gastos, como remuneraciones y depreciaciones, que 
+suman 24, dejando una utilidad de 18. Si se calcula cuánto debería recaudarse de esta 
+empresa en IVA y en impuesto de primera categoría, el IVA sería el 19% del valor agregado 
+(19% de 42, que es 8,0) y el impuesto de primera categoría sería el 27% de la utilidad (27% 
+de 18, que es 4,9). En la columna siguiente, se analiza qué pasaría si esta empresa efectúa 
+una subdeclaración del 1% del IVA. Si en vez de declarar 100, declara 99, todo lo demás 
+se mantendría relativamente igual, pero el pago de IVA bajaría de 8 a 7,8 y el de primera 
+categoría de 4,9 a 4,6. Esta brecha en términos de tasa de incumplimiento sería una tasa 
+del 2,4% de IVA y un 5,6% de primera categoría. Es decir, el mismo peso que no se declaró 
+en las ventas genera una tasa de evasión de 2,4% en IVA y de 5,6% en primera categoría.
+Luego brindó un ejemplo en el que se supone que la empresa subdeclara 
+el 8% de sus ventas, lo que supondría una tasa de incumplimiento o evasión de 19,0% en 
+IVA y 44,4% en primera categoría, explicando un efecto aritmético relacionado con la 
+evasión del IVA y la primera categoría, destacando que para la misma cantidad de dinero 
+que se evade en el IVA, la tasa de evasión en la primera categoría es más del doble que la 
+del IVA. Aclaró que, a veces, se podría pensar que cuando se dice que una empresa evade 
+un 40%, se está afirmando que no declaran el 40% de sus ventas. Sin embargo, para lograr 
+una evasión del 40% o 44%, sería suficiente con subdeclarar el 4% de los ingresos y sobre 
+declarar el 4% de los gastos. Esto resultaría en una tasa de evasión del 44% en la primera 
+categoría, destacando cómo estos pequeños ajustes en la declaración de ingresos y gastos 
+pueden tener un impacto significativo en la tasa de evasión de impuestos en la primera 
+categoría.
+A continuación, el señor Jorrat explicó la estimación general del 
+incumplimiento del impuesto de primera categoría en base al método de cuentas 
+nacionales:
+8
+--- PÁGINA 9 ---
+Destacó la tasa de incumplimiento en los diferentes años, aclarando que 
+no es posible saber cómo se comportará en los años siguientes (2022, 2023), por no contar 
+con los datos para poder estimarlo. Por lo demás, aclaró que las cifras del gráfico que se 
+encuentran en color celeste reflejan la parte de la evasión de primera categoría que tiene 
+un origen común con el IVA y lo parte naranja son otras formas no asociadas al IVA, 
+enfatizando que por lo menos en 2018 y 2019 más de dos tercios de la evasión de primera 
+categoría son un traspaso directo de las formas de evadir el IVA. Explicó por qué la evasión 
+puede ser mayor en el impuesto a la renta, mencionando como razones principales, en 
+primer lugar, que las empresas tienen gastos que no forman parte de la base del IVA, como 
+las remuneraciones, los honorarios y una serie de otros conceptos, incluyendo ganancias y 
+pérdidas de capital, siendo gastos que no están sujetos al IVA, lo que permite a las 
+empresas tener más margen para la evasión en el impuesto a la renta. En segundo lugar, 
+no todas las actividades que pagan el impuesto de primera categoría están afectas al IVA, 
+existiendo varias  actividades exentas de IVA, como las exportaciones, las que sin embargo, 
+sí forman parte de la base imponible del impuesto de primera categoría. Esto significa que, 
+aunque las exportaciones no paguen IVA, sí contribuyen a la base sobre la cual se calcula 
+el impuesto a la renta, lo que puede resultar en una mayor evasión en este último.
+El Diputado Romero consultó si, respecto del incumplimiento en el 
+impuesto de primera categoría, se distingue según el tamaño de las empresas o es más 
+bien genérico. En segundo lugar, pregunto si respecto la base de cálculo para determinar 
+la tasa de evasión en el impuesto de primera categoría hay algún componente que no sea 
+tributable o si se realizaron los descuentos por ejemplo, gastos, amortizaciones y otros 
+aspectos no tributables.
+Aclarado por el expositor que se descuentan los gastos a que tiene 
+derecho la empresa y que las cuentas nacionales no permiten distinguir por tamaño de 
+empresa, el Diputado Romero recalcó la importancia de la precisión, ya que en diversas 
+ocasiones se ha intentado instalar en la opinión pública la idea de que el gran empresario 
+no paga impuestos.
+El Diputado Mellado consultó de donde se extrae el impuesto teórico 
+mencionado en la presentación y si el cálculo se basa en las ventas que tienen todas las 
+empresas, mencionando que el Director Etcheberry ha manifestado que la evasión de 
+impuestos corporativos no proviene de las grandes empresas. Además, señaló que las 
+empresas pymes solo representan un 13% de las ventas según el Servicio de Impuestos 
+Internos. Por otra parte, manifestó la necesidad de entender cómo se explica una tasa de 
+evasión del 48,9% que se presentó en 2020, un total del 4,7% del PIB, habiéndose 
+producido varias reformas tributarias que han otorgado mayores atribuciones al Servicio de 
+Impuestos Internos y aun así se ha observado un incremento en la evasión.
+El Director Nacional del SII explicó que, aunque las grandes empresas 
+como los bancos, las sociedades anónimas abiertas y las compañías de agua y gas 
+prácticamente no evaden impuestos, existen sectores donde empresas no tan pequeñas sí 
+lo hacen en gran medida, mencionando sectores intermediarios en el agro y la minería como 
+ejemplos de áreas donde se observa una considerable evasión. Añadió que personas con 
+altos patrimonios, que son dueños de grandes empresas como accionistas, a veces buscan 
+traspasar recursos a sus descendientes o mantener dinero en el extranjero para evitar
+9
+--- PÁGINA 10 ---
+tributar, pudiendo además realizar ventas y compras simuladas entre sus propias empresas 
+o acciones, lo cual es conocido y fiscalizado en virtud de la ley. También mencionó otros 
+sectores muy grandes que operan al margen de la ley, transportando productos con guías 
+de despacho falsas, lo cual podría considerarse como una especie de mafia. De toda 
+maneras, enfatizó que no es correcto generalizar que las grandes empresas no evaden 
+impuestos, ya que hay muchos otros sectores grandes que sí lo hacen, destacando que el  
+informe detalla sector por sector cuáles son los intermediarios que están incumpliendo con 
+sus obligaciones tributarias.
+El Señor Jorratt, sobre el impuesto teórico, explicó que se basa en datos 
+de las cuentas y el impuesto nacional, específicamente en el excedente de explotación. 
+Este cálculo abarca a todas las empresas, incluyendo empresas individuales y todos los 
+tipos de sociedades, recordando que en Chile existen aproximadamente un millón y medio 
+de empresas, de las cuales las sociedades anónimas abiertas, que son las que 
+comúnmente se consideran grandes y reguladas, no superan las 400 o 500. Por lo tanto, el 
+cálculo del impuesto teórico incluye a todas estas empresas. Mencionó que en el análisis 
+sectorial se pueden identificar sectores o actividades económicas donde predominan las 
+empresas muy grandes, como el sector eléctrico y que en estos casos, el método de cálculo 
+del impuesto teórico no arroja una evasión significativa, o la evasión es muy despreciable.
+Expuso el detalle de la brecha de cumplimiento en el impuesto de primera 
+categoría por año y por tipo de cumplimiento:
+10
+--- PÁGINA 11 ---
+Explicó que del 100% de incumplimiento, un 85,7% se produce en el 
+sector formal y un 14,3% en la informalidad. Mencionó que este porcentaje varía en el 2020, 
+debido a la baja de la tasa de la primera categoría, lo que hace que el sector informal sea 
+menos relevante en comparación con el formal, que pagaría una tasa del 10% en ese año. 
+Detalló que un 25,4% de la evasión se origina en ventas grabadas con IVA al consumidor 
+final, mediante la subdeclaración de ventas, es decir, ventas sin boleta. Respecto a la 
+declaración de ventas exentas de IVA al consumidor final, indicó que se hizo una 
+estimación, ya que las empresas que no pagan IVA también pueden vender al consumidor 
+final sin factura ni comprobante, lo que representa un 11,5%. Añadió que un 14,4% de la 
+evasión podría provenir de facturas falsas, un 14,7% de la imputación de gastos no 
+acreditables o compras personales a nombre de la empresa y ventas intermedias sin 
+factura. Además, indicó que hay un 1,7% que surge de un método particular utilizado, 
+correspondiente a no declarantes, es decir, personas que percibieron rentas pero no las 
+declararon y aunque la mayoría de estas personas están identificadas, no es fácil perseguir 
+el cobro de estas deudas. También mencionó que un 14,3% de la evasión se detecta en el 
+ejercicio realizado para encontrar inconsistencias entre los registros administrativos y los 
+cálculos de la contabilidad de las empresas. Finalmente, dentro del sector formal, afirmó 
+que habría un resto no explicado o de otras formas no precisadas que representa un 3,6%. 
+Por su parte, dentro del sector informal, distinguió actividades económicas similares a las 
+del IVA, aunque hay algunas actividades no grabadas con IVA que destacan más, como el 
+transporte de pasajeros.
+El señor Jorratt continuó presentando la brecha de cumplimiento del 
+impuesto de primera categoría por año y sector institucional, exponiendo la siguiente 
+lámina:
+Explicó que el Banco Central distingue cuatro sectores institucionales: los 
+hogares, las sociedades no financieras, las sociedades financieras y el gobierno. Sin 
+embargo, el gobierno queda fuera de este análisis porque no paga impuestos. En cuanto a 
+los hogares, señaló que se asocian a las empresas individuales, es decir, a las personas
+11
+--- PÁGINA 12 ---
+naturales que tienen un negocio o ejercen alguna actividad grabada con primera categoría. 
+Según el cuadro expuesto, del 100% de la evasión, un 23,4% corresponde a las empresas 
+individuales, agregando que que las empresas individuales tienen una tasa de evasión 
+cercana al 80%, ya que dentro de este grupo se incluye la informalidad, pues por definición, 
+la actividad informal se ejerce como persona natural. Continuó detallando que las 
+sociedades no financieras explican el 54,9% de la evasión, mientras que las sociedades 
+financieras representan el 21,8%.
+El Diputado Mellado aclaró que, aunque se menciona que el 80% de la 
+evasión corresponde a las empresas individuales, es importante destacar que del 23,4% de 
+evasión atribuida a estas empresas, el 14,3% son informales. Esto es crucial para evitar la 
+percepción de que se está atacando a las empresas formales, subrayando que la 
+recaudación se centra en cómo abordar la informalidad, y que es fundamental dejar claro 
+que no se está sugiriendo que toda la evasión proviene de las empresas formales, sino que 
+se está hablando de la informalidad.
+El señor Jorratt respondió que en efecto solo el 14,3% es informalidad, 
+pues por definición no hay informalidad en las sociedades.
+A continuación, expuso un mapa en que se detalla la brecha por año y 
+actividad económica:
+12
+--- PÁGINA 13 ---
+Explicó que el mayor porcentaje de evasión aparece en las actividades 
+auxiliares financieras, que incluyen todas las actividades que apoyan a la actividad 
+financiera. Dentro de este grupo se encuentran las casi 60.000 sociedades de inversión que 
+existen en Chile, las cuales realizan inversiones financieras o una mezcla de inversiones 
+financieras e inmobiliarias, acumulando las utilidades distribuidas por las empresas. 
+Además, destacó que la construcción y las actividades profesionales, científicas y técnicas 
+son otras áreas significativas en términos de evasión. En cuanto al sector informal, reiteró 
+que las actividades más mencionadas son el comercio, la construcción y el transporte.
+El Diputado Mellado consultó sobre lo que ocurre con las sociedades 
+financieras y su alto porcentaje de evasión, que en la tabla previamente expuesta alcanzó 
+un porcentaje de 50% de la brecha financiera de 2021, lo que le resultó extraño 
+considerando que son las más reguladas.
+El señor Jorratt expresó que, particularmente en el año 2021, la situación 
+era inusual. Sin embargo, al observar el sector más vinculado a los bancos, no se detectaba 
+una evasión significativa. Explicó que las sociedades financieras incluyen todo lo 
+relacionado con el sector financiero, y mencionó que existen 60.000 sociedades de 
+inversión, en donde persona puede tener una para realizar inversiones financieras.
+El Director Nacional del Servicio de Impuestos Internos expresó su 
+deseo de volver al tema del sector formal y compartió un ejemplo específico. Mencionó que 
+se creó una oficina de tributación del crimen organizado, y una de las áreas en las que se 
+están especializando es el robo de salmón. Descubrieron que una empresa importante que 
+vende salmón lo hacía con factura, pero casi no compraba salmón con factura. Esto llevó a 
+la sospecha de que la empresa, aunque formal porque vende con factura, podría estar 
+comprando salmón robado, lo cual es un problema significativo en Chile, subrayando que, 
+aunque una empresa pueda parecer formal por vender con factura, podría estar evadiendo 
+la mayor parte de su actividad al comprar sin factura.
+El señor Jorrat continuó con la brecha en el  impuesto a la renta personal, 
+exponiendo una lámina con la metodología
+13
+--- PÁGINA 14 ---
+Aclaró que la metodología utilizada consiste en ajustar los valores 
+declarados por los contribuyentes basándose en un factor de ajuste determinado con 
+valores de las cuentas nacionales. Paralelamente, se mide la informalidad a nivel de 
+impuestos personales. En el año 2018, se detectó una brecha de base imponible del 33,5%, 
+lo que significa que se declaró un 33,5% menos de lo que se debería haber declarado. Esta 
+brecha no se debe a la remuneración, sino a otros conceptos. Dado que el impuesto es 
+progresivo y las tasas marginales aumentan, una brecha del 33,5% en 2018 se traduce en 
+una tasa de incumplimiento del impuesto neto del 52,8%. Si se declarara toda la base 
+imponible correspondiente, la tasa aumentaría, lo que explicó tiene un efecto significativo 
+en el cumplimiento tributario. Ante las preguntas entorno a la baja en la tasa de 
+incumplimiento en el año 2020, explicó que el año 2020 estuvo marcado por la pandemia, 
+pero que además hay otros fenómenos que podrían confluir, aunque debe ser analizado 
+con mayor detalle, tal como la implementación del Impuesto Sustitutivo de Rentas 
+Acumuladas en el FUT, lo que resultó en un aumento significativo de los retiros de utilidades 
+en 2020 y 2021, lo que tuvo como consecuencia, hubo muchos menos retiros gravados, lo 
+que también podría explicar ciertos efectos observados en ese periodo.
+El señor Jorratt continuó presentando una lámina en que se detalla dónde 
+se produce la diferencia en la declaración de impuestos:
+Recordó que el impuesto personal está integrado con el de primera 
+categoría, lo cual se refleja en la mención del impuesto neto del crédito de primera 
+categoría. Mencionó que hay una subdeclaración de remuneraciones muy pequeña, 
+proveniente principalmente del sector informal, según la encuesta. En el estudio del sector 
+formal, no se detectó una brecha en las remuneraciones declaradas respecto a las cifras 
+oficiales de las cuentas nacionales, por lo que no se detecta evasión en ese aspecto. Sin 
+embargo, sí se encontró evasión en los honorarios. De la evasión total medida, un 20,3% 
+proviene de la subdeclaración de honorarios o rentas del trabajo independiente, y casi un 
+80% de la subdeclaración de rentas empresariales, es decir, retiros no declarados. Esto 
+explica la brecha observada. Además, mencionó que las utilidades que se sacaron pero 
+que contablemente se mantuvieron como no retiradas no estarían incluidas en esta brecha.
+El Diputado Donoso preguntó si el Servicio cuenta con el dato de qué 
+tipo de empresas son las que presentan subdeclaración en renta, ya que llegar a casi el 
+80% es un número significativo. Expresó su dificultad para entender cómo una empresa
+14
+--- PÁGINA 15 ---
+que está completamente regular puede compararse con una pyme que podría utilizar gran 
+parte de sus ingresos en gastos domésticos, por lo que consultó cómo se sectoriza esa 
+evasión.
+El Señor Jorrat explicó que las empresas reguladas, como las 
+sociedades anónimas abiertas, distribuyen sus utilidades hacia abajo, pero generalmente 
+no llegan a las personas naturales, sino que permanecen en las sociedades de inversión. 
+Esto significa que una persona puede invertir en una sociedad grande, pero las utilidades 
+se mantienen en su sociedad de inversión. Además, mencionó que, dado que el análisis se 
+basa en factores con cuentas nacionales, no es posible sectorizar la evasión por tamaño 
+de empresa. Sin embargo, cree que este tipo de evasión ocurre principalmente en 
+sociedades de inversión y no tanto en las grandes empresas.
+El Diputado Romero expresó su dificultad para entender las tendencias 
+observadas en los datos. Entendiendo que el año 2021 fue un año extraño en el que se 
+esperaba una disminución general, notó que la subdeclaración de renta empresarial 
+aumentó, tanto en el sector formal como en el informal. También observó un aumento en la 
+subdeclaración total de remuneraciones en 2021, lo cual le resulta confuso, ya que todas 
+las demás cifras muestran un comportamiento razonable. Por ello, preguntó por qué estas 
+dos cifras aumentaron en ese año.
+El Señor Jorratt respondió que el cuadro muestra el porcentaje del total 
+que representa cada ítem. Al observar la página anterior, se puede ver que la tasa general 
+bajó del 32% al 18%. Sin embargo, dentro de ese 18%, la participación de las rentas 
+empresariales aumentó. Esto significa que, aunque el porcentaje total es menor que el del 
+año anterior, la proporción de rentas empresariales dentro de ese total es mayor.
+El Diputado Mellado sugirió que en la sesión se pueda terminar con la 
+exposición y que los diputados y diputadas, una vez estudiado el informe, puedan 
+confeccionar cuestionarios para remitirlos al Director del Servicio de Impuestos Internos, 
+fijando una sesión especial para que pueda responder las inquietudes.
+El señor Jorrat expuso una tabla con la estimación de la "brecha total" 
+de cumplimiento en el IVA y el Impuesto a la Renta según formalidad o informalidad de los 
+contribuyentes:
+15
+--- PÁGINA 16 ---
+Para explicarlo, tomó como referencia el año 2018, se muestran las tasas 
+de incumplimiento en miles de millones de pesos nominales, en porcentaje del PIB y como 
+tasa de brecha. En 2018, la evasión de IVA equivalió al 2,1% del PIB, de los cuales 1,7% 
+proviene del sector formal y 0,4% del sector informal. La evasión de primera categoría 
+representó el 4% del PIB, con 3,4% del sector formal y 0,6% del sector informal. La renta 
+personal representó el 1,5% del PIB, con 2% del sector formal y -0,5% del sector informal, 
+reflejando la integración de los impuestos. En total, la brecha de 2018 fue del 7,6% del PIB, 
+disminuyendo a 7,2% en 2019 y a 6% en 2020. La tasa de incumplimiento de IVA más renta 
+fue del 34,9% en 2018, 33,8% en 2019 y 31,2% en 2020. Finalmente, acompañó gráficos 
+que ilustran la evolución de la tasa de incumplimiento de IVA y de primera categoría, 
+destacando que la tasa de primera categoría no es más alta que antes, sino que oscila y 
+está en un rango incluso inferior al de comienzos de los 2000.
+El Diputado Sáez preguntó al director cuándo estarán en condiciones de 
+tener información respecto a los años 2022, 2023 y 2024, ya que todo el trabajo del informe 
+y las investigaciones abarca hasta el año 2021. Expresó que intuye que las medidas que 
+se mencionarán en la siguiente parte de la presentación tendrán su efecto a partir de este 
+año y los siguientes, por lo que existe una incertidumbre sobre el periodo intermedio.
+El Director Nacional del Servicio de Impuestos Internos respondió que 
+el Banco Central está atrasado con las cifras, lo que ha limitado el alcance del estudio hasta 
+el año 2021. Sin embargo, destacó que el estudio es útil porque muestra dónde se está 
+evadiendo. Además, adelantó que la Subdirectora presentará todas las medidas que están 
+tomando, las cuales son producto de la publicación de ley de cumplimiento tributario y de 
+las atribuciones propias del Servicio de Impuestos Internos y que dicen relación con lo que 
+dice el informe de brechas.
+Subdirectora de Fiscalización, señora Carolina Saravia, continuó 
+exponiendo las acciones de fiscalización, las que se presentan dependiendo del tipo de 
+impuesto y de las brechas que se han detectado.
+Comenzó por las acciones de fiscalización en el sector formal, destacando 
+aquellas que se dirigen a la ventas finales sin comprobante o boletas, respecto del cual han 
+implementado una serie de medidas para asegurar que los contribuyentes emitan sus 
+documentos tributarios electrónicos, como boletas, facturas y guías de despacho, ya que 
+esto permite al servicio contar con toda la información necesaria para efectuar controles. 
+En ese contexto, destacó la fiscalización de la emisión de documentos tributarios y el  
+aumento de las acciones de fiscalización en terreno por parte de los funcionarios del servicio 
+de impuestos internos, especialmente en el sector comercio y restaurantes, donde se 
+muestran las principales brechas según el informe de Michel Jorratt. Por otra parte, se han 
+asignado recursos tecnológicos desde finales de diciembre para permitir una fiscalización 
+en línea en terreno. Además, han incorporado medidas administrativas, como la última 
+resolución que establece la obligatoriedad de la entrega impresa o virtual de la boleta 
+electrónica, lo que ha causado revuelo, pero es necesaria para fiscalizar a los 
+contribuyentes y asegurar que quienes compran en estos establecimientos exijan su 
+documento tributario, dado los altos porcentajes de evasión de IVA en ventas finales sin 
+comprobantes.
+16
+--- PÁGINA 17 ---
+El Diputado Bianchi mencionó que hace un tiempo presentó un proyecto 
+de ley enfocado en los restaurantes y la fiscalización adecuada. Este proyecto, que se 
+espera poner en tabla en unas semanas, busca permitir que los garzones, a través del 
+Servicio de Impuestos Internos, puedan obtener la información necesaria para presentar 
+los ingresos estimativos que reciben mensualmente por concepto de propinas. Este 
+instrumento podría ser muy útil, ya que convertiría a los garzones en fiscalizadores, 
+asegurando que el servicio prestado y la boleta emitida por su empleador estén 
+correctamente registrados. Aunque esto no constituye un impuesto, se pretende que la 
+información proporcionada por el Servicio de Impuestos Internos pueda ser utilizada por los 
+trabajadores en caso de solicitar un crédito u otros fines.
+El Diputado Cifuentes expresó su preocupación por la inquietud 
+generada en algunos sectores, especialmente en las ferias libres, debido a la exigencia de 
+emitir boletas. Mencionó que, en el contexto de la discusión del proyecto de ley que crea 
+un régimen especial de tributación para los feriantes de ferias libres, ha habido mucha 
+efervescencia, particularmente aquellos que no están formalizados. Señaló que muchos 
+feriantes tienen un sistema irregular, con algunos siendo coleros y otros no, lo que ha 
+generado conflictos entre los formales e informales. Comentó que el referido proyecto 
+establece una tasa 1,5% del IVA, permitiéndoles utilizar medio de pago electrónico. 
+Finalmente, preguntó cuál será la política del servicio en estos casos y si se realizará una 
+fiscalización significativa, considerando que muchos feriantes venden muy poco y utilizan 
+este comercio como medio de subsistencia.
+El Diputado Naranjo mencionó que, tras una lectura rápida de las 
+medidas propuestas, notó la ausencia de una campaña para incentivar a los consumidores 
+a pedir boletas. Recordó que en el pasado existía un mecanismo efectivo que motivaba a 
+la gente a fiscalizar y exigir boletas mediante un concurso con incentivos económicos. 
+Considera que estas experiencias fueron valiosas para transformar al consumidor en un 
+fiscalizador y cree que el servicio de impuestos internos debería implementar un incentivo 
+similar para que los consumidores exijan las boletas.
+El Director Nacional del Servicio de Impuestos Internos respondió que 
+el Servicio de Impuestos Internos busca que todos cumplan con la ley, incluyendo a los 
+feriantes y coleros. Mencionó que el gobierno está impulsando un proyecto para simplificar 
+el régimen de tributación que implica el pago de un IVA reducido, pensando en feriantes 
+que venden productos de bajo monto como frutas y verduras. Sin embargo, aclaró que no 
+se permite la venta de productos como televisores, cigarrillos pirateados o joyas sin la 
+documentación adecuada, por tanto, a su entender, el proyecto no se orienta a aquellos 
+que venden grandes cantidades y se aprovechan de la ley. Aseguró que fiscalizarán el 
+cumplimiento de la ley, tanto la actual como la nueva si se aprueba. En cuanto al incentivo 
+para el consumidor final, recordó que en los años noventa existía la "tomboleta", un 
+concurso en el que Don Francisco rifaba una casa semanalmente para quienes recogían 
+boletas. Sin embargo, al analizar los números, decidió terminar con el concurso y utilizar 
+los fondos para mejorar la fiscalización, lo que resultó en una disminución significativa de 
+la evasión del IVA.
+La Subdirectora de Fiscalización explicó que las medidas presentadas 
+se enfocan en la fiscalización y control, más que en la asistencia a los contribuyentes y las
+17
+--- PÁGINA 18 ---
+campañas para promover la emisión de boletas, aunque también tienen campañas en redes 
+sociales y en sus direcciones regionales. Mencionó que han instalado un control 
+permanente en Angostura desde noviembre, que opera las 24 horas del día, todos los días 
+del año, y planean desarrollar controles móviles en distintos puntos del país. Además, 
+incorporarán exigencias en las guías de despacho electrónicas para mejorar la trazabilidad 
+de las operaciones comerciales, especialmente en el sector silvoagropecuario, destacando 
+la importancia de usar guías de despacho electrónicas para detectar situaciones como el 
+transporte de salmón robado, ya que las guías en papel pueden ser falsas. También 
+mencionó dentro de las medidas que controlarán la emisión de documentos en los 
+principales terminales agrícolas, ganaderos y pesqueros del país, fiscalizando a 
+proveedores y clientes en toda la cadena de suministro. A partir de julio, gracias a la ley 
+21.700, tendrán acceso a información de las entidades bancarias sobre transferencias 
+electrónicas, lo que les permitirá detectar subdeclaración de IVA en diversos sectores, 
+incluyendo la construcción, que presenta altos niveles de evasión. Estas medidas les 
+permitirán mejorar la información y realizar notificaciones para que los contribuyentes 
+rectifiquen sus declaraciones a través de la página web, auditorías o incluso querellas.
+El Diputado Bianchi expresó su preocupación por la falta de 
+fortalecimiento en el cruce de información entre el Servicio Nacional de Aduanas y el 
+Servicio de Impuestos Internos. Señaló que es fundamental mejorar esta colaboración, ya 
+que a Chile ingresan diversos productos, incluyendo armas y drogas. Consideró que 
+actualmente hay una deficiencia en este aspecto y que es necesario un cruce de 
+información más efectivo entre ambas entidades.
+El Director Nacional del Servicio de Impuestos Internos estuvo de 
+acuerdo y mencionó que se está por crear una comisión fiscalizadora que incluirá al Servicio 
+Nacional de Aduana, la Unidad de Análisis Financiero (UAF), el Servicio de Impuestos 
+Internos y la Tesorería General de la República. Reconoció que hay temas pendientes y 
+que, aunque ya están trabajando en varias áreas, es necesario fortalecer la colaboración 
+con la aduana.
+El Diputado Barrera (Presidente) consultó al Director si la referida 
+coordinación surge a propósito de la ley de inteligencia económica.
+El Diputado Mellado expresó que los pequeños comerciantes del sector 
+formal del comercio se quejan de que no se toman medidas efectivas para requisar lo que 
+venden los comerciantes informales. Mencionó que estos pequeños comerciantes pagan 
+arriendo, luz, sueldos, imposiciones y contribuciones, mientras que los vendedores 
+informales, que a menudo venden los mismos productos, no enfrentan ninguna 
+consecuencia. Señaló que no ve ninguna acción en las diez medidas de fiscalización que 
+aborde este problema específico.
+El Director Nacional del Servicio de Impuestos Internos expresó su 
+acuerdo con el diputado, pero señaló que el Servicio de Impuestos Internos no tiene las 
+atribuciones ni la capacidad policial para requisar productos del comercio informal. Sin 
+embargo, están enfocándose en identificar a quienes abastecen el comercio informal, ya 
+que a menudo son productos importados. Están investigando quiénes los importan y a qué 
+valor, y esto sí está dentro de sus competencias. Además, mencionó que tienen una oficina 
+especializada en el crimen organizado que se ocupa del abastecimiento del comercio
+18
+--- PÁGINA 19 ---
+informal, el robo de vehículos y sus partes, y el robo de salmón. Están comenzando con 
+estos tres temas para obtener resultados contundentes y luego ampliarán su enfoque a 
+otros temas.
+El Diputado Bianchi expresó que el comercio pequeño establecido 
+enfrenta una competencia desleal con los comerciantes chinos, lo cual ha afectado 
+negativamente la economía de estos pequeños comercios a lo largo del país. Mencionó la 
+necesidad de investigar situaciones relacionadas con los valores de arriendo, entre otros 
+aspectos, pero por sobre todo aproximándose a las bodegas desde donde se abastecen 
+los informales.
+El Diputado Donoso manifestó que en el informe presentado, se 
+destacaron dos datos importantes: la brecha y cumplimiento por IVA, que asciende a cuatro 
+mil seiscientos billones de pesos, y la brecha y cumplimiento en primera categoría, que es 
+de siete mil quinientos billones de pesos. En total, se está hablando de aproximadamente 
+doce mil billones de pesos, lo cual se considera más efectivo que cualquier reforma 
+tributaria. La pregunta principal que planteó es cuánto se está logrando recuperar de estas 
+brechas a través de las acciones de fiscalización. Mencionó que, en una visita anterior, el 
+director indicó que es difícil estimar la evasión, pero ahora se cuenta con una estimación 
+que se puede discutir.
+El Diputado Mellado quiso recordar que, según la ley Nº 21.426, en su 
+artículo 4º, las policías, los inspectores municipales y los funcionarios autorizados del 
+Servicio de Impuestos Internos, conforme al artículo 86 del Código Tributario, tienen la 
+facultad de fiscalizar el cumplimiento de la normativa vigente respecto a quienes ejercen el 
+comercio, ya sea ambulante o establecido. Esto incluye la facultad de requerir la exhibición 
+de permisos y documentos pertinentes.
+El Director Nacional del Servicio de Impuestos Internos explicó que el 
+problema del comercio pequeño, especialmente cuando están todos juntos, es que puede 
+ser peligroso si no se cuenta con la presencia de la policía. Además, muchos de estos 
+comerciantes no tienen ningún tipo de documentación. En estos casos, la policía tiene la 
+facultad de incautar la mercadería, pero los funcionarios del Servicio de Impuestos Internos 
+no pueden hacerlo. Lo que se está haciendo actualmente es dirigirse a los proveedores de 
+estos comercios, incluyendo los dueños de los malls chinos y otros establecimientos 
+similares, investigándose a las sociedades que extraen los productos y, en muchos casos, 
+se han encontrado delitos tributarios. En estos casos, se presentan querellas que implican 
+multas muy altas y penas de cárcel.
+La Subdirectora retomó su presentación, señalando que se están 
+presentando medidas para cada tipo de brecha de cumplimiento. En el sector formal, se 
+identificaron cuatro tipos de brecha: ventas finales sin comprobantes, facturas falsas y 
+compras no acreditables. Las medidas para el sector informal se presentarán 
+posteriormente. Respecto a las facturas falsas, se han fortalecido varios procesos en el 
+Servicio de Impuestos Internos, especialmente la verificación del inicio de actividades, para 
+evitar la creación de empresas falsas que emiten facturas falsas. Se están incorporando 
+controles para asegurar que los contribuyentes que solicitan autorización para emitir 
+facturas sean reales. Además, se implementará la operación factura, que consiste en 
+realizar cruces en línea para verificar la veracidad de las facturas y detener la emisión de
+19
+--- PÁGINA 20 ---
+documentos falsos. Se han incorporado controles automatizados en el momento de emisión 
+de la factura, lo que ha dado buenos resultados, ya que solo un 10% de los contribuyentes 
+marcados se presentan en la oficina para justificar. Se continuará implementando nuevos 
+controles y se incorporarán validaciones en los proveedores de software de factura 
+electrónica. Se informará a las empresas sobre las facturas incorrectas para que las 
+excluyan sin necesidad de pasar por un proceso de fiscalización. Se fortalecerán los 
+controles respecto a lo que se está vendiendo o comprando y la actividad económica 
+declarada, mencionando el caso de un contribuyente que vendía mucho y compraba poco, 
+lo que llevó a la implementación de controles para determinar los emisores o receptores de 
+facturas falsas y realizar restricciones de emisión de factura. Para los contribuyentes 
+detectados con facturas falsas, se mejorarán los tiempos de comunicación, fiscalización y 
+querellas, revisando todos los procesos para detectar y actuar lo antes posible.
+La Subdirectora explicó que se están tomando medidas en el sector formal 
+para abordar la manipulación de la proporcionalidad y la imputación de compras no 
+acreditables y ventas intermedias sin factura. Esto se refiere a contribuyentes que tienen 
+operaciones afectas y exentas, y que, para pagar menos IVA, declaran tener más 
+operaciones exentas. Para combatir esto, se aplicarán auditorías para revisar el uso 
+indebido del crédito fiscal, utilizando la información contenida en las facturas electrónicas 
+de compra. Se han establecido modificaciones específicas para restaurantes y 
+supermercados, y se emitió una resolución en diciembre para evitar que empresarios 
+utilicen facturas por compras personales o familiares. Estas medidas también se aplicarán 
+a hoteles y bencineras, donde se ha detectado la emisión de facturas que luego son 
+pasadas por la empresa para rebajar el IVA. Se reforzarán las comunicaciones a los 
+contribuyentes con inconsistencias en la operación IVA, utilizando tecnologías como 
+mensajes por WhatsApp para detectar y corregir incumplimientos. Además, se fiscalizará a 
+los comerciantes con operaciones de importación, compras nacionales relevantes, y el uso 
+de bodegas o depósitos de almacenamiento, para evitar la subdeclaración de productos 
+importados y ventas. Se utilizará información del Servicio Nacional de Aduanas para seguir 
+la trazabilidad de estos productos. En resumen, se implementarán una serie de medidas 
+administrativas y controles informáticos para abordar estas manipulaciones y mejorar la 
+fiscalización.
+La Subdirectora explicó que, en lo que respecta a las acciones de 
+fiscalización del sector informal, la ley Nº 21.713 de cumplimiento de obligaciones tributarias 
+proporciona varias herramientas que se utilizarán especialmente para contribuyentes que 
+no registran inicio de actividades. En primer lugar, se controlará la obligación de inicio de 
+actividades para quienes efectúen operaciones comerciales con la Administración del 
+Estado, gobiernos regionales y municipalidades. Además, se trabajará con medios de pago 
+electrónico y plataformas digitales de intermediación (market place) para asegurar que 
+exijan el inicio de actividad y verifiquen el cumplimiento tributario. Si se detecta un 
+incumplidor tributario, como alguien querellado por el servicio, que utiliza facturas falsas o 
+que no presenta sus declaraciones de IVA o renta, se solicitará a las plataformas de 
+intermediación que realicen un cambio de sujeto del IVA para asegurar que el IVA entre en 
+las arcas fiscales. Aclaró que estas acciones se implementarán utilizando las nuevas 
+facultades otorgadas por la ley 21.713.
+20
+--- PÁGINA 21 ---
+El Director del SII manifestó que, desde que asumió el cargo, decidieron 
+sacar a los fiscalizadores a la calle, ya que no todo se puede controlar desde los 
+computadores del Servicio de Impuestos Internos. Mencionó que hay ventas sin factura, 
+boletas y camiones sin guía de despacho que necesitan ser fiscalizados en terreno. Destacó 
+que, aunque se siguen haciendo cruces informáticos, también es importante la fiscalización 
+en la calle. Con 5.000 funcionarios, algunos pueden sentirse asustados, pero los 
+cumplidores no tienen nada que temer. Insistió en la necesidad de mejorar los controles 
+carreteros, ya que hay un déficit en el control de camiones y guías de despacho, 
+especialmente en los puertos y en el norte, donde llegan productos pirateados y del agro 
+que no pagan impuestos. Expresó que el próximo desafío es estar más presentes en la 
+calle, trabajando con la policía para fiscalizar en lugares difíciles como el Terminal 
+Pesquero, Lo Valledor, La Vega y otros sectores del país donde se sabe que no se cumplen 
+las obligaciones tributarias. La presencia policial es necesaria para poder actuar en estos 
+lugares de manera segura.
+El Diputado Bianchi reflexionó sobre lo señalado por la Subdirectora de 
+Fiscalización y el Director del Servicio de Impuestos Internos y consultó sobre el porcentaje 
+de evasión que se pretende recuperar con la estrategia implementada y en qué plazo se 
+espera lograrlo. Destacó que una de las razones por las que apoyó el proyecto para los 
+feriantes es porque históricamente las ferias han sido uno de los mayores reguladores de 
+precios en los hogares de Chile. Sin embargo, no podían seguir evadiendo la 
+responsabilidad del pago del IVA. Mencionó que había dos alternativas: sujetarse a la 
+fiscalización del Servicio de Impuestos Internos o pagar el 19% del IVA. La alternativa 
+lograda con el proyecto fue el pago del 1,5% más el 2% para los administradores de la 
+máquina y quienes llevarán la contabilidad simplificada. Finalmente, subrayó la importancia 
+de establecer el plazo y el grado de recuperación de la evasión que se espera obtener con 
+esta estrategia.
+El Diputado Mellado mencionó que estudiarán los documentos adjuntos 
+para formular una serie de preguntas que enviarán posteriormente. Señaló que se realizó 
+un estudio entre 2018 y 2021, pero que ahora, en 2025, las acciones están atrasadas cinco 
+años. Comparó la situación con disparar perdigones para ver si se acierta a algo. Destacó 
+la importancia de abordar los temas planteados, especialmente en el sector informal, y 
+sugirió que se podrían implementar medidas similares a las de la salida de Santiago, como 
+colocar carabineros y personal en el sector. Mencionó que las grandes empresas pagan 
+sus impuestos y están bien reguladas, aunque puede haber subvaloración en algunos 
+casos. Sin embargo, enfatizó la necesidad de enfocarse en la informalidad y actualizar el 
+estudio para reflejar la situación actual, ya que lo sucedido en 2018 puede ser muy diferente 
+a lo que ocurre en 2025.
+El Diputado Donoso insistió en la importancia de obtener cifras sobre el 
+impacto de las medidas en el aumento de la recaudación. Aunque los números no estén 
+disponibles en este momento, podrían estarlo en los próximos días. Mencionó que estos 
+datos podrían estar relacionados con el IVA y no con la renta, o quizás un poco más. 
+Subrayó la necesidad de tener un número que sea comparable con los datos anteriores, 
+especialmente en lo que respecta al IVA, ya que estos números son relevantes para el 
+presupuesto de la nación, con un impacto muy significativo, superior al 10%. Finalmente,
+21
+--- PÁGINA 22 ---
+destacó la importancia de saber cómo se están capturando los impuestos que, bajo la 
+normativa actual, están siendo evadidos.
+El Diputado Sauerbaum expresó su intención de abordar un tema más 
+general antes de hacer preguntas particulares, las que formalizará en el oficio que será 
+enviado. Manifestó desacuerdo con algunos criterios presentados, como el hecho de que 
+el informe proyecta una evasión menor a la considerada en el informe aprobado con la ley 
+de cumplimiento tributario. La ley prometía recaudar el 1,5% del Producto Interno Bruto, a 
+pesar de las advertencias de organismos internacionales que estimaban un 0,5%. Ahora, 
+el informe sugiere que la evasión es menor y que la informalidad es más significativa, lo 
+que implica menos recursos disponibles para financiar, por ejemplo, la pensión garantizada 
+universal. Señaló que desea escuchar al Ministro de Hacienda sobre cómo se abordará 
+esta diferencia entre el informe actual y el inicial, subrayando la importancia de esto, ya que 
+en abril se presentará el informe de finanzas públicas y se anunciarán recortes de alrededor 
+de 1.500 millones de dólares, lo que agrava la falta de recursos.
+A propuesta del Diputado Barrera (Presidente) la Comisión acordó el 
+plazo de una semana para remitir las preguntas a la Secretaría de la Comisión, para 
+que sean enviadas al Director del Servicio de Impuestos Internos y, en una sesión 
+especial por determinar, puedan ser respondidas.
+El Diputado Von Mühlenbrock expresó que, al observar los productos 
+que se venden en la calle, se da cuenta de que son los mismos en todas partes, incluso 
+cerca del Congreso. Considera que la dirección correcta es ser implacable con los 
+proveedores de estos productos, ya que son los mismos proveedores que están 
+diseminados en distintos negocios, mencionando que sería imposible fiscalizar a todas las 
+personas que venden en la calle, ya que se necesitarían miles de funcionarios. Sin 
+embargo, cree que es más efectivo atacar a las bodegas y proveedores, ya que son ellos 
+quienes abastecen a los vendedores callejeros, solucionando el problema en la base, y 
+considerando que la estrategia actual es adecuada para este tipo de comercio.
+El Director del SII mencionó que, aunque los números globales del 
+informe no hayan cambiado mucho respecto a la versión anterior, ahora se cuenta con 
+mucho más detalle, lo que proporciona más claves para la fiscalización. Reiteró que no solo 
+se está mirando la información de los computadores y haciendo cruces, sino también 
+observando lo que sucede en la realidad, lo cual también da luces sobre qué fiscalizar. 
+Indicó que ya tienen algunos números y sugirió, a través del presidente, que el Subdirector 
+de Gestión Estratégica y Estudios Tributarios (S) podría informar sobre cómo ha 
+evolucionado el consumo y la recaudación de IVA en el segundo semestre del año pasado 
+y en los primeros meses de este año. Mencionó que ya se observan cifras que indican una 
+mejora en la recaudación y una menor evasión.
+El Subdirector Gestión Estratégica y Estudios Tributarios (S), señor 
+Eduardo Pantoja que la iniciativa y el despliegue del servicio ya están mostrando 
+resultados en términos de recaudación. En cuanto al IVA, que es el principal motor de la 
+economía, el primer semestre de 2024 mostró un crecimiento del 4,5% real en comparación 
+con 2023, superando el crecimiento del PIB y la demanda interna. En el segundo semestre, 
+el crecimiento fue del 6,3% en comparación con el segundo semestre de 2023. Los datos 
+actuales indican un aumento aún mayor del 7,4% real respecto al año anterior, lo que
+22
+--- PÁGINA 23 ---
+muestra una curva ascendente en términos de rendimiento asociado al IVA. En términos de 
+montos, el primer semestre de 2024 registró 21 billones de pesos, en comparación con los 
+20,1 billones del primer semestre de 2023. En el segundo semestre de 2024, se registraron 
+21,5 billones de pesos, frente a los 20,2 billones del segundo semestre de 2023. En el 
+acumulado de ingresos tributarios publicados por la Dirección de Presupuestos, se 
+registraron casi 8 billones de pesos entre enero y febrero, en comparación con los 7,3 
+billones del mismo período en 2024. Esto se alinea con las cifras de la Dirección de 
+Presupuestos, que muestran un crecimiento real del 15,2% en los ingresos tributarios entre 
+enero y febrero, superando el crecimiento del producto, la demanda interna y el consumo. 
+Aunque algunas medidas transitorias han influido en los resultados de 2025, descontando 
+estas medidas, se observa un crecimiento real superior al 10% en la recaudación de este 
+año en comparación con el año pasado.
+5. ACUERDOS 
+ 
+La Comisión adoptó los siguientes acuerdos:  
+ 
+Sistematizar las preguntas relativas al informe de Mapas de Brechas de 
+Cumplimiento Tributario (IVA, Impuesto de Primera Categoría e Impuesto a la Renta 
+Personal) efectuadas por los diputados y diputadas miembros de la Comisión de Hacienda, 
+hasta el viernes 25 de abril y remitirlas al Director Nacional del Servicio de Impuestos 
+Internos, a fin de que sean respondidas en una sesión especial, en una fecha por determinar
+Las presentaciones de los expositores se encuentran disponibles en 
+formato digital en:
+http://www.camara.cl/legislacion/comisiones/documentos.aspx?prmID=3
+307
+Por haberse cumplido el objeto de esta sesión, se levantó a las 17:07.
+MARÍA EUGENCIA SILVA FERRER 
+Secretaria Abogado de la Comisión
+23

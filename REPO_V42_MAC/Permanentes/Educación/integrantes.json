@@ -1,0 +1,58 @@
+{
+  "comision": "Educación",
+  "prmID": "4895",
+  "integrantes": [
+    {
+      "nombre": "Sr. Sergio Bobadilla Muñoz",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=815"
+    },
+    {
+      "nombre": "Sr. Héctor Barría Angulo",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1105"
+    },
+    {
+      "nombre": "Sra. Valentina Becerra Peña",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1191"
+    },
+    {
+      "nombre": "Sra. Paz Charpentier Rajcevich",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1198"
+    },
+    {
+      "nombre": "Sra. Sara Concha Smith",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1119"
+    },
+    {
+      "nombre": "Sr. Ricardo Neumann Bertín",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1233"
+    },
+    {
+      "nombre": "Sra. Paula Olmos Contreras",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1236"
+    },
+    {
+      "nombre": "Sr. Luis Pardo Sáinz",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1060"
+    },
+    {
+      "nombre": "Sr. Juan Santana Castillo",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1073"
+    },
+    {
+      "nombre": "Sra. Emilia Schneider Videla",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1171"
+    },
+    {
+      "nombre": "Sra. Daniela Serrano Salazar",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1173"
+    },
+    {
+      "nombre": "Sr. Germán Verdugo Soto",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=915"
+    },
+    {
+      "nombre": "Sr. Diego Vergara Rodríguez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1262"
+    }
+  ]
+}

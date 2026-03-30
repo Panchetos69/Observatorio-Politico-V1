@@ -1,0 +1,292 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=20605&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : Comisión.Educacion
+EXTRAIDO : 2026-03-29 07:37:50
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 109ª, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN, CORRESPONDIENTE A LA 
+369ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 12 DE ENERO 2022, DE 
+17:36 A 19:04 HORAS.
+SUMARIO: Se continuó con el trámite de audiencias, respecto
+del proyecto de ley, originado en moción, boletín N° 
+13828-19 (S), con urgencia calificada de “simple”.
+I.- PRESIDENCIA
+Presidió el diputado Jaime Tohá (Presidente Titular), actuó como Abogada 
+Secretaria de la Comisión la señora María Soledad Fredes Ruiz, como Abogado 
+Ayudante la señora María Jesús Serey Sardá y como secretaria la señora Teresita 
+Sandoval Lagos.
+II.- ASISTENCIA
+Concurrieron en forma presencial los diputados Jaime Tohá, Patricio Rosas 
+y Víctor Torres. En Forma telemática concurrieron los diputados Karim Bianchi, José 
+Miguel Castro, Camilo Morán y Enrique Van Rysselberghe.
+Para la orden del día, concurrieron los siguientes invitados en forma 
+telemática: El Director (S) del Instituto de Salud Pública (ISP), señor Heriberto 
+García Escorza; el Gerente de Asuntos Públicos de la Cámara Chileno 
+Norteamericana de Comercio (Amcham Chile), señor Enzo Napoli, acompañado de 
+la secretaria ejecutiva de la mesa de regulaciones digitales, señora Macarena 
+Gatica; el Director Ejecutivo de la Asociación Latinoamericana de Internet (ALAI), 
+señor Raúl Echeberría, acompañado por el Gerente Regional de Políticas Digitales 
+del Cono Sur y Zona Andina, Gabriel Parra; y el Representante del grupo legal de 
+la Asociación Chilena de Empresas de Tecnologías de Información A.G. (ACTI), 
+señor Claudio Magliona.
+III.- ACTAS
+El acta de la sesión 107ª se declaró aprobada. El acta de la sesión 108ª se 
+puso a disposición de las señoras diputadas y señores diputados.
+IV.- CUENTA
+Se recibieron los siguientes documentos:
+1.- Correo electrónico del abogado de gabinete del Ministerio de Salud, señor 
+Jaime González, a través del cual excusa la inasistencia del Ministro Enrique Paris 
+a esta sesión, por encontrarse el día de hoy haciendo uso de feriado legal.
+Se tomó conocimiento
+2.- Boletín de noticias proveniente del Congreso Futuro, en el que se informa 
+que resta una semana para el inicio del evento gratuito de ciencia, tecnología y 
+conocimiento, en el que se plantea hablar sobre la humanidad y sus efectos en el 
+planeta durante el último siglo, y sobre los riesgos naturales, humanos y artificiales 
+que nos amenazan y pueden condicionar nuestro futuro. Participarán en esta nueva
+--- PÁGINA 2 ---
+2
+versión más de 80 expositores provenientes de 20 países. (Para revisar el programa 
+completo ir a https://congresofuturo.
+Se tomó conocimiento
+V.- ORDEN DEL DÍA
+Se continuó con el trámite de audiencias respecto del proyecto de ley, 
+originado en moción, boletín N° 13828-19 (S), con urgencia calificada de 
+“simple”.
+El señor García sostuvo que Chile sería el primer país en el mundo que está 
+iniciando una regulación de esta materia, y que al respecto tiene algunos 
+comentarios:
+En el artículo 3 b) se hace una definición que cataloga estos instrumentos 
+que permiten la conexión directa como dispositivos médicos, es decir, se regularían 
+por el artículo 111 del Código Sanitario. A su vez, sostuvo, esto calzaría perfecto 
+con las materias que ellos regulan y fiscalizan, por lo que considera que la definición 
+es correcta.
+Respecto del artículo 7 del proyecto, explicó que ello permite darle mayor 
+potencia a las materias vinculadas con el código sanitario, y que la regulación debe 
+garantizar la seguridad y desempeño del dispositivo médico previo a su 
+comercialización, debiendo ser seguro para la población.
+En relación al artículo 8, que refiere a la “autoridad sanitaria”, sostuvo que 
+debe definirse de forma concreta a quien se refiere, puesto que el artículo 5° del 
+Código Sanitario trata bajo el nombre de “autoridad sanitaria” tanto al ISP como a 
+las Seremis de Salud. Lo anterior, por ejemplo, se ve en la regulación de 
+desinfectantes, que deben ser registrados por el ISP, pero fiscalizados respecto del 
+buen uso por la Seremi de Salud. Propuso en este sentido, que ISP cumpla con un 
+rol rector en la materia, en el sentido de registrar los dispositivos y autorizar a las 
+entidades que realicen la verificación de la conformidad de los mismos, y así las 
+Seremis quedarían con la facultad de adoptar las medidas sanitarias que se 
+mencionan en este artículo, en todo el territorio nacional.
+En cuanto a los parámetros para verificar la conformidad de los dispositivos 
+médicos, explicó que se define en los usos previstos de seguridad y desempeño, y 
+con las normas ISO específicas, de acuerdo al uso previsto declarado por el 
+fabricante legal. Sin embargo, se hizo presente que no hay normas ISO que regulen 
+aun estos dispositivos. Agregó que, como ISP deben garantizar la seguridad y 
+desempeño antes de la comercialización, vigilancia post comercialización y 
+tecnovigilancia de acuerdo al uso declarado por el fabricante; enfocado al dispositivo 
+médico como tal.
+En este sentido, es importante a su vez regular los espacios en que se 
+venderán estos dispositivos. Por su parte, señaló que Independiente de cuál sea la 
+autoridad sanitaria a la que se refiere el artículo 8 del proyecto, es importante que 
+la autoridad sanitaria esté legalmente investida con amplias facultades 
+fiscalizadoras, en el sentido de permitírsele recabar cualquier tipo de antecedentes 
+y en cualquier lugar, sea abierto o cerrado, público o privado, pues solo así se 
+podrán adoptar medidas oportunas y eficaces
+En cuanto a la exención de responsabilidad civil del artículo 9, señaló que la 
+propuesta del ISP es que se faculte a la autoridad sanitaria a perseguir las 
+responsabilidades por las infracciones a esta ley y sus reglamentos, sin perjuicio de
+--- PÁGINA 3 ---
+3
+las responsabilidades civiles y penales que correspondan. Además, agregó que es 
+necesario un catálogo de obligaciones y/o prohibiciones respecto de quienes 
+elaboren, comercialicen y administren estas neurotecnologías, como también un 
+catálogo de derechos subjetivos para las personas que hagan uso de estos 
+productos.
+En relación a la vacancia legal de 6 meses que propone el proyecto, sostuvo 
+que se trata de una industria que aún no dimensionamos del todo, lo que dificultará 
+la elaboración del reglamento en tan breve periodo. En este sentido, se sugirió que 
+la entrada en vigencia sea de al menos 1 año desde que se publique el reglamento.
+Finalmente, explicó que para hacerse cargo de esta materia, creen que 
+requerirán de un presupuesto de $245.987.000 de pesos, considerando 6 
+profesionales, cursos de capacitación, equipamiento y mobiliario para crear un 
+subdepartamento. Señaló esto porque consideran que es importante hacer presente 
+que se requerirá de una inversión sobre neurociencia y neuroderechos, ya que ellos 
+no tienen la expertise necesaria. Se requiere además contar con un sistema 
+informático que permita el registro de estos productos, así como el control a través 
+de la fiscalización y la notificación de eventos adversos por parte de la red 
+asistencial, paciente y la industria.
+El diputado Castro señaló que al solicitar se hiciera esta invitación, lo hizo 
+porque es fundamental tener presente la capacidad que tiene el ISP de llevar al 
+terreno de lo práctico este proyecto. Agradeció que se hayan propuesto cifras, y le 
+gustaría que cuando se discuta el articulado pueda estar presente el director del ISP 
+o alguno de los abogados que conforman su staff. Finalmente solicitó se hagan 
+llegar las propuestas de modificaciones del articulado.
+El señor Magliona preguntó al señor García por la utilización del concepto 
+de dispositivos médicos, en circunstancias que la redacción del proyecto no 
+distingue si son o no son dispositivos médicos, en ese sentido preguntó si están 
+posibilitados de encargarse del registro cuando no sean médicos.
+El diputado Tohá preguntó por la autorización que se hace a un determinado 
+equipo o procedimiento, si dicha autorización es exclusivamente desde el punto de 
+vista de la salud o si en dicha autorización o rechazo se considera también la 
+categoría ética relativa a los neuroderechos. A su vez, agregó que le llamó la 
+atención lo sostenido respecto de aplicaciones en el sector de salud y la capacidad 
+cognitiva. Finalmente, hizo presente que los recursos en el sector público no son 
+suficientes, por lo que, preguntó si dentro de la planificación estratégica del servicio, 
+está contemplado el desarrollo explosivo de estas tecnologías.
+El señor García sostuvo que efectivamente la definición que se hace de 
+neurodispostivos tiene que ver con la definición de dispositivos médicos, desde el 
+punto de vista del uso que se le da. Desde este punto de vista, y al ser un uso 
+externo para prevenir una enfermedad o mejorar una condición, es un dispositivo 
+médico.
+Señaló que hoy no están capacitados para hacerse cargo de esta nueva 
+regulación, por ello solicitaron que se informen los costos que alcanzaría la 
+contratación de profesionales que sepan de la materia, y cuánto costaría 
+implementar un subdepartamento que se haga cargo de la neurociencia.
+En cuanto a los registros sanitarios, añadió que ello depende del producto y 
+que lamentablemente no tiene la capacidad técnica respecto de los neuroderechos, 
+pero que trabajarán para considerar estos aspectos e incluso la ética como sostuvo 
+el diputado Tohá. Finalmente sostuvo que la dimensión relativa al uso de educación,
+--- PÁGINA 4 ---
+4
+averiguaron que en el mundo se está utilizando, y que eso también tiene que ver 
+con el uso de dispositivos médicos.
+El diputado Castro sostuvo que es importante entonces hacer la distinción 
+entre dispositivos, y que aun cuando no sean dispositivos médicos puede que entren 
+al ISP porque afectan la salud, en este sentido consideró que quizás sea necesario 
+obviar la definición de dispositivos médicos y dejar más abierto este elemento.
+El señor García explicó que, por ejemplo, en el solárium hay un dispositivo 
+que se considera médico porque se afecta estéticamente la fisiología de una 
+persona. Agregó que, en un futuro, bajo la ley de fármacos dos, estarán facultados 
+para registrar todo dispositivo médico, y creen que este registro tardará cinco años 
+en estar completo.
+La señora Gatica sostuvo que las neurotecnologías se encuentran en un 
+estado de desarrollo exploratorio, demostrando una vaga visión del comportamiento 
+neuronal y del estado mental de las personas, al contrario de los efectos que este 
+proyecto busca mitigar. A mayor abundamiento, las interfaces que existen hoy en 
+día, no son capaces de leer la mente o de codificar pensamientos complejos, lo que 
+hay es un sistema de algoritmos que predice el comportamiento. La dificultad, a su 
+juicio, es regular una materia en esta etapa de desarrollo, es decir, un producto que 
+aún no se tiene en concreto y que no se sabe cómo se va a comportar o que riesgos 
+representan.
+Explicó que lo anterior se traduce en dos problemas, o se tiene una 
+regulación que queda obsoleta en corto tiempo, o que bien se tiene una regulación 
+que será ineficiente, porque no se conocen las características de eta tecnología y 
+los riesgos inmersos que puede llevar.
+Señaló que la política nacional de inteligencia artificial, por ejemplo, marca 
+una ruta a seguir, puesto que busca establecer principios y directrices para aminorar 
+efectos no deseados en los derechos de los ciudadanos. Hizo presente que 
+sobrecargar o sobre regular, o establecer regímenes muy gravosos de 
+responsabilidad para quien incursiona, pueden traducirse en un desincentivo.
+Por otra parte, y si hoy existiera una neurotecnología en concreto, explicó 
+que la misma podría analizarse acorde a la regulación de nuestro ordenamiento 
+jurídico vigente. Por ejemplo, los neurodatos son datos personales, y que por tanto 
+puede aplicarse la ley N° 19.628, y que además estarían amparado por la garantía 
+constitucional de protección de datos. A su vez, existe el consentimiento informado 
+en la ley de derechos y deberes del paciente y en el Código Sanitario, se prevé la 
+responsabilidad del fabricante y proveedor en la ley del consumidor.
+Afirmó que este proyecto contempla definiciones amplias y ambiguas. No se 
+tiene claro qué son las neurotecnologías, ¿se habla de dispositivos médicos o no? 
+Refirió a la exposición del profesor Yuste, quien sostuvo en la comisión anterior, que 
+las neurotecnologías pueden ser capaces de incidir en la actividad cerebral, pero 
+que estas se encuentran en un estado inicial de desarrollo, o bien pueden ser 
+capaces de registrar actividad cerebral, que es la tecnología más próxima. ¿Sin 
+embargo, debe el ISP tener regulación sobre dispositivos que no son invasivos o 
+que no son médicos? Estas preguntas surgen dado las definiciones contenidas en 
+la norma.
+En cuanto al régimen de responsabilidad objetiva establecido en el proyecto, 
+señaló que se está escapando del sistema general de nuestro ordenamiento 
+jurídico, el que responde a responsabilidad subjetiva. En este caso se omite el 
+elemento culposo o doloso.
+--- PÁGINA 5 ---
+5
+Reiteró que con esta regulación se desincentivan estas neurotecnologías. 
+Uno de los objetivos del proyecto es propender a un acceso igualitario a estas 
+neurotecnologías, cuestión que será difícil de alcanzar si no hay incentivos de 
+desarrollar esta tecnología.
+Agregó que se establece en el proyecto, la solidaridad en materia de 
+responsabilidad, cuestión que ya está regulada en la ley del consumidor. Por tanto, 
+¿por qué se vuelve a insistir en algo que se busca propender a desarrollar?
+En cuanto a los datos neuronales como dato sensible, sostuvo que si no se 
+logra identificar a la persona de la que proviene ese dato, este deja de ser un dato 
+sensible, y que las consecuencias de ser un dato sensible, es la protección del 
+ordenamiento jurídico.
+En relación al registro del ISP, sostuvo que no le queda claro aún, como se 
+otorga competencia sobre dispositivos que no son médicos y que pueden afectar la 
+salud de las personas, puesto que hoy hay una serie de elementos que no se 
+encuentran sujetos a fiscalización del ISP y que pueden afectar la salud, como 
+ocurre por ejemplo con un automóvil o un fósforo. En este sentido, consideró que la 
+competencia del ISP debe ser asociada a dispositivos médicos.
+Finalmente sostuvo que hay falta de coherencia con esta norma y el 
+ordenamiento jurídico. Importantes bienes jurídicos que se buscan proteger, ya se 
+encuentran regulados en distintas normas de nuestro ordenamiento jurídico. Hoy se 
+busca que Chile sea un centro de tecnología e innovación, por tanto, debe fijarse el 
+marco legal. ¿Como el ISP regulará? ¿Bajo qué estándar? La política de inteligencia 
+artificial si establece como hacerlo.
+El diputado Castro se refirió al hecho de estar legislando cuestiones no 
+desarrolladas, y que hoy están legislando para tecnologías que son capaces de 
+interferir con nuestro pensamiento. Este es un tema muy serio, por lo que prefiere 
+establecer una sobrerregulación, en vez de dejar en desprotección a los 
+ciudadanos, especialmente porque esto es algo que va a llegar.
+El diputado Tohá señaló en la misma línea, que con esta iniciativa se está 
+realizando algo inusual y excepcional en el ordenamiento jurídico.
+La señora Gatica sostuvo que saben que esta es la primera regulación en el 
+mundo, y que en ese sentido puede darse un ejemplo a los otros países con 
+regulaciones que no existen en otras partes. Lo importante a su juicio, es hacerlo 
+de forma que permita cumplir los objetivos previstos en el desarrollo, es decir, se 
+permita el desarrollo de neruotecnología, y que se establezca una definición que 
+permita claramente detectar qué se está regulando, y que no sea un sistema más 
+gravoso que signifique que el desarrollo sea demasiado costoso.
+El señor Echeberría explicó que la asociación latinoamericana de internet, 
+es una asociación de carácter regional, que reúne a empresas del sector privado de 
+la industria de internet, y que trabajan con el objetivo de fomentar el desarrollo digital 
+desde la perspectiva de este sector.
+Sostuvo que a su juicio, se requiere tener una discusión mayor en esta 
+materia, y que alargar la discusión da la posibilidad de liderar este debate en un 
+contexto más amplio, obteniendo un resultado que sea óptimo.
+Explicó que uno de los problemas que presenta este proyecto, es que asume 
+que la tecnología va a evolucionar en un sentido específico, pero ello no es posible 
+sostenerlo, puesto que los futuros posibles son múltiples. Este proyecto al enfocarse 
+en tecnologías determinadas, asume que van en una dirección, cuestión que es una
+--- PÁGINA 6 ---
+6
+presunción arriesgada. A su vez, sostuvo que es posible que, en el camino de la 
+discusión, puede que aparezcan nuevos actores que resulten afectados por esta 
+discusión, y que aún no están en el debate porque no es prioridad para ellos o 
+porque no saben que serán afectados, por lo que considera nuevamente, necesario 
+extender los tiempos de discusión.
+En cuanto a los problemas que ve en el texto del proyecto, refirió a los 
+conceptos y definiciones, que son muy amplios, pudiendo llegar a regular proyectos 
+e industrias que están más allá de lo que propone el proyecto. Por su parte, ven 
+como inconveniente las atribuciones que se asignan al ISP, porque se encuentran 
+muy lejos de la función que naturalmente cumple hoy en día.
+Agregó que, a su juicio, no tiene mayor sentido considerar la protección de 
+datos personales cuando existe en paralelo una discusión abierta y pendiente hace 
+siete años en este Congreso, y que esto debe ser parte de la ley de datos 
+personales, por lo que debe cuidarse la incorporación de estos elementos en otras 
+leyes.
+Añadió que, a su juicio, el objetivo del proyecto de ley es establecer un campo 
+ético de protección en materia de neurotecnologías, y no la neurotecnología 
+propiamente tal.
+Finalmente, sostuvo que el proyecto puede generar consecuencias no 
+deseadas, porque no se contemplan usos muy positivos de las neurotecnologías, 
+como ocurre con tratamientos de enfermedades, y ello puede impactar 
+negativamente en la misma. Lo mismo, agregó, con el sistema de responsabilidad 
+solidaria que se contempla hoy.
+El diputado Tohá explicó, respecto a la discusión y tiempos de discusión, que 
+la comisión está obligada en tramitar este proyecto en segundo trámite 
+constitucional. A su vez, sostuvo que efectivamente de las instituciones de este 
+proyecto de ley no tienen el desarrollo para hacerse cargo de este desafío, peor 
+cree que surge allí una pregunta sobre qué va primero, si el desafío y 
+consecuentemente la necesidad de adaptarse, o viceversa.
+El señor Echeberría sostuvo que a su juicio la respuesta es el punto medio, 
+es decir, no esperar a que esté toda la tecnología desarrollada, ni adelantarse al 
+desarrollo. A su juicio, lo importante es acompañar la evolución de estos temas.
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio 
+digital, conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de 
+Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 19:00 
+horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión

@@ -1,0 +1,58 @@
+{
+  "comision": "Seguridad Ciudadana",
+  "prmID": "4903",
+  "integrantes": [
+    {
+      "nombre": "Sr. Cristián Araya Lerdo de Tejada",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1100"
+    },
+    {
+      "nombre": "Sr. Jaime Araya Guerrero",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1099"
+    },
+    {
+      "nombre": "Sra. Chiara Barchiesi Chávez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1104"
+    },
+    {
+      "nombre": "Sr. Enrique Bassaletti Riess",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1190"
+    },
+    {
+      "nombre": "Sr. Jaime Coloma Álamos",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1199"
+    },
+    {
+      "nombre": "Sr. Eduardo Cretton Rebolledo",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1202"
+    },
+    {
+      "nombre": "Sr. Mauro González Villarroel",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1131"
+    },
+    {
+      "nombre": "Sr. Raúl Leiva Carvajal",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1044"
+    },
+    {
+      "nombre": "Sra. Gloria Naveillan Arriagada",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1152"
+    },
+    {
+      "nombre": "Sr. Patricio Pinilla Valencia",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1241"
+    },
+    {
+      "nombre": "Sr. Bernardo Salinas Maya",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1250"
+    },
+    {
+      "nombre": "Sra. Tatiana Urrutia Herrera",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1256"
+    },
+    {
+      "nombre": "Sr. Juan Marcelo Valenzuela Henríquez",
+      "url_ficha": "https://www.camara.cl/diputados/detalle/mociones.aspx?prmID=1259"
+    }
+  ]
+}

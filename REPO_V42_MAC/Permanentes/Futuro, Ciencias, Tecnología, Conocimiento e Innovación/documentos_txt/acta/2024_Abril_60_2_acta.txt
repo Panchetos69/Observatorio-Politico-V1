@@ -1,0 +1,1620 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=11513&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:35:08
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 60°, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+372ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 17 DE ABRIL 2024, DE 
+17:39 A 19:05 HORAS.
+SUMARIO:  Se continuó con el trámite de audiencias respecto del
+proyecto de ley, de origen en un mensaje, que dicta 
+normas 
+sobre 
+transferencia 
+de 
+tecnología 
+y 
+conocimiento (boletín N° 16.686-19), en primer trámite 
+constitucional, con urgencia calificada de “simple”.
+I.- PRESIDENCIA
+Presidió la sesión, la diputada Erika Olivera (Presidenta Accidental), actuó como 
+Abogada Secretaria de la Comisión la señora María Soledad Fredes Ruiz, como Abogada 
+Ayudante la señorita María Jesús Serey Sardá y como secretaria ejecutiva la señora 
+Teresita Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas y diputados integrantes de la Comisión, señoras Marta 
+Bravo, Paula Labra, Helia Molina, Erika Olivera, Gael Yeomans, y señores Johannes Kaiser, 
+Tomás Lagomarsino, Cristóbal Martínez (en reemplazo del diputado Daniel Lilayu), Rubén 
+Oyarzo y Matías Ramírez.
+Concurrieron para la orden del día, el Presidente del Consorcio de Universidades 
+del Estado de Chile (CUECH), Rector de la Universidad de Valparaíso, señor Osvaldo 
+Corrales Jorquera; el Director Cátedra UNESCO Educación Científica para la Ciudadanía y 
+Vicerrector de Investigación y Doctorados de la Universidad Autónoma de Chile, señor Iván 
+Suazo Galdames, y el Vicerrector de Investigación de la Universidad de Santiago de Chile, 
+señor Jorge Pávez.
+III.- ACTAS
+El acta de la sesión 58ª se declaró reglamentariamente aprobada. El acta de la 
+sesión 59ª se puso a disposición de las señoras diputadas y señores diputados.
+IV.- CUENTA:
+Se recibieron los siguientes documentos:
+1.- Comunicación del Jefe de la Bancada de Diputados UDI, por la que informa que 
+el diputado Daniel Lilayu será reemplazado, en esta sesión, por el diputado Cristóbal 
+Martínez.
+Se tuvo presente
+2.- Correo electrónico de la Exsubsecretaria de Ciencia, Tecnología Conocimiento e 
+Innovación, señora Carolina Torrealba Ruiz-Tagle, a través del cual excusa su inasistencia 
+por viaje. Señala que le interesa mucho asistir a esta Comisión, no obstante, estará 
+posibilitada para hacerlo a partir del mes de mayo, por lo que espera poder contribuir a la 
+discusión del proyecto de ley a partir de esa fecha.
+Se tomó conocimiento
+3.- Correo electrónico del Representante de la Organización Europea para la 
+Investigación Astronómica en el Hemisferio Austral (ESO) en Chile, señor Luis Chavarría 
+Garrido, quien excusa su inasistencia a esta sesión por encontrarse viajando de vuelta a 
+Chile. Entendiendo la importancia que el proyecto tiene para fomentar e incentivar aún más 
+la colaboración entre Chile y ESO, consulta si es posible asistir en una próxima sesión.
+Se tomó conocimiento
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 10/05/2024 14:50:13 CLT
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: 229166162E4CCB77
+--- PÁGINA 2 ---
+4.- Correo electrónico del Gerente de Asuntos Estratégicos de CORFO, señor 
+Claudio Maggi Campos, por medio del cual excusa su inasistencia a esta sesión debido a 
+que no le fue posible reprogramar reuniones solicitadas y confirmadas por ley de lobby con 
+delegaciones extranjeras en la misma fecha y horario. Queda disponible para futuras 
+citaciones.
+Se tomó conocimiento
+5.- Correo electrónico de la directora ejecutiva del Instituto Milenio en Ingeniería e 
+Inteligencia Artificial para la Salud (iHEALTH), señora María Eugenia González, quien 
+señala que el Instituto Milenio es un centro de investigación dedicado a integrar imágenes 
+médicas, ingeniería e inteligencia artificial para mejorar la atención en salud en Chile. En 
+ese aspecto, expresa su interés en participar en la discusión del proyecto de ley que permite 
+el uso de inteligencia artificial en la evaluación de exámenes de mamografía (boletín N° 
+16387-19), por lo que solicita audiencia con la Comisión para el Dr. Rodrigo Salas, profesor 
+titular de la Escuela de Ingeniería C. Biomédica de la Universidad de Valparaíso, e 
+Investigador principal del Instituto Milenio.
+Se tomó conocimiento
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 19:05 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+2
+--- PÁGINA 3 ---
+COMISIÓN DE FUTURO, CIENCIAS, TECNOLOGIA, CONOCIMIENTO E
+INNOVACIÓN
+SESIÓN 60ª
+Celebrada en miércoles 17 de abril de 2024, de 17:39 a 19:05
+horas.
+I. APERTURA DE LA SESIÓN
+-Se abrió la sesión a las 17:39 horas.
+La señora OLIVERA, doña Érika (Presidenta accidental).- En 
+el nombre de Dios y de la Patria, se abre la sesión.
+II. ACTAS
+La señora OLIVERA, doña Érika (Presidenta accidental).- El 
+acta de la sesión 58ª queda reglamentariamente aprobada.
+El acta de la sesión 59ª queda a disposición de las señoras 
+y los señores diputados.
+III. CUENTA
+La señora OLIVERA, doña Érika (Presidenta accidental).- La 
+señora Secretaria dará lectura a la Cuenta.
+-La señora FREDES, doña María Soledad (Secretaria), da 
+lectura a la Cuenta.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Muchas gracias, señora Secretaria.
+Ofrezco la palabra sobre la cuenta.
+Ofrezco la palabra.
+Ofrezco la palabra sobre puntos varios.
+Ofrezco la palabra.
+IV. ORDEN DEL DIA
+3
+--- PÁGINA 4 ---
+ESTABLECIMIENTO DE NORMAS SOBRE TRANSFERENCIA DE TECNOLOGÍA Y
+CONOCIMIENTO (Primer trámite constitucional y primero
+reglamentario. Boletín N° 16686-19)
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Entrando en el Orden del Día, esta sesión ordinaria ha sido 
+citada con el objeto de continuar con el trámite de audiencias 
+respecto del proyecto de ley, de origen en un mensaje, que 
+dicta normas sobre transferencia de tecnología y conocimiento, 
+en primer trámite constitucional, con urgencia calificada de 
+simple.
+Para tales efectos, escucharemos a los siguientes invitados: 
+al presidente del Consorcio de Universidades del Estado de 
+Chile y rector de la Universidad de Valparaíso, señor Osvaldo 
+Corrales Jorquera; al director Cátedra Unesco Educación 
+Científica para la Ciudadanía y vicerrector de Investigación y 
+Doctorados de la Universidad Autónoma de Chile, señor Iván 
+Suazo Galdames; y al vicerrector de Investigación de la 
+Universidad de Santiago de Chile, señor Jorge Pavez, quien se 
+encuentra conectado a través de Zoom.
+Les damos la bienvenida.
+Vamos a partir, en primer lugar, con el señor Osvaldo 
+Corrales.
+Tiene la palabra.
+El señor CORRALES (expositor).- Muchas gracias, señora 
+Presidenta.
+Por su intermedio, saludo a las diputadas y diputados que 
+componen esta Comisión.
+En mi calidad de presidente del Consorcio de Universidades 
+Estatales, 
+vengo 
+a 
+referirme 
+al 
+proyecto 
+de 
+ley 
+de 
+transferencia tecnológica y conocimiento, presentado por el 
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.
+Lo primero que quiero decir, en representación de las 18 
+universidades del Estado de Chile, es que este es un proyecto 
+que nos parece extraordinariamente importante y necesario para 
+el desarrollo de nuestro país.
+Hemos compartido muchísimas veces dos diagnósticos a nivel 
+de las universidades del Estado, pero también del sistema 
+universitario en general.
+El primero de esos diagnósticos es que nuestro país necesita 
+tener una mayor inversión en ciencia, tecnología, conocimiento 
+e innovación. No será ajeno para las y los honorables diputados 
+que nuestro país tiene un porcentaje de inversión en esta área 
+que es bastante bajo comparado no solo con la OCDE, sino también 
+con el promedio de inversión en ciencia y tecnología que tienen 
+los países de América Latina y el Caribe.
+Nosotros estamos invirtiendo, dependiendo del año, entre 0,34 
+y 0,37 puntos del PIB en ciencia, tecnología, conocimiento e
+4
+--- PÁGINA 5 ---
+innovación. El promedio en América Latina y el Caribe bordea 
+los 0,64 puntos del PIB y, por cierto, en los países 
+desarrollados es mucho más elevado. Por lo tanto, ahí hay una 
+brecha que es necesario que solventemos de cara a lograr el 
+desarrollo. La experiencia internacional nos muestra que los 
+países que logran el desarrollo son países que tienen programas 
+de inversión en esta área que son relevantes.
+Pero hay una segunda brecha que nos parece que esta ley 
+contribuye a cerrar, y es que tenemos poca articulación entre 
+el sector conocimiento -que en Chile está constituido 
+particularmente por las universidades- y el sector productivo, 
+de cara a que haya una más directa y eficiente transferencia 
+de los conocimientos que se generan hacia las actividades 
+productivas y hacia los procesos de agregación de valor 
+productivo. Desde ese punto de vista, nos parece que esta ley 
+genera una institucionalidad, una arquitectura que va a 
+facilitar eso.
+Hoy, 
+el 
+sistema 
+universitario 
+en 
+general, pero 
+las 
+universidades estatales en particular, enfrenta grandes 
+dificultades al momento de encarar esos desafíos, y de la 
+lectura que hemos hecho del proyecto de ley nos parece que hay 
+bastantes elementos que contribuyen a este propósito, a este 
+objetivo que debiera ser un objetivo país.
+Hemos analizado el contenido del proyecto de ley. Lo primero 
+que nos parece muy importante es que ha sido redactado 
+cuidadosamente y, por lo tanto, en lo que se refiere a educación 
+superior, la redacción deja muy bien establecidas las 
+limitaciones y las competencias entre el Ministerio de 
+Educación y el Ministerio de Ciencia, Tecnología, Conocimiento 
+e Innovación en lo que se refiere a la tuición que estas 
+instancias tienen sobre las actividades que realizamos las 
+universidades.
+También nos parece muy relevante que se eliminan algunas 
+barreras institucionales que tenemos, sobre todo cuando 
+proyectos de investigación que realizan nuestras y nuestros 
+académicos dan origen a conocimientos y tecnologías que luego 
+son patentables y cuyo proceso de escalamiento requiere la 
+constitución de empresas de base científica y tecnológica.
+Las universidades del Estado, por nuestro régimen jurídico, 
+tienen grandes barreras para constituir esas empresas de base 
+científica y tecnológica, y este proyecto de ley considera 
+algunas disposiciones que permiten eliminar –o, al menos, 
+reducir- esas barreras sin dejar de lado, por cierto, los 
+controles a los que la actividad pública debe estar sometida.
+Entendemos que esas disposiciones, que están contenidas en 
+el marco del proyecto de ley que se ha presentado, van a 
+facilitar precisamente que nuestras instituciones puedan 
+escalar esos conocimientos que eventualmente se generan en la 
+forma de tecnologías que son patentables para que, en procesos 
+posteriores de constitución de empresas de base científica y 
+tecnológica, nos permitan colaborar con el sector privado y 
+esas tecnologías puedan escalar.
+5
+--- PÁGINA 6 ---
+Muchas de esas tecnologías -quiero decirlo brevemente- están 
+orientadas 
+a 
+resolver 
+problemas 
+muy 
+concretos 
+y 
+muy 
+específicos. Tenemos, en todos los ámbitos, desarrollos que 
+son muy interesantes. Por ejemplo, ya que estamos en la Quinta 
+Región y tenemos una zona de sacrificio en la zona de Quintero 
+y Puchuncaví -en el ámbito de la contaminación de las aguas 
+del mar por derrames petroleros y otras cosas-, muchas de 
+nuestras universidades han generado algunas tecnologías para 
+enfrentar esos procesos de contaminación que luego no han 
+encontrado las condiciones como para que escalen y se 
+transformen efectivamente en soluciones que puedan ser 
+comercializables y ayuden a solventar esas brechas.
+También nos parece especialmente relevante la creación de un 
+repositorio nacional de información científica y tecnológica 
+que, según este proyecto de ley, estará a cargo de la ANID. 
+Esto nos parece muy coherente con el acceso público al 
+conocimiento que se genera a partir de fondos públicos. 
+Queremos destacar eso.
+Se establece también algo que para nosotros es muy relevante, 
+que es el deber de fomentar ciencia abierta por parte del 
+Estado y, particularmente, por parte de las instituciones de 
+educación superior. Esto nos parece especialmente virtuoso en 
+la ley; lo mismo que los derechos y obligaciones que se 
+establecen en el marco de este proyecto de ley sobre los 
+resultados de la investigación financiada con fondos públicos, 
+lo que también es algo que queremos destacar.
+Dado el estado de tramitación actual de la ley, no quiero 
+extenderme demasiado. Simplemente quiero decir que este es un 
+proyecto de ley que en el sistema de universidades del Estado 
+tiene un apoyo muy entusiasta, precisamente porque entendemos 
+que va a entregar herramientas al sistema de educación en 
+general y a la educación pública en particular, para 
+contribuir, de manera mucho más efectiva y eficiente, a 
+solventar ese conjunto de problemas a gran escala que enfrentan 
+nuestras sociedades y que, como hemos dicho, requiere más 
+conocimiento y no menos conocimiento; más profesionales 
+calificados 
+y 
+no 
+menos 
+profesionales 
+calificados; 
+más 
+tecnología y no menos tecnología y más colaboración entre el 
+sector del conocimiento y el sector privado que, como he dicho, 
+cuando uno mira la experiencia comparada con otros países es 
+algo en lo que todavía tenemos una brecha muy importante que 
+solventar.
+Termino diciendo que nuestro país invierte poco en ciencia, 
+tecnología, conocimiento e innovación como porcentaje del PIB, 
+sin embargo, esa inversión tiene una característica: es 
+mayoritariamente pública y necesitamos que también haya un 
+mayor compromiso del sector privado en esa inversión. Nos 
+parece que también esta ley generaría posibilidades de que esa 
+brecha se vaya solventando con el tiempo.
+Muchísimas gracias, señora Presidenta.
+6
+--- PÁGINA 7 ---
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Muchas gracias, señor Corrales.
+Tiene la palabra el diputado Kaiser.
+El señor KAISER.- Señora Presidenta, mi primera consulta es 
+-porque en esa materia no soy ducho- si existe en Chile la 
+posibilidad de deducir impuestos a las empresas privadas o 
+públicas que inviertan en proyectos de investigación en las 
+universidades, y hasta qué punto o cuál. Si así fuera, ¿existe 
+un límite al monto que se pueda deducir? Esa es la primera 
+consulta.
+Y la segunda es respecto de la creación de empresas asociadas 
+a las universidades. ¿Han analizado el riesgo funcionario que 
+vendría asociado con esto? Porque hay una responsabilidad 
+civil, y desde que se creó la ley de delitos empresariales 
+existe también una responsabilidad penal. A eso se suma el 
+riesgo financiero que va de la mano siempre de la creación de 
+una empresa, puesto que esta tiene que ser capitalizada.
+Muchísimas gracias, señora Presidenta.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Gracias, diputado Kaiser.
+Tiene la palabra el señor Corrales para que pueda responder.
+El señor CORRALES (expositor).- Muchas gracias, agradezco, 
+por su intermedio, las preguntas del diputado Kaiser.
+Respecto de lo primero, a pesar de que no tengo un 
+conocimiento acabado de la ley en materia de inversión 
+científica, 
+hasta 
+donde 
+mis 
+conocimientos 
+llegan, 
+las 
+posibilidades del sector privado de acceder a beneficios 
+tributarios en su relación con las universidades tienen que 
+ver, sobre todo, con las donaciones que se hacen a las 
+instituciones de educación superior. Ahí, efectivamente, 
+existen beneficios tributarios a los que las empresas pueden 
+acceder en materia de investigación científica y tecnológica, 
+a menos de que se trate de donaciones en equipamiento o de otro 
+tipo, caso en que, según entiendo, no existen para invertir en 
+empresas de base científica y tecnológica. Eso respondiendo a 
+su primera pregunta. Al menos, hasta donde llegan mis 
+conocimientos, eso no ocurre.
+Respecto de la segunda pregunta, dos cosas. Por supuesto, 
+hoy la Ley Orgánica Constitucional de Bases Generales del 
+Estado establece ciertas limitaciones a la participación de 
+instituciones de educación superior pública en este tipo de 
+empresas, donde se puede poseer hasta un máximo del 10 por 
+ciento de la propiedad. Esa es la limitación que hoy existe, 
+además de una inhabilidad para nuestros funcionarios y 
+funcionarias de esas casas de estudio, independiente de la 
+jornada que tengan contratada en nuestras instituciones, de
+7
+--- PÁGINA 8 ---
+participar en 
+estas empresas en calidad de director, 
+representante o administrador. Hoy esas limitaciones existen.
+Es importante lo que les decía, independiente del número de 
+horas que tengan contratadas, porque en las universidades no 
+todos los académicos y académicas están en jornadas de 44 
+horas. Nosotros tenemos profesores que están 33, 22, 11 horas 
+o, incluso, en algunos casos menos horas y esa inhabilidad, 
+sin embargo, existe para todos.
+Entonces, lo que la ley hace es que se permita la 
+participación de académicos y no académicos de nuestras 
+instituciones en este tipo de empresas, y que se establezca 
+una 
+excepción 
+a 
+la 
+inhabilidad 
+e 
+incompatibilidad 
+administrativa 
+aplicable 
+a 
+funcionarias 
+y 
+funcionarios 
+públicos. Eso es parte de la desarticulación entre el 
+subsistema de conocimiento y el sistema privado; si un 
+científico nuestro ha producido algún invento -lo voy a decir 
+así muy simplemente-, tiene interés de patentarlo y luego 
+comercializarlo, sin perjuicio de que lo haya hecho sobre la 
+base de los trabajos que realiza en la universidad, para 
+constituir esa empresa, tiene que dejar de ser académico de la 
+universidad.
+Por 
+cierto, 
+siempre 
+existen 
+riesgos 
+de 
+naturaleza 
+administrativa y financiera. Hoy la ley de delitos económicos 
+se 
+aplica 
+a 
+las 
+universidades 
+del 
+Estado, 
+estamos 
+explícitamente mencionados en esa ley, pero para eso nuestras 
+instituciones cuentan con numerosos controles, tanto internos 
+como externos; controles internos de nuestras contralorías 
+universitarias, controles externos no solo de la Contraloría 
+General 
+de 
+la 
+República, 
+sino 
+que 
+también 
+de 
+la 
+Superintendencia de Educación Superior; obligación de tener 
+estados financieros auditados y consolidados con las empresas 
+relacionadas, como sería en este caso lo que ocurriría, de modo 
+tal que el monitoreo sobre eventuales riesgos no es 
+inexistente, sino que permanente al igual que su gestión y 
+nuestras instituciones la mantienen al día.
+La señora OLIVERA, doña Érika (Presidenta accidental).- Tiene 
+la palabra el diputado Kaiser.
+El señor KAISER.- Gracias, señora Presidenta.
+¿No sería razonable que una inversión en investigación y 
+desarrollo realizado por una empresa privada, a través de una 
+universidad pública o, incluso, a través de un instituto 
+técnico-profesional, etcétera, que también a veces hacen 
+investigación, pudiese ser deducido como costo y gasto de la 
+tributación? Y si ese es el caso, porque con eso podríamos 
+efectivamente 
+aumentar 
+la 
+cantidad 
+de 
+inversión 
+en 
+investigación y desarrollo, porque la empresa no tiene que 
+generar su propia unidad de investigación y desarrollo, sino 
+que podría, de alguna manera, tercerizarlo a las universidades. 
+Si ese es el caso, ¿hay alguna iniciativa desde el gobierno
+8
+--- PÁGINA 9 ---
+para corregir dicha situación y abrir efectivamente las puertas 
+a la cooperación público-privada en la materia?
+Gracias, señora Presidenta.
+La señora OLIVERA, doña Érika (Presidenta accidental).- Tiene 
+la palabra la diputada Yeomans.
+La 
+señora 
+YEOMANS 
+(doña 
+Gael).- 
+Presidenta, 
+por 
+su 
+intermedio, quiero saludar a todos los invitados.
+Solo para comentar al diputado Kaiser que efectivamente eso 
+era parte inicialmente de la reforma tributaria, pero que, a 
+propósito del pacto fiscal, esas son iniciativas que se están 
+conversando para poder presentarse. Yo entiendo que sobre ese 
+aspecto debiera haber un acuerdo y efectivamente poder avanzar. 
+Así que me parece una medida, incluso, interesante también 
+invitar al Ministerio de Ciencia para que podamos conversar al 
+respecto y podamos verla antes de que ingrese el proyecto de 
+ley como tal y así tener un intercambio previo en esta misma 
+Comisión. Creo que sería provechoso.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Muchas gracias, diputada Yeomans.
+Diputado 
+Kaiser, 
+¿a 
+quién 
+quiere 
+hacer 
+la 
+pregunta 
+directamente?
+El señor KAISER.- No, mi propuesta era adherir a lo que 
+plantea la diputada Yeomans y, si el Ejecutivo tiene a bien… 
+¿Qué es lo que sucede? Un pacto fiscal amplio puede tener todo 
+tipo de bemoles y, probablemente, tenga dificultades para ser 
+aprobado, pero acuerdos en materia sectorial podrían tener 
+mayor probabilidad de éxito y, en ese sentido, si no se aprueba 
+la reforma tributaria, cuanto menos en la forma en que está 
+pensada, porque se pueden caer muchas partes y todo eso depende 
+de la tramitación, sería quizá bueno que el Ejecutivo tenga en 
+la manga la posibilidad de complementar este proyecto de ley o 
+de proponer un proyecto de ley aparte que se haga cargo de este 
+potenciamiento de la inversión privada en investigación y 
+desarrollo en el mundo universitario, tanto público como 
+privado.
+Muchas gracias, señora Presidenta.
+La señora OLIVERA, doña Érika (Presidenta accidental).- Tiene 
+la palabra la señora Galaz.
+La señora GALAZ, doña Macarena (expositora).- Presidenta, 
+por su intermedio, muchas gracias por la pregunta al diputado.
+9
+--- PÁGINA 10 ---
+La verdad es que sí. Por supuesto que todo lo que implica la 
+inversión en I+D, en innovación y desarrollo, es parte de la 
+agenda del ministerio. En ese sentido, con respecto a esta 
+tramitación, se tomó una definición de carácter estratégico en 
+conjunto con los actores que están vinculados al proyecto, de 
+dejar esa patita en el pacto fiscal y en la ley de I+D, a fin 
+de que con la tramitación de este proyecto se puedan levantar 
+las barreras que existen a nivel de procesos para la 
+transferencia tecnológica y, una vez levantadas esas barreras, 
+tener eso como piso para proponer una reforma en el pacto 
+fiscal que pueda hacerse cargo en materia económica de los 
+incentivos que tiene el sistema para promover I+D.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Muchas gracias, señora Galaz.
+A continuación, tiene la palabra el señor Iván Suazo, 
+director Cátedra Unesco Educación Científica para la Ciudadanía 
+y vicerrector de Investigación y Doctorados de la Universidad 
+Autónoma de Chile.
+El señor SUAZO (expositor).- Muchas gracias, Presidenta.
+Muchas gracias a las señoras y señores diputados por la 
+invitación.
+Efectivamente, vengo con dos sombreros. Dirijo una cátedra 
+de Unesco, que es un organismo internacional que se dedica al 
+fomento de la cultura científica y, además, soy vicerrector de 
+investigación en una universidad, de manera que conozco el 
+proceso.
+Quiero partir con un paréntesis respecto de la discusión que 
+se tenía anteriormente.
+Existe una ley de I+D que genera incentivos tributarios a la 
+inversión en I+D, y las empresas pueden invertir en empresas 
+de base tecnológica hasta un 35 por ciento con tope de 15.000 
+unidades tributarias mensuales al año. Es decir, existe 
+institucionalidad, tenemos que usarla, pero se usa muy poco. 
+Esa es una realidad, pero el proyecto no lo soluciona, y no 
+creo que tenga que ver con el pacto fiscal, como se ha dicho, 
+porque en realidad esta es una ley que existe hace harto tiempo.
+Este es un proyecto que ha sido conocido por el sistema, es 
+un proyecto que ha sido trabajado durante largo tiempo y es un 
+proyecto en el cual, con distinta intensidad, hemos estado 
+todos los actores que 
+participamos 
+del ecosistema de 
+investigación y desarrollo.
+Este es un proyecto que define algunos conceptos que son 
+clave y que no están definidos en nuestra legislación como, 
+por ejemplo, el de transferencia tecnológica, el de transmisión 
+de resultados de investigación científica; establece por ley 
+algunas obligaciones como, por ejemplo, que las universidades 
+tienen misiones respecto del I+D. Creo que ese es un avance 
+conceptual en nuestra legislatura.
+10
+--- PÁGINA 11 ---
+El proyecto efectivamente tiene dos partes. Una, se refiere 
+a la ciencia abierta, es decir, a aquellos procesos en los 
+cuales el conocimiento científico se pone a disposición de la 
+sociedad. En el fondo, lo que busca el proyecto es sistematizar 
+y generar la obligación de las instituciones de educación 
+superior para que todo lo que nosotros producimos en 
+investigación, y especialmente aquello que es financiado con 
+fondos públicos, tenga la obligación de estar disponible para 
+las personas. Eso resulta sumamente razonable.
+Por otra parte, se llega a un diagnóstico, a una conclusión 
+de que existen dificultades para la creación de empresas de 
+base científico-tecnológica y que estas se resuelven eliminando 
+algunas trabas administrativas. Eso es lo que establece el 
+proyecto, y lo que hace es decir qué trabas administrativas 
+son las que hay que eliminar.
+Entonces, quisiera partir con algunos datos.
+Primero, en Chile tenemos dos doctores por cada mil 
+habitantes. ¡Eso es muy poco! En Argentina hay 2,7, en Brasil 
+hay 1,8. El promedio de la OCDE es de doce doctores por cada 
+mil habitantes. Estamos en dos y el promedio de la OCDE son 
+doce, es decir, tenemos un tema con el capital humano.
+Segundo, respecto de la inversión, como refería el rector, 
+por su intermedio, Presidenta, Chile ha sido muy consistente; 
+probablemente, de los países más consistentes del mundo en 
+tener una baja inversión en ciencia. Los últimos 15 años nos 
+hemos movido entre el 0,33 y el 0,37 por ciento. ¡Ese ha sido 
+nuestro rango durante los últimos 15 años! Por lo tanto, la 
+izquierda y la derecha unidas jamás serán vencidas en materia 
+de falta de inversión en la ciencia. Eso es cómico, pero es 
+trágico, ¿cierto?
+En Chile hubo un 0,36 por ciento en la inversión de 2023 en 
+I+D, lo que nos pone bajo la media de América Latina. Nos pone 
+al nivel de países como Cuba o Venezuela.
+La media de América Latina está en 0,56 por ciento y la media 
+mundial, esto es muy relevante, está en 2,71 por ciento. Es 
+decir, estamos lejísimos de los promedios de inversión en I+D 
+en el mundo. Creo que ese es el fondo del problema. Lo demás 
+es un poco eufemístico, pero en realidad ese es el fondo del 
+problema.
+En 2023, el 43 por ciento de la inversión en I+D en Chile, 
+de esa poquita inversión, provino de las empresas. No digan 
+que las empresas no participan en I+D, porque por primera vez 
+tuvimos mayor compromiso, mayor inversión en I+D de parte de 
+las empresas. ¡43 por ciento!
+Las universidades contribuimos con el 42 por ciento, siendo 
+que la mayor parte de las que invierten en I+D están adscritas 
+a gratuidad, lo que es una paradoja.
+Por su intermedio, señor Presidente, el rector me encontrará 
+la razón de que es una complejidad para universidades como las 
+nuestras 
+estar 
+adscritas 
+a 
+gratuidad, 
+financiar 
+fundamentalmente los costos del pregrado y además invertir en
+11
+--- PÁGINA 12 ---
+I+D. Hay una tensión que no se resuelve con esta ley, y 
+probablemente sea también parte del problema; y el Estado 
+invierte un 10 por ciento de ese bajo 0,36 por ciento.
+¿Cómo está la productividad de Chile? Excepcional.
+Considero notable esto, pues tenemos poca inversión, tenemos 
+pocos doctores, pero producimos mucho. Producimos casi 20.000 
+papers al año, lo que nos sitúa en el tercer lugar de América 
+Latina. Está Brasil, México, que son muy grandes, y luego 
+Chile, superando a Colombia, a Argentina y a países que 
+invierten más y que tienen mayor volumen de población.
+En los últimos cinco años hemos publicado casi 100.000 
+artículos científicos, pero aquí también hay un problema. De 
+todos esos artículos, solo el 1,9 por ciento es en colaboración 
+con la industria. Es decir, producimos mucho conocimiento, pero 
+lo hacemos tan desvinculado del sector productivo que estos 
+mundos no se encuentran. Eso también es parte del problema.
+En 2022, para dimensionar el problema, cuando hablamos de la 
+necesidad de fomentar la creación de empresas de base 
+científica y tecnológica… Si resolvemos estos problemas, vamos 
+a generar un gran salto, y lo quiero dimensionar. ¿Saben 
+cuántas patentes produjo Chile el año pasado? Fueron 332
+¿Saben cuántas fueron de universidades, que son las que 
+supuestamente tienen el problema? El 45 por ciento, es decir, 
+150 patentes. ¡Esa es la dimensión del problema! Creo que 
+también esto es parte del problema, ya que hay un tema de 
+incentivos. Las universidades tenemos pocos incentivos para 
+salir del paper y generar mayor nivel de interacción con la 
+industria y mayor transferencia del conocimiento a nivel de 
+investigación aplicada.
+Aquí, hay un dato relevante.
+En el mundo se producen muchas patentes, pero en los últimos 
+cinco años hay 1.773 patentes que citan productividad nacional, 
+y ahí tengo un problema, porque son patentes que en el mundo 
+generan conocimiento, valor, empresas y están basadas en 
+conocimiento producido en Chile y financiado por recursos 
+chilenos, ¡pero no se produjo acá! Eso se llama captura de 
+conocimiento. Es decir, hay países que están capturando 
+conocimiento generado en Chile, se lo están llevando y 
+generando valor.
+¿Qué países son? Estados Unidos, con 535 patentes; Alemania, 
+con 117; Francia y Reino Unido. Son los principales países que 
+capturan conocimiento generado en Chile y financiado con fondos 
+nuestros. Eso también es parte del problema. En el fondo, aquí 
+hay un tema de que no estamos logrando avanzar en esa 
+transferencia.
+Respecto del proyecto en particular.
+Como decía, el proyecto tiene dos partes. Una, promueve la 
+ciencia abierta, es decir, ciencia puesta a disposición de las 
+personas, de la sociedad, de manera gratuita y abierta, una 
+visión que yo comparto y que la cátedra Unesco promueve.
+12
+--- PÁGINA 13 ---
+La otra es la generación de conocimiento para la creación de 
+empresas de base tecnológica con fines de apropiación del 
+conocimiento y de capitalización del mismo.
+El proyecto tiene dos partes que son contradictorias. ¿Me 
+explico? Tiene una parte que promueve la ciencia abierta y, 
+otra, que promueve que el conocimiento genere valor. Ambas, 
+desde el punto de vista de la necesidad de la sociedad, son 
+correctas.
+No quiero hacer un juicio de valor, pero sí hacer mención a 
+que hay una colisión de intereses epistémicos, por así decirlo, 
+entre ellos y como a mí me invitaron para que hiciera un 
+análisis de este proyecto tengo que decirlo.
+El proyecto establece la creación de un repositorio. ¿Qué es 
+un repositorio? Una plataforma donde se van a depositar los 
+productos generados por los científicos chilenos. O sea, yo 
+produzco un paper y tengo la obligación de ponerlo en ese 
+repositorio. ¡Fantástico!
+Pero ¿por qué necesitamos un repositorio? Porque Chile 
+invierte 11.000 millones de pesos del presupuesto nacional, 
+revisen la glosa, para pagar a las editoriales, a Elsevier, a 
+Springer, para que nos dejen acceder a los papers, porque en 
+ciencia se da algo absurdo: yo publico un artículo científico, 
+pago por publicar el artículo científico y después, si usted 
+quiere leerlo, doctora Molina, ¿qué tiene que hacer? Tiene que 
+pagar para descargarlo.
+Bueno, 
+para 
+que 
+los 
+científicos 
+chilenos 
+no 
+paguen 
+directamente el Estado paga 11.000 millones de pesos al año, y 
+todas las universidades y los científicos creen que eso es 
+gratis; es como magia y le hacen clic y descargan el artículo. 
+La verdad es que no es así, y el problema que tenemos es que 
+las editoriales todos los años nos suben el precio. Entonces 
+eso se va a hacer insostenible.
+Hay países que han decidido no seguir pagándole a las 
+editoriales, de manera que el repositorio es una forma de 
+resguardar que la ciencia que nosotros producimos esté 
+disponible en alguna parte si es que en algún momento las 
+editoriales nos cortan la luz por no pago.
+No obstante, yo me pregunto ¿no sería mejor seguir un camino 
+como el que siguió Alemania, que dijo que todo lo que es 
+financiado con fondos públicos debe ser publicado en abierto? 
+No se preocupó por generar un repositorio. Se preocupó de 
+generar la obligación de que todo lo que se publique tiene que 
+estar publicado en abierto. Por ejemplo, si a mí me dieron 
+recursos, porque me gané un proyecto Fondecyt y tengo que 
+publicar, no puedo publicar en cualquier lugar, sino que en el 
+lugar que va a dejar el artículo disponible para que cualquier 
+persona lo descargue. Eso debiera ser razonable. Eso no está 
+en este proyecto, y yo lo echo de menos.
+Como dato, el 53,7 por ciento de la ciencia que publica Chile 
+lo hace en abierto. ¡Ya!, nos falta ese otro 47 por ciento. En 
+esa imagen yo quiero mostrarles la otra parte.
+13
+--- PÁGINA 14 ---
+¿Cómo se produce el conocimiento que puede, potencialmente, 
+generar una empresa de base científica y tecnológica? 
+Fundamentalmente, la actividad científica que ocurre en las 
+universidades, con estudiantes de posgrado, con profesores que 
+los orientan y con investigadores que siguen su carrera van 
+generando conocimiento cada vez más complejo, lo que requiere 
+una estructura, una institución que tenga un ethos, una visión 
+de la sociedad, una misión y visión. Pero requiere, además, 
+toda una serie de estructuras, como reglamentos de propiedad 
+intelectual, reglamentos para la creación de estas empresas; 
+tiene que haber estructuras dentro de la universidad.
+Pero lo más importante acá es lo que está abajo en color 
+rojo. Es todo el ecosistema que se necesita. Y este estudio de 
+Kantis y Angelelli analizó esto y determinó cuáles son los 
+componentes más relevantes por el cual los científicos dicen 
+que no es posible generar empresas de base científico-
+tecnológica. Este proyecto lo resuelve desde la regulación, 
+que es el penúltimo punto y, la verdad, es que los 
+investigadores nombraban la regulación en el quinto o sexto 
+lugar.
+¿Qué es lo que primero decían? Financiamiento. Nos faltan 
+recursos. ¿Qué es lo que decían después? Educación. Nos falta 
+una educación que esté más orientada a la transferencia, pero 
+el elemento fundamental en esto es la cultura. Es decir, una 
+cultura que salga, y esto implica a las empresas, a las 
+universidades, a los organismos financiadores y a los 
+organismos que regulan a las universidades, porque a las 
+universidades, en realidad, tener empresas de base científico-
+tecnológica no les genera indicadores. Lo que les genera 
+indicadores son los papers, y eso es un desincentivo. Entonces, 
+lo que tenemos que mejorar es más bien el ecosistema.
+Por lo tanto, mi hipótesis de esto es que va en el sentido 
+correcto, que los problemas regulatorios efectivamente pueden 
+tener incidencia en que no se creen algunas empresas 
+científico-tecnológicas, pero ya dimensionamos el problema, 
+que es muy pequeñito. En segundo lugar, yo creo que existen 
+otros elementos del ecosistema que van a pesar mucho más.
+En resumen, el impacto de esto… Hay que ver los datos. Es 
+fácil darse cuenta de que no vamos a dar un salto en la creación 
+de empresas científico-tecnológicas rápidamente solo por 
+cambiar la ley.
+Ahora, respecto del fondo del proyecto lo que promueve es la 
+flexibilización de algunas normas, que permiten, por una parte, 
+que las universidades privadas puedan participar de empresas 
+relacionadas y, por otra, que las universidades estatales 
+permitan a funcionarios públicos que desempeñen funciones 
+diferentes de las que están siendo contratados.
+Efectivamente, entonces, lo primero que me pregunto, dados 
+los antecedentes, yo no veo correlación entre la baja cantidad 
+de empresas de base científico-tecnológica y la necesidad de 
+estos cambios regulatorios. Si existe, puede ser a nivel 
+correlacional; en estadística a esto se le llama correlación
+14
+--- PÁGINA 15 ---
+espuria, no es causal necesariamente. No es que si yo modifico 
+una, voy a mejorar lo otro. Ahí hay un tema que es conceptual 
+también.
+Luego, y creo que es lo más complejo, el proyecto no establece 
+en qué condiciones es posible y deseable la participación de 
+funcionarios 
+públicos 
+en 
+empresas 
+de 
+base 
+científico-
+tecnológica. Yo creo que esa es una puerta muy difícil y yo 
+les sugiero a los señores parlamentarios que lo analicen 
+detalladamente. En el fondo, si yo permito que un funcionario 
+público que está contratado -el rector dijo muy bien que no 
+todos están en jornada completa-, supongamos que en jornada 
+completa y crea conocimiento y una empresa de base científico-
+tecnológica, va a tener la posibilidad de contratarse en esa 
+empresa, de generar recursos extraordinarios a través de esa 
+empresa y de destinar horas de su función que están contratadas 
+por el sistema público para generar un emprendimiento en 
+paralelo. Lo encuentro, por decir lo menos, riesgoso, y creo 
+que es necesaria una mirada un poco más crítica por el riesgo 
+que significa para el estatuto funcionario y el buen 
+funcionamiento de las instituciones públicas.
+Gracias, señora Presidenta.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Gracias, señor Suazo.
+Tiene la palabra el diputado Kaiser.
+El señor KAISER.- Muchas gracias, señora Presidenta.
+Muchísimas gracias por la completa exposición.
+Tengo un par de consultas, porque algunos temas ya me 
+quedaron claros.
+El problema de las patentes al extranjero, es decir, estos 
+conocimientos están siendo absorbidos por potencias del primer 
+mundo que, por lo demás, tienen bases de investigación propias 
+mucho más potentes que las nuestras. Nosotros dejamos de 
+aprovechar conocimientos adquiridos en Chile que podrían ser 
+invertidos en Chile.
+¿Alguna restricción de acceso al repositorio solamente de 
+investigadores chilenos de universidades o que estén inscritos 
+en un registro chileno? ¿Lo ven como una alternativa? Porque 
+de otra manera, efectivamente, estamos… Alemania es un país 
+muy generoso y pone a disposición de todo el mundo lo que se 
+investiga de la mano de los recursos públicos que ponen a 
+disposición los contribuyentes alemanes. Pero no entiendo por 
+qué los contribuyentes alemanes debiesen ayudar a los 
+contribuyentes chinos. Y no entiendo, con mayor razón, por qué 
+nosotros debiésemos en Chile financiar investigación que pueda 
+llevar a una mejora económica de nuestro pueblo, con impuestos 
+chilenos, que no esté en primer lugar a disposición de la 
+industria nacional para poder desarrollar negocio o industria 
+en ese sentido.
+15
+--- PÁGINA 16 ---
+¿Sería razonable hacer un repositorio que, al menos, tenga una 
+cierta restricción de acceso para los investigadores chilenos, 
+esto es, que los investigadores chilenos puedan tener acceso 
+al mismo y no necesariamente cualquiera.
+Por otra parte, en su opinión, ¿cuál es la razón principal 
+por la cual las patentes que se están generando en Chile no 
+son adquiridas por nuestro propio ecosistema económico para el 
+desarrollo de negocios?
+Muchísimas gracias, señora Presidenta.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Muchas gracias, diputado Kaiser.
+Tiene la palabra el señor Iván Suazo.
+El señor SUAZO (director de la Cátedra Unesco).- Diputado 
+Kaiser, la primera respuesta es que no hay ninguna posibilidad 
+de tener un repositorio cerrado. No sería un repositorio y no 
+es ese el sentido. Por el contrario, creo que mientras más 
+visibilidad 
+tengamos, 
+más 
+abiertos 
+estemos, 
+mejores 
+posibilidades vamos a tener.
+Nuestros científicos son muy buenos científicos. Por tanto, 
+tenemos que preocuparnos de generar instancias de colaboración. 
+Me preocuparía, más bien, de esas 535 patentes que generó 
+Estados Unidos, de cómo contactamos a los científicos chilenos 
+que generaron ese conocimiento con los científicos que lo están 
+utilizando en Estados Unidos. Ahí hay un proceso que tenemos 
+que ir complejizando en nuestro ecosistema. Creo que ahí es 
+donde vamos a generar valor.
+Perdón. ¿Cuál era la segunda pregunta?
+El señor KAISER.- Se entiende que esas patentes también 
+puedan beneficiar al sistema en el extranjero; sin embargo, lo 
+que no se entiende es por qué esos conocimientos, que deberían 
+generar la inquietud por patentar en Chile, no se transforman 
+en más patentes nacionales. Eso sería beneficioso tanto para 
+el científico como para su universidad.
+Muchísimas gracias.
+La señora OLIVERA, doña Érika (Presidenta accidental).- Tiene 
+la palabra, señor Suazo.
+El señor SUAZO (director de la Cátedra Unesco).- Ese es el 
+fondo del asunto, diputado, que no es un problema regulatorio, 
+sino del ecosistema.
+Por una parte, las universidades no tienen los incentivos 
+para generar algo distinto que no sean los papers. Los 
+científicos entienden que su carrera académica y que ganar
+16
+--- PÁGINA 17 ---
+nuevos proyectos depende más bien de los papers, nuevamente. 
+Hay incentivos que no están bien puestos.
+Pero, por otra parte, tenemos un sector empresarial poco 
+dinámico en el sentido de que tiene poco interés en generar 
+mayor innovación desde Chile.
+En nuestro país hay empresas que están haciendo muy buena 
+innovación, pero no lo están haciendo con las universidades, y 
+muchas veces lo están haciendo con instituciones extranjeras. 
+Hay un desacople entre nuestro sector productivo y nuestro 
+sector de generación de conocimiento.
+Creo que hay que mejorar el ecosistema.
+La señora OLIVERA, doña Érika (Presidenta accidental).- Tiene 
+la palabra el diputado Kaiser.
+El señor KAISER.- ¿Cuántos departamentos de ciencia aplicada 
+tenemos en Chile?
+Normalmente, en la ciencia, son esos departamentos los que 
+descubren o patentan.
+El señor SUAZO (director de la Cátedra Unesco).- No sé. Cada 
+universidad tiene uno, o probablemente tiene varios, uno para 
+cada ámbito: los que trabajan en energía, los que trabajan en 
+temas agrícolas, los que trabajan en temas forestales, todos 
+tienen algo que los va haciendo particulares.
+En la Universidad Autónoma de Chile tenemos ocho centros de 
+investigación aplicada.
+La señora OLIVERA, doña Érika (Presidenta accidental).- Tiene 
+la palabra el diputado Kaiser.
+El señor KAISER.- ¿Metas?
+Al final, todo se reduce al sistema de incentivos y castigos. 
+Entonces, la pregunta es si no tenemos un ecosistema que esté 
+funcionando adecuadamente debido a que los incentivos no están 
+funcionando.
+Dentro del mundo universitario, ¿el sistema de incentivos se 
+agota en la publicación de paper? ¿Podemos cambiar las metas 
+desde el sistema universitario? ¿El otro elemento sería si 
+podemos establecer metas asociadas con bonos a la generación 
+de patentes?
+La tercera pregunta es si las propias empresas, en caso de 
+cooperar financieramente con una universidad y que esta sacase 
+una patente, ¿podrían, por ejemplo, durante los primeros cinco 
+años de explotación de ese conocimiento, no pagar impuestos 
+para que haya un interés efectivo en meter mucha plata en 
+investigación 
+y 
+desarrollo, 
+en 
+arriesgar? 
+Porque 
+la
+17
+--- PÁGINA 18 ---
+investigación y desarrollo pueden significar también que el 
+dinero simplemente no llegue a ninguna parte. No toda 
+investigación termina en una patente, por razones lógicas.
+Gracias, señora Presidenta.
+La señora OLIVERA, doña Érika (Presidenta accidental).- Tiene 
+la palabra, don Iván.
+El señor SUAZO (director de la Cátedra Unesco).- Creo que 
+hay un tema de incentivos, pero no es tan fácil.
+No se trata simplemente de decir que desde ahora solo vamos 
+a incentivar la investigación aplicada que se traduzca en 
+patentes. La investigación aplicada no surge de la nada; surge 
+de la investigación fundamental, que es la que genera el 
+conocimiento básico.
+Nosotros preferimos hablar de investigación orientada a la 
+misión, en la cual se puede incorporar investigación básica y 
+aplicada, pero con una orientación hacia un propósito, hacia 
+la solución de algún problema en particular. Eso se puede hacer 
+desde la ciencia básica y desde la ciencia aplicada.
+En Chile, la mayor parte de la inversión que hace la Agencia 
+Nacional de Investigación a través de convocatorias es para 
+financiar investigación básica.
+No quiero que se malentienda. No sería partidario de que se 
+le recortara un peso a la investigación básica, pero la 
+inversión en ciencia en Chile es muy baja.
+Por lo tanto, debemos incrementarla si queremos llegar a ese 
+paso.
+No hay una solución mágica en esto.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Muchas gracias, don Iván.
+Vamos a darle la palabra al vicerrector de Investigación de 
+la Universidad de Santiago de Chile, señor Jorge Pavez, quien 
+se encuentra conectado vía Zoom.
+Bienvenido, don Jorge.
+Tiene la palabra.
+El señor PAVEZ (vicerrector de Investigación, Innovación y 
+Creación de la Usach) [vía telemática].- Muchas gracias, 
+Presidenta.
+Reitero mis saludos a todos y a todas quienes están presentes 
+en la Comisión.
+Primero, quiero valorar enormemente esta iniciativa legal, 
+puesto que viene a dar el puntapié inicial a un proceso que 
+esperamos sea solo la primera etapa. Luego vendrán cosas más
+18
+--- PÁGINA 19 ---
+profundas que tengan que ver con sistemas de financiamiento 
+mucho más estructurales.
+Este primer paso es fundamental, porque aborda dos temas 
+relevantes para el objetivo final que tiene esta iniciativa de 
+ley, que trata sobre cómo el conocimiento que se genera hoy, 
+fundamentalmente en las universidades, puede estar disponible 
+para la sociedad.
+Segundo, ¿cómo es posible que las instituciones de educación 
+superior, con este vasto conocimiento generado durante todos 
+estos años de desarrollo investigativo, logran transformarse y 
+alcanzar niveles de maduración que permitan transferirlo a la 
+sociedad 
+como 
+innovación, 
+como 
+novedades 
+productivas, 
+etcétera?
+Al respecto, quiero hacer un contrapunto con relación a lo 
+que menciona el profesor Suazo.
+Es 
+cierto 
+que 
+Chile 
+es 
+un 
+país 
+muy 
+productivo 
+científicamente. Per cápita, produce mucho más papers que 
+Argentina, Colombia y Brasil. Sin embargo, esos países, con 
+menor productividad científica per cápita, nos llevan una 
+enorme delantera en temas de innovación y transferencia 
+tecnológica. Y eso no es solo una casualidad. Si revisamos la 
+biografía, vemos que esos países, Argentina, Colombia y Brasil, 
+hace rato que establecieron normas, leyes e incentivos para la 
+creación de empresas de base científico-tecnológica, emulando 
+experiencias muy exitosas en Europa que comenzaron en la década 
+de los 80.
+Entonces, el hecho de que nosotros estemos produciendo mucho 
+más papers, pero que no logremos alcanzar esos niveles de 
+transferencia e innovación, no se debe a falta de recursos, 
+sino a elementos que iniciativas legales como esta empiezan a 
+atacar, que son las trabas y las barreras que existen para que 
+los hallazgos y las investigaciones que se realizan en las 
+universidades logren niveles de madurez tal que puedan acceder 
+a transformarse en tecnología en nuestro sistema productivo.
+Uno de los vehículos claves para la transferencia y 
+comercialización de conocimiento a nivel mundial son las EBCT. 
+Por lo tanto, en Chile es de suma importancia destrabar esas 
+restricciones, lo cual nos va a permitir acelerar la creación 
+de EBCT.
+¿Por qué hoy en las universidades solo podemos llegar a 
+niveles de maduración de tecnología entre el 3 y el 4? Para 
+que una tecnología pueda ser aplicada completamente en su vasta 
+extensión requiere niveles de maduración del 8 y del 9.
+Para alcanzar niveles superiores al 3 o al 4, es decir, la 
+escala de laboratorio, que es lo que podemos hacer en nuestras 
+instituciones, 
+necesitamos experiencias prototipadas, de 
+escalamiento, que necesariamente requieren instalaciones que 
+no tienen nuestras instituciones, pero que muchas empresas 
+tampoco las tienen.
+Piensen ustedes, por ejemplo, cuán complejo es escalar una 
+tecnología, desde la universidad, que tiene que ver con la
+19
+--- PÁGINA 20 ---
+actividad minera. Una tecnología desarrollada en la universidad 
+-hay muchas que están en el nivel de laboratorio-, escalarla a 
+nivel de la mina, de la obra, del yacimiento, requiere 
+prototipado y escalamiento que incluye instalaciones muy 
+complejas.
+Es por eso que, como universidades, somos campeones en la 
+fundación de patentes, porque lo último a que podemos aspirar 
+en las universidades hoy es a la patente, salvo excepciones 
+que estamos tratando de hacer con la EBCT, con los spin-offs.
+Luego hay que hacer que el Estado y la sociedad usufructúen 
+de eso es a través de los procesos de licenciamiento. Es lo 
+que hacen cuando la patente también es a nivel mundial. Quienes 
+la usan en el extranjero es porque están pagando las licencias 
+correspondientes. No es que se estén apropiando de esa patente, 
+están pagando las licencias.
+Esa ha sido la forma con la que, hasta ahora, hemos podido 
+beneficiarnos más directamente de los conocimientos generados 
+en las universidades.
+En cambio, en Europa, en Argentina, en Brasil, en Colombia, 
+incluso en México, las EBCT asumen roles importantes en los 
+procesos de transferencia. ¿Por qué? Porque pasan a cubrir un 
+eslabón importante en la cadena de valor que hoy las grandes 
+empresas no son capaces de absorber, porque las tecnologías 
+que se están produciendo en los laboratorios, en las 
+instituciones, la mayoría de las veces son tecnologías que 
+pueden ser disruptivas y suficientemente avanzadas, pero que 
+el empresariado, especialmente las grandes empresas, no tienen 
+la capacidad para escalarla, para prototiparla. No tienen el 
+personal calificado, no contemplan dentro de sus tiempos y 
+líneas 
+de 
+producción 
+detenciones 
+para 
+probar 
+nuevas 
+tecnologías, etcétera.
+Entonces, ahí es donde nosotros podemos ver una cosa virtuosa 
+que este proyecto de ley va a empezar a resolver, que es que 
+las empresas de base científico-tecnológica van a poder tener 
+una 
+vida, 
+entre 
+comillas, 
+legal 
+dentro 
+de 
+nuestras 
+instituciones, y que nuestros investigadores e investigadoras 
+podrá participar de esas empresas, obviamente bajo toda la 
+normativa que está desarrollada internamente en nuestras 
+instituciones. No será una cosa de un libre albedrío ni un tema 
+en 
+que 
+los 
+académicos 
+y 
+académicas 
+podrán 
+dedicarse 
+exclusivamente a la empresa. Los convenios de desempeño de 
+nuestras instituciones son bien estrictos en ese sentido.
+Si la institución podrá relacionarse con esta EBCT, podrá 
+seguir aportando con I+D, con infraestructura, con recursos 
+para que estas tecnologías empiecen a transitar un proceso más, 
+o sea, un camino mucho más seguro y más acelerado para su 
+maduración.
+Esos dos aspectos son fundamentales. La maduración y la 
+aceleración de ese proceso de maduración están determinando 
+esa posibilidad de que la transferencia sea exitosa en el más 
+corto plazo.
+20
+--- PÁGINA 21 ---
+Es por eso que, si este proyecto de ley va a permitir que 
+las universidades, especialmente las universidades públicas, 
+logren botar esas barreras que tienen que ver con la 
+participación de las investigadoras e investigadores en estos 
+desarrollos tecnológicos, es decir, ir más allá del nivel de 
+maduración 3 y 4 que le permiten los laboratorios, vamos a 
+ganar en tiempo y en posibilidades para realmente transferir 
+hacia la sociedad el conocimiento que se está generando en 
+nuestras instituciones, con todo el bienestar que eso significa 
+en los más diversos ámbitos, obviamente.
+Desde ese punto de vista, el proyecto es muy relevante, y 
+eso va acompañado con el tema de la propiedad intelectual, con 
+el tema de la ciencia abierta.
+Hoy, el conocimiento tiene que ser accesible a la sociedad, 
+especialmente el que tiene que ver con potencialidades de 
+transferencias tecnológicas, porque va a permitir crear 
+alianzas virtuosas, estratégicas entre las instituciones y el 
+mundo social y empresarial, con el fin de que esa transferencia 
+del conocimiento que se está generando sea mucho más efectiva.
+Respecto de las preocupaciones que puede haber con los 
+repositorios, el proyecto de ley debe establecer que se 
+permitirá que los resultados de la investigación científico-
+tecnológica 
+serán 
+susceptibles 
+de 
+protección 
+mediante 
+propiedad industrial, intelectual o de variedades vegetales, 
+cuando la universidad o la institución así lo estime 
+conveniente.
+Si la institución no solicita este embargo respecto de la 
+propiedad intelectual, el sistema, como ANID, va a hacerlo 
+público inmediatamente, pero las instituciones y los grupos de 
+investigación van a tener la posibilidad de mantener a 
+resguardo los resultados a través de protección de propiedad 
+industrial.
+En resumen, vemos que estos los dos aspectos principales que 
+cubre este proyecto de ley constituyen un primer envío y un 
+primer escenario que puede resultar muy potente y muy virtuoso 
+para que la transferencia tecnológica y la innovación empiecen 
+a transitar en forma más efectiva y fluida entre nuestras 
+instituciones de educación superior, que hoy realizan casi el 
+ciento por ciento de la investigación científico-tecnológica-, 
+y la sociedad, todo lo que tiene que ver con el entorno 
+productivo y, por qué no decirlo, con el entorno que tiene que 
+ver con la sociedad en sí, en temas de ciencias sociales y 
+humanidades. Se trata de integración, por cierto.
+Muchas gracias, señora Presidenta.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Muchas gracias, don Jorge Pavez.
+Tiene la palabra diputado Lagomarsino.
+El señor LAGOMARSINO.- Muchas gracias, señora Presidenta.
+21
+--- PÁGINA 22 ---
+Voy a hablar más desde el ámbito de mi competencia, que es 
+la medicina. Probablemente lo van a compartir las diputadas 
+Molina y Bravo, pues tenemos la misma profesión.
+Hay investigadores que trabajan en distintas universidades 
+del país en torno a moléculas que eventualmente pueden 
+transformarse en fármacos después de un largo proceso de 
+investigación que incluye distintas fases: las fases 1, 2, 3 y 
+la 4, que es de ensayos clínicos.
+Muchas veces, un investigador parte en una universidad 
+probando, logra algunos resultados o alguna idea de cómo 
+aquello puede aportar como un tratamiento, en algún momento. 
+Pero el investigador no tiene el financiamiento para 
+desarrollar un estudio más grande, como los estudios de 
+toxicidad, los estudios de efectividad y sobre todo los de 
+biodisponibilidad, a menos que llegue a tocar a su puerta un 
+laboratorio, 
+nacional 
+o 
+internacional, 
+innovador 
+o 
+no 
+innovador, que le diga que le va a poner ruedas a lo que está 
+haciendo o planteando.
+Entonces, mi pregunta es, ¿cómo contribuye este proyecto 
+de ley a que el Estado le ponga ruedas a aquello y que no sea 
+finalmente un laboratorio, que obviamente tiene un fin 
+comercial y que busca obtener utilidades, a veces bastante 
+importantes?
+De hecho, si ese investigador se ganó un Fonis, que son 
+los fondos nacionales de investigación y desarrollo en salud, 
+¿cómo el Estado garantiza que esa investigación inicial, y que 
+después no es capaz de continuar y que se inició con recursos 
+fiscales, tenga algún asidero en lo que finalmente se va a 
+eventualmente producir? Porque sabemos que el tránsito hacia 
+un medicamento, cuando se comercializa o distribuye, es muy 
+largo.
+Esa sería la pregunta.
+Gracias, Presidenta.
+La señora OLIVERA, doña Érika (Presidenta accidental).-
+Gracias, diputado Tomás Lagomarsino.
+¿Quién quiere responder?
+Tiene la palabra el señor Iván Suazo. Después le damos la 
+palabra a don Jorge.
+El señor SUAZO.- Presidenta, la pregunta es muy buena.
+Efectivamente, hay una deficiencia en nuestro sistema 
+respecto de la trazabilidad de los componentes científicos que 
+llevan finalmente a la generación de una innovación, y eso 
+termina siendo apropiado para quien pueda hacerlo, que 
+generalmente son empresas, las farmacéuticas.
+Pasa mucho que el investigador ha ejecutado tres proyectos 
+Fondecyt, con financiamiento público, ha logrado tener un 
+producto. Luego se gana un Fondef, genera un nivel de
+22
+--- PÁGINA 23 ---
+maduración de su tecnología mayor. Pero ni las instituciones 
+ni el sistema están preparados para sostener lo que significa 
+el registro de la patente y el registro en distintas partes 
+del mundo. Chile está adscrito al sistema PCT, lo que le permite 
+que la protección sea vasta, pero no es suficiente.
+Ahora, luego de ahí a llegar a la licencia es un proceso 
+que significa tiempo. Además, son procesos muy costosos, por 
+lo muchas veces las instituciones no los podemos soportar.
+Entonces, un laboratorio que ve la oportunidad, se apropia 
+de esto y genera valor. Ese es un problema de fondo, y el 
+proyecto no tiene que ver con esto.
+A su pregunta, diputado, ¿cómo se hace cargo el proyecto? 
+No se hace cargo, porque ese no es el fondo del proyecto.
+Ne efecto, la iniciativa parte de un supuesto, que es que 
+en Chile no se crean empresas de base tecnológica porque hay 
+un problema administrativo. Mí hipótesis en esto es que existe 
+un problema administrativo que sería bueno resolver y, por lo 
+tanto, apoyo este proyecto y estoy de acuerdo con que avance, 
+pero esto no va a resolver el problema, pues no por ello se 
+van a crear más empresas de base científico-tecnológica.
+La señora OLIVERA, doña Érika (Presidenta accidental).-
+Gracias, señor Suazo.
+Tiene la palabra el señor Jorge Pavez.
+El señor PAVEZ (vía telemática).- Presidenta, justamente, 
+como mencioné hace poco, este proyecto de ley apunta, entre 
+varias cosas, a resolver ese problema, esa barrera.
+Las 
+instituciones 
+de 
+educación 
+superior 
+que 
+hoy 
+desarrollan 
+investigación 
+científico-tecnológica 
+son 
+instituciones de educación superior, no son empresas.
+Por lo tanto, el crear empresas de base científico-
+tecnológica, acompañarlas como institución en los procesos de 
+maduración, en los procesos de crecimiento, en el proceso de 
+incubación, será posible de forma mucho más virtuosa, mucho 
+más efectiva y mucho más transparente con este proyecto de ley.
+Luego, cuando esa empresa esté en un grado de maduración 
+e incubación determinado, vendrá el tema de la salida de esta 
+empresa, en forma completa y cabal, hacia el sector productivo. 
+Es ahí, entonces, donde la ley permitirá que tanto los 
+investigadores como las instituciones puedan abordar ese 
+proceso de forma mucho más efectiva, mucho más tranquila y 
+mucho más eficiente.
+Las universidades, las instituciones que hayan creado esas 
+EBCT podrán relacionarse con ellas, celebrar contratos con 
+ellas, lo que permitirá dotar de toda una infraestructura de 
+I+D para acelerar procesos de maduración e incluso de 
+prototipado, sin la necesidad de que los investigadores tengan 
+que, en etapas tempranas -entre comillas-, desprenderse y
+23
+--- PÁGINA 24 ---
+vender sus hallazgos científicos a grandes compañías que están 
+esperando afuera.
+Esa es una de las grandes ventajas que tiene este 
+proyecto.
+La señora OLIVERA, doña Érika (Presidenta accidental).-
+Gracias, señor Pavez.
+Tiene la palabra del diputado Johannes Kaiser.
+El señor KAISER.- Presidenta, si lo entiendo bien, una de 
+las razones por las cuales las personas que generan 
+conocimientos, 
+luego 
+patentes, 
+etcétera, 
+tienen 
+que 
+desprenderse de sus avances es porque es demasiado caro, entre 
+otras cosas, conseguir las licencias o la autorización estatal 
+para poder venderlas.
+En el tema farmacéutico está claro: son años y años de 
+procedimientos antes de que el órgano que tiene que recibir 
+estos medicamentos… Lo vemos incluso con medicamentos que están 
+aceptados afuera de Chile, hace mucho tiempo.
+Y probablemente sucede también con otros productos, no 
+solamente que tengan que ver con los farmacéuticos.
+Entonces, mi consulta es si, más allá de que este proyecto 
+tenga su propia aproximación para hacer posible esta 
+transmisión de conocimiento y también la ganancia social que 
+eso implica, ¿no tendríamos que ver también cuáles son los 
+impedimentos que está generando el propio Estado para el 
+aprovechamiento de estos conocimientos?
+Si el ISP demanda procesos que duran literalmente años de 
+años, con la inversión paralizada hasta el momento en que se 
+autoriza la venta, evidentemente que los que tienen las 
+espaldas son las grandes compañías farmacéuticas; los pequeños 
+no entran nunca al negocio y, por lo tanto, no hay competencia, 
+lo que se traduce en que los precios de los medicamentos los 
+determinan los grandes, y al final lo que usted tiene es una 
+concentración de la riqueza de conocimientos -pero también 
+financiera- en pocas manos, y es gracias al Estado.
+Quizás 
+debiésemos 
+también 
+meterle 
+un 
+ojo 
+a 
+esa 
+institucionalidad.
+Gracias, Presidenta.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Gracias, diputado Johannes Kaiser.
+Tiene la palabra el diputado Tomás Lagomarsino.
+El señor LAGOMARSINO.- Presidenta, entiendo que el 
+repositorio, o el proyecto de ley, no se hace cargo en toda su 
+integralidad de los problemas que tenemos.
+24
+--- PÁGINA 25 ---
+En eso coincido con lo que plantea el diputado Kaiser, que 
+nosotros 
+estamos 
+generando 
+un 
+repositorio 
+de 
+las 
+investigaciones que se están llevando a cabo, y si el Estado 
+no está viendo eso, le estamos haciendo la pega e incentivando 
+al sector privado para que tenga concentrada toda la 
+información y, así, que llegue y sepa qué buscan los 
+investigadores en cada una de las materias que están haciendo.
+Me parece muy positivo lo del repositorio y, como lo 
+planteaba nuestro invitado, creo que también se le puede dar 
+un aspecto más de trazabilidad. Pero también debiéramos ver 
+cómo hacemos que este repositorio lo mire el Estado, el 
+Ministerio de Ciencia.
+Probablemente lo está haciendo, porque no me imagino que 
+el ministerio diga: “Oye, no apoyemos a este investigador”; 
+debe preguntarse cómo lo apoyamos, con qué, qué podemos hacer.
+No obstante, apoyamos el proyecto, así como está. No es 
+que digamos “no lo estamos apoyando”, porque sí nos gusta. 
+Pero, en el fondo, también se trata de cómo generamos una 
+discusión un poco más allá del proyecto, independiente de que 
+pueda resolverse o no en esta discusión.
+Gracias, Presidenta.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Muchas gracias, diputado Lagomarsino.
+Tiene la palabra la diputada Helia Molina.
+La señora MOLINA (doña Helia).- Mi reflexión no es tan 
+profunda como las de los diputados Lagomarsino o Kaiser.
+Esto me ha preocupado harto y durante mucho tiempo. Aquí 
+se han dado cifras bastante espeluznantes de la proporción o 
+la cantidad de Ph. D., de científicos con doctorado, lo que 
+obviamente se trata de formación superior que permite tener 
+más potencial de investigación, capacidad de revisión y uso de 
+la ciencia, incluyendo también a las ciencias sociales.
+Lo que me llama la atención es que, si bien tenemos pocas 
+becas para que vayan a hacer doctorados a universidades 
+extranjeras -incluso a nacionales-, porque son formaciones 
+largas -de tres o cuatro años- y con una tesis compleja, conozco 
+a una gran cantidad de doctorantes, o que ya tienen el grado 
+de Ph. D., que en Chile no son contratados.
+O sea, tenemos una cantidad pequeña -comparada con los 
+demás países de la OCDE, o con otros parámetros-, pero ni esa 
+poca cantidad que tenemos está siendo lo suficientemente 
+utilizada en los ámbitos de la investigación. Eso me preocupa.
+Este proyecto de ley es muy importante, pues pone los 
+bordes y los marcos necesarios que se requieren. Pero sin 
+investigación suficiente y sin los investigadores del nivel 
+que se requieren, no podremos hacer un gran desarrollo de este 
+proyecto.
+25
+--- PÁGINA 26 ---
+Entonces, ahí me surge la duda. Por eso, quiero 
+preguntarle al doctor Corrales, al menos respecto de las 
+universidades públicas, que son las que más contratan a 
+personas con doctorado, ¿cómo está el proceso de entrega de 
+campo laboral para investigación y docencia? Generalmente esas 
+dos cosas van juntas, porque no hacemos pura investigación, 
+sino también docencia y vinculación.
+¿Qué está pasando? ¿Cuál es hoy el estado del arte de la 
+oferta laboral para doctorantes que vienen muy bien preparados, 
+desde nuestro país o desde el extranjero, de los cuales muchos 
+no están trabajando en ciencia y deben hacerlo en áreas en las 
+que tienen pocas perspectivas de desarrollo en relación con lo 
+que han estudiado?
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Tiene la palabra el señor Osvaldo Corrales.
+El 
+señor 
+CORRALES 
+(presidente 
+del 
+Consorcio 
+de 
+Universidades del Estado de Chile).- Diputada, muchas gracias 
+por la pregunta, respecto de la cual quiero señalar algunas 
+cosas.
+Primero, creo que debiéramos coincidir en que hay un 
+problema integral que tiene varias aristas. En ese sentido, 
+coincido con el vicerrector Suazo en cuanto a que no es un 
+problema solo normativo, sino también uno de inversión.
+Por eso, en esta honorable Comisión hice un llamado a 
+tener en cuenta que, mientras tengamos ese porcentaje de 
+inversión en ciencia, tecnología, conocimiento e innovación, 
+será muy difícil que el país repunte.
+Lo segundo que quiero decir es que hay que confiar en la 
+ciencia chilena. El vicerrector Suazo daba unos datos respecto 
+de cómo lo que se produce aquí es utilizado en otros lugares 
+para generar conocimiento aplicado y patentes. Eso habla de la 
+calidad del conocimiento científico creado en Chile, sin 
+perjuicio de lo poco que invertimos. Eso era lo segundo que 
+quería decir: confíen en la ciencia chilena, porque es de muy 
+buena calidad.
+Lo tercero es que, si bien la baja inversión en ciencia y 
+tecnología es un problema complejo, los bajos incentivos que 
+todavía existen para el desarrollo de investigación en los 
+distintos ámbitos han generado un problema en la formación de 
+lo que yo llamo talentos humanos, es decir, el talento de las 
+personas, en particular en la formación de doctoras y doctores.
+Hemos tenido una dificultad con la contratación a todo 
+nivel de doctoras y doctores. Las universidades del Estado 
+hemos hecho un esfuerzo y tenemos como meta que, de aquí a 
+cinco años, la mitad de nuestros claustros académicos estén 
+compuestos por doctoras y doctores.
+Ahora bien, sin perjuicio de ese esfuerzo que hacen las 
+universidades del Estado, y también el sector privado,
+26
+--- PÁGINA 27 ---
+tradicional y no tradicional, tenemos un problema para acoger 
+a la cantidad de doctores y doctoras que se están formando. Es 
+más, incluso han salido algunos reportajes en la prensa 
+respecto al tema, porque para dar trabajo a personas con altos 
+niveles de formación se requiere un mayor incentivo, a fin de 
+que tanto el sector público como el privado inviertan en esta 
+materia.
+En el caso de las universidades, tenemos un problema con 
+la forma en la que se nos evalúa y con el financiamiento del 
+sistema de educación superior.
+La 
+gratuidad 
+está 
+solventando 
+fundamentalmente 
+la 
+formación de pregrado, y se debe rendir de forma muy 
+exhaustiva. Por lo tanto, no se pueden destinar esos recursos 
+al desarrollo o al apoyo de procesos de investigación que 
+realizan nuestros científicos y nuestras científicas. Si eso 
+no se corrige, representará una cierta amenaza para el 
+desarrollo de la investigación.
+Más allá de las diferencias que podamos tener, la 
+evidencia internacional es extraordinariamente clara. Basta 
+con ver el caso de Corea del Sur, que, al aumentar la inversión 
+en ciencia y tecnología, logró salir de una situación de rezago 
+y hoy es un país extraordinariamente desarrollado.
+Presidenta, si me permite solo un comentario final, pues 
+no quiero dejar pasar algo delicado que dijo el vicerrector 
+Suazo y que me dejó un poco preocupado, porque él puso el 
+acento respecto a que funcionarios públicos puedan formar parte 
+de empresas.
+En primer lugar, estamos hablando de algo que venimos 
+reclamando hace mucho tiempo: los funcionarios de las 
+universidades del Estado somos considerados funcionarios 
+públicos a todo evento, sin perjuicio de que los aportes 
+públicos que reciben las universidades del Estado por el solo 
+hecho de tener la categoría de estatales -y aquí hablaré por 
+la mía- son de alrededor del cuatro o cinco por ciento.
+De hecho, el señor Suazo es vicerrector de Investigación 
+y Doctorados de la Universidad Autónoma, que por gratuidad 
+recibe más recursos públicos que la Universidad de Valparaíso. 
+Incluso, la Universidad Autónoma es la que más recursos 
+públicos recibe por concepto de gratuidad en el sistema de las 
+universidades, dineros que obviamente cambian si sumamos a los 
+institutos profesionales.
+No tengo ningún pronunciamiento de valor respecto a eso, 
+pero sí tiene más fondos públicos que la Universidad de 
+Valparaíso, y quienes trabajan en la Universidad Autónoma no 
+son funcionarios públicos y no están sometidos a estas 
+restricciones.
+Por lo tanto, lo que siempre hemos reclamado -entendemos 
+que el proyecto de ley lo corrige- es que exista igualdad de 
+condiciones en cuanto a la forma en que las distintas 
+instituciones participamos del sistema universitario de 
+generación de ciencia, tecnología, conocimiento e innovación.
+27
+--- PÁGINA 28 ---
+Por ello, estoy muy de acuerdo con agregar todas las 
+restricciones que sean necesarias a los funcionarios de las 
+universidades del Estado, siempre y cuando también se apliquen 
+a los funcionarios de las universidades privadas que reciben 
+fondos públicos del mismo modo que las estatales.
+No obstante, creo que la respuesta es la contraria, porque 
+la solución es dar herramientas a nuestros investigadores e 
+investigadoras.
+De hecho, el artículo 9º del proyecto establece que para 
+hacer esto en nuestras instituciones tenemos que fijar un 
+reglamento, el cual deberá ser muy estricto en cuanto a regular 
+conflictos de intereses y, además, normar la forma en que los 
+funcionarios de nuestras universidades deben cumplir con los 
+deberes que tienen para con nuestras instituciones y cómo los 
+compatibilizan con su participación en empresas.
+Insisto, la mayor parte de nuestro personal no está 
+contratado por 44 horas, especialmente los académicos. Hay 
+muchos por 22 o por 11 horas, pero de todas formas tienen 
+restricciones extraordinariamente severas, aunque la mayor 
+parte de su vida puedan dedicarla a otras actividades.
+Me parece que, desde el punto de vista normativo, los 
+recaudos que toma la ley, pero también las posibilidades que 
+abre, permitirán que una parte del sistema universitario no 
+caiga en la paradoja de que el Estado invierta en él -porque 
+invierte en sus universidades-, pero luego le amarre las manos 
+para que no haga nada con aquello que produce.
+Eso es lo que nos parece que este proyecto de ley resume.
+Muchas gracias.
+La señora OLIVERA, doña Érika (Presidenta accidental).- Tiene 
+la palabra el doctor Jorge Pavez.
+El señor PAVEZ (expositor) [vía telemática].- Solo quiero 
+complementar un poco lo postulado por la diputada Molina y la 
+primera línea argumentativa del señor rector.
+En nuestro país hay un dato muy interesante respecto de los 
+doctores, que está muy relacionado con el tema de las empresas 
+de base científica y tecnológica.
+Resulta que del cien por ciento de los doctores y doctoras 
+de nuestro país, el 84 por ciento están contratados por las 
+universidades, y solo el 7 por ciento de esos doctores se 
+desempeña en el sector productivo, público o privado, o en 
+instituciones de ese sector.
+Ahora, ¿qué pasa en Europa? En Europa el 54 por ciento de 
+los doctores y doctoras trabajan en el sector productivo, en 
+el sector privado, en tanto que solo el 46 por ciento se 
+desempeña en la academia. ¿Y por qué pasa eso? Porque Europa 
+estableció tempranamente -tal como mencioné al principio- 
+marcos regulatorios e incentivos para la creación de empresas
+28
+--- PÁGINA 29 ---
+de 
+base 
+científica 
+y 
+tecnológica, 
+que 
+es 
+en 
+donde 
+mayoritariamente 
+están 
+desempeñándose 
+los 
+doctores, 
+especialmente los más jóvenes. Lo mismo está pasando en 
+Colombia, Venezuela y Brasil.
+Entonces, este concepto de la empresa con base científica y 
+tecnológica 
+es 
+un 
+todo 
+virtuoso 
+para 
+que 
+jóvenes 
+investigadores, 
+jóvenes 
+doctores, 
+formados 
+en 
+nuestras 
+instituciones, tengan otras posibilidades de crecimiento que 
+les permitan aportar al desarrollo de nuestro país, de nuestra 
+sociedad, y no solo estén tratando eternamente de posicionarse 
+académicamente en una institución de educación superior, cosa 
+que hoy es muy compleja, muy difícil, por las restricciones 
+presupuestarias que tenemos.
+En Estados Unidos hemos visto, por ejemplo en la Universidad 
+de Texas o en la de Carolina, que cuando hay sistemas 
+regulatorios de empresas de base científica y tecnológica ha 
+crecido exponencialmente el número de spin-offs de ciencia y 
+tecnología.
+Recordemos que la primera gran y exitosa experiencia de este 
+tipo de casos fue Silicon Valley, ciudad que nació porque allí 
+se situaron los spin-offs de la Universidad de Stanford, con 
+sus estudiantes e investigadores.
+Ese es el tipo de visión que debemos tener en nuestra retina 
+al momento de analizar y de ver este tipo de iniciativas: las 
+posibilidades que nos abren.
+Gracias.
+La señora OLIVERA, doña Érika (Presidenta accidental).- 
+Muchas gracias, don Jorge.
+Damos las gracias a nuestros tres invitados, don Jorge Pávez, 
+don Iván Suazo y don Osvaldo Corrales, por acompañarnos y 
+aclararnos algunas de las dudas que tendremos que abordar 
+durante la discusión de este proyecto.
+Por haber cumplido con su objeto, se levanta la sesión.
+-Se levantó la sesión a las 19:05 horas.
+MAURICIO CÉSPED MORA, 
+Redacción de Sesiones.
+29

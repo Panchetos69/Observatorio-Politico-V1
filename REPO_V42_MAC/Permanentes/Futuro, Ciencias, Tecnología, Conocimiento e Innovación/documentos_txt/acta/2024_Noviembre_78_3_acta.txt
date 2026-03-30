@@ -1,0 +1,715 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=20370&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:34:22
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 78°, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+372ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 06 DE NOVIEMBRE 
+2024, DE 17:36 A 19:11 HORAS.
+SUMARIO: 
+Se inició la votación en particular del proyecto de ley que 
+regula los sistemas de inteligencia artificial (boletines 
+refundidos Nos 16821-19 y 15869-19), en primer trámite 
+constitucional, con urgencia calificada de “simple”.
+I.- PRESIDENCIA
+Presidió la sesión, el diputado Eric Aedo (Presidente Titular), actuó como Abogada 
+Secretaria de la Comisión, la señora María Soledad Fredes Ruiz, como Abogada Ayudante, 
+la señorita María Jesús Serey Sardá y como secretaria ejecutiva, la señora Teresita 
+Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Paula Labra, Helia 
+Molina, Erika Olivera y Gael Yeomans, y los diputados integrantes de la Comisión, señores 
+Eric Aedo, Johannes Kaiser, Tomás Lagomarsino, Daniel Lilayu y Rubén Oyarzo. La 
+diputada Marta Bravo fue reemplazada por el diputado Sergio Bobadilla.
+Concurrió, para la orden del día, la Ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, señora Aisén Etcheverry Escudero, acompañada de la asesora legislativa, 
+señora Macarena Galaz.
+III.- ACTAS
+Las actas de las sesiones 74ª, 75ª y 76ª se declaran aprobadas.
+El acta de la sesión 77ª se encuentra a disposición de las señoras diputadas y 
+señores diputados.
+IV.- CUENTA
+Se recibieron los siguientes documentos:
+1.- Comunicación del Jefe de la Bancada de Diputados UDI, por la que informa que 
+la diputada Marta Bravo será reemplazada, en esta sesión, por el diputado Sergio Bobadilla.
+Se tuvo presente
+2.- Comunicación suscrita por los diputados Matías Ramírez y Daniel Lilayu, a través 
+de la cual informan que han acordado pareo para la sesión de hoy.
+Se tuvo presente
+3.- Ordinario A22/N° 2525 de la Ministra de Salud, mediante el cual detalla 
+información relativa a la Glosa N° 16 de la Ley de Presupuestos del Sector Público año 
+2024, sobre ciberseguridad, correspondiente al segundo trimestre.
+Se tomó conocimiento
+V. ORDEN DEL DÍA
+Se inició la votación en particular del proyecto de ley que regula los sistemas de 
+inteligencia artificial (boletines refundidos Nos 16821-19 y Nº 15869-19), en primer 
+trámite constitucional, con urgencia calificada de “simple”.
+El diputado Eric Aedo (Presidente) explicó que la sesión fue convocada con el 
+propósito de comenzar la votación en particular de dos proyectos de ley, refundidos,
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 19/03/2025 11:28:42 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: AC1B85666446F643
+--- PÁGINA 2 ---
+relacionados con la regulación de los sistemas de inteligencia artificial, que se encuentra 
+en primer trámite constitucional, con una urgencia calificada de simple.
+A continuación, dio la bienvenida a la ministra de Ciencia, Tecnología, Conocimiento 
+e Innovación, señora Aisén Etcheverry, quien se encontraba presente junto con su asesora 
+legislativa, doña Macarena Galaz.
+La señora Aisén Etcheverry, ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación, agradeció la invitación e informó que, después de revisar con su equipo el 
+mecanismo que se utilizó para la discusión de los proyectos de ley sobre datos personales 
+y el relativo a ciberseguridad, habían concluido que dicho mecanismo podría aplicarse al 
+debate del proyecto sobre inteligencia artificial. Dado que se trata de iniciativa complejas 
+de tratar desde una perspectiva técnica, pues requieren conocimientos especializados 
+relativos a las materias de que tratan, conocimientos que solo tienen quienes han dedicado 
+su vida a estudiar o trabajar en el área.
+Según explicó para el debate de aquellas iniciativas se había convocado a un grupo 
+expertos, no a los asesores parlamentarios o legislativos, sino que expertos de la academia, 
+a quienes se les pidió estar presentes durante la tramitación de las iniciativas y disponibles 
+para aclarar las dudas que les surgieran a los parlamentarios o al Ejecutivo, especialmente 
+durante el debate de las indicaciones, para determinar sus alcances e implicancias.
+Por tanto, sugirió que se conformara un grupo de expertos para que acompañe el 
+proceso de discusión del proyecto, si es de interés de los parlamentarios, para obtener un 
+buen proyecto final, técnicamente robusto.
+El diputado Eric Aedo, Presidente, expresó su agradecimiento a la ministra antes 
+de presentar a la Comisión la propuesta preparada por el Ejecutivo.
+Reiteró que, según lo que entendió. dicha propuesta consiste en conformar un 
+equipo técnico-científico especializado en temas de inteligencia artificial, el que estaría 
+disponible en forma telemática durante las sesiones para que pudieran consultarlos en 
+cualquier momento que fuera necesario y tendría la función de brindar apoyo en caso de 
+que surgieran dudas o consultas de carácter técnico, científicas o relacionadas con el 
+alcance de ciertos términos, actuando exclusivamente como asesores, sin participar en las 
+votaciones.
+Luego, sometió esta propuesta a la consideración de los integrantes de la Comisión 
+y preguntó si alguien tenía dudas o discrepancias. Al no recibir objeciones, dio por aceptada 
+la propuesta y, seguidamente, otorgó la palabra a la ministra Etcheverry.
+La señora Aisén Etcheverry, ministra del Ministerio de Ciencia, Tecnología, 
+Conocimiento e Innovación, señaló que, desde el Ejecutivo, se quería ofrecer una minuta 
+que describiera el proceso y que se podría compartir con todos los presentes. Además, 
+mencionó que existía una lista de personas que habían coordinado las mesas de trabajo 
+sobre inteligencia artificial en el Senado. Propuso incluir esta lista en la minuta, para que 
+todos tuvieran acceso a los nombres de quienes ya habían estado involucrados en el tema. 
+Aclaró que estas personas no pertenecían al Ejecutivo, sino que habían sido convocadas 
+por el Senado, pero consideró que sería útil presentar estos nombres a modo de sugerencia 
+inicial.
+El diputado Eric Aedo (Presidente) acogió la propuesta presentada por la ministra 
+Etcheverry. Enseguida, solicitó a la Secretaria de la Comisión, quien había sido 
+ampliamente elogiada por el diputado Bobadilla, que explicara los pasos a seguir para 
+iniciar la discusión debate en particular del proyecto en debate.
+La señora María Soledad Fredes (Secretaria) planteó que la opción más lógica 
+sería leer todas las indicaciones correspondientes a un artículo antes de discutirlas en 
+conjunto. Explicó que las indicaciones estaban organizadas en el documento comparado 
+siguiendo el orden de votación establecido por el Reglamento. Sin embargo, señaló que la 
+Comisión podía decidir el método más conveniente para votarlas o ajustar la metodología 
+según consideraran adecuado.
+2
+--- PÁGINA 3 ---
+El diputado Eric Aedo (Presidente) señaló que las indicaciones ya estaban visibles 
+en los computadores de los presentes y propuso aprobar los artículos que no recibieron 
+indicaciones, dado que eran pocos. Sometió esta idea a consideración de los presentes, 
+destacando que la Secretaría tenía claro cuáles eran esos artículos.
+El diputado Rubén Oyarzo, en respuesta, sugirió establecer una mesa legislativa 
+con el gobierno y los asesores de todos los diputados de la Comisión, para avanzar de 
+manera ordenada en los acuerdos y facilitar una votación más rápida.
+La diputada Érika Olivera recordó que el viernes estaba prevista una mesa de 
+trabajo entre los asesores y el ministerio, así que consideró prudente esperar a esa reunión 
+para lograr acuerdos que den claridad sobre las votaciones. También propuso que la 
+Secretaría indicara cuáles artículos no tendrían problemas con las indicaciones, para 
+avanzar en ellos, aunque insistió en la conveniencia de esperar hasta el viernes.
+El diputado Eric Aedo (Presidente) aclaró dos puntos antes de ceder la palabra a la 
+Secretaría. Primero, reiteró el acuerdo previo en el que se estableció que el comité asesor 
+tendría un rol exclusivamente consultivo, sin carácter vinculante, respetando la libertad de 
+cada parlamentario para votar como considerara apropiado. Segundo, instruyó a la 
+Secretaría para que nombrara los artículos sin indicaciones para que la Comisión supiera 
+cuáles eran.
+El diputado Johannes Kaiser compartió su experiencia en otras comisiones, 
+destacando que unificar opiniones en instancias previas al debate legislativo aceleraba el 
+proceso y facilitaba la discusión. Añadió que, aunque no obligaba a nadie a votar de una 
+manera específica, fomentaba el avance en un marco de diálogo.
+TÍTULO I 
+DISPOSICIONES GENERALES
+Artículo 1
+Artículo 1.- Objeto de la ley. La presente ley tiene por objeto promover la creación, 
+desarrollo, innovación e implementación de sistemas de inteligencia artificial (“IA”) al 
+servicio del ser humano, que sean respetuosos de los principios democráticos, el Estado 
+de Derecho y los derechos fundamentales de las personas frente a los efectos nocivos que 
+determinados usos pudieran irrogar.
+Indicaciones:
+1) Del diputado Oyarzo para reemplazar el artículo 1, por el siguiente:
+“Artículo 1.- La presente ley tiene por objeto fijar el marco normativo de los procesos 
+de creación, desarrollo, innovación e implementación de sistemas de inteligencia artificial, 
+así como los mecanismos de control, fiscalización y vigilancia de la misma.
+El Estado de Chile, por medio de sus instituciones, fomentará el uso y desarrollo de 
+los sistemas de inteligencia artificial, velando por que estos vayan en directo beneficio de 
+las personas, se encuentren al servicio de estas, respeten el marco institucional y normativo 
+bajo el cual se organiza la República de Chile y no vulneren los derechos fundamentales 
+de las personas.
+Para dar cumplimiento a lo señalado en los incisos precedentes se contemplarán 
+mecanismos para responder a los efectos nocivos que pudiera irrogar su uso y atender las 
+eventualidades en caso de que los sistemas de inteligencia artificial signifiquen un problema 
+a la seguridad del Estado y sus ciudadanos.”.
+2) Del Ejecutivo al artículo 1 para modificarlo en el siguiente sentido:
+a) Intercálase entre la frase “el Estado de Derecho y los derechos fundamentales” y 
+la frase “de las personas frente a los efectos nocivos que determinados usos pudieran 
+irrogar”, la expresión “, con enfoque de género,”.
+b) Agrégase el siguiente inciso final, nuevo:
+“A su vez, la presente ley tendrá por objeto la promoción de inteligencia artificial que 
+fomente la igualdad de género.”.
+3
+--- PÁGINA 4 ---
+3) Del diputado Lagomarsino para incorporar en el artículo 1 entre las expresiones 
+“derechos fundamentales de las personas” y “frente a los efectos nocivos” la frase 
+“consagrados en la Constitución Política de la República, incluidos, pero no limitados a 
+estos, la salud y la seguridad de las personas, la privacidad, el medio ambiente, así como 
+los derechos de los consumidores o derechos de autor y conexos,”.
+El diputado Eric Aedo (Presidente) finalmente, propuso empezar con la revisión de 
+los dos primeros artículos, que contenían indicaciones más generales y podían ser 
+discutidos en la sesión, mientras que los artículos con indicaciones más complejas se 
+abordarían después de la reunión del viernes. Instruyó a la Secretaria a iniciar la revisión 
+de las indicaciones del artículo 1.
+La señora María Soledad Fredes (Secretaria) dio lectura a las indicaciones al 
+artículo 1 del proyecto.
+La indicación 1, del diputado Rubén Oyarzo, sugiere reemplazar el artículo 1 en su 
+totalidad.
+La indicación 2, del Ejecutivo, propone modificar el artículo 1, intercalando dos 
+frases y agregando una nueva al final.
+La indicación 3, del diputado Tomás Lagomarsino, busca incorporar una frase nueva 
+en el artículo 1, entre las expresiones “derechos fundamentales de las personas” y “frente 
+a los efectos nocivos”.
+-El contenido exacto de las indicaciones se encuentra en el comparado elaborado 
+por la Secretaría.
+El diputado Rubén Oyarzo explicó que su indicación al artículo 1 tiene como objetivo 
+ampliar y aclarar la definición del uso de la inteligencia artificial, enfatizando que debía estar 
+orientada directamente al apoyo y servicio de las personas. Según su propuesta, es 
+fundamental que este principio quedara explícito en el texto de la ley para garantizar que 
+los sistemas de inteligencia artificial siempre beneficien a la ciudadanía.
+Además, expresó su interés en conocer la posición del Ejecutivo con respecto a esta 
+indicación, ya que considera que ofrece una versión más amplia y precisa en comparación 
+con la redacción incluida en la moción original del proyecto.
+La ministra Aisén Etcheverry señaló que, aunque compartían la intención de 
+explicitar de mejor manera el objeto de la ley, tenían dudas respecto al uso del verbo "fijar" 
+en la redacción inicial. Señaló que esta elección podía generar una estructura demasiado 
+rígida para los procesos de creación, desarrollo e innovación, los cuales son 
+inherentemente flexibles y dependientes de la creatividad.
+Además, argumentó que dichas actividades varían significativamente entre 
+diferentes actores, como empresas y universidades, y que, por ello, difícilmente podrían ser 
+completamente abarcadas en un marco normativo estricto. En consecuencia, subrayó la 
+necesidad de mantener un espacio que permita la flexibilidad esencial que caracteriza estas 
+actividades.
+El diputado Tomás Lagomarsino mencionó que, según el Reglamento, la 
+indicación presentada por el diputado Rubén Oyarzo, al ser más extensa y comprensiva, 
+debía votarse primero. Expresó que no deseaba rechazarla, ya que consideraba que incluía 
+elementos positivos. Sin embargo, advirtió que, de ser aprobada, las indicaciones del 
+Ejecutivo y la suya quedarían descartadas.
+Ante esa situación, sugirió la posibilidad de elaborar una propuesta consensuada 
+que incluya elementos de todas las indicaciones, incluyendo la del diputado Oyarzo, la del 
+Ejecutivo, la suya y las de otros parlamentarios interesados en participar. Propuso que, si 
+el Ejecutivo no podía ingresarla debido a la necesidad de reunir múltiples firmas, los mismos 
+diputados podrían hacerlo para lograr un acuerdo amplio y evitar un debate prolongado.
+La diputada Gael Yeomans manifestó su acuerdo con la propuesta del diputado 
+Tomás Lagomarsino de buscar un enfoque consensuado para las indicaciones al artículo 
+1. Indicó que las distintas indicaciones podían ser entendidas de manera complementaria, 
+lo que contribuiría a un mejor propósito legislativo.
+4
+--- PÁGINA 5 ---
+Por tal razón, sugirió que sería preferible abordar el tema el viernes, ya que ello 
+permitiría reunir las propuestas de manera más organizada. Además, planteó que el 
+Ejecutivo podría presentar una versión consolidada o que se podría trabajar con más 
+detenimiento en lugar de apresurarse a mezclar los elementos de las indicaciones en ese 
+momento.
+El diputado Johannes Kaiser expresó su desacuerdo con la inclusión de la 
+perspectiva de género en el proyecto de ley de inteligencia artificial, argumentando que se 
+trata de una teoría sociológica que no debería mezclarse con un tema eminentemente 
+técnico. Criticó al gobierno por intentar introducir este enfoque, calificándolo como una 
+fuente de controversia que ya ha generado tensiones en ámbitos como los juzgados de 
+familia, otros tribunales y el aparato estatal. Según su parecer, la perspectiva de género 
+puede comprometer la imparcialidad de la justicia, que debería aplicarse sin considerar 
+características personales, como género, raza o preferencia sexual.
+Con todo, el diputado Kaiser valoró el contenido del artículo 1 del proyecto de ley y 
+las indicaciones presentadas por los diputados Rubén Oyarzo y Tomás Lagomarsino, 
+considerando que podrían trabajarse en conjunto. Sin embargo, advirtió que, si se insistía 
+en integrar el enfoque de género, se generaría un conflicto ideológico innecesario, 
+trasladando a esta discusión las tensiones existentes entre los conceptos de igualdad ante 
+la ley y la igualdad sustantiva. Para evitar esto, sugirió que este debate debería reservarse 
+para otros contextos, dejando fuera del ámbito científico este tipo de polémicas.
+El diputado Rubén Oyarzo manifestó su disposición a alcanzar acuerdos y trabajar 
+en una indicación conjunta para avanzar de manera eficiente. Reiteró su preferencia por 
+establecer una mesa prelegislativa, argumentando que esta herramienta permitiría agilizar 
+el trabajo y lograr consensos previos a la votación en sesión. Según él, esto facilitaría que 
+las discusiones en la Comisión se limitaran a los puntos de discordia, optimizando así el 
+proceso legislativo.
+Asimismo, se mostró abierto a los cambios y respaldó la idea de buscar consensos, 
+como lo propusieron los diputados Tomás Lagomarsino y Gael Yeomans. Confirmó su 
+disposición para dialogar sobre la indicación presentada y contribuir a un acuerdo sin 
+mayores inconvenientes.
+La ministra Aisén Etcheverry afirmó que estaban dispuestos a trabajar en una 
+mesa para buscar una redacción que integre todos los contenidos de las indicaciones 
+presentadas, con el objetivo de aportar constructivamente al debate. Explicó que, a pesar 
+de la existencia de leyes que mandan a los organismos considerar la perspectiva de género, 
+era relevante incluirla en el proyecto de ley sobre inteligencia artificial debido a su 
+importancia específica en este ámbito.
+Además, la ministra destacó que, en los países desarrollados, en Europa 
+principalmente, se ha integrado la perspectiva de género en los procesos de investigación, 
+ya que las diferencias de género a veces son invisibles para los investigadores, quienes no 
+suelen enfocarse en ellas. Puso como ejemplo las investigaciones en salud, en las que se 
+ha corregido este sesgo pidiendo a los investigadores que consideren las diferencias que 
+podrían influir en los resultados.
+En cuanto a la inteligencia artificial, señaló que el desafío era mayor debido al uso 
+de grandes bases de datos, que pueden generar sesgos, incluidos los de género. Explicó 
+que los motores de lenguaje entrenados en inglés tienden a subrepresentar otros idiomas, 
+como el español, lo que genera un sesgo en la forma de tratar los datos y la sintaxis. 
+Asimismo, las bases de datos actuales tienen sesgos hacia las mujeres, producto de 
+factores históricos y del tipo de investigaciones previas.
+Finalmente, explicó que, en este contexto, los esfuerzos globales buscan visibilizar 
+estos sesgos de género en la inteligencia artificial e incorporar la perspectiva de género 
+como una técnica aceptada internacionalmente en el desarrollo de la investigación, y aclaró 
+que su intervención tenía el propósito de aportar al debate con evidencia y antecedentes 
+basados en experiencias comparadas.
+5
+--- PÁGINA 6 ---
+El diputado Johannes Kaiser expresó sus dudas sobre la efectividad de aplicar 
+perspectiva de género en análisis relacionados con el impacto de la inteligencia artificial, 
+señalando que existen hasta 112 géneros reconocidos y que esta categoría es 
+eminentemente variable y está en constante evolución. Argumentó que la introducción de 
+perspectiva de género puede convertirse en un obstáculo para obtener una visión objetiva, 
+ya que la relación entre sexo y género no es fija y el género es ilimitadamente ampliable, lo 
+cual podría llevar a análisis sin criterios claros.
+Sostuvo también que un enfoque de género no contribuiría a un análisis serio y 
+científico de los impactos de la IA en diferentes segmentos de la población. Para él, sería 
+más útil examinarlos en términos de criterios objetivos como sexo, edad o grupos etarios, 
+especialmente porque estos últimos podrían enfrentar mayores desafíos en la adaptación 
+a nuevas tecnologías en el ámbito laboral.
+Concluyó que, en su experiencia, la perspectiva de género es una categoría 
+sociológica cambiante, lo que la hace inadecuada para el análisis objetivo de los efectos de 
+la IA.
+El diputado Eric Aedo (Presidente) reconoció la relevancia de la discusión, 
+enfatizando que no se resolverá en el comité de asesores. Explicó que, a pesar de que este 
+podría alcanzar algunos acuerdos técnicos, el debate en última instancia será político y 
+deberá ser tratado directamente por los diputados y diputadas de la Comisión. Por ello, 
+buscó ajustar las expectativas sobre el comité, dejando claro que, aunque se lleguen a 
+ciertos consensos, la discusión se mantendrá en el ámbito político.
+La diputada Paula Labra manifestó su apoyo a la ministra en cuanto a evitar sesgos 
+por sexo y reducir las brechas de género en el uso de la inteligencia artificial. Sin embargo, 
+consideró que la indicación en discusión es distinta, ya que se refiere al objetivo general de 
+la ley que, según ella, no debería ser la promoción de la IA específicamente para fomentar 
+la igualdad de género. Advirtió que esto podría introducir un sesgo en su uso, 
+diferenciándolo de la idea de evitar discriminaciones y reducir brechas. En definitiva, señaló 
+que ambos enfoques son distintos y recalcó su desacuerdo con la perspectiva principal 
+propuesta en la indicación.
+La diputada Gael Yeomans se mostró de acuerdo con el diputado Aedo respecto 
+del trabajo de la mesa de asesores, afirmando que ayuda a clarificar los aspectos técnicos 
+previos a la discusión política. Advirtió que esta revisión inicial permitirá separar lo esencial 
+de lo superfluo, facilitando las discusiones políticas en la Comisión y enfocando el tiempo 
+en los artículos con diferencias sustanciales.
+En cuanto a la indicación en particular, propuso como preliminar la posibilidad de 
+llegar a un acuerdo en torno a que la inteligencia artificial no aumente desigualdades entre 
+hombres y mujeres, además de evitar otras formas de discriminación que pueda replicar.
+También hizo referencia a casos en los que chatbots de IA replicaron discursos 
+discriminatorios y violencia de género, sosteniendo que la Comisión debería asegurar que 
+la IA no reproduzca discursos de odio o violencia que pongan en riesgo a las mujeres. 
+Concluyó que sería útil abordar estas cuestiones primero en la mesa técnica, para evitar un 
+debate extenso en la Comisión si existen consensos en torno a los principios básicos, 
+evitando así diferencias puramente conceptuales o políticas.
+La diputada Érika Olivera expresó su acuerdo con las distintas posturas del debate, 
+reconociendo que este tipo de discusiones sobre igualdad de género suelen surgir en los 
+proyectos de ley y en Sala. Señaló que, aunque cada persona mantiene su propia postura 
+sobre estos conceptos, consideraba importante que la promoción de la igualdad de 
+oportunidades incluyera a todas las personas.
+Explicó que el uso de ciertos términos relacionados con género y equidad responde 
+a estándares internacionales que han ido instalándose a través de instituciones y leyes, y 
+que su objetivo es reducir brechas y desigualdades, como la histórica falta de 
+reconocimiento de las mujeres en áreas como la ciencia.
+6
+--- PÁGINA 7 ---
+Sin embargo, indicó que, aunque comprendía estos conceptos, no deseaba que su 
+uso impidiera el avance de proyectos o el rechazo de artículos relevantes. Subrayó la 
+importancia de llegar a consensos y sugirió que, en caso de falta de acuerdo, se podrían 
+buscar otros términos o recurrir a indicaciones que evitaran debates prolongados sobre un 
+solo concepto.
+El diputado Johannes Kaiser intervino para advertir sobre los riesgos de imponer 
+restricciones ideológicas a la inteligencia artificial. Señaló que una de las características 
+valiosas de la IA es la imprevisibilidad de sus resultados, que surgen del cruce libre de 
+datos. Explicó que limitar los datos disponibles para la IA la haría similar a un loro o un libro 
+predecible, en lugar de una herramienta inteligente.
+Criticó la tendencia de clasificar ciertas opiniones como discursos de odio, 
+ejemplificando con su propia experiencia de ser llamado fascista por criticar la inmigración 
+ilegal. Para él, esta actitud refleja la cultura de la cancelación y advirtió que llevar esa 
+práctica a la IA limitaría su funcionalidad. Señaló que, aunque ciertos límites legales son 
+necesarios, como prohibir la promoción de la pedofilia o la violación, no se debería exigir 
+que la IA diga solo lo que algunos consideran moralmente aceptable, ya que esto podría 
+distorsionar sus resultados.
+Concluyó que la IA debería operar bajo las mismas garantías de libertad de 
+información que un ser humano y que restringirla por razones ideológicas podría afectar la 
+neutralidad y la libertad de expresión, derechos que, en su opinión, deben protegerse para 
+todos.
+El diputado Eric Aedo (Presidente) propuso un enfoque para agilizar las discusiones 
+en la Comisión, sugiriendo que, cuando no se logren acuerdos, se procediera a votar en 
+lugar de prolongar los debates. Destacó que, aunque el sentido común indicaba esta 
+solución, recordó ejemplos de proyectos como la reforma de pensiones y la Ley de 
+Inteligencia, que llevaban años en discusión, debido a la falta de consensos.
+También expresó su discrepancia con el Ejecutivo en cuanto a forzar acuerdos en 
+temas controvertidos. Afirmó que el proyecto de ley en cuestión no solo tenía un 
+componente técnico, sino también uno ético, dada la naturaleza de muchas de las 
+indicaciones discutidas, y mencionó la participación de un teólogo en una exposición sobre 
+inteligencia artificial en el Congreso como prueba de ello.
+Finalmente, sugirió que los equipos de asesores se reunieran el viernes para revisar 
+los primeros artículos y sus indicaciones, intentando lograr acuerdos. En caso de no obtener 
+consenso, instó a votar las indicaciones para avanzar en la revisión de los artículos.
+Mencionó que la próxima semana no habría sesión de la Comisión por la discusión 
+de la Ley de Presupuestos y pidió aprovechar al máximo la reunión del viernes para avanzar 
+en el proyecto de ley.
+La diputada Érika Olivera expresó que veía extremadamente difícil alcanzar un 
+acuerdo sobre el artículo en discusión. Señaló que, debido a los conceptos que ya habían 
+sido establecidos en el debate, parecía evidente que no habría consenso. Aclaró que no 
+estaba segura de si todos apoyarían los puntos que se estaban tratando en ese momento. 
+Agregó que este desacuerdo podría llevar a un entrampe en la discusión, lo que implicaría 
+que incluso los asesores no serían capaces de llegar a una conclusión o acuerdo sin dejar 
+de lado los conceptos que ya habían generado diferencias.
+Ante esa situación, propuso que, si no se lograba avanzar en el acuerdo, se 
+comenzara la votación de las indicaciones de manera inmediata.
+Finalmente, dejó claro que la indicación presentada por el Ejecutivo no contaría con 
+el respaldo total de su bancada en la Sala, lo que complicaba aún más la posibilidad de que 
+fuera aprobada.
+La ministra Aisén Etcheverry comenzó su intervención mostrando comprensión 
+hacia el punto planteado por la diputada Olivera. Reconoció que había una disposición de 
+su parte para trabajar en el lenguaje del proyecto. Mencionó que existían otras 
+regulaciones, como la ley N° 21.675, que podrían servir como referencia para adaptar un 
+lenguaje que ya estuviera en vigor y que, por lo tanto, facilite la aprobación del proyecto.
+7
+--- PÁGINA 8 ---
+También destacó que, aunque sabían que se realizarían sesiones especiales para 
+tratar estos temas, era necesario llegar a un momento en que se tomaran decisiones, 
+sugiriendo que “hay que romper el jarrón en algún minuto”; es decir, que en algún momento 
+se debía avanzar con los acuerdos.
+En cuanto al artículo 2, que define el ámbito de aplicación de la ley y establece lo 
+que está comprendido y lo que no lo está, señaló que la indicación era muy pequeña y que 
+no había más propuestas al respecto. Propuso que, aunque fuera casi un gesto simbólico, 
+se podría hacer el intento de votar al menos esa indicación y luego continuar trabajando en 
+el resto de los puntos en un grupo de trabajo. Añadió que esto podría tener un efecto 
+positivo, casi como un acto psicomágico, para facilitar la resolución de los temas 
+pendientes.
+El diputado Tomás Lagomarsino formuló una pregunta dirigida a la ministra, 
+cuestionando por qué el enfoque de género, que no estaba presente en el proyecto original 
+del Ejecutivo, fue incluido posteriormente mediante una indicación. Expresó que esto le 
+parecía significativo y quería entender las razones detrás de este cambio de enfoque, ya 
+que consideraba que algo debía haber sucedido para que el Ejecutivo modificara su postura 
+en este aspecto.
+Dicho eso, hizo una afirmación relacionada con su experiencia en el ámbito de la 
+salud. Usó el ejemplo de la intubación de un paciente para señalar que en ese contexto no 
+se habla de “intubación extraordinaria” ni de “intubación con enfoque”, sino simplemente de 
+intubar al paciente cuando es necesario. De esta manera, sugirió que, en lugar de centrarse 
+en adjetivos o enfoques particulares, el foco debería estar en los mecanismos efectivos que 
+garanticen la protección de los derechos constitucionales.
+En ese sentido, recalcó la importancia de evitar discriminaciones, especialmente 
+aquellas que puedan surgir por la aplicación de algoritmos sesgados hacia las mujeres y 
+subrayó la necesidad de incorporar estudios de riesgo en el proceso.
+La diputada Paula Labra expuso que el proyecto ya abordaba los temas de 
+diversidad, no discriminación y equidad en el artículo 4, dentro de los principios 
+fundamentales. Además, distinguió que ese artículo ya contemplaba el objetivo de evitar 
+los efectos discriminatorios y los sesgos de selección, por lo que consideraba que el tema 
+ya estaba cubierto en el texto del proyecto.
+El diputado Eric Aedo (Presidente) recogiendo lo planteado por la diputada Olivera 
+sobre el artículo 1, señaló que, aunque cada uno lo había expresado de manera diferente, 
+el fondo del asunto era el mismo: hacer un esfuerzo para llegar a un acuerdo, pero si no 
+era posible, lo correcto era proceder a la votación. Manifestó que no quería que ocurriera lo 
+que había sucedido en otros proyectos, en que las discusiones se alargaban durante años 
+sin lograr avances concretos.
+En relación con el artículo 1, sugirió que, a partir del viernes siguiente, se hiciera un 
+esfuerzo por avanzar, y recogió lo que había planteado el Ejecutivo, dejando pendiente su 
+votación.
+A continuación, propuso que se avanzara en el artículo 2, dejando el artículo 1 
+pendiente, para dejar al menos un artículo con una indicación aprobada.
+Finalmente, le pidió a la ministra que respondiera la pregunta planteada por el 
+diputado Lagomarsino, para luego poder proceder con la votación del artículo 2.
+Artículo 2
+Artículo 2.- Ámbito de aplicación. La presente ley será aplicable a:
+a) Los proveedores que introduzcan en el mercado o pongan en servicio sistemas de IA en 
+el territorio nacional.
+b) Los implementadores de sistemas de IA que se encuentren domiciliados en el territorio 
+nacional.
+8
+--- PÁGINA 9 ---
+c) Los proveedores e implementadores de sistemas de IA que se encuentren domiciliados 
+en el extranjero, cuando la información de salida generada por el sistema de IA se utilice 
+en Chile.
+d) Los importadores y distribuidores de sistemas de IA, así como los representantes 
+autorizados de los proveedores de sistemas de IA, cuando dichos importadores, 
+distribuidores o representantes autorizados se encuentren domiciliados en el territorio 
+nacional.
+Con todo, la presente ley no será aplicable a:
+a) Sistemas de IA desarrollados y utilizados con fines de defensa nacional. Una resolución 
+reservada expedida por el Ministerio de Defensa Nacional identificará y listará los sistemas 
+de IA que quedan comprendidos dentro de la presente excepción.
+Para dar cumplimiento a lo anterior, el Ministerio de Defensa Nacional dictará un reglamento 
+con los criterios que permitan identificar y listar los sistemas de IA mencionados en el inciso 
+precedente.
+b) Las actividades de investigación, pruebas y desarrollo sobre sistemas de IA de forma 
+previa a su introducción en el mercado o puesta en servicio, siempre que dichas actividades 
+se lleven a cabo respetando los derechos fundamentales de las personas. Si se producen 
+daños con ocasión de dichas actividades se responderá de acuerdo con las normas de los 
+artículos 21 y 28 de la presente ley.
+Las pruebas en condiciones reales no estarán cubiertas por esta exención.
+c) Componentes de IA proporcionados en el marco de licencias libres y de código abierto, 
+salvo que sean comercializados o puestos en servicio por un proveedor como parte de un 
+sistema de IA de alto riesgo.  Si se producen daños con ocasión de este tipo de desarrollos 
+se responderá de acuerdo con las normas del artículo 28 de la presente ley.
+Indicaciones
+4) Del Ejecutivo al artículo 2 para agregar, en el inciso segundo del artículo 2, el 
+siguiente literal d), nuevo:
+“d) Sistemas de IA utilizados exclusivamente por usuarios finales.”.
+La ministra Aisén Etcheverry demostró que, desde la presentación del proyecto de 
+ley, el Ejecutivo había estado trabajando con diversos grupos de expertos y recibiendo 
+audiencias de distintos sectores, como el mundo empresarial y la academia. En este 
+proceso, se buscó presentar el proyecto en sociedad, ya que se trataba de un tema 
+complejo y, tal como se había mencionado desde el principio, cuantas más personas lo 
+analizaran, más oportunidades había de identificar vacíos o puntos a mejorar.
+En cuanto a los desafíos que involucra la discriminación de género, señaló que estos 
+temas generan una gran preocupación en la academia, especialmente en lo relacionado 
+con la profundización de estereotipos y discriminaciones basadas en el género. Varios 
+académicos le hicieron ver la necesidad de hacer un esfuerzo adicional en esta área, debido 
+al impacto potencial que tendría. Esta preocupación fue la que motivó la inclusión de la 
+indicación sobre el enfoque de género en el proyecto.
+Asimismo, explicó que muchas de las otras indicaciones presentadas por el 
+Ejecutivo respondían a conversaciones y aportes recibidos durante el proceso de revisión, 
+con el objeto de reforzar algunas ideas o aclarar aspectos que no habían quedado 
+suficientemente claros en la versión inicial del proyecto.
+Respecto del artículo 2, que define a quiénes se les aplica y a quiénes no se les 
+aplicará la futura ley, detalló que la indicación presentada por el Ejecutivo buscaba excluir 
+a los sistemas de inteligencia artificial utilizados por usuarios finales en un contexto no 
+comercial o no relacionado con la prestación de servicios públicos. El motivo de esta 
+exclusión era que, en el caso de los usuarios finales, imponerles obligaciones sobre temas 
+como transparencia o seguridad resultaba excesivo, ya que estos consumidores no 
+contarían con las herramientas necesarias para cumplir con estas obligaciones.
+9
+--- PÁGINA 10 ---
+Aclaró que el objetivo del proyecto era regular el uso de la inteligencia artificial y no 
+necesariamente abordar todos los impactos negativos que pudiera tener. Para ejemplificar 
+su punto, comentó que, si una persona usaba un sistema de chatbot en su casa para hacer 
+bullying a sus compañeros de trabajo, esta conducta ya estaba sancionada por la ley 
+laboral, independientemente de la herramienta utilizada.
+Por ello, indicó que el Ejecutivo considera importante excluir de las obligaciones 
+establecidas en el proyecto a los usuarios finales que utilicen la inteligencia artificial en su 
+ámbito personal, ya que no tendrían los medios para hacerse responsables de esas 
+exigencias.
+El diputado Johannes Kaiser se refirió específicamente a la letra c) del artículo 2, 
+que trata sobre la exención de los componentes de IA proporcionados bajo licencias libres 
+y de código abierto. Explicó que estas licencias suelen utilizar los datos de los usuarios 
+como una forma de pago, argumentando que no existe nada verdaderamente gratuito, “ni 
+siquiera la educación de calidad”.
+Asimismo, expresó preocupación por el hecho de que la sanción ante posibles 
+daños causados por estos sistemas de IA se limite a las normas del artículo 28 de la ley, 
+considerándolo insuficiente. Además, mencionó que los daños podrían no solo ser 
+materiales, sino también personales, y planteó el caso hipotético de una persona herida o 
+incluso fallecida por un dispositivo, señalando que no sería adecuado aplicar únicamente el 
+artículo 28 en tales casos.
+Concluyó señalando que la redacción actual de la norma parece otorgar un free pass 
+en estas situaciones, por lo que pidió una revisión de su alcance.
+La ministra Aisén Etcheverry señaló que existen sistemas de IA desarrollados bajo 
+licencias libres y de código abierto que no tienen fines comerciales, como los modelos 
+compartidos en plataformas como GitHub. Asimismo, explicó que estos sistemas buscan 
+enriquecer a las comunidades de desarrolladores y se utilizan para fines que van desde el 
+análisis ético hasta la sensibilización sobre los riesgos asociados a determinados usos. Sin 
+embargo, también mencionó que existen otros sistemas de IA, como los de Meta, que tienen 
+objetivos comerciales, no obstante ser de código abierto.
+Justificó la exclusión de estos sistemas de ciertas normativas debido a la robustez 
+de la fiscalización que ocurre dentro de las mismas comunidades de desarrolladores. No 
+obstante, subrayó que la referencia al artículo 28 no implica que los responsables estén 
+exentos de sanciones, dado que dicho artículo se refiere a las normas generales del Código 
+Civil en cuanto a la indemnización por perjuicios, aplicables incluso en estos casos.
+La diputada Paula Labra expresó su entendimiento sobre el punto de la ministra en 
+cuanto a la incorporación de la letra d), pero señaló un problema de redacción en la norma. 
+Advirtió que al referirse a "usuarios finales", la redacción podría llevar a confusión, ya que 
+todos los sistemas de IA eventualmente son utilizados por usuarios finales. Por último, 
+propuso una aclaración en el texto para que se refiera más específicamente a "usuarios 
+finales que utilicen los sistemas".
+El diputado Johannes Kaiser reiteró su preocupación sobre la letra c) y enfatizó 
+que la norma es clara al indicar que, en caso de daños, se aplicarán las normas del artículo 
+28. Sugirió que, si el objetivo es que solo los daños civiles sean resarcidos de acuerdo con 
+esta norma, debería especificarse claramente, sin dejar fuera las posibles implicaciones 
+penales.
+El diputado Tomás Lagomarsino abordó varios temas incluidos en el artículo 2 que 
+consideró relevantes. Asimismo, destacó que la versión original del Ejecutivo le parecía casi 
+perfecta, pero que la indicación recientemente ingresada complicaba innecesariamente el 
+texto.
+A continuación, identificó tres grandes discusiones dentro del artículo. La primera se 
+refiere a los sujetos dentro de la cadena a quienes se aplicaría la ley, indicando que 
+probablemente todos estarían de acuerdo con la regulación de las letras a), b), c) y d) del 
+inciso primero.
+10
+--- PÁGINA 11 ---
+En segundo lugar, señaló que se había tomado una decisión clave sobre el ámbito 
+de aplicación para los desarrolladores de sistemas de IA. Además, destacó que, tal como 
+en la primera etapa legislativa, la redacción actual dejaba explícitamente fuera a los 
+desarrolladores de la regulación sobre inteligencia artificial, decisión que debía ser 
+considerada conscientemente por la Comisión.
+Indicó que otro punto a destacar sería la exclusión de aquellas armas letales que 
+utilizan sistemas de inteligencia artificial. En este sentido, hizo referencia a los avances que 
+ha tenido el uso de inteligencia artificial en los sistemas militares, como en el caso de los 
+drones explosivos en la guerra entre Rusia y Ucrania, y en el sistema de defensa de Israel, 
+conocido como domo de hierro, que emplearía inteligencia artificial para interceptar misiles 
+dirigidos a zonas pobladas.
+Respecto de la indicación en discusión, mencionó que en el artículo 2 habría tres 
+puntos a destacar: cadena de distribución, desarrolladores y uso en defensa.
+Dicho eso, mostró su inquietud sobre la nueva letra que se pretendería incorporar, 
+en el sentido de que, apropósito de lo expresado por la ministra, una persona podría 
+entrenar un sistema de inteligencia artificial en su hogar, pasando a ser, al mismo tiempo, 
+desarrollador, productor, distribuidor y usuario final.
+Acto seguido, señaló que, luego de mucho estudio, habría llegado a la convicción 
+de que el entrenamiento de una inteligencia artificial debería considerarse dentro de su 
+proceso de desarrollo, lo cual ya se encontraría cubierto en la letra b) del inciso segundo 
+del artículo 2.
+Por último, alertó sobre el riesgo de excluir a los usuarios finales, ya que muchas 
+aplicaciones de inteligencia artificial podrían ser usadas para fines dañinos, como para 
+estafar a personas o manipular imágenes.
+El diputado Eric Aedo (Presidente) puso en votación la indicación 4, que agrega la 
+siguiente letra d), nueva, en el inciso segundo del artículo 2: “d) Sistemas de IA utilizados 
+exclusivamente por usuarios finales.”.
+Puesta en votación la indicación signada con el número 4, fue rechazada por 
+mayoría de votos. Votaron a favor la diputada Helia Molina y los diputados Eric Aedo y 
+Rubén Oyarzo. Votó en contra el diputado Tomás Lagomarsino. Se abstuvieron las 
+diputadas Paula Labra y Érika Olivera y el diputado Johannes Kaiser (3-1-3).
+El diputado Eric Aedo (Presidente), previa solicitud de votación separada, señaló 
+que se pondría en votación el artículo 2, con excepción de la letra c) de su inciso segundo.
+Puesto en votación el artículo 2, sin la letra c), fue aprobado por unanimidad. 
+Votaron a favor las diputadas Paula Labra, Helia Molina y Érika Olivera, y los diputados Eric 
+Aedo, Johannes Kaiser, Tomás Lagomarsino y Rubén Oyarzo (7-0-0).
+El diputado Eric Aedo (Presidente) indicó que se pondría en votación la letra c) del 
+inciso segundo del artículo 2.
+El diputado Johannes Kaiser justificó su voto en contra explicando que si la letra 
+c), además de lo ya dicho, hubiera mencionado que se podrían aplicar otras 
+responsabilidades y normas, no tendría ningún inconveniente en votar a favor.
+La ministra Aisén Etcheverry explicó que el objetivo de la norma en discusión 
+dependía de cómo se interpretara su redacción.
+Aclaró que el proyecto de ley solo se enfocaba en aquellas materias que estuvieran 
+relacionadas con el uso de ciertos sistemas de inteligencia artificial, y señaló que, si bien 
+estos sistemas podrían causar daños en muchos otros sectores no regulados por el 
+proyecto, en esos casos seguiría aplicándose la regulación general vigente en Chile.
+Ilustró su postura indicando que si una inteligencia artificial provocara un derrame 
+de petróleo, se aplicaría la normativa ambiental, aunque el proyecto en cuestión no lo 
+mencione explícitamente.
+11
+--- PÁGINA 12 ---
+Destacó que la intención del proyecto no es reemplazar las normativas existentes, 
+sino establecer obligaciones específicas para ciertos sistemas de inteligencia artificial, 
+como los relacionados con transparencia y ciberseguridad.
+En cuanto al artículo que estaba siendo discutido, explicó que este estable que, para 
+un subconjunto de sistemas de inteligencia artificial, no se aplicaran ciertas normas, ya que 
+no era necesario regular esos aspectos en este contexto. No obstante, enfatizó que esto no 
+significa que esos sistemas quedaran exentos de la regulación general del país.
+También por vía de ejemplo, señalo que, si estos sistemas se usaran para infringir 
+las reglas de libre competencia, seguirían siendo aplicables las normativas pertinentes, y 
+en este caso específico, el artículo 28 del proyecto.
+Sin perjuicio de ello, hizo presente que se encuentra llana para mejorar la redacción 
+del texto.
+El diputado Tomás Lagomarsino hizo una breve intervención para señalar que el 
+artículo 21 trataba sobre la responsabilidad generada en espacios controlados de prueba 
+para sistemas de inteligencia artificial.
+Luego sugirió al diputado Kaiser la idea de presentar en Sala una indicación que 
+recogiera su planteamiento.
+La diputada Paula Labra explicó que presentó una indicación, la 14, para establecer 
+que las responsabilidades de una persona natural o jurídica por las infracciones cometidas 
+bajo la futura aplicación del proyecto en discusión no excluían otras posibles 
+responsabilidades legales, civiles o penales, de acuerdo con la normativa vigente.
+Expresó que, en otras palabras, la indicación señalaba que si alguien infringiera 
+otras leyes, como la de protección de datos personales o la de ciberseguridad, estas 
+seguirían aplicándose, además de las disposiciones del proyecto en discusión.
+Por último, señaló que, desde su perspectiva, esta indicación serviría para corregir 
+y complementar el texto del proyecto.
+El diputado Johannes Kaiser aludió a lo que había mencionado la ministra, 
+calificando la situación como una contraexcepción.
+Explicó que el problema radicaba en que, con la redacción propuesta, se excluirían 
+de la futura aplicación del proyecto aquellos sistemas de inteligencia artificial que operen 
+bajo licencias libres y de código abierto.
+Luego, señaló que, como resultado de esta exclusión, la indicación presentada por 
+la diputada Labra, que quedaba dentro del marco de la ley, no podría aplicarse a los 
+sistemas de inteligencia artificial con licencias libres.
+Dicho eso, se refirió al artículo 28 del proyecto, indicando que si se producían daños 
+debido al desarrollo de estos sistemas, las sanciones seguirían las normas de dicho 
+artículo. Sin embargo, advirtió que, debido a esta contraexcepción, las sanciones previstas 
+en la indicación de la diputada Labra no serían aplicables, ya que los sistemas de licencias 
+libres quedarían fuera del alcance de la ley.
+Finalmente, expresó que, según su visión, este sería el problema principal, pues 
+esos sistemas quedarían excluidos de la aplicación de la legislación.
+El diputado Tomás Lagomarsino (Presidente accidental), informó que la ministra 
+tenía la intención de proponer una nueva redacción para abordar el punto en discusión.
+-A continuación, suspendió la sesión por diez minutos para que pudiera trabajarse 
+en la elaboración de la indicación.
+Transcurrido el tiempo de suspensión, el diputado Tomás Lagomarsino (Presidente 
+accidental) otorgó la palabra a la diputada Paula Labra para que explicara los acuerdos 
+alcanzados para quienes seguían la sesión por la señal telemática y para que quedara 
+registrado en el acta. Mencionó que la diputada Labra tenía indicaciones en los artículos 25 
+y 28, siendo necesario referirse al artículo 28, ya que la letra c) del artículo 2 lo cita. Invitó 
+a la diputada a ofrecer una explicación sobre estos puntos.
+12
+--- PÁGINA 13 ---
+La diputada Paula Labra respondió que su indicación no solo se refiere a lo 
+especificado en la letra c) del artículo 2, sino que debía aplicarse a todo el proyecto de ley. 
+Explicó que, en cualquier situación contemplada en el proyecto en la que se presentaran 
+infracciones relacionadas con la ley de ciberseguridad, la protección de datos personales o 
+la justicia penal, se deberían aplicar las sanciones correspondientes establecidas en las 
+leyes respectivas vigentes.
+El diputado Tomás Lagomarsino (Presidente accidental), solicitó a la ministra que 
+redactara la propuesta necesaria para cerrar el artículo y confirmó que se añadiría un nuevo 
+inciso final al artículo 28, al cual se dio lectura. Indicó que los diputados podían adherirse a 
+esta propuesta y que se incluiría la firma de la diputada Labra, alcanzando así un consenso.
+Luego, consultó a la diputada Labra si, al avanzar la propuesta en el artículo 28, su 
+indicación para el artículo 25 podría considerarse retirada. Tras recibir su respuesta 
+negativa, señaló que ese tema se discutiría en otro momento.
+Finalmente, puso en votación el literal c) del artículo 2, aclarando que se haría junto 
+con la nueva indicación. Explicó que los firmantes se comprometían a votar a favor, con la 
+recomendación positiva del Ejecutivo. Procedió entonces a la votación de la letra c) del 
+inciso segundo del artículo 2.
+Puesta en votación la letra c) del artículo 2, se aprobó por unanimidad. Votaron a 
+favor las diputadas Paula Labra, Helia Molina y Érika Olivera, y los diputados Johannes 
+Kaiser, Tomás Lagomarsino y Rubén Oyarzo. No se registraron votos en contra ni 
+abstenciones (6-0-0).
+La señora María Soledad Fredes, Secretaria, sugirió que, aunque no fuera en el 
+orden establecido, podrían proceder a votar la indicación en el artículo 28 para dejarla 
+aprobada en ese momento.
+Artículo 28
+El diputado Tomás Lagomarsino (Presidente accidental) declaró estar de acuerdo 
+con la sugerencia de la Secretaria, y consultó al resto de los integrantes de la Comisión si 
+estaban de acuerdo con votar la indicación nueva al artículo 28, consistente en agregar el 
+nuevo inciso final cuya redacción ya se había leído. Aclaró que no estarían aprobando el 
+artículo completo, sino únicamente esa indicación específica.
+66 bis) De las diputadas Labra y Olivera y los diputados Kaiser, Lagomarsino 
+y Oyarzo, para agregar el siguiente inciso final, nuevo, al artículo 28:
+“Las responsabilidades en que incurra una persona natural o jurídica por las 
+infracciones establecidas en esta ley, se entienden sin perjuicio de las demás 
+responsabilidades legales, civiles o penales, que pudieran corresponderle de acuerdo a la 
+normativa vigente.”.
+La indicación se aprobó por unanimidad. Votaron a favor las diputadas Paula 
+Labra, Helia Molina y Érika Olivera, y los diputados Johannes Kaiser, Tomás Lagomarsino 
+y Rubén Oyarzo. No se registraron votos en contra ni abstenciones (6-0-0).
+Además, el diputado Lagomarsino informó que varios de los diputados presentes 
+solicitaron que se les incluyera como patrocinantes de la indicación.
+Artículo 3
+El diputado Tomás Lagomarsino (Presidente accidental) puso en discusión el 
+artículo 3, el cual, según se explicó, incluye varias definiciones y requiere una discusión 
+prolongada debido a las numerosas indicaciones que se presentaron a su respecto.
+El diputado Rubén Oyarzo señaló que era necesario detenerse y retomar el trabajo 
+prelegislativo, tal como se había planteado al inicio. Explicó que esto permitiría organizar 
+de mejor manera el proceso, identificando los puntos en los que ya existe consenso para 
+avanzar más rápido y dejando pendientes los temas en los que no haya consenso para su 
+discusión en la Comisión. Finalmente, destacó la importancia de trabajar en conjunto para 
+desarrollar un buen proyecto de ley.
+13
+--- PÁGINA 14 ---
+El diputado Tomás Lagomarsino (Presidente accidental), luego de consultar a los 
+presentes sobre la posibilidad de continuar el debate en la siguiente sesión, y habiéndose 
+cumplido los objetivos establecidos en la citación, levantó la sesión.
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 19:11 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+14

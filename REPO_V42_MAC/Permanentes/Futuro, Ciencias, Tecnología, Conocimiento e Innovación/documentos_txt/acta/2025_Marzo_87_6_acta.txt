@@ -1,0 +1,998 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=15442&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:33:58
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 87°, ORDINARIA, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+372ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 05 DE MARZO 2025, 
+DE 17:38 A 19:35 HORAS.
+SUMARIO: 
+Se continuó con la votación en particular de los 
+proyectos de ley boletines 16821-19 y 15869-19, 
+refundidos, en primer trámite constitucional, con 
+urgencia “suma”.
+I.- PRESIDENCIA
+Presidió la sesión, la diputada Érika Olivera (Presidenta Accidental), actuó como 
+Abogada Secretaria de la Comisión, la señora María Soledad Fredes Ruiz, como Abogada 
+Ayudante, la señora María Jesús Serey Sardá y como secretaria ejecutiva, la señora 
+Teresita Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Paula Labra, Helia 
+Molina, Erika Olivera, Marcela Riquelme y Gael Yeomans, y los diputados integrantes de la 
+Comisión, señores Johannes Kaiser, Tomás Lagomarsino, Daniel Lilayu, Rubén Oyarzo y 
+Hernán Palma. La diputada Marta Bravo fue reemplazada por el diputado Felipe Donoso.
+Concurrió, para la orden del día, en representación del Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación, las asesoras legislativas Camila Aguayo y Paloma 
+Herrera.
+III.- ACTAS
+Las actas de las sesiones 83 ª y 84ª se declararon reglamentariamente aprobadas.
+El acta de la sesión 85ª se puso a disposición de las señoras diputadas y señores 
+diputados.
+IV.- CUENTA
+Se recibieron los siguientes documentos:
+1.- Oficio de S. E. el Presidente de la República mediante el cual hace presente la 
+urgencia califica de "suma", para el despacho del proyecto de ley que regula los sistemas 
+de inteligencia artificial, la robótica y las tecnologías conexas, en sus distintos ámbitos de 
+aplicación (boletín N° 15869-19, refundido con boletín N° 16821-19).
+A sus antecedentes
+2.- Oficio de S.E. el Presidente de la República, mediante el cual formula 
+indicaciones al proyecto de ley que regula los sistemas de inteligencia artificial, la robótica 
+y las tecnologías conexas, en sus distintos ámbitos de aplicación (boletín N° 15869-19, 
+refundido con boletín N° 16821-19), con el correspondiente informe financiero (I.F. N° 
+54/04.03/2025).
+A sus antecedentes
+3.- Comunicación del jefe de la Bancada de Diputados UDI, por la que informa que 
+la diputada Marta Bravo será reemplazada, en esta sesión, por el diputado Felipe Donoso.
+Se tuvo presente
+4.- Oficio N° 501/2025 de la Subsecretaria de Desarrollo Regional y Administrativo, 
+por el que, de acuerdo con lo establecido en la Ley de Presupuestos del Sector Público año 
+2025, del Ministerio del Interior y Seguridad Pública, informa respecto de la Glosa 05 
+correspondiente al período enero de 2025.
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 17/03/2025 15:55:13 CLST
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: CA87CD61B969C02C
+--- PÁGINA 2 ---
+Se tomó conocimiento
+5.- Ordinario N° 00039/2025 del Subsecretario de Ciencia, Tecnología, 
+Conocimiento e Innovación, mediante el cual, conforme lo establecido en la de la Ley de 
+Presupuestos del Sector Público año 2024, informa respecto de la Glosa N° 14, de la Partida 
+30, capítulo 02, programa 01 del Ministerio de Ciencia, Tecnología, Conocimiento de 
+Innovación, sobre las áreas prioritarias para Becas Chile, convocatoria 2025.
+Se tomó conocimiento
+6.- Ordinario N° 203/2025 de la Subsecretaria de Hacienda, mediante el cual, en el 
+marco de lo dispuesto en la Ley de Presupuestos del Sector Público año 2024, remite en 
+anexos los siguientes reportes del cuarto trimestre y segundo semestre 2024: (1) Reporte 
+artículo 14, numerales 1, 2, 3, 6, 7, 8, 9, 10, 11 y 12, segundo trimestre y primer semestre 
+de 2024, y (2) Reporte glosas N°s. 3, 4 y 5, de la Partida 08: Ministerio de Hacienda, 
+segundo semestre de 2024.
+Se tomó conocimiento
+7.- Ordinario N° 06/731 de la Subsecretaría de Educación Superior, mediante el cual, 
+conforme lo señala la Ley de Presupuestos del Sector Público año 2024, informa respecto 
+de las Glosas de la Partida 09 del Capítulo 90, Subsecretaría de Educación Superior del 
+Ministerio de Educación.
+Se tomó conocimiento
+8.- Oficio ordinario N° 75 de la Directora Nacional (S) de SENDA, mediante el cual, 
+según lo establece la Ley de Presupuestos del Sector Público año 2024, informa sobre las 
+glosas comunes 5, 6 y 7 a reportar en el mes de enero de 2025.
+Se tomó conocimiento
+9.- Oficio ordinario N° 77 de la Directora Nacional (S) de SENDA, mediante el cual, 
+de acuerdo con lo estipulado en la Ley de Presupuestos del Sector Público año 2024, 
+informa sobre las glosas presupuestarias que indica y sobre el articulado 14, 
+correspondiente al 4° trimestre y 2° semestre 2024, según se detalla.
+Se tomó conocimiento
+10.- A través del Sistema de la Ley del Lobby de la Cámara de Diputados, una 
+solicitud de audiencia derivada por la diputada Marta Bravo, requerida por el señor Jorge 
+Gómez Mir, con el propósito de referirse a la posibilidad de desarrollar una estrategia 
+nacional de semiconductores (‘Chip Act’ chileno) para fortalecer la pequeña industria de 
+microelectrónica local y retener talento nacional. Según señala, EE.UU., Europa y otros 
+países han definido a los semiconductores como estratégicos por su rol en IA, defensa y 
+más (Chip Act).
+Se tomó conocimiento
+11.- Oficio ORP 005/2025 del Representante de la Organización Europea para la 
+Investigación Astronómica en el Hemisferio Austral (ESO) en Chile, por el que manifiesta la 
+preocupación de la ESO ante la situación crítica que enfrentan los cielos del norte de Chile, 
+específicamente en la región donde se ubican sus principales observatorios astronómicos. 
+Destaca que la creciente amenaza de contaminación lumínica y el desarrollo de proyectos 
+industriales de gran escala en esta zona presentan un serio riesgo para la preservación de 
+la calidad excepcional de los cielos oscuros, un recurso invaluable no solo para Chile sino 
+para toda la humanidad. Hace presente que la ESO ha sido un socio estratégico de Chile 
+por décadas, trabajando conjuntamente en la promoción del liderazgo del país en el ámbito 
+de la investigación astronómica y la observación del universo. En este contexto, consideran 
+fundamental dar a conocer a la Comisión los riesgos que esta situación implica, así como 
+las medidas que estiman necesarias para garantizar la protección de un patrimonio que es 
+parte integral de la identidad y el desarrollo científico de Chile. Por ello, solicitan una 
+audiencia para exponer con mayor detalle esta problemática ante la Comisión.
+Se tomó conocimiento
+2
+--- PÁGINA 3 ---
+12.- Nuevo correo electrónico del señor Daniel Henríquez Ilic, quien, en su calidad 
+de realizador cinematográfico y especialista de TV Digital Terrestre, solicita audiencia con 
+la Comisión, con el propósito de exponer acerca de “Televisión Abierta 2.5”. Sostiene que 
+el corte de luz masivo ocurrido a nivel nacional, con caída de los servicios de internet, 
+demuestra que es fundamental contar con un sistema robusto de TV Digital de Libre 
+Recepción, lo que enlaza con el sistema de alerta temprano EWBS y los sistemas de radio 
+AM y FM (análogos) en la banda VHF.
+Se tomó conocimiento
+13.- Correo electrónico del Doctor en Políticas Públicas por la Universidad de 
+Maryland at College Park, Estados Unidos, y Director del Departamento de Estudios 
+Políticos de la Universidad de Santiago de Chile, señor Mauricio Olavarría Gambi, quien ha 
+sido permanentemente invitado como experto a las sesiones de esta Comisión desde el 27 
+de noviembre de 2024. Agradece la oportunidad de aportar en la discusión del proyecto de 
+ley en tabla, y explica que se le hace difícil asistir a todas las reuniones porque su agenda 
+de trabajo es intensa, tanto en su rol de director como en sus obligaciones de investigación 
+científica y docencia. Sugiere repensar el rol o modo en cómo pueden colaborar en este 
+importante proyecto de ley y pone a disposición de los señores diputados una carpeta* con 
+los trabajos, análisis del proyecto de ley y los comentarios que en la Mesa de Inteligencia 
+Artificial y Políticas Públicas de la Comisión Futuro del Senado han ido produciendo con el 
+propósito de colaborar y apoyar la elaboración de esta importante ley.
+Se tomó conocimiento
+V.- ACUERDOS
+Se adoptaron los siguientes acuerdos:
+1.- Recibir en una próxima sesión, al Representante de la Organización Europea 
+para la Investigación Astronómica en el Hemisferio Austral (ESO), a fin de que se refiera a 
+la preocupación de la ESO ante la situación crítica que enfrentan los cielos del norte de 
+Chile.
+2.- Recibir en una próxima sesión, al señor Daniel Henríquez Ilic, a fin de que se 
+refiera a la “Televisión Abierta 2.5”.
+VI.- VARIOS
+La diputada Paula Labra preguntó al Ejecutivo a qué se debía la urgencia para 
+despachar el proyecto el 17 de marzo.
+La señora Paloma Herrera, asesora legislativa del Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación, respondió que la premura estaba relacionada 
+con la entrada en vigencia de la ley de datos personales y la ley marco en ciberseguridad. 
+Precisó que, desde una perspectiva de gobernanza de datos, era fundamental completar la 
+triada conformada por esas normativas y el proyecto de ley sobre inteligencia artificial, con 
+el objetivo de fortalecer el marco regulatorio en Chile.
+Además, dijo que la Agencia de Protección de Datos Personales sería la entidad 
+encargada de su implementación, por lo que el proyecto le proporcionaría un mayor 
+contexto para iniciar sus funciones con un enfoque en el uso ético y responsable de los 
+sistemas de inteligencia artificial.
+El diputado Tomás Lagomarsino comentó que la urgencia del Ejecutivo reflejaba 
+la importancia que este otorgaba al proyecto. Sin embargo, advirtió que, debido a su 
+complejidad, no era realista intentar despacharlo en el plazo legal de catorce días, pues la 
+Comisión sesionaba una a dos veces por semana, avanzando aproximadamente medio 
+artículo por sesión. En consecuencia, difícilmente se podría acelerar el ritmo de trabajo de 
+manera significativa.
+Mencionó que compartía la preocupación de la diputada Labra, pero que, dado el 
+ritmo en que se estaba avanzando, el apuro para despachar el proyecto en dos semanas 
+no tenía fundamento.
+3
+--- PÁGINA 4 ---
+El diputado Johannes Kaiser manifestó su desacuerdo con la suma urgencia 
+impuesta por el Ejecutivo, recordando que el día anterior ya había señalado en la Sala que 
+era inviable que el gobierno enviara 25 proyectos con dicha calificación. Argumentó que, si 
+bien entendía la intención de mandar señales políticas, la suma urgencia debía reservarse 
+para situaciones excepcionales, como desastres o emergencias que requieran una 
+respuesta inmediata.
+En ese contexto, consideró que el Ejecutivo estaba condicionando a los 
+parlamentarios a incumplir la normativa constitucional, debido a la imposibilidad material de 
+procesar todas estas iniciativas. Explicó que el Congreso intentaba responder de manera 
+diligente, a diferencia de legislaturas anteriores, en que simplemente se ignoraban las 
+urgencias. Sin embargo, insistió en que las condiciones impuestas hacían inviable acatar 
+los plazos y agregó que nadie podía ser obligado a cumplir lo imposible.
+La diputada Paula Labra coincidió con lo señalado previamente por el diputado 
+Johannes Kaiser y, más allá de los aspectos administrativos y procedimentales, quiso 
+referirse al fondo del asunto. Destacó que, hasta ese momento, solo se habían aprobado 
+cinco de los treinta artículos del proyecto, lo que representaba menos de una cuarta parte 
+del total. Por lo tanto, consideró poco realista pensar que podrían completar la revisión en 
+dos semanas de manera adecuada.
+No obstante, la parlamentaria valoró que el Ejecutivo estuviera considerando la 
+importancia de hacer coincidir la iniciativa con la ley sobre protección de datos personales 
+y con la ley sobre ciberseguridad. Señaló que en el proyecto de ley se incluían indicaciones 
+y atribuciones a las agencias encargadas de estas normativas en materia sancionatoria.
+No obstante, subrayó que ni la ley sobre protección de datos personales ni la ley 
+sobre ciberseguridad mencionaban la inteligencia artificial. Por esta razón, planteó al 
+Ejecutivo y a sus colegas la posibilidad de que resultara más congruente y eficiente 
+incorporar las modificaciones necesarias directamente en esas leyes, en lugar de avanzar 
+apresuradamente con el proyecto en discusión para luego modificar las normativas 
+existentes.
+En su opinión, esta alternativa permitiría una mejor regulación del uso de la 
+inteligencia artificial dentro de un marco legal más sólido y coherente.
+El diputado Hernán Palma destacó que la discusión de este tema había sido 
+detenida en enero, pero que esa misma mañana, de manera extraoficial, escucharon a la 
+ministra, ya que la reunión formal había fracasado. Adujo que el Ejecutivo había recogido 
+todas las observaciones y trabajado intensamente, incluso en horarios extraordinarios, para 
+elaborar un pacto de indicaciones. Para él, esto evidenciaba una disposición a trabajar, que 
+incluso ocupó el período estival.
+El diputado enfatizó que los parlamentarios estaban convocados precisamente para 
+trabajar y que la discusión debía enfocarse en avanzar, en este y otros temas, con la mayor 
+urgencia posible. Expresó que la ciudadanía reclamaba por la lentitud de los procesos en 
+el Congreso, ya que estos solían trabarse por diversas fórmulas que se habían convertido 
+en una costumbre dentro de la institución. Comentó que había presenciado personalmente 
+cómo al menos dos o tres proyectos se habían entrampado por razones que, a su juicio, 
+resultaban incomprensibles e injustificables para la ciudadanía.
+La diputada Érika Olivera, Presidenta accidental, otorgó la palabra a la diputada 
+Marcela Riquelme para que se refiriera a la intención del Ejecutivo de sacar adelante el 
+proyecto de ley sobre inteligencia artificial en marzo.
+La diputada Marcela Riquelme inició su intervención mencionando que había 
+pensado en citar una frase del emperador Marco Aurelio, pero optó por una más sencilla: 
+“No dejes para mañana lo que puedes hacer hoy”. Reflexionó sobre la dinámica de las 
+sesiones y observó que, a pesar del ambiente constructivo y colaborativo de la Comisión, 
+cada reunión se centraba en debatir sobre la urgencia del tema, en lugar de avanzar en la 
+discusión de los artículos. Constantemente se planteaban dudas sobre si debían votar, si 
+era necesario postergar la decisión o si se debían revisar nuevamente ciertos aspectos.
+4
+--- PÁGINA 5 ---
+Destacó que el Ejecutivo, los parlamentarios y sus equipos habían mostrado una 
+gran disposición a recoger las observaciones e indicaciones en cada sesión, lo que 
+consideró un hecho inédito en términos de construcción legislativa. Subrayó que la 
+discusión había sido lenta precisamente porque se habían tomado en cuenta las 
+sensibilidades de todos los involucrados.
+Por ello, instó a dejar de cuestionar si el tema era urgente y, en cambio, a avanzar 
+en la discusión y votación de cada artículo. Argumentó que ya existía suficiente evidencia 
+de la voluntad de diálogo y reforma por parte de todos los actores, incluido el Ejecutivo.
+Finalmente, manifestó que continuar debatiendo sobre la urgencia era infructuoso y 
+llamó a concentrarse en el análisis y votación de los artículos pendientes.
+El diputado Rubén Oyarzo sostuvo que, aunque el proyecto de ley contaba con 
+urgencia, el debate podía extenderse hasta septiembre, si fuera necesario. Consideró que 
+este proyecto era de gran relevancia no solo para el país, sino también para el continente, 
+ya que se trataba de la primera iniciativa legislativa sobre inteligencia artificial en 
+Sudamérica. Por esta razón, estimó fundamental tomarse el tiempo adecuado para 
+discutirlo de manera democrática y detallada.
+Propuso que, si bien el proyecto tenía carácter urgente, se considerara la posibilidad 
+de sesionar otros días, sin que ello significara omitir el debate ni acelerar su trámite 
+legislativo. Subrayó que, aunque la urgencia era un factor a considerar, no se debía avanzar 
+de manera precipitada en los artículos con los que algunos parlamentarios pudieran no 
+estar de acuerdo o sobre los cuales se quisieran proponer indicaciones.
+Destacó que el ejercicio democrático de discusión y análisis debía mantenerse, tal 
+como se realizaba en todas las comisiones del Congreso. Reiteró que este proyecto de ley 
+era pionero en Sudamérica y que su correcta elaboración demostraría la capacidad del país 
+para legislar sobre un tema en constante evolución. Advirtió que, dada la velocidad con la 
+que avanzaba la inteligencia artificial, probablemente surgirían nuevos desafíos al momento 
+de la entrada en vigor de la ley.
+Por ello, el parlamentario insistió en su propuesta de sesionar en días adicionales, 
+sin interferencias con otras comisiones, para avanzar en el proyecto sin limitar el necesario 
+debate legislativo.
+El diputado Daniel Lilayu manifestó su total acuerdo con lo señalado por su colega 
+Rubén Oyarzo, destacando que el proyecto de ley en cuestión era de gran importancia para 
+el país. En ese sentido, consideró que no debía abordarse con premura, sino que debía 
+darse el tiempo necesario para su correcta elaboración.
+Se refirió a la expectativa ciudadana, indicando que la gente esperaba que el 
+Congreso actuara de manera responsable en la tramitación de esta iniciativa, dado su 
+carácter pionero. Subrayó que las palabras clave en esta discusión eran “importante” y 
+“pionera”, tal como lo había mencionado el diputado Oyarzo, y reafirmó su coincidencia con 
+esa perspectiva.
+Siguiendo el tono de la diputada Marcela Riquelme, quien había citado una frase en 
+su intervención, Lilayu compartió una máxima utilizada por los cirujanos chilenos en 
+pabellón: “Hay que apurarse lentamente”. Explicó que, si bien era necesario avanzar con el 
+proyecto, debía hacerse con cautela y precisión, asegurando un trabajo bien realizado.
+Finalmente, reiteró su total acuerdo con lo expresado previamente por la diputada 
+Paula Labra.
+El diputado Johannes Kaiser hizo presente su preocupación respecto de la 
+viabilidad de una legislación sobre inteligencia artificial en el país, mencionado que, según 
+lo comentado por la diputada Labra, los sistemas más avanzados de inteligencia artificial, 
+los de empresas como Meta, no están siendo implementados en Europa debido a 
+restricciones legales, lo que podría obligar a una modificación de su legislación. Asimismo, 
+señaló que Estados Unidos probablemente esté en proceso de formalizar su propia 
+normativa.
+5
+--- PÁGINA 6 ---
+El diputado planteó la duda de si una legislación local podría volverse inaplicable 
+debido a regulaciones extranjeras, advirtiendo que ser pioneros en este ámbito no sería 
+necesariamente beneficioso, en especial si no se cuenta con suficientes herramientas o 
+experiencia comparada.
+Destacó que los principales desarrolladores de inteligencia artificial son China, 
+Japón, Europa, Estados Unidos e Israel, mientras que Chile carece de una base sólida para 
+formalizar una legislación adecuada. De hecho, recordó un caso previo en que una parte 
+del proyecto de ley prohibía el uso de una máquina sorteadora de manzanas, para 
+ejemplificar cómo una regulación mal diseñada podría generar consecuencias negativas.
+Finalmente, el parlamentario advirtió que apresurarse en la creación de una ley 
+podría resultar en una normativa inviable y no en un avance real en la regulación de la 
+inteligencia artificial.
+La diputada Érika Olivera, Presidenta accidental, mencionó finalmente que había 
+dos solicitudes de audiencia para la Comisión, registradas en los puntos 11 y 12. Por ello, 
+propuso que se acordara recibir a ambas personas que solicitaron ser escuchadas, sin 
+definir aún la fecha, ya que la prioridad era avanzar con el proyecto con suma urgencia. Por 
+lo mismo, dejó establecido que dichas audiencias se realizarían dentro de las próximas 
+semanas.
+La propuesta fue aceptada por la Comisión.
+V.- ORDEN DEL DÍA
+Se continuó con la votación en particular de los proyectos de ley boletines 16821-19 
+y 15869-19, refundidos, en primer trámite constitucional, con urgencia “suma”.
+La diputada Érika Olivera, Presidenta accidental, informó que la sesión tenía por 
+objeto continuar la votación en particular del proyecto de ley, originado en mensaje, que 
+regula los sistemas de inteligencia artificial, y una moción que regula los sistemas de 
+inteligencia artificial, la robótica y las tecnologías conexas en sus distintos ámbitos de 
+aplicación, refundidos, en primer trámite constitucional, con urgencia calificada de suma.
+Acto seguido, destacó la presencia de las asesoras legislativas de la ministra de 
+Ciencia, Tecnología, Conocimiento e Innovación, señoras Camila Aguayo y Paloma 
+Herrera.
+Finalmente, solicitó a la señora Secretaria de la Comisión que contextualizara el 
+estado en que había quedado la discusión y votación del proyecto, con el fin de retomarlo 
+y continuar avanzando en su tramitación.
+Artículo 4, letra k) e inciso final
+La señora María Soledad Fredes, Secretaria, dijo que en la sesión anterior había 
+quedado pendiente la definición del concepto de “explicabilidad” dentro del artículo 4 del 
+proyecto de ley. Debido a esto, también se había dejado sin resolver el inciso final de dicho 
+artículo.
+La Secretaria mencionó que el Ejecutivo había ingresado nuevas indicaciones 
+relacionadas con este tema. Explicó que, aunque en la mañana no se había llevado a cabo 
+la sesión, la señora ministra había aprovechado la oportunidad para presentar brevemente 
+a los diputados presentes el sentido de estas modificaciones.
+A continuación, anunció que procedería a dar lectura a la nueva indicación 
+presentada sobre el tema. Para facilitar su comprensión, explicó que todas las nuevas 
+indicaciones del Ejecutivo habían sido identificadas con una letra que acompaña al número 
+respectivo, por lo que la indicación en cuestión correspondía a la 9 A.
+9 A) Del Ejecutivo para modificar el artículo 4 en el siguiente sentido:
+“a) Agrégase, a continuación del literal j), el siguiente literal k), nuevo:
+“k) Explicabilidad: Los sistemas de IA se crearán, desarrollarán, innovarán, 
+implementarán y usarán de manera que sus resultados o salidas sean comprensibles e
+6
+--- PÁGINA 7 ---
+inteligibles para las personas a las que impacte, promoviendo la transparencia y la 
+trazabilidad en todas sus operaciones.”.
+b) Reemplázase el inciso final por el siguiente:
+“El Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, la Agencia de 
+Protección de Datos Personales (en adelante, “APDP”) y la Agencia Nacional de 
+Ciberseguridad (en adelante, “ANCI”), incorporarán estos principios en las distintas 
+orientaciones destinadas a prestar asistencia al operador en cuanto al modo de desarrollar 
+y utilizar sistemas de IA, así como al momento de regular y fiscalizar dentro de sus esferas 
+de competencia. Lo anterior, se entenderá sin perjuicio de las directrices y lineamientos 
+sobre esta materia que la Secretaría de Gobierno Digital del Ministerio de Hacienda pueda 
+dictar en el ámbito de sus potestades legales.”.
+La señora Paloma Herrera explicó que la primera indicación presentada tenía como 
+propósito incorporar el principio de explicabilidad en el proyecto de ley.
+Señaló que, aunque en la letra d) ya se había consagrado el principio de 
+transparencia e identificación, el de explicabilidad había quedado excluido durante el debate 
+legislativo. Sin embargo, destacó que su inclusión era fundamental, ya que exige a los 
+operadores de los sistemas de inteligencia artificial proporcionar información adecuada 
+según el destinatario.
+Detalló que la explicabilidad permite diferenciar entre los distintos tipos de 
+información que deben entregarse según el público objetivo. Por ejemplo, un desarrollador 
+técnico requiere detalles sobre algoritmos y el funcionamiento del sistema, mientras que un 
+ciudadano o usuario final necesita una explicación clara y comprensible, sin tecnicismos, 
+apoyada en ejemplos prácticos.
+Finalmente, explicó que la modificación al inciso final tenía por objeto vincular a las 
+instituciones relacionadas con el uso de sistemas de inteligencia artificial y que se había 
+especificado la labor de colaboración y los lineamientos que debían seguirse, en particular, 
+entre la Agencia de Protección de Datos Personales (APDP) y la Agencia Nacional de 
+Ciberseguridad (ANCI).
+La diputada Paula Labra reiteró una pregunta haciendo referencia a la letra b) de la 
+indicación del Ejecutivo, ya que anteriormente no se le había brindado respuesta. Por ello, 
+solicitó al Ejecutivo que aclarara la referencia a la ley sobre protección de la vida privada y 
+a la ley marco de ciberseguridad. Asimismo, pidió que se analizara y se discutiera en la 
+sesión la posibilidad de actualizar ambas leyes, pues ninguna de las dos mencionaba la 
+inteligencia artificial, lo que le parecía gravísimo.
+La señora Paloma Herrera explicó que, históricamente, tanto la el proyecto de ley 
+sobre protección de la vida privada como el proyecto de ley marco sobre ciberseguridad 
+tuvieron tramitaciones extensas. Señaló que el debate sobre inteligencia artificial no había 
+surgido recientemente, ya que se habían presentado proyectos anteriores; sin embargo, 
+dichas leyes no abordaron el tema, dado que en su momento no se consideraba relevante.
+Luego, argumentó que lo que buscaba la iniciativa en debate tenía como objetivo 
+complementar estas normas mediante el fomento de un uso responsable y ético de la 
+inteligencia artificial, imponiendo responsabilidades a los operadores y fortaleciendo el 
+desarrollo tecnológico del país. Concluyó que, para el Ejecutivo, este proyecto era de suma 
+importancia y merecía una tramitación propia.
+El diputado Tomás Lagomarsino explicó que, aunque los proyectos de ley se 
+tramitaran por separado, en conjunto regulaban de forma integral cada materia. Ilustró su 
+planteamiento con el ejemplo del sector salud, señalando que, aunque en la Ley N° 19.966 
+no se mencionaba al médico, dicha ley se articulaba con otras normas del mismo sector. 
+Asimismo, manifestó que en el ámbito de la tecnología se estaban creando cuerpos 
+legislativos complementarios, los cuales no necesitaban citarse estrictamente entre sí, ya 
+que establecían un marco regulatorio en conjunto.
+Posteriormente, afirmó que el Ejecutivo buscaba articular estas leyes y recordó que 
+la discusión de la ley sobre protección de datos personales se había prolongado, ya que, 
+en ese entonces, la inteligencia artificial no era tema de consideración. Asimismo, sostuvo
+7
+--- PÁGINA 8 ---
+que aún era posible perfeccionar los proyectos y que el Senado realizaría otras 
+perfecciones en el futuro, dado que los distintos trámites legislativos permitían ir afinando 
+cada norma.
+La diputada Paula Labra señaló que, al revisar la Ley N° 19.966, había observado 
+la reiterada mención de la palabra “médico”. Posteriormente, argumentó que, aunque en su 
+momento no se contemplaba el concepto de inteligencia artificial, era importante incluirlo 
+ahora. Explicó que se estaban asignando atribuciones a las agencias relacionadas con el 
+proceso sancionatorio y que se estaba trabajando en las infracciones que establece el 
+proyecto de ley que busca regular la inteligencia artificial, ya que el mal uso de dicha 
+tecnología -por ejemplo, la manipulación de fotos personales- vulneraba la protección de 
+datos.
+Finalmente, la diputada recomendó al Ejecutivo actualizar ambas leyes o, en su 
+defecto, analizar y debatir la necesidad de dicha actualización en el marco de los proyectos 
+legislativos.
+El diputado Johannes Kaiser explicó que para impedir una conducta se sanciona 
+específicamente dicha conducta o el daño ocasionado por la falta de cuidado, y que la 
+mayoría de las sanciones ya estaban establecidas en la legislación vigente.
+Finalmente, mencionó que la iniciativa legislativa que regula la inteligencia artificial 
+duplicaba elementos ya existentes. Por lo mismo, planteó preguntas sobre el objetivo de 
+regular la tecnología, en cuanto a si se pretendía impedir un resultado específico o 
+simplemente que sea regulada de una forma determinada por el Estado. En este sentido, 
+manifestó que esta reflexión era necesaria para definir qué se quería alcanzar con el 
+proyecto.
+La diputada Érika Olivera, Presidenta accidental, puso en votación la letra a) de 
+la indicación 9 A), del Ejecutivo, que propone modificar el artículo 4 en los siguientes 
+términos:
+a) Agrégase, a continuación del literal j), el siguiente literal k), nuevo:
+“k) Explicabilidad: Los sistemas de IA se crearán, desarrollarán, innovarán, 
+implementarán y usarán de manera que sus resultados o salidas sean comprensibles e 
+inteligibles para las personas a las que impacte, promoviendo la transparencia y la 
+trazabilidad en todas sus operaciones.”.
+Puesta en votación, la indicación fue aprobada por mayoría de votos. Votaron a 
+favor las diputadas Helia Molina, Érika Olivera y Marcela Riquelme, y los diputados Tomás 
+Lagomarsino, Rubén Oyarzo y Hernán Palma. Votaron en contra la diputada Paula Labra y 
+el diputado Johannes Kaiser. No hubo abstenciones (6-2-0).
+La diputada Érika Olivera, Presidenta accidental, puso en votación la letra b) de 
+la indicación 9 A), del Ejecutivo, para modificar el artículo 4 en los siguientes términos:
+“b) Reemplázase el inciso final por el siguiente:
+“El Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, la Agencia de 
+Protección de Datos Personales (en adelante, “APDP”) y la Agencia Nacional de 
+Ciberseguridad (en adelante, “ANCI”), incorporarán estos principios en las distintas 
+orientaciones destinadas a prestar asistencia al operador en cuanto al modo de desarrollar 
+y utilizar sistemas de IA, así como al momento de regular y fiscalizar dentro de sus esferas 
+de competencia. Lo anterior, se entenderá sin perjuicio de las directrices y lineamientos 
+sobre esta materia que la Secretaría de Gobierno Digital del Ministerio de Hacienda pueda 
+dictar en el ámbito de sus potestades legales.”.”.
+Puesta en votación, la indicación fue aprobada por mayoría de votos. Votaron a 
+favor las diputadas Helia Molina, Érika Olivera y Marcela Riquelme, y los diputados Tomás 
+Lagomarsino, Rubén Oyarzo y Hernán Palma. Se abstuvieron la diputada Paula Labra y el 
+diputado Johannes Kaiser. No hubo votos en contra (6-0-2).
+La letra k) y el inciso final de la indicación 9 ter) del diputado Palma no fueron 
+puestos en votación por ser contradictorios con las ideas ya aprobadas del proyecto, de 
+conformidad con el inciso tercero del artículo 296 del Reglamento de la Corporación.
+8
+--- PÁGINA 9 ---
+Título II 
+Artículo 6
+La señora María Soledad Fredes, Secretaria, a petición de la diputada Olivera, dio 
+lectura a la indicación 22 A), del Ejecutivo, para reemplazar el epígrafe del Título II: “Uso de 
+riesgo inaceptable de sistemas de inteligencia artificial.”.
+Luego, leyó la indicación 22 B), del Ejecutivo, para reemplazar el artículo 6 por el 
+siguiente: “Artículo 6.- Usos de riesgo inaceptable de sistemas de IA. Serán usos de 
+sistemas de IA de riesgo inaceptable aquellos comprendidos en algunas de las siguientes 
+categorías:
+a) Manipulación subliminal: sistemas de IA que emplean técnicas imperceptibles 
+para las personas y que tienen como objeto o efecto directo la inducción de acciones que 
+causan daños a la salud física y/o mental.
+Esta prohibición no se aplicará a los sistemas de IA destinados a ser utilizados para 
+fines terapéuticos autorizados sobre la base de un consentimiento informado, específico y 
+expreso de las personas expuestas a ellos o, en su caso, de su representante legal o 
+judicial, además de la autorización sanitaria respectiva, de ser procedente.
+b) Explotación de características de las personas para generar comportamientos 
+dañinos: sistemas de IA que aprovechan o explotan características conocidas de las 
+personas, como los rasgos de personalidad, situación social o económica rango etario, 
+información relativa a la vida sexual, orientación sexual, identidad de género, la capacidad 
+física o mental , entre otros, que tengan por objeto alterar de manera sustancial su 
+comportamiento o limitar su voluntad, vulnerando los derechos fundamentales y/o 
+provocando perjuicios a las personas.
+Asimismo, se entenderán incluidos dentro de esta categoría aquellos usos de 
+sistemas de IA que sean dañinos y/o afecten la honra, la integridad y el libre desarrollo de 
+la sexualidad de las personas, en particular, aquellos cuyos usos pueda significar una 
+vulneración de los derechos de niños, niñas y adolescentes, de acuerdo con lo dispuesto 
+en la ley N° 21.430.
+c) Categorización de personas basadas en datos personales sensibles: sistemas de 
+categorización biométrica u otras técnicas de tratamiento de datos que clasifiquen e 
+identifiquen a personas naturales con arreglo a datos personales sensibles, o que partan 
+de la base de una inferencia respecto a dichos atributos o características, de modo tal que 
+dicha categorización provoque una discriminación ilegal o arbitraria.
+Esta prohibición no se aplicará a los sistemas de IA destinados a ser utilizados para 
+fines terapéuticos autorizados sobre la base de un consentimiento informado, específico y 
+expreso, de las personas naturales expuestas a ellos o, en su caso, de su representante 
+legal o judicial, además de la autorización sanitaria respectiva, de ser procedente.
+d) Calificación social genérica: sistemas de IA que tienen por finalidad evaluar o 
+clasificar a personas o grupos de personas naturales en función de su comportamiento 
+social, su nivel socioeconómico o sus características personales o de personalidad 
+conocidas o inferidas, de modo tal que su calificación resultante provoque una 
+discriminación ilegal o arbitraria sobre dichas personas o grupos de personas.
+e) Identificación biométrica remota en espacios de acceso público en tiempo real: 
+sistemas de IA utilizados para el análisis de imágenes de vídeo en espacios de acceso 
+público que emplean sistemas de identificación biométrica remota en tiempo real.
+Esta prohibición no será aplicable, en caso de que el sistema de IA sea utilizado 
+estrictamente por las autoridades y órganos encargados de la seguridad pública y 
+organismos de persecución penal, con el objetivo de prevenir, investigar, detectar y, 
+eventualmente, ejecutar sanciones penales, incluidas la protección y prevención frente a 
+amenazas para la seguridad pública, de conformidad con la ley.
+f) Extracción no selectiva de imágenes faciales: sistemas de IA  que crean o amplían 
+bases de datos de reconocimiento facial mediante la extracción no selectiva de imágenes 
+faciales a partir de internet o de imágenes de circuito cerrado de televisión.
+9
+--- PÁGINA 10 ---
+g) Evaluación de los estados emocionales de una persona: sistemas de IA que 
+pretenden inferir las emociones de una persona natural en los ámbitos de la aplicación de 
+la ley penal, procesal penal y la gestión de fronteras, en lugares de trabajo y en centros 
+educativos.”.
+El diputado Tomás Lagomarsino propuso que la discusión y votación de los temas 
+se realizara por separado, debido a que cada uno cuenta con características particulares.
+En relación con el primer punto, mencionó que en la Unión Europea se había 
+desarrollado un debate sobre este tema, especialmente en el ámbito de la publicidad, y que 
+muchos productos publicitados no eran necesariamente beneficiosos para la salud. 
+Mencionó como ejemplo el que, aunque la publicidad del cigarro había sido restringida, la 
+del alcohol aún seguía relativamente abierta.
+A continuación, sostuvo que la publicidad en sí misma constituía una forma de 
+manipulación y destacó que se debía discutir el uso de la inteligencia artificial en la 
+elaboración de publicidad de productos que pudieran ser perjudiciales para la salud física 
+o mental.
+Finalmente, explicó que en la Unión Europea se había planteado la posibilidad de 
+restringir el uso de inteligencia artificial en la publicidad, pero que las limitaciones debían 
+ser establecidas por leyes específicas para cada ámbito.
+El diputado Johannes Kaiser señaló varios aspectos relacionados con el uso de la 
+inteligencia artificial y la clasificación de personas según su comportamiento social.
+En primer lugar, hizo una crítica a la idea de clasificar a personas o grupos en función 
+de su comportamiento, ejemplificando con el caso del robo hormiga en un supermercado. 
+Argumentó que, aunque la discriminación ilegal o arbitraria debe evitarse, la inteligencia 
+artificial podría discriminar de manera ilegal si se le proporcionan parámetros erróneos, 
+como clasificar a personas de cierto color de piel.
+Expresó, sin embargo, que, si los datos son efectivos y no manipulados, esto no 
+sería una discriminación arbitraria, aunque reconoció que existe una contradicción en ese 
+enfoque.
+Se refirió también a la identificación biométrica, cuestionando la diferencia entre su 
+uso por parte de un civil y por parte del Estado. Criticó la visión de que, si el Estado 
+implementa estos sistemas con fines de seguridad, sería algo positivo, señalando a China 
+como un ejemplo de lo que no quiere para Chile.
+Consideró que, aunque el uso de la inteligencia artificial por parte del Estado podría 
+ser aceptable en un sistema político relativamente libre, con tribunales independientes, 
+también podría ser problemático si en el futuro algún gobierno abusara de estos 
+mecanismos para su propio beneficio.
+En este sentido, mencionó que incluso en una sociedad libre el Estado podría ser 
+un peligro para los ciudadanos, recordando incidentes pasados en los que funcionarios del 
+gobierno mostraron comportamientos cuestionables.
+Sugirió que excluir al Estado de la evaluación de riesgos en el uso de la inteligencia 
+artificial, bajo la premisa de que las fuerzas de seguridad y los políticos al mando siempre 
+son confiables, era una visión ahistórica y contrafáctica.
+Por último, expresó su inquietud al sentir que no se está aprendiendo de 
+experiencias anteriores.
+La diputada Paula Labra hizo énfasis en la importancia de la regulación de los 
+riesgos inaceptables, aclarando que estos implican actividades prohibidas. Subrayó que es 
+crucial definir de manera clara y precisa qué constituye un uso de riesgo inaceptable, para 
+evitar que cualquier cosa pueda ser considerada prohibida de forma arbitraria.
+En este sentido, destacó que el proyecto de ley es restrictivo y que se deben tomar 
+el tiempo necesario para discutir cada palabra del mismo, apoyando la idea planteada por 
+el diputado Lagomarsino de revisar el texto palabra por palabra.
+10
+--- PÁGINA 11 ---
+Después, se centró en el tema de la manipulación subliminal, mencionando los 
+daños que estas técnicas pueden causar a la salud física o mental; en particular, pidió al 
+Ejecutivo aclarar qué se entiende por técnica imperceptible, ya que la ambigüedad en este 
+aspecto podría llevar a interpretaciones problemáticas.
+Ofreció también un ejemplo práctico relacionado con las redes sociales, como 
+Instagram, en la que los algoritmos de inteligencia artificial muestran contenido que coincide 
+con las preferencias del usuario. En su ejemplo, si una persona ve constantemente 
+imágenes de mujeres con cuerpos perfectos y saludables, podría desarrollar problemas de 
+autoestima y salud mental al sentirse distante de esos ideales, lo que vendría a ser un 
+efecto negativo de una técnica subliminal. Según señaló la parlamentaria, este tipo de 
+efectos podría depender de cada individuo y de cómo cada persona reaccione, lo que hace 
+aún más importante definir claramente los conceptos de objeto y efecto en el proyecto de 
+ley.
+Concluyó reiterando que la definición precisa de técnicas imperceptibles y de lo que 
+se entiende por daño a la salud física o mental es crucial para evitar que cualquier práctica 
+pueda caer bajo la categoría de prohibida sin justificación adecuada.
+Finalmente, aseguró que la discusión sobre estos puntos debe tomarse con seriedad 
+para evitar consecuencias no deseadas.
+La diputada Érika Olivera, Presidenta accidental, otorgó la palabra a la 
+representante del ministerio con el fin de que las dudas planteadas pudiesen ser aclaradas.
+La señora Paloma Herrera aclaró que la inclusión de la manipulación subliminal en 
+el proyecto de ley no tenía como objetivo restringir la publicidad. Según explicó, el propósito 
+de esta regulación es abordar los usos de sistemas de inteligencia artificial, y destacó que 
+este concepto se refiere específicamente a efectos directos, sin dar lugar a interpretaciones 
+ambiguas.
+Ofreció el ejemplo de un chatbot diseñado para proporcionar asistencia emocional 
+en situaciones de crisis, en el sentido de que si dicho chatbot ofreciera recomendaciones 
+que pusieran en peligro la vida de la persona, estos usos de la inteligencia artificial serían 
+prohibidos, ya que causarían un daño directo a la salud mental o física.
+Reiteró que la intención del proyecto no es regular la publicidad ni las redes sociales, 
+ya que estas plataformas, y el comercio en general, operan a través de algoritmos que 
+permiten un uso personalizado del contenido.
+Por último, destacó la importancia de definir claramente los parámetros y alcances 
+de la ley para evitar malentendidos sobre su aplicación.
+El diputado Tomás Lagomarsino aludió a la validez de lo planteado por la diputada 
+Labra, a propósito de la definición de riesgo inaceptable, y coincidió en que la idea de 
+impedir el uso de inteligencia artificial cuyo objeto sea crear daño no debería generar 
+controversia, pero señaló que la palabra “efecto”, contenida en el texto en votación, podía 
+abrir un espacio de discusión más amplio, ya que cualquier acción podría generar un efecto 
+no deseado, lo que podría llevar a una limitación excesiva.
+El señor diputado propuso que los miembros de la Comisión, en conjunto con el 
+Ejecutivo, reflexionaran sobre si votar exclusivamente la indicación o si modificarla, dado 
+que la propuesta es demasiado extensa. Además, indicó que sería útil excluir 
+explícitamente de la ley las limitaciones a la inteligencia artificial con fines publicitarios, de 
+modo similar a lo que se había hecho en la Unión Europea. En ese contexto, indicó que la 
+prohibición de la publicidad del tabaco, por ejemplo, debería tratarse en una ley específica, 
+no dentro de la ley sobre inteligencia artificial.
+Cerró su intervención reiterando la importancia de dedicar tiempo a este tema y 
+expresó su disposición a seguir el proceso de la manera que la Presidenta considerara más 
+pertinente para llegar a una solución adecuada.
+La diputada Paula Labra intervino para expresar su acuerdo con el diputado 
+Lagomarsino en cuanto a que el tema en discusión no era sencillo y requería aclaraciones.
+11
+--- PÁGINA 12 ---
+Señaló que era necesario aterrizar la discusión, llevándola de la teoría a la práctica, para 
+poder tomar decisiones claras y aplicables.
+Luego, planteó una consulta concreta al Ejecutivo para llegar a un entendimiento 
+más preciso sobre la cuestión. Como ejemplo mencionó el uso de Waze, una aplicación 
+que emplea inteligencia artificial para mostrar la mejor ruta hacia un destino determinado, y 
+expuso el caso hipotético de que una persona, al seguir las indicaciones de la aplicación, 
+terminara tomando un desvío que provocara un choque, a pesar de que el objetivo del 
+sistema era positivo: ayudar a llegar al destino.
+La diputada planteó la pregunta de si este tipo de situaciones quedaría prohibido 
+bajo la regulación, ya que, aunque el objeto de la inteligencia artificial, que es guiar al 
+usuario, era bueno, el efecto -el daño a la salud física y mental por el accidente- podría 
+considerarse negativo.
+Pidió una respuesta concreta y clara a esta consulta, subrayando la importancia de 
+definir bien los límites de lo que se consideraría prohibido.
+La diputada Marcela Riquelme, respondiendo a lo expresado por la diputada Labra, 
+dijo que en su ejemplo el objetivo del algoritmo era causar un daño a través de otro 
+mecanismo, es decir, había intención, porque si el daño es producto de la casualidad, no 
+puede considerarse una consecuencia directa.
+La diputada Paula Labra manifestó que había que basarse en el texto, pero que, en 
+atención a los alcances de la diputada Riquelme, era necesario que el Ejecutivo expresara 
+su parecer, pues conocía perfectamente la redacción y los objetivos del proyecto, así que 
+podía precisar si su ejemplo aplicaba o no.
+La señora Paloma Herrera respondió que el ejemplo de la diputada Labra no 
+clasificaba como manipulación subliminal, puesto que no se buscaba influir en una persona 
+de forma imperceptible.
+El diputado Johannes Kaiser planteó que existen varios tipos de manipulación. A 
+modo de ejemplo, dijo que, como era sabido en el ámbito político, se podían manipular 
+opiniones, percepciones y autopercepciones, entre otros pensamientos. De hecho, sostuvo 
+que dichas estrategias operaban de manera sistemática y que, en ocasiones, los 
+manipuladores actuaban de manera inconsciente. A su vez, agregó que la manipulación no 
+siempre tenía un propósito negativo, sino que podía orientarse hacia fines positivos.
+Con base en lo anterior, afirmó que era difícil definir con precisión qué se buscaba 
+regular y bajo qué parámetros. Como ejemplo, mencionó que en la actualidad no se requiere 
+inteligencia artificial para manipular a naciones enteras al objeto de que vayan a la guerra.
+La diputada Paula Labra no se mostró conforme con la respuesta del Ejecutivo e 
+insistió en la necesidad de precisar los alcances de la indicación, para lo cual reiteró el 
+ejemplo de que, mediante un video hecho con inteligencia artificial, se induzca 
+subliminalmente a consumir leche de almendras a una persona alérgica a dicho producto. 
+Luego preguntó si, en razón de la imperceptibilidad de la técnica publicitaria, el supuesto 
+beneficio del producto y el consecuente daño, se prohibía el uso de IA en ese caso, porque, 
+en su opinión, así debería ser.
+La diputada Marcela Riquelme señaló que lo subliminal es intencionado y 
+fundamentó su planteamiento citando la definición de subliminal de la Real Academia 
+Española (RAE): “Que está por debajo del umbral de la consciencia. Dicho de un estímulo 
+que, por su debilidad o brevedad, no es percibido conscientemente, pero influye en la 
+conducta.”. Con el propósito de ilustrar el punto, aludió al uso de colores específicos, según 
+el efecto que se quiera lograr o el producto a promocionar.
+En ese sentido, dijo que, en el ejemplo de la diputada Labra, el daño producido a la 
+persona alérgica no era intencional y, por tanto, no correspondía la calificación de 
+subliminal.
+Por último, sostuvo que lo anterior explicaba que el proyecto consignara que la 
+manipulación subliminal tiene “como objeto o efecto directo la inducción…”, y solicitó que 
+Ejecutivo ratificara el punto.
+12
+--- PÁGINA 13 ---
+El diputado Tomás Lagomarsino propuso, a pesar de que estaba en conocimiento 
+de que no era una técnica legislativa adecuada, presentar una indicación sobre la indicación 
+del Ejecutivo para reemplazar el segundo inciso de la letra a) por el siguiente: “Esta 
+prohibición no será aplicable a los sistemas de IA destinados a fines publicitarios, siempre 
+que sea realizada conforme a la ley, y a ser utilizados para fines terapéuticos, conforme al 
+Código Sanitario.”.
+Explicó que, a su juicio, la indicación del Ejecutivo era inapropiada, porque la 
+Comisión no era la instancia adecuada para discutir la pertinencia del consentimiento 
+informado, sino que debía ser abordado, por ejemplo, a propósito del Código Sanitario o la 
+ley que regula los derechos y deberes de los pacientes.
+Asimismo, el señor Lagomarsino sugirió eliminar la expresión “o efecto directo” y 
+mantener la palabra “objeto”.
+El parlamentario sostuvo que, de este modo, se cerraba la discusión sobre casos 
+que conllevaban perjuicios.
+La señora Paloma Herrera dijo que estaba de acuerdo en eliminar de la indicación 
+la expresión “efecto directo”. Sin embargo, consideró cuestionable mencionar solo el Código 
+Sanitario, pues existían otras leyes relacionadas con la materia, y sugirió que se mantuviera 
+la redacción, porque hace referencia a “fines terapéuticos”, a “consentimiento informado 
+específico y expreso”, y a “autorización sanitaria respectiva, de ser procedente.”. La asesora 
+argumentó, además, que incorporar el Código Sanitario hacía que la norma fuera 
+demasiado restrictiva.
+Finalmente, solicitó que se repitiera la parte sobre la excepción para poder analizar 
+con mayor detalle lo planteado sobre publicidad.
+El diputado Tomás Lagomarsino propuso consignar que la prohibición no se 
+aplicará a los sistemas de IA destinados a fines publicitarios y terapéuticos, si lo permite la 
+ley, porque se deben considerar tanto el Código Sanitario como la ley de derechos y 
+deberes de los pacientes.
+Además, solicitó que la diputada Labra hiciera uso de la palabra para referirse a la 
+propuesta, a fin de zanjar la discusión.
+La diputada Paula Labra mencionó que, inicialmente, había elaborado una 
+indicación similar a la del diputado Lagomarsino, pero que, tras la discusión, había 
+cambiado su opinión, porque el carácter interpretativo del debate había demostrado que la 
+controversia tenía la misma naturaleza.
+A mayor abundamiento, expresó su preocupación por la falta de claridad respecto 
+de conceptos fundamentales, como lo que se entendía por técnica imperceptible, pues esta 
+ambigüedad era la causa de que el proyecto propusiera una mala regulación, como dijo el 
+diputado Kaiser, a quien había comentado que Apple no introdujo sus modelos más 
+avanzados de inteligencia artificial a la Unión Europea debido a la incertidumbre regulatoria.
+Por último, la diputada Labra dijo que, a pesar de que la discusión no había logrado 
+zanjar las dudas respecto de la indicación del Ejecutivo y el panorama era incierto, valoraba 
+la propuesta del diputado Lagomarsino, porque representaba una mejora significativa.
+La señora Paloma Herrera señaló que, tras revisar la propuesta del diputado 
+Lagomarsino, había concluido que las prohibiciones se basaban en los usos de los sistemas 
+de IA y, por ello, se debía utilizar la palabra “usos”.
+Respecto de la excepción de prohibición para los sistemas de IA utilizados con fines 
+terapéuticos, explicó que no se trataba de cualquier propósito, sino de aquellos que estaban 
+autorizados y, por eso, el Ejecutivo consideraba importante las frases “sobre la base de un 
+consentimiento informado, específico y expreso” y “además de la autorización sanitaria 
+respectiva, de ser procedente.”.
+El diputado Tomás Lagomarsino hizo presente que el problema radicaba en que 
+no existía ningún procedimiento para autorizar estos fines, lo cual le generaba inquietud. 
+Explicó que, si bien la ley autorizaba el uso de medicamentos y algunos dispositivos 
+médicos, no había una legislación que permitiera lo establecido en la indicación.
+13
+--- PÁGINA 14 ---
+A modo de conclusión, señaló que utilizar la palabra “autorización” eliminaba la 
+posibilidad de aplicar sistemas de IA con fines terapéuticos.
+La señora Paloma Herrera precisó que la autorización se relacionaba con el 
+consentimiento informado, en el cual debía basarse.
+La diputada Érika Olivera, Presidenta accidental, cerró el debate y llamó a votar 
+la indicación 22 A) del Ejecutivo, que reemplaza el epígrafe del Título II por el siguiente:
+“Título II 
+USO DE RIESGO INACEPTABLE DE SISTEMAS DE INTELIGENCIA ARTIFICIAL..
+Puesta en votación, la indicación fue aprobada por mayoría. Votaron a favor las 
+diputadas Helia Molina, Érika Olivera y Marcela Riquelme y los diputados Tomás 
+Lagomarsino y Rubén Oyarzo. Votó en contra la diputada Paula Labra (5-1-0).
+La diputada Érika Olivera, Presidenta accidental, suspendió la sesión para que el 
+diputado Tomás Lagomarsino terminara de elaborar su indicación a la letra a) de la 
+indicación 22 B).
+-Transcurrido el tiempo de suspensión.
+Letra a)
+La diputada Érika Olivera, Presidenta accidental, tras reanudar la sesión, pidió a 
+la señora Secretaria que diera lectura a la indicación presentada por el diputado 
+Lagomarsino.
+La señora María Soledad Fredes, Secretaria, dio lectura a la nueva indicación del 
+diputado Lagomarsino:
+22 C) Del diputado Lagomarsino a la letra a) de la indicación 22 B del Ejecutivo:
+-Para eliminar la expresión “o efecto directo”.
+-Para reemplazar el párrafo final por el siguiente:
+“Esta prohibición no se aplicará a los sistemas de IA destinados a fines publicitarios 
+ni terapéuticos siempre que sea realizado conforme a la ley. En el caso de ser destinada a 
+fines terapéuticos, se requerirá el consentimiento informado específico y expreso de la 
+persona.”.
+Puesta en votación, la indicación fue aprobada por mayoría, con los votos a favor 
+de las diputadas y los diputados Tomás Lagomarsino, Helia Molina, Érika Olivera, Hernán 
+Palma y Marcela Riquelme. Votó en contra la diputada Paula Labra (5-1-0).
+Letra b)
+La diputada Érika Olivera, Presidenta accidental, continuó revisando la letra b) de 
+la indicación 22B y ofreció la palabra al respecto.
+La diputada Paula Labra pidió al Ejecutivo una explicación sobre ciertos fragmentos 
+del texto, indicando que algunas palabras dificultaban su comprensión. Se refirió 
+específicamente a la frase "explotación de características de las personas para generar 
+comportamientos dañinos" y su posterior mención en el texto como "sistemas de IA que se 
+aprovechan de características (...) con objeto de alterar sustancialmente su 
+comportamiento". Advirtió que el concepto general se entendía, pero que la forma en que 
+estaba redactado podía generar confusión.
+Para clarificar su inquietud, planteó como ejemplo un sistema de IA que explote una 
+particularidad como el género y excluya a todas las mujeres. Sin embargo, no logró 
+visualizar un caso en el que utilice la misma característica para alterar de manera sustancial 
+el comportamiento de una persona. Por lo tanto, solicitó una aclaración sobre este punto 
+para comprender mejor su alcance y aplicación en el proyecto de ley.
+La diputada Érika Olivera, Presidenta accidental, concedió la palabra a la señora 
+Paloma Herrera, asesora legislativa del Ministerio de Ciencia, Tecnología, Conocimiento e
+14
+--- PÁGINA 15 ---
+Innovación, para que disipara las dudas de la diputada Paula Labra sobre la indicación 22B, 
+literal b), propuesta por el Ejecutivo para el artículo 6 del proyecto de ley.
+La señora Paloma Herrera explicó que, antes de responder a la intervención de la 
+diputada Paula Labra, quería contextualizar la indicación y los cambios introducidos. Señaló 
+que el objetivo principal de esta modificación era evitar que el uso de sistemas de 
+inteligencia artificial afectara derechos fundamentales de ciertos grupos.
+Destacó que, en el inciso propuesto, se establecía que se considerarían 
+inaceptables aquellos usos de IA que dañaran o afectaran la honra, la integridad y el libre 
+desarrollo de la sexualidad de las personas. En particular, se hacía énfasis en los usos que 
+pudieran vulnerar los derechos de niños, niñas y adolescentes, conforme a lo dispuesto en 
+la ley N° 21.430. Indicó que este tema había sido discutido previamente con los asesores 
+parlamentarios.
+Recalcó que la intención de la indicación era evitar el uso abusivo de los sistemas 
+de IA, especialmente en aspectos que pudieran generar discriminación basada en la 
+situación socioeconómica, la edad o la formación relativa a la vida sexual de las personas. 
+Finalmente, reiteró que estos eran los puntos centrales de la propuesta presentada por el 
+Ejecutivo.
+La señora Camila Aguayo, asesora legislativa del Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación, intervino para responder la pregunta formulada por 
+la diputada Paula Labra.
+Para ilustrar su respuesta, presentó un ejemplo concreto en el ámbito de la salud. 
+Explicó que un sistema de inteligencia artificial podía utilizar características conocidas, 
+como enfermedades preexistentes, para categorizar a los pacientes según el tipo de plan 
+de salud al que podían acceder dentro de un determinado sistema. Remarcó que este tipo 
+de uso de IA podía generar consecuencias relevantes y que se podían encontrar otros 
+ejemplos similares en función de distintas características, más allá del género, como en el 
+caso de las enfermedades preexistentes en el sector salud.
+La diputada Paula Labra agradeció los ejemplos entregados por las asesoras 
+legislativas del ministerio de Ciencia y manifestó su conformidad con ellos, considerándolos 
+pertinentes. Sin embargo, expresó que, aunque comprendía que el ejemplo mencionado 
+sobre categorización de personas en el ámbito de la salud podía vulnerar derechos 
+fundamentales, aún no lograba entender cómo este uso de la inteligencia artificial 
+conseguiría alterar sustancialmente el comportamiento de manera dañina.
+Ante esta duda, reiteró su solicitud de aclaración sobre este punto en particular.
+El diputado Tomás Lagomarsino comenzó aclarando que, si bien no consideraba 
+que el Ejecutivo estuviera copiando directamente normativas extranjeras, reconocía que se 
+estaba observando con atención la regulación establecida por la legislación europea. 
+Comentó que él mismo había utilizado la normativa de la Unión Europea como referencia 
+al analizar el proyecto original, por lo que entendía que muchos tenían como base ese 
+modelo.
+Se refirió a la evolución de la regulación europea, señalando que, en un principio, 
+esta presentaba bastantes similitudes con el enfoque adoptado en Chile. No obstante, 
+destacó que en una segunda instancia se habían introducido prohibiciones que modificaban 
+ciertos términos y conceptos.
+Asimismo, comparó ambos enfoques y resaltó que el Ejecutivo chileno se había 
+extendido más ampliamente en la protección de grupos vulnerables, mientras que la 
+normativa europea solo hacía referencia a grupos específicos dentro de la sociedad. Explicó 
+que la regulación europea ponía el énfasis en la generación de daño, especialmente en el 
+concepto de “daño significativo”, mientras que en la propuesta chilena se hablaba de alterar 
+sustancialmente el comportamiento de una persona o limitar su voluntad, vulnerando 
+derechos fundamentales y/o provocando perjuicios.
+Ante esta diferencia, el diputado Lagomarsino planteó una pregunta al Ejecutivo: ¿A 
+qué se debía este cambio de enfoque o giro en la normativa? Buscaba comprender las
+15
+--- PÁGINA 16 ---
+razones detrás de la transición desde un concepto centrado en el daño hacia uno basado 
+en la alteración del comportamiento y la vulneración de derechos fundamentales.
+La señora Camila Aguayo quiso responder al diputado Tomás Lagomarsino y 
+aportar un comentario en relación con su planteamiento.
+Sostuvo que, si bien desde el Ejecutivo se había tomado en cuenta la legislación 
+comparada, también se había procurado extraer aprendizajes de las problemáticas y 
+dificultades que enfrentaron regulaciones previas que, en su momento, fueron demasiado 
+restrictivas. Admitió que regular una tecnología en constante evolución representaba un 
+gran desafío y, por ello, se había buscado establecer un marco normativo lo suficientemente 
+amplio para garantizar certeza jurídica en la industria, fomentar la innovación y, al mismo 
+tiempo, proteger las garantías fundamentales de todas las personas.
+La señora Aguayo destacó que el debate sobre cuánto se alineaba el proyecto de 
+ley con normativas internacionales era relevante, pero enfatizó que la interoperabilidad con 
+esas regulaciones no debía implicar la repetición de sus limitaciones. Enfatizó que Chile 
+buscaba ser pionero en esta materia no solo por el hecho de liderar la regulación, sino 
+también por su enfoque en el fomento de la innovación.
+Respecto de la interrogante concreta planteada por el diputado Lagomarsino, 
+aseveró que para el Ejecutivo era fundamental garantizar dos aspectos clave: la protección 
+de los derechos fundamentales y la regulación de los sistemas de inteligencia artificial que 
+pudieran influir en la voluntad y el comportamiento de las personas. Como ejemplo, 
+mencionó el uso de inteligencia artificial en el ámbito de recursos humanos y relaciones 
+laborales, donde algunos sistemas podían alterar la voluntad de los trabajadores y 
+trabajadoras, influyendo en su comportamiento.
+La diputada Paula Labra cuestionó a la asesora legislativa, manifestando que 
+comprendía el ejemplo expuesto, pero que no lograba entender cómo un sistema de 
+inteligencia artificial en el área de recursos humanos podía utilizar una característica de una 
+persona para alterar sustancialmente su comportamiento.
+Además, insistió en que estas definiciones podían llevar a la prohibición de ciertos 
+sistemas, por lo que consideraba necesario revisar el lenguaje utilizado. Aclaró que estaba 
+de acuerdo con la prohibición de sistemas que explotaran características de las personas y 
+vulneraran sus derechos fundamentales. No obstante, expresó dudas sobre el concepto de 
+comportamientos dañinos y cómo un sistema de IA podía de verdad alterar sustancialmente 
+el comportamiento de una persona.
+Para reforzar su punto, reiteró su solicitud de un ejemplo más claro y específico. 
+Explicó que entendía cómo ciertos sistemas de inteligencia artificial podían sesgar la 
+selección de personal en función de edad, orientación sexual u otros factores, vulnerando 
+derechos fundamentales. Sin embargo, para la diputada esto no era lo mismo que alterar 
+el comportamiento de manera sustancial y que esa distinción debía quedar bien definida en 
+la normativa.
+La diputada Érika Olivera, Presidenta accidental, pidió a la Comisión votar la 
+indicación 22B, literal b).
+Puesta en votación, la indicación fue aprobada por mayoría, con los votos a favor 
+de las diputadas Helia Molina, Érika Olivera y Marcela Riquelme. Votó en contra la diputada 
+Paula Labra. Se abstuvo el diputado Tomás Lagomarsino (3-1-1).
+Letra c)
+La señora María Soledad Fredes, Secretaria, informó que correspondía proceder 
+con la votación del literal c) del artículo 6, en los términos que propone la indicación 22 B, 
+y dio lectura a su contenido, que es del siguiente tenor:
+“c) Categorización de personas basadas en datos personales sensibles: sistemas 
+de categorización biométrica u otras técnicas de tratamiento de datos que clasifiquen e 
+identifiquen a personas naturales con arreglo a datos personales sensibles, o que partan 
+de la base de una inferencia respecto a dichos atributos o características, de modo tal que 
+dicha categorización provoque una discriminación ilegal o arbitraria.
+16
+--- PÁGINA 17 ---
+Esta prohibición no se aplicará a los sistemas de IA destinados a ser utilizados para 
+fines terapéuticos autorizados sobre la base de un consentimiento informado, específico y 
+expreso de las personas naturales expuestas a ellos o, en su caso, de su representante 
+legal o judicial, además de la autorización sanitaria respectiva, de ser procedente.”.
+La señora Paloma Herrera explicó que la indicación propuesta tenía como objetivo 
+evitar la categorización de personas en función de datos sensibles, como información de 
+salud o características personales, pues podrían dar lugar a discriminaciones ilegales o 
+arbitrarias.
+Destacó que existía un riesgo elevado de que ese tipo de discriminación ocurriera a 
+causa del uso masivo de los sistemas de inteligencia artificial y su capacidad de clasificar 
+a individuos.
+Para ilustrar lo anterior, la asesora mencionó el caso de una clasificación basada en 
+personas con VIH, donde no se cumplieran los principios de consentimiento informado. 
+Advirtió que, si dicha información se hiciera pública, podría ser utilizada por empresas para 
+decidir, por ejemplo, la concesión o denegación de seguros de salud, lo que estaría 
+expresamente prohibido por la normativa.
+La señora Herrera concluyó que ese era el propósito central de la indicación que 
+recae en el literal c) del proyecto de ley.
+El diputado Tomás Lagomarsino solicitó que la votación del literal c) se realizara 
+de manera separada, dividiendo el proceso entre el primer y segundo párrafo.
+La diputada Érika Olivera, Presidenta accidental, acogió la solicitud del diputado 
+Tomás Lagomarsino y anunció que la votación del literal c) se llevaría a cabo de manera 
+separada. Acto seguido, puso en votación el primer párrafo.
+Puesto en votación, el primer párrafo fue aprobado por unanimidad, con los votos 
+a favor de las diputadas Paula Labra, Helia Molina, Érika Olivera y Marcela Riquelme y del 
+diputado Tomás Lagomarsino (5-0-0).
+Enseguida, la Presidenta sometió a votación el segundo párrafo del literal c) del 
+artículo 6, en los términos propuestos en la indicación 22 B.
+Puesto en votación, el párrafo fue aprobado por mayoría, con los votos a favor de 
+las diputadas Paula Labra, Helia Molina y Marcela Riquelme. Votó en contra el diputado 
+Tomás Lagomarsino. Se abstuvo la diputada Érika Olivera (3-1-1).
+Letra d)
+La señora María Soledad Fredes, Secretaria, anunció que correspondía proceder 
+con la votación el literal d) en los términos propuestos en la indicación 22 B, del Ejecutivo, 
+que es del siguiente tenor.
+“d) Calificación social genérica: sistemas de IA que tienen por finalidad evaluar o 
+clasificar a personas o grupos de personas naturales en función de su comportamiento 
+social, su nivel socioeconómico o sus características personales o de personalidad 
+conocidas o inferidas, de modo tal que su calificación resultante provoque una 
+discriminación ilegal o arbitraria sobre dichas personas o grupos de personas.”.
+La diputada Paula Labra expresó que consideraba muy pertinente la indicación en 
+discusión. Sin embargo, manifestó una duda sobre si su contenido no resultaba similar al 
+del literal b), dado que también abordaba características que podrían vulnerar derechos. 
+Ante esta inquietud, solicitó una aclaración por parte del Ejecutivo.
+La señora Paloma Herrera señaló que el literal d) hacía referencia a la calificación, 
+es decir, al proceso mediante el cual un operador de inteligencia artificial clasifica a 
+personas o grupos en función de características conocidas o inferidas, lo que podría derivar 
+en un trato discriminatorio ilegal o arbitrario.
+La asesora ejemplificó que, en estos casos, la calificación realizada por un operador 
+podría afectar a una persona en la obtención de un determinado resultado o beneficio, como 
+la concesión de un servicio o derecho.
+17
+--- PÁGINA 18 ---
+En contraste, explicó que el literal b) abordaba la explotación de características; 
+concepto diferente que hacía referencia a situaciones en las que un operador se aprovecha 
+de ciertas particularidades de las personas, sin que necesariamente se trate de una 
+clasificación que determine el acceso a un beneficio.
+Destacó que esta explotación estaba dirigida a grupos más específicos y no 
+dependía de la existencia de un resultado o beneficio, como sí ocurría en la calificación 
+social contemplada en el literal d).
+Finalmente, subrayó que la explotación de características establecidas en el literal 
+b) eran reprochables, independientemente de si existía o no una calificación.
+Puesta en votación, la indicación fue aprobada por unanimidad, con los votos a 
+favor de las diputadas Paula Labra, Helia Molina, Érika Olivera y Marcela Riquelme y del 
+diputado Tomás Lagomarsino (5-0-0).
+Letra e)
+La señora María Soledad Fredes, Secretaria, informó que correspondía proceder 
+con la votación del literal e) del artículo 6, en los términos propuestos en la indicación del 
+Ejecutivo, que es del siguiente tenor:
+“e) Identificación biométrica remota en espacios de acceso público en tiempo real: 
+sistemas de IA utilizados para el análisis de imágenes de vídeo en espacios de acceso 
+público que emplean sistemas de identificación biométrica remota en tiempo real.
+Esta prohibición no será aplicable en caso de que el sistema de IA sea utilizado 
+estrictamente por las autoridades y órganos encargados de la seguridad pública y 
+organismos de persecución penal, con el objetivo de prevenir, investigar, detectar y, 
+eventualmente, ejecutar sanciones penales, incluidas la protección y prevención frente a 
+amenazas para la seguridad pública, de conformidad con la ley.”.
+La diputada Paula Labra mencionó que el texto indicaba que la prohibición no sería 
+aplicable a autoridades y órganos encargados de la seguridad pública. Ante esto, preguntó 
+si la excepción aplicaba exclusivamente a organismos del Estado o si también podría 
+extenderse a entidades privadas dedicadas a la seguridad pública.
+La señora Paloma Herrera afirmó que en ese caso se aplicaría la excepción 
+habilitada por los organismos del Estado.
+La diputada Marcela Riquelme preguntó qué implicaba, en tiempo real, la 
+identificación biométrica para el ingreso de los trabajadores autorizados por la Dirección del 
+Trabajo.
+El diputado Tomás Lagomarsino explicó que la identificación biométrica en tiempo 
+real consistía en que todas las cámaras de las vías públicas identificaban y almacenaban 
+la ubicación de las personas a cada momento. Por ejemplo, mencionó que, si las cámaras 
+del Congreso contaran con identificación biométrica, se registraría automáticamente el paso 
+de una persona por una sala o un pasillo, quedando dicha información almacenada.
+La diputada Paula Labra expresó su preocupación ante el creciente problema de la 
+seguridad y la delincuencia, afirmando que dicha situación estaba fuera del control 
+exclusivo de la administración del Estado. En este sentido, manifestó que se estaba 
+impulsando un proyecto de ley para involucrar a los privados en la seguridad pública y 
+sostuvo que excluir a estos actores constituía un grave error, pues era necesario disponer 
+de todas las herramientas para prevenir la delincuencia.
+El diputado Tomás Lagomarsino sostuvo que la prohibición de la identificación 
+biométrica en tiempo real debería aplicarse de manera absoluta en bienes nacionales de 
+uso público, como calles y plazas. No obstante, indicó que era necesario profundizar la 
+discusión sobre su aplicación en bienes privados de acceso público.
+La señora Paloma Herrera aclaró que la excepción no se extendía a los privados, 
+ya que estaba destinada exclusivamente a los órganos y a las autoridades encargadas de 
+prevenir, investigar, detectar y sancionar penalmente, funciones inherentes a los 
+organismos públicos.
+18
+--- PÁGINA 19 ---
+La diputada Paula Labra reiteró su preocupación y cuestionó si, pese a que la 
+excepción se aplicaba únicamente a los órganos del Estado, una empresa privada de 
+seguridad podría beneficiarse de ella. Argumentó que, si bien era esencial resguardar el 
+uso de los datos personales conforme a lo que dispone la ley sobre protección de datos, en 
+materia de seguridad no se debería limitar la participación de los privados, por lo cual solicitó 
+una discusión más extensa sobre el tema.
+El diputado Tomás Lagomarsino propuso ingresar una indicación para sustituir la 
+expresión “espacios de acceso público” por “bienes nacionales de uso público”, a fin de 
+precisar el alcance normativo.
+La diputada Érika Olivera, Presidenta accidental, manifestó su intención de que 
+el proceso se desarrollara de manera democrática y que se alcanzara un acuerdo para el 
+avance del proyecto en beneficio de todos.
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 19:35 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+19

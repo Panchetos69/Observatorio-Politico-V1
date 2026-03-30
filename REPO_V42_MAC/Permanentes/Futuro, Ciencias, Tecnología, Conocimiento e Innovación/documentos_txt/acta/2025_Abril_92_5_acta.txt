@@ -1,0 +1,539 @@
+======================================================================
+FUENTE   : https://www.camara.cl/verDoc.aspx?prmID=20770&prmTipo=DOCUMENTO_COMISIONSESIONACTA
+TIPO     : PDF
+TITULO   : 
+AUTOR    : 
+EXTRAIDO : 2026-03-29 07:33:45
+======================================================================
+
+--- PÁGINA 1 ---
+SESIÓN 92°, ESPECIAL, DE LA COMISIÓN DE FUTURO, CIENCIAS, 
+TECNOLOGÍA, CONOCIMIENTO E INNOVACIÓN CORRESPONDIENTE A LA 
+373ª LEGISLATURA, CELEBRADA EL DÍA MIÉRCOLES 09 DE ABRIL 2025, DE 
+08:37 A 09:38 HORAS.
+SUMARIO: 
+Se continuó con la votación en particular del proyecto de 
+ley que regula los sistemas de inteligencia artificial 
+(boletín Nº 16821-19 y Nº 15869-19, refundidos), en primer 
+trámite constitucional, con urgencia calificada de 
+“suma”.
+I.- PRESIDENCIA
+Presidió la sesión, la diputada Érika Olivera (Presidenta Accidental), actuó como 
+Abogada Secretaria de la Comisión, la señora María Soledad Fredes Ruiz, como Abogada 
+Ayudante, la señora María Jesús Serey Sardá y como secretaria ejecutiva, la señora 
+Teresita Sandoval Lagos.
+II.- ASISTENCIA
+Asistieron las diputadas integrantes de la Comisión, señoras Marta Bravo, Paula 
+Labra, Erika Olivera y Marcela Riquelme, y los diputados integrantes de la Comisión, 
+señores Johannes Kaiser, Tomás Lagomarsino y Hernán Palma. Participó, además, el 
+diputado Jaime Sáez.
+Concurrieron para la orden del día, las asesoras legislativas del Ministerio de 
+Ciencia, Tecnología, Conocimiento e Innovación, Camila Aguayo y Paloma Herrera.
+III.- ACTAS
+El acta de la sesión 89ª se declaró reglamentariamente aprobada.
+IV.- CUENTA
+Se recibieron los siguientes documentos:
+1.- Oficio de S.E. el Presidente de la República, mediante el cual hace presente la 
+urgencia calificada de "suma" para el despacho del proyecto de ley que regula los sistemas 
+de inteligencia artificial, la robótica y las tecnologías conexas, en sus distintos ámbitos de 
+aplicación (boletín N° 15869-19 y N° 16821-19, refundidos).
+A sus antecedentes
+2.- Comunicación de la Jefa de la Bancada de Diputados PPD, a través de la cual 
+informa que la diputada Helia Molina será reemplazada, en esta sesión, por la diputada 
+Camila Musante.
+Se tuvo presente
+3.- Comunicación suscrita por la diputada Helia Molina y el diputado Daniel Lilayu, 
+por la que informan que han acordado pareo para la presente sesión.
+Se tuvo presente
+4.- Correo electrónico de la oficina del diputado Rubén Oyarzo, a través del cual se 
+justifica la inasistencia del diputado a esta sesión, por invitación de la Presidencia de la 
+República.
+Se tomó conocimiento
+5.- Oficio N° 7812 del Director General del Consejo para la Transparencia, mediante 
+el cual remite propuestas de perfeccionamiento normativo de ese Consejo para su 
+consideración, en el marco de la tramitación legislativa del proyecto de ley que regula los 
+sistemas de inteligencia artificial (boletines Nº 16821-19 y Nº 15869-19, refundidos), las que
+1
+Firmado por María Soledad Fredes Ruiz
+Fecha 15/04/2025 15:32:55 CLT
+Firmado electrónicamente
+https://extranet.camara.cl/verificardoc
+Código de verificación: C51B1CCF69FAFE7C
+--- PÁGINA 2 ---
+asimismo -señala- han sido remitidas a la Ministra de Ciencia, Tecnología, Conocimiento e 
+Innovación.
+Se tomó conocimiento
+V.- ACUERDOS
+Se acordó oficiar al Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, 
+a fin de que remita a esta Comisión los avances y estado de cumplimiento de la Política 
+Nacional de Inteligencia Artificial.
+VI.- ORDEN DEL DÍA
+Se continuó con la votación en particular del proyecto de ley que regula los sistemas 
+de inteligencia artificial (boletín Nº 16821-19 y Nº 15869-19, refundidos).
+Artículo 12
+Artículo 12.- Obligaciones de transparencia en sistemas de IA de riesgo limitado. 
+Los proveedores e implementadores procurarán que los sistemas de IA de riesgo limitado 
+estén diseñados y desarrollados de forma que el sistema de IA, el propio proveedor o el 
+usuario informen de manera clara, inteligible y oportuna a dichas personas naturales 
+expuestas a un sistema de IA de que están interactuando con un sistema de IA, excepto en 
+las situaciones en las que esto resulte evidente debido a las circunstancias y al contexto de 
+utilización.
+Con todo, este deber no se aplicará a los sistemas de IA autorizados por la ley para 
+fines de detección, prevención, investigación o enjuiciamiento penal, salvo que estos 
+sistemas estén a disposición del público para denunciar ilícitos de carácter penal.
+Indicaciones:
+42 A) del Ejecutivo para reemplazar el inciso primero del artículo 12, que ha pasado 
+a ser 11, por el siguiente:
+“Artículo 11.- Obligaciones de transparencia y explicabilidad en el uso de sistemas 
+de IA de riesgo limitado. Los operadores procurarán que los sistemas de IA de riesgo 
+limitado informen de manera clara, inteligible y oportuna a las personas que están 
+interactuando con un sistema de IA, excepto en las situaciones en las que esto resulte 
+evidente debido a las circunstancias y al contexto de utilización.”.
+42) De la diputada Paula Labra para eliminar el artículo 12.
+43) Del diputado Johannes Kaiser para sustituir su inciso primero por el siguiente:
+“Obligaciones de transparencia en uso de sistemas de IA de riesgo limitado. Los 
+proveedores e implementadores procurarán que los sistemas de IA de riesgo limitado estén 
+diseñados y desarrollados de forma que el sistema de IA, el propio proveedor o el usuario 
+informen de manera clara, inteligible y oportuna a dichas personas naturales expuestas a 
+un sistema de IA de que están interactuando con un sistema de IA, excepto en las 
+situaciones en las que esto resulte evidente debido a las circunstancias y al contexto de 
+utilización o en virtud de la finalidad de su uso la persona prefiera no saberlo, por ejemplo 
+en el caso de un diagnóstico médico.”.
+El diputado Johannes Kaiser retiró su indicación y propuso que se votara de 
+inmediato el artículo, pues existía consenso en que no era necesario y, si se rechazaba, no 
+procedían las indicaciones.
+La señora Paloma Herrera, asesora legislativa del Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación, señaló que, tras la aprobación de la indicación 
+40 B) del Ejecutivo al artículo 11, se consagró la obligación de garantizar condiciones de 
+transparencia y de explicabilidad.
+Por lo tanto, dijo que apoyaba la idea de eliminar el artículo 12, pues resulta 
+redundante.
+2
+--- PÁGINA 3 ---
+La diputada Érika Olivera, Presidenta accidental, informó que, pese a que el 
+diputado Kaiser había retirado su indicación, igual se debía votar el artículo.
+La diputada Paula Labra consideró pertinente y coherente la eliminación del 
+artículo; sin embargo, dijo que el segundo párrafo es muy relevante, porque precisa que lo 
+mencionado en el artículo anterior, el artículo 11, que ha pasado a ser 10, no aplicaría a los 
+sistemas de inteligencia artificial autorizados por ley para fines de seguridad. Argumentó 
+que esto es crucial, ya que la transparencia y la explicabilidad son temas complicados en 
+cuestiones de seguridad.
+La diputada Érika Olivera, Presidenta accidental, puso en votación el artículo 12.
+Puesto en votación, el artículo fue rechazado por mayoría de votos. Votaron en 
+contra las diputadas Érika Olivera y Marcela Riquelme, y los diputados Johannes Kaiser, 
+Tomás Lagomarsino y Hernán Palma. Se abstuvo la diputada Paula Labra (0-5-1).
+Artículos nuevos
+Indicaciones:
+44) Del diputado Aedo para incorporar un nuevo artículo 12 bis al proyecto con el 
+siguiente tenor:
+“Artículo 12 bis. Obligaciones de transparencia en determinados sistemas de IA. 
+Todo proveedor de sistema de IA, entre los que se incluyen los sistemas de IA sin riesgo 
+evidente, que generen contenido sintético de audio, imagen, vídeo o texto, velarán por que 
+los resultados de salida del sistema de IA estén marcados en un formato legible por 
+máquina y que sea posible detectar que han sido generados o manipulados de manera 
+artificial. Los proveedores velarán por que sus soluciones técnicas sean eficaces e 
+interoperables, teniendo en cuenta las particularidades y limitaciones de los diversos tipos 
+de contenidos, los costos de aplicación y el estado actual de la técnica generalmente 
+reconocido.”.
+44 bis) De las diputadas Marta González y Natalie Castillo y del diputado 
+Ramírez para incorporar un artículo 12 bis nuevo del siguiente tenor:
+“Artículo 12 bis. Obligaciones de transparencia en determinados sistemas de IA. 
+Todo proveedor de sistema de IA, entre los que se incluyen los sistemas de IA sin riesgo 
+evidente, que generen contenido sintético de audio, imagen, vídeo o texto, velarán por que 
+los resultados de salida del sistema de IA estén marcados en un formato legible por 
+máquina y que sea posible detectar que han sido generados o manipulados de manera 
+artificial. Los proveedores velarán por que sus soluciones técnicas sean eficaces e 
+interoperables, teniendo en cuenta las particularidades y limitaciones de los diversos tipos 
+de contenido, los costos de aplicación y el estado actual de la técnica generalmente 
+reconocido.”.
+La diputada Érika Olivera, Presidenta accidental, puso en votación conjunta las 
+indicaciones 44 y 44 bis, ya que se trata del mismo contenido.
+Puestas en votación, las indicaciones fueron rechazadas por mayoría de votos. 
+Votó a favor el diputado Tomás Lagomarsino. Votaron en contra las diputadas Paula Labra 
+y Marcela Riquelme, y los diputados Johannes Kaiser y Hernán Palma. Se abstuvo la 
+diputada Érika Olivera (1-4-1).
+El diputado Tomás Lagomarsino explicó que, en el contexto del artículo 8, no se 
+previó que, al aprobarse la indicación del Ejecutivo, se caería una indicación de su autoría. 
+Advirtió que esa indicación no debió haber sido rechazada, ya que su contenido no es 
+incompatible con el texto aprobado del Ejecutivo.
+Por esta razón, manifestó su intención de renovar dicha indicación en el artículo 12 
+que se estaba discutiendo. Aclaró que la indicación estaba dirigida al artículo 8 
+originalmente, pero ahora la integraría en el artículo 12 bis o en la numeración que 
+eventualmente lo reemplace.
+44 ter) Del diputado Lagomarsino para incorporar un nuevo artículo 12 del 
+siguiente tenor:
+3
+--- PÁGINA 4 ---
+“Tratándose de sistemas de lA que utilicen contenidos protegidos por derechos de 
+autor y conexos, deberán elaborar y poner a disposición de sus titulares, o de terceros con 
+intereses legítimos, todos los datos que se hayan utilizado para entrenar el sistema de lA 
+en un formato accesible y de forma gratuita, clara y precisa; teniendo en cuenta las 
+particularidades y limitaciones de los diversos tipos de contenidos, los costos de aplicación 
+y el estado actual de la técnica generalmente reconocidos.”.
+El diputado Tomás Lagomarsino comentó que durante la última semana distrital, 
+muchos fueron testigos del fenómeno ocurrido en torno a la herramienta de ChatGPT para 
+crear imágenes con el estilo de Studio Ghibli. Señaló que varios de los presentes realizaron 
+sus propias ilustraciones y utilizaron abundante agua, aunque aclaró que ese no era el foco 
+de la discusión.
+En esa línea, explicó que el objetivo de su propuesta es resguardar los derechos de 
+autor que podrían verse comprometidos por el uso de este tipo de inteligencia artificial. 
+Enfatizó que, para que los titulares de derechos de autor y conexos puedan recurrir a las 
+instancias respectivas, necesitan acceder a información que no está disponible fácilmente, 
+debido a la falta de transparencia por parte de quienes desarrollan estos sistemas.
+Según detalló, la indicación busca poner en manos de los titulares de derechos los 
+datos utilizados para entrenar la inteligencia artificial. Como ejemplo, mencionó que el 
+modelo de ChatGPT debió usar numerosas imágenes de esa productora para generar 
+imágenes con estilo Ghibli, lo cual justifica la necesidad de acceso a dicha información.
+El diputado Johannes Kaiser sostuvo que la propuesta es técnicamente inviable, 
+ya que, al funcionar la IA de manera automatizada, exigir un sistema de respaldo paralelo 
+que almacene el material utilizado resulta impracticable.
+Señaló que la norma obliga a presentar los datos empleados en el entrenamiento 
+de estos sistemas de forma accesible, gratuita, clara y precisa a los titulares de derechos 
+de autor. Sin embargo, advirtió que identificar a dichos titulares no siempre es posible, 
+porque en muchos casos se desconoce quiénes son. Además, consideró problemático que 
+la indicación también contemple entregar esa información a terceros con intereses 
+legítimos.
+La diputada Paula Labra intervino para preguntarle al diputado Tomás Lagomarsino 
+cómo se relacionaba la norma que propuso con la Ley de Propiedad Intelectual, 
+específicamente en lo referido a la protección de los derechos de autor.
+El diputado Tomás Lagomarsino explicó que la norma se vincula con dicha ley en 
+tanto ambas tratan sobre contenidos protegidos por los derechos de autor. Señaló que la 
+legislación vigente establece un registro de propiedad intelectual en el que los creadores 
+inscriben sus obras para asegurar la protección de sus derechos. Sin embargo, advirtió que 
+este proceso no es accesible para todos los autores, ya que no todos los pintores ni artistas 
+visuales logran registrar sus creaciones en el registro nacional de derechos de autor.
+Por ello, manifestó que la nueva indicación busca permitir que los propietarios de 
+derechos de autor o terceros con derechos legítimos requieran información a los 
+desarrolladores u operadores de sistemas de inteligencia artificial sobre los datos utilizados 
+para entrenar dichos sistemas en caso de que se hubieran empleado contenidos 
+protegidos. Aclaró que este requerimiento debe estar justificado y fundado, descartando 
+que se trate de una exigencia arbitraria, trivial o ilimitada, como lo sugirió el diputado Kaiser.
+Subrayó que el objetivo de la medida es que cuando un propietario de derechos de 
+autor perciba una transgresión a sus derechos cuente con la información necesaria para 
+ejercer acciones legales que le permitan restablecer el dominio sobre sus creaciones.
+El diputado Johannes Kaiser respondió al debate señalando que, a su juicio, el 
+99,5% de los derechos de autor involucrados en la materia no pertenecen a autores 
+chilenos. Por lo tanto, afirmó que esos derechos no estarían inscritos en el registro de 
+propiedad intelectual de Chile, salvo en contadas excepciones.
+Agregó que, si bien Chile cuenta con diversos tratados de libre comercio mediante 
+los cuales reconoce derechos de autor registrados en otras jurisdicciones, esto genera una 
+situación compleja. En su opinión, los operadores de sistemas de inteligencia artificial se
+4
+--- PÁGINA 5 ---
+verían obligados a decidir a quién otorgar acceso a datos que estaban protegidos por 
+derechos de autor, datos que en principio no deberían estar disponibles para nadie más 
+que sus propietarios legítimos.
+Ilustró su argumento mencionando los conflictos comunes en plataformas como 
+YouTube, donde los reclamos por derechos de autor se daban incluso en contextos de fair 
+use o uso justo. Explicó que este principio permite, por ejemplo, transformar una obra hasta 
+el punto de convertirla en algo nuevo o utilizar fragmentos breves, como un clip de noticiero 
+de 20 o 25 segundos, con fines de comentario político. Sin embargo, advirtió que no todas 
+las jurisdicciones interpretan el fair use de la misma manera.
+Destacó un problema adicional: la existencia de personas que se atribuyen 
+falsamente la propiedad de derechos de autor, lo que genera conflictos dentro del 
+ecosistema de los creadores al exigir pagos indebidos.
+Sostuvo que la norma propuesta por el diputado Lagomarsino introduciría una 
+barrera significativa y difícil de cumplir para quienes pretendan trabajar con ese tipo de 
+contenidos en Chile. Por ello, consideró más prudente esperar a que la situación se resuelva 
+en jurisdicciones más relevantes a nivel internacional en cuanto a derechos de autor antes 
+de aplicar regulaciones locales.
+El diputado Tomás Lagomarsino reconoció que, tal como lo señaló el diputado 
+Kaiser, más del 90% de los derechos de autor involucrados en estos casos eran de origen 
+extranjero. No obstante, enfatizó que es necesario enfocarse en la protección de los 
+derechos de autor de chilenos y chilenas. Señaló que, como bien indicó el diputado Kaiser, 
+estos autores nacionales se verían obligados a recurrir a tribunales en el extranjero para 
+hacer valer sus derechos, lo que resulta inviable para la mayoría de ellos.
+Afirmó que el propósito de la indicación propuesta es precisamente permitir que los 
+creadores nacionales resuelvan estas disputas ante tribunales chilenos. En ese sentido, la 
+norma busca otorgar acceso a los datos utilizados para entrenar sistemas de inteligencia 
+artificial, con el fin de que los propietarios chilenos de derechos de autor ejerzan acciones 
+legales en sede nacional.
+El diputado Johannes Kaiser replicó que, en la práctica, muchos contratos 
+relacionados con plataformas de creación o transformación de contenido establecen 
+previamente la jurisdicción en la que se resuelven posibles conflictos legales. Comentó que, 
+al aceptar participar en estas plataformas, los usuarios ya saben que, en caso de litigio, 
+este tendría lugar en jurisdicciones como Delaware o Milwaukee, por ejemplo.
+También planteó dudas sobre la viabilidad de exigir a grandes compañías que 
+hicieran accesible, clara y gratuita toda la base de datos utilizada por la inteligencia artificial, 
+la cual incluye prácticamente todo el contenido disponible en internet. Además, cuestionó 
+el concepto de “terceros con intereses legítimos”, el cual aún no estaba claramente definido 
+y expresó incertidumbre respecto de cómo se implementaría ese criterio en la práctica.
+La señora Paloma Herrera manifestó que el Ejecutivo comprende las inquietudes 
+planteadas por el diputado Lagomarsino, especialmente en lo relativo a la interacción entre 
+la propiedad intelectual y la inteligencia artificial. No obstante, advirtió que, desde la 
+experiencia del ministerio y de las conversaciones sostenidas con diversos sectores y 
+mesas de trabajo, se identificaron importantes dificultades, tanto prácticas como técnicas, 
+para implementar una norma de esa magnitud.
+Indicó que el debate sobre este tipo de regulación aún no está resuelto a nivel 
+internacional. A pesar de ello, recordó que la Comisión ya aprobó disposiciones 
+relacionadas con los derechos de autor en otros apartados del proyecto de ley. Mencionó 
+específicamente su inclusión en los artículos vinculados a los incidentes, las definiciones y 
+los principios del proyecto, donde el derecho de autor y sus derechos conexos fueron 
+reconocidos como aspectos relevantes.
+También hizo referencia al artículo 31 del proyecto, que propone una excepción en 
+materia de propiedad intelectual relacionada con el entrenamiento de datos. Expresó que, 
+dado que la inteligencia artificial depende del acceso a datos de calidad para su desarrollo, 
+es importante considerar esa necesidad en el diseño normativo.
+5
+--- PÁGINA 6 ---
+En cuanto al conocido caso de Studio Ghibli, explicó que la ley de derechos de autor 
+protege las creaciones, pero no los estilos. En ese sentido, advirtió que lo ocurrido con ese 
+caso probablemente se enmarca más en una cuestión de estilo, lo cual continúa siendo 
+objeto de discusión a nivel internacional en el contexto de la relación entre IA y derechos 
+de autor.
+Finalmente, aclaró que la propuesta normativa no busca responsabilizar al usuario 
+común de las herramientas de inteligencia artificial, sino que a los operadores del sistema, 
+es decir, a los proveedores, implementadores, representantes legales, entre otros, dejando 
+en claro que el uso que hagan los ciudadanos será regulado por las leyes vigentes 
+aplicables en cada caso.
+Puesta en votación, la indicación fue aprobada por mayoría, con los votos a favor 
+de las diputadas Érika Olivera, Marcela Riquelme, y de los diputados Tomás Lagomarsino 
+y Hernán Palma. Votaron en contra las diputadas Marta Bravo, Paula Labra y el diputado 
+Johannes Kaiser (4-3-0).
+Título V
+INCIDENTES GRAVES
+Indicación:
+45 A) Del Ejecutivo al Título V, para reemplazar el epígrafe por el siguiente: “Título 
+V: Incidentes”.
+Puesta en votación, la indicación fue aprobada por unanimidad, con los votos a 
+favor de las diputadas Marta Bravo, Paula Labra, Érika Olivera, Marcela Riquelme y de los 
+diputados Johannes Kaiser, Tomás Lagomarsino y Hernán Palma (7-0-0).
+Artículo 13
+Artículo 13.- Incidentes graves. Todo aquel que identifique un incidente grave, en 
+los términos del numeral 18 del artículo 3 de la presente ley, podrá reportarlo a la Agencia 
+encargada de la Protección de Datos Personales, quien, en el ámbito de sus competencias, 
+informará de esta circunstancia al operador con miras a que éste pueda notificar a las 
+personas afectadas por el incidente grave y, asimismo, adopte las medidas frente a 
+contingencias correspondientes. Dicha notificación se efectuará tan pronto tome 
+conocimiento del incidente, después de que el proveedor o, en su caso, el implementador 
+haya establecido un vínculo causal entre el sistema de IA y el incidente, o la posibilidad 
+razonable de que exista dicho vínculo, y, en cualquier caso, a más tardar setenta y dos 
+horas después de que el proveedor o, en su caso, el implementador tenga conocimiento de 
+dicho incidente grave.
+Una vez que hayan establecido un vínculo causal entre el sistema de IA y el 
+incidente grave, o la posibilidad razonable de que exista dicho vínculo, el operador adoptará 
+las medidas oportunas de conformidad con el artículo 9 de la presente ley.
+Indicaciones:
+45 B) Del Ejecutivo al artículo 13, que ha pasado a ser 12, para reemplazarlo por 
+el siguiente:
+“Artículo 12.- Incidentes. Todo aquel que identifique un incidente, en los términos 
+del numeral 15 del artículo 3 de la presente ley, podrá reportarlo a la Agencia de Protección 
+de Datos Personales, la que, en el ámbito de sus competencias, informará de esta 
+circunstancia al operador para que éste notifique a las personas afectadas.
+Dicha notificación se efectuará tan pronto tome conocimiento del incidente, después 
+de que el operador haya establecido un vínculo causal entre el uso del sistema de IA y el 
+incidente, o la posibilidad razonable de que exista dicho vínculo. En cualquier caso, la 
+notificación deberá realizarse a más tardar setenta y dos horas después de que el operador 
+tenga conocimiento de dicho incidente.
+Una vez que se haya establecido un vínculo causal entre el uso de un sistema de IA 
+y el incidente, o la posibilidad razonable de que exista dicho vínculo, el operador adoptará
+6
+--- PÁGINA 7 ---
+inmediatamente las medidas necesarias ya sea para desactivarlo, retirarlo del mercado o 
+suspenderlo, según corresponda.
+Cuando el incidente involucre vulnerabilidades de ciberseguridad que afecten a 
+servicios esenciales y operadores de importancia vital, según lo dispuesto en la ley N° 
+21.663, la APDP deberá notificar y coordinarse con la ANCI para su evaluación y 
+respuesta.”.
+45) De la diputada Labra al Título V, para reemplazarlo por el siguiente:
+“Título V
+INCIDENTES
+Artículo 13.- Incidentes. Todo aquel que identifique un incidente, en los términos del 
+numeral 18 del artículo 3 de la presente ley, podrá reportarlo a la Agencia encargada de la 
+Protección de Datos Personales, quien, en el ámbito de sus competencias, informará de 
+esta circunstancia al operador con miras a que éste pueda notificar a las personas afectadas 
+por el incidente y, asimismo, adopte las medidas frente a contingencias correspondientes. 
+Dicha notificación se efectuará tan pronto tome conocimiento del incidente, después de que 
+el proveedor o, en su caso, el implementador haya establecido un vínculo causal entre el 
+sistema de IA y el incidente, o la posibilidad razonable de que exista dicho vínculo, y, en 
+cualquier caso, a más tardar setenta y dos horas después de que el proveedor o, en su 
+caso, el implementador tenga conocimiento de dicho incidente.
+Una vez que hayan establecido un vínculo causal entre el sistema de IA y el 
+incidente, o la posibilidad razonable de que exista dicho vínculo, el operador adoptará las 
+medidas oportunas de conformidad con el artículo 9 de la presente ley.”.
+46) Del diputado Lagomarsino para reemplazar en el inciso primero del artículo 
+13:
+a. 
+La expresión “Todo aquel” por la expresión “Todo operador”.
+b. 
+La expresión “podrá reportarlo” por la expresión “deberá reportarlo”.
+47) Del diputado Oyarzo para incorporar un nuevo inciso segundo en el artículo 13, 
+del siguiente tenor:
+“Para materializar lo señalado en el inciso precedente, la Agencia deberá establecer 
+mecanismos de denuncia de fácil y rápido acceso.”.
+La diputada Paula Labra manifestó que su propuesta había sido formulada antes 
+de que el Ejecutivo presentara la suya. Por lo tanto, solicitó que el Ejecutivo explicara su 
+propia indicación.
+La diputada Érika Olivera, Presidenta accidental, manifestó que hay una 
+diferencia de numeración entre las indicaciones presentadas. Aclaró que una de ellas hace 
+referencia al artículo 15, mientras que la otra apunta al artículo 18.
+La señora Paloma Herrera explicó que la propuesta se originó en el marco de la 
+armonización del texto legal, especialmente tras la aprobación de definiciones previas, 
+como el cambio de “incidente grave” a “incidente”.
+Respecto del artículo 12, explicó que la indicación del Ejecutivo, la 45 B), tiene como 
+propósito mejorar el lenguaje y agregar un nuevo inciso. Este nuevo apartado se refiere a 
+los incidentes relacionados con vulnerabilidades de ciberseguridad que afecten a servicios 
+esenciales u operadores de importancia vital. En tales casos, se estipula que la Agencia de 
+Protección de Datos Personales deberá notificar y coordinarse con la Agencia Nacional de 
+Ciberseguridad (ANCI), conforme a lo establecido en la ley marco de ciberseguridad.
+Seguidamente, expresó que hay dos tipos de definiciones de incidente: uno 
+relacionado con los derechos fundamentales de las personas, que constituye el foco del 
+proyecto de ley, y otro relacionado con las infraestructuras críticas y la ciberseguridad, 
+regulado en la ley marco de ciberseguridad. Precisó que no todo incidente de 
+ciberseguridad equivale a un incidente de inteligencia artificial dentro del contexto regulado 
+por esta ley.
+7
+--- PÁGINA 8 ---
+La diputada Paula Labra anunció que retiraba su indicación, ya que el avance del 
+proyecto y las disposiciones ya aprobadas hacen que su propuesta deje de ser coherente 
+con el texto en discusión.
+En segundo lugar, emitió una crítica al proyecto presentado por el Ejecutivo, ya que, 
+si bien se basa en la legislación de la Unión Europea, se introdujeron cambios que en 
+algunos aspectos hacen la regulación más compleja. Señaló que el texto no es una copia 
+fiel y que incluso podría resultar más complicado que la legislación europea.
+Después, planteó una serie de preguntas dirigidas al Ejecutivo.
+Primero, se refirió a la inquietud sobre quién podría reportar un incidente de 
+inteligencia artificial. Según su interpretación, la norma permitirá que cualquier persona lo 
+haga, lo que, dado lo ambiguo de la definición de incidente -que incluye, por ejemplo, daños 
+graves a la salud o vulneración de derechos fundamentales-, podrá abrir espacio a 
+denuncias subjetivas o poco fundadas. En contraste, explicó que en la legislación europea 
+solo los proveedores están facultados para denunciar incidentes.
+Luego, cuestionó el procedimiento establecido en el proyecto chileno, pues la 
+agencia reportó al operador tras la denuncia, quien dispone solo de tres días, es decir, de 
+72 horas para informar a todas las personas potencialmente afectadas. Señaló que en la 
+normativa europea este plazo es de quince días, por lo que preguntó por qué se optó por 
+un sistema más estricto y exigente en este aspecto.
+La señora Camila Aguayo, asesora legislativa del Ministerio de Ciencia, 
+Tecnología, Conocimiento e Innovación, aclaró que el proyecto de ley en discusión no 
+es una copia del reglamento europeo, aunque sí recoge estándares internacionales, 
+especialmente en materia de interoperabilidad, con el objeto de facilitar el desarrollo de la 
+industria nacional de inteligencia artificial.
+En ese sentido, destacó que la iniciativa haya sido adaptada a la realidad nacional 
+y que se alinee con la política nacional de inteligencia artificial, la cual se definió como una 
+política de Estado iniciada bajo el gobierno anterior y actualizada por el actual Ejecutivo.
+A continuación, en relación con el artículo debatido, indicó que este sigue la lógica 
+de otras leyes, como la de ciberseguridad y de protección de datos, y que busca garantizar 
+una respuesta rápida y transparente ante errores en los sistemas de inteligencia artificial. 
+Asimismo, mencionó la importancia de notificar a la Agencia de Protección de Datos 
+Personales como parte de un esfuerzo de armonización legislativa.
+El diputado Tomás Lagomarsino reconoció el esfuerzo conjunto del Ejecutivo y del 
+Congreso Nacional en la elaboración del proyecto de ley y, dada la complejidad del tema, 
+valoró el trabajo realizado.
+En cuanto al artículo debatido, explicó que presentó una indicación motivada por las 
+dudas sobre si el deber de reporte recae exclusivamente en los usuarios, dejando fuera el 
+posible rol de los operadores. En consecuencia, indicó que, según lo planteado por el 
+Ejecutivo, dicha obligación podría estar contemplada en la ley de ciberseguridad.
+La diputada Paula Labra reiteró sus dudas sobre la viabilidad del plazo de 72 horas 
+para notificar incidentes. Consultó en qué estudios o con qué actores se validó dicho plazo, 
+ya que, según la experiencia comparada, su aplicabilidad resultaría cuestionable. 
+Asimismo, solicitó precisiones sobre dónde, dentro de la política nacional de inteligencia 
+artificial, se establece la necesidad de reportar este tipo de situaciones, dado que no ha 
+encontrado una mención directa al respecto.
+La señora Paloma Herrera respondió que cualquier persona que tenga 
+conocimiento razonable de un incidente puede reportarlo.
+A continuación, justificó el plazo de 72 horas y manifestó que este había sido 
+acordado técnicamente debido a la gravedad de las consecuencias que podrían derivarse 
+de fallas en los sistemas de inteligencia artificial, como daño a personas, propiedades o 
+derechos fundamentales. Afirmó que una notificación rápida permitirá a los afectados 
+adoptar medidas pertinentes y contribuirá a fortalecer la transparencia.
+8
+--- PÁGINA 9 ---
+En cuanto a la política nacional, señaló que el proyecto de ley fue elaborado 
+considerando tanto la versión original como su actualización, aunque reconoció que no 
+existe una mención específica sobre incidentes, motivo por el cual era necesario establecer 
+dicha obligación en la ley.
+La señora Camila Aguayo añadió que el Ejecutivo tiene como meta establecer una 
+gobernanza integral en materia de inteligencia artificial. Además, informó que la política 
+nacional establece 74% de avance, con un 52 % en implementación y un 22% finalizado. 
+Especificó que existen 39 medidas finalizadas y 92 en implementación, dentro de las cuales 
+se incluye el proyecto de ley en discusión.
+A continuación, recalcó que la política contemplaba ejes múltiples, no solo 
+normativos, y que su implementación involucra a diversos ministerios bajo la coordinación 
+de un consejo interministerial de inteligencia artificial. Finalmente, señaló la disposición del 
+Ejecutivo para presentar el plan de acción y las medidas implementadas en todos los 
+ministerios.
+La diputada Paula Labra reconoció los avances expuestos, pero reiteró su inquietud 
+respecto de la implementación concreta de las medidas incluidas en el eje gobernanza y 
+ética, actualizado en 2024.
+En particular, preguntó si se impulsó la actualización de leyes complementarias, 
+como la de protección de datos personales y la de seguridad; si se implementaron requisitos 
+éticos en compras públicas; si se emitió alguna circular ministerial sobre el uso ético de la 
+inteligencia artificial en el sector público y si se crearon observatorios sectoriales.
+Posteriormente, en relación con el plazo de 72 horas, reiteró que no había quedado 
+claro con qué actores del sector productivo se había consensuado. Por ello, solicitó que se 
+enviara un oficio con documentos que acrediten la ejecución de las medidas señaladas.
+La señora Camila Aguayo señaló que varias de las medidas mencionadas por la 
+diputada Labra ya estaban en curso y que el Ministerio de Ciencia contaba con un equipo 
+especializado en materia de inteligencia artificial.
+Además, informó que se había inaugurado una nueva división dentro del ministerio, 
+la de tecnologías emergentes, encargada de abordar temas como inteligencia artificial y 
+computación cuántica.
+Dicho aquello, sugirió oficiar directamente a la ministra para obtener información 
+sobre las políticas implementadas y anunció que se proporcionaría información adicional 
+cuando sesionara el Consejo Interministerial de Inteligencia Artificial.
+El diputado Tomás Lagomarsino manifestó que el Ejecutivo no respondió su 
+pregunta sobre “todo aquel”, expresión que, a su juicio, incluiría tanto a operadores como a 
+personas naturales. Además, observó que el verbo “podrá” daba carácter optativo al reporte 
+de incidentes. Consideró que el verbo correcto debería ser “deberá”.
+Luego, retiró la indicación 46, para reemplazarla por una que obliga a los operadores 
+a reportar la existencia de un incidente ante la Agencia de Protección de Datos Personales.
+46 bis) del diputado Lagomarsino para incorporar, a continuación del punto final 
+del inciso primero del artículo 13, que ha pasado a ser 12, la siguiente expresión: “En el 
+caso de que el operador identifique el incidente, el reporte a la Agencia de Protección de 
+Datos Personales será obligatorio.”.
+La diputada Érika Olivera, Presidenta accidental, coincidió con la indicación del 
+diputado Lagomarsino y pidió al Ejecutivo que diera su opinión sobre esta nueva enmienda.
+La señora Paloma Herrera explicó que se optó por dar un carácter optativo a la 
+norma, con el verbo “podrá”, ya que los operadores no siempre pueden identificar incidentes 
+por sí mismos. Además, Indicó que las vulneraciones suelen evidenciarse en los resultados, 
+siendo muchas veces detectadas por terceros, lo que justificaría no establecer una 
+obligación de reporte.
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que tomara la votación de la indicación del diputado Tomás Lagomarsino.
+9
+--- PÁGINA 10 ---
+Puesta en votación, la indicación fue rechazada por mayoría de votos. Votaron a 
+favor la diputada Érika Olivera y el diputado Tomás Lagomarsino. Votaron en contra el 
+diputado Hernán Palma y las diputadas Marta Bravo, Paula Labra y Marcela Riquelme. Se 
+abstuvo el diputado Johannes Kaiser (2-4-1).
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que tomara la votación de la indicación 45 B), del Ejecutivo.
+Puesta en votación, la indicación fue rechazada por no alcanzar el quorum de 
+aprobación. Votaron a favor los diputados Tomás Lagomarsino, Hernán Palma y la diputada 
+Marcela Riquelme. Votó en contra la diputada Paula Labra. Se abstuvieron las diputadas 
+Marta Bravo, Érika Olivera y el diputado Johannes Kaiser (3-1-3).
+La diputada Érika Olivera, Presidenta accidental, solicitó a la señora Secretaria 
+que tomara la votación del artículo 13 original del proyecto de ley.
+Puesto en votación, el artículo fue rechazado por no alcanzar el quorum de 
+aprobación. Votaron a favor los diputados Tomás Lagomarsino, Hernán Palma y la diputada 
+Marcela Riquelme. Votaron en contra las diputadas Paula Labra y Érika Olivera. Se 
+abstuvieron las diputadas Marta Bravo y el diputado Johannes Kaiser (3-2-2).
+La diputada Paula Labra solicitó que la Comisión acordara oficiar al Ejecutivo para 
+obtener el detalle del 74% de avance y cumplimiento mencionado por las asesoras 
+ministeriales respecto de la política nacional de inteligencia artificial. Expresó que sería ideal 
+contar con esa información antes de la votación del proyecto de ley, ojalá durante la próxima 
+semana.
+El diputado Tomás Lagomarsino expresó su preocupación por el rechazo del 
+artículo sobre incidentes. Advirtió que esto generaba un vacío importante. Propuso alcanzar 
+un acuerdo entre los sectores políticos para incorporar un nuevo artículo antes de que el 
+proyecto sea enviado a la Sala.
+La diputada Érika Olivera, Presidenta accidental, manifestó su inquietud por la 
+extensión y complejidad del artículo 14. En ese contexto, expresó su apoyo a la propuesta 
+del diputado Lagomarsino y coincidió en que sería útil que el Ejecutivo conversara con los 
+asesores de los distintos diputados para buscar formas de avanzar.
+La diputada Paula Labra sugirió que el artículo sobre incidentes, por motivos de 
+armonización, quede radicado en el Título VIII del proyecto. Consideró que su inclusión, en 
+aquel título, daría mayor coherencia al proyecto.
+La señora Paloma Herrera expresó su disposición a trabajar en un artículo 
+específico sobre incidentes y coincidió con la importancia de que dicho tema esté presente 
+en el proyecto. Mostró su disposición a lograr un acuerdo al respecto.
+La diputada Érika Olivera, Presidenta accidental, pidió y obtuvo el acuerdo de los 
+presentes para dar curso a la solicitud de la diputada Labra de oficiar al Ejecutivo para que 
+informe sobre el avance de la política nacional de inteligencia artificial.
+*******
+El debate habido en esta sesión queda registrado en un archivo de audio digital, 
+conforme a lo dispuesto en el artículo 256 del Reglamento de la Cámara de Diputados.
+Habiéndose cumplido el objeto de la presente sesión, se levantó a las 09:38 horas.
+MARÍA SOLEDAD FREDES RUIZ 
+Abogada Secretaria de la Comisión
+10
